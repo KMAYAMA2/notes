@@ -1,0 +1,1 @@
+[[2-1a0c1i Every polity will be publicly traded eventually just like companies and coins]]

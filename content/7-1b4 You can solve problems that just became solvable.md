@@ -1,0 +1,15 @@
+[[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
+[[7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete]]
+[[7-1d1c You can be at the edge of the newest technology]]
+[[8-1 The frontier]]
+[[8-2 Blockchains-Crypto]]
+[[8-1c4d5c Don’t be constrained by the definition of ‘apps’, ‘platforms’, and ‘people’ — because they are arbitrary (e.g., platform can be build on top of platform, apps when combined can turn into platform, etc)]]
+[[7-1a5b Ask which problem-situation is the most problematic one (conscious, inexplicit, unconscious, future, new)]]
+[[7-1a6 Great combination is being good at technology and knowing the problems that can be solved by it]]
+[[7-1a6a Successful founders see different problems]]
+[[7-1a6b Successful founders apply new technology to solve problems at edge cases]]
+
+[[7-1b4a Start with technology. Technology is knowledge. Use them as objective constraints.]]
+[[7-1b5 You can solve problems that just got created]]
+
+[[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

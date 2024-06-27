@@ -1,0 +1,2 @@
+[[8-1c3a Internet turned everyone into publisher. Crypto can turn everyone into investor.]]
+[[8-1c4 ‘Killer application’ is knowledge-technology-universality that begets reflexivity between app-platform-people by pushing people over the threshold]]

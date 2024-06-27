@@ -1,0 +1,1 @@
+Remember: [[12-1e Nothing is necessary = Everything is contingent]]

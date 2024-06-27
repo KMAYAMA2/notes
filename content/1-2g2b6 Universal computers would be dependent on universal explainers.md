@@ -1,0 +1,1 @@
+[[10-2g2e Universality of the laws of physics depends on the existence of universal explainers — people]]

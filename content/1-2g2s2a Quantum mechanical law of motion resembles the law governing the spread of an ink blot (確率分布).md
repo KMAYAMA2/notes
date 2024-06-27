@@ -1,0 +1,1 @@
+[[1-2g2s2b There is a field (or waves) in reality (i.e., in the multiverse) for every individual particle that we observe in a particular universe. Individual particle’s disturbance spread through electron field]]

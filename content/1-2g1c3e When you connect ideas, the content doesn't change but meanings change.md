@@ -1,0 +1,1 @@
+[[10-2g2c0c We don't think at the moment (we don't 'generate' ideas), our thinking is connected]]

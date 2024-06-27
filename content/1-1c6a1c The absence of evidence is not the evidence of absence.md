@@ -1,0 +1,10 @@
+[[5-2 What counts cannot be counted]]
+[[5-1b1d1 Not investing is also a form of investing]]
+[[9-2a It’s easy to convince if people don’t know you enough for what you are not]]
+[[1-1d Usually the obstacles are your own preconceived notions, and rarely the laws of physics]]
+[[1-2g1a In most cases, the new theory likely predicts the same outcome as the old ones, but that doesn’t mean we don’t need new theories because new theories give better explanations]]
+[[10-2g2e3 Abstractions seem ‘inaccessible’ to empiricism]]
+[[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
+[[10-2g2e2 Abstractions are real, and created the same way as with any other knowledge]]
+
+[[1-1c6a1d In the absence of evidence, do not assume miracles]]

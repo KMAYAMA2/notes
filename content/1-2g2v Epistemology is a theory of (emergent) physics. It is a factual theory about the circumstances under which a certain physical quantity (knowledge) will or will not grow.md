@@ -1,0 +1,1 @@
+[[1-1a4c1 Emergence is another beginning of infinity. Knowledge is based on and consists of emergent phenomena.]]

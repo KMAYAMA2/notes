@@ -1,0 +1,1 @@
+[[9-4b3e3e 'Friction and viscosity' - Give THE problem as much attention as possible. Better UI-UX often can make innovation possible because users benefit from cognitive offload.]]

@@ -1,0 +1,9 @@
+[[10-2e3 In the multiverse, snapshots do not have time stamps]]
+
+- If time in the multiverse were a sequence of moments, it would have to be possible to identify all the snapshots of space at a given moment, so as to make them into a super-snapshot (a ‘super-snapshot’ = one moment in the multiverse). 
+- Not surprisingly, it turns out that there is no way of doing that. In the multiverse, snapshots do not have ‘time stamps’. **There is no such thing as which snapshot from another universe happens ‘at the same moment’ as a particular snapshot in our universe, for that would again imply that there is an overarching framework of time, outside the multiverse, relative to which events within the multiverse happen.** 
+- There is no such framework. Therefore there is no fundamental demarcation between snapshots of other times and snapshots of other universes. This is the distinctive core of the quantum concept of time: Other times are just special cases of other universes 
+- The snapshots which we call ‘other times in our universe’ are distinguished from ‘other universes’ only from our perspective, and only in that they are especially closely related to ours by the laws of physics. They are therefore the ones of whose existence our own snapshot holds the most evidence. 
+- For that reason, we discovered them thousands of years before we discovered the rest of the multiverse, which impinges on us very weakly by comparison, through interference effects. 
+- We evolved special language constructs (past and future forms of verbs) for talking about them. We also evolved other constructs (such as ‘if … then …’ statements, and conditional and subjunctive forms of verbs) for talking about other types of snapshot, without even knowing that they exist. 
+- **We have traditionally placed these two types of snapshot – other times, and other universes – in entirely different conceptual categories. Now we see that this distinction is unnecessary.”** #categories 

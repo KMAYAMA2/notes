@@ -1,0 +1,1 @@
+[[6-3a Ownership is not just about physical-digital asset, but about yourself]]

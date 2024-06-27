@@ -1,0 +1,2 @@
+Tokens restore the vision of the internet as a decentralized network owned and controlled by its participants
+	[[6-3b4a Tokens empower individuals to become stakeholders in networks, not just participants]]

@@ -1,0 +1,1 @@
+Survivorship bias distorted and worsened

@@ -1,0 +1,1 @@
+[[7-1d1b Look for technology which haven’t gotten a lot of press yet because it’s really new from labs, or because people assume it’s “dead” although doesn’t explain why]]

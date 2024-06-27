@@ -1,0 +1,3 @@
+- If you remove the ability to buy or sell something, you remove ownership
+	- [[6-3b0b No trading means no ownership; you can't have one without the other]]
+- [[ 6-3b0c Permissionless blockchains without tokens and token trading are impossible]] #develop 

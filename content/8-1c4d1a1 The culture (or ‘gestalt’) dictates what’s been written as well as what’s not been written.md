@@ -1,0 +1,15 @@
+[[5-1b4c4a Taboos likely can offer gateways to your unconscious]]
+[[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
+[[1-1c6a1a Pay attention to what can’t be said (e.g., taboos)]]
+[[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
+[[5-2 What counts cannot be counted]]
+[[7-1a4a Growth in revenue and in user base are not the same thing.]]
+[[10-2g You can’t extract the meaning from the words only, because the explicit (seen) is built upon the inexplicit (unseen)]]
+[[10-2g5 Every invention is built up over time within culture]]
+[[10-2f3 Learning human languages is about learning its cultures]]
+[[1-1a6 To live is to live like a detective]]
+
+[[8-1c4d1a2 People only pay attention to certain parts of music, art, building, product, photo etc.]]
+
+[[10-1b6 Culture ⇒ Culturally invented symbols ⇒ Language (Culture invents things. Everyone is part of a culture. Every individual learning take place within culture. Every invention is built up over time, including language.)]]
+[[Learning human languages ≠ Learning computer languages (the latter is mere syntaxes)]]
