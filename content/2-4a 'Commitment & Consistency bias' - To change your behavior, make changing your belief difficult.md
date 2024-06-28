@@ -7,8 +7,8 @@
 		 - [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 			 - [[2-1a1a3c Belong where your desired habits are the norm]]
  - How do you make your belief such that it's hard to change? - By understanding it #develop 
-<br>
+---
 - And remember that [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying]]
-<br>
+---
 ---
 - [[9-4e1 If they are already paying for your writing, all the better, because that would lower their hurdles to pay for your product]]

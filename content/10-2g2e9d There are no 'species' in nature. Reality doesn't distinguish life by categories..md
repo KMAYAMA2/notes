@@ -5,10 +5,10 @@
 - [[1-2g2h Life is associated with a fundamental principle of physics – the Turing principle – since it is the means by which virtual reality was first realized in nature. (Life = physical embodiment of knowledge = the Turing principle)]]
 - [[10-2e9 Variants do exist in the multiverse - not in the past or in the future, but they literally do exist somewhere in the multiverse!]]
 - [[1-2g1c3a Humans have no nature and no self apart from the experiences they have united in their memories (the Buddhist notion of anatman - 'no self')]]
-<br>
+---
 - #categories
 - #develop
-<br>
+---
 **[[1-2g2r0 The Turing principle implies 梵我一如]]** #Buddhism #TheTuringPrinciple 
-<br>
+---
 - [[10-2d2e9e Evolution of 'other life-forms' must evoke the influence of human existence]]

@@ -1,11 +1,11 @@
 - [[2-1c3 'Win and help win' always outcompete]]
-<br>
+---
 - [[7-1b3d New stars rise along with the new platform]]
   - [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]] and scale from there
-<br>
+---
 - [[2-1c3 'Win and help win' always outcompete]]
   - [[7-1a2a1 絶対に勝てるところから勝っていく]]
-<br>
+---
 - [[4-1a4b2b2 History repeats and reverses]]
 - Z-cash, digital nomadism vs the States
   - Puritans vs EU
@@ -40,5 +40,5 @@
 				- および博物館・博物誌の登場 
       - 傾く歌舞伎
 				- 逸脱の勝利としての歌舞伎の伝統芸能化
-<br>
+---
 **[[12-1a2b3 Left eventually becomes the right, not ideologically but economically and systematically]]**

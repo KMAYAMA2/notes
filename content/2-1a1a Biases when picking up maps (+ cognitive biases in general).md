@@ -9,4 +9,4 @@
 - [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 - [[5-1b2a The “Doubt-Avoidance Tendency” - people want certainty-predictability-control over accuracy-reality]]
 - [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
-<br>
+---

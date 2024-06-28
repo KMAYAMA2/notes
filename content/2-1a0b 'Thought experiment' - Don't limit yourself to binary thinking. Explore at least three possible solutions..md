@@ -12,9 +12,9 @@
 - **Safeguard**: Imagine that one of the options is off the table. Take each of the options you’re considering, and one at a time, ask yourself, “What would I do if that were not possible?"
     - [[1-2g2s7c Very unlikely event certainly happens somewhere in the multiverse]]
       - [[10-2e4a There is no such thing as 'which half' would see 'heads', any more than there is an answer to the question 'which one am I']]
-<br>
+---
 - [[2-1a0b1 Do no consult your 'intuition' all the time]]
-<br>
+---
 - **Look for similar problems already solved, and try to find an analogy to your problem**
     - [[5-1b1a8b You can use analogy, but you have to explain why the analogy holds]]
 - **Restate the problem in as many ways as possible. Try to look at it from many different perspectives**
@@ -31,6 +31,6 @@
 - **The best way to solve a hard problem is by understanding the system and the principles that govern it**
     - [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 - #develop
-<br>
+---
 - #categories
 - #MentalModelsGeneral

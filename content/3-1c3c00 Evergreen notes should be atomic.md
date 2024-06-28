@@ -4,16 +4,16 @@
 - [[10-2g2e9a The contingent relation between the form and the abstract can be only realized by digital systems. Analog systems cannot do this.]]
 - [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
 - [[8-2d1b Forwardable insights can lead to network effects]]
-<br>
+---
 - [[3-1c2e0 There is no minimum idea]] #develop
   - [[3-1c3d0 Break down into mini-projects, they become more actionable because they are less scary than bigger ones]]
   - [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
   - [[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive']]
   - [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
   - [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
-<br>
 ---
-<br>
+---
+---
 - https://stephango.com/evergreen-notes
   - Atomic notes are bottom-up via links:
     - https://twitter.com/kepano/status/1628473983057408001?lang=en

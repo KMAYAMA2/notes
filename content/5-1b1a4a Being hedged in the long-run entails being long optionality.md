@@ -2,11 +2,11 @@
 - [[9-2a3a Pick up the biggest upside potential]]
 - [[9-2a3a Pick up the biggest upside potential]]
 - [[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]
-<br>
+---
 - [[5-1b1a4b The extreme version of the two-job route is dangerous, because you postpone the abductions]]
-<br>
+---
 - [[株価は時間軸と水準値の間でしか動かない。期待値と確率は違う。峻別すること。つまり、ペイオフについて考えること。]]
-<br>
+---
 - #develop
 - #multiverse
 - #Spitznagel

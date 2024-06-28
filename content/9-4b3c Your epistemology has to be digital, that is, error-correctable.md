@@ -4,5 +4,5 @@
 - [[10-2g2e9b DNA is digital system which evolves by discrete changes. If it were analog, evolution couldn’t have happened.]]
 - [[8-1a What can go digital will go digital]]
 - [[1-2f When you create better explanations, you discard the old ones]]
-<br>
+---
 - [[9-4b3d Experience can only provide you with parochial problems, but its solution often consists of some universality which can be applied elsewhere]]

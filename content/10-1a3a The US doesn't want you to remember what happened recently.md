@@ -1,8 +1,8 @@
 - [[3-1c1d0 We are overconsuming novelty (and “serendipity”) and under-consuming purpose. The first thing to look at each day should be your purpose and metrics to improve upon, not some random stories.]]
   - [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
-<br>
+---
 - [[3-1c1d5 Dashboards over newspapers]]
-<br>
+---
 - The US doesn’t and doesn't want you to look at the past
   - [[1-2b1 Power cares about its past because the former is derived from the latter]]
     - [[10-1a3 歴史は記憶の変換・記憶の創成の連続]]

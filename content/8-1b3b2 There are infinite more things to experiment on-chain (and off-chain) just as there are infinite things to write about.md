@@ -1,5 +1,5 @@
 - [[1-1a5b2 Launch means criticism. It’s an equivalent to experimental testing in science.]]
-<br>
+---
 - [[4-1a4b2b2 History repeats and reverses]]
   - Current information explosion = the Reformation
     - Remember: [[4-1a4b2a3 整理 = 意識的にすてること]]

@@ -7,6 +7,6 @@
       - [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 - [[1-1b Memes are more powerful than genes because they can out-evolve them]]
   - [[1-2g1c Memes beat genes. We will see what cannot be seen with new knowledge and new technology.]]
-<br>
+---
 - [[1-1a2e2 Languages are not innate to humans]]
-<br>
+---

@@ -1,5 +1,5 @@
 - [[3-1c3c2a Any ideas have the potential to be MORE universal (if not universal), and constraints are to be removed sooner or later because knowledge is irreversible]]
-<br>
+---
 - [[5-1b1a1b What can be universal is knowledge. But knowledge has to be instantiated by physical medium and this involves technology (e.g., pen and paper).]]
 	**[[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]**
     - [[10-2g2c1a Universality of symbols - if one specie can manipulate symbols, then that species can understand any other species who also use symbols]]

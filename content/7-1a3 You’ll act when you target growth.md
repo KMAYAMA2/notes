@@ -3,7 +3,7 @@
 - [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - [[5-2 What counts cannot be counted]]
 - [[7-1a4a Growth in revenue and in user base are not the same thing.]]
-<br>
+---
 - [[7-1a4 Optimizing for growth can lead to discovering startup ideas]]
-<br>
+---
 - [[RUL3 - “Always produce” is a good heuristic for finding the work you love]]

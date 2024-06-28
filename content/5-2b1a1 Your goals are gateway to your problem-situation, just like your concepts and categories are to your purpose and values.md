@@ -3,9 +3,9 @@
 - [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
 - [[10-2g4 Cultures and languages are reflexive]]
 - [[1-1c5 Surprises are the doors to revealing the inexplicit and the unconscious]]
-<br>
+---
 - [[5-2b1a2 When you invert, you are inverting the problem-situation itself (’why do I have this problem’)]]
-<br>
+---
 *[[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]*
 - Categories and concepts are somewhat subsidiary to the purpose and problems they serve
 - Problems themselves are also indicative of the framework (could be either explicit or inexplicit worldview) from which they arise. However, we can't construct the exact explanatory framework from the problems it created.
@@ -24,6 +24,6 @@
   - *Use categories, but don't be categorized:*
     - [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
     - [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]
-<br>
+---
 - #categories
 - #develop

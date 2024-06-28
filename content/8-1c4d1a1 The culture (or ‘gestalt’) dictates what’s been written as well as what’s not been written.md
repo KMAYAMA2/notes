@@ -8,8 +8,8 @@
 - [[10-2g5 Every invention is built up over time within culture]]
 - [[10-2f3 Learning human languages is about learning its cultures]]
 - [[1-1a6 To live is to live like a detective]]
-<br>
+---
 - [[8-1c4d1a2 People only pay attention to certain parts of music, art, building, product, photo etc.]]
-<br>
+---
 - [[10-1b6 Culture ⇒ Culturally invented symbols ⇒ Language (Culture invents things. Everyone is part of a culture. Every individual learning take place within culture. Every invention is built up over time, including language.)]]
 - [[Learning human languages ≠ Learning computer languages (the latter is mere syntaxes)]]

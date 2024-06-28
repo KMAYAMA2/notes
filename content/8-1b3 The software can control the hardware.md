@@ -3,7 +3,7 @@
     - Traditional computer: the hardware controls the software
     - Blockchains: the software is in charge
       - [[8-1b3a A blockchain takes the code seriously]]
-<br>
+---
 - [[8-1b3b When software is in charge, designers can take full advantage of the expressivity of software]]
   - [[12-1d Flexible media will surface contingency]]
     - [[8-1b3c Software is a highly plastic flexible medium and almost any economic model that can be dreamed up can be implemented in software]]
@@ -26,6 +26,6 @@
 				- [[2-1b2b1a Get your incentives right from the beginning]]
 				- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 				- [[2-1a6a Understanding incentives amounts to understanding its culture]]
-<br>
+---
 - [[8-1c2 Robotics then software (likely in that order, although not necessarily) will replace Uber, Amazon, Doordash]]
   - [[8-1c1 Potential scenario - Digital frontend + Human backend ⇒ Digital frontend + Digital backend]]

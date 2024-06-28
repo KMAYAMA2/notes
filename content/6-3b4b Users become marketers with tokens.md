@@ -1,5 +1,5 @@
 - [[6-3b1 Users become owners with tokens]]
-<br>
+---
 - When users feel a sense of ownership, they are motivated to contribute even more and spread the word. These user-evangelists are more authentic and effective than corporate marketing programs run by hired teams.
   - [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 - They win hearts and minds through blog posts, tweets, and code. 

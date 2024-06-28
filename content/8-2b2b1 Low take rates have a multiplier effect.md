@@ -2,10 +2,10 @@
 - Blockchain networks expose the high take rates of corporate networks
   - From *thick* networks to *thin* networks
     - But remember: [[6-3b3g1 Network effects also affect blockchain networks]]
-<br>
+---
 - [[8-2b2b2 Take rates + Token incentives = Economic equation for blockchain networks]]
   - [[6-3b4 Tokens are the natural asset class to provide a sensible organizational structure for networks]]
-<br>
+---
 - More control over network = More control over price (e.g., higher take rates and pricing power)
   - [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
     - [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]

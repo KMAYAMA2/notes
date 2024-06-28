@@ -1,15 +1,15 @@
 - [[11-4 Diversification can achieve what multiplicity does in the digital]]
-<br>
+---
 - [[8-1b2 Digital-physical is entwined]]
   - Ballot ≈ Wallet ≈ Foot #categories #develop
     - [[11-3a Explanation of equity market requires knowing about other parts of market. Explanation of market in general requires knowing about non-market bits.]] #develop
-<br>
+---
 - [[2-1a0c1h Small countries (or any community) must be convincing. Presidents and mayors must act like CEOs and turn their communities into startup countries-counties.]]
-<br>
+---
 - Migration is as powerful a way to change the law under which you live as election
 - ***[[RUL3 - Invert, always invert]]***
 - ***[[8-2d3a The diaspora can be (and IS) the state]]***
-<br>
+---
 - Or [[8-2d4 You can vote with time]]!
 - Businesspeople vote with money while engineers vote with time ([[5-1b4b3 Time beats timing]]) #develop 
   - [[2-1a0c1c Purpose (and curiosity) beats for-profit]]

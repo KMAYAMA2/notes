@@ -3,11 +3,11 @@
 - [[9-4b Writing generates ideas]]
 - [[9-4b3 Writing is acting]]
 - [[3-1c3d Problems should be well defined and should be actionable]]
-<br>
+---
 - [[9-2a3 Be long volatility with people]]
-<br>
+---
 - [[2-1a2 See clearly - 解像度を高める]]
-<br>
+---
 - Crazy connections?
 **If you live abductively, if you actively look for surprises, you will be able to form objectively better virtual-reality**
 - [[3-1b1b Problems encountered during projects are valuable. The harder they are the better.]]

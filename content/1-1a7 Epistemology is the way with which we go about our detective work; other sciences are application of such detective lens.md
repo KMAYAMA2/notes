@@ -1,5 +1,5 @@
 - [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
-<br>
+---
 - 1/1a7a Everything is detective/abductive:
     - Writing (you decide what to write during writing)
 	    - [[9-4b1 Writing is abduction repeated]]

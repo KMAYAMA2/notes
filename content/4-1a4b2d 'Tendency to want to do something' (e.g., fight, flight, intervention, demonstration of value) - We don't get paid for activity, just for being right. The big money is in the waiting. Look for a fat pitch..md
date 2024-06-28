@@ -9,17 +9,17 @@
   - “We don’t get paid for activity, just for being right. As to how long we’ll wait, we’ll wait indefinitely.”
     - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
       - [[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]
-<br>
+---
 - [[Don't get started]] #develop
-<br>
+---
 - [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
-<br>
+---
 - [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
   - [[5-2b2a Use LATER folder, instead of reactively watching-reading-listening, and give them time]]
     - [[2-1c1 'Comparative advantage' - If others can do it, let them]]
       - [[5-1b1a8 ‘Opportunity cost' and 'comparative advantage' must be rooted in explanations. Never use them as ad hoc criteria.]]
 				- [[2-1c2 'Specialization' - Minimizing opportunity costs maximize comparative advantages and leads to prosperity]]
-<br>
+---
 - Adopt Kissinger’s approach - simply ask “Is this your best work?"
   - [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
     - [[11-1c When investing, you have to address THE problem. You have to hedge THE risk.]]

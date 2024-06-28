@@ -5,6 +5,6 @@
     - 「究極の価値は組み合わせによって生じうる」ということを想定させた
     - United the internal differences
       - ナポレオンの登場によるナショナリズムと国民国家の勃興と並行
-<br>
+---
 - [[1-2f4 Other epistemologies are parochial because they don't fix its own errors. It's like a model that never recalibrates.]]
-<br>
+---

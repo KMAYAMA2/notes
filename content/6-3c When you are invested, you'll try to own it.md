@@ -1,5 +1,5 @@
 - #own #develop
-<br>
+---
 - Especially when the ownership itself becomes the problem:
 - Incentives
   - Origin of Web3 philosophy must mention how corporate networks started to extract value from users

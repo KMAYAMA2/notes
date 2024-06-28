@@ -1,5 +1,5 @@
 - [[2-1a0d Don't confuse the Grey Swans with the Black Swans]]
-<br>
+---
 - Counterexamples and exceptions are etically the same but emically very different
   - The former is taken seriously, while the latter is ignored 'safely'
   - The classification depends on our dark matter

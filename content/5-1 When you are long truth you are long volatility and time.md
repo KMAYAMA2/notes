@@ -5,8 +5,8 @@
 - [[9-2a3a Pick up the biggest upside potential]]
 - [[9-3 Increase surface area of luck]]
 - [[6-2 The cost effectiveness of anything addictive decreases over time. When you engage with them, you will either waste your time or money, very likely both.]]
-<br>
+---
 - [[5-1a Be nice]]
 - [[5-2 What counts cannot be counted]]
-<br>
+---
 - [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]

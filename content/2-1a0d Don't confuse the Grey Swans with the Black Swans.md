@@ -10,5 +10,5 @@
 - [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
 - [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
 - [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
-<br>
+---
 - #TheBlackSwan

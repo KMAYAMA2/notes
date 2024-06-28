@@ -3,9 +3,9 @@
 - [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
 - [[8-4 LLMs]]
 - [[3-1d4a What matters is if your tools-frameworks are universal]]
-<br>
+---
 - [[1-2f1b1 Digital system is composable]]
 - [[1-2f1c Your thinking must be digital to be mistaken, to be surprised]]
-<br>
+---
 - [[Jensen Huang - from retrieval only to retrieval plus generation]]
 - [[3-1c3b1 You don’t take notes to know where the knowledge came from (justification), but to use it in the future, to solve problems.]]

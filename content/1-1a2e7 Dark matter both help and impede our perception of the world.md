@@ -1,9 +1,9 @@
 - #develop
-<br>
+---
 - [[1-2a We perceive nothing as what it really is, but only virtually]]
 - [[3-1d1 We must start with our own peculiar constraints]]
 - [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
-<br>
+---
 - ***[[1-1a2e7b You need some form of constraints to see anything]]:***
   - [[10-2d1 The laws of physics are not necessarily to be expressed with current notation. The relation is arbitrary.]]
     - [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
@@ -16,7 +16,7 @@
     - Somewhat crazy connection:
       - [[7-1c You are not committed to any specific problem. You are committed to figuring out something no one knew before. You are committed to the unpredictable.]]
 				- [[9-4b2b1a We are free insofar as we can create knowledge]]
-<br>
+---
 *[[1-1a2e8a We see symbolically and not otherwise]]:*
 - Dark matter both help and impede our perception of the world
   - We "put things together" to form our gestalt
