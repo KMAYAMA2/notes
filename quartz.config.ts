@@ -15,7 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    // baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "kmayama2.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
