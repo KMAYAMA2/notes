@@ -37,7 +37,7 @@ export default (() => {
         {/*{cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}*/}
         
         {/* Change the width and height accordingly */}
-        <meta property="og:width" content="1500" />
+        <meta property="og:width" content="888" />
         <meta property="og:height" content="500" />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
