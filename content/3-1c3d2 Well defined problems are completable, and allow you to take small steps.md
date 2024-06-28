@@ -7,17 +7,17 @@
 - [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]
 - [[4-1a3 Each conversation has to end either a success or a failure, you have to zone-in when you are ‘friend-zoned’]]
 - [[5-1b1a4b The extreme version of the two-job route is dangerous, because you postpone the abductions]]
-
+<br>
 - [[3-1c3d2a Chasing growth ≠ Listing off projects like todo]]
 - [[3-1c3d3 When problems are so well defined, your future self might be able to solve new problems by reusing and recombining them]]
-
+<br>
 - [[RUL3 - Finish what you start, because the best work often happens in what was meant to be the final stage]]
 - [[RUL3 - Simplify the problem by deciding the “no-brainer” questions first]]
-
+<br>
 - Learn AND Make ≠ Learn THEN Make
-
+<br>
 *The point of packeting into mini projects is that it reminds you constantly of the problems you are working on, as well as the context (larger problem-situation) from which such problems (mini-projects) arise. It helps you solve the problem of what problems to solve at the same time.*
 - [[3-1c1 Learning with intent to use them in the future (i.e., performance-output-oriented) filters down information, while constantly reminding you of the very problem-situation you are trying to solve and the very purpose that comes with it.]]
 - [[5-2b1a1 Your goals are gateway to your problem-situation, just like your concepts and categories are to your purpose and values]]
-
+<br>
 - #FutureSelf

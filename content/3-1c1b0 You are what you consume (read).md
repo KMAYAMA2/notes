@@ -1,3 +1,3 @@
 - [[6-7a You are what you consume (eat)]]
-	- [[2-1a1a3b Your thinking is downstream of what you consume]]
-		- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+  - [[2-1a1a3b Your thinking is downstream of what you consume]]
+    - [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]

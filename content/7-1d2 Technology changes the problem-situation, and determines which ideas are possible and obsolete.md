@@ -5,8 +5,8 @@
 - [[3-1b1b Problems encountered during projects are valuable. The harder they are the better.]]
 - [[5-2b1a Your goals reflect your problem-situation, and as such must be criticized]]
 - [[3-1c1d2 Historic records are full of embellishment, lying, and misinterpretation. It’s mediated by many minds both conscious and unconscious.]]
-
+<br>
 - [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
 - [[7-1d3 The most valuable advantage in business is technical one]]
-
+<br>
 - [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

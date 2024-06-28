@@ -1,12 +1,12 @@
 - [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
 - [[1-1a6 To live is to live like a detective]]
 - [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
-
+<br>
 - [[9-2a3a Pick up the biggest upside potential]]
 - [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
-
+<br>
 - [[RUL3 - Any system should be measured by how much it can help with whatever its output.]]
-
+<br>
 - 登場人物を変えれば、自分のキャラも物語も変わる。なりたいキャラがいそうな場所を探す。その場所に入り込む（客になる）。一員になる（絶対に勝てるところから勝っていく）。
 - [[2-1a2 See clearly - 解像度を高める]]
 - [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]

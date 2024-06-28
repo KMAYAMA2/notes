@@ -6,5 +6,5 @@
 - 5. [[10-2e7 The common-sense concept of cause and effect makes sense because 'variants' do exist somewhere in the multiverse. Nothing necessitates causes to precede their effects.]]
 - 6. [[1-2g2b3a Both Great Simulator and all-possible-computer-programs-are-running arguments are bad explanations because computation doesn't precede physical world and its laws.]] (Contradiction with #5 is worth exploring because [[12-1e Nothing is necessary = Everything is contingent]])
 - 7. [[1-1a4b0b According to Peirce, mathematics precedes all other fields of study, and only studies imbued with a strong mathematical foundation were worthy of the label ‘science’. Mathematics cannot be derived from logic.]] (Remember: [[12-1e Nothing is necessary = Everything is contingent]])
-
+<br>
 	*Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*

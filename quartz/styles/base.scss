@@ -19,6 +19,13 @@ section {
   color: var(--darkgray);
 }
 
+// Add this CSS for paragraph spacing
+.markdown-content p {
+  margin-top: 1em; /* Space between paragraphs */
+  margin-bottom: 1em; /* Space between paragraphs */
+  line-height: 1.6; /* Line height within paragraphs */
+}
+
 .text-highlight {
   background-color: #fff23688;
   padding: 0 0.1rem;

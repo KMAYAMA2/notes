@@ -4,5 +4,5 @@
 - [[1-2g New theory is constrained in terms of what it can say, since it must either be consistent with existing theories, or contradict them but address the problems thereby raised]]
 - [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
 - [[10-2g5 Every invention is built up over time within culture]]
-
+<br>
 - #BorrowedCreativity

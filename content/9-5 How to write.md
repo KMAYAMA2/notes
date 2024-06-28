@@ -3,5 +3,5 @@
 - [[9-4b3e2 Concise explanations make it easier to criticize and combine ideas]]
 - [[9-4b3e3 The easier something is to read, the more deeply readers will engage with your ideas. Keep the friction low.]]
 - [[9-4b3e4 Write each sentence like you are talking to a friend]]
-
+<br>
 - #develop

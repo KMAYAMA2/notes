@@ -3,7 +3,5 @@
 - [[5-1b1a1c The relationship between knowledge in the abstract and technology (the physical mediator of such knowledge) is contingent]]
 - [[10-2d1 The laws of physics are not necessarily to be expressed with current notation. The relation is arbitrary.]]
 - [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
-
-
-
+<br>
 - #MentalModelsNumeracy

@@ -1,2 +1,2 @@
 - [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
-	- [[10-2g1h The best explanation of anything eventually involves universality, and therefore infinity. The reach of explanations cannot be limited by fiat.]]
+  - [[10-2g1h The best explanation of anything eventually involves universality, and therefore infinity. The reach of explanations cannot be limited by fiat.]]

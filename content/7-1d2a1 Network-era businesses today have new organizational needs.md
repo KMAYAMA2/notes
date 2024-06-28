@@ -1,7 +1,7 @@
 - [[8-1c Look for inherently digital-native areas and concepts]]
 - [[8-1d Look for inherently crypto-native areas and concepts]]
-
+<br>
 - [[7-1d2a2 Founders must be legitimate and competent. Pay attention to the selection mechanism, and be aware if otherwise.]]
 - [[7-1d2a5 Tech shapes tech]]
-
+<br>
 *"The history of economic participation is one of increasing inclusion thanks to a combination of tech and legal advances. Partnerships had small groups of owners that counted in the tens. The limited liability structure expanded ownership dramatically, to the point that public companies today have millions of shareholders. Blockchain networks, through mechanisms such as airdrops, grants, and contributor rewards, expand the circle once more. Future networks could have billions of owners. Just as industrial-era businesses had new organizational needs, so do network-era businesses today. Corporate networks bolt an old legal structure, C-corporations and LLCs and the like, onto a new network structure. This mismatch is the root cause of many of the problems with corporate networks, including their inexorable switchover from attract to extract mode and the exclusion of so many contributors from the upside of their networks. **The world needs new, digitally native ways for people to coordinate, cooperate, collaborate, compete.**"*

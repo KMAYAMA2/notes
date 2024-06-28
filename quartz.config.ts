@@ -70,6 +70,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.HardLineBreaks(), // to convert empty lines as empty lines // actually not necessary
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

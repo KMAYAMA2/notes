@@ -1,3 +1,3 @@
 - Dark matter both help and impede our perception of the world
-	- We "put things together" to form our gestalt
-		- This connecting dots = 'Emic vision'
+  - We "put things together" to form our gestalt
+    - This connecting dots = 'Emic vision'

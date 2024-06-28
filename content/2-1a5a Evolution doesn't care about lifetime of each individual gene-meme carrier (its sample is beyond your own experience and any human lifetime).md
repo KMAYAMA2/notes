@@ -3,5 +3,5 @@
 - [[10-2g2e9d There are no 'species' in nature. Reality doesn't distinguish life by categories.]]
 - [[2-1b2c 'Compounding' - Permeate across the timeline]]
 	***時間を超越する梵我一如*** ([[1-2g2r0 The Turing principle implies 梵我一如]])
-
+<br>
 - #categories

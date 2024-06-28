@@ -1,7 +1,7 @@
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-
+<br>
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
-
+<br>
 ***Time and money*** #develop #Spitznagel #Ayache 
 - [[3-1c3c3a2 Time spent doesn't mean much]]
 - [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]

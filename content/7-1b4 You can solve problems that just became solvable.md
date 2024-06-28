@@ -8,8 +8,8 @@
 - [[7-1a6 Great combination is being good at technology and knowing the problems that can be solved by it]]
 - [[7-1a6a Successful founders see different problems]]
 - [[7-1a6b Successful founders apply new technology to solve problems at edge cases]]
-
+<br>
 - [[7-1b4a Start with technology. Technology is knowledge. Use them as objective constraints.]]
 - [[7-1b5 You can solve problems that just got created]]
-
+<br>
 - [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

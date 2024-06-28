@@ -6,8 +6,8 @@
 - [[3-1d2 The problem of what problems to solve includes the problem of deciding which tools-frameworks (e.g., tech stack, writing medium, criteria, objective, goals, exercise protocols) to use and improve upon]]
 - [[3-1c2a Your mind, including the unconscious, has to know the problems you explicitly have]]
 - [[7-2 Long optionality, volatility, change]]
-
+<br>
 - [[3-1b1 Occasionally revisit the problem itself. Occasionally check in on long-term.]]
 - [[3-1c Know what your problems are]]
-
+<br>
 - [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]

@@ -3,4 +3,4 @@
 - Language is not the only tool by which we construct knowledge, values, ways of behaving. 
 - But it is the most important, even as it itself is shaped by culture.
 - Imitation is crucial. But not quite enough for cultural transmission.
-	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+  - [[10-2g1f Imitation = limitation (imitation has limitation)]]

@@ -1,10 +1,10 @@
 - [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
-	- [[3-1c3c3a2 More precisely, almost everything CAN BE made contingent]]
-
+  - [[3-1c3c3a2 More precisely, almost everything CAN BE made contingent]]
+<br>
 - [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
-
+<br>
 - [[12-1f 言葉と物事の関係性が一対である必要性はない (e.g., 二項同体)]]
-
+<br>
 ---
 - [[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans]]
 - [[1-1a2e10 There is no such thing as objective meaning]]

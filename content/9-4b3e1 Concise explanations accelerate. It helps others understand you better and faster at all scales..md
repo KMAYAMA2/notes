@@ -4,5 +4,5 @@
 - [[5-1b1b You should beget and benefit from volatility (learning)]]
 - [[9-2a3 Be long volatility with people]]
 - [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
-
+<br>
 - [[9-4b3e2 Concise explanations make it easier to criticize and combine ideas]]

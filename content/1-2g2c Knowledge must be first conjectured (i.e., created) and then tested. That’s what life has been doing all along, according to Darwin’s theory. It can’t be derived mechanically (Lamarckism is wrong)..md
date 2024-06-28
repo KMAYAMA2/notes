@@ -1,6 +1,6 @@
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[1-2g2d Knowledge is life. Life is knowledge.]]
-
+<br>
 - Crazy connections:
 - [[3-1c Know what your problems are]]
 - [[3-1c3d Problems should be well defined and should be actionable]]
