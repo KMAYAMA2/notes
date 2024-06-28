@@ -1,2 +1,2 @@
-- [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
-  - [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
+[[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
+	[[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]

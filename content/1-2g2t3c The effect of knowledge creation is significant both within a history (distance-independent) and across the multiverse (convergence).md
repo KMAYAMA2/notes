@@ -1,1 +1,1 @@
-- [[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]
+[[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]

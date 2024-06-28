@@ -1,1 +1,1 @@
-- [[7-1c1 Intuition about which hill to climb is usually better than people realize]]
+[[7-1c1 Intuition about which hill to climb is usually better than people realize]]

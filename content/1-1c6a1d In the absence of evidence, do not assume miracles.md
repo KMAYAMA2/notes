@@ -1,2 +1,2 @@
 
-- Link with probability-thinking #MentalModels
+Link with probability-thinking #MentalModels

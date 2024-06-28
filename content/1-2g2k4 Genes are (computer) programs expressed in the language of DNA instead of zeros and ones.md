@@ -1,1 +1,1 @@
-- [[1-2g2k5 Life is knowledge and expressed via DNA, and DNA is symbol. Because humans are primarily about knowledge-symbol-meaning (each implies the other), they became self-aware of DNA as symbols. That is, of its arbitrariness.]]
+[[1-2g2k5 Life is knowledge and expressed via DNA, and DNA is symbol. Because humans are primarily about knowledge-symbol-meaning (each implies the other), they became self-aware of DNA as symbols. That is, of its arbitrariness.]]

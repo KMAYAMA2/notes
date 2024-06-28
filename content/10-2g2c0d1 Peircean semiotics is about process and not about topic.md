@@ -1,4 +1,4 @@
 
-- 主題より方法
-- #categories
-- #develop
+主題より方法
+#categories 
+#develop 

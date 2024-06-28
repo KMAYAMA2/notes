@@ -1,2 +1,2 @@
-- [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
-- [[9-4b2a1e 外部性・外来性を重視すること]]
+[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[9-4b2a1e 外部性・外来性を重視すること]]

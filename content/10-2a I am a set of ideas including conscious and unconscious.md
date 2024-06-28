@@ -1,3 +1,3 @@
-- [[10-2b I cannot be fully explicated]]
----
-- [[10-1b Culture is set of ideas which affect behavior including unconscious ones like skills, expectations, and emotional preferences.]]
+[[10-2b I cannot be fully explicated]]
+
+[[10-1b Culture is set of ideas which affect behavior including unconscious ones like skills, expectations, and emotional preferences.]]

@@ -1,2 +1,2 @@
-- [[1-2a1 Our ‘direct’ experience is also virtual because its meaning is conjectured and interpreted via guesses]]
-- [[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+[[1-2a1 Our ‘direct’ experience is also virtual because its meaning is conjectured and interpreted via guesses]]
+[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]

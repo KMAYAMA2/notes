@@ -1,1 +1,1 @@
-- Remember: [[12-1e Nothing is necessary = Everything is contingent]]
+Remember: [[12-1e Nothing is necessary = Everything is contingent]]

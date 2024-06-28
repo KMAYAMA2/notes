@@ -1,2 +1,2 @@
-- [[3-1d4a What matters is if your tools-frameworks are universal]]
-- [[3-1d5 You can question the adequacy of the tools at hand insofar as it relates to some specific problems of yours. You don’t evaluate them ‘comparatively' based on its ‘utility’ without explanations.]]
+[[3-1d4a What matters is if your tools-frameworks are universal]]
+[[3-1d5 You can question the adequacy of the tools at hand insofar as it relates to some specific problems of yours. You don’t evaluate them ‘comparatively' based on its ‘utility’ without explanations.]]

@@ -1,3 +1,3 @@
 
  
-- From Naval on Vitalia City (Stranded Technologies Podcast)
+From Naval on Vitalia City (Stranded Technologies Podcast)

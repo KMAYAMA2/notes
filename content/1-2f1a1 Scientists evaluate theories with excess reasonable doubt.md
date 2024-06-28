@@ -1,1 +1,1 @@
-- [[1-2f1a2 Skepticism is how you stay being critical even when you don’t have the vocabulary to articulate your own imperfection and incompleteness because proper categories and anti-theses aren’t fully developed yet]]
+[[1-2f1a2 Skepticism is how you stay being critical even when you don’t have the vocabulary to articulate your own imperfection and incompleteness because proper categories and anti-theses aren’t fully developed yet]]

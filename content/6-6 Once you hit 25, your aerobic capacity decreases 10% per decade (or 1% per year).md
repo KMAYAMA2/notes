@@ -1,1 +1,1 @@
-- Running helped Ed Thorp being in shape
+Running helped Ed Thorp being in shape

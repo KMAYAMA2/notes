@@ -1,6 +1,6 @@
-- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
-- [[7-1b The problem and its solution doesn’t have to be addressed by the same individual]]
----
-- [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
----
-- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
+[[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
+[[7-1b The problem and its solution doesn’t have to be addressed by the same individual]]
+
+[[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
+
+[[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

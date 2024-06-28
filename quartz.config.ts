@@ -64,13 +64,13 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.HardLineBreaks(), // to convert empty lines as empty lines // actually not necessary
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-      // Plugin.HardLineBreaks(), // to convert empty lines as empty lines // actually not necessary
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

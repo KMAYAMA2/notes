@@ -1,1 +1,1 @@
-- Gmail's approach to spam filtering doesn't favor personal or small-business-owned servers already
+ Gmail's approach to spam filtering doesn't favor personal or small-business-owned servers already

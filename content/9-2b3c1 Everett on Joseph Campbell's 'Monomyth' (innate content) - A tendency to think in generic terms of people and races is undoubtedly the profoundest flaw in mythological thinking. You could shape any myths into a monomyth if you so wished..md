@@ -1,1 +1,1 @@
-- [[9-2b3c2 Everett on Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar) and the idea that the linguistics capacity were identical and innate in all humans are 'monogrammar' similar to 'monomyth']]
+[[9-2b3c2 Everett on Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar) and the idea that the linguistics capacity were identical and innate in all humans are 'monogrammar' similar to 'monomyth']]

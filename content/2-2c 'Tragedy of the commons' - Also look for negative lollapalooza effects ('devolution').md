@@ -1,1 +1,1 @@
-- [[2-2c1 If you have negative externalities, tax it]]
+[[2-2c1 If you have negative externalities, tax it]]

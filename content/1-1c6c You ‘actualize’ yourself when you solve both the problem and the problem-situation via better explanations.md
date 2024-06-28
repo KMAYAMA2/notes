@@ -1,1 +1,1 @@
-- [[1-1c6d The Fun Criterion must be used in the context of solving problems]]
+[[1-1c6d The Fun Criterion must be used in the context of solving problems]]

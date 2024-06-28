@@ -1,4 +1,4 @@
 
-- Scientific literature vs Classics
----
-- #TheBlackSwan
+Scientific literature vs Classics
+
+#TheBlackSwan
