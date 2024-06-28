@@ -1,13 +1,13 @@
-[[10-2e0 Languages are theories. The vocabulary and grammar embody substantial assertions about the world.]]
-[[10-2g4 Cultures and languages are reflexive]]
-[[10-2g1f2a Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other]]
-[[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
+- [[10-2e0 Languages are theories. The vocabulary and grammar embody substantial assertions about the world.]]
+- [[10-2g4 Cultures and languages are reflexive]]
+- [[10-2g1f2a Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other]]
+- [[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
 
-[[10-2d1d Humans are distinguished because of the syntax of their DNA (genomes)]]
-#develop 
+- [[10-2d1d Humans are distinguished because of the syntax of their DNA (genomes)]]
+- #develop
 
-'Grammar of society' #develop 
-	[[10-1c1 'Grammar of society' - Society and culture are connected and constructed in grammar-like ways. Individuals are 'fillers' for slots in a culture-grammar.]]
+- 'Grammar of society' #develop
+	- [[10-1c1 'Grammar of society' - Society and culture are connected and constructed in grammar-like ways. Individuals are 'fillers' for slots in a culture-grammar.]]
 
 - Piraha
 	- IMMEDIACY OF EXPERIENCE ⇒ No recursion
@@ -27,4 +27,4 @@
     - **[[10-1b9 Ethnogrammatical studies are to explain the linkage between nonlinguistic evidence and noncultural evidence]]**
         - **To explain how linking the two provides a conceptually and empirically superior account of the facts that leave them unconnected**
 
-[[1-2g1c3d Don't judge a book by its cover. Read the whole context instead.]]
+- [[1-2g1c3d Don't judge a book by its cover. Read the whole context instead.]]

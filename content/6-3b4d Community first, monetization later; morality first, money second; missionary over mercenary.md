@@ -1,4 +1,4 @@
-[[6-3b4c Building true communities is the best way to go viral]]
+- [[6-3b4c Building true communities is the best way to go viral]]
 
 - Farcaster
 - Gaming industries

@@ -6,4 +6,4 @@
 - [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 - [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 
-E.g., Apple Watch to Rolexes, Apple Vision Pro to monitors
+- E.g., Apple Watch to Rolexes, Apple Vision Pro to monitors

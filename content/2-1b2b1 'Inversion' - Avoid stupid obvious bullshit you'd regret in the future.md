@@ -1,10 +1,10 @@
-[[4-1a4b6a1 Future self is enough of an audience]]
-[[2-1b2c 'Compounding' - Permeate across the timeline]]
-[[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
-[[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+- [[4-1a4b6a1 Future self is enough of an audience]]
+- [[2-1b2c 'Compounding' - Permeate across the timeline]]
+- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+- [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
 
-[[2-1b2b1a Get your incentives right from the beginning]]
-[[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[2-1b2b1a Get your incentives right from the beginning]]
+- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 
 - IN LIFE
 	- ***"Wisdom is turning your future hindsight into your current foresight."***
@@ -19,4 +19,4 @@
 
 *"Sometimes the cost of being wise is that other people treat you like a fool. And no wonder: fools can’t see what wise people do. Wise people see life in all its breadth: work, health, family, friends, faith, and community. They don’t fixate on one part to the exclusion of others. They instead know how to harmonize life’s various parts, and pursue each in proportion to the whole. They know that achieving harmony in that way is what makes life meaningful, admirable, and beautiful."*
 
-#MentalModelsGeneral 
+- #MentalModelsGeneral

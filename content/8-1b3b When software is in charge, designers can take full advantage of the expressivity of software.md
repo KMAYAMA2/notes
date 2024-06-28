@@ -1,5 +1,5 @@
-[[10-2g2c1b Only humans struggle in expressing themselves - 表現しきれないというのは人間のみ]]
-[[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
+- [[10-2g2c1b Only humans struggle in expressing themselves - 表現しきれないというのは人間のみ]]
+- [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 
 - [[12-1d Flexible media will surface contingency]]
 	- ***[[8-1b3c Software is a highly plastic flexible medium and almost any economic model that can be dreamed up can be implemented in software]]***

@@ -1,1 +1,1 @@
-[[6-3b3e Everyone benefits in blockchain and protocol networks]]
+- [[6-3b3e Everyone benefits in blockchain and protocol networks]]

@@ -1,6 +1,6 @@
-#own #develop 
+- #own #develop
 
-Especially when the ownership itself becomes the problem:
+- Especially when the ownership itself becomes the problem:
 - Incentives
 	- Origin of Web3 philosophy must mention how corporate networks started to extract value from users
 		- It's either you own or don't, and either way you have to own that consequences ([[6-3a2 How you have something can (and will) matter more than what (you think) you have (e.g., DEX vs CEX - DEX will counter Maximalists movement)]])

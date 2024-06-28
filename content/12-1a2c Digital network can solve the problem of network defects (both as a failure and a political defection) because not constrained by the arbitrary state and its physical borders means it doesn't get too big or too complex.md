@@ -1,14 +1,14 @@
-[[9-2a0 The Identity Stack - To build something great means becoming someone's top primary identifier]]
-	[[2-1a0c1g No lock-in = 去る者は追わない・追えない]]
-		[[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
-			[[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
+- [[9-2a0 The Identity Stack - To build something great means becoming someone's top primary identifier]]
+	- [[2-1a0c1g No lock-in = 去る者は追わない・追えない]]
+		- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+			- [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
 
-[[6-3b2 In corporate networks you can only quit]]
+- [[6-3b2 In corporate networks you can only quit]]
 
-[[8-2b Crypto will disrupt everything because it can change how organizations are formed, monetized, and exited. It could take decades to play out.]]
+- [[8-2b Crypto will disrupt everything because it can change how organizations are formed, monetized, and exited. It could take decades to play out.]]
 
-[[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)]] #develop 
-	[[3-1c2e4.2 'Supply and demand' - Physical is getting expensive]] partly because [[5-2a3 People fight over tangibles]]
+- [[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)]] #develop
+	- [[3-1c2e4.2 'Supply and demand' - Physical is getting expensive]] partly because [[5-2a3 People fight over tangibles]]
 
 - ***[[12-1a2d Abstractions such as 'the economy' and 'the supply chain' can be realized arbitrarily well (never exhaustively)]]***
 	- Remember how "six degrees of separation" and "written history" became real with social networks

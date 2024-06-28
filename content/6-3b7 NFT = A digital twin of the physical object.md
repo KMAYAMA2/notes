@@ -13,4 +13,4 @@
 		- Identity Stack: [[Dogecoin demonstrates the power of tokens absent confounding factors]] #develop 
 
 ---
-[[6-3b8 You can't really influence legacy-analog-land from frontier-digital-cloud, nor should you.]]
+- [[6-3b8 You can't really influence legacy-analog-land from frontier-digital-cloud, nor should you.]]

@@ -27,5 +27,5 @@
 				- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 				- [[2-1a6a Understanding incentives amounts to understanding its culture]]
 
-[[8-1c2 Robotics then software (likely in that order, although not necessarily) will replace Uber, Amazon, Doordash]]
-	[[8-1c1 Potential scenario - Digital frontend + Human backend ⇒ Digital frontend + Digital backend]]
+- [[8-1c2 Robotics then software (likely in that order, although not necessarily) will replace Uber, Amazon, Doordash]]
+	- [[8-1c1 Potential scenario - Digital frontend + Human backend ⇒ Digital frontend + Digital backend]]

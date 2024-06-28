@@ -1,3 +1,3 @@
-[[1-2g3a At the limit, new theories create new problems]]
+- [[1-2g3a At the limit, new theories create new problems]]
 
-#develop 
+- #develop

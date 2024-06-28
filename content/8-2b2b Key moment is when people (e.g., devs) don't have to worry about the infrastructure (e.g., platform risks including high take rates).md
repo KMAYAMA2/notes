@@ -1,16 +1,16 @@
-[[8-2b2 The most efficient business is one with trust, or one completely without]]
+- [[8-2b2 The most efficient business is one with trust, or one completely without]]
 
-[[9-4b3e3a Interfaces should follow the principle of least astonishment]]
+- [[9-4b3e3a Interfaces should follow the principle of least astonishment]]
 
-[[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
-	[[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money.]]
+- [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
+	- [[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money.]]
 
-[[4-1a4b3a Constitution formalized the shift of national governance from individual rulers to written law]]
-	[[4-1a4b3b A blockchain constitution means an immutable topic to be discussed]]
-		[[8-1b3a A blockchain takes the code seriously]]
-			[[8-1b3d Monetary policies can come first and the currency circulation can come later (or symbiotically-simultaneously), not vice versa (i.e., bottom-up vs top-down)]]
-				E.g., Powell and BoJ
-					Key moment is when there's no worry about your currency diluting at the whim of central banks
+- [[4-1a4b3a Constitution formalized the shift of national governance from individual rulers to written law]]
+	- [[4-1a4b3b A blockchain constitution means an immutable topic to be discussed]]
+		- [[8-1b3a A blockchain takes the code seriously]]
+			- [[8-1b3d Monetary policies can come first and the currency circulation can come later (or symbiotically-simultaneously), not vice versa (i.e., bottom-up vs top-down)]]
+				- E.g., Powell and BoJ
+					- Key moment is when there's no worry about your currency diluting at the whim of central banks
 
 ***[[8-2b2b1 Low take rates have a multiplier effect]]***
 ***[[8-2b2c The iPhone (or the blockchain) moment]]***

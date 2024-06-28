@@ -1,5 +1,5 @@
-[[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+- [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
+- [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
 
 ***[[9-4b2a1d0.3 分析の本質は分節]]***
 

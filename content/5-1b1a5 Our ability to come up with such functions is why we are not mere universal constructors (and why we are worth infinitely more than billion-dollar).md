@@ -1,2 +1,2 @@
-[[5-1b1a5a Universal constructor is obedient, whereas universal explainers are disobedient (i.e., creative)]]
-[[5-1b1a6 The reality doesn’t care how many things you are good at. What matters is the explanation.]]
+- [[5-1b1a5a Universal constructor is obedient, whereas universal explainers are disobedient (i.e., creative)]]
+- [[5-1b1a6 The reality doesn’t care how many things you are good at. What matters is the explanation.]]

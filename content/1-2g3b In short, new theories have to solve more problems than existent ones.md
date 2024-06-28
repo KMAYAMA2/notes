@@ -1,1 +1,1 @@
-[[7-1b5a You can create problems. Not in the sense of causing problems, but literally creatively creating them. There are good problems and bad problems. Work on and solve good problems.]]
+- [[7-1b5a You can create problems. Not in the sense of causing problems, but literally creatively creating them. There are good problems and bad problems. Work on and solve good problems.]]

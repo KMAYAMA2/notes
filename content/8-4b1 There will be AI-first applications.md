@@ -1,6 +1,6 @@
-[[8-1a What can go digital will go digital]]
-	[[8-4b2 What can be done by AIs will be done by AIs]]
-		[[8-4b3 AI could one-box the entire internet]]
+- [[8-1a What can go digital will go digital]]
+	- [[8-4b2 What can be done by AIs will be done by AIs]]
+		- [[8-4b3 AI could one-box the entire internet]]
 - America version vs Internet version #develop 
 	- Taxi vs Uber
 	- Treasury vs BTC

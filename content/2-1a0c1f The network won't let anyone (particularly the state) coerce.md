@@ -1,7 +1,7 @@
-[[2-1a0c1g No lock-in = 去る者は追わない・追えない]]
+- [[2-1a0c1g No lock-in = 去る者は追わない・追えない]]
 
-Encryption increases the cost of state coercion + no amount of violence can solve certain kinds of math problems
-	[[7-1b4b1 Technical truth ≠ Political truth]]
+- Encryption increases the cost of state coercion + no amount of violence can solve certain kinds of math problems
+	- [[7-1b4b1 Technical truth ≠ Political truth]]
 
 - You wouldn't steal
 	- Because of God in the 1800s 

@@ -1,1 +1,1 @@
-[[1-2f1a3c A central flaw in Kantian philosophy = the doctrine that certain truths about the physical world could be ‘known a priori’ - that is to say, without doing science]]
+- [[1-2f1a3c A central flaw in Kantian philosophy = the doctrine that certain truths about the physical world could be ‘known a priori’ - that is to say, without doing science]]
