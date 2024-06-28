@@ -1,19 +1,19 @@
-https://paulgraham.com/goodtaste.html
-https://paulgraham.com/taste.html
+- https://paulgraham.com/goodtaste.html
+- https://paulgraham.com/taste.html
 
-[[8-1a What can go digital will go digital]]
+- [[8-1a What can go digital will go digital]]
 
 *Displacement!* (*Deconstruct!* *Decontextualize!* *Digitize!*)
-	[[10-1b4f Digitization implies displacement and composability]]
+	- [[10-1b4f Digitization implies displacement and composability]]
 
-[ミメシスからパロディアへ]
-	[Analog to digital]
-		[Index to icon]
-[パロディアからアナロギア] 
-	[Icon to symbol]
-		[Part to whole]? #develop 
-			[[3-1a4b1 Understand what you abstracted away]]
-				Remember: [[9-2b3c We are more different than we are alike]]
+- [ミメシスからパロディアへ]
+	- [Analog to digital]
+		- [Index to icon]
+- [パロディアからアナロギア]
+	- [Icon to symbol]
+		- [Part to whole]? #develop
+			- [[3-1a4b1 Understand what you abstracted away]]
+				- Remember: [[9-2b3c We are more different than we are alike]]
 
 - オリジナリティよりも、発展させる編集プロセスに日本らしさが発掘される
 	- 白磁のモドキとしての「志野」という逸品の誕生
