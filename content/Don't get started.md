@@ -1,1 +1,1 @@
-[[5-2c Be impatient about the things you most want to do]]
+- [[5-2c Be impatient about the things you most want to do]]

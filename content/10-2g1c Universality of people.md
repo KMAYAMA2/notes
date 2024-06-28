@@ -1,4 +1,4 @@
-The Turing principle means universality of people
+- The Turing principle means universality of people
 
-#develop 
-#Universality 
+- #develop
+- #Universality

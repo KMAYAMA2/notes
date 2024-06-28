@@ -1,1 +1,1 @@
-[[3-1c1d2 Historic records are full of embellishment, lying, and misinterpretation. It’s mediated by many minds both conscious and unconscious.]]
+- [[3-1c1d2 Historic records are full of embellishment, lying, and misinterpretation. It’s mediated by many minds both conscious and unconscious.]]

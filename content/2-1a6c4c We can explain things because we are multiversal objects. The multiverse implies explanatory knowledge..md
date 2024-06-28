@@ -1,4 +1,4 @@
 
-#Consciousness 
-#multiverse 
-#develop 
+- #Consciousness
+- #multiverse
+- #develop

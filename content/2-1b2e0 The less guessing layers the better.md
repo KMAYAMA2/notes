@@ -1,1 +1,1 @@
-Implication for hierarchical organization #develop 
+- Implication for hierarchical organization #develop

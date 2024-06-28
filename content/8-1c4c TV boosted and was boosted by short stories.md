@@ -1,3 +1,3 @@
-[[8-1c4d Web boosted and was boosted by essays]]
+- [[8-1c4d Web boosted and was boosted by essays]]
 
-#history 
+- #history

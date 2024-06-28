@@ -1,1 +1,1 @@
-[[RUL3 - Invert, always invert]]
+- [[RUL3 - Invert, always invert]]

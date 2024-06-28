@@ -1,1 +1,1 @@
-[[4-1d2 Most people love talking about themselves]]
+- [[4-1d2 Most people love talking about themselves]]
