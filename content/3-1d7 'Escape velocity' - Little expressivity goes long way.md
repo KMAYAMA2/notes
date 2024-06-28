@@ -1,8 +1,8 @@
-[[8-1b3b When software is in charge, designers can take full advantage of the expressivity of software]]
+- [[8-1b3b When software is in charge, designers can take full advantage of the expressivity of software]]
 
-[[8-2d1b Forwardable insights can lead to network effects]]
+- [[8-2d1b Forwardable insights can lead to network effects]]
 
-[[3-1d7a 'Bottlenecks' - Don't hate them. Rather, use them creatively.]]
+- [[3-1d7a 'Bottlenecks' - Don't hate them. Rather, use them creatively.]]
 ***[[3-1d8 When you have something, you can not have it. When you don't have something, you cannot have it. That's a huge difference.]]***
 - From *[[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle]]*	(*Marletto p.206*): 
 	- Classical information: *possibility* of 'flip' and 'copy' #develop 

@@ -1,8 +1,8 @@
-#own 
+- #own
 
-[[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
-	[[2-1b2b1a Get your incentives right from the beginning]]
-		[[8-1b3d Monetary policies can come first and the currency circulation can come later (or symbiotically-simultaneously), not vice versa (i.e., bottom-up vs top-down)]]
+- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-1b2b1a Get your incentives right from the beginning]]
+		- [[8-1b3d Monetary policies can come first and the currency circulation can come later (or symbiotically-simultaneously), not vice versa (i.e., bottom-up vs top-down)]]
 
 ***Don't externalize incentives***:
 - [[3-1c1d You must build your own media distribution to avoid distortion for yourself and others]]
@@ -33,8 +33,8 @@
 ***[[6-3c When you are invested, you'll try to own it]]***
 ***[[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]]***
 
-E.g., my Obsidian notes and baseball gloves
+- E.g., my Obsidian notes and baseball gloves
 - [[5-2c2b1a If you want your writing to still be readable on a computer from the 2060s or 2160s, it’s important that your notes can be read on a computer from the 1960s, for your future self]]
 
-Crazy connection:
+- Crazy connection:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]

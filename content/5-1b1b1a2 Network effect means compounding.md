@@ -1,5 +1,5 @@
-[[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
-	[[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+	- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
 
 - Network effects take small advantages and snowball them into avalanches
 	- [[6-3b3g Federated (protocol) networks have a tendency, a fundamental by-product of their architecture, to evolve into corporate networks because network effects ensure that small advantages compound to create big winners]]

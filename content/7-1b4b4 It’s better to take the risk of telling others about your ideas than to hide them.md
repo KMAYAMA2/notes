@@ -1,26 +1,26 @@
-#LearnInPublic 
+- #LearnInPublic
 
-[[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
-[[5-1b1a2 Some technology contains knowledge which can be universal. You can’t predict how people will use such technology.]]
+- [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
+- [[5-1b1a2 Some technology contains knowledge which can be universal. You can’t predict how people will use such technology.]]
 
-[[9-2a3 Be long volatility with people]]
-	[[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
+- [[9-2a3 Be long volatility with people]]
+	- [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
 
-[[9-4b2a1f Two-way debate benefits from criticism]]
-	[[9-4b2a1e 外部性・外来性を重視すること]]
+- [[9-4b2a1f Two-way debate benefits from criticism]]
+	- [[9-4b2a1e 外部性・外来性を重視すること]]
 
 ***[[7-1b4b5 Any kind of expertise is valuable, and some people will take unexpected action to capture that value such that it will be serendipitous to you]]***
 
-Ask: Are you an insurgent or an incumbent?
-	[[1-2f1b6 Volatility is good for insurgents (idiosyncratic disruptors) and bad for incumbents (legacy institutions)]]
+- Ask: Are you an insurgent or an incumbent?
+	- [[1-2f1b6 Volatility is good for insurgents (idiosyncratic disruptors) and bad for incumbents (legacy institutions)]]
 
-Related mental models #develop 
-	[[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
-	[[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+- Related mental models #develop
+	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 
-Knowledge is created individually. It can't be taken.
-	[[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
-	[[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+- Knowledge is created individually. It can't be taken.
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 
 ---
 - **[Why open source?]** 

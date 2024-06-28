@@ -1,13 +1,13 @@
 
-Dark matter consists of ineffable and unspoken. The former consists of hunches and posture preferences, while the latter include our liking certain (e.g., spicy) foods
-	Somewhat crazy connection
-		[[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
-#develop 
+- Dark matter consists of ineffable and unspoken. The former consists of hunches and posture preferences, while the latter include our liking certain (e.g., spicy) foods
+	- Somewhat crazy connection
+		- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
+- #develop
 
-意味の網目には俯瞰するのではなく絡まること
-	A case for field research
-		[[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
-		[[5-2b4b You have to keep finding surprises]]
+- 意味の網目には俯瞰するのではなく絡まること
+	- A case for field research
+		- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+		- [[5-2b4b You have to keep finding surprises]]
 
 - Pike’s _emicization_
     - The _emic_ vs. _etic_
@@ -21,6 +21,6 @@ Dark matter consists of ineffable and unspoken. The former consists of hunches a
 - Culture articulates the unconscious via emicization, learning how and that, value rankings, knowledge structures, and social relations and roles across various groups
     - What has been most emicized is most deeply unconscious by and large
         - **We have both conscious and unconscious yet the latter is also not innately structured** 
-	        [[1-1a2a2 The inexplicit and unconscious is also NOT innately structured]]
+	- [[1-1a2a2 The inexplicit and unconscious is also NOT innately structured]]
             - Doing, thinking, talking, experiencing ⇒ Interpreting those experiences ⇒ The unconscious
 

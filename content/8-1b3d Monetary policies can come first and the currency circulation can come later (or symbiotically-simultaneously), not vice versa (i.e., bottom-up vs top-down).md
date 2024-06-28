@@ -1,8 +1,8 @@
-[[11-1 Trading-Market-Finance-Investment-Speculation]]
-[[7-1a2a1 絶対に勝てるところから勝っていく]]
-[[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+- [[11-1 Trading-Market-Finance-Investment-Speculation]]
+- [[7-1a2a1 絶対に勝てるところから勝っていく]]
+- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
 
-[[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
+- [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
 - **Crypto makes macroeconomics an experimental subject**
 	- Monetary policies and the utility of central banks will be commoditized, because technically anyone can set their own monetary policies!
 		- Commoditization = Meritocratic ? #develop 
@@ -27,6 +27,6 @@
 	- E.g., long-term restriction
 		- Remember: [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 
-[[8-1b3f1 You can value tokens using traditional financial metrics (e.g., PE ratio) by studying the cash flows and burn rates of blockchain networks]]
+- [[8-1b3f1 You can value tokens using traditional financial metrics (e.g., PE ratio) by studying the cash flows and burn rates of blockchain networks]]
 
 

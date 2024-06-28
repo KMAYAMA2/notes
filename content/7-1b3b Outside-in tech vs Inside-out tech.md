@@ -1,4 +1,4 @@
-[[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]
+- [[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]
 
 - A lower bar for the fomer means the insiders will take them less seriously
 	- Barriers to entry doesn't necessarily correlate to its importance!

@@ -1,4 +1,4 @@
-[[9-2b3g Edward Sapir - 'The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined.']]
+- [[9-2b3g Edward Sapir - 'The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined.']]
 - [[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move]]
 	- Woke is similar to Nazism because they are basically doing the same thing, but with everything with negative connotation (from 'white is good' to 'white is bad')
 	- Communist pathologies profit
@@ -15,7 +15,7 @@
 			- Coins other than BTC are bad
 				- [[Legacy companies ‘pre-mine’ their shares. Otherwise effort won't result in results because the dollar sensitivity is way lower than your equity.]]
 
-[[7-1b4b1 Technical truth ≠ Political truth]]
+- [[7-1b4b1 Technical truth ≠ Political truth]]
 - BTC Maximalists are in for political, ethical, moral reasons. Not for the technology per se.
 	- They have the zeal of monotheist
 		- Zeal is the difference between selling at the low and selling never

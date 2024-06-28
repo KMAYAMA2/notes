@@ -1,12 +1,12 @@
-[[2-1c3 'Win and help win' always outcompete]]
+- [[2-1c3 'Win and help win' always outcompete]]
 
-[[7-1b3d New stars rise along with the new platform]]
-	[[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]] and scale from there
+- [[7-1b3d New stars rise along with the new platform]]
+	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]] and scale from there
 
-[[2-1c3 'Win and help win' always outcompete]]
-	[[7-1a2a1 絶対に勝てるところから勝っていく]]
+- [[2-1c3 'Win and help win' always outcompete]]
+	- [[7-1a2a1 絶対に勝てるところから勝っていく]]
 
-[[4-1a4b2b2 History repeats and reverses]]
+- [[4-1a4b2b2 History repeats and reverses]]
 - Z-cash, digital nomadism vs the States
 	- Puritans vs EU
 		- イギリスは決してヨーロッパではなかった
@@ -14,7 +14,7 @@
 				- ピューリタニズム・聖書主義の台頭
 					- 聖書が適用できない隙間を許容しない社会
 						- エミグレになれるような市民に浸透していく
-							[[12-1a3 The tangible and explicit (can) come in last in the evolution of organic community]]
+							- [[12-1a3 The tangible and explicit (can) come in last in the evolution of organic community]]
 			- イギリスをつくったフランス・フランスから自立したイギリス・イギリスから抜け出したアメリカの登場
 	- Google vs Microsoft
 - Maximalists are using the State playbook [El-Salvador incident]
