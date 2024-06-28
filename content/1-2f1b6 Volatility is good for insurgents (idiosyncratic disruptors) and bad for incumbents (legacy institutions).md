@@ -1,12 +1,12 @@
 - The former only need to get *lucky* once
   - [[1-2f1b5 検証と反証には非対称性がある]]
-<br>
+---
 - [[2-3d Social media is social volatility]]
   - [[2-3d1 You must understand the risk profile of social distribution one has with others]]
 - [[2-3e Cryptocurrency is financial volatility]]
-<br>
+---
 - [[5-2c2b0.2 You need resilience against volatility (i.e., Stoic robustness)]]
-<br>
+---
 - [[QUE5 - Is this long vol, or short vol]]
   - [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
     - [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]

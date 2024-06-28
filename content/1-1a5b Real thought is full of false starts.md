@@ -3,5 +3,5 @@
 - [[4-1a1 Real conversation is full of false starts]]
 - [[1-2f1b4 The content of a theory is in what it rules out (and how!)]]
   - [[1-2f1 Popperian epistemology allows your knowledge to grow forever because it is digital. It can fix its errors by rejecting bad ideas]]
-<br>
+---
 - [[1-1a5b1 Unpublished essays and deleted sentences are like experiments that get inconclusive results]]

@@ -1,7 +1,7 @@
 - #develop
-<br>
+---
 - [[12-1a2a Crypto is network-ideological movement and doesn't differentiate Chinese and Americans]]
-<br>
+---
 - Post-COVID softened the trend but still ongoing 
   - Upward, spiral-like increase is the reality
 - Importance of integrating charts whose timescale is longer than your own experience

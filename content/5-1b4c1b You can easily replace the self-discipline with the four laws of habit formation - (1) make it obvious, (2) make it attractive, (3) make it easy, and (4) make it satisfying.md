@@ -12,6 +12,6 @@
 - 4. Make it satisfying
 	*[[5-1b4c1c Align your short-term reward with your long-term vision]]*
     - [[2-1b2c 'Compounding' - Permeate across the timeline]]
-<br>
+---
 - [[RUL3 - Ask 'what would it look like if it were easy and fun']]
-<br>
+---

@@ -6,6 +6,6 @@
     - [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]] #develop 
   - But at the same time [[8-1b3d Monetary policies can come first and the currency circulation can come later (or symbiotically-simultaneously), not vice versa (i.e., bottom-up vs top-down)]] #develop #contingency 
     - [[6-3b4e Community and monetization can also be realized at the same time]]
-<br>
+---
 - [[5-2a3 People fight over tangibles]] #develop
   - [[6-3b3f2 BTC Maximalists are monotheists and political network]] #develop

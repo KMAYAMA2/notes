@@ -1,5 +1,5 @@
 - [[1-2f1b1 Digital system is composable]]
-<br>
+---
 - From *[[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle]]*	(*Marletto p.206*): 
   - Classical information: *possibility* of 'flip' and 'copy' #develop 
   - Quantum information: *impossibility* (Heisenberg uncertainty principle) of copying certain information-carrying states and *possibility* of reversing any transformation #develop 

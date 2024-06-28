@@ -1,7 +1,7 @@
 - [[5-3c Knowledge is irreversible, and can only go from private to public]]
-<br>
+---
 - E.g., [[5-3c2 BSM formula is technology, and took much longer than expected to catch on publicly]]
-<br>
+---
 - But now we have blockchains — we can publicly create a good that’s to be public, while getting compensated as contributors
 - [[8-1b4 Blockchains are new kind of computer]]
   - [[4-1a4b2b2b Blockchains enable thoughtful evolution based on immutable rules and credible neutrality]]

@@ -1,13 +1,13 @@
 - [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
   - E.g., Las Vegas exists because most of us can't price correctly
-<br>
+---
 - [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
   - E.g., Status, 威信財
     - [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 - #develop
-<br>
+---
 - [[10-2g3d1a Tools became early symbols by displacement]]
-<br>
+---
 - You can decontextualize-digitize anything but those must be recontextualized and given new meanings
 	***[[10-2g3d2 Decontextualize, then recontextualize]]***
     - [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]

@@ -2,7 +2,7 @@
 - [[1-2g2b Humans are significant insofar as we can create knowledge]]
 - [[9-4b2b1a We are free insofar as we can create knowledge]]
 - [[9-4b2b2 We are also free because we are in the multiverse]]
-<br>
+---
 - #develop
 - #Consciousness
-<br>
+---

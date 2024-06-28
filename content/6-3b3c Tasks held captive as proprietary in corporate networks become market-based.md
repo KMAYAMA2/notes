@@ -9,7 +9,7 @@
   - [[9-1b0a When you have learned something, the way it exists in your mind is the same as the way it exists in the mind of the inventor]] (Inventor = Learner)
     - [[8-1c2a What matters is the creativity per se, because non-creative parts will be made easier]]
   - [[6-3b3b Not differentiating developers from users mean what attracts the former also attracts the latter, and vice versa]]!
-<br>
+---
 - The corporate network approach = Command and control from beginning to end
   - It’s totalitarian embedded in free market network
     - NFTs allow free market network all the way down!

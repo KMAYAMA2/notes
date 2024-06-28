@@ -1,7 +1,7 @@
 - The assumption that the mind is the same as computer neglects the reality that is one
 - [[10-2g2c0c We don't think at the moment (we don't 'generate' ideas), our thinking is connected]] #develop
 - [[1-2g2b3a Both Great Simulator and all-possible-computer-programs-are-running arguments are bad explanations because computation doesn't precede physical world and its laws.]]
-<br>
+---
 - The mind = A part of a larger culture
   - [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
     - The mind is formed in the context of particular individuals situated in particular cultures

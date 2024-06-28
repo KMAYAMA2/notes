@@ -4,8 +4,8 @@
 - [[7-1b3 You can solve problems others will have but don’t have yet]]
 - [[7-1b4 You can solve problems that just became solvable]]
 - [[7-1b5 You can solve problems that just got created]]
-<br>
+---
 - [[7-1a5b1 Optimizing for growth should provide some insights about the problem-situation]]
 - [[7-1a5c Engineers address the problem itself, and sales people help making that problem everyone’s problem NOW]]
-<br>
+---
 - Know your customer. Know yourself.

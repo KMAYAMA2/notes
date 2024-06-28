@@ -3,7 +3,7 @@
     - [[10-2g1f2b The brain and symbols evolved reflexively to enhance communication to deal with cultural and sexual selectional pressures.]]
       - [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - #TheTuringPrinciple #develop
-<br>
+---
 - Classical information: *possibility* of 'flip' and 'copy' #develop
 - Quantum information: *impossibility* (Heisenberg uncertainty principle) of copying certain information-carrying states and *possibility* of reversing any transformation #develop
   - [[1-2g2t5a There is no such thing as the 'same' instance of a particle at different times - i.e., there is no such thing as speed of 'one instance' in the quantum physics (Heisenberg uncertainty principle)]]

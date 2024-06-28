@@ -6,5 +6,5 @@
 - [[10-2g2e3 Abstractions seem ‘inaccessible’ to empiricism]]
 - [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
 - [[10-2g2e2 Abstractions are real, and created the same way as with any other knowledge]]
-<br>
+---
 - [[1-1c6a1d In the absence of evidence, do not assume miracles]]

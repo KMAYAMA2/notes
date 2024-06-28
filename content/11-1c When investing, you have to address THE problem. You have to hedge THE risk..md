@@ -1,3 +1,3 @@
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
   - [[2-1b2b00 Focus on the 'what is' before deciding 'what to do' about it]]
-<br>
+---

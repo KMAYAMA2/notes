@@ -11,7 +11,7 @@
 - [[3-1c1b You are what you think and you think what you see, and you see what you think]]
 - [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.]]
 - [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
-<br>
+---
 - Importance of paying attention to the subliminal
   - E.g., meditation, dreams, taboos
     - [[5-1b4c4a Taboos likely can offer gateways to your unconscious]]

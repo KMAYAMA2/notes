@@ -2,12 +2,12 @@
   - [[9-2a It’s easy to convince if people don’t know you enough for what you are not]]
     - [[8-2d1a SNSのテーマは統一したほうがいい。応援してくれる遠い人や知らない人を増やす。みんなが知りたくて知らないものと知りたくて知っているものに特化すること。]] (Externally)
       - [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]] (Internally)
-<br>
+---
 - [[7-1a2a1 絶対に勝てるところから勝っていく]]
   - [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
-<br>
+---
 ***[[2-1a0c1e Communities will become more selective]]***
-<br>
+---
 - The One commandment is about focus #develop
 - 100% democracies within over 51% democracy
 - Activist and startup is similar in that regard

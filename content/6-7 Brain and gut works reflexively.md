@@ -1,7 +1,7 @@
 - #develop
-<br>
+---
 - [[6-7a You are what you consume (eat)]]
-<br>
+---
 - It’s in the language
   - Feel the gut
   - Listen to your gut

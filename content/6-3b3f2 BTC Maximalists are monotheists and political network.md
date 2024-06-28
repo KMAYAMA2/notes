@@ -14,7 +14,7 @@
     - They have zero-sum mentality
       - Coins other than BTC are bad
 				- [[Legacy companies ‘pre-mine’ their shares. Otherwise effort won't result in results because the dollar sensitivity is way lower than your equity.]]
-<br>
+---
 - [[7-1b4b1 Technical truth ≠ Political truth]]
 - BTC Maximalists are in for political, ethical, moral reasons. Not for the technology per se.
   - They have the zeal of monotheist

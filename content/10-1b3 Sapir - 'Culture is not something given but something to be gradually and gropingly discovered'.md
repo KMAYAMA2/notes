@@ -1,8 +1,8 @@
 - [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
 - [[7-1a2a1 絶対に勝てるところから勝っていく]]
-<br>
+---
 - [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
-<br>
+---
 - **Language and Attachment**
     - Egocentric language (Piaget) vs. Language as socialization (Vygotsky)
         - Everett: A child learns language to form itself as an autonomous psychological being (egocentric), but this autonomy makes sense only in comparison and contrast to others — that is, in a social environment (socialization).

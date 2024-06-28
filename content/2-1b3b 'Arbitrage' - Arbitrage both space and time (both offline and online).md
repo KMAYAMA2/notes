@@ -3,5 +3,5 @@
 - [[2-1b2c 'Compounding' - Permeate across the timeline]]****
 - [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 - [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
-<br>
+---
 - #MentalModelsMicroEcon

@@ -2,10 +2,10 @@
   - [[5-2 What counts cannot be counted]]
     - [[1-2g1b What matters is the explanation, and not what you can see]]
       - [[1-2g2s7d A history has to be explained in multiversal terms. The true explanation of what happened involves many other instances of me.]]
-<br>
+---
 - [[1-2g2s4 Everyday objects are partitioned into nearly autonomous histories with one instance-position-speed, but every atom in those objects is a multiversal object not partitioned (i.e., fungible)]]
 - #develop
-<br>
+---
 - From *ToKCast 23*
 - Think of photons not as particles but as field (or probability) going through
 - Phase shift occurs across the multiverse, and a history of a photon must invoke the other histories of the other photons

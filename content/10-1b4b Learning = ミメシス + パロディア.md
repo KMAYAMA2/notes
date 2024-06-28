@@ -1,5 +1,5 @@
 - [[10-1b4c ミメシス is analog-indexical, パロディア is digital-iconical, アナロギア is digital-symbolical]]
-<br>
+---
 - ギリシャの編集方法
   - 1. **ミメシス**
   - 2. **パロディア (諧謔 -かいぎゃく- 特徴検出)**

@@ -1,9 +1,9 @@
 - [[7-1d2a4 Tech innovation can (and did) drive pragmatic changes in regulation]]
   - Similar to how networks and derivatives are infinite #develop
-<br>
+---
 ---
 - [[5-1b1a2c0.1 Perfect replication is impossible]]
-<br>
+---
 ---
 - There will be newer L1s that integrate L2s existing on different chains
   - The sphere of interoperability expands endlessly, as it were ([[1-2g3 The sphere of comprehensibility expands infinitely]])

@@ -1,7 +1,7 @@
 - [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
-<br>
+---
 - [[1-2f1b3 Merely dropping a theory because it doesn't work is behaviorism and is not error-correction. It's analog reasoning in disguise. You need explanation.]]
-<br>
+---
 - [[6-3b2f Composability implies compounding]]
 - [[9-4b3e2 Concise explanations make it easier to criticize and combine ideas]]
   - [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them]]

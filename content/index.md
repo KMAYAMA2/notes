@@ -2,7 +2,7 @@
 title: About this project
 ---
 I started taking these notes as a way to clear my head. The cognitive offload was huge and it surely felt like going through meditation 2.0. But the whole process of writing them down resulted in more ideas being generated, with writing these down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience]], I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects]] and because I believe that [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth]].
-<br>
+---
 ##### Some good starting points if you are interested in any of these fields (although [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]):
 - Philosophy (epistemology)
   - [[5-2 What counts cannot be counted]]
@@ -52,11 +52,11 @@ I started taking these notes as a way to clear my head. The cognitive offload wa
   - [[8-1b3 The software can control the hardware]]
 - Longevity
   - [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself]]
-<br>
+---
 ##### Why all these 'atomic' notes instead of blog posts?
 - [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them]]
 - [[12-1e Nothing is necessary = Everything is contingent]]
 - [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 - [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - [[3-1c2e0 There is no minimum idea]]
-<br>
+---

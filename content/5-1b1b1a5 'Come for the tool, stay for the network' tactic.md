@@ -3,6 +3,6 @@
   - Tools get better, but the value of the network increases much more rapidly at a compounding rate!
     - YouTube's video embedding
     - Instagram's free photo-filtering tool
-<br>
+---
 - [[5-1b1b1a5.1 Blockchain network becomes better as tools are added]]
 - [[5-1b1b1a6 Corporate networks can play different games from protocol networks because they have way more sources of funding]]

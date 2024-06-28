@@ -1,13 +1,13 @@
 - [[4-1a4b3 If you write down ideas, you can have a conversation with each one of them individually, or with any configurations from them]]
 - [[4-1a5c When you have your Second Brain, you can have a conversation with it]]
-<br>
+---
 *Two-way debate makes you realize the relation within your value structures*
   - [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
     - [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
       - [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 				- Remember: look for surprises, and that configuration is arbitrary #categories
 					- [[4-1a4b1 You are a configuration of ideas (both conscious and unconscious)]]
-<br>
+---
 - 対話の方が思考のプロセスがあきらかになっていく
 	**論理をまとめるのはおもしろくない**
 		*Two-way debate benefits from criticism, but more importantly it increases chance encounters with opportunities for abductions*

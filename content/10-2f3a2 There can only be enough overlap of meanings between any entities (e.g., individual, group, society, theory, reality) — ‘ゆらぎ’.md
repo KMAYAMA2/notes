@@ -1,5 +1,5 @@
 - [[9-1b1a It almost never happens that two minds hold precisely the same idea]]
-<br>
+---
 - [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
 - [[9-4b2f The most important source of variation in explanatory theories is creativity. More ‘jumps’ via creativity allows qualitatively different types of ‘mutations’.]]
 - [[4-1a4b6b1 Ideas and its contexts applied are arbitrary]]
