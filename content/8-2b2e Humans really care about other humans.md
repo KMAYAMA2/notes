@@ -1,7 +1,7 @@
-[[1-2g2b Humans are significant insofar as we can create knowledge]]
-	[[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
+- [[1-2g2b Humans are significant insofar as we can create knowledge]]
+	- [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
 
-[[8-4b3 AI could one-box the entire internet]]
+- [[8-4b3 AI could one-box the entire internet]]
 
 - Generative AI will democratize content creation
 	- People will pay less for media itself and more on the curation, community, and culture around it
@@ -19,4 +19,4 @@
 		- Culture!
 			- Because we _create_ culture? #develop 
 
-[[8-1b4a The meaning of the word 'computer' shifts]]
+- [[8-1b4a The meaning of the word 'computer' shifts]]

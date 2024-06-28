@@ -1,4 +1,4 @@
-[[8-1b3f A blockchain economy must balance the supply ('faucets') and demand ('sinks') of native tokens to fuel sustainable growth]]
+- [[8-1b3f A blockchain economy must balance the supply ('faucets') and demand ('sinks') of native tokens to fuel sustainable growth]]
 
 - More participants make a network more useful; once enough people are participating and network effects kick in, the need to offer incentives decreases 
 	- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]

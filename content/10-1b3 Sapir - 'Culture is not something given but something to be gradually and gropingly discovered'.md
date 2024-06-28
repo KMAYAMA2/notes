@@ -1,7 +1,7 @@
-[[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
-[[7-1a2a1 絶対に勝てるところから勝っていく]]
+- [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
+- [[7-1a2a1 絶対に勝てるところから勝っていく]]
 
-[[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
 
 - **Language and Attachment**
     - Egocentric language (Piaget) vs. Language as socialization (Vygotsky)
