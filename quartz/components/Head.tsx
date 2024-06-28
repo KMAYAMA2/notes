@@ -16,11 +16,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    // const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
-    // const ogImagePath = joinSegments(baseDir, "static/og-image.png")
-    const ogImagePath = `https://${cfg.baseUrl}${joinSegments(baseDir, "static/og-image.png")}`
-
-
+    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
       <head>
@@ -40,8 +36,9 @@ export default (() => {
         <meta property="og:image" content={ogImagePath} />
         {/*{cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}*/}
         
-        <meta property="og:width" content="1200" />
-        <meta property="og:height" content="675" />
+        {/* Change the width and height accordingly */}
+        <meta property="og:width" content="1500" />
+        <meta property="og:height" content="500" />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
