@@ -1,6 +1,6 @@
-[[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context)]]
+- [[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context)]]
 
-[[10-2g2c1e What makes humans unique is not computational ability]]
+- [[10-2g2c1e What makes humans unique is not computational ability]]
 
 - Sapir: “Speech is a non-instinctive, acquired, ‘cultural’ function.”
     - That language is significantly shaped by culture

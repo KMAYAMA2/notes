@@ -1,4 +1,4 @@
-[[1-2g2b2a Computer is technology that has deep theoretical and philosophical significance]]
+- [[1-2g2b2a Computer is technology that has deep theoretical and philosophical significance]]
 
 - [People (hardware)] > [Machines (hardware)] > [Machines (hardware) + Abstraction (software)]
 	- Computer ≠ Hardware

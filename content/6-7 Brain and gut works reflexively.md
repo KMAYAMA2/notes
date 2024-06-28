@@ -1,6 +1,6 @@
-#develop 
+- #develop
 
-[[6-7a You are what you consume (eat)]]
+- [[6-7a You are what you consume (eat)]]
 
 - It’s in the language
 	- Feel the gut

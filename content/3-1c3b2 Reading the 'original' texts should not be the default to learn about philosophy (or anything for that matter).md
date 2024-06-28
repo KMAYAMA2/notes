@@ -1,3 +1,3 @@
-[[9-1b0a When you have learned something, the way it exists in your mind is the same as the way it exists in the mind of the inventor]]
-[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
-[[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+- [[9-1b0a When you have learned something, the way it exists in your mind is the same as the way it exists in the mind of the inventor]]
+- [[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
