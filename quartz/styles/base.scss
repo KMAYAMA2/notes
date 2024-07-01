@@ -26,6 +26,8 @@ section {
   line-height: 1.6; /* Line height within paragraphs */
 }
 
+
+
 .text-highlight {
   background-color: #fff23688;
   padding: 0 0.1rem;
@@ -65,8 +67,8 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
+  font-weight: normal; //$semiBoldWeight; //normal; //$semiBoldWeight;
+  text-decoration: none; //underline; //none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
@@ -75,11 +77,11 @@ a {
   }
 
   &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-    line-height: 1.4rem;
+    text-decoration: none; //underline; //none;
+    background-color: transparent; //var(--highlight);
+    padding: 0; //0 0.1rem;
+    border-radius: 0; //5px;
+    line-height: inherit; //1.4rem;
 
     &:has(> img) {
       background-color: none;
