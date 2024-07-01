@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     // baseUrl: "quartz.jzhao.xyz",
     baseUrl: "kmayama2.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified", // changed from "created"
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -55,7 +55,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "filesystem"], 
       }),
       Plugin.SyntaxHighlighting({
         theme: {
