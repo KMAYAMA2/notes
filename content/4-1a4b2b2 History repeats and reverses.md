@@ -62,7 +62,7 @@
 
 - Recentralization is a cycle back to centralization from one vantage point but a step forward from another
 	- Current information explosion = the Reformation (the Protestants, the Lutherans, and then the Baptists had to attract people to their interpretations)
-		- [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+		- [[2-1a Information is in the difference. No difference, no information.]]
 
 - Mapmaking + Print capitalism = State formation
 

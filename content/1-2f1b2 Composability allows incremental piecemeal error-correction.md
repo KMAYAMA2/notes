@@ -1,4 +1,4 @@
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[2-1a Information is in the difference. No difference, no information.]]
 
 [[1-2f1b3 Merely dropping a theory because it doesn't work is behaviorism and is not error-correction. It's analog reasoning in disguise. You need explanation.]]
 

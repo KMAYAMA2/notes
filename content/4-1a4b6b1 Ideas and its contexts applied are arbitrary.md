@@ -2,3 +2,5 @@
 
 Do some ideas have to be applied within certain contexts? What is the implication? Are indexes the examples of this type of 'ideas'? What does it mean for ideas to be analog?
 #develop 
+
+[[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]

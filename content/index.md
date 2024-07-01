@@ -1,5 +1,6 @@
 ---
 title: About this project
+"date:": 2024-07-05
 ---
 I started taking these notes as a way to clear my head. The cognitive offload was huge and it surely felt like going through meditation 2.0. But the whole process of writing them down resulted in more ideas being generated, with writing these down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience]], I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects]] and because I believe that [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth]].
 ##### Some good starting points if you are interested in any of these fields (although [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]):
@@ -21,7 +22,7 @@ I started taking these notes as a way to clear my head. The cognitive offload wa
   - [[2-1a5a Evolution doesn't care about lifetime of each individual gene-meme carrier (its sample is beyond your own experience and any human lifetime)]]
 - Information
   - [[5-1b1a2c0.1 Perfect replication is impossible]]
-  - [[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+  - [[2-1a Information is in the difference. No difference, no information.]]
 - Semiotics
   - [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
   - [[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive']]
@@ -30,7 +31,7 @@ I started taking these notes as a way to clear my head. The cognitive offload wa
 - Culture
   - [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
   - [[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain]]
-  - [[9-4b2a1e 外部性・外来性を重視すること]]
+  - [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
 - Media
   - [[3-1c1b You are what you think and you think what you see, and you see what you think]]
   - [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content']]

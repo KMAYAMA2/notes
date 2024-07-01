@@ -1,3 +1,5 @@
+***情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。***
+
 [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 [[1-2g2t3f Contingency can be only realized when you evoke the multiverse]]
 [[10-2g2e9b1 Evolution couldn't have happened without the multiverse]]

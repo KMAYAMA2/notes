@@ -3,3 +3,5 @@
 
 [[1-1a4c2 The whole is greater than the sum of its parts]]
 [[1-1a4c1 Emergence is another beginning of infinity. Knowledge is based on and consists of emergent phenomena.]]
+
+[[11-3a Explanation of equity market requires knowing about other parts of market. Explanation of market in general requires knowing about non-market bits.]]

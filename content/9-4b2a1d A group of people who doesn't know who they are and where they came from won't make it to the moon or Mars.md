@@ -21,4 +21,4 @@
 ***梵我一如*** 
 	[[1-2g2r0 The Turing principle implies 梵我一如]]
 
-[[9-4b2a1e 外部性・外来性を重視すること]]
+[[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]

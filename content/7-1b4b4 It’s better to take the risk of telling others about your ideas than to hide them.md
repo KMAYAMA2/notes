@@ -7,7 +7,7 @@
 	[[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
 
 [[9-4b2a1f Two-way debate benefits from criticism]]
-	[[9-4b2a1e 外部性・外来性を重視すること]]
+	[[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
 
 ***[[7-1b4b5 Any kind of expertise is valuable, and some people will take unexpected action to capture that value such that it will be serendipitous to you]]***
 

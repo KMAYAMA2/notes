@@ -1,6 +1,6 @@
 [[5-2 What counts cannot be counted]]
 [[1-1c6a1c The absence of evidence is not the evidence of absence]]
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[2-1a Information is in the difference. No difference, no information.]]
 
 [[3-1c2e0 There is no minimum idea]]
 [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]

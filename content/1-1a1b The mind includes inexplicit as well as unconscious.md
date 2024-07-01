@@ -1,4 +1,5 @@
 [[10-2a I am a set of ideas including conscious and unconscious]]
+
 [[3-1c2c Your mind has inexplicit and unconscious assumption not only with regard to what constitute as problems but also their relative importance]]
 [[4-1a4b1 You are a configuration of ideas (both conscious and unconscious)]]
 

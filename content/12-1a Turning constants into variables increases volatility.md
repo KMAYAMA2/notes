@@ -1,4 +1,4 @@
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[2-1a Information is in the difference. No difference, no information.]]
 
 [[2-1e1 'Layer-1' & 'Layer-2' phrasing is probably not the best analogy-understanding-topology]]
 [[2-1e2 Both 'underlying' assets and 'derivatives' can be considered as 'contingent claims']]

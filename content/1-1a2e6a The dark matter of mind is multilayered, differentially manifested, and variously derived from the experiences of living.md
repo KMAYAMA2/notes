@@ -1,4 +1,4 @@
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[2-1a Information is in the difference. No difference, no information.]]
 [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 
 「着ぶくれ」

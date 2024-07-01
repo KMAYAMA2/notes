@@ -15,7 +15,7 @@ But the representation can never be perfect. Or more precisely, we create abstra
 
 **Abstracted means it can be expressed in arbitrarily many ways** (multi-modally, as it were).
 [[5-1b1a1c The relationship between knowledge in the abstract and technology (the physical mediator of such knowledge) is contingent]]
-[[2-1a 情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。]]
+[[2-1a Information is in the difference. No difference, no information.]]
 [[10-2f3a2 There can only be enough overlap of meanings between any entities (e.g., individual, group, society, theory, reality) — ‘ゆらぎ’]]
 
 Diagonal argument applies to the following:
