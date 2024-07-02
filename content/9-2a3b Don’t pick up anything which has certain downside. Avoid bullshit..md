@@ -18,4 +18,4 @@ Counter-argument for contradictory sources:
 [[5-1b1a9 The Fun Criterion is an explanation]]
 
 Not seeing much of a connection:
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]

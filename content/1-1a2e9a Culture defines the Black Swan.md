@@ -9,7 +9,7 @@
         - We are theory-laden! 
 	        [[10-2g2c0b There is no a priori - 直観は存在しない]]
     3. Using insights from multiple theories can mitigate the counterexample vs. exception quandary.
-	    [[2-1a Information is in the difference. No difference, no information.]]
+	    [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 		    [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 			    [[3-1c3c2b Getting rid of your own misconceived notions alone can take you far enough]]
     4. Never be too sure.

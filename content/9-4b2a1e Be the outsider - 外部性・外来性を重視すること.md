@@ -1,10 +1,9 @@
-#categories 
 
-	“Morning, boys. How’s the water?”
-	“What the hell is water?”
+*“Morning, boys. How’s the water?”*
+*“What the hell is water?”*
 
 ---
-Outsider perspective is important often because it detects something insiders can't because the latter are so get used to them. I always think of how Japanese people are good at not just imitating but also tweaking and modifying other cultures as they see fit. Internally, we complain how such modifications are "not true to American culture" or "not true to European values." But foreigners often love such Japanized version of their own culture, if not explicitly. You go to Japanized Italian restaurant in Tokyo. For usual Japanese customers, it's just another *Italian* restaurant. But often foreigners love such *Japanese Italian* restaurants, because they are different. You can't see the difference unless you become the outsider yourself. **[[2-1a Information is in the difference. No difference, no information.]]** 
+Outsider perspective is important often because it detects something insiders can't because the latter are so get used to them. I always think of how Japanese people are good at not just imitating but also tweaking and modifying other cultures as they see fit. Internally, we complain how such modifications are "not true to American culture" or "not true to European values." But foreigners often love such Japanized version of their own culture, if not explicitly. You go to Japanized Italian restaurant in Tokyo. For usual Japanese customers, it's just another *Italian* restaurant. But often foreigners love such *Japanese Italian* restaurants, because they are different. You can't see the difference unless you become the outsider yourself. **[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]** 
 
 [[4-1a4b6b1 Ideas and its contexts applied are arbitrary]], but insiders can't really see it that way as evident in how [[3-1c3c4a Person who finds profound new theories often holds onto beliefs that contradict them]]. This is similar to how [[7-1b3d New stars rise along with the new platform]] in tech.
 
@@ -13,7 +12,7 @@ It's similar to how often [[9-4b2a1d1.1 Inexperienced people can have great idea
 **[[1-1a2e7c You can't help being cultural, but you don't have to commit to any specific culture]]**
 
 ---
-To see the peculiarity of one, you have to know the peculiarities of others. [[3-1a4a1 The whole must be evoked in explaining the parts]].
+To see the peculiarity of one, you have to know the peculiarities of others. [[3-1a4a1 The whole must be evoked in explaining the parts]]. #categories 
 
 ###### Example:
 - In history, distinctions such as *world history* and *Japanese history* do not objectively exist ([[3-1a4a 歴史において、世界史・日本史といった区別は客観的に存在しない]]).

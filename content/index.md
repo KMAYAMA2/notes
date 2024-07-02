@@ -22,7 +22,7 @@ I started taking these notes as a way to clear my head. The cognitive offload wa
   - [[2-1a5a Evolution doesn't care about lifetime of each individual gene-meme carrier (its sample is beyond your own experience and any human lifetime)]]
 - Information
   - [[5-1b1a2c0.1 Perfect replication is impossible]]
-  - [[2-1a Information is in the difference. No difference, no information.]]
+  - [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 - Semiotics
   - [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
   - [[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive']]

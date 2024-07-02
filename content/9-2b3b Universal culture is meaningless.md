@@ -1,4 +1,4 @@
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 	[[1-1a4c If you assume the possible existence of the ‘ultimate’ theory, you’d be assuming a meaningless (zero-freedom) world]]
 
 [[3-1a4b 情報文化史 = 経済文化史 (経済と文化はそもそも独立して存在しない)]]

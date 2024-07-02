@@ -12,4 +12,4 @@ Put differently, the reality always slips out of our virtual-reality
 
 [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]
 
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]

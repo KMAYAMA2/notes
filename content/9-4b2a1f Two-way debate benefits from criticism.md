@@ -2,7 +2,7 @@
 [[4-1a5c When you have your Second Brain, you can have a conversation with it]]
 
 *Two-way debate makes you realize the relation within your value structures*
-	[[2-1a Information is in the difference. No difference, no information.]]
+	[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 		[[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 			[[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 				Remember: look for surprises, and that configuration is arbitrary #categories 

@@ -1,4 +1,4 @@
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 	[[9-2b3b1 Contingency = Meaning (or, contingency implies meaning)]]
 
 [[1-1a2a1 Human nature is variable (Cultures ⇒ Flexible human brains ⇒ Variable dark matters ⇒ Variable 'human natures' ⇒ Cultures . . .)]]

@@ -2,7 +2,7 @@
 
 [[10-2g2e9b DNA is digital system which evolves by discrete changes. If it were analog, evolution couldn’t have happened.]]
 
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 
 Indexes are analog signs, because they can't differentiate themselves from what's been referred to. There is no difference between the meaning and the form as they exist in symbols.
 [[10-2g2c Indexes are physical because they merely ‘indicate’ and hence do not require culture. Symbols are cultural. Put differently, indexes are analog and symbols digital.]]

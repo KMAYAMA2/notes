@@ -1,4 +1,4 @@
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 	[[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 [[9-4b2a1d0 情報には文脈がある = 情報文化は区切りでできている (digit) = 情報における分節の重要性]]

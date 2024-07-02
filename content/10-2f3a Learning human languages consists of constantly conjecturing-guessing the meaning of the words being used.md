@@ -8,7 +8,7 @@
 **差異によって意味が生じるのではないか:**
 [[10-2g2c2 Human minds are capable of knowing what ideas mean]]
 [[4-1a4b5a Maybe consciousness is seeing your thinking mediated on some other physical form, realizing that it could’ve been put otherwise (and optionally you improve upon)]]
-[[2-1a Information is in the difference. No difference, no information.]]
+[[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 
 [[AN3C - It took Darwin a book to explain his theory but now it can be summarized into a paragraph]]
 
