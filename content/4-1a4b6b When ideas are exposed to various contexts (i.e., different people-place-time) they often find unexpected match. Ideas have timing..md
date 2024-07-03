@@ -1,3 +1,5 @@
+The same writing looks very different when you see it on different medium (e.g., on your physical notebook vs on the web). Not only that, people consume the content differently. It's similar to how [[6-7b Nutrition doesn’t exist independently from the patient]]. 
+
 [[5-2b2a Use LATER folder, instead of reactively watching-reading-listening, and give them time]]
 [[3-1c3c0 Ideas have timing]]
 
