@@ -1,4 +1,4 @@
-If you really see the causation between your thoughts clearly, you should be able to undo them ([[9-4b2a1d0.3 分析の本質は分節]]). After all, [[12-1e Nothing is necessary = Everything is contingent]].
+If you really see the causation between your thoughts clearly, you should be able to undo them ([[9-4b2a1d0.3 The essence of analysis is articulation - 分析の本質は分節]]). After all, [[12-1e Nothing is necessary = Everything is contingent]].
 
 ---
 Similar logic applies in understanding history. Enlightenment is in understanding why such and such events are happening. The biggest difference with personal enlightenment is that it's way tougher to undo historical chain of events. It's easier to change your perspective than changing history. But we exist in specific historic moment, and cannot get away with history. 

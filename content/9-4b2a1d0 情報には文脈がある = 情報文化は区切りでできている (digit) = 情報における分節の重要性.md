@@ -1,7 +1,7 @@
 [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 
-***[[9-4b2a1d0.3 分析の本質は分節]]***
+***[[9-4b2a1d0.3 The essence of analysis is articulation - 分析の本質は分節]]***
 
 - Digit = 指を折る
 	- 大半の哺乳類はできない
