@@ -48,6 +48,10 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+
+        {/*Analytics*/}
+        <script defer data-domain="kenti.xyz" src="https://plausible.io/js/script.js"></script>
+
       </head>
     )
   }
