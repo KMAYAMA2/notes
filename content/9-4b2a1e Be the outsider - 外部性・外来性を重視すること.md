@@ -7,7 +7,7 @@ Outsider perspective is important. They detect something insiders can't precisel
 
 [[4-1a4b6b1 Ideas and its contexts applied are arbitrary]], but insiders can't really see it that way as evident in how [[3-1c3c4a Person who finds profound new theories often holds onto beliefs that contradict them]]. This is similar to how [[7-1b3d New stars rise along with the new platform]] in tech. This is because [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
 
-It's similar to how often [[9-4b2a1d1.1 Inexperienced people can have great ideas too, sometimes far better ones than more experienced people]], and why sometimes we should strive to be the outsider and keep your perspective afresh because [[AN3C - The more of a noob you are locally, the less of a noob you are globally]]. 
+It's similar to how often [[9-4b2a1d1.1 Inexperienced people can have great ideas too, sometimes far better ones than more experienced people]], and why sometimes we should strive to be the outsider and keep your perspective afresh because [[7-2b The more of a noob you are locally, the less of a noob you are globally]]. 
 
 **[[1-1a2e7c You can't help being cultural, but you don't have to commit to any specific culture]]**
 

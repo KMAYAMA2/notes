@@ -5,6 +5,6 @@
 
 [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 
-[[AN3C - The more of a noob you are locally, the less of a noob you are globally]]
+[[7-2b The more of a noob you are locally, the less of a noob you are globally]]
 [[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]
 [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]

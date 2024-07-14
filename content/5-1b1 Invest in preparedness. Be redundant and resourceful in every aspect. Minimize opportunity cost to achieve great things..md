@@ -9,5 +9,5 @@
 [[RUL3 - Avoid premature optimization]]
 [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 
-[[AN3C - The more of a noob you are locally, the less of a noob you are globally]]
+[[7-2b The more of a noob you are locally, the less of a noob you are globally]]
 [[7-1d0 People who find ways to drive down the costs and simplify the product made the biggest difference (Ford)]]

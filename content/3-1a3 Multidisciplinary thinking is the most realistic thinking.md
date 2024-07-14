@@ -5,7 +5,7 @@
 [[3-1a4 Explanatory means it will span across ‘boundaries’]]
 
 The best and most practical wisdom is elementary academic wisdom - think in a multidisciplinary manner!
-	[[AN3C - The more of a noob you are locally, the less of a noob you are globally]]
+	[[7-2b The more of a noob you are locally, the less of a noob you are globally]]
 
 [[RUL3 - Avoid premature optimization]]
 	[[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
