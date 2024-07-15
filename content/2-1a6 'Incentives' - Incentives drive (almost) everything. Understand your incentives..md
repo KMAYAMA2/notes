@@ -5,4 +5,6 @@
 [[2-1a6a Understanding incentives amounts to understanding its culture]]
 [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
 
+[[8-2b2.1 Blockchain technologies allow composable forms of trust. Trust can be digitized.]]
+
 #MentalModelsGeneral

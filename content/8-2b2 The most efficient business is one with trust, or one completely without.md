@@ -6,4 +6,4 @@
 [[8-2b2a 'Technologies that change society are technologies that change interactions between people']]
 [[8-2b3 On-chain gets you immutability, verifiability, monetization. Just as online gets you distribution-sharing-collaboration.]]
 
-[[8-2b2.1 More precisely, blockchain technologies digitize trust into composable]]
+[[8-2b2.1 Blockchain technologies allow composable forms of trust. Trust can be digitized.]]

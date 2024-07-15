@@ -9,4 +9,4 @@
 			- [[1-2g2t5 Because rejoining means being fungible means there is no such thing as which of them has ended up as-at which final instance-position]] #develop 
 - [[8-2b3 On-chain gets you immutability, verifiability, monetization. Just as online gets you distribution-sharing-collaboration.]]
 	- You can't fake the onchian data unless you commit 51% attack
-		- [[8-2b2.1 More precisely, blockchain technologies digitize trust into composable]]
+		- [[8-2b2.1 Blockchain technologies allow composable forms of trust. Trust can be digitized.]]
