@@ -4,6 +4,8 @@ title: About this project
 ---
 I started taking these notes as a way to clear my head. The cognitive offload was huge and it felt like going through meditation. But the whole process of writing my ideas down resulted in more ideas being discovered and generated, with writing them down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience]], I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects]] and because I believe that [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth]].
 
+My favorite thinkers include Paul Graham, David Deutsch, Balaji, Chris Dixon, Naval, Charlie Munger, Hayek, Mises, Popper, Mark Spitznagel, Taleb, Elie Ayache, Montaigne, Seigow Matsuoka, Daniel Everett, etc. My notes explore the intersection between tech, philosophy, finance, history, culture, productivity, life, and more. I also tweet these micro insights on [Twitter](https://twitter.com/kmayama2) and [Farcaster](https://warpcast.com/kenty). Your follow would mean a lot to me!
+
 ---
 **Why all these 'atomic' notes instead of blog posts?**
 - [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them]]
