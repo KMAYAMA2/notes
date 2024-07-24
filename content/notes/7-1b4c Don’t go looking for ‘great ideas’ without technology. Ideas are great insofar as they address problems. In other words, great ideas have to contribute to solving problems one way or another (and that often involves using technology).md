@@ -1,4 +1,4 @@
-[[content/1-1c4b You always have to solve problems, including the problem of what problems to solve]]
+[[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
 [[3-1a1 It’s either you are solving problems or not]]
 [[7-1a6 Great combination is being good at technology and knowing the problems that can be solved by it]]
 [[7-1a6 Great combination is being good at technology and knowing the problems that can be solved by it]]

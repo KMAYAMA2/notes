@@ -1,5 +1,5 @@
 [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
-[[content/1-1c4b You always have to solve problems, including the problem of what problems to solve]]
+[[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
 
 [[3-1c3a We are not interested in where the knowledge came from]]
 
