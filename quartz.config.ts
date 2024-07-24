@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     // baseUrl: "quartz.jzhao.xyz",
     baseUrl: "kmayama2.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created", // changed from "created"
+    defaultDateType: "modified", // changed from "created"
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -57,8 +57,8 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"], 
-      }),
+        priority: ["frontmatter", "git", "filesystem"], 
+      }), //added "git"
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
