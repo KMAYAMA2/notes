@@ -1,3 +1,7 @@
+---
+date: 2024-07-24
+---
+
 Nation state is a recent concept. Most of human history didn't have them. That means what takes over the current US dominance next doesn't have to be a nation state. It could be some meta-nation concepts like crypto. Such meta-nation state is conceptualized as ***Network State*** by Balaji. And indeed, [[12-1a2a Crypto is network-ideological movement and doesn't differentiate Chinese and Americans |crypto doesn't care about your nationalities]]. This is as it should be, because [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |free markets and free speech, by definition, transcend the concepts of nation-states]]. 
 
 Network states are not constrained by physical borders. [[8-2d Network states (digital) can probably address the problem nation states (analog) inherently possess |They are more digital in nature than nation states]], and can address the problems the latter inherently possess. For example, [[12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex |it's easier to address the problem of network defects with network state]].
