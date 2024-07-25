@@ -1,5 +1,5 @@
 ---
-date: 0204-07-25
+date: 2024-07-25
 ---
 [[4-1a4b6a1 Future self is enough of an audience |Future self is enough of an audience]] means: write notes for yourself; build what you want; post what you want. In any situation, [[4-1a3a Imaginary problems lead to imaginary feedback, and that's not feedback |avoid imaginary audience]]!
 
