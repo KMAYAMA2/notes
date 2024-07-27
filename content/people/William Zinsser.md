@@ -2,6 +2,27 @@
 date: 2024-07-27
 ---
 ###### *On Writing Well*
+- The medium of writing and reading changed. But [[1-2g2b Humans are significant insofar as we can create knowledge |nothing has replaced the writer]].
+	- “Ultimately the product that any writer has to sell is not the subject being written about, but who he or she is.”
+- [[The essence of writing is rewriting]]
+	- “Professional writers rewrite their sentences over and over and then rewrite what they have rewritten.”
+- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it. |Writing is coding]] acting on humans instead of machines
+	- “Perhaps the writer has switched pronouns in midsentence, or has switched tenses, so the reader loses track of who is talking or when the action took place. Perhaps Sentence B is not a logical sequel to Sentence A; the writer, in whose head the connection is clear, hasn’t bothered to provide the missing link. Perhaps the writer has used a word incorrectly by not taking the trouble to look it up.
+- The two most important qualities of good writing: humanity and warmth.
+	- [[9-4b3e4 Write each sentence like you are talking to a friend |Write like you talk]]. Be yourself.
+		- Personal anecdotes are warm, and easy to write with confidence. 
+- Writers often don’t know what they are trying to say.
+	- This is why I use [[3-1c3c00 Evergreen notes should be atomic |evergreen notes]] because it forces you to say something in one (or few) sentence(s).
+- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify. |Occam’s razor]] in writing—strip every sentence to its cleanest components.
+	- “You have to strip your writing down before you can build it back up.”
+		- It’s easier to make good argument with easy to understand sentences.
+			- [[Deconstruct, then reconstruct]].
+- [[7-1a Create something you would want for yourself, and never for some imaginary audience |Don’t address imaginary readers]]. Think about someone specific.
+	- “I don’t want to meet “one”—he’s a boring guy.”
+	- “We have become a society fearful of revealing who we are.”
+	- “Leaders who bob and weave like aging boxers don’t inspire confidence—or deserve it. The same thing is true of writers.”
+- [[4-1d0.2 Avoid the anonymous 'we' and 'they,' because they mask personal responsibility |Avoid the anonymous ‘one’]]—use ‘I’ and ‘me’ and ‘we’ and ‘us’ instead.
+	- The technique also applies to negotiation. Check my note on [[4-1d0.1 The Pinocchio Effect - Liars use more words than truth tellers and use far more third-person pronouns |the Pinocchio Effect]].
 
 ---
 ###### Writing to Learn
