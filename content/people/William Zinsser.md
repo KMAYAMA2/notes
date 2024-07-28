@@ -7,28 +7,61 @@ date: 2024-07-27
 - [[The essence of writing is rewriting]]
 	- “Professional writers rewrite their sentences over and over and then rewrite what they have rewritten.”
 - [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it. |Writing is coding]] acting on humans instead of machines
-	- “Perhaps the writer has switched pronouns in midsentence, or has switched tenses, so the reader loses track of who is talking or when the action took place. Perhaps Sentence B is not a logical sequel to Sentence A; the writer, in whose head the connection is clear, hasn’t bothered to provide the missing link. Perhaps the writer has used a word incorrectly by not taking the trouble to look it up.
-- The two most important qualities of good writing: humanity and warmth.
+	- “Perhaps the writer has switched pronouns in midsentence, or has switched tenses, so the reader loses track of who is talking or when the action took place. Perhaps Sentence B is not a logical sequel to Sentence A; the writer, in whose head the connection is clear, hasn’t bothered to provide the missing link. Perhaps the writer has used a word incorrectly by not taking the trouble to look it up.”
+- The two most important qualities of good writing: humanity and warmth
 	- [[9-4b3e4 Write each sentence like you are talking to a friend |Write like you talk]]. Be yourself.
 		- Personal anecdotes are warm, and easy to write with confidence. 
-- Writers often don’t know what they are trying to say.
-	- This is why I use [[3-1c3c00 Evergreen notes should be atomic |evergreen notes]] because it forces you to say something in one (or few) sentence(s).
+- Writers often don’t know what they are trying to say
+	- This is why I use [[3-1c3c00 Evergreen notes should be atomic |evergreen notes]] because it forces you to say something in one (or few) sentence(s)
 - [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify. |Occam’s razor]] in writing—strip every sentence to its cleanest components.
 	- “You have to strip your writing down before you can build it back up.”
-		- It’s easier to make good argument with easy to understand sentences.
-			- [[Deconstruct, then reconstruct]].
+		- It’s easier to make good argument with easy to understand sentences
+			- [[Deconstruct, then reconstruct]]
 - [[7-1a Create something you would want for yourself, and never for some imaginary audience |Don’t address imaginary readers]]. Think about someone specific.
 	- “I don’t want to meet “one”—he’s a boring guy.”
 	- “We have become a society fearful of revealing who we are.”
 	- “Leaders who bob and weave like aging boxers don’t inspire confidence—or deserve it. The same thing is true of writers.”
 - [[4-1d0.2 Avoid the anonymous 'we' and 'they,' because they mask personal responsibility |Avoid the anonymous ‘one’]]—use ‘I’ and ‘me’ and ‘we’ and ‘us’ instead.
 	- The technique also applies to negotiation. Check my note on [[4-1d0.1 The Pinocchio Effect - Liars use more words than truth tellers and use far more third-person pronouns |the Pinocchio Effect]].
+- “Readers don’t know what they want to read until they read it.”
+	- Steve Jobs: “Customers don’t know what they want until we’ve shown them.”
+		- [[7-1a Create something you would want for yourself, and never for some imaginary audience |Write for yourself]], and [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing' |don’t aim for the average readers]].
+- “The race in writing is not to the swift but to the original”
+- Get in the habit of using dictionaries
+- Good writers of prose must be part poet
+	- Listen to what you write. Read everything aloud before letting it go out into the world.
+- “All writing is ultimately a question of [[7-1a1a2 Solve your own problems. Otherwise you'll lose time and money without self-indulgence alarms going off. |solving a problem]].”
+- Unity of pronoun, of tense, and of mood
+	- Unity satisfies your reader’s subconscious need for order
+		- Unity is [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand |a good constraint]]
+- Ask yourself before you start: “How much do I want to cover?” “What one point do I want to make?”
+	- “Decide what corner of your subject you’re going to bite off, and be content and cover it well and stop.”
+		- **[[2-1b3a1 Narrow it down so you can have a chance to build your own moat |Narrow it down so you can have a chance to build your own moat]]**
+			- I think this is another reason why personal anecdotes are strong
+		- Every writing must be reduced to a project. A project leaving the reader with one—not two, or five—provocative thought.
+			- Single point constraint is [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand |a good constraint]].
+				- “It will not only give you a better idea of what route you should follow and what destination you hope to reach; it will affect your decision about tone and attitude.”
+			- [[3-1c3d2 Well defined problems are completable, and allow you to take small steps |Well defined projects are completable, and allow you to take small steps]]
+- The very first sentence is [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes |disproportionally important]]
+	- The last sentence of each paragraph is also crucial
+- Collect more material than you will use
+	- Don’t let your sample dictate what you write about. [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent |Avoid empiricism]].
+	- Collect more material until you see [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a diminishing return]] in doing so
+	- Look everywhere for your material. Throw in some [[2-1a6c5 'Randomness' is the opportunity to reason abductively |randomness]]. 
+		- Expect to find them in [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them |places where you least expect]] them to be.
+- Use [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved |narrative instinct]] to your advantage
+	- Look for ways to convey your information in narrative form
+- “When you’re ready to stop, stop. If you have presented all the facts and made the point you want to make, look for the nearest exit.”
+	- Stop when you start writing “In sum…”—if you made your argument, readers can do the rest.
+- [[1-1c5b Asking what surprised them usually is an extremely useful question |Surprise]] is the most refreshing element in writing
+	- Look for them. Use them in your writing. It’s also a good way to end writing because it lingers.
+- 
 
 ---
 ###### Writing to Learn
 - [[9-1b0c Reality doesn't differentiate reading-thinking-writing-playing-doing-investing-building |Writing is a form of thinking]]—those who think clearly can write as well as the best writer.
 	- “Writing and thinking and learning were the same process.”
-		- But writing is more physical than reading because you put your thoughts on paper—making it easier for you to see the gap between what you want to say and how you said it. That [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない. |difference is a useful piece of information]].
+		- But writing is more physical than reading because you put your thoughts on paper—making it easier for you to see the gap between what you want to say and how you said it. [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない. |The difference is a useful piece of information]].
 - Learning—[[2-1a4a Sometimes the best information is the least transmissible. |expect to find them in places where you least expect them to be]].
 	- [[1-1c5 Surprises are the doors to revealing the inexplicit and the unconscious |Surprise is the key to learning]].
 - [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |Knowledge is not compartmented]]—it’s all one house "and “writing is the key that opens the door."

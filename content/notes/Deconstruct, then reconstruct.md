@@ -2,6 +2,8 @@
 date: 2024-07-27
 ---
 
+[[3-1c2f In tech, most of the value is in the ordering, in the useful configuration of zeroes and ones, which users click to pay for it]]
+
 [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 
 [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]

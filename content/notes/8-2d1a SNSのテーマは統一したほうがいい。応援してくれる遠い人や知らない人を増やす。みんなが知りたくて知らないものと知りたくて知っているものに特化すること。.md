@@ -13,3 +13,4 @@ Are following contradictory? Maybe not if we use growth as a guidance:
 **[[7-1a2b For startups, growth is a constraint much like truth]]**
 #develop 
 
+[[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]
