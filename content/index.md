@@ -2,7 +2,7 @@
 title: About this project
 date: 2024-07-23
 ---
-I'm Kento. My notes here explore the intersection between tech, philosophy, finance, history, culture, productivity, life, and more. My favorite thinkers include Paul Graham, David Deutsch, Balaji, Chris Dixon, Naval, Charlie Munger, Hayek, Mises, Popper, Mark Spitznagel, Taleb, Elie Ayache, Montaigne, Seigow Matsuoka, Daniel Everett, etc. 
+I'm Kento. My notes here explore the intersection between tech, philosophy, finance, history, culture, productivity, life, and more. My favorite thinkers include Paul Graham, David Deutsch, Balaji, Chris Dixon, Naval, Charlie Munger, Hayek, Mises, Popper, Mark Spitznagel, Taleb, Elie Ayache, Montaigne, Seigow Matsuoka, Daniel Everett, etc. You might find your favorite thinkers [here](https://kenti.xyz/people/).
 
 I started taking these notes as a way to clear my head. The cognitive offload was huge and it was like going through meditation. But the whole process of writing my ideas down resulted in more ideas being discovered and generated, with writing them down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience |future self is enough of an audience]], I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights can lead to network effects]], and because I believe that [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects + feedback loops + composability = exponential growth]].
 
