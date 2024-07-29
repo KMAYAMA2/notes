@@ -6,6 +6,7 @@ date: 2024-07-27
 	- “Ultimately the product that any writer has to sell is not the subject being written about, but who he or she is.”
 - [[The essence of writing is rewriting]]
 	- “Professional writers rewrite their sentences over and over and then rewrite what they have rewritten.”
+	- “Writing is an evolving *process*, not a finished *product*. Nobody expects you to get it right the first time, or even the second time.”
 - [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it. |Writing is coding]] acting on humans instead of machines
 	- “Perhaps the writer has switched pronouns in midsentence, or has switched tenses, so the reader loses track of who is talking or when the action took place. Perhaps Sentence B is not a logical sequel to Sentence A; the writer, in whose head the connection is clear, hasn’t bothered to provide the missing link. Perhaps the writer has used a word incorrectly by not taking the trouble to look it up.”
 		- This sounds like a debugging to me
@@ -57,7 +58,25 @@ date: 2024-07-27
 	- Stop when you start writing “In sum…”—if you made your argument, readers can do the rest.
 - [[1-1c5b Asking what surprised them usually is an extremely useful question |Surprise]] is the most refreshing element in writing
 	- Look for them. Use them in your writing. End with them because it lingers.
-- 
+- Make active verbs activate your sentence
+	- Use precise verbs
+		- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room. |Get specific]] in expression
+- Avoid using adjectives as decoration—they will have proper power only if used sparsely
+- “Humor is best achieved by understatement, and there’s nothing subtle about an exclamation point.”
+	- Don’t notify the reader that you are making a joke or being ironic—exclamation points are naive.
+	- Also avoid over-explaining—readers can figure out what follows your “surprisingly,” ”predictably,” and “of course.” It makes your writing unsurprising and predictable.
+		- Write like your diary
+- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes. |Don’t repeat yourself]]—use “yet” and ”nonetheless” over “*despite the fact that…*”
+- You can start your sentence with “but." Notify the reader if you are shifting direction.
+- Avoid sentences full of abstract nouns. Get people doing things—get specific.
+- Don’t overstate. Trust your material—who could invent all the astonishing things that really happen?
+	- Arthur Conan Doyle: “*Life is infinitely stranger than anything which the mind of man could invent. We would not dare to conceive the things which are really mere commonplaces of existence. If we could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and and peep in at the queer things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events, working through generations, and leading to the most outre results, it would make all fiction with its conventionalities and foreseen conclusions most stale and unprofitable*”
+- [[9-1 Be truthful |Be truthful]]—the reader can sense it if otherwise, and that’s not a risk worth taking
+- “Surprisingly often a difficult problem in a sentence can be solved by simply getting rid of it.”
+- “Keep your paragraphs short. [[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it |Writing is visual]]—it catches the eye before it has a chance to catch the brain.”
+	- [[9-4b3e3 The easier something is to read, the more deeply readers will engage with your ideas. Keep the friction low. |Short paragraphs are more inviting]]
+- [[7-1a Create something you would want for yourself, and never for some imaginary audience |Write for yourself]]—people write better and with more enjoyment if they write about what they care about.
+	- Write about your hobbies. Write about your work.
 
 ---
 ###### Writing to Learn
