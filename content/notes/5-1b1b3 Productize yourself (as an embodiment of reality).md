@@ -1,3 +1,6 @@
+---
+date: 2024-07-31
+---
 [[1-2a We perceive nothing as what it really is, but only virtually]]
 [[9-3 Increase surface area of luck]]
 

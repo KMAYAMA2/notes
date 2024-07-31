@@ -1,7 +1,10 @@
+---
+date: 2024-07-31
+---
+**[[5-1b1b2b Don't try to be the best. Be the only.]]**
+
 [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
-
-[[5-1b1b2b Don't try to be the best. Be the only.]]
 
 [[5-1b1b1a Power-law curiosity - be professionally curious about a few topics and idly curious about many more]]
 [[5-1b1b2 Flow to the most interesting, because the Fun Criterion doesn’t distinguish what’s fun via categories. Fun just means fun.]]
