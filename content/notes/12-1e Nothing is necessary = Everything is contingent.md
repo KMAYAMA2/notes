@@ -10,6 +10,7 @@ Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 
 - [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 - [[3-1c2e0 There is no minimum idea]]
 - [[3-1d4 There are no perfect tools, just as there are no ultimate problems]]
+- [[5-1b2.2 There is no objective Black Swan]]
 - [[6-3b3.1 There is no necessary incentive (i.e., norm incentives)]]
 - [[6-7b Nutrition doesn’t exist independently from the patient]]
 - [[9-2b2 There is no objective hierarchy amongst knowledge; only cultural-subjective hierarchy exists because we are cultural being (知識・情報そのものに優劣はない)]]

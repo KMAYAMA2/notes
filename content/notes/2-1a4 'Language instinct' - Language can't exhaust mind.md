@@ -3,6 +3,8 @@
 
 [[2-1a4a Sometimes the best information is the least transmissible.]]
 
+[[Nassim Taleb]]: “*Devils are in the execution.*”
+
 #categories 
 文様・装飾・視覚芸術も記録 
 	文字 = Language

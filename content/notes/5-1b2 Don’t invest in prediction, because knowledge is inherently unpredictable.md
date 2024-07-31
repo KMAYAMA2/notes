@@ -1,3 +1,5 @@
+[[5-1b2.1 Don’t invest in prediction, because the Black Swan is inherently unpredictable]]
+
 [[11-2a Invest for the wealth it can generate, not for the money per se]]
 	[[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
 		E.g., ETH communities

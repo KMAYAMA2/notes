@@ -1,3 +1,5 @@
+[[10-2g1.1 Experience to theory over theory to experience—the latter theory is harder to get it off because it shapes your experience]]
+
 [[1-1c6a1c The absence of evidence is not the evidence of absence]]
 [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
 [[1-1c6a1a Pay attention to what can’t be said (e.g., taboos)]]

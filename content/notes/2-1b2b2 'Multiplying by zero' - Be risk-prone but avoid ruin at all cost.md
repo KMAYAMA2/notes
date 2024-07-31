@@ -1,3 +1,8 @@
+---
+date: 2024-08-01
+---
+You must avoid the risk of ruin at all cost, both collectively and individually, in multiplicative systems—and [[2-1b2b2.1 Life is a multiplicative game—take advantage of network effects but avoid the risk of ruin|life is a multiplicative game]].
+
 [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 
 *What matters are results over time and ensuring that 10 percent of the time won't kill you*. [[5-1b4b3 Time beats timing]]. E.g., [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded.]] Tl;dr - [[2-1b2 Play in different time horizon. That is, in the long-run.]]

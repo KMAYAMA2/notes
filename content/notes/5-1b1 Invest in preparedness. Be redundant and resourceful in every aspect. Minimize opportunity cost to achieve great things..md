@@ -1,6 +1,7 @@
 [[9-2a3a Pick up the biggest upside potential]]
 [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
 
+[[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
 [[5-1b1a Technology itself should be the kind that begets and benefits from volatility]]
 [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
 
