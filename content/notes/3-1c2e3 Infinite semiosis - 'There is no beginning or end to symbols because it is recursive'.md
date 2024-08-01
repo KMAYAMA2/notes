@@ -1,3 +1,6 @@
+[[3-1c2e3.1 It’s symbols all the way down]]
+[[1-2g3.1 It’s explanations all the way down]]
+
 [[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground]]
 
 [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]] #develop 
