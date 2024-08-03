@@ -1,4 +1,9 @@
+---
+date: 2024-08-03
+---
 #own 
+
+[[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |Why are we outsourcing our health?]] We don’t even own our bodies anymore?
 
 [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 	[[2-1b2b1a Get your incentives right from the beginning]]
