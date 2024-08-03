@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     // baseUrl: "quartz.jzhao.xyz",
     baseUrl: "kmayama2.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created", // changed from "modified"
+    defaultDateType: "modified", // changed from "created"
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
