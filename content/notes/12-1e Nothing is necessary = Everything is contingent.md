@@ -7,6 +7,7 @@ Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 
 - [[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans]]
 - [[1-1a2e10 There is no such thing as objective meaning]]
 - [[1-2g2t5a There is no such thing as the 'same' instance of a particle at different times - i.e., there is no such thing as speed of 'one instance' in the quantum physics (Heisenberg uncertainty principle)]]
+- [[2-1a1a3e There’s no objective average]]
 - [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 - [[3-1c2e0 There is no minimum idea]]
 - [[3-1d4 There are no perfect tools, just as there are no ultimate problems]]
