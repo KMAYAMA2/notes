@@ -3,5 +3,5 @@
 		[[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 			[[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
 
-[[7-1b4e できること ＞ やりたいこと]]
+[[7-1b4e What you can ＞ What you want (できること ＞ やりたいこと)]]
 [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
