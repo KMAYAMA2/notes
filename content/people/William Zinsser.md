@@ -49,7 +49,7 @@ date: 2024-07-27
 	- The last sentence of each paragraph is also crucial
 - Collect more material than you will use
 	- Don’t let your sample dictate what you write about. [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent |Avoid empiricism]].
-	- Collect more material until you see [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a diminishing return]] from doing so
+	- [[10-1a1b 行き詰らないとアブダクションできない |Collect more material]] until you see [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a diminishing return]] from doing so
 	- Look everywhere for your material. Throw in some [[2-1a6c5 'Randomness' is the opportunity to reason abductively |randomness]]. 
 		- Expect to find them in [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them |places where you least expect]] them to be.
 - Use [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved |narrative instinct]] to your advantage

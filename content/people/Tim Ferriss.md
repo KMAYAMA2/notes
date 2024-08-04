@@ -1,0 +1,3 @@
+- [[RUL3 - Ask 'what would it look like if it were easy and fun']]
+- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
+- [[7-1e We ask ‘what is the rich doing’ because they are the ones who have the resource to experiment with to find ways to cheapen the means of production]]

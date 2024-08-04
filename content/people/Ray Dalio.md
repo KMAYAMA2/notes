@@ -1,0 +1,3 @@
+- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+- [[2-1b2b3 Don't invest what you can't afford to lose]]

@@ -1,0 +1,3 @@
+- [[3-1c2e3.1 It’s symbols all the way down]]
+- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
+- [[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]

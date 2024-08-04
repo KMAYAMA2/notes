@@ -1,0 +1,2 @@
+- [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
+- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]

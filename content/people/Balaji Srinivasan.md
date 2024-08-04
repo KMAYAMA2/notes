@@ -1,0 +1,2 @@
+- [[12-1a Turning constants into variables increases volatility]]
+- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]

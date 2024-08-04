@@ -1,0 +1,4 @@
+- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
+- [[1-2g3.1 It’s explanations all the way down]]
+- [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
+- [[1-2g1a1 Popper, Turing, Everett, Dawkins (then Deutsch himself) gave a better explanation as to why the prevailing theories were true after all (unfortunately, they have found themselves constantly on the defensive against obsolete theories)]]

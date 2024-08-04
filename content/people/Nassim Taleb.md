@@ -1,0 +1,2 @@
+- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
