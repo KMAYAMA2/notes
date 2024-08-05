@@ -1,3 +1,8 @@
+---
+date: 2024-08-05
+---
+Surprises are keys to learning and growth. [[2-1a4 'Language instinct' - Language can't exhaust mind |You know more than you think you do]].
+
 [[1-1c5a Write down what surprises you]]
 [[5-2b1b Writing down makes it easier for your conscious to see the unconscious]]
 
