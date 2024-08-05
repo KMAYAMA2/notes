@@ -50,19 +50,21 @@ export default (() => {
           .map((res) => JSResourceToScriptElement(res, true))}
 
         {/*Plausible*/}
-        {/* <script defer data-domain="kenti.xyz" src="https://plausible.io/js/script.js"></script> */}
-
-        {/* Google Analytics */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-VG3NDG6BHW"></script>
+        <script defer data-domain="kenti.xyz" src="https://plausible.io/js/script.js"></script>
+        
+        {/* If using Google Analytics, activate this:
+         
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-xxx"></script>
         <script>
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-VG3NDG6BHW');
+            gtag('config', 'G-xxx');
           `}
         </script>
+        */}
 
       </head>
     )
