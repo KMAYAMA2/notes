@@ -1,6 +1,9 @@
 ---
 date: 2024-08-04
 ---
+Calvin Coolidge ([[Will Guidara]]’s favorite quote):
+>*”Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.”* — 
+
 [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying |Actionability beats visibility ]]
 
 [[2-1b2 Play in different time horizon. That is, in the long-run.]]
