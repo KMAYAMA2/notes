@@ -1,3 +1,5 @@
+E.g., FIRE
+
 [[3-1c3d2 Well defined problems are completable, and allow you to take small steps]]
 
 [[ロスは速攻切る。勝ちポジションは徐々に積み上げていく。損益に対して生じる非対称な行動心理を予め計算に入れておくこと。]]
