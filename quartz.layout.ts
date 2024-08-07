@@ -48,10 +48,22 @@ export const defaultContentPageLayout: PageLayout = {
         */
       }),
     ),
+    // Recent Essays
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Essays",
+        limit: 1,
+        showTags: false,
+        filter: (f) =>
+          f.slug!.startsWith("essays/") && f.slug! !== "notes/index" && !f.frontmatter?.noindex,
+        linkToMore: "essays/" as SimpleSlug,
+      }),
+    ),
+    // Recent Notes
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
-        limit: 3,
+        limit: 2,
         showTags: false,
         filter: (f) =>
           f.slug!.startsWith("notes/") && f.slug! !== "notes/index" && !f.frontmatter?.noindex,
