@@ -1,0 +1,23 @@
+---
+date: 2024-08-12
+---
+###### The Basic Laws of Human Stupidity
+- The First Basic Law
+	- **Always and inevitably everyone underestimates the number of stupid individuals in circulation**
+- The Second Basic Law
+	- **The probability that a certain person be stupid is independent of any other characteristic of that person**
+		- One finds the same percentage of stupid people whether one is considering very large groups or one is dealing with very small ones
+		- At the Northern Pole or at the Equator, whether in developed or underdeveloped countries, whether they are black, red, white or yellow, female or male—that proportion is constant
+- The Third Basic Law
+	- **A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses**
+		- “Nobody knows, understands or can possibly explain why that preposterous creature does what he does. In fact there is no explanation — or better, there is only one explanation: the person in question is stupid.”
+- The Fourth Basic Law
+	- **Non-stupid people always underestimate the damaging power of stupid individuals. In particular non-stupid people constantly forget that at all times and places and under any circumstances to deal and/or associate with stupid people infallibly turns out to be a costly mistake.**
+		- “When confronted with stupid individuals often intelligent men make the mistake of indulging in feelings of self-complacency and contemptuousness instead of immediately secreting adequate quantities of adrenalin and building up defenses.”
+- The Fifth Basic Law
+	- **A stupid person is the most dangerous type of person**
+	- **A stupid person is more dangerous than a bandit**
+- The power of stupidity
+	- Because the stupid person’s actions do not conform to the rules of rationality, it follows that:
+		- One is generally caught by surprise by the attack;
+		- Even when one becomes aware of the attack, one cannot recognize a rational defense, because the attack itself lacks any rational structure.
