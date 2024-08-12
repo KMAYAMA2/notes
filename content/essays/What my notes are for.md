@@ -18,7 +18,7 @@ Life happens with pen and paper, but it happens outside of it.
 
 **Notes**
 
-[1] In writing this essay, I realized I did put my notes in public for the sake of going public. Figuring out what to [[9-3 Increase surface area of luck |learn in public]] is the problem now. But I’m not taking these notes for the sake of it—what does that even mean?
+[1] In writing this essay, I realized I did put my notes in public for the sake of going public. Figuring out what to [[9-3 Increase surface area of luck |learn in public]] is the problem now. But is doing anything for its own sake a problem? Isn’t that the definition of art?
 
 
 
