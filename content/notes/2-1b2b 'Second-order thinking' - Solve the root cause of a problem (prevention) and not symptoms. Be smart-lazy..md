@@ -15,6 +15,8 @@
 **Buffet is extreme long-term thinker**
 #FutureSelf 
 
+> “For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.“ — [[Naval Ravikant]]
+
 Save keystrokes
 #develop 
 

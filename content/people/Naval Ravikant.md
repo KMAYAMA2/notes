@@ -1,2 +1,65 @@
+---
+date: 2024-08-12
+---
+###### The Almanack of Naval Ravikant
+- **Building Wealth**
+	- “Getting rich is about knowing what to do, who to do it with, and when to do it.”
+	- “Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth.”
+		- Money is social credits. It is the ability to have credits and debits of other people’s time.
+	- “You will get rich by giving society what it wants but does not yet know how to get. At scale.”
+	- “[[1-1a5b4.3 build-launch-measure-learn and iterate - don't restart |Play iterated games]]. All the return in life, whether in wealth, relationships, or knowledge, come from compound interest.”
+	- “Business leverage come from capital, people, and products with no marginal cost of replication (code and media).”
+	- “There is no skill called *[[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |business]]*. Avoid business magazines and business classes.”
+	- “Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.”
+		- Technology democratizes consumption but consolidates production. The best person in the world at anything gets to do it for everyone. 
+			- In this leveraged world, small differences result in big differences.
+- Specific Knowledge
+	- It cannot be taught, but it can be learned.
+		- The specific knowledge is the weird combination of unique traits from your DNA, your unique upbringing, and your response to it. It’s almost baked into your personality and your identity.
+			- [[3-1c Know what your problems are |Know thyself]]—”Escape competition through [[5-1b1b2b Don't try to be the best. Be the only. |authenticity]]”
+	- “Most of life is a search for who and what needs you the most”
+	- Specific knowledge is often stuff that’s only now being figured out or is really hard to figure out
+		- If you are not 100 percent into it, somebody else who is will outperform you—and they’ll outperform you by a lot because now we’re operating in the domain of ideas, where compound interest really applies and leverage really applies.
+	- “The most important skill for getting rich is becoming [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a perpetual learner]]”
+- Long-Term Games With Long-Term People
+	- “In most things what you’re trying to do is [[3-1b Be flexible with the problem itself, because you may not know what’s the real problem yet |find]] the thing you can go all-in on to earn compound interest.”
+- Ownership
+	- Ownership is really important. Without ownership, your inputs are very closely tied to your outputs. The real wealth is created by starting your own companies or even by investing. 
+- Leverage
+	- “Following your [[5-1b1b2a If you follow the Fun Criterion, you’ll be good at things |genuine intellectual curiosity]] is a better foundation for a career than following whatever is making money right now.”
+		- “I only really want to do things for their own sake. That is one definition of art. Ironically, when you do things for their own sake, you create your best work.”
+			- “The less you want something, the more you’re going to do it in a natural way. The more you’re going to do it for [[7-1a Create something you would want for yourself, and never for some imaginary audience |yourself]]. You’re going to do it in a way you’re good at, and you’re going to stick with it. The people around you will see the quality of your work is higher.”
+				- Being at the extreme in your art is important in the age of leverage
+	- “You are waiting for your moment when something emerges in the world, they need a skillset, and you’re uniquely qualified. You build your brand in the meantime. You make a name for yourself, and you take some risk in the process. When it is time to move on the opportunity, you can do so with leverage—the maximum leverage possible.”
+	- “Whenever you can in life, optimize for independence rather than pay. If you have independence and you’re accountable on your output, as opposed to your input—that’s the dream.”
+	- “A good software engineer, just by writing the right little piece of code and creating the right little application, can literally create half a billion dollar’s worth of value for a company.”
+	- “You start as a salaried employee. But you want to work your way up to try and get higher leverage, more [[2-1b2d 'Trust' - The most effective business is one with trust. Build one. |accountability]], and [[9-2b3e4 Specific knowledge ≠ Universality |specific knowledge]]. The combination of those over a long period of time with the magic of [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded. |compound interest]] will make you wealthy.”
+- Judgement
+	- “I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to e paid for my judgement.”
+		- Warren Buffet spends a year deciding and a day acting—that act lasts decades.
+- Prioritize And Focus
+	- Value your time at an hourly rate, and [[4-1a4b6a0.3 Time is money means money is time |ruthlessly spend to save time]] at that rate. You will never be worth more than you think you’re worth.
+	- Wealth creation is an evolutionarily recent [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] game. Status is an old zero-sum game. The business world has many people playing zero-sum games, and a few playing positive-sum games searching for each other in the crowd.
+		- “Play stupid games, win stupid prizes.”
+	- Spend more time making the big decisions: where you live, who you’re with, and what you do
+		- “Do you want to leave your friends behind? Or be the one left behind?”
+	- “Figure out what you are good at, and start helping other people with it. Give it away. Pay it forward. Karma works because people are consistent. On [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |a long enough timescale]], you will attract what you project. **But don’t measure—your patience will run out if you count**.”
+- Find Work That [[5-1b4c3a Find work where you like even the parts others find tedious or frightening |Feels Like Play]]
+	- “Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.”
+	- “Find the thing you know how to do better than anybody. You know how to do it better because you love it, and no one can compete with you. If you love to do it, be authentic, and then figure out how to map that to what society actually wants.”
+	- “Whether in commerce, science, or politics—history remembers the artists.”
+		- “Art is creativity. Art is anything done for its own sake. What are the things that are done for their own sake, and there’s nothing behind them. “Loving somebody, creating something, playing.”
+	- “I’m always *working*. It looks like work to others, but it feels like play to me. And that’s how I know no one can compete with me on it. Because I’m just *playing*, for sixteen hours a day. If others want to compete with me, they’re going to work, and they’re going to lose because they’re not going to do it for sixteen hours a day, seven days a week.“
+	- “**The winners of any game are the people who are so addicted they continue playing even as the marginal utility from winning declines**.”
+- How To Get Lucky
+	- There are [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |four kinds of luck]]—put yourself in a position to capitalize on those
+	- “Be a maker who makes something interesting people want. Show your craft, practice your craft, and the right people will eventually find you.”
+- Be Patient
+	- “It takes time—even once you have all of these pieces in place, there is an indeterminate amount of time you have to put in. **If you’re counting, you’ll run out of patience before success actually arrives**.”
+		- “You have to enjoy it and keep doing it, keep doing it, and keep doing it. Don’t keep track, and don’t keep count because if you do, you will run out of time.”
+		- [[RUL3 - “Staying Upwind” - don’t plan too much; instead, work on ambitious projects and flow to the most interesting that gives you the best options for the future |Don’t plan too much]]—nothing goes exactly as planned
+	- “You have to do hard things anyway to [[6-3a2.1 How you achieve something matters as much as what you achieve |create your own meaning]] in life”
+- **Building Judgement**
+
 - [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
