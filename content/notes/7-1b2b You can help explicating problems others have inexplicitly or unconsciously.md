@@ -1,3 +1,5 @@
+[[5-1b2.3 Don’t be the turkey—the Black Swan is the Grey Swan depending on your perspective]]
+
 [[4-1c1 Don’t prematurely zoom in during conversation, because he might not be self-conscious of the real problems]]
 [[3-1b Be flexible with the problem itself, because you may not know what’s the real problem yet]]
 

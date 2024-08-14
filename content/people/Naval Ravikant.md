@@ -3,28 +3,28 @@ date: 2024-08-12
 ---
 ###### The Almanack of Naval Ravikant
 - **Building Wealth**
-	- “Getting rich is about knowing what to do, who to do it with, and when to do it.”
+	- “Getting rich is about knowing what to do, who to do it with, and [[7-1b4d Don't be proud of being 'too early' because it's easy to be 'too early' if your tech knowledge is naive |when]] to do it.”
 	- “Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth.”
 		- Money is social credits. It is the ability to have credits and debits of other people’s time.
 	- “You will get rich by giving society what it wants but does not yet know how to get. At scale.”
 	- “[[1-1a5b4.3 build-launch-measure-learn and iterate - don't restart |Play iterated games]]. All the return in life, whether in wealth, relationships, or knowledge, come from compound interest.”
 	- “Business leverage come from capital, people, and products with no marginal cost of replication (code and media).”
 	- “There is no skill called *[[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |business]]*. Avoid business magazines and business classes.”
-	- “Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.”
+	- “**Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.**”
 		- Technology democratizes consumption but consolidates production. The best person in the world at anything gets to do it for everyone. 
-			- In this leveraged world, small differences result in big differences.
+			- In this leveraged world, small differences can result in huge differences.
 - Specific Knowledge
 	- It cannot be taught, but it can be learned.
 		- The specific knowledge is the weird combination of unique traits from your DNA, your unique upbringing, and your response to it. It’s almost baked into your personality and your identity.
-			- [[3-1c Know what your problems are |Know thyself]]—”Escape competition through [[5-1b1b2b Don't try to be the best. Be the only. |authenticity]]”
+			- ”Escape competition through [[5-1b1b2b Don't try to be the best. Be the only. |authenticity]]”—[[3-1c Know what your problems are |Know thyself]]
 	- “Most of life is a search for who and what needs you the most”
 	- Specific knowledge is often stuff that’s only now being figured out or is really hard to figure out
-		- If you are not 100 percent into it, somebody else who is will outperform you—and they’ll outperform you by a lot because now we’re operating in the domain of ideas, where compound interest really applies and leverage really applies.
+		- If you are not 100 percent into it, somebody else who is will outperform you—and they’ll outperform you *by a lot* because now we’re operating the domain of ideas, where compound interest really applies and leverage really applies.
 	- “The most important skill for getting rich is becoming [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a perpetual learner]]”
 - Long-Term Games With Long-Term People
 	- “In most things what you’re trying to do is [[3-1b Be flexible with the problem itself, because you may not know what’s the real problem yet |find]] the thing you can go all-in on to earn compound interest.”
 - Ownership
-	- Ownership is really important. Without ownership, your inputs are very closely tied to your outputs. The real wealth is created by starting your own companies or even by investing. 
+	- Ownership is really important. Without [[6-3z A world without ownership is a world with less creativity and human flourishing |ownership]], your inputs are very closely tied to your outputs. The real wealth is created by starting your own companies or even by investing. 
 - Leverage
 	- “Following your [[5-1b1b2a If you follow the Fun Criterion, you’ll be good at things |genuine intellectual curiosity]] is a better foundation for a career than following whatever is making money right now.”
 		- “I only really want to do things for their own sake. That is one definition of art. Ironically, when you do things for their own sake, you create your best work.”
@@ -36,10 +36,10 @@ date: 2024-08-12
 	- “You start as a salaried employee. But you want to work your way up to try and get higher leverage, more [[2-1b2d 'Trust' - The most effective business is one with trust. Build one. |accountability]], and [[9-2b3e4 Specific knowledge ≠ Universality |specific knowledge]]. The combination of those over a long period of time with the magic of [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded. |compound interest]] will make you wealthy.”
 - Judgement
 	- “I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to e paid for my judgement.”
-		- Warren Buffet spends a year deciding and a day acting—that act lasts decades.
+		- “Warren Buffet spends a year deciding and a day acting—that act lasts decades.”
 - Prioritize And Focus
 	- Value your time at an hourly rate, and [[4-1a4b6a0.3 Time is money means money is time |ruthlessly spend to save time]] at that rate. You will never be worth more than you think you’re worth.
-	- Wealth creation is an evolutionarily recent [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] game. Status is an old zero-sum game. The business world has many people playing zero-sum games, and a few playing positive-sum games searching for each other in the crowd.
+	- Wealth creation is an evolutionarily recent [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] game. Status is an old zero-sum game. The business world has many people playing zero-sum games, and a few playing positive-sum games.
 		- “Play stupid games, win stupid prizes.”
 	- Spend more time making the big decisions: where you live, who you’re with, and what you do
 		- “Do you want to leave your friends behind? Or be the one left behind?”
@@ -48,7 +48,7 @@ date: 2024-08-12
 	- “Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.”
 	- “Find the thing you know how to do better than anybody. You know how to do it better because you love it, and no one can compete with you. If you love to do it, be authentic, and then figure out how to map that to what society actually wants.”
 	- “Whether in commerce, science, or politics—history remembers the artists.”
-		- “Art is creativity. Art is anything done for its own sake. What are the things that are done for their own sake, and there’s nothing behind them. “Loving somebody, creating something, playing.”
+		- “Art is creativity. Art is anything done for its own sake. What are the things that are done for their own sake, and there’s nothing behind them. Loving somebody, creating something, playing.”
 	- “I’m always *working*. It looks like work to others, but it feels like play to me. And that’s how I know no one can compete with me on it. Because I’m just *playing*, for sixteen hours a day. If others want to compete with me, they’re going to work, and they’re going to lose because they’re not going to do it for sixteen hours a day, seven days a week.“
 	- “**The winners of any game are the people who are so addicted they continue playing even as the marginal utility from winning declines**.”
 - How To Get Lucky
@@ -60,6 +60,37 @@ date: 2024-08-12
 		- [[RUL3 - “Staying Upwind” - don’t plan too much; instead, work on ambitious projects and flow to the most interesting that gives you the best options for the future |Don’t plan too much]]—nothing goes exactly as planned
 	- “You have to do hard things anyway to [[6-3a2.1 How you achieve something matters as much as what you achieve |create your own meaning]] in life”
 - **Building Judgement**
+	- “You don’t get rich by spending your time to save money. You get rich by saving your time to make money.”
+	- Nature doesn’t have any *should*
+		- “The number one thing clouding us from being able to see reality is we have preconceived notions of the way it should be”
+			> I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” – Richard Feynman
+	- Make the time
+		- “It’s only after you’re [[10-1a1b 行き詰らないとアブダクションできない |bored]] you have [[3-1c2a Your mind, including the unconscious, has to know the problems you explicitly have |the great ideas]]. It’s never going to be when you’re stressed, or busy, running around or rushed.”
+- Shed Your Identity to See Reality
+	- It’s really important to be able to [[10-2g2e9 Abstractions are corrected by realizing how ‘it could’ve been otherwise’ |uncondition]] yourself
+		- “[[12-1d Flexible media will surface contingency |Identities]] and [[3-1a0 Use categories, but don't be categorized |labels]] locks you in and keeps you from seeing the truth”
+			- Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]]
+				- “Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. **There are no [[12-1e Nothing is necessary = Everything is contingent |permanent]] solutions in a dynamic system**.”
+- Mental Models
+	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |Inversion]]
+		- “I think being successful is just about not making mistakes. It’s not about having correct judgement. It’s about avoiding incorrect judgements.”
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives. |Principal-Agent Problem]]
+		- “The less you feel like an agent, the better the job you’re going to do.”
+	- [[RUL3 - Run upstairs. Choose the difficult terrain like guerillas. |Run Uphill]]
+		> “Easy choices, hard life. Hard choices, easy life.” – Jerzy Gregorek
+- Learn to Love to Read
+	- “Read what you love until you love to read.”
+		> “As long as I have a book in my hand, I don’t feel like I’m wasting time.” – [[Charlie Munger]]
+	- “As you know more, you leave more books [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law) |unfinished]]. Focus on new concepts with predictive power.”
+	- “There are as [[4-1a3b Go to specific places to get specific feedbacks |many different kinds]] of authors as there are other people. Many of them are going to write lots of junk.”
+		- Be selective
+	- “To think clearly, understand the basics. If you’re memorizing advanced concepts without being able to [[Deconstruct, then reconstruct |re-derive]] them as needed, you’re lost.”
+	- There is no obligation whatsoever to finish the book
+		- [[3-1c3d0 Break down into mini-projects, they become more actionable because they are less scary than bigger ones |Take it lightly]]
+	- “You know that song you can’t get out of your head? All thoughts work that way. Careful [[3-1c1b0 You are what you consume (read) |what you read]].”
+- **Happiness**
+	- “The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse.”
+		- And they are also interconnected
 
 - [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
