@@ -16,4 +16,4 @@
 #FutureSelf
 
 [[4-1a4b2c Asking questions such as 'what does xxx MEAN to you' can displace the counterpart from the context of the situation, and allow them to take a step back]]
-[[4-1a4b2d 'Tendency to want to do something' (e.g., fight, flight, intervention, demonstration of value) - We don't get paid for activity, just for being right. The big money is in the waiting. Look for a fat pitch.]]
+[[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]

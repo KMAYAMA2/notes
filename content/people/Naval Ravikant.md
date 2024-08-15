@@ -70,7 +70,7 @@ date: 2024-08-12
 	- It’s really important to be able to [[10-2g2e9 Abstractions are corrected by realizing how ‘it could’ve been otherwise’ |uncondition]] yourself
 		- “[[12-1d Flexible media will surface contingency |Identities]] and [[3-1a0 Use categories, but don't be categorized |labels]] locks you in and keeps you from seeing the truth”
 			- Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]]
-				- “Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. **There are no [[12-1e Nothing is necessary = Everything is contingent |permanent]] solutions in a dynamic system**.”
+				- “Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. **There are no [[12-1e1 There are no permanent solutions in a dynamic system |permanent]] solutions in a dynamic system**.”
 - Mental Models
 	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |Inversion]]
 		- “I think being successful is just about not making mistakes. It’s not about having correct judgement. It’s about avoiding incorrect judgements.”
@@ -90,7 +90,19 @@ date: 2024-08-12
 	- “You know that song you can’t get out of your head? All thoughts work that way. Careful [[3-1c1b0 You are what you consume (read) |what you read]].”
 - **Happiness**
 	- “The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse.”
-		- And they are also interconnected
+	- “Whatever [[12-1e2 There is no objective happiness |happiness]] means to me, it means something different to you.”
+		- Similar to how whatever [[11-1d There is no objective risk |risk]] means to me, it means something different to you.
+	- “You have to view the negative before you can aspire to and appreciate the positive.”
+	- “The fewer desires I can have, the more I can [[1-2g2r0 The Turing principle implies 梵我一如 |accept]] the current state of things, the less my mind is moving, because the mind really exists in motion toward the future or the past.”
+	- “Happiness to me is mainly not suffering, not desiring, not thinking too much about the future or the past, really embracing the present moment and the reality of [[2-1b2b0.2 Focus on the 'what is' before deciding 'what to do' about it |what is]], and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |the way it is]].”
+	- “Happiness is what’s there when you remove the sense that something is missing in your life.”
+	- “Memory and identity are burdens from the past preventing us from living freely in the present.”
+	- “It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire.”
+		- “Play stupid games, win stupid prizes.”
+	- “There are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |unlimited]] external problems. The only way to actually get peace on the inside is by giving up this idea of problems.”
+- Envy Is the Enemy of Happiness
+	- “Whenever the word *[[12-1e3 There is no should in nature |should]]* creeps up in your mind, it’s guilt or social programming.”
+
 
 - [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]

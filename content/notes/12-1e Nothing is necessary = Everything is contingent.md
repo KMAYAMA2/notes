@@ -2,6 +2,8 @@
 
 Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 
+[[12-1e1 There are no permanent solutions in a dynamic system]]
+
 ---
 ##### Things made contingent in other notes:
 - [[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans]]
@@ -21,5 +23,8 @@ Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 
 - [[9-2b3e3 There is no universal knowledge]]
 - [[9-2b3e3.1 Maybe there is no abstract universality, just less locality]]
 - [[10-2g2c0b There is no a priori - 直観は存在しない]]
+- [[11-1d There is no objective risk]]
 - [[11-3.5 There is no universal utility. Utility doesn't exist in the abstract, it must be rooted in the context and corresponding explanations.]]
+- [[12-1e2 There is no objective happiness]]
+- [[12-1e3 There is no should in nature]]
 - [[12-1f 言葉と物事の関係性が一対である必要性はない (e.g., 二項同体)]]
