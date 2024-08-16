@@ -99,7 +99,7 @@ date: 2024-08-12
 	- “Happiness to me is mainly not suffering, not desiring, not thinking too much about the future or the past, really embracing the present moment and the reality of [[2-1b2b0.2 Focus on the 'what is' before deciding 'what to do' about it |what is]], and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |the way it is]].”
 	- “Happiness is what’s there when you remove the sense that something is missing in your life.”
 	- “Memory and identity are burdens from the past preventing us from living freely in the present.”
-	- “It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire.”
+	- “**It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire**.”
 		- “Play stupid games, win stupid prizes.”
 	- “There are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |unlimited]] external problems. The only way to actually get peace on the inside is by giving up this idea of problems.”
 - Envy Is the Enemy of Happiness
@@ -107,8 +107,8 @@ date: 2024-08-12
 		- “Training yourself to be happy is completely internal. There is no external progress, no external validation. You’re competing against yourself—it is a single-player game.”
 			- “A lot of it is conditioning from your environment, but you can [[Deconstruct, then reconstruct |un-condition and recondition]] yourself.”
 - Happiness Is Built by Habits
-	- “You are a combination of your habits and the people who you spend the most time with.”
-		- Are they habits that will increase your long-term happiness rather than your short-term happiness? Are you surrounding yourself with people who are generally positive and upbeat people? Are those relationships low-maintenance? Do you admire and respect but not envy them?
+	- “You are a combination of your [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying |habits]] and the people who you spend the most time with.”
+		- *Are they habits that will increase your long-term happiness rather than your short-term happiness? Are you [[2-1a1a3c Belong where your desired habits are the norm |surrounding]] yourself with people who are generally positive and upbeat people? Are those relationships low-maintenance? Do you admire and respect but not envy them?*
 	- “The more you judge, the more you separate yourself. You’ll feel good for an instant, because you feel good about yourself, thinking you’re better than someone. Later, you’re going to feel [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet |lonely]]. Then, you see negativity everywhere. The world just reflects your own feelings back at you.”
 - Find Happiness in Acceptance
 	- “In any situation in life, you always have three choices: you can change it, you can accept it, or you can leave it. If you want to change it, then it is a desire.”
@@ -125,14 +125,14 @@ date: 2024-08-12
 			- [[5-1 When you are long truth you are long volatility and time |Long volatility means long time]]
 	- “Use your judgement to [[2-1b3a1 Narrow it down so you can have a chance to build your own moat |figure out]] what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed.”
 	- Advice to my younger self: “Be exactly who you are.”
-		- “Holding back means staying in bad relationships and bad jobs for years instead of minutes.”
+		- “**Holding back means staying in bad relationships and bad jobs for years instead of minutes**.”
 - Choosing to Free Yourself
-	- “If they have an expectation of you, that’s completely their problem”
+	- “**If they have an expectation of you, that’s completely their problem**”
 		- The sooner you can dash their expectations, the better.
 			- “Courage isn’t charging into a machine gun nest. Courage is not caring what other people think.”
 		- Don’t spend your time making other people happy. Other people being happy is their problem. It’s not your problem. 
 			- If you are happy, it makes other people happy.
-	- “The mind should be [[1-2g1c3 Confining yourself only to 'your mind' is quite an arbitrary decision |a servant and a tool]], not a master”
+	- “**The mind should be [[1-2g1c3 Confining yourself only to 'your mind' is quite an arbitrary decision |a servant and a tool]], not a master**”
 		- Break the habit of uncontrolled thinking
 - **Philosophy**
 	- “There is no fundamental, intrinsic purposeful [[1-1a2e10 There is no such thing as objective meaning |meaning]] to the Universe.”
@@ -140,17 +140,17 @@ date: 2024-08-12
 	- “I have to reject all the pieces I can’t [[1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated. |verify]]”
 	- “Rational Buddhism, to me, means understanding the internal work Buddhism espouses to make yourself happier, better off, more present and in control of your emotions—being a better human being.”
 		- “I would say my philosophy falls down to this—on one pole is evolution as a binding principle because it explains so much about humans, on the other is Buddhism, which is the oldest, most time-tested spiritual philosophy regarding the internal state of each of us.”
-			- “The older the question, the older the answers.”
+			- “The older the question, [[5-2c2b The Lindy effect |the older the answers]].”
 	- “Everyone starts out innocent. Everyone is corrupted. Wisdom is the discarding of vices and the return to virtue, by way of knowledge.”
 - Live by Your Values
-	- Honesty is a core, core, core value
+	- **Honesty is a core, core, core value**
 		- “I want to be able to just be me. I never want to be in an environment or around people where I have to watch what I say. If I disconnect what I’m thinking from what I’m saying, it creates multiple threads in my mind. I’m no longer in the moment—now I have to be future-planning or past-regretting every time I talk to somebody. Anyone around whom I can’t be fully honest, I don’t want to be around.”
 	- “I don’t believe in any short-term thinking or dealing”
 		- All benefits in life come from [[2-1b2c 'Compounding' - Permeate across the timeline |compound interest]]
 	- “I only believe in peer relationships”
 		- “I don’t want to be above anybody, and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like peer, I just don’t want to interact with them.”
 	- “Much of finding great relationships, great coworkers, great lovers, wives, husbands, is finding other people where your values line up. If your values line up, the little things don’t matter.”
-		- “To find a worthy mate, be worthy of a worthy mate.” – [[Charlie Munger]]
+		> “To find a worthy mate, be worthy of a worthy mate.” – [[Charlie Munger]]
 - How do you define wisdom?
 	- “Understanding the long-term consequences of your actions.”
-	- “If wisdom could be imparted through [[10-1b1 It is the body that learns - '考えるな. 感じろ.' |words]] alone, we’d all be done here”
+> 		“If wisdom could be imparted through [[10-1b1 It is the body that learns - '考えるな. 感じろ.' |words]] alone, we’d all be done here”
