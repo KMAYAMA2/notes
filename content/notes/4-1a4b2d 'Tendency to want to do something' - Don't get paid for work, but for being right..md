@@ -26,5 +26,5 @@ E.g., fight, flight, intervention, demonstration of value
 
 Adopt Kissinger’s approach - simply ask “Is this your best work?"
 	[[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
-		[[11-1c When investing, you have to address THE problem. You have to hedge THE risk.]]
+		[[11-1c When investing, you have to address your problem. You have to hedge your risk.]]
 			[[9-4b3e3e 'Friction and viscosity' - Give THE problem as much attention as possible. Better UI-UX often can make innovation possible because users benefit from cognitive offload.]]

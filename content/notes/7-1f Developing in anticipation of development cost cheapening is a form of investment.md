@@ -1,5 +1,5 @@
 [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
-[[11-1c When investing, you have to address THE problem. You have to hedge THE risk.]]
+[[11-1c When investing, you have to address your problem. You have to hedge your risk.]]
 [[11-2a Invest for the wealth it can generate, not for the money per se]]
 
 [[9-4b2a1d2 Don't bee too technical but also don't be too ambitious. Look from both technical and historical perspectives.]]

@@ -6,4 +6,4 @@ Replace UI-UX with habits-routine
 
 "Steve also understood that computers shouldn't require any effort to operate. There should be no _computing overhead_. Want to make things bigger? Pinch to zoom. Want to watch a video? Just hold your phone sideways. Need to scroll? Literally flick the page down as if it were a _sheet of fucking paper_. Steve dedicated his life to slowly sanding away the friction in computing so that we could give the problem we're working on as much attention as possible. He understood computers should just work, that they should do what you want them to, and that they should be a bicycle for your mind."
 
-[[11-1c When investing, you have to address THE problem. You have to hedge THE risk.]]
+[[11-1c When investing, you have to address your problem. You have to hedge your risk.]]

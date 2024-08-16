@@ -6,4 +6,4 @@
 
 [[2-1b2b0.2 Focus on the 'what is' before deciding 'what to do' about it]]
 	[[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-		[[11-1c When investing, you have to address THE problem. You have to hedge THE risk.]]
+		[[11-1c When investing, you have to address your problem. You have to hedge your risk.]]
