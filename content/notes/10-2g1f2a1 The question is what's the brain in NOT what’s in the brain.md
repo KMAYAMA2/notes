@@ -1,3 +1,5 @@
+> “The current environment programs the brain, but the clever brain can choose its upcoming environment.” – [[Naval Ravikant |Naval]]
+
 [[10-2g1f2a2 You can't separate the mind from the context-culture-body that generated-evolved it. Cartesian dualism is arbitrary categorization-abstraction.]]
 	[[1-1a2c Everett on Aristotle - He is responsible for the characterization of the mind as a blank slate ('Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought')]]
 

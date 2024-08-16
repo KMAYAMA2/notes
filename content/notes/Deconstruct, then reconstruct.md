@@ -1,6 +1,7 @@
 ---
 date: 2024-07-27
 ---
+> “Insight meditation lets you run your brain in debug mode until you realize you’re just a subroutine in a larger program” – [[Naval Ravikant |Naval]]
 
 [[3-1c2f In tech, most of the value is in the ordering, in the useful configuration of zeroes and ones, which users click to pay for it]]
 

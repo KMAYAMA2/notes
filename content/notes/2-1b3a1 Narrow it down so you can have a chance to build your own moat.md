@@ -1,7 +1,11 @@
 ---
 date: 2024-07-28
 ---
+> “Use your judgement to figure out what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed.” – [[Naval Ravikant |Naval]]
+
 You should cast a net to [[9-3 Increase surface area of luck |get lucky]], but [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital. |time is limited]]—so be mindful where you cast your net. And [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes |you don’t have to catch everything]]. Just catch [[5-1b1b1a1b Not every relationships matter. Most likely, only a few matter. |a few that matters]].
+
+[[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain]]
 
 Be specific. 
 [[4-1a3b Go to specific places to get specific feedbacks]]

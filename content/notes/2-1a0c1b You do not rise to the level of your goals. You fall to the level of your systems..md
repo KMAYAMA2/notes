@@ -1,3 +1,5 @@
+> “Set up systems, not goals.” – Scott Adams
+
 You need both goals and systems
 	[[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
 
