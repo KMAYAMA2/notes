@@ -5,91 +5,94 @@ date: 2024-08-12
 
 ###### The Almanack of Naval Ravikant
 - **Building Wealth**
-	- “Getting rich is about knowing what to do, who to do it with, and [[7-1b4d Don't be proud of being 'too early' because it's easy to be 'too early' if your tech knowledge is naive |when]] to do it.”
-	- “Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth.”
+	- Getting rich is about knowing what to do, who to do it with, and [[7-1b4d Don't be proud of being 'too early' because it's easy to be 'too early' if your tech knowledge is naive |when]] to do it.
+	- Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth.
 		- Money is social credits. It is the ability to have credits and debits of other people’s time.
-	- “You will get rich by giving society what it wants but does not yet know how to get. At scale.”
-	- “[[1-1a5b4.3 build-launch-measure-learn and iterate - don't restart |Play iterated games]]. All the return in life, whether in wealth, relationships, or knowledge, come from compound interest.”
-	- “Business leverage come from capital, people, and products with no marginal cost of replication (code and media).”
-	- “There is no skill called *[[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |business]]*. Avoid business magazines and business classes.”
-	- “**Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.**”
+	- You will get rich by giving society what it wants but does not yet know how to get. At scale.
+	- [[1-1a5b4.3 build-launch-measure-learn and iterate - don't restart |Play iterated games]]. All the return in life, whether in wealth, relationships, or knowledge, come from compound interest.
+	- Business leverage come from capital, people, and products with no marginal cost of replication (code and media).
+	- There is no skill called *[[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |business]]*. Avoid business magazines and business classes.
+	- **Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.**
 		- Technology democratizes consumption but consolidates production. The best person in the world at anything gets to do it for everyone. 
-			- In this leveraged world, small differences can result in huge differences.
+			- In this leveraged world, small difference results in huge difference
 - Specific Knowledge
 	- It cannot be taught, but it can be learned.
-		- The specific knowledge is the weird combination of unique traits from your DNA, your unique upbringing, and your response to it. It’s almost baked into your personality and your identity.
-			- ”Escape competition through [[5-1b1b2b Don't try to be the best. Be the only. |authenticity]]”—[[3-1c Know what your problems are |Know thyself]]
-	- “Most of life is a search for who and what needs you the most”
-	- Specific knowledge is often stuff that’s only now being figured out or is really hard to figure out
-		- If you are not 100 percent into it, somebody else who is will outperform you—and they’ll outperform you *by a lot* because now we’re operating the domain of ideas, where compound interest really applies and leverage really applies.
-	- “The most important skill for getting rich is becoming [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a perpetual learner]]”
+		- The specific knowledge is the combination of unique traits from your DNA, your unique upbringing, and your response to it. It’s baked into your personality and your identity.
+			- Escape competition through [[5-1b1b2b Don't try to be the best. Be the only. |authenticity]]—[[3-1c Know what your problems are |Know thyself]]
+	- Most of life is a search for who and what needs you the most
+	- Specific knowledge is stuff that’s only now being figured out or is really hard to figure out
+		- If you are not 100 percent into it, somebody else who is will outperform you—and they’ll outperform you *by a lot* because compound interest and leverage really applies in the domain of ideas.
+	- The most important skill for getting rich is becoming [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve! |a perpetual learner]]
 - Long-Term Games With Long-Term People
-	- “In most things what you’re trying to do is [[3-1b Be flexible with the problem itself, because you may not know what’s the real problem yet |find]] the thing you can go all-in on to earn compound interest.”
+	- In most things what you’re trying to do is [[3-1b Be flexible with the problem itself, because you may not know what’s the real problem yet |find]] the thing you can go all-in on to earn compound interest.
 - Ownership
-	- Ownership is really important. Without [[6-3z A world without ownership is a world with less creativity and human flourishing |ownership]], your inputs are very closely tied to your outputs. The real wealth is created by starting your own companies or even by investing. 
+	- Ownership is important. Without [[6-3z A world without ownership is a world with less creativity and human flourishing |ownership]], your inputs are closely tied to your outputs. The real wealth is created by starting your own companies or even by investing. 
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage. |Leverage]]
-	- “Following your [[5-1b1b2a If you follow the Fun Criterion, you’ll be good at things |genuine intellectual curiosity]] is a better foundation for a career than following whatever is making money right now.”
-		- “I only really want to do things for their own sake. That is one definition of art. Ironically, when you do things for their own sake, you create your best work.”
-			- “The less you want something, the more you’re going to do it in a natural way. The more you’re going to do it for [[7-1a Create something you would want for yourself, and never for some imaginary audience |yourself]]. You’re going to do it in a way you’re good at, and you’re going to stick with it. The people around you will see the quality of your work is higher.”
+	- Following your [[5-1b1b2a If you follow the Fun Criterion, you’ll be good at things |genuine intellectual curiosity]] is a better foundation for a career than following whatever is making money right now.
+		- **“I only really want to do things for their own sake. That is one definition of art. Ironically, when you do things for their own sake, you create your best work.”**
+			- The less you want something, the more you’re going to do it in a natural way. The more you’re going to do it for [[7-1a Create something you would want for yourself, and never for some imaginary audience |yourself]]. You’re going to do it in a way you’re good at, and you’re going to stick with it. The people around you will see the quality of your work is higher.
 				- Being at the extreme in your art is important in the age of leverage
-	- “You are waiting for your moment when something emerges in the world, they need a skillset, and you’re uniquely qualified. You build your brand in the meantime. You make a name for yourself, and you take some risk in the process. When it is time to move on the opportunity, you can do so with leverage—the maximum leverage possible.”
-	- “Whenever you can in life, optimize for independence rather than pay. If you have independence and you’re accountable on your output, as opposed to your input—that’s the dream.”
-	- “A good software engineer, just by writing the right little piece of code and creating the right little application, can literally create half a billion dollar’s worth of value for a company.”
-	- “You start as a salaried employee. But you want to work your way up to try and get higher leverage, more [[2-1b2d 'Trust' - The most effective business is one with trust. Build one. |accountability]], and [[9-2b3e4 Specific knowledge ≠ Universality |specific knowledge]]. The combination of those over a long period of time with the magic of [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded. |compound interest]] will make you wealthy.”
+	- You are waiting for your moment when something emerges in the world, they need a skillset, and you’re uniquely qualified. 
+		- You build your brand in the meantime. You make a name for yourself, and you take some risk in the process. 
+			- When it is time to move on the opportunity, you can do so with leverage—the maximum leverage possible.
+	- Whenever you can in life, optimize for independence rather than pay. If you have independence and you’re accountable on your output, as opposed to your input—that’s the dream.
+	- A good software engineer, just by writing the right little piece of code and creating the right little application, can create half a billion dollar’s worth of value for a company.
+	- You start as a salaried employee. But you want to work your way up to try and get higher leverage, more [[2-1b2d 'Trust' - The most effective business is one with trust. Build one. |accountability]], and [[9-2b3e4 Specific knowledge ≠ Universality |specific knowledge]]. The combination of those over a long period of time with the magic of [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded. |compound interest]] will make you wealthy.
 - Judgement
-	- “I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to e paid for my judgement.”
-		- “Warren Buffet spends a year deciding and a day acting—that act lasts decades.”
+	- **“I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to be paid for my judgement.”**
+		- Warren Buffet spends a year deciding and a day acting—that act lasts decades
 - Prioritize And Focus
 	- Value your time at an hourly rate, and [[4-1a4b6a0.3 Time is money means money is time |ruthlessly spend to save time]] at that rate. You will never be worth more than you think you’re worth.
 	- Wealth creation is an evolutionarily recent [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] game. Status is an old zero-sum game. The business world has many people playing zero-sum games, and a few playing positive-sum games.
-		- “Play stupid games, win stupid prizes.”
-	- Spend more time making the big decisions: where you live, who you’re with, and what you do
+		- Play stupid games, win stupid prizes.
+	- Spend more time making the big decisions: *where you live, who you’re with, and what you do*
 		- “Do you want to leave your friends behind? Or be the one left behind?”
-	- “Figure out what you are good at, and start helping other people with it. Give it away. Pay it forward. Karma works because people are consistent. On [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |a long enough timescale]], you will attract what you project. **But don’t measure—your patience will run out if you count**.”
+	- Figure out what you are good at, and start [[2-1c3 'Win and help win' always outcompete |helping]] other people with it. Give it away. Pay it forward. 
+		- Karma works because people are consistent. On [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |a long enough timescale]], you will attract what you project. **But don’t measure—your patience will run out if you count**.
 - Find Work That [[5-1b4c3a Find work where you like even the parts others find tedious or frightening |Feels Like Play]]
-	- “Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.”
-	- “Find the thing you know how to do better than anybody. You know how to do it better because you love it, and no one can compete with you. If you love to do it, be authentic, and then figure out how to map that to what society actually wants.”
-	- “Whether in commerce, science, or politics—history remembers the artists.”
-		- “Art is creativity. Art is anything done for its own sake. What are the things that are done for their own sake, and there’s nothing behind them. Loving somebody, creating something, playing.”
+	- Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.
+	- Find the thing you know how to do better than anybody. You know how to do it better because you love it, and no one can compete with you. If you love to do it, be authentic, and then figure out how to map that to what society actually wants.
+	- Whether in commerce, science, or politics—history remembers the artists.
+		- Art is creativity. Art is anything done for its own sake. What are the things that are done for their own sake, and there’s nothing behind them. Loving somebody, creating something, playing.
 	- “I’m always *working*. It looks like work to others, but it feels like play to me. And that’s how I know no one can compete with me on it. Because I’m just *playing*, for sixteen hours a day. If others want to compete with me, they’re going to work, and they’re going to lose because they’re not going to do it for sixteen hours a day, seven days a week.“
-	- “**The winners of any game are the people who are so addicted they continue playing even as the marginal utility from winning declines**.”
+	- **The winners of any game are the people who are so addicted they continue playing even as the marginal utility from winning declines**.
 - How To Get Lucky
 	- There are [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |four kinds of luck]]—put yourself in a position to capitalize on those
-	- “Be a maker who makes something interesting people want. Show your craft, practice your craft, and the right people will eventually find you.”
+	- Be a maker who makes something interesting people want. Show your craft, practice your craft, and the right people will eventually find you.
 - Be Patient
-	- “It takes time—even once you have all of these pieces in place, there is an indeterminate amount of time you have to put in. **If you’re counting, you’ll run out of patience before success actually arrives**.”
+	- It takes time—even once you have all of these pieces in place, there is an indeterminate amount of time you have to put in. **If you’re counting, you’ll run out of patience before success actually arrives**.
 		- “You have to enjoy it and keep doing it, keep doing it, and keep doing it. Don’t keep track, and don’t keep count because if you do, you will run out of time.”
 		- [[RUL3 - “Staying Upwind” - don’t plan too much; instead, work on ambitious projects and flow to the most interesting that gives you the best options for the future |Don’t plan too much]]—nothing goes exactly as planned
-	- “You have to do hard things anyway to [[6-3a2.1 How you achieve something matters as much as what you achieve |create your own meaning]] in life”
+	- You have to do hard things anyway to [[6-3a2.1 How you achieve something matters as much as what you achieve |create your own meaning]] in life
 - **Building Judgement**
-	- “You don’t get rich by spending your time to save money. You get rich by saving your time to make money.”
+	- You don’t get rich by spending your time to save money. You get rich by saving your time to make money.
 	- Nature doesn’t have any *should*
-		- “The number one thing clouding us from being able to see reality is we have preconceived notions of the way it should be”
+		- The number one thing clouding us from being able to see reality is we have preconceived notions of the way it should be
 			> I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is what it isn’t.” – Richard Feynman
 	- Make the time
-		- “It’s only after you’re [[10-1a1b 行き詰らないとアブダクションできない |bored]] you have [[3-1c2a Your mind, including the unconscious, has to know the problems you explicitly have |the great ideas]]. It’s never going to be when you’re stressed, or busy, running around or rushed.”
+		- It’s only after you’re [[10-1a1b 行き詰らないとアブダクションできない |bored]] you have [[3-1c2a Your mind, including the unconscious, has to know the problems you explicitly have |the great ideas]]. It’s never going to be when you’re stressed, or busy, running around or rushed.
 - Shed Your Identity to See Reality
 	- It’s really important to be able to [[10-2g2e9 Abstractions are corrected by realizing how ‘it could’ve been otherwise’ |uncondition]] yourself
-		- “[[12-1d Flexible media will surface contingency |Identities]] and [[3-1a0 Use categories, but don't be categorized |labels]] locks you in and keeps you from seeing the truth”
+		- [[12-1d Flexible media will surface contingency |Identities]] and [[3-1a0 Use categories, but don't be categorized |labels]] locks you in and keeps you from seeing the truth
 			- Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]]
-				- “Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. **There are no [[12-1e1 There are no permanent solutions in a dynamic system |permanent]] solutions in a dynamic system**.”
+				- “Facebook redesigns. Twitter redesigns. Personalities, careers, and teams also need redesigns. **There are no [[12-1e1 There are no permanent solutions in a dynamic system |permanent]] solutions in a dynamic system**.
 - Mental Models
 	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |Inversion]]
 		- “I think being successful is just about not making mistakes. It’s not about having correct judgement. It’s about avoiding incorrect judgements.”
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives. |Principal-Agent Problem]]
-		- “The less you feel like an agent, the better the job you’re going to do.”
+		- The less you feel like an agent, the better the job you’re going to do.
 	- [[RUL3 - Run upstairs. Choose the difficult terrain like guerillas. |Run Uphill]]
 		> “Easy choices, hard life. Hard choices, easy life.” – Jerzy Gregorek
 - Learn to Love to Read
-	- “Read what you love until you love to read.”
+	- Read what you love until you love to read.
 		> “As long as I have a book in my hand, I don’t feel like I’m wasting time.” – [[Charlie Munger]]
-	- “As you know more, you leave more books [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law) |unfinished]]. Focus on new concepts with predictive power.”
-	- “There are as [[4-1a3b Go to specific places to get specific feedbacks |many different kinds]] of authors as there are other people. Many of them are going to write lots of junk.”
+	- As you know more, you leave more books [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law) |unfinished]]. Focus on new concepts with predictive power.
+	- There are as [[4-1a3b Go to specific places to get specific feedbacks |many different kinds]] of authors as there are other people. Many of them are going to write lots of junk.
 		- Be selective
-	- “To think clearly, understand the basics. If you’re memorizing advanced concepts without being able to [[Deconstruct, then reconstruct |re-derive]] them as needed, you’re lost.”
+	- To think clearly, understand the basics. If you’re memorizing advanced concepts without being able to [[Deconstruct, then reconstruct |re-derive]] them as needed, you’re lost.
 	- There is no obligation whatsoever to finish the book
 		- [[3-1c3d0 Break down into mini-projects, they become more actionable because they are less scary than bigger ones |Take it lightly]]
-	- “You know that song you can’t get out of your head? All thoughts work that way. Careful [[3-1c1b0 You are what you consume (read) |what you read]].”
+	- You know that song you can’t get out of your head? All thoughts work that way. Careful [[3-1c1b0 You are what you consume (read) |what you read]].
 - **Happiness**
 	- “The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse.”
 	- “Whatever [[12-1e2 There is no objective happiness |happiness]] means to me, it means something different to you.”
@@ -99,19 +102,19 @@ date: 2024-08-12
 	- “Happiness to me is mainly not suffering, not desiring, not thinking too much about the future or the past, really embracing the present moment and the reality of [[2-1b2b0.2 Focus on the 'what is' before deciding 'what to do' about it |what is]], and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |the way it is]].”
 	- “Happiness is what’s there when you remove the sense that something is missing in your life.”
 	- “Memory and identity are burdens from the past preventing us from living freely in the present.”
-	- “**It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire**.”
-		- “Play stupid games, win stupid prizes.”
+	- **It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire**.
+		- Play stupid games, win stupid prizes.
 	- “There are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |unlimited]] external problems. The only way to actually get peace on the inside is by giving up this idea of problems.”
 - Envy Is the Enemy of Happiness
-	- “Whenever the word *[[12-1e3 There is no should in nature |should]]* creeps up in your mind, it’s guilt or social programming.”
-		- “Training yourself to be happy is completely internal. There is no external progress, no external validation. You’re competing against yourself—it is a single-player game.”
-			- “A lot of it is conditioning from your environment, but you can [[Deconstruct, then reconstruct |un-condition and recondition]] yourself.”
+	- Whenever the word *[[12-1e3 There is no should in nature |should]]* creeps up in your mind, it’s guilt or social programming.
+		- Training yourself to be happy is completely internal. There is no external progress, no external validation. You’re competing against yourself—it is a single-player game.
+			- A lot of it is conditioning from your environment, but you can [[Deconstruct, then reconstruct |un-condition and recondition]] yourself.
 - Happiness Is Built by Habits
-	- “You are a combination of your [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying |habits]] and the people who you spend the most time with.”
+	- You are a combination of your [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying |habits]] and the people who you spend the most time with.
 		- *Are they habits that will increase your long-term happiness rather than your short-term happiness? Are you [[2-1a1a3c Belong where your desired habits are the norm |surrounding]] yourself with people who are generally positive and upbeat people? Are those relationships low-maintenance? Do you admire and respect but not envy them?*
 	- “The more you judge, the more you separate yourself. You’ll feel good for an instant, because you feel good about yourself, thinking you’re better than someone. Later, you’re going to feel [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet |lonely]]. Then, you see negativity everywhere. The world just reflects your own feelings back at you.”
 - Find Happiness in Acceptance
-	- “In any situation in life, you always have three choices: you can change it, you can accept it, or you can leave it. If you want to change it, then it is a desire.”
+	- In any situation in life, you always have three choices: you can change it, you can accept it, or you can leave it. If you want to change it, then it is a desire.
 		- Pick one big desire in your life at any given time to give yourself purpose and motivation. Not two—you’ll be distracted.
 	- “You’re going to die one day, and none of this is going to matter. So enjoy yourself. Do something positive. Project some love. Make someone happy. Laugh a little bit. Appreciate the moment. And do your work.”
 - **Saving Yourself**
@@ -120,27 +123,27 @@ date: 2024-08-12
 		- Your goal in life is to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find]] the people, business, project, or art that needs you the most. Be [[Be an artist first |the artist]].
 	- “My number one priority in life, above my happiness, above my family, above my work, is my own [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |health]].”
 	- “I do not want my sense of [[1-2g1c3a Humans have no nature and no self apart from the experiences they have united in their memories (the Buddhist notion of anatman - 'no self') |self]] to continue to develop and strengthen as I get older. I want it to be weaker and more muted so I can be more in present everyday reality, accept nature and the world for what it is, and appreciate it very much as a child would.”
-	- “Impatience with actions, patience with results.”
-		- **You just have to be patient with the results because you’re dealing with complex systems and many people**.
+	- Impatience with actions, patience with results.
+		- **You have to be patient with the results because you’re dealing with complex systems and many people**.
 			- [[5-1 When you are long truth you are long volatility and time |Long volatility means long time]]
-	- “Use your judgement to [[2-1b3a1 Narrow it down so you can have a chance to build your own moat |figure out]] what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed.”
-	- Advice to my younger self: “Be exactly who you are.”
-		- “**Holding back means staying in bad relationships and bad jobs for years instead of minutes**.”
+	- Use your judgement to [[2-1b3a1 Narrow it down so you can have a chance to build your own moat |figure out]] what kinds of environments you can thrive in, and then create an environment around you so you’re statistically likely to succeed.
+	- “Advice to my younger self: *Be exactly who you are*.”
+		- **Holding back means staying in bad relationships and bad jobs for years instead of minutes**.
 - Choosing to Free Yourself
-	- “**If they have an expectation of you, that’s completely their problem**”
+	- **If they have an expectation of you, that’s completely their problem**
 		- The sooner you can dash their expectations, the better.
-			- “Courage isn’t charging into a machine gun nest. Courage is not caring what other people think.”
+			- Courage isn’t charging into a machine gun nest. Courage is not caring what other people think.
 		- Don’t spend your time making other people happy. Other people being happy is their problem. It’s not your problem. 
 			- If you are happy, it makes other people happy.
-	- “**The mind should be [[1-2g1c3 Confining yourself only to 'your mind' is quite an arbitrary decision |a servant and a tool]], not a master**”
+	- **The mind should be [[1-2g1c3 Confining yourself only to 'your mind' is quite an arbitrary decision |a servant and a tool]], not a master**
 		- Break the habit of uncontrolled thinking
 - **Philosophy**
-	- “There is no fundamental, intrinsic purposeful [[1-1a2e10 There is no such thing as objective meaning |meaning]] to the Universe.”
+	- There is no fundamental, intrinsic purposeful [[1-1a2e10 There is no such thing as objective meaning |meaning]] to the Universe.
 - Rational Buddhism
 	- “I have to reject all the pieces I can’t [[1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated. |verify]]”
 	- “Rational Buddhism, to me, means understanding the internal work Buddhism espouses to make yourself happier, better off, more present and in control of your emotions—being a better human being.”
 		- “I would say my philosophy falls down to this—on one pole is evolution as a binding principle because it explains so much about humans, on the other is Buddhism, which is the oldest, most time-tested spiritual philosophy regarding the internal state of each of us.”
-			- “The older the question, [[5-2c2b The Lindy effect |the older the answers]].”
+			- The older the question, [[5-2c2b The Lindy effect |the older the answers]].
 	- “Everyone starts out innocent. Everyone is corrupted. Wisdom is the discarding of vices and the return to virtue, by way of knowledge.”
 - Live by Your Values
 	- **Honesty is a core, core, core value**
@@ -149,8 +152,8 @@ date: 2024-08-12
 		- All benefits in life come from [[2-1b2c 'Compounding' - Permeate across the timeline |compound interest]]
 	- “I only believe in peer relationships”
 		- “I don’t want to be above anybody, and I don’t want to be below anybody. If I can’t treat someone like a peer and if they can’t treat me like peer, I just don’t want to interact with them.”
-	- “Much of finding great relationships, great coworkers, great lovers, wives, husbands, is finding other people where your values line up. If your values line up, the little things don’t matter.”
+	- Much of finding great relationships, great coworkers, great lovers, wives, husbands, is finding other people where your values line up. If your values line up, the little things don’t matter.
 		> “To find a worthy mate, be worthy of a worthy mate.” – [[Charlie Munger]]
-- How do you define wisdom?
+- *How do you define wisdom?*
 	- “Understanding the long-term consequences of your actions.”
-> 		“If wisdom could be imparted through [[10-1b1 It is the body that learns - '考えるな. 感じろ.' |words]] alone, we’d all be done here”
+	> “If wisdom could be imparted through [[10-1b1 It is the body that learns - '考えるな. 感じろ.' |words]] alone, we’d all be done here”
