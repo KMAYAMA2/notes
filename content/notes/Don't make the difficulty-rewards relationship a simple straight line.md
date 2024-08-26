@@ -1,3 +1,5 @@
+ゲームにおいて、報酬と難易度の相関関係を単純な一直線にしないこと。
+
 #develop 
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
 	- [[2-1b2b4 Look for value-added risk reducing trades]]
