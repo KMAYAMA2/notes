@@ -22,7 +22,7 @@ Yet, the most effective strategy in life is to not measure at all. And that mean
 
 The added benefit of not measuring by yourself is that you’re letting others measure you. And you might find some of their measurements surprising. You might figure out what you’re [[5-1b1b2b Don't try to be the best. Be the only. |the best]] at by being open to others’ measurements. [5]
 
-Sometimes less is more—and occasionally none can be more.
+Often less is more—and occasionally none is more than less.
 
 ---
 **Notes**
