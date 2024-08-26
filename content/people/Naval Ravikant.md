@@ -120,7 +120,7 @@ date: 2024-08-12
 - **Saving Yourself**
 	- “No one in the world is going to beat you at being you. You’re never going to be as good at being [[5-1b1b2b Don't try to be the best. Be the only. |me]] as I am.”
 		- The combinatorics of human DNA and experience are staggering. You will never meet any two humans who are substitutable for each other. 
-		- Your goal in life is to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find]] the people, business, project, or art that needs you the most. Be [[Be an artist first |the artist]].
+		- Your goal in life is to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find]] the people, business, project, or art that needs you the most. Be [[Become A Problem-Solving Artist|the artist]].
 	- “My number one priority in life, above my happiness, above my family, above my work, is my own [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |health]].”
 	- “I do not want my sense of [[1-2g1c3a Humans have no nature and no self apart from the experiences they have united in their memories (the Buddhist notion of anatman - 'no self') |self]] to continue to develop and strengthen as I get older. I want it to be weaker and more muted so I can be more in present everyday reality, accept nature and the world for what it is, and appreciate it very much as a child would.”
 	- Impatience with actions, patience with results.

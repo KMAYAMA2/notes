@@ -1,0 +1,1 @@
+> “Become the [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective) |best]] in the world at what you do. Keep [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |redefining]] what you do until this is true.” – [[Naval Ravikant |Naval]]
