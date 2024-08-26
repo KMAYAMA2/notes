@@ -9,7 +9,7 @@
 [[4-1a4 Each new conversation is a fresh start]]
 
 [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
-[[RUL3 - 究極の選択をいつでもできるようにすること。大事なものの順序を知っておくということ。曖昧さは排除すること。]]
+[[RUL3 - Always be ready to face the ultimate choice. Know what's important for you. Eliminate ambiguity.]]
 [[RUL3 - Finish what you start, because the best work often happens in what was meant to be the final stage]]
 
 On commitment

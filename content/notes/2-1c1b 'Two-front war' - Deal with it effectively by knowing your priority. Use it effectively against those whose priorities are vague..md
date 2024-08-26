@@ -3,7 +3,7 @@
 
 [[3-1d6c2 Everything looks bigger up close]]
 
-[[RUL3 - 究極の選択をいつでもできるようにすること。大事なものの順序を知っておくということ。曖昧さは排除すること。]]
+[[RUL3 - Always be ready to face the ultimate choice. Know what's important for you. Eliminate ambiguity.]]
 [[RUL3 - List ⇒ Rank ⇒ Iterate]]
 
 #MentalModelsMilitaryAndWar 

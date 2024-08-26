@@ -3,7 +3,7 @@
 
 [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 	[[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
-		[[RUL3 - 究極の選択をいつでもできるようにすること。大事なものの順序を知っておくということ。曖昧さは排除すること。]]
+		[[RUL3 - Always be ready to face the ultimate choice. Know what's important for you. Eliminate ambiguity.]]
 		[[RUL3 - List ⇒ Rank ⇒ Iterate]]
 
 - **The Identity Stack**
