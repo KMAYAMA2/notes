@@ -1,7 +1,7 @@
 ---
 date: 2024-08-07
 ---
-
+##### What Are My Notes For?
 Some comments on my reddit post (where I shared my [notes](https://kenti.xyz/notes/)) took me by surprise the other day, “You are taking notes for the sake of taking notes,” “What are you working on?” “What did you produce with it?” [1]
 
 Writing has to address problems, and going through [[1-1c4b You always have to solve problems, including the problem of what problems to solve |life]]—it’s full of problems. So, naturally, when you write something you can end up addressing your life’s problems. 
@@ -17,8 +17,8 @@ Life happens with pen and paper, but it happens outside of it.
 ---
 
 **Notes**
-[1] Is doing anything for its own sake a problem? Isn’t that the definition of art?
-[2] But in writing this essay, I realized that I did put my notes in public for the sake of going public. My next problem is figuring out what to ***[[9-3 Increase surface area of luck |learn]]*** in public. 
+[1] Is doing anything for its own sake a problem? Isn’t that the definition of [[Become A Problem-Solving Artist|art]]?
+[2] But in writing this essay, I realized that I did put my notes in public for the sake of *going public*. My next problem is figuring out what to *[[9-3 Increase surface area of luck |learn]] in public*. 
 
 
 
