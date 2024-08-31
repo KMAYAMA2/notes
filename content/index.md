@@ -2,13 +2,17 @@
 title: About this project
 date: 2024-07-23
 ---
-I'm Kento. Thanks for making the [[4-1a4b6a0.3 Time is money means money is time |time]] to visit my website. Really appreciate that.
+I'm Kenti. Thanks for making the [[4-1a4b6a0.3 Time is money means money is time |time]] to visit my website. Really appreciate that.
 
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. My writings explore the intersection between tech, philosophy, finance, history, culture, productivity, life, and more. I’m also exploring a [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |better forms of writing]] here. 
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. My writings explore the intersection between tech, philosophy, finance, history, culture, productivity, and life—as well as [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |a better medium of writing]], because sometimes [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content' |form matters more]].
+
+- Check my **[Notes](https://kenti.xyz/notes/)**—for atomic insights (most of them still being rewritten).
+
+- Check my **[Essays](https://kenti.xyz/essays/)**—longer but deeper than notes.
+
+- Check my **[People](https://kenti.xyz/people/)**—for summaries and quotes.
 
 To give you my taste, my favorite thinkers include Paul Graham, Naval Ravikant, Charlie Munger, Balaji Srinivasan, David Deutsch, Karl Popper, Friedrich Hayek, Ludwig von Mises, Mark Spitznagel, Nassim Taleb, Michel de Montaigne, Seigow Matsuoka, and Daniel Everett.
-
-Here’s my **[Essays](https://kenti.xyz/essays/)**, **[Notes](https://kenti.xyz/notes/)**, and **[People](https://kenti.xyz/people/)**.
 
 I started taking these notes to [[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money. |clear my head]], and to create [[4-1a5c When you have your Second Brain, you can have a conversation with it |my second brain]]. The cognitive offload was huge—writing still feels like a meditation to me. But my notes started to take on [[5-1b1a2c0.1 Perfect replication is impossible |a life of its own]]—writing my ideas down resulted in more ideas being discovered, with writing them down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
 
@@ -74,6 +78,6 @@ For those wondering, the numbering at the beginning of each title (e.g., 7-1a) i
   - [[8-1b3 The software can control the hardware |The software can control the hardware]]
 - **Longevity**
   - [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |You have to realign the incentives of capitalist entities you are outsourcing your health]], or you have to take care of yourself
-  
-^ It's important to use categories, but [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |the reality doesn't have categories.]] 'Academic subjects' are social constructs. Always prioritize solving [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT. |your own problems]].
+
+^It's important to use categories, but [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |the reality doesn't have categories.]] 'Academic subjects' are social constructs. Always prioritize solving [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT. |your own problems]].
 

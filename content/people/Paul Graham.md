@@ -1,5 +1,6 @@
 - [[4-1a4c PG - spend 2 weeks on an essay and reread drafts 50 times — you can’t do this in conversation.]]
 - [[9-4b3e4 Write each sentence like you are talking to a friend]]
+- [[9-4b3a Write a bad version 1.0 as fast as you can]]
 - [[RUL3 - Live in the future and build what seems interesting]]
 - [[RUL3 - (1) Don’t ignore your dreams; (2) Don’t work too much; (3) Say what you think; (4) Cultivate friendships; (5) Be happy.]]
 - [[5-1b1b1a Power-law curiosity - be professionally curious about a few topics and idly curious about many more]]
