@@ -1,3 +1,13 @@
+---
+date: 2024-09-11
+---
+> “You can’t use up creativity. [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery. |The more you use, the more you have]].” – Maya Angelou
+
+> “Figure out what you are good at, and start [[2-1c3 'Win and help win' always outcompete |helping]] other people with it. Give it away. Pay it forward.” – [[Naval Ravikant]]
+
+Don’t use the supply-and-demand mental model everywhere. [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource |Knowledge is rare but never a scarce resource]]. Help yourself and others at the same time with the knowledge you have—that’s [[Carlo Cipolla |the definition]] of intelligent person.
+
+**Related Notes:**
 [[8-1c Look for inherently digital-native areas and concepts]]
 	[[8-1d Look for inherently crypto-native areas and concepts]] and concepts #develop 
 		[[8-1b Look for places where we’ve taken an offline experience and put it online (physical ⇒ intermediate) but haven’t fundamentally innovated yet (⇒ internet-native)]]
@@ -12,7 +22,6 @@
 
 - What are the implications for mental models from economics (e.g., **scarcity**, **supply and demand**)? #MentalModels #MentalModelsMicroEcon #develop 
 	- [Lower cost to produce anything means we need new model to capture supply and demand in the realm of digital] #develop 
-		- [Supply and demand] #develop 
 
 - [[5-1b1b1a5 'Come for the tool, stay for the network' tactic]]
 	- [[5-1b1b1a4 Game = Game + Streaming + Virtual Goods]]
