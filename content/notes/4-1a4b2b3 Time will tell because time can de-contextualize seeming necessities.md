@@ -1,3 +1,10 @@
+---
+date: 2024-09-20
+---
+> “Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire.” – Francois Duc de la Rochefoucauld, Maxims
+
+What topic do your thoughts keep returning to?
+
 [[12-1e Nothing is necessary = Everything is contingent]]
 [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
 [[5-1b4b3 Time beats timing]]
