@@ -1,3 +1,8 @@
+---
+date: 2024-10-07
+---
+>”If every person is unique, just imagine how unique every relationship is.” – [[Naval Ravikant]]
+
 [[10-2d The medium of expression, language, can also improve indefinitely]]
 [[10-2d2 ‘The tools for thought’ do not necessarily have to accommodate recursiveness, because we can think recursively nonetheless]]
 #develop 
