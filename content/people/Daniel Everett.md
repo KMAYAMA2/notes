@@ -9,790 +9,790 @@
 
 
 # How Language Began
-0. Preface
-    - Language is the most advanced form of communication
-    - _Erectus_ invented symbols, language, and culture
-        - Pillars of human cognition
-    - Language — not communication — is the dividing line between humans and other animals
-    - Culture ⇒ Culturally invented symbols ⇒ Language
-    - Language is an invention
-        - Human communities _created_ symbols, grammar and language where there had been none before
-        - What is an invention?
-            - It is a _creation of culture_
-                - “No one person invents anything. Everyone is part of a culture and part of each other’s creativity, ideas, earlier attempts and the general world of knowledge in which they live. Every invention is built up over time, bit by bit. Language is no exception.”
-                    - In other words, culture invents things - but wasn’t Everett claiming in DM that the only individuals learn?
-                        - Maybe culture is how individual learning gets transferred and used — the unpredictability, the inevitability of implicit-ness slipping through a grasp of individual ‘inventors’?
-0. Intro
-    - Conversations are ‘underdeterminant’
-        - That is, language can only say less than what is intended to be communicated and leaves the unspoken assumptions to be figured out by the listener
-            - “Underdetermined by the words, it is implicit in the context”
-    - Languages shall improve infinitely to better fit our cognitive and perceptual limitations
-        - But it will always be at the beginning of infinity, in the sense of being whole with the mind
-    - Language assumes shared knowledge
-        - That the hearers could ‘fill in the gaps’
-    - You have to look at the whole of conversations
-        - Chomsky’s UG approach is reductionistic
-            - Syntax is secondary to conversation
-        - Understanding the whole of conversations ⇒ Understanding the origins of human language
-    - Taking creativity seriously
-        - Physiology ⇒ Language
-        - Culture ⇒ Language
-    - Symbols ⇒ Language
-        - Humans invented symbols
-    - The _sign progression_ theory of language origin
-        - Indexes ⇒ Icons ⇒ Symbols
-    - Words < Phrases < Sentences < Paragraphs < Stories
-        - Recursive
-    - No ‘sudden leap’ to the uniquely human features of language
-        - No ‘jump to universality’ at least in the cognitive and cultural evolution?
-            - But there was some ‘jump to universality’ when humans invented language?
-                - How does this compare with Deutsch’s emphasis on ‘the jump to universality’?
-    - Several unique perspectives that mark the path of the evolution of language
-        1. Animal communication ⇒ Human language
-            - Communication = Transference of information
-                - “Language is much more than information transfer, though.”
-        2. Biological ↔ Cultural
-            - How did biology and culture affect language evolution?
-        3. The first human languages
-            - What does the diversity of modern languages reveal?
-    - “_Erectus_ might have been in possession of language yet nevertheless valued taciturnity.”
-1. Rise
-    - Scientists _evaluate_ theories, rejecting ones with _excess_ reasonable doubt
-        - You don’t have to know everything. You just have to choose less crap, as it were!
-    - Humans are the apex predators of all time of this planet
-        - Why?
-            - Because we talk to each other
-                - We can plan. We can share knowledge. We can leave knowledge for future generations.
-    - Language is a gestalt
-        - Its whole is greater than the sum of tis parts
-            - Just like communication the whole and language only part of it
-                - Chomsky’s UG approach is really a subpart (syntax) of a subpart (language) of the whole (communication system)
-    - Cultures ⇒ Language
-        - But Language ⇒ Communities, Cultures, and Societies
-    - Peirce’s semiotics
-        - Sign = any pairing of a form with a meaning
-            1. Index = LINK
-            2. Icon = RESEMBLANCE
-            3. Symbol = AGREEMENT (ARBITRARY)
-                - Symbols indicate there were social norms
-                - Symbols also hint that languages were then possible
-                    - Because languages are an arbitrary linkage between forms and meanings
-                - “Symbols are the original social contract.”
-                - Not all symbols contain knowledge
-    - Evolution ⇒ Humans ⇒ Symbols
-    - The ‘Watchmaker’ theory
-        - No person can make a watch
-            - A watch is the output of a culture, not a designer
-    - “Evolution is a well-established _fact_. Only the explanations of how evolution happens or looks – natural selection, genetic processes and family trees – can be called theories. But evolution itself is not a theory. In order to understand the origin of language, the origin of life more generally must be considered in order to frame the discussion. And that requires evolution.”
-    - Genomes = the sum of various DNA and RNA and their combinations
-        - Humans are distinguished because of the _syntax_ of their DNA
-            - Are the building blocks the same with other life forms?
-    - “Humans enjoy a privilege unique among all other life forms that enables them to contemplate their origin. And yet, all human perspectives are culturally shaped. Therefore, along with superior mental powers, cultures not only guide humans’ understanding of the world but also define what is worth looking at. Culture constrains how humans justify their reasoning. Science emerges from and is shaped by the values of culture, different social roles and the knowledge structures that have been sanctioned by society (that is, what knowledge is and how different components of our knowledge are related to one another).”
-        - Culture is an implicit theory for its members
-            - Science emerged from culture
-                - In what way does science differ from other cultures?
-    - Many primates are broken down into genera according to the shape or conditions of their noses
-        - Isn’t this itself quite arbitrary?
-    - On Darwin’s theory of evolution
-        - Three postulates
-            1. The ability of a population to expand is infinite in principle, though the ability of an environment to support a population is always finite.
-                - There’s something here that reminds me of how knowledge must be instantiated by physical mediums!
-            2. There is variation within every population.
-            3. Parents pass their variation along to their offspring.
-    - Phenotypes / Genotypes
-        - Natural selection can only operate on physical attributes (phenotypes), and not on the knowledge bearing entity behind it (genotypes)
-            - Does this give some credence to Mises’ praxeology, namely his focus on human actions?
-    - Culture can turn neutral mutations into positive mutations
-        - That is, to explain the evolution of human language one must take cultural knowledge into account
-            - In fact, explanation regarding _any_ evolution must take the role of knowledge into account, because even non-human species’ genes contain knowledge about its environments
-                - Deciphering Everett using Deutsch’s framework
-    - Was the entry complex sentences into human language have been a mutation?
-        - Unlikely
-            - Language presents a different case than genes for physical skills
-                - What natural selection favored was complex thinking, not complex sentences
-    - Ability of complex thinking ⇒ Ability to talk complex things
-        - Simples sentences ⇒ Stories, Narratives ⇒ Ability to think in complex ways ⇒ Complex sentences (include recursion)
-            - Probably why reading stories is important, especially growing up
-        - Complex sentences ≠> Complex thinking
-        - Complex thinking ⇒ Complex sentences
-            - But complex thinking doesn’t necessarily bring about complex sentences!
-    - Natural selection targeted a gene for complex thinking
-        - A gene for syntax (complex sentences) was ‘junk’ portion, as it were
-    - Everett: You can have a language with only simple sentences, but it doesn’t mean they can’t think in complex ways.
-    - Ability to think recursively ⇒ Categorizing tasks into sub-tasks
-        - What is needed is a gene for recursive thinking, not a gene for recursive syntax
-        - Recursion is a property of thought, not language per se
-    - [ ] Then it touches on the implication of this, as well as on ‘population genetics’, and how having the same or similar phenotypes doesn’t mean they have the same genotype
-        - [ ] Is this just showcasing how genes’ function (phenotype), namely its knowledge about the niche environment where they prove its fitness, can be only assessed after the fact?
-            - If the laws of physics are the same across the multiverse, only the same genotype should permeate across universes which are largely similar with each other
-2. Fossil Hunters
-    - _The genus_ Homo _arose in Mother Africa_
-    - “Language works only because people believe other people think enough like they do to understand what they want to tell them.”
-        - The same with money!!!!!
-3. Depart
-    - “**Culture entails symbolic reasoning and projecting meaning on to the world, meaning that is not about things as they are, but as they are interpreted, used and perceived by members of the community that uses them. Culture transforms ‘things’ into symbols and meaning.** And if _erectus_ had symbols, it had language.”
-4. Everyone Speaks Languages of Signs
-    - _The nature of human language in more detail_
-    - Human invention + Physical and cognitive evolution ⇒ Language
-        - Icons ⇒ Symbols ⇒ Language
-    - All creatures use indexes
-        - Icons by fewer creatures
-            - Symbols only humans
-    - “Language works fine when it is underdetermined”
-        - That context is crucial
-    - ‘Extended evolutionary synthesis’
-        - Culture underlies language
-            - Everett’s definition of culture:
-                - An abstract network shaping and connecting social roles, hierarchically structured knowledge domains and ranked values
-                - Dynamic, shifting, reinterpreted moment by moment
-                - The roles, knowledge and values of culture a re only found in the bodies (the brain is part of the body) and behaviors of its members
-            - Not all culture contain universal knowledge
-                - But some do (Deutsch’s dynamic society and Popper’s open society)
-    - Language changed to fit different cultures
-        - Language, along with cultures, went through evolution process
-    - Language ≠ Grammar
-        - Language = Meaning + Form + Gestures + Pitch
-	- Chomsky’s theory is not a good explanation
-	    - It offers no insights to understand the evolution of language
-	    - Language evolution can be explained without mutations
-	- “In the absence of evidence, do not assume miracles!”
-	    - The absence of evidence ≠ The evidence of absence
-	- _Homo erectus_ languages = symbols ordered according to cultural conventions
-	    - Symbols and ordering can be vague and ambiguous, hence one must be able to use context and culture to interpret fully what the other said
-	- The burden of proof is on _catastrophism_ (Chomsky) and not on _uniformitarian_ (Everett)
-	    - That is, Chomsky introduced another problem, namely he needs to account for the absence of evidence
+###### 0. Preface
+- Language is the most advanced form of communication
+- _Erectus_ invented symbols, language, and culture
+	- Pillars of human cognition
+- Language — not communication — is the dividing line between humans and other animals
+- Culture ⇒ Culturally invented symbols ⇒ Language
+- Language is an invention
+	- Human communities _created_ symbols, grammar and language where there had been none before
+	- What is an invention?
+		- It is a _creation of culture_
+			- “No one person invents anything. Everyone is part of a culture and part of each other’s creativity, ideas, earlier attempts and the general world of knowledge in which they live. Every invention is built up over time, bit by bit. Language is no exception.”
+				- In other words, culture invents things - but wasn’t Everett claiming in DM that the only individuals learn?
+					- Maybe culture is how individual learning gets transferred and used — the unpredictability, the inevitability of implicit-ness slipping through a grasp of individual ‘inventors’?
+###### 0. Intro
+- Conversations are ‘underdeterminant’
+	- That is, language can only say less than what is intended to be communicated and leaves the unspoken assumptions to be figured out by the listener
+		- “Underdetermined by the words, it is implicit in the context”
+- Languages shall improve infinitely to better fit our cognitive and perceptual limitations
+	- But it will always be at the beginning of infinity, in the sense of being whole with the mind
+- Language assumes shared knowledge
+	- That the hearers could ‘fill in the gaps’
+- You have to look at the whole of conversations
+	- Chomsky’s UG approach is reductionistic
+		- Syntax is secondary to conversation
+	- Understanding the whole of conversations ⇒ Understanding the origins of human language
+- Taking creativity seriously
+	- Physiology ⇒ Language
+	- Culture ⇒ Language
+- Symbols ⇒ Language
+	- Humans invented symbols
+- The _sign progression_ theory of language origin
+	- Indexes ⇒ Icons ⇒ Symbols
+- Words < Phrases < Sentences < Paragraphs < Stories
+	- Recursive
+- No ‘sudden leap’ to the uniquely human features of language
+	- No ‘jump to universality’ at least in the cognitive and cultural evolution?
+		- But there was some ‘jump to universality’ when humans invented language?
+			- How does this compare with Deutsch’s emphasis on ‘the jump to universality’?
+- Several unique perspectives that mark the path of the evolution of language
+	1. Animal communication ⇒ Human language
+		- Communication = Transference of information
+			- “Language is much more than information transfer, though.”
+	2. Biological ↔ Cultural
+		- How did biology and culture affect language evolution?
+	3. The first human languages
+		- What does the diversity of modern languages reveal?
+- “_Erectus_ might have been in possession of language yet nevertheless valued taciturnity.”
+###### 1. Rise
+- Scientists _evaluate_ theories, rejecting ones with _excess_ reasonable doubt
+	- You don’t have to know everything. You just have to choose less crap, as it were!
+- Humans are the apex predators of all time of this planet
+	- Why?
+		- Because we talk to each other
+			- We can plan. We can share knowledge. We can leave knowledge for future generations.
+- Language is a gestalt
+	- Its whole is greater than the sum of tis parts
+		- Just like communication the whole and language only part of it
+			- Chomsky’s UG approach is really a subpart (syntax) of a subpart (language) of the whole (communication system)
+- Cultures ⇒ Language
+	- But Language ⇒ Communities, Cultures, and Societies
+- Peirce’s semiotics
+	- Sign = any pairing of a form with a meaning
+		1. Index = LINK
+		2. Icon = RESEMBLANCE
+		3. Symbol = AGREEMENT (ARBITRARY)
+			- Symbols indicate there were social norms
+			- Symbols also hint that languages were then possible
+				- Because languages are an arbitrary linkage between forms and meanings
+			- “Symbols are the original social contract.”
+			- Not all symbols contain knowledge
+- Evolution ⇒ Humans ⇒ Symbols
+- The ‘Watchmaker’ theory
+	- No person can make a watch
+		- A watch is the output of a culture, not a designer
+- “Evolution is a well-established _fact_. Only the explanations of how evolution happens or looks – natural selection, genetic processes and family trees – can be called theories. But evolution itself is not a theory. In order to understand the origin of language, the origin of life more generally must be considered in order to frame the discussion. And that requires evolution.”
+- Genomes = the sum of various DNA and RNA and their combinations
+	- Humans are distinguished because of the _syntax_ of their DNA
+		- Are the building blocks the same with other life forms?
+- “Humans enjoy a privilege unique among all other life forms that enables them to contemplate their origin. And yet, all human perspectives are culturally shaped. Therefore, along with superior mental powers, cultures not only guide humans’ understanding of the world but also define what is worth looking at. Culture constrains how humans justify their reasoning. Science emerges from and is shaped by the values of culture, different social roles and the knowledge structures that have been sanctioned by society (that is, what knowledge is and how different components of our knowledge are related to one another).”
+	- Culture is an implicit theory for its members
+		- Science emerged from culture
+			- In what way does science differ from other cultures?
+- Many primates are broken down into genera according to the shape or conditions of their noses
+	- Isn’t this itself quite arbitrary?
+- On Darwin’s theory of evolution
+	- Three postulates
+		1. The ability of a population to expand is infinite in principle, though the ability of an environment to support a population is always finite.
+			- There’s something here that reminds me of how knowledge must be instantiated by physical mediums!
+		2. There is variation within every population.
+		3. Parents pass their variation along to their offspring.
+- Phenotypes / Genotypes
+	- Natural selection can only operate on physical attributes (phenotypes), and not on the knowledge bearing entity behind it (genotypes)
+		- Does this give some credence to Mises’ praxeology, namely his focus on human actions?
+- Culture can turn neutral mutations into positive mutations
+	- That is, to explain the evolution of human language one must take cultural knowledge into account
+		- In fact, explanation regarding _any_ evolution must take the role of knowledge into account, because even non-human species’ genes contain knowledge about its environments
+			- Deciphering Everett using Deutsch’s framework
+- Was the entry complex sentences into human language have been a mutation?
+	- Unlikely
+		- Language presents a different case than genes for physical skills
+			- What natural selection favored was complex thinking, not complex sentences
+- Ability of complex thinking ⇒ Ability to talk complex things
+	- Simples sentences ⇒ Stories, Narratives ⇒ Ability to think in complex ways ⇒ Complex sentences (include recursion)
+		- Probably why reading stories is important, especially growing up
+	- Complex sentences ≠> Complex thinking
+	- Complex thinking ⇒ Complex sentences
+		- But complex thinking doesn’t necessarily bring about complex sentences!
+- Natural selection targeted a gene for complex thinking
+	- A gene for syntax (complex sentences) was ‘junk’ portion, as it were
+- Everett: You can have a language with only simple sentences, but it doesn’t mean they can’t think in complex ways.
+- Ability to think recursively ⇒ Categorizing tasks into sub-tasks
+	- What is needed is a gene for recursive thinking, not a gene for recursive syntax
+	- Recursion is a property of thought, not language per se
+- [ ] Then it touches on the implication of this, as well as on ‘population genetics’, and how having the same or similar phenotypes doesn’t mean they have the same genotype
+	- [ ] Is this just showcasing how genes’ function (phenotype), namely its knowledge about the niche environment where they prove its fitness, can be only assessed after the fact?
+		- If the laws of physics are the same across the multiverse, only the same genotype should permeate across universes which are largely similar with each other
+###### 2. Fossil Hunters
+- _The genus_ Homo _arose in Mother Africa_
+- “Language works only because people believe other people think enough like they do to understand what they want to tell them.”
+	- The same with money #develop 
+###### 3. Depart
+- “**Culture entails symbolic reasoning and projecting meaning on to the world, meaning that is not about things as they are, but as they are interpreted, used and perceived by members of the community that uses them. Culture transforms ‘things’ into symbols and meaning.** And if _erectus_ had symbols, it had language.”
+###### 4. Everyone Speaks Languages of Signs
+- _The nature of human language in more detail_
+- Human invention + Physical and cognitive evolution ⇒ Language
+	- Icons ⇒ Symbols ⇒ Language
+- All creatures use indexes
+	- Icons by fewer creatures
+		- Symbols only humans
+- “Language works fine when it is underdetermined”
+	- That context is crucial
+- ‘Extended evolutionary synthesis’
+	- Culture underlies language
+		- Everett’s definition of culture:
+			- An abstract network shaping and connecting social roles, hierarchically structured knowledge domains and ranked values
+			- Dynamic, shifting, reinterpreted moment by moment
+			- The roles, knowledge and values of culture a re only found in the bodies (the brain is part of the body) and behaviors of its members
+		- Not all culture contain universal knowledge
+			- But some do (Deutsch’s dynamic society and Popper’s open society)
+- Language changed to fit different cultures
+	- Language, along with cultures, went through evolution process
+- Language ≠ Grammar
+	- Language = Meaning + Form + Gestures + Pitch
+- Chomsky’s theory is not a good explanation
+	- It offers no insights to understand the evolution of language
+	- Language evolution can be explained without mutations
+- “In the absence of evidence, do not assume miracles!”
+	- The absence of evidence ≠ The evidence of absence
+- _Homo erectus_ languages = symbols ordered according to cultural conventions
+	- Symbols and ordering can be vague and ambiguous, hence one must be able to use context and culture to interpret fully what the other said
+- The burden of proof is on _catastrophism_ (Chomsky) and not on _uniformitarian_ (Everett)
+	- That is, Chomsky introduced another problem, namely he needs to account for the absence of evidence
+- Tools = Symbols
+	- Complex languages ≠ Complex tools
+- The primary function of language
+	- ≠ ‘Expression of thought’
+	- = Communication
+		- Although using languages for communication does enhance better thinking
+			- Thinking and communication are dependent upon one another
+- “Ambiguity is expected in a communication system”
+	- The need to keep the necessary memory amount low for efficient communication
+		- Analogous to computation-friendliness in the universe? Or just that communication is computation!
+			- Implies that with better technology and more knowledge, we will be able to communicate better. _It could’ve been expressed otherwise_.
+				- This is a contingency emanating from the infinity. Which is not the same as the super-contingency. Infinity-contingency is rooted in the nature of knowledge (unpredictable). Whereas the super-contingency just says _it could’ve been otherwise_.
+	- Ambiguity is rarely a problem because context usually enables the hearer to pick out the meaning the speaker intended
+		- We are filtering what needs to be said and what doesn’t have to be, subconsciously!
+			- Maybe science is de-contextualizing culture, in other words, science is a discussion within specific culture whose context is the laws of physics and its language mathematics, doing away with the need to explain the relationship between the two (of culture and language). Part of the reason is its universality. The laws of physics applies to all things physical, and it’s constrained to discuss physical things (at least currently)
+			- We are making communication efficient not only combinatorically (by syntax) but also semantically (by using context)
+				- Syntax is only one side of computational aspect in human communication
+					- Syntax is about making efficient what’s been already filtered - the subconscious already did a job for it (that is, it was made efficient already)
+	- Ambiguity is not inherently problematic for language
+		- Ambiguity is often the result of bad planning
+			- Planning for communication is helpful, but remember that planning (which is complex thinking) doesn’t need complex sentences!
+- Language is imperfect
+	- But so does thinking!
+		- Sometime people think in pictures, not in words
+			- Dreams?
+- “English in an abstraction”
+	- But the utterances one hears or the sentences on reads are not abstractions
+		- They are the very concrete, empirical sources of what speakers know, what cultures produce and what people actually do
+			- We must study what they actually say (’performance’) to understand what they know (’competence’)
+				- Ignoring performance is the same as saying that college exams are unnecessary
+					- **We can only figure out what they know by what they do, because we can never directly study what people know**
+						- To assert that we can is a common error in thinking
+							- We can only infer knowledge through behavior
+								- Praxeology?
+- Semiotics (signs) progressed along with other socially evolved traits of human cognition (language, culture, communication), fueled by natural selection
+- [ ] Three hypotheses for the origin of human language
+	- [ ] ‘Grammar Came Last’
+	- [ ] ‘Grammar Came First’
+	- [ ] ‘Grammar Came Later’
+- Grammars cannot exist without symbols
+	- Grammatical similarities are likely due to efficiency in information transfer pressure, and not innate
+		- Often used words are usually shorter than less frequently used words
+- Symbols ⇒ Grammars
+	- Meaning ⇒ Form
+- Indexes ⇒ Icons ⇒ (Culture ⇒) Symbols
+	- Indexes lack arbitrariness and intentionality!
+		- Because of physical (necessary) linkage between form and meaning, it lacks universality
+			- Whereas the cultural (arbitrary) linkage increases the number of forms the linkage can take
+		- Intentionality ⇒ Arbitrariness
+	- Icons are intentional resemblances
+		- Icons are ‘about’ something
+	- Symbols are both intentional _and_ arbitrary
+- Peirce: One needs the ‘interpretant’ for language to get off the ground
+	- Interpretants = makes it possible to use a sign so as to understand its object
+		- Interpretants depend on certain aspects of a sign to work
+			- Size is not part of the interpretant, but the directional orientation is
+				- Big /e/ vs Rotated /e/
+- “There is nothing in the body dedicated to language”
+	- “Nothing in the brain”
+		- “Evolution always prefers tinkering with or exploiting what already exists over creating the brand new”
+			- Language ≠ Biological object
+				- Gene ≠> Language
+			- Language = Semiotic object
+				- Culture ⇒ Language
+					- Language and speech exploited human bodies and brains
+- Icons
+	- Icon-possessors quite possibly grasped a connection between form and meaning
+		- That is, what the icon is a visual representation of
+			- Penis shaped fishbone
+				- What is the significance of such iconic objects for the development of language?
+					- Chomsky: Language is a computational system, as set of structures embellished by local words. Such icons mean nothing.
+					- Everett: Language is about meaning and symbols. Computation is nothing more than an aid to communication. Icons are vital to the reconstruction of the evolution of language.
+- Art, tools, and symbols
 	- Tools = Symbols
-	    - Complex languages ≠ Complex tools
-	- The primary function of language
-	    - ≠ ‘Expression of thought’
-	    - = Communication
-	        - Although using languages for communication does enhance better thinking
-	            - Thinking and communication are dependent upon one another
-	- “Ambiguity is expected in a communication system”
-	    - The need to keep the necessary memory amount low for efficient communication
-	        - Analogous to computation-friendliness in the universe? Or just that communication is computation!
-	            - Implies that with better technology and more knowledge, we will be able to communicate better. _It could’ve been expressed otherwise_.
-	                - This is a contingency emanating from the infinity. Which is not the same as the super-contingency. Infinity-contingency is rooted in the nature of knowledge (unpredictable). Whereas the super-contingency just says _it could’ve been otherwise_.
-	    - Ambiguity is rarely a problem because context usually enables the hearer to pick out the meaning the speaker intended
-	        - We are filtering what needs to be said and what doesn’t have to be, subconsciously!
-	            - Maybe science is de-contextualizing culture, in other words, science is a discussion within specific culture whose context is the laws of physics and its language mathematics, doing away with the need to explain the relationship between the two (of culture and language). Part of the reason is its universality. The laws of physics applies to all things physical, and it’s constrained to discuss physical things (at least currently)
-	            - We are making communication efficient not only combinatorically (by syntax) but also semantically (by using context)
-	                - Syntax is only one side of computational aspect in human communication
-	                    - Syntax is about making efficient what’s been already filtered - the subconscious already did a job for it (that is, it was made efficient already)
-	    - Ambiguity is not inherently problematic for language
-	        - Ambiguity is often the result of bad planning
-	            - Planning for communication is helpful, but remember that planning (which is complex thinking) doesn’t need complex sentences!
-	- Language is imperfect
-	    - But so does thinking!
-	        - Sometime people think in pictures, not in words
-	            - Dreams?
-	- “English in an abstraction”
-	    - But the utterances one hears or the sentences on reads are not abstractions
-	        - They are the very concrete, empirical sources of what speakers know, what cultures produce and what people actually do
-	            - We must study what they actually say (’performance’) to understand what they know (’competence’)
-	                - Ignoring performance is the same as saying that college exams are unnecessary
-	                    - **We can only figure out what they know by what they do, because we can never directly study what people know**
-	                        - To assert that we can is a common error in thinking
-	                            - We can only infer knowledge through behavior
-	                                - Praxeology?
-	- Semiotics (signs) progressed along with other socially evolved traits of human cognition (language, culture, communication), fueled by natural selection
-	- [ ] Three hypotheses for the origin of human language
-	    - [ ] ‘Grammar Came Last’
-	    - [ ] ‘Grammar Came First’
-	    - [ ] ‘Grammar Came Later’
-	- Grammars cannot exist without symbols
-	    - Grammatical similarities are likely due to efficiency in information transfer pressure, and not innate
-	        - Often used words are usually shorter than less frequently used words
-	- Symbols ⇒ Grammars
-	    - Meaning ⇒ Form
-	- Indexes ⇒ Icons ⇒ (Culture ⇒) Symbols
-	    - Indexes lack arbitrariness and intentionality!
-	        - Because of physical (necessary) linkage between form and meaning, it lacks universality
-	            - Whereas the cultural (arbitrary) linkage increases the number of forms the linkage can take
-	        - Intentionality ⇒ Arbitrariness
-	    - Icons are intentional resemblances
-	        - Icons are ‘about’ something
-	    - Symbols are both intentional _and_ arbitrary
-	- Peirce: One needs the ‘interpretant’ for language to get off the ground
-	    - Interpretants = makes it possible to use a sign so as to understand its object
-	        - Interpretants depend on certain aspects of a sign to work
-	            - Size is not part of the interpretant, but the directional orientation is
-	                - Big /e/ vs Rotated /e/
-	- “There is nothing in the body dedicated to language”
-	    - “Nothing in the brain”
-	        - “Evolution always prefers tinkering with or exploiting what already exists over creating the brand new”
-	            - Language ≠ Biological object
-	                - Gene ≠> Language
-	            - Language = Semiotic object
-	                - Culture ⇒ Language
-	                    - Language and speech exploited human bodies and brains
-	- Icons
-	    - Icon-possessors quite possibly grasped a connection between form and meaning
-	        - That is, what the icon is a visual representation of
-	            - Penis shaped fishbone
-	                - What is the significance of such iconic objects for the development of language?
-	                    - Chomsky: Language is a computational system, as set of structures embellished by local words. Such icons mean nothing.
-	                    - Everett: Language is about meaning and symbols. Computation is nothing more than an aid to communication. Icons are vital to the reconstruction of the evolution of language.
-	- Art, tools, and symbols
-	    - Tools = Symbols
-	        - Tools manifest ‘displacement’
-	            - A property crucial for language
-	                - Tools also have intentionality
-	                    - A spear means ‘hunting’ even when the spear is not being used for it
-	                        - That is, a cultural meaning displaced from the form and meaning of the tool
-	                            - Tools produce the interpretant
-	                                - For instance, what matters in axe is the quality of the edge for cutting, and not in color or material
-	                                    - Tools = Not entirely arbitrary but still sufficiently arbitrary to count as symbol
-	                                        - Tools = Early symbols ?
-	- Tool complexity ≠> Linguistic complexity
-	    - Remember, complex thinking doesn’t need complex language
-	- Tools ⇒ Culture ?
-	    - Planning, imagination, communication ⇒ Tools
-	        - Olduwan tools (2.6M years ago) ⇒ the rise of _Homo erectus_ (2.1M years ago) ⇒ the Acheulean (1.76M years ago)
-	            - ‘Mysterious period without innovation’
-	                - Due to lack of language in _erectus_?
-	                    - Not necessarily
-	                        - Just that imitation was favoured strongly above innovation
-	                            - ‘Innovation gap’ does not alter the hypothesis that _Homo erectus_ invented language
-	                - Acheulean tools were more advanced
-	                    - _Erectus_ then developed the more advanced Levallois technique (500K years ago)
-	                        - Tools spread with communication, if not in explicit instruction or linguistically, then in the revelation of the tools themselves
-	                            - They were able to emulate
-	                                - That is, they already possessed creativity!
-	                                    - At least within one’s mind were they capable of doing this
-	- Speaking was not absolutely required for making the tools
-	    - However, advanced communication was almost necessary
-	        - _Erectus_ was capable of sophisticated communication (G1 language) is also supported by their travels
-	- Venus of Berekhat Ram (250K years ago)
-	    - The oldest extant work of art, either because it is carved from scratch or because it is a human-modified natural formation
-	        - That is, it is intentionality instantiated!
-	- Index/Icon ⇒ Symbol
-	    - “A relative baby step in conceptual development, though huge in language evolution”
-	        - Icons ⇒ more arbitrary ⇒ Symbols
-	            - E.g., the Egyptian hieroglyphics and the Chinese writing system
-	- Closer to reality (this is just my musing and really shouldn’t be put here)
-	    - Science
-	        - Theory + new theory + newer theory . . . ⇒ Reality
-	    - Language
-	        - Misperceptions + Icons + Symbols . . . ⇒ Reality ?
-	            - Each instances are more arbitrary than the previous instance, but that allows us to articulate things more objectively, because reality has to do with the abstract?
-	- How do symbols arise?
-	    1. Within minds by error-correction
-	        - Misperceptions ⇒ Icons ⇒ Symbols
-	    2. From adaptation of the natural to the conventional in culture
-	    3. In tracking social relationships
-	- Everett: The question of how symbols arise must address what culture is, because
-	    
-	    1. Culture ⇒ Status
-	    2. Culture ⇒ Language
-	    
-	    - “Linguistic and status symbols are conceptual kin”
-	        - What’s crucial is arbitrariness and intentionality
-	- Resemblance ⇒ Intentionally arbitrary symbol
-	    - More arbitrary = The interpretant becoming more and more abstract?
-	        - Everett: It’s likely that the same happened in spoken systems
-	- **Peirce’s ‘infinite semiosis’**
-	    - **Symbols are constructed of other symbols**
-	    - **There is no limit to the number of symbols available to humans for languages**
-	    - **There is no beginning or end to symbols and signs**
-	        - _Peirce anticipated both Levinson and Silverstein, however, in proposing that symbols are constructed of other symbols. In Peirce’s writings, the phrase ‘infinite semiosis’ means that there is no limit to the number of symbols available to humans for languages. This in turn is based on the view that signs are multifunctional. Each sign determines an interpretant, but an interpretant is also a sign, so every sign embodies a second sign. This is a kind of conceptual recursion, concepts within concepts, and represents a huge step forward in human communication. It means that a string of signs always contains other signs. According to Peirce, this can be understood when we see infinity even in a simple sequence like:_
-	            - _Sign1/Interpretant1 → Sign2/Interpretant2 … → Sign n_
-	        - _This representation looks finite until we realise that Sign n cannot be the end because if it lacks an interpretant it is not a sign. Likewise, Sign1 cannot really be the beginning, because by definition it is connected to an interpretant of an earlier sign. So there is no beginning or end to symbols and signs. The process that creates them is infinite because it is recursive. Any random sign is always partially composed from another sign._
-	            - Is the implication of this is that, as long as you use symbols, that means you are using recursivity, even if your language doesn’t have recursive syntax?
-	- “Language as a whole is greater than the sum of its parts”
-	    - Because it refers to what’s yet to be explicated?
-	- The brain ↔ Symbols
-	    - “All of human invention and language is underwritten, shaped and enhanced by the human brain. And, in fair play, language paid its debt to the brain by helping the brain become more intelligent, placing cultural and sexual selectional pressures on humans to communicate better.”
+		- Tools manifest ‘displacement’
+			- A property crucial for language
+				- Tools also have intentionality
+					- A spear means ‘hunting’ even when the spear is not being used for it
+						- That is, a cultural meaning displaced from the form and meaning of the tool
+							- Tools produce the interpretant
+								- For instance, what matters in axe is the quality of the edge for cutting, and not in color or material
+									- Tools = Not entirely arbitrary but still sufficiently arbitrary to count as symbol
+										- Tools = Early symbols ?
+- Tool complexity ≠> Linguistic complexity
+	- Remember, complex thinking doesn’t need complex language
+- Tools ⇒ Culture ?
+	- Planning, imagination, communication ⇒ Tools
+		- Olduwan tools (2.6M years ago) ⇒ the rise of _Homo erectus_ (2.1M years ago) ⇒ the Acheulean (1.76M years ago)
+			- ‘Mysterious period without innovation’
+				- Due to lack of language in _erectus_?
+					- Not necessarily
+						- Just that imitation was favoured strongly above innovation
+							- ‘Innovation gap’ does not alter the hypothesis that _Homo erectus_ invented language
+				- Acheulean tools were more advanced
+					- _Erectus_ then developed the more advanced Levallois technique (500K years ago)
+						- Tools spread with communication, if not in explicit instruction or linguistically, then in the revelation of the tools themselves
+							- They were able to emulate
+								- That is, they already possessed creativity!
+									- At least within one’s mind were they capable of doing this
+- Speaking was not absolutely required for making the tools
+	- However, advanced communication was almost necessary
+		- _Erectus_ was capable of sophisticated communication (G1 language) is also supported by their travels
+- Venus of Berekhat Ram (250K years ago)
+	- The oldest extant work of art, either because it is carved from scratch or because it is a human-modified natural formation
+		- That is, it is intentionality instantiated!
+- Index/Icon ⇒ Symbol
+	- “A relative baby step in conceptual development, though huge in language evolution”
+		- Icons ⇒ more arbitrary ⇒ Symbols
+			- E.g., the Egyptian hieroglyphics and the Chinese writing system
+- Closer to reality (this is just my musing and really shouldn’t be put here)
+	- Science
+		- Theory + new theory + newer theory . . . ⇒ Reality
+	- Language
+		- Misperceptions + Icons + Symbols . . . ⇒ Reality ?
+			- Each instances are more arbitrary than the previous instance, but that allows us to articulate things more objectively, because reality has to do with the abstract?
+- How do symbols arise?
+	1. Within minds by error-correction
+		- Misperceptions ⇒ Icons ⇒ Symbols
+	2. From adaptation of the natural to the conventional in culture
+	3. In tracking social relationships
+- Everett: The question of how symbols arise must address what culture is, because
+	
+	1. Culture ⇒ Status
+	2. Culture ⇒ Language
+	
+	- “Linguistic and status symbols are conceptual kin”
+		- What’s crucial is arbitrariness and intentionality
+- Resemblance ⇒ Intentionally arbitrary symbol
+	- More arbitrary = The interpretant becoming more and more abstract?
+		- Everett: It’s likely that the same happened in spoken systems
+- **Peirce’s ‘infinite semiosis’**
+	- **Symbols are constructed of other symbols**
+	- **There is no limit to the number of symbols available to humans for languages**
+	- **There is no beginning or end to symbols and signs**
+		- _Peirce anticipated both Levinson and Silverstein, however, in proposing that symbols are constructed of other symbols. In Peirce’s writings, the phrase ‘infinite semiosis’ means that there is no limit to the number of symbols available to humans for languages. This in turn is based on the view that signs are multifunctional. Each sign determines an interpretant, but an interpretant is also a sign, so every sign embodies a second sign. This is a kind of conceptual recursion, concepts within concepts, and represents a huge step forward in human communication. It means that a string of signs always contains other signs. According to Peirce, this can be understood when we see infinity even in a simple sequence like:_
+			- _Sign1/Interpretant1 → Sign2/Interpretant2 … → Sign n_
+		- _This representation looks finite until we realise that Sign n cannot be the end because if it lacks an interpretant it is not a sign. Likewise, Sign1 cannot really be the beginning, because by definition it is connected to an interpretant of an earlier sign. So there is no beginning or end to symbols and signs. The process that creates them is infinite because it is recursive. Any random sign is always partially composed from another sign._
+			- Is the implication of this is that, as long as you use symbols, that means you are using recursivity, even if your language doesn’t have recursive syntax?
+- “Language as a whole is greater than the sum of its parts”
+	- Because it refers to what’s yet to be explicated?
+- The brain ↔ Symbols
+	- “All of human invention and language is underwritten, shaped and enhanced by the human brain. And, in fair play, language paid its debt to the brain by helping the brain become more intelligent, placing cultural and sexual selectional pressures on humans to communicate better.”
 
-5. Better Brain
-    - _How the brain evolved in general terms_
-    - There has been no clear evidence for evolution in _Homo_ brain size since _sapiens_ left Africa
-        - Why no significant change in the brain for 200k years?
-        - Was the intense innovation of _sapiens_ the result of language?
-        - Did _Homo sapiens_ have better language skills and therefore greater cultural accomplishments?
-    - The answer is complicated
-6. Brain Makes Language Possible
-    - _What are the_ specific _features of the human brain that underwrite our language ability? And are these features unique to language or do they serve other roles beyond language?_
-        - _Language is a cultural artefact_
-            - _No heritable language-specific disorders implies the non-compartmentalised theory of the brain_
-                - Jeff Hawkins
-    - _On Broca’s area (an area of the brain often identified with language)_
-7. Brain Goes Wrong
-    - _On Broca’s area (an area of the brain often identified with language)_
-8. Talking with Tongues
-9. Where Grammar Came From
-    - _Recursion is secondary to communication_
-    - _G1 grammar was the fundamental human grammar that made the first human language possible_
-10. Talking with the Hands
-11. Just Good Enough
-12. Communities and Communication
-    - Monogenesis vs. Polygenesis
-        - There is a common agreement
-            - Languages change over time due to a combination of cultural and linguistic reasons
-    - All languages change all the time
-    - “You talk like who you talk with”
-    - Repercussion with DM
-        - _Is a culture like a football team? Or perhaps like an orchestra?_
-        - _Culture is an abstraction, can be only found in the individual._
-        - _Culture is the result of a ‘gestalt’_
-        - _Culture emerges which is greater than the sum of its parts_
-    - The three most important ideas for language evolution:
-        1. Values
-        2. Knowledge
-        3. Social roles
-    - Patriots vs. Dolphins example
-        - To understand the interaction of audiences, you have to understand their tacit (parochial) knowledge
-    - ‘Father’ is just an abstraction
-        - The cultural role of ‘father’ is defined by shifting cultural values
-    - All cultural roles show similar diachronic, geographic, economic and other shifts across time, space, or populations
-        - Globalization likely accelerated the shift to ‘mono-culture’ #develop 
-    - The 1867 Treaty of Medicine Lodge example
-    - ‘We should do lunch sometime’ example
-    - Human language ≠ A computer code
-        - Grammar ≠ Meaning
-            - Culture, grammar, and meaning each imply the others
-                - Culture = Inexplicable framework/theory ???
-                    - “Understanding the nature and role of culture in human behaviour, language and thinking is essential for comprehending the evolution of human language.”
-    - Structured knowledge = Lists _and_ [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together. |how things on the lists relate to one another]]
-    - A common symbol, slogans, chants, anthems, phrases
-        - The group proclamation becomes individuals’ value ⇒ The social and the individual become linked ⇒ Culture ⇒ Words take on new meanings, or new words with new meanings are born (because languages are arbitrary in nature)
-    - I think there is some aspect of how culture defines what should remain unsaid
-        - All the more difficult because you can’t really extrapolate what’s been said, unless you understand the culture behind
-            - But to understand the culture behind you have to be one of them
-                - But there’s no way you can assume completely the same background as the counterpart
-                    - Culture can be a text? #develop 
-    - We also eat like who we eat with, think like those we think with
-        - Maybe an argument for why we should spend time with those whom you want to be like
-            - How Pirahas’ body dimensions are constant
-                - ‘Grow like who you grow with’
-                    - Genotype ≠ Phenotype
-                    - [[10-2g1f2 Culture (also) shapes phenotype for humans (Culture ⇒ Phenotype) |Culture ⇒ Phenotype]]
-    - Imitation / Innovation
-        - Imitation is the seed of culture
-            - Imitation precedes even ‘the culture of innovation’? #develop 
-                - Is that really ‘innovative’?
-    - What were the components that were changing early _Homo_ bands of individuals into cohesive cultures?
-        1. Values
-            1. Statements about how things should or should not be
-            2. Values are also seen in the tools we choose
-        2. Knowledge
-            - ‘Hierarchical knowledge structures’
-                - Human knowledge is an ordered set of ideas or skills
-                    - “The sum of what we know forms a system that is greater than merely all the things we know put together”
-                        - Just as a symphony is greater than a mere list of all of its notes
-        3. Social roles
-    - Parisians vs Houstonians example
-        - They have the same values, but their relative ranking makes the difference
-            - Not components per se, but configuration
-    - ‘Grammar of society’
-        - Kenneth Pike: The principles of human grammars are the organizing principles as well for ‘grammars of culture’
-    - Society and culture are connected and constructed in grammar-like ways in their local contexts, groupings and actions
-        - Society and culture are more than merely grammars, of course
-        - One may conceive of all the individuals of a society as ‘fillers’ for slots in a culture-grammar
-    - The students-professor example
-        - The students, as well as the professor, are the object—not the subject
-            - Each person occupies a role, alone or jointly
-            - Roles are like apparel, worn for specific situations
-            - Each participant possesses a separate interpretation of their joint activity
-    - Everett: Perceptions and the range of thought are shaped significantly by a cultural network
-        - In European societies this means the dualism of Descartes and the mind-as-computer idea of Alan Turing represent the core of cognition
-    - [ ] Repercussion with DM
-        - Brains ≠ Computers
-            - Beliefs are states which occur when bodies (including brains) are directed towards something
-                - Intentionality
-                    - The individual engaging in language and culture ⇒ Beliefs
-        - How is one to characterize tools culturally?
-            - Language is the most important non-physical tool
-                - Culture itself is a tool
-                    - ?????
-        - Stories
-            - People talk about what they assume their interlocutor does not know (but has the necessary background knowledge to understand)
-        - Almost all non-human animal knowledge is dark matter
-13. Conclusion
-    - [[10-2g2 Culture invents symbols, and the core of language is the symbol |The core of language is the symbol]]
-        - Social values, social knowledge, social structures ⇒ symbol
-        - Symbol = [[Symbol = culturally agreed upon form + culturally developed meaning. The core of language is the symbol. Social values-knowledge-structures ⇒ Symbol. |a combination of culturally agreed upon form with a culturally developed meaning]]
+###### 5. Better Brain
+- _How the brain evolved in general terms_
+- There has been no clear evidence for evolution in _Homo_ brain size since _sapiens_ left Africa
+	- Why no significant change in the brain for 200k years?
+	- Was the intense innovation of _sapiens_ the result of language?
+	- Did _Homo sapiens_ have better language skills and therefore greater cultural accomplishments?
+- The answer is complicated
+###### 6. Brain Makes Language Possible
+- _What are the_ specific _features of the human brain that underwrite our language ability? And are these features unique to language or do they serve other roles beyond language?_
+	- _Language is a cultural artefact_
+		- _No heritable language-specific disorders implies the non-compartmentalised theory of the brain_
+			- Jeff Hawkins
+- _On Broca’s area (an area of the brain often identified with language)_
+###### 7. Brain Goes Wrong
+- _On Broca’s area (an area of the brain often identified with language)_
+###### 8. Talking with Tongues
+###### 9. Where Grammar Came From
+- _Recursion is secondary to communication_
+- _G1 grammar was the fundamental human grammar that made the first human language possible_
+###### 10. Talking with the Hands
+###### 11. Just Good Enough
+###### 12. Communities and Communication
+- Monogenesis vs. Polygenesis
+	- There is a common agreement
+		- Languages change over time due to a combination of cultural and linguistic reasons
+- All languages change all the time
+- “You talk like who you talk with”
+- Repercussion with DM
+	- _Is a culture like a football team? Or perhaps like an orchestra?_
+	- _Culture is an abstraction, can be only found in the individual._
+	- _Culture is the result of a ‘gestalt’_
+	- _Culture emerges which is greater than the sum of its parts_
+- The three most important ideas for language evolution:
+	1. Values
+	2. Knowledge
+	3. Social roles
+- Patriots vs. Dolphins example
+	- To understand the interaction of audiences, you have to understand their tacit (parochial) knowledge
+- ‘Father’ is just an abstraction
+	- The cultural role of ‘father’ is defined by shifting cultural values
+- All cultural roles show similar diachronic, geographic, economic and other shifts across time, space, or populations
+	- Globalization likely accelerated the shift to ‘mono-culture’ #develop 
+- The 1867 Treaty of Medicine Lodge example
+- ‘We should do lunch sometime’ example
+- Human language ≠ A computer code
+	- Grammar ≠ Meaning
+		- Culture, grammar, and meaning each imply the others
+			- Culture = Inexplicable framework/theory ???
+				- “Understanding the nature and role of culture in human behaviour, language and thinking is essential for comprehending the evolution of human language.”
+- Structured knowledge = Lists _and_ [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together. |how things on the lists relate to one another]]
+- A common symbol, slogans, chants, anthems, phrases
+	- The group proclamation becomes individuals’ value ⇒ The social and the individual become linked ⇒ Culture ⇒ Words take on new meanings, or new words with new meanings are born (because languages are arbitrary in nature)
+- I think there is some aspect of how culture defines what should remain unsaid
+	- All the more difficult because you can’t really extrapolate what’s been said, unless you understand the culture behind
+		- But to understand the culture behind you have to be one of them
+			- But there’s no way you can assume completely the same background as the counterpart
+				- Culture can be a text? #develop 
+- We also eat like who we eat with, think like those we think with
+	- Maybe an argument for why we should spend time with those whom you want to be like
+		- How Pirahas’ body dimensions are constant
+			- ‘Grow like who you grow with’
+				- Genotype ≠ Phenotype
+				- [[10-2g1f2 Culture (also) shapes phenotype for humans (Culture ⇒ Phenotype) |Culture ⇒ Phenotype]]
+- Imitation / Innovation
+	- Imitation is the seed of culture
+		- Imitation precedes even ‘the culture of innovation’? #develop 
+			- Is that really ‘innovative’?
+- What were the components that were changing early _Homo_ bands of individuals into cohesive cultures?
+	1. Values
+		1. Statements about how things should or should not be
+		2. Values are also seen in the tools we choose
+	2. Knowledge
+		- ‘Hierarchical knowledge structures’
+			- Human knowledge is an ordered set of ideas or skills
+				- “The sum of what we know forms a system that is greater than merely all the things we know put together”
+					- Just as a symphony is greater than a mere list of all of its notes
+	3. Social roles
+- Parisians vs Houstonians example
+	- They have the same values, but their relative ranking makes the difference
+		- Not components per se, but configuration
+- ‘Grammar of society’
+	- Kenneth Pike: The principles of human grammars are the organizing principles as well for ‘grammars of culture’
+- Society and culture are connected and constructed in grammar-like ways in their local contexts, groupings and actions
+	- Society and culture are more than merely grammars, of course
+	- One may conceive of all the individuals of a society as ‘fillers’ for slots in a culture-grammar
+- The students-professor example
+	- The students, as well as the professor, are the object—not the subject
+		- Each person occupies a role, alone or jointly
+		- Roles are like apparel, worn for specific situations
+		- Each participant possesses a separate interpretation of their joint activity
+- Everett: Perceptions and the range of thought are shaped significantly by a cultural network
+	- In European societies this means the dualism of Descartes and the mind-as-computer idea of Alan Turing represent the core of cognition
+- [ ] Repercussion with DM
+	- Brains ≠ Computers
+		- Beliefs are states which occur when bodies (including brains) are directed towards something
+			- Intentionality
+				- The individual engaging in language and culture ⇒ Beliefs
+	- How is one to characterize tools culturally?
+		- Language is the most important non-physical tool
+			- Culture itself is a tool
+				- ?????
+	- Stories
+		- People talk about what they assume their interlocutor does not know (but has the necessary background knowledge to understand)
+	- Almost all non-human animal knowledge is dark matter
+###### 13. Conclusion
+- [[10-2g2 Culture invents symbols, and the core of language is the symbol |The core of language is the symbol]]
+	- Social values, social knowledge, social structures ⇒ symbol
+	- Symbol = [[Symbol = culturally agreed upon form + culturally developed meaning. The core of language is the symbol. Social values-knowledge-structures ⇒ Symbol. |a combination of culturally agreed upon form with a culturally developed meaning]]
 ---
 # Dark Matter of the Mind
-0. Introduction
-    - Talking about the differences between Pirahas and himself
-        - “Memes and ideas alone are unable to account for these differences for the simple reason that not all of these or other differences are able to be made explicit; not all of the differences I encountered are reducible to propositions; and many of the differences are negative, rather than positive—learning what not to do, rather than what to do.”
-            - Infinitely many
-    - The conclusion of this book = the Buddhist notion of _anatman_
-        - Humans have no nature and no self apart from the experiences they have united in their memories
-    - Minds do not experience and do not know, and minds are not the repositories of tacit information
-        - Individuals are
-            - “Minds do not learn. Brains do not learn. Societies do not learn. Cultures do not learn. Only individuals learn. And what individuals learn is largely in the form of a culturally articulated dark matter. Brains are part of our bodies, so they play a role in the entire body’s ability to learn. It is the body that learns in this sense.”
-    - Joel Gold: The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe
-    - Apperceptions = The ways by which we process, makes sense of, and assimilate our experiences
-    - The dark matter ≠ Tacit knowledge
-    - Pike’s _emicization_
-        - The _emic_ vs. _etic_
-            - _Etic_: outsider
-                - The etic approach = ‘Comparative’
-            - _Emic_: insider
-                - The emic approach = ‘Culturally specific, applied to one language or culture at a time’
-    - Being a member of particular social groups (families, tribes, societies, nations) ⇒ Its implicit knowledge and apperception ⇒ Our actions, beliefs, desires, values . . . the self
-        - Dark matter is multilayered, differentially manifested, and variously derived from the experiences of living
-    - Cultures ↔ Individuals
-        - _How different would we be?_
-            - Everett: We are more different than we are alike
-    - The mind ≠ A computer
-        - The mind = A part of a larger culture
-            - The mind is formed in the context of particular individuals situated in particular cultures
-                - We can’t do away with the particularity ( | physicality | contingency)
-        - _Mind_ ≠> _Culture_
-        - “Emotions, muscles, hormones, even bacteria and the body — that is, _the individual_ (if one believes as I do that there is nothing to an individual but one’s body) — are the portals to reasoning and cognition.”
-            - _Culture_ ⇒ _Mind_
-        - Computer software doesn’t grow biologically from its hardware
-        - Nor do computers possess emotions
-        - The mind is shaped by its environment even when it is not attending to its environment per se, an ability beyond any current computer
-    - Nativism = Humans share some knowledge because it is programmed into all of us innately
-        - Everett: It is possible that both learned and innate forms of tacit knowledge are crucially implicated in human cognition and behavior
-            - The question is not about against nativism per se (_a false dichotomy_) but in a continuum of possibilities - where do the most important or even the most overlooked contributions to knowledge come from?
-                - Everett is concerned with difference rather than sameness
-                    - Because the variability in dark matter is fundamental to human survival, arising from and sustaining our species’ ecological diversity
-                        - Variable dark matter ⇒ Variable “human natures”
-    - The concept-apperception continuum
-        - Concepts can always be made explicit
-        - Apperceptions less so
-            - Because often it’s ineffable
-        - Culture, Personal History, Physiology ⇒ Conceptual knowledge _and_ Apperception ⇒ The individual psyche and body
-    - Cultures ⇒ [Flexible human brain] ⇒ Variable dark matter
-        - Instincts ≠ Flexible
-            - Humans adapt in the sense of solving problems, then _teach_ the solutions and _reflect_ on them
-                - Cultures are vital to this human adaptational flexibility
-                    - The question ≠ _What’s in the brain?_
-                    - The question = _What’s the brain in?_
-                        - That is, _in what individual, residing in what culture does this particular brain reside?_
-    - Aristotelian view
-        - Aristotle’s tabula rasa view is closer to reality when we consider the question, _what’s left in the mind/brain when culture is removed?_
-            - Aristotle, Sapir, Locke, Hume > Plato, Bastian, Freud, Chomsky, Tooby, Pinker
-    - “Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other.
-    - Polanyi’s tacit knowledge
-        - Polanyi: Focused on subroutines of intentional act of an individual
-        - Everett: Focuses on dark cultural matter which is embodied in individual but also serving as the unseen connective force between members of a given society
-            - Not only within but also between them, as it were!
-    - Cultural knowledge
-        - Externals: Epistemologically and ontologically objective
-        - Internals: Ontologically subjective (interpretations)
-            - But we can _explain_ our internals and subsequent actions (which is external), as how our interpretations were formed, that is, in relation with his or her culture
-    - Self = A memory of _skandhas_
-        - In Buddhism there is _anatman_, “no-self,” meaning that there is no essence of an individual human, just the set of experiences they pass through, their apperceptive histories (or in Buddhist terms, the _skandhas_: form, sensation, perception, mental formations, and consciousness).
-            - How we come to have taste experiences and how these ultimately give us our sense of what we like to eat, contributing to our very sense of “self” and personality illustrates Everett’s point
-                - Buddhism = Everett = Hume
-                    - Self = A sequence of experiences
-                        - “A recursive definition of the self”
-    - Culture ↔ Language
-        - Although the following view is dominant:
-            - Language ⇒ Culture
-    - Pike: “Regardless of how much training one has . . . emic units of a language must be determined during the analysis of that language; _they must be discovered, not predicted_ [emphasis by Everett] — even though the range of kinds of components of language has restrictions placed upon it by the physiology of the human organism”
-        - This somehow reminded me of Peirce’s interpretants. The nature of emic units of a language, namely its unpredictability, which I think is the equivalent to _that which cannot be explicitly stated_, originates from the nature of symbols - that is, it’s infinitely contingent.
-            - ?
-    - _Emicization_
-        - Aggregated apperceptions (personal interpretations of experiences) ⇒ The “dark matter” ( | emic | the construction of an insider point of view) ⇒ Our language, culture, and self
-            - Emicization = The construction of an insider point of view (the “dark matter”)
-                - Dark matter is unique to individual
-                    - As culture is unique for the group possessing it
-    - Culture = What we know, our values, and the systematicization of our values, knowledge, and apperceptions _as members of a given society_
-        - “Not merely all our knowledge. Rather, it is the _arrangement of our knowledge and values and roles_.”
-    - “Personal nexus” (constructed self) ≠ “Human nature”
-        - “There is no human nature if by this we mean a kind of a priori knowledge common to all and only humans”
+###### 0. Introduction
+- Talking about the differences between Pirahas and himself
+	- “Memes and ideas alone are unable to account for these differences for the simple reason that not all of these or other differences are able to be made explicit; not all of the differences I encountered are reducible to propositions; and many of the differences are negative, rather than positive—learning what not to do, rather than what to do.”
+		- Infinitely many
+- The conclusion of this book = the Buddhist notion of _anatman_
+	- Humans have no nature and no self apart from the experiences they have united in their memories
+- Minds do not experience and do not know, and minds are not the repositories of tacit information
+	- Individuals are
+		- “Minds do not learn. Brains do not learn. Societies do not learn. Cultures do not learn. Only individuals learn. And what individuals learn is largely in the form of a culturally articulated dark matter. Brains are part of our bodies, so they play a role in the entire body’s ability to learn. It is the body that learns in this sense.”
+- Joel Gold: The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe
+- Apperceptions = The ways by which we process, makes sense of, and assimilate our experiences
+- The dark matter ≠ Tacit knowledge
+- Pike’s _emicization_
+	- The _emic_ vs. _etic_
+		- _Etic_: outsider
+			- The etic approach = ‘Comparative’
+		- _Emic_: insider
+			- The emic approach = ‘Culturally specific, applied to one language or culture at a time’
+- Being a member of particular social groups (families, tribes, societies, nations) ⇒ Its implicit knowledge and apperception ⇒ Our actions, beliefs, desires, values . . . the self
+	- Dark matter is multilayered, differentially manifested, and variously derived from the experiences of living
+- Cultures ↔ Individuals
+	- _How different would we be?_
+		- Everett: We are more different than we are alike
+- The mind ≠ A computer
+	- The mind = A part of a larger culture
+		- The mind is formed in the context of particular individuals situated in particular cultures
+			- We can’t do away with the particularity ( | physicality | contingency)
+	- _Mind_ ≠> _Culture_
+	- “Emotions, muscles, hormones, even bacteria and the body — that is, _the individual_ (if one believes as I do that there is nothing to an individual but one’s body) — are the portals to reasoning and cognition.”
+		- _Culture_ ⇒ _Mind_
+	- Computer software doesn’t grow biologically from its hardware
+	- Nor do computers possess emotions
+	- The mind is shaped by its environment even when it is not attending to its environment per se, an ability beyond any current computer
+- Nativism = Humans share some knowledge because it is programmed into all of us innately
+	- Everett: It is possible that both learned and innate forms of tacit knowledge are crucially implicated in human cognition and behavior
+		- The question is not about against nativism per se (_a false dichotomy_) but in a continuum of possibilities - where do the most important or even the most overlooked contributions to knowledge come from?
+			- Everett is concerned with difference rather than sameness
+				- Because the variability in dark matter is fundamental to human survival, arising from and sustaining our species’ ecological diversity
+					- Variable dark matter ⇒ Variable “human natures”
+- The concept-apperception continuum
+	- Concepts can always be made explicit
+	- Apperceptions less so
+		- Because often it’s ineffable
+	- Culture, Personal History, Physiology ⇒ Conceptual knowledge _and_ Apperception ⇒ The individual psyche and body
+- Cultures ⇒ [Flexible human brain] ⇒ Variable dark matter
+	- Instincts ≠ Flexible
+		- Humans adapt in the sense of solving problems, then _teach_ the solutions and _reflect_ on them
+			- Cultures are vital to this human adaptational flexibility
+				- The question ≠ _What’s in the brain?_
+				- The question = _What’s the brain in?_
+					- That is, _in what individual, residing in what culture does this particular brain reside?_
+- Aristotelian view
+	- Aristotle’s tabula rasa view is closer to reality when we consider the question, _what’s left in the mind/brain when culture is removed?_
+		- Aristotle, Sapir, Locke, Hume > Plato, Bastian, Freud, Chomsky, Tooby, Pinker
+- “Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other.
+- Polanyi’s tacit knowledge
+	- Polanyi: Focused on subroutines of intentional act of an individual
+	- Everett: Focuses on dark cultural matter which is embodied in individual but also serving as the unseen connective force between members of a given society
+		- Not only within but also between them, as it were!
+- Cultural knowledge
+	- Externals: Epistemologically and ontologically objective
+	- Internals: Ontologically subjective (interpretations)
+		- But we can _explain_ our internals and subsequent actions (which is external), as how our interpretations were formed, that is, in relation with his or her culture
+- Self = A memory of _skandhas_
+	- In Buddhism there is _anatman_, “no-self,” meaning that there is no essence of an individual human, just the set of experiences they pass through, their apperceptive histories (or in Buddhist terms, the _skandhas_: form, sensation, perception, mental formations, and consciousness).
+		- How we come to have taste experiences and how these ultimately give us our sense of what we like to eat, contributing to our very sense of “self” and personality illustrates Everett’s point
+			- Buddhism = Everett = Hume
+				- Self = A sequence of experiences
+					- “A recursive definition of the self”
+- Culture ↔ Language
+	- Although the following view is dominant:
+		- Language ⇒ Culture
+- Pike: “Regardless of how much training one has . . . emic units of a language must be determined during the analysis of that language; _they must be discovered, not predicted_ [emphasis by Everett] — even though the range of kinds of components of language has restrictions placed upon it by the physiology of the human organism”
+	- This somehow reminded me of Peirce’s interpretants. The nature of emic units of a language, namely its unpredictability, which I think is the equivalent to _that which cannot be explicitly stated_, originates from the nature of symbols - that is, it’s infinitely contingent.
+		- ?
+- _Emicization_
+	- Aggregated apperceptions (personal interpretations of experiences) ⇒ The “dark matter” ( | emic | the construction of an insider point of view) ⇒ Our language, culture, and self
+		- Emicization = The construction of an insider point of view (the “dark matter”)
+			- Dark matter is unique to individual
+				- As culture is unique for the group possessing it
+- Culture = What we know, our values, and the systematicization of our values, knowledge, and apperceptions _as members of a given society_
+	- “Not merely all our knowledge. Rather, it is the _arrangement of our knowledge and values and roles_.”
+- “Personal nexus” (constructed self) ≠ “Human nature”
+	- “There is no human nature if by this we mean a kind of a priori knowledge common to all and only humans”
 
-1. 
-	- _There is no clear dividing line between knowledge-how vs. knowledge-that_
-    - Humans are designed to be flexible
-        - Cultures are evolution’s ultimate solution to the problem of providing adaptive flexibility
-            - The question ≠ “What’s in the brain?”
-            - The question = “What’s the brain in (culture/society/environment)?”
-    - Our minds and cultures are constructed symbiotically
-        - Minds ↔ Cultures
-            - The flexibility of humans are found particularly in the tacit knowledge
-    - Human cognition and behavior are not law-like
-        - We are not doing physics
-        - We do not expect exceptionless laws
-        - Understanding is often list-like and descriptive
-            - Rather than abstract and general
-    - Culture ← [”Emicization”] → Individual psychology
-        - Emicization = The interaction between culture and individual psychology
-    - The case against knowing-how and knowing-that distinction
-        - A robot riding a bike (algorithm) ≠ A conscious being riding a bike
-        - “It may not be possible to reduce knowing-how to knowing-that.”
-            - It may just be a distinction without a difference, simply a reflection of what we are able to describe rather than any meaningful distinction in the individual
-    - Knowledge as particle, wave, and field
-        - Particles - Understood positively and negatively, by what they _are_ and what they are _not_
-        - Wave - Reveals details about the particles that cannot be seen in isolation
-        - A field - How is it _slotted_?
-    - “Some forms of knowing, such as phonology, are at once knowing-how and knowing-that, an ability that embodies dynamic and static cognition
-    - **THE PLATONIC TRADITION OF INNATE KNOWLEDGE**
-        - Plato - Ideas are invariant in heaven, they are timeless, pure, and free from contamination by the body and the world
-            - Deutsch - We will always in the virtual-reality, we can be more timeless, more pure, more free, but never timeless, pure, and free in itself
-        - Descartes - Dualism (led to the misguided view of the mind as software running on a physical hardware) and ignored nonhuman animals (”linguaformal” models of knowledge and cognition)
-            - Everett - Dualism is one of the worst error ever introduced into philosophy, and Descartes simply ignored evolution
-        - Kant - Categories (_innate_ a priori concepts, pre-installed concepts, with which our mind interpret the world) and that the mind is the locus of learning
-            - Everett - Kant’s philosophy suffers from a lack of understanding of culture, physiology, psychology, and linguistics. His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.
-        - Leibniz
-            - Everett - Philosophy without science is “empty ideas”
-        - Adolf Bastian - “Elementary ideas”, “social mind”, “social soul”
-        - Freud - _Id, ego, superego_
-            - Everett - No earlier theory made more lively use of the notion of innate, a priori dark matter
-        - Jung - “Collective unconscious” (innate tacit information common to all humans)
-        - Franz Boas - “Laws of cultural development”
-            - Everett - His pragmatism makes him a “straddler” of the boarder between nativism and nonnativism
-        - Joseph Campbell - “Monomyth” (innate content)
-            - Everett - A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.
-        - Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar,) and the idea that the linguistics capacity were identical and innate in all humans
-            - Everett - ”Monogrammar”
-    - **THE ARISTOTELIAN VIEW OF KNOWLEDGE**
-        - That all humans form tacit memories, knowledge, dispositions, from experience
-        - Aristotle - An innate _capacity_ to learn ≠ Specific knowledge
-            - Everett - He is responsible for the characterization of the mind as a “blank slate” (”Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought”)
-        - John Locke - Our ideas are acquired by living and thinking
-            - Everett - His tabula rasa didn’t mean there were no innate abilities, but that _there were no innate specific concepts_ (innate capacities ≠ innate knowledge)
-        - George Berkeley - Criticizes the very notions of abstraction and generalization
-            - Everett - There is no mind of any kind (except as an imprecise way of talking about the brains), only bodies and the world (cultural, biological, ecological, etc.) in which they move
-        - Hume - Ideas only make sense or exist through experience
-        - William James - _Radical empiricism_
-        - Edward Sapir - The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined. “One is _always unconsciously finding what one is in unconscious subjection to_”
-            - Everett - If he used “psychic unity,” it was in terms of universal capacities, not universal believes or knowledge
-        - Michael Polanyi - The mind is not a computer. Our discoveries are driven by our values, commitments, and passions. Scientists choose the questions that are important to them from personal and social values.
-        - Quine - What we take to be nonnegotiable in our beliefs, resulting from our lives, beliefs, and other forms of dark matter, are truths we are not prepared to disbelieve.
+###### 1. 
+- _There is no clear dividing line between knowledge-how vs. knowledge-that_
+- Humans are designed to be flexible
+	- Cultures are evolution’s ultimate solution to the problem of providing adaptive flexibility
+		- The question ≠ “What’s in the brain?”
+		- The question = “What’s the brain in (culture/society/environment)?”
+- Our minds and cultures are constructed symbiotically
+	- Minds ↔ Cultures
+		- The flexibility of humans are found particularly in the tacit knowledge
+- Human cognition and behavior are not law-like
+	- We are not doing physics
+	- We do not expect exceptionless laws
+	- Understanding is often list-like and descriptive
+		- Rather than abstract and general
+- Culture ← [”Emicization”] → Individual psychology
+	- Emicization = The interaction between culture and individual psychology
+- The case against knowing-how and knowing-that distinction
+	- A robot riding a bike (algorithm) ≠ A conscious being riding a bike
+	- “It may not be possible to reduce knowing-how to knowing-that.”
+		- It may just be a distinction without a difference, simply a reflection of what we are able to describe rather than any meaningful distinction in the individual
+- Knowledge as particle, wave, and field
+	- Particles - Understood positively and negatively, by what they _are_ and what they are _not_
+	- Wave - Reveals details about the particles that cannot be seen in isolation
+	- A field - How is it _slotted_?
+- “Some forms of knowing, such as phonology, are at once knowing-how and knowing-that, an ability that embodies dynamic and static cognition
+- **THE PLATONIC TRADITION OF INNATE KNOWLEDGE**
+	- Plato - Ideas are invariant in heaven, they are timeless, pure, and free from contamination by the body and the world
+		- Deutsch - We will always in the virtual-reality, we can be more timeless, more pure, more free, but never timeless, pure, and free in itself
+	- Descartes - Dualism (led to the misguided view of the mind as software running on a physical hardware) and ignored nonhuman animals (”linguaformal” models of knowledge and cognition)
+		- Everett - Dualism is one of the worst error ever introduced into philosophy, and Descartes simply ignored evolution
+	- Kant - Categories (_innate_ a priori concepts, pre-installed concepts, with which our mind interpret the world) and that the mind is the locus of learning
+		- Everett - Kant’s philosophy suffers from a lack of understanding of culture, physiology, psychology, and linguistics. His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.
+	- Leibniz
+		- Everett - Philosophy without science is “empty ideas”
+	- Adolf Bastian - “Elementary ideas”, “social mind”, “social soul”
+	- Freud - _Id, ego, superego_
+		- Everett - No earlier theory made more lively use of the notion of innate, a priori dark matter
+	- Jung - “Collective unconscious” (innate tacit information common to all humans)
+	- Franz Boas - “Laws of cultural development”
+		- Everett - His pragmatism makes him a “straddler” of the boarder between nativism and nonnativism
+	- Joseph Campbell - “Monomyth” (innate content)
+		- Everett - A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.
+	- Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar,) and the idea that the linguistics capacity were identical and innate in all humans
+		- Everett - ”Monogrammar”
+- **THE ARISTOTELIAN VIEW OF KNOWLEDGE**
+	- That all humans form tacit memories, knowledge, dispositions, from experience
+	- Aristotle - An innate _capacity_ to learn ≠ Specific knowledge
+		- Everett - He is responsible for the characterization of the mind as a “blank slate” (”Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought”)
+	- John Locke - Our ideas are acquired by living and thinking
+		- Everett - His tabula rasa didn’t mean there were no innate abilities, but that _there were no innate specific concepts_ (innate capacities ≠ innate knowledge)
+	- George Berkeley - Criticizes the very notions of abstraction and generalization
+		- Everett - There is no mind of any kind (except as an imprecise way of talking about the brains), only bodies and the world (cultural, biological, ecological, etc.) in which they move
+	- Hume - Ideas only make sense or exist through experience
+	- William James - _Radical empiricism_
+	- Edward Sapir - The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined. “One is _always unconsciously finding what one is in unconscious subjection to_”
+		- Everett - If he used “psychic unity,” it was in terms of universal capacities, not universal believes or knowledge
+	- Michael Polanyi - The mind is not a computer. Our discoveries are driven by our values, commitments, and passions. Scientists choose the questions that are important to them from personal and social values.
+	- Quine - What we take to be nonnegotiable in our beliefs, resulting from our lives, beliefs, and other forms of dark matter, are truths we are not prepared to disbelieve.
 
-2. 
-	- _One of the two major forces in the creation of dark matter: culture_
-    - _How is culture even possible?_
-    - _Culture is an abstraction - can only be found in the individual_
-    - _A theory of values ⇒ A theory of culture_
-    - _Machines cannot think because they lack culture_
-        - _No culture ⇒ No semantic understanding, no background, no dark matter ⇒ No thought_
-    - _A society ≠ A foot ball team, an orchestra_
-        - _Overlapping values, roles, and knowledge of individuals that live together, eat together, think together, language together, and culture together ⇒ The cultural cohesiveness of a society_
-    - _Culture in the popular sense_
-3. 
-	- _How is dark matter acquired?_
-        - _The chapter offers a case study by means of a detailed description from the Pirahas_
-    - _Understanding cultural learning ⇒ [Extrapolate] ⇒ Understanding how humans construct/acquire the dark matter_
-    - _Computers are unlikely to ever be able to think or talk_
-        - _No consciousness, emotions, apperceptions, dark matter, cognitive plasticity, culture, society, and physiology ⇒ No human thinking by robots_
-            - _The entire individual — not merely a disembodied mind — learns and acquires dark matter_
-                - _No body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence ⇒ No thought_
-    - _The necessary requirements to develop dark matter: a body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence_
-    - What makes humans unique is not computational ability
-        - “Other animals have tremendous problem-solving, navigational, emotional, and other cognitive ranges, as well as consciousness”
-            - Maybe the concept of a problem is not really unique to humans?
-    - Requirements to develop dark matter:
-        1. A body
-            - Even when reading, it’s still a bodily engagement?
-        2. “Culturing”
-        3. A flexible brain
-            - Creativity?
-        4. An emotional brain
-        5. Semantics
-            - What distinguishes humans from machines
-            - Acting and belonging in a community ⇒ Dark matter ⇒ Semantics
-        6. Human intelligence
-    - **Attachment theory**
-        - _Attachment_ = The creation of the individual-culture connection
-            - Our values are formed by the people we interact with
-            - Our self-image is formed by the perceptions of others’ perceptions of us and our perceptions of others
-        - “We are not merely self-locomoting computers on legs. We are affected physiologically, emotionally, and mentally with every step we take through our environment.”
-            - No learning without doing; specifically, no learning without cultural doing
-        - But once we have mastered a language, we also enter the world of language-based learning
-        - “The importance of childhood derives from the fact that human beings enjoy a great survival advantage via their ability to escape from the constraints of purely biological evolution”
-            - That is, meme evolution!
-            - Attachment is children’s first journey from the strange to the familiar, from observer to knower — The first step in emicization
-                - 未知 ⇒ 既知
-            - Emicization via attachment, language learning, cultural learning ⇒ The child becomes able to better categorize, store, and arrange its apperceptions, thus constructing itself, its environment, and its society
-        - Variation in cultures ⇒ The variation in forms of attachment of children to caregivers ⇒ Variation in cultures ⇒ . . .
-        - What sets humans apart is our ability to accumulate knowledge by means of language
-            - Language is not the only tool by which we construct knowledge, values, ways of behaving. But it is the most important, even as it itself is shaped by culture.
-                - Imitation is crucial. But not quite enough for cultural transmission.
-    - **Piraha Emicization and Attachment**
-        - “Concentric circles” of attachment
-            - Mother ⇒ Parents ⇒ Family ⇒ Village ⇒ Piraha
-        - [ ] Details:
-    - **Language and Attachment**
-        - Egocentric language (Piaget) vs. Language as socialization (Vygotsky)
-            - Everett: A child learns language to form itself as an autonomous psychological being (egocentric), but this autonomy makes sense only in comparison and contrast to others — that is, in a social environment (socialization).
-        - If you speak Piraha natively, you are a Piraha
-            - But what counts as speaking is not merely grammatical structure. You have to tell appropriate stories, blending both language and culture!
-                - Attachment = A process of defining the self, one’s place in society, and the separateness of one’s group and culture from others
-        - Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships
-        - Sapir: “Culture is then not something given but something to be gradually and gropingly discovered.”
-4. Dark Matter as Hermeneutics
-    - _Dark matter (the unspoken language) is our primary tool for interpretating all our experiences_
-        - _Novel discussion which attempts to unify mind and culture_
-    - We interpret the world around us based on our unspoken knowns
-        - E.g., smoking tobacco
-    - [x] **Thick Description of Cultural Experience**
-        - An etic description = Aspects that are physically measurable
-        - Thick description = The meaning of such physical measurables
-            - The absence of thick descriptions affects our understanding of others
-                - You need cultural knowledge to interpret the verses
-                    - It’s a must for effective and accurate translation
-        - What is usually referred to as “culture” is nothing more than individual dark matters
-            - How does this dark matter come to function as a hermeneutic?
-                - Dark matter arises from the construction of concentric circles of relationships where the members of ever-widening groups are engaged in activities that the individual learns to interpret and repeat, very much like they do in acquiring their first language
-                    - Culture is the dark matter that is acquired from culturing, social acting, languaging
-                        - Games, utterances, speech acts, discourses, symbols, icons — these are our hermeneutics
-    - [x] **Culture and Perception**
-        - “Does our dark matter — derived from culture and psychology — help or impede our ability to perceive the world?”
-            - It does both
-        - The problem is not seeing the details, but putting together what we are seeing into coherent percept (or gestalt)
-            - This “putting together” occurs effortlessly and without awareness
-                - The connecting the dots of what we perceive is emic vision
-                    - Properly emicized, we see the whole “better” — seeing things that are not there and not seeing things that are
-        - Perceptual maturation ≠ Dark matter acquired
-            - The Pirahas inability on the two-dimensional tasks simply shows that a mature visual system is insufficient to guarantee recognition of what one sees
-                - The mature system “sees” only the etic until it has undergone emicization into a particular culture, with particular experiences, expectations, and so on
-                    - There is such a thing as emic understanding of perceptual experiences that ranges beyond the merely physical and etic limitations of the ocular nerve
-        - Dark matter is our hermeneutic, even for basic perception
-    - [ ] **Beyond Counterexamples and Exceptions: Dark Matter and Science**
-        - A black swan is evaluated relative to a cultural system
-        - Scientific progress is the output of cultural values
-            - Our inquiry should be informed by multiple theories, with a focus on languageS rather than Language
-                - Focus on the particular rather than the general
-        - “This is not to say that science is merely a cultural illusion. This chapter has nothing to do with postmodernist epistemological relativity. But it does aim to show that science is not “pure rationality,” autonomous from its cultural matrix.”
-        - That theories cannot always account for everything
-            - Theories leak
-                - Isn’t this simply because we are fallible?
-        - That counterexamples and exceptions are etically the same, but emically very different
-            - We must resign ourselves to having exceptions at all times that in principle ought not to be incorporated into or analyzed by the theory
-                - Put differently, we start with theory, but because we are fallible, we are forced to restart abductively, but even the new theory contains dark matter, and because it has dark matter, and because we cannot do away with it, we are forced to face ‘counterexamples’ and ‘exceptions’?
-        - Both a counterexample and an exception are facts that a particular theory cannot explain
-            - The difference is that the former is taken seriously while the latter is a hiccup that can be safely ignored for now
-                - The classification depends on our dark matter
-                    - Counterexamples and exceptions are the same etically, though they are nearly polar opposites emically
-                        - Each is defined relative to a specific theoretical tradition — a particular culture
-        - Data, like their interpretations, are subject to emicization
-            - We decide to see data with a meaning
-        - Whether a language has recursion or not is vital to psychology and linguistics
-            - It is also vital to anthropology, if indeed the manifestation of recursion (or other properties of grammar) are constrained by culture and dark matter
-        - “One of the oldest and most important empirical programs in cognitive science and linguistics aims to characterize the range of possible human languages. Linguistic universals — if any exist — would point to deep properties of the cognitive mechanisms supporting language; at the same time, the search for possible universals and violations of universals creates rich data for linguistic theory.”
-        - Is a language without recursion a counterexample, an exception, or irrelevant to current syntactic theory?
-            - [ ] Greenbergian universals (falsifiable) vs. Chomskyan universals (untestable)
-                - [ ] Chomskyan is falsified, and Greenbergian is irrelevant
-            - [ ] THEORY >> DATA vs. DATA >> THEORY
-        - In the value system of the theory of dark matter here, there are the following values:
-            1. Understanding particulars is vital and is the first step in developing an etically valid basis for emic science.
-                - Unlike Chomskyan?
-            2. There is no atheoretical research, so be informed.
-                - We are theory-laden!
-                - Unlike Greenbergian?
-            3. Using insights from multiple theories can mitigate the counterexample vs. exception quandary.
-            4. Never be too sure.
-            5. The same structure can be a counterexample in one language but a pseudo-exception in another, depending on the “field/matrix” view (or in some cases, the “dynamic” or “wave” view).
-5. 
-	- _Dark matter in language_
-        - _This chapter takes on the role of dark matter in texts_
-            - _How the implicit, unspoken material of texts contains some of the most important dark matter of culture — knowledge and values in particular — and the individual_
-    - _Texts can be interpreted only against a background of structured knowledge, social roles, and ranked values_
-    - _Some diversions on business culture_
-    - [ ] **Implicit Values in Texts**
-    - [x] **YOU TALK LIKE WHO YOU TALK WITH**
-        - Overt knowledge can be found inside and outside our brains (e.g., Wikipedia), but dark matter is found only within the individual
-            - And this holds universally to all people!
-    - [x] **Business Culture**
-    - [x] **Implicit Knowledge in Texts**
-        - The texts of the _WSJ_ and _NYT_
-            - None of the dark matters are universal
-    - [x] **INDEXICALS IN DARK MATTER**
-        - To interpret indexicals, one needs knowledge about the current context of utterance
-            - Indexicals often straddle the boundary between language and culture
-                - E.g., “He said _I_ will do it” — Am _I_ him or me?
-    - [ ] **DARK MATTER OF PROCEDURES AND COMPLAINTS**
-    - [x] **DARK MATTER CONSTRUCTED BY POPULAR CULTURE**
-        - Popular song lyrics as revealing common dark matter
-6. 
-	- _This chapter examines the architectonic effect of culture on language_
-        - _Syntax, phonology, lexicon, morphology, semantics, and so on_
-            - _Culture ⇒ Language_
-    - [ ] **Symbols and Signs**
-        - Idioms
-            - _Keep tabs on . . ._
-            - _Keep an eye on . . ._
-        - Once constructions are recognized in the theory of grammars, the distinction becomes blurred between the “grammar proper” and the “lexicon”
-            - The rules that generate grammatical forms without regard for meaning ↔ The speaker’s brain-stored dictionary, based on their culturing experiences
-        - Culture’s hand can be found even in the grammar itself — apart from constructions or meaning
-    - [ ] **Grammar**
-        - [ ] “Meaning movement”, “generative semantics”, “deep structure”, _Universal base hypothesis_ (UBH)
-        - Sapir: “Speech is a non-instinctive, acquired, ‘cultural’ function.”
-            - That language is significantly shaped by culture
-                - That grammars arise within particular systems of cultural values and that the values and patterns of conversation, telling stories, uttering phrases, and so on, themselves constrain the grammatical structure of a language
-    - [x] **REIFICATION OF LINGUISTICS**
-        - _How linguistics led away from its traditional concern with language as partially constructed by culture_
-            - _How the shift occurred with Chomsky’s earliest work_
-        - One cannot understand sentence structures well without understanding the discourses they are embedded in
-            - ChatGPT?
-        - Sentences = Units of interaction
-    - [x] **CULTURAL LEARNING**
-        - _That the child learns its culture and other forms of dark matter at least as early as — perhaps even before — it begins to learn its language_
-            - _This non-linguistic learning affects the child in many ways, including its conception of how language is used for communication, a conception that can in turn affect her grammar_
-        - Similar discussion with DM Ch. 3 _Language and Attachment_
-            - Making a blowgun
-                - That differences in dark matter can arise without linguistic guidance
-                    - 外山滋比古の言語化の重要性の主張を、非言語の分野に適用した主張
-    - [ ] **Ethnophonology**
-        - _That even the sound system is architectonically affected by culture (contrary to most linguists’ expectations)_
-        - Two examples in Piraha
-            - Piraha texts reveal cultural values and knowledge, and require a culturally based hermeneutics
-                - Culture and grammar shape each other through their evolved symbiotic relationship
-                    - [ ] On evoking hermeneutics, refer to Ch. 4
-    - [ ] **CULTURAL CONSTRAINTS ON “CORE GRAMMAR”**
-        - _The overarching cultural value — IMMEDIACY OF EXPERIENCE ⇒ No recursion_
-        - Another example of culture affecting grammar
-            - Piraha’s apparent lack of recursion
-    - [ ] **Methodology for Studying the Culture-Grammar Interface**
-        - _A suggested methodology for establishing culture-grammar connections_
-        - _That Piraha is not a unique case and that all languages will show culture-language connections if we look!_
-            - _It is hard to find such connections if we do not look for them!_
-        - The biggest lacuna in the study of ethnogrammar
-            - The effect of values, especially cultural taboos, in restricting both culture and grammar!
-        - Ethnogrammatical studies are to explain the linkage between _nonlinguistic evidence_ and _noncultural evidence_
-            - To explain how linking the two provides a conceptually and empirically superior account of the facts that leave them unconnected
-        - [ ] “The social instinct”
-            - [ ] Hos is this ‘instinct’ different from “instincts” and “human nature” as used in DM Ch. 9 & 10?
-        - COGNITION, CULTURE, AND COMMUNICATION → GRAMMAR
-            - In other words, given human cognitive abilities, cultural/community shared experiences, and the social/interactional instinct, grammar emerges as a solution to the latter problem, facilitated by the first two abilities
-                - ?
-7. 
-	- _Gestures have intimate connections with grammar, cognition, and culture_
-        - _Gestures provide no strong evidence of innate dark matter but, on the contrary, show how culture and individual psychology can produce gestures as part of language, just as they do with syntax and other components of human language_
-            - _Culture ⇒ Gestures_
-8. 
-	- _Not everything — perhaps not much at all, can be said to be intertranslatable crossculturally or cross-linguistically_
-    - _A thick description of the culture of the source and the target cultures is essential for translation to take place accurately or effectively_
-    - _Quine and radical translation_
-9. 
-	- _Apperceptions, values, violable value hierarchies, and knowledge structures of the enveloping culture in conjunction with the idiopsychology of each individual ⇒ Dark matter_
-        - _And this dark matter answers the questions such as:_
-            - _If you give a lecture, how might you know from people’s faces whether they are understanding you?_
-            - _**When you use a concept, why do you believe that you understand it?**_
-            - _Why do you like the music that you like?_
-            - _How do you know that the cry you heard is from your own child?_
-            - _How can people tell without looking whether someone is running upstairs or downstairs?_
-            - _How do you know what your mother looks like?_
-            - _What does tofu taste like?_
-            - _Why do you say “red, white, and blue” instead of “white, blue, and red”?_
-10. 
-	- _The constructed self_
-    - _Will, intelligence, and other components of the self_
-11. Conclusion
-    - Only individuals learn
-        - Not minds
-        - Not brains
-        - Not societies
-        - Not cultures
-        - **And what individuals learn is largely in the form of a culturally articulated dark matter**
-    - Individual apperceptions + A ranked-value, linguistic-based model of culture ⇒ Human unconscious
-    - Culture articulates the unconscious via emicization, learning how and that, value rankings, knowledge structures, and social relations and roles across various groups
-        - What has been most emicized is most deeply unconscious by and large
-            - We have both conscious and unconscious yet the latter is not innately structured
-                - Doing, thinking, talking, experiencing ⇒ Interpreting those experiences ⇒ The unconscious
-                    - In other words, we must understand the specificity of each culture to understand the dark matter of the individual within?
-    - We are flexible
-        - Instincts, human nature ≠> Human behavior, society, and cognition
-        - Our mental and social experiences ⇒ Our emergent selves
+###### 2. 
+- _One of the two major forces in the creation of dark matter: culture_
+- _How is culture even possible?_
+- _Culture is an abstraction - can only be found in the individual_
+- _A theory of values ⇒ A theory of culture_
+- _Machines cannot think because they lack culture_
+	- _No culture ⇒ No semantic understanding, no background, no dark matter ⇒ No thought_
+- _A society ≠ A foot ball team, an orchestra_
+	- _Overlapping values, roles, and knowledge of individuals that live together, eat together, think together, language together, and culture together ⇒ The cultural cohesiveness of a society_
+- _Culture in the popular sense_
+###### 3. 
+- _How is dark matter acquired?_
+	- _The chapter offers a case study by means of a detailed description from the Pirahas_
+- _Understanding cultural learning ⇒ [Extrapolate] ⇒ Understanding how humans construct/acquire the dark matter_
+- _Computers are unlikely to ever be able to think or talk_
+	- _No consciousness, emotions, apperceptions, dark matter, cognitive plasticity, culture, society, and physiology ⇒ No human thinking by robots_
+		- _The entire individual — not merely a disembodied mind — learns and acquires dark matter_
+			- _No body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence ⇒ No thought_
+- _The necessary requirements to develop dark matter: a body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence_
+- What makes humans unique is not computational ability
+	- “Other animals have tremendous problem-solving, navigational, emotional, and other cognitive ranges, as well as consciousness”
+		- Maybe the concept of a problem is not really unique to humans?
+- Requirements to develop dark matter:
+	1. A body
+		- Even when reading, it’s still a bodily engagement?
+	2. “Culturing”
+	3. A flexible brain
+		- Creativity?
+	4. An emotional brain
+	5. Semantics
+		- What distinguishes humans from machines
+		- Acting and belonging in a community ⇒ Dark matter ⇒ Semantics
+	6. Human intelligence
+- **Attachment theory**
+	- _Attachment_ = The creation of the individual-culture connection
+		- Our values are formed by the people we interact with
+		- Our self-image is formed by the perceptions of others’ perceptions of us and our perceptions of others
+	- “We are not merely self-locomoting computers on legs. We are affected physiologically, emotionally, and mentally with every step we take through our environment.”
+		- No learning without doing; specifically, no learning without cultural doing
+	- But once we have mastered a language, we also enter the world of language-based learning
+	- “The importance of childhood derives from the fact that human beings enjoy a great survival advantage via their ability to escape from the constraints of purely biological evolution”
+		- That is, meme evolution!
+		- Attachment is children’s first journey from the strange to the familiar, from observer to knower — The first step in emicization
+			- 未知 ⇒ 既知
+		- Emicization via attachment, language learning, cultural learning ⇒ The child becomes able to better categorize, store, and arrange its apperceptions, thus constructing itself, its environment, and its society
+	- Variation in cultures ⇒ The variation in forms of attachment of children to caregivers ⇒ Variation in cultures ⇒ . . .
+	- What sets humans apart is our ability to accumulate knowledge by means of language
+		- Language is not the only tool by which we construct knowledge, values, ways of behaving. But it is the most important, even as it itself is shaped by culture.
+			- Imitation is crucial. But not quite enough for cultural transmission.
+- **Piraha Emicization and Attachment**
+	- “Concentric circles” of attachment
+		- Mother ⇒ Parents ⇒ Family ⇒ Village ⇒ Piraha
+	- [ ] Details:
+- **Language and Attachment**
+	- Egocentric language (Piaget) vs. Language as socialization (Vygotsky)
+		- Everett: A child learns language to form itself as an autonomous psychological being (egocentric), but this autonomy makes sense only in comparison and contrast to others — that is, in a social environment (socialization).
+	- If you speak Piraha natively, you are a Piraha
+		- But what counts as speaking is not merely grammatical structure. You have to tell appropriate stories, blending both language and culture!
+			- Attachment = A process of defining the self, one’s place in society, and the separateness of one’s group and culture from others
+	- Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships
+	- Sapir: “Culture is then not something given but something to be gradually and gropingly discovered.”
+###### 4. Dark Matter as Hermeneutics
+- _Dark matter (the unspoken language) is our primary tool for interpretating all our experiences_
+	- _Novel discussion which attempts to unify mind and culture_
+- We interpret the world around us based on our unspoken knowns
+	- E.g., smoking tobacco
+- [x] **Thick Description of Cultural Experience**
+	- An etic description = Aspects that are physically measurable
+	- Thick description = The meaning of such physical measurables
+		- The absence of thick descriptions affects our understanding of others
+			- You need cultural knowledge to interpret the verses
+				- It’s a must for effective and accurate translation
+	- What is usually referred to as “culture” is nothing more than individual dark matters
+		- How does this dark matter come to function as a hermeneutic?
+			- Dark matter arises from the construction of concentric circles of relationships where the members of ever-widening groups are engaged in activities that the individual learns to interpret and repeat, very much like they do in acquiring their first language
+				- Culture is the dark matter that is acquired from culturing, social acting, languaging
+					- Games, utterances, speech acts, discourses, symbols, icons — these are our hermeneutics
+- [x] **Culture and Perception**
+	- “Does our dark matter — derived from culture and psychology — help or impede our ability to perceive the world?”
+		- It does both
+	- The problem is not seeing the details, but putting together what we are seeing into coherent percept (or gestalt)
+		- This “putting together” occurs effortlessly and without awareness
+			- The connecting the dots of what we perceive is emic vision
+				- Properly emicized, we see the whole “better” — seeing things that are not there and not seeing things that are
+	- Perceptual maturation ≠ Dark matter acquired
+		- The Pirahas inability on the two-dimensional tasks simply shows that a mature visual system is insufficient to guarantee recognition of what one sees
+			- The mature system “sees” only the etic until it has undergone emicization into a particular culture, with particular experiences, expectations, and so on
+				- There is such a thing as emic understanding of perceptual experiences that ranges beyond the merely physical and etic limitations of the ocular nerve
+	- Dark matter is our hermeneutic, even for basic perception
+- [ ] **Beyond Counterexamples and Exceptions: Dark Matter and Science**
+	- A black swan is evaluated relative to a cultural system
+	- Scientific progress is the output of cultural values
+		- Our inquiry should be informed by multiple theories, with a focus on languageS rather than Language
+			- Focus on the particular rather than the general
+	- “This is not to say that science is merely a cultural illusion. This chapter has nothing to do with postmodernist epistemological relativity. But it does aim to show that science is not “pure rationality,” autonomous from its cultural matrix.”
+	- That theories cannot always account for everything
+		- Theories leak
+			- Isn’t this simply because we are fallible?
+	- That counterexamples and exceptions are etically the same, but emically very different
+		- We must resign ourselves to having exceptions at all times that in principle ought not to be incorporated into or analyzed by the theory
+			- Put differently, we start with theory, but because we are fallible, we are forced to restart abductively, but even the new theory contains dark matter, and because it has dark matter, and because we cannot do away with it, we are forced to face ‘counterexamples’ and ‘exceptions’?
+	- Both a counterexample and an exception are facts that a particular theory cannot explain
+		- The difference is that the former is taken seriously while the latter is a hiccup that can be safely ignored for now
+			- The classification depends on our dark matter
+				- Counterexamples and exceptions are the same etically, though they are nearly polar opposites emically
+					- Each is defined relative to a specific theoretical tradition — a particular culture
+	- Data, like their interpretations, are subject to emicization
+		- We decide to see data with a meaning
+	- Whether a language has recursion or not is vital to psychology and linguistics
+		- It is also vital to anthropology, if indeed the manifestation of recursion (or other properties of grammar) are constrained by culture and dark matter
+	- “One of the oldest and most important empirical programs in cognitive science and linguistics aims to characterize the range of possible human languages. Linguistic universals — if any exist — would point to deep properties of the cognitive mechanisms supporting language; at the same time, the search for possible universals and violations of universals creates rich data for linguistic theory.”
+	- Is a language without recursion a counterexample, an exception, or irrelevant to current syntactic theory?
+		- [ ] Greenbergian universals (falsifiable) vs. Chomskyan universals (untestable)
+			- [ ] Chomskyan is falsified, and Greenbergian is irrelevant
+		- [ ] THEORY >> DATA vs. DATA >> THEORY
+	- In the value system of the theory of dark matter here, there are the following values:
+		1. Understanding particulars is vital and is the first step in developing an etically valid basis for emic science.
+			- Unlike Chomskyan?
+		2. There is no atheoretical research, so be informed.
+			- We are theory-laden!
+			- Unlike Greenbergian?
+		3. Using insights from multiple theories can mitigate the counterexample vs. exception quandary.
+		4. Never be too sure.
+		5. The same structure can be a counterexample in one language but a pseudo-exception in another, depending on the “field/matrix” view (or in some cases, the “dynamic” or “wave” view).
+###### 5. 
+- _Dark matter in language_
+	- _This chapter takes on the role of dark matter in texts_
+		- _How the implicit, unspoken material of texts contains some of the most important dark matter of culture — knowledge and values in particular — and the individual_
+- _Texts can be interpreted only against a background of structured knowledge, social roles, and ranked values_
+- _Some diversions on business culture_
+- [ ] **Implicit Values in Texts**
+- [x] **YOU TALK LIKE WHO YOU TALK WITH**
+	- Overt knowledge can be found inside and outside our brains (e.g., Wikipedia), but dark matter is found only within the individual
+		- And this holds universally to all people!
+- [x] **Business Culture**
+- [x] **Implicit Knowledge in Texts**
+	- The texts of the _WSJ_ and _NYT_
+		- None of the dark matters are universal
+- [x] **INDEXICALS IN DARK MATTER**
+	- To interpret indexicals, one needs knowledge about the current context of utterance
+		- Indexicals often straddle the boundary between language and culture
+			- E.g., “He said _I_ will do it” — Am _I_ him or me?
+- [ ] **DARK MATTER OF PROCEDURES AND COMPLAINTS**
+- [x] **DARK MATTER CONSTRUCTED BY POPULAR CULTURE**
+	- Popular song lyrics as revealing common dark matter
+###### 6. 
+- _This chapter examines the architectonic effect of culture on language_
+	- _Syntax, phonology, lexicon, morphology, semantics, and so on_
+		- _Culture ⇒ Language_
+- [ ] **Symbols and Signs**
+	- Idioms
+		- _Keep tabs on . . ._
+		- _Keep an eye on . . ._
+	- Once constructions are recognized in the theory of grammars, the distinction becomes blurred between the “grammar proper” and the “lexicon”
+		- The rules that generate grammatical forms without regard for meaning ↔ The speaker’s brain-stored dictionary, based on their culturing experiences
+	- Culture’s hand can be found even in the grammar itself — apart from constructions or meaning
+- [ ] **Grammar**
+	- [ ] “Meaning movement”, “generative semantics”, “deep structure”, _Universal base hypothesis_ (UBH)
+	- Sapir: “Speech is a non-instinctive, acquired, ‘cultural’ function.”
+		- That language is significantly shaped by culture
+			- That grammars arise within particular systems of cultural values and that the values and patterns of conversation, telling stories, uttering phrases, and so on, themselves constrain the grammatical structure of a language
+- [x] **REIFICATION OF LINGUISTICS**
+	- _How linguistics led away from its traditional concern with language as partially constructed by culture_
+		- _How the shift occurred with Chomsky’s earliest work_
+	- One cannot understand sentence structures well without understanding the discourses they are embedded in
+		- ChatGPT?
+	- Sentences = Units of interaction
+- [x] **CULTURAL LEARNING**
+	- _That the child learns its culture and other forms of dark matter at least as early as — perhaps even before — it begins to learn its language_
+		- _This non-linguistic learning affects the child in many ways, including its conception of how language is used for communication, a conception that can in turn affect her grammar_
+	- Similar discussion with DM Ch. 3 _Language and Attachment_
+		- Making a blowgun
+			- That differences in dark matter can arise without linguistic guidance
+				- 外山滋比古の言語化の重要性の主張を、非言語の分野に適用した主張
+- [ ] **Ethnophonology**
+	- _That even the sound system is architectonically affected by culture (contrary to most linguists’ expectations)_
+	- Two examples in Piraha
+		- Piraha texts reveal cultural values and knowledge, and require a culturally based hermeneutics
+			- Culture and grammar shape each other through their evolved symbiotic relationship
+				- [ ] On evoking hermeneutics, refer to Ch. 4
+- [ ] **CULTURAL CONSTRAINTS ON “CORE GRAMMAR”**
+	- _The overarching cultural value — IMMEDIACY OF EXPERIENCE ⇒ No recursion_
+	- Another example of culture affecting grammar
+		- Piraha’s apparent lack of recursion
+- [ ] **Methodology for Studying the Culture-Grammar Interface**
+	- _A suggested methodology for establishing culture-grammar connections_
+	- _That Piraha is not a unique case and that all languages will show culture-language connections if we look!_
+		- _It is hard to find such connections if we do not look for them!_
+	- The biggest lacuna in the study of ethnogrammar
+		- The effect of values, especially cultural taboos, in restricting both culture and grammar!
+	- Ethnogrammatical studies are to explain the linkage between _nonlinguistic evidence_ and _noncultural evidence_
+		- To explain how linking the two provides a conceptually and empirically superior account of the facts that leave them unconnected
+	- [ ] “The social instinct”
+		- [ ] Hos is this ‘instinct’ different from “instincts” and “human nature” as used in DM Ch. 9 & 10?
+	- COGNITION, CULTURE, AND COMMUNICATION → GRAMMAR
+		- In other words, given human cognitive abilities, cultural/community shared experiences, and the social/interactional instinct, grammar emerges as a solution to the latter problem, facilitated by the first two abilities
+			- ?
+###### 7. 
+- _Gestures have intimate connections with grammar, cognition, and culture_
+	- _Gestures provide no strong evidence of innate dark matter but, on the contrary, show how culture and individual psychology can produce gestures as part of language, just as they do with syntax and other components of human language_
+		- _Culture ⇒ Gestures_
+###### 8. 
+- _Not everything — perhaps not much at all, can be said to be intertranslatable crossculturally or cross-linguistically_
+- _A thick description of the culture of the source and the target cultures is essential for translation to take place accurately or effectively_
+- _Quine and radical translation_
+###### 9. 
+- _Apperceptions, values, violable value hierarchies, and knowledge structures of the enveloping culture in conjunction with the idiopsychology of each individual ⇒ Dark matter_
+	- _And this dark matter answers the questions such as:_
+		- _If you give a lecture, how might you know from people’s faces whether they are understanding you?_
+		- _**When you use a concept, why do you believe that you understand it?**_
+		- _Why do you like the music that you like?_
+		- _How do you know that the cry you heard is from your own child?_
+		- _How can people tell without looking whether someone is running upstairs or downstairs?_
+		- _How do you know what your mother looks like?_
+		- _What does tofu taste like?_
+		- _Why do you say “red, white, and blue” instead of “white, blue, and red”?_
+###### 10. 
+- _The constructed self_
+- _Will, intelligence, and other components of the self_
+###### 11. Conclusion
+- Only individuals learn
+	- Not minds
+	- Not brains
+	- Not societies
+	- Not cultures
+	- **And what individuals learn is largely in the form of a culturally articulated dark matter**
+- Individual apperceptions + A ranked-value, linguistic-based model of culture ⇒ Human unconscious
+- Culture articulates the unconscious via emicization, learning how and that, value rankings, knowledge structures, and social relations and roles across various groups
+	- What has been most emicized is most deeply unconscious by and large
+		- We have both conscious and unconscious yet the latter is not innately structured
+			- Doing, thinking, talking, experiencing ⇒ Interpreting those experiences ⇒ The unconscious
+				- In other words, we must understand the specificity of each culture to understand the dark matter of the individual within?
+- We are flexible
+	- Instincts, human nature ≠> Human behavior, society, and cognition
+	- Our mental and social experiences ⇒ Our emergent selves
 
 ---
 # Everett on other thinkers:

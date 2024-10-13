@@ -3,372 +3,379 @@
 - [[1-2g3.1 It’s explanations all the way down]]
 - [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
 
+---
 # The Fabric of Reality (1997)
-1. The Theory of Everything
-2. Shadows
-3. Problem-solving
-4. Criteria for Reality
-5. Virtual Reality
-    - The existence of it indicate that the human capacity to understand the world is inherently unlimited
-        - **It is a fundamental property of the multiverse**
-            - What is? That we can understand the world infinitely better?
-    - What are its ultimate limits?
-        - The laws of physics impose no limit on the range and accuracy of image generators
-            - _Universal image generator_
-                - Universal only in a certain external context (only universal with _universal constructor_)
-        - The challenge will be which sensations to render
-            - There will no longer be a hi-fi enthusiast
-    - Descartes’ ‘demon’
-    - Sensors - Image generators (interface) - Computer
-        - The true virtual-reality generator is the computer
-    - Virtual-reality environment ⇒ Specifies how the environment would respond to each of the user’s possible actions (possibilities) and NOT what the user will experience
-        - A rendered environment is accurate in so far as it _would_ respond in the intended way to every possible action of the user. Thus its accuracy depends not only on experiences which users of it actually have, but also on experiences they do not have, but would have had if they had chosen to behave differently during the rendering.
-            - That is, it _could’ve been otherwise_
-        - “The accuracy of an image generator’s rendering can in principle be experienced, measured and certified by the user, but the accuracy of a virtual-reality rendering never can be.”
-            - Because you cannot exhaust every possible experiences?
-                - E.g., Wimbledon’s Centre Court, roulette
-                    - You must understand them because you can’t otherwise program
-                    - The number of tests we carry out cannot certify that the rendering is accurate
-                - Image is what can be seen, the program is not (virtual-reality renderer)
-    - Accuracy in virtual reality = the relationship between theory and experiment in science
-        - That you must have explanation and not just experiments, but that even then you can’t say with 100% confidence that that it’s accurate or that the theory is correct?
-        - Accuracy is the closeness, as far as is perceptible, of the rendered environment to the intended one
-            - Intension
-        - Science is about understanding the whole of reality, of which only an infinitesimal proportion is ever experienced.
-        - The program in a virtual-reality generator embodies a general, predictive theory of the behaviour of the rendered environment
-            - I.e., in the computer
-            - **Accurate rendering depends on understanding its physics**
-                - The converse is also true: **discovering the physics of an environment depends on creating a virtual-reality rendering of it**
-                    - And **explanation already is rendering inside one’s mind**
-    - Rendering physically possible environments and impossible ones
-        - Everything is virtual (Deleuze)
-            - Deutsch: “our ‘direct’ experience of the world through our sense is virtual reality too”
-                - ‘Applied mathematics’, ‘computing’, ‘pure mathematics’, ‘video game’, ‘computer art’ - all these are interpretations
-                    - Achieved in the virtual reality of our imagination
-                        - And imagination is a straightforward form of virtual reality
-            - Deutsch: “**What we experience directly is a virtual-reality rendering, conveniently generated for us by our unconscious minds from sensory data plus complex inborn and acquired theories (i.e., programs) about how to interpret them**.”
-            - Deutsch: “We realists take the view that reality is out there: objective, physical and independent of what we believe about it. But we never experience that reality directly. Every last scrap of our external experience is of virtual reality. And every last scrap of our knowledge – including our knowledge of the non-physical worlds of logic, mathematics and philosophy, and of imagination, fiction, art and fantasy – is encoded in the form of programs for the rendering of those worlds on our brain’s own virtual-reality generator.”
-                - All reasoning and thinking and external experience are forms of virtual reality
-                - Meillassoux attempted to deduct the existence of reality independent of us philosophically, but Deutsch would likely argue that philosophy is also a physical process because it is processed and constrained by the laws of physics (i.e., the human brain), and as such it doesn’t help?
-    - The virtual-reality rendering of their environment is the characteristic means by which human beings survive
-        - More on FoR Ch.8
-6. **Universality and the Limits of Computation**
-    - What environments can be rendered = what computations can be performed
-        - E.g., we can reverse engineer the perception of time in the brain to make up for the calculations that require quite a lot of time
-    - Deutsch: “The relationship between virtual reality and ‘ordinary’ reality is part of the deep, unexpected structure of the world, which this book is about”
-        - The Turing principle?
-            - That the world is explicable?
-                - That life had universality which made humans possible?
-    - _Diagonal argument_
-        - [ ] He is using the mathematical conception here . . .
-        - More on FoR Ch.10
-        - The mere finiteness (”intuitively obvious physical requirements”) impose drastic restrictions on the repertoire of any physically possible machine
-            - _Cantgotu environments_
-                - The characteristic: you will always proved wrong because _no_ program will render it; you can never prove that you had been in a Cantgotu environment
-    - Deutsch [after claiming that the feasibility of a universal virtual-reality generator depends on the existence of a universal computer]: “**It is impossible to determine by mathematical reasoning what can or cannot be calculated mathematically. That depends entirely on the laws of physics.**”
-        - Turing’s model of computation was the closest to being physical
-            - Turing expected what ‘would naturally be regarded as computable’ to be computed in nature
-                - Think of the multiverse and _quantum computers_
-                    - Deutsch conceptualized the possibility of quantum computer from his interpretation of the Turing principle?
-            - _Computable - non-computable_
-                - E.g., _prime pair_ (non-computable)
-                - In virtual-reality terms: Cantgotu environment = non-computable
-                    - Revisit here
-    - The Turing principle
-        - The scope of virtual reality depends on whether the relevant computers are physically realizable, and any genuine universal computer must itself by physically realizable
-            - Unlike initial Turing principle which considered the computing power of _abstract_ machines
-            - The strongest form: _“It is possible to build a virtual-reality generator whose repertoire includes every physically possible environment.”_
-                - I.e., a single physical object can perform with unlimited accuracy the task of describing or mimicking any other part of the multiverse
-                    - The self-similarity necessary to unify the fabric of reality, discussed in FoR Ch.1
-    - “If the laws of physics as they apply to any physical object or process are to be comprehensible, they must be capable of being embodied in another physical object – the knower. It is also necessary that processes capable of creating such knowledge be physically possible. Such processes are called science. Science depends on experimental testing, which means **physically rendering a law’s predictions and comparing it with (a rendering of) reality**. It also depends on explanation, and that requires the abstract laws themselves, not merely their predictive content, to be capable of being rendered in virtual reality. This is a tall order, but reality does meet it. That is to say, the laws of physics meet it. **The laws of physics, by conforming to the Turing principle, make it physically possible for those same laws to become known to physical objects. Thus, the laws of physics may be said to mandate their own comprehensibility.**”
-        - The Turing principle (about what’s possible and not) ⇒ the laws of physics
-    - A physically possible process = one that actually occurs somewhere in the multiverse
-        - [ ] Discussed in FoR Ch.3
-        - Thus, the laws of physics not only mandate their own comprehensibility but also the physical existence of entities that understand them arbitrarily well. That is, there must be a universal virtual-reality generator _built_ in some universes.
-            - Implication discussed in FoR later chapters
-    - “Now I return to the question I posed in the previous chapter, namely whether, if we had only a virtual-reality rendering based on the wrong laws of physics to learn from, we should expect to learn the wrong laws. The first thing to stress is that **we _do_ have only virtual reality based on the wrong laws to learn from!** As I have said, all our external experiences are of virtual reality, generated by our own brains. And since our concepts and theories (whether inborn or learned) are never perfect, all our renderings are indeed inaccurate.”
-        - Answering the question from the previous chapter (FoR Ch.5)
-    - Deutsch: “The fact is that to anyone who understands what virtual reality is, even genuine magic would be indistinguishable from technology, for there is no room for magic in a comprehensible reality.”
-    - Deutsch: “Suppose that someone were imprisoned in a small, unrepresentative portion of our own reality . . . that was programmed with the wrong laws of physics . . . The rendered environment would also have to be such that no explanations of anything inside would ever require one to postulate an outside. The environment, in other words, would have to be self-contained as regards explanations. But I doubt that any part of reality, short of the whole thing, has that property.”
-        - That is, unless we have the question whose answer is the reality (Elon Musk used ‘the universe’ instead of ‘the reality’ - and I thought of using ‘the multiverse’ there but thought better of it - because our knowledge about the reality will be infinitely far away from it - which implies that we will never get to the reality as it is - for good or bad?)
-7. A Conversation About Justification (beware of how Deutsch uses the word ‘justified’ here - it is not used in the sense of ‘justified-belief’ - ToK explained that Deutsch commented on this in new edition of FoR)
-    - It is rationally _justified_ to rely on the predictions of corresponding theories, to the extent that those explanations are good
-    - David - _crypto-inductivist_
-        - Crypto-inductivist: “_How to justify any conclusion about the future from past evidence_”
-        - David: “If by ‘the evidence’ you mean all the experiments whose outcomes the theory correctly predicted in the past . . . that evidence is consistent with an infinity of theories, including theories predicting every logically possible outcome of my jumping over the railing”
-            - Diagonal argument, discussed in FoR Ch.6 and BoI Ch.8, is used here
-        - David: “Only argument ever justifies anything - tentatively, of course . . . But still, argument can sometimes justify theories. That is what argument is for.”
-        - In the Popperian picture of scientific progress, it is not observations but problems, controversies, theories and criticism that are primary. Confirming instances in themselves have no significance.
-            - Viz., the gap between reality and our understanding of it, as well as _problem-situations_ (this is similar to the Idea Maze - that you have to know who took which turns to at what cost, i.e., the history around ideas)
-        - David: “_**Languages are theories**_. In the vocabulary and grammar, they embody substantial assertions about the world. Whenever we state a theory, only a small part of its content is explicit: the rest is carried by the language. Like all theories, languages are invented and selected for their ability to solve certain problems . . . One of the most important ways in which languages solve these problems is to embody , implicitly, theories that are uncontroversial and taken for granted, while allowing things that need to be stated or argued about to be expressed succinctly and cleanly.”
-            - Maybe English only replicated themselves better, but wasn’t for the good of the speakers of the language
-        - David: “Knowing is not the same as understanding.”
-        - David: “It is a principle of rationality that theories are postulated in order to solve problems . . . _any_ postulate which solves no problem is to be rejected”
-            - To explicate the hitherto deemed inexplicable
-        - David [discussing Popper and Popperian epistemology]: “It is perfectly possible for a person to discover a new theory but nevertheless to continue to hold beliefs that contradict it. The more profound the theory is, the more likely this is to happen.”
-        - David: “**Our justification does not depend on whether a particular anomaly happens in the past. It has to do with whether there is an explanation for the existence of that anomaly.**”
-            - Let this statement sink in and apply generally
-        - David: “Nothing in the concepts of ‘rational argument’ or ‘explanation’ relates the future to the past in any special way.”
-            - Remember Deutsch’s argument from FoR Ch.11 - how time doesn’t flow and that the multiverse is all there is - viz., the past and the future exists subjectively but not objectively (revisit that chapter)
-        - Theories can be rejected for solving nothing, _and_ for spoiling existing solutions - that is, for removing the explanatory power from existing theories by asserting that the predictions of those theories have exceptions, but not explaining how
-            - The problem of how to know whether you have introduced more problems or not
-                - Maybe the following partly answers this question, namely, constraints
-        - **New theory is constrained in terms of what they can say about the future, since it must _either_ be consistent with existing theories, _or_ contradict some existing theories but address the problems thereby raised, giving alternative explanations**
-        - David: “We only find out in what respects the theory says that the future will resemble the past after we have the theory”
-            - The past and future are both abstractions
-            - The theory explains the meaning of the future and the past
-        - David: “**What justifies the principles of rationality? Argument, as usual . . . It is not perfectly secure. Nor should we expect it to be, for logical reasoning is no less a physical process than scientific reasoning is, and it is inherently fallible.**”
-            - This argument (I use _argument_ rather than _logic -_ you will see why shortly) is applied in FoR Ch.10 - against the laws of logic and some mathematicians called ’intuitionists’
-            - Is this because even if we understand physical processes better (of both of nature and of the mind), it still remains as _our understanding_ of them?
-        - [ ] David [after discussing how _any_ reasoning is fallible]: “**However, it is an interesting _fact_ that the physical universe admits processes that create knowledge about itself, and about other things too. We may reasonably try to explain this fact in the same way as we explain other physical facts, namely through explanatory theories.** You will see in Chapter 6 of _The Fabric of Reality_ that I think that the Turing principle is the appropriate theory in this case. It says that it is possible to build a virtual-reality generator whose repertoire includes every physically possible environment. If the Turing principle is a law of physics, as I have argued that it is, then we should not be surprised to find that we can form accurate theories about reality, because that is just virtual reality in action. Just as the fact that steam engines are possible is a direct expression of the principles of thermodynamics, so the fact that the human brain is capable of creating knowledge is a direct expression of the Turing principle.”
-            - The parallel:
-                - The principle of thermodynamics ⇒ steam engines
-                - The Turing principle ⇒ why human brain can create knowledge
-            - Revisit FoR Ch.6
-        - David: “We don’t [know that the Turing principle is _true_], of course . . . **But we have now moved on to a completely different question! We are now discussing an apparent _fact_ about physical reality, namely that it can make reliable predictions about itself. We are trying to explain that fact, to place it within the same framework as other facts we know.** I suggested that there may be a certain law of physics involved. But if I were wrong about that, indeed even if we were entirely unable to explain this remarkable property of reality, that would not detract one jot from the justification of any scientific theory. For it would not make the explanations in such a theory one jot worse.”
-            - [ ] JUSTIFICATION ≠ EXPLANATORY POWER ?
-                - Not justified does not equal to having no explanatory power - explanation doesn’t have to be ‘justified’
-        - David [one last comment to crypto-inductivist]: “The misconception is about the very nature of argument and explanation. You seem to be assuming that arguments and explanations, such as those that justify acting on a particular theory, have the form of mathematical proofs, proceeding from assumptions to conclusions. You look for the ‘raw material’ (axioms) from which our conclusions (theorems) are derived. Now, there is indeed a logical structure of this type associated with every successful argument or explanation. **But the process of argument does not begin with the ‘axioms’ and end with the ‘conclusion’. Rather, it starts in the middle, with a version that is riddled with inconsistencies, gaps, ambiguities and irrelevancies. All these faults are criticized. Attempts are made to replace faulty theories. The theories that are criticized and replaced usually include some of the ‘axioms’. That is why it is a mistake to assume that an argument begins with, or is justified by, the theories that eventually serve as its ‘axioms’. The argument ends – tentatively – when it seems to have shown that the associated explanation is satisfactory. The ‘axioms’ adopted are not ultimate, unchallengeable beliefs. They are tentative, explanatory theories.**”
-            - Crypto-inductivist: “I see. **Argument is not the same species of thing as deduction**, or the non-existent induction. It is not based on anything or justified by anything. And it _doesn’t have to be_, because its purpose is to solve problems – to show that a given problem is solved by a given explanation.”
-            - The process of argument = the process of writing ?
-            - Why fundamental theories of reality progress better than non-fundamental ones
-                - Because of the Turing principle?
-8. **The Significance of Life**
-    - Darwin’s theory of evolution explained the origin of life in terms that required no special physics
-    - Genes = computer programs
-        - Special structures within each organism’s cells = computers that execute these programs
-        - A gene can function as a replicator only in certain environments (_niche_)
-        - “Not everything that can be copied is a replicator. A replicator causes its environment to copy it: that is, it contributes causally to its own copying . . . What it means in general to contribute causally to something is an issue to which I shall return, but what I mean here is that the presence and specific physical form of the replicator makes a difference to whether copying takes place or not.”
-            - Causality is discussed in FoR Ch.11 (conception of time in the multiverse)
-    - The degree of adaptation of a replicator = the accuracy of a virtual-reality rendering
-        - Replicator - “The more sensitive the copying in a given environment is to the replicator’s exact physical structure, the more adapted the replicator is to that environment . . . We must therefore consider variants of the environment as well as of the replicator.”
-        - Virtual-reality - “The accuracy of a virtual-reality rendering depends not only on the responses the machine actually makes to what the user actually does, but also on responses it does not, in the event, make to things the user does not in fact do.”
-    - _An organism is not a replicator_: it is part of the environment of replicators - usually the most important part after the other genes.
-    - Whether life is a fundamental phenomenon of nature
-        - Deutsch: “Life is a form of virtual-reality generation . . . But what does accuracy mean for a rendering which no one intended and no one perceives?”
-        - **_Genes embody knowledge about their niches_ - everything of fundamental significance about the phenomenon of life depends on this property, and not on replication _per se_**
-            - The discussion is now beyond replicators
-    - A species whose genes were unable to replicate, but instead were adapted to keep their physical form intact
-        - They share all the properties of real genes except replication
-            - It is **the _survival of knowledge_**, and not necessarily of the gene or any other physical object, that is the common factor
-                - I.e., **it is a piece of knowledge rather than a physical object that is or is not adapted to a certain niche**
-    - Medium-independency (the survival of knowledge is the common factor)
-        - Replicator - the physical material keeps changing
-        - Non-replicating knowledge - successively embodied in _different_ physical forms
-            - E.g., different languages, different mediums (e.g., vinyl ⇒ tape ⇒ disc)
-    - Deutsch: **“The point is that although all known life is based on replicators, what the phenomenon of life is really about is knowledge. We can give a definition of adaptation directly in terms of knowledge: an entity is adapted to its niche if it embodies knowledge that causes the niche to keep that knowledge in existence. Now we are getting closer to the reason why life is fundamental. Life is about the physical embodiment of knowledge, and in Chapter 6 we came across a law of physics, the Turing principle, which is also about the physical embodiment of knowledge. It says that it is possible to embody the laws of physics, as they apply to every physically possible environment, in programs for a virtual-reality generator. Genes are such programs. Not only that, but all other virtual-reality programs that physically exist, or will ever exist, are direct or indirect effects of life.”**
-        - Life = physical embodiment of knowledge = the Turing principle
-    - Deutsch: “The future history of the universe depends on the future history of knowledge”
-        - I.e., literally unpredictable
-    - Deutsch: “**Life achieves its effects not by being larger, more massive or more energetic than other physical processes, but by being more knowledgeable.**”
-    - But is there, as the ancients assumed there must be in the case of life, a basic physical difference between knowledge-bearing and non-knowledge-bearing objects, a difference that depends neither on the objects’ environments nor on their effects on the remote future, **but only on the objects’ immediate physical attributes**?
-        - Remarkably, there is. To see what it is, we must take the multiverse view.
-            - [ ] Imagine two physical objects, both segments of the same DNA chain, one of which embodies knowledge and the other is a random sequence. But they are _physically identical_. How can knowledge be a fundamental physical quantity, if one object has it while a physically identical object does not?
-                - Physically the same but with knowledge ↔ without
-                - [ ] Revisit his argument here
-                - Because information is medium-independent, the specific physical forms do not matter, and since the connection between DNA sequence and the knowledge it embodies is contingent, such case is imaginable where physical properties are identical yet the knowledge they embody are different!
-                    - This is not what Deutsch meant (my initial interpretation here rests on the assumption that Deutsch was conducting multiversal thought experiment, when in fact he started off initially in one universe, then introduced the multiverse to elaborate his point)
-                - The non-knowledge-bearing DNA segment (the junk-DNA segment) = random
-            - The ancient idea that living matter has special physical properties was almost true
-                - **It is not living matter but _knowledge-bearing_ matter that is physically special**
-                    - Because it would stay instantiated across the multiverse?
-        - **Knowledge is a fundamental physical quantity, and the phenomenon of life only slightly less so**
-        - Distinguishing the genes from the non-gene sequences and to estimate the degree of adaptation of each gene _within one universe_ is impossible
-            - The property of being a gene is an _emergent_ property!
-            - The task is easy using multiversal perspective
-                - Deutsch: “[Genes] are regular across many nearby universes, while all the non-gene, junk-DNA segments are irregular. As for the degree of adaptation of a gene, this is almost as easy to estimate. **The better-adapted genes will have the same structure over a wider range of universes** – they will have bigger ‘crystals’.”
-                    - Deutsch [via another example]: “But if only you could observe through a multiverse telescope, life and its consequences would be obvious at a glance. **You need only look for complex structures that seem irregular in any one universe, but are identical across many nearby universes. If you see any, you will have found some physically embodied knowledge. Where there is knowledge, there must have been life, at least in the past.**”
-    - Looking at the universe multiversally
-        - Deutsch: “In a single universe the most striking structures are galaxies and clusters of galaxies. **But those objects have no discernible structure across the multiverse** . . . **Except, that is, in those few places where there is embodied knowledge. In such places, objects extend recognizably across large numbers of universes.**”
-    - Summary
-        - Deutsch: “Life _is_ associated with a fundamental principle of physics – the Turing principle – since it is the means by which virtual reality was first realized in nature.”
-9. Quantum Computers
-    - We are harnessing the _materials, forces, energies_ and _information_
-        
-    - The universal computer can _eventually_ do what any other computer can
-        
-        - I.e., _given enough time_ it is universal
-    - Computational universality would no be much use to genes if rendering their organism were an intractable task
-        
-        - I.e., if so genes cannot _iterate_
-    - The fabric of reality must be _layered_ for easy-access
-        
-    - Deutsch: “The laws of physics, in addition to mandating their own comprehensibility through the Turing principle, ensure that **the corresponding evolutionary processes, such as life and thought, are neither too time-consuming nor require too many resources of any other kind to occur in reality**”
-        
-        - The Deutsch-Turing principle [universal in an even stronger sense than the Turing principle]: Not only are universal virtual-reality generators possible, it is possible to build them so that they do not require impracticably large resources to render simple aspects of reality
-    - _Tractable - intractable_
-        
-        - E.g., _factorization_ is intractable
-            - ↔ In the quantum theory of computation, factorization is a very tractable task
-        - Feynman: predicting the behaviour of quantum-mechanical systems (rendering quantum-mechanical environments in virtual reality) is in general an intractable task
-            - ≠ _Chaos_ theory and ‘butterfly effect’ because these occur in classical physics, which is not in reality, since reality is quantum-mechanical
-                - Classical unpredictability ≠ quantum unpredictability
-                    - Classical physics - “In practice we are never able to measure the initial positions and velocities perfectly . . . planetary motions . . . are untypical classical systems . . . to predict what a typical classical system will do after only a moderate period, one would have to determine its initial state to an impossibly high precision”
-                        - ‘Predictability’ and ‘tractability’ in astronomy is a special case and not the norm
-                            - Astronomy will fail with the Big Bang (and the Big Crunch)
-                    - Quantum mechanics - “Small deviations from a specified initial state tend to cause only small deviations from the predicted final state . . . accurate prediction is made difficult by quite a different effect”
-                        - The parallel-universe multiplicity is the real reason
-                            - _Diversity within fungibility_ - as discussed in BoI Ch.11
-                            - In the whole of multiverse, determinism holds - **but not so in any single universe**
-                                - ↔ The flapping of butterflies’ wings
-                - _Unpredictability ≠ intractability_
-                    - Classical systems = unpredictable because of their sensitivity to initial conditions
-                    - Quantum systems = unpredictable because of the multiplicity, and appear random (i.e., unpredictable) within the perspective of each universes
-                    - In neither case will any amount of computation lessen the unpredictability
-                        - Intractability, by contrast, is a computational-resource issue
-                            - It refers to a situation _where we could make the prediction_ if only we could perform the computation
-                                - Hence the following diversion into quantum systems that are predictable
-                                    - To show that intractable does not mean unpredictable
-    - An interferometer
-        
-        - Only when interference occurs between the two paths is the outcome _predictable_
-    - The shadow experiments
-        
-        - Discussed in FoR Ch.2
-        - “Thus the number of different histories that we have to calculate if we want to predict what will happen in such cases increases exponentially with the number of interacting particles. That is why the task of computing how a typical quantum system will behave is well and truly intractable.”
-            - And this intractability has nothing to do with unpredictability: on the contrary, it is most clearly manifested in quantum phenomena that are highly predictable
-                - And it was this intractability that was exercising Feynman
-                    - Deutsch: “Intractability is **in principle** a greater impediment to universality than unpredictability could ever be.”
-                        - It appears as though no practical rendering is possible for environments that do show the effects of quantum interference
-                            - Feynman correctly drew the opposite conclusion!
-    - [ ] “Instead of regarding the intractability of the task of rendering quantum phenomena as an obstacle, Feynman regarded it as an opportunity. If it requires so much computation to work out what will happen in an interference experiment, then the very act of setting up such an experiment and measuring its outcome is tantamount to performing a complex computation. Thus, Feynman reasoned, it might after all be possible to render quantum environments efficiently, provided the computer were allowed to perform experiments on a real quantum-mechanical object. The computer would choose what measurements to make on an auxiliary piece of quantum hardware as it went along, and would incorporate the results of the measurements into its computations.”
-        
-        - The auxiliary quantum hardware would in effect be a computer too. For example, an interferometer could act as such a device and, like any other physical object, it can be thought of as a computer.
-            - There are computational tasks that are ‘intractable’ if we attempt to perform them using any existing computer, but which would be tractable if we were to use quantum-mechanical objects as special-purpose computers.
-                - This is possible because quantum systems are not subject to ‘chaos’
-    - The theory of computation = the quantum theory of computation
-        
-        - Even the classical theory of computation contained strong adumbrations of quantum theory
-            - Discrete variables are alien to classical physics
-                - Discussed in FoR Ch.2
-                    
-                - [ ] In quantum physics, no discontinuous change is necessary - even though all measurable quantities are discrete
-                    
-                    - “At each instant the bit has value 1 in a certain proportion of universes and 0 in another. All those universes, at all those times, are already shown in. They are not moving anywhere!”
-                        - Probability does away with distinction between continuous and discontinuous?
-                        - Similar discussion on FoR Ch.11 (how time doesn’t ‘flow’)
-                    
-    - Multiversal effect makes solid matter possible
-    - _Decoherence_
-        - ≠ Quantum interference must be shielded from all outside influences
-        - = It is the effect of the quantum computation on the outside world that causes decoherence
-    - “Another novel simplification, unique to the quantum theory of computation, partly offsets the difficulties caused by decoherence. It turns out that, unlike classical computation, where one needs to engineer specific classical logic elements such as AND, or and NOT, the precise form of the interactions hardly matters in the quantum case. Virtually any atomic-scale system of interacting bits, so long as it does not decohere, could be made to perform useful quantum computations.”
-        - Hinting at fungibility as explained in BoI Ch.11?
-    - Deutsch: “The fact that the repertoire of the universal quantum computer contains environments whose rendering is classically intractable implies that new classes of purely mathematical computations must have become tractable too. For the laws of physics are, as Galileo said, expressed in mathematical language, and rendering an environment is tantamount to evaluating certain mathematical functions.”
-    - [ ] _Cryptography - quantum cryptography_
-        - _Shor’s algorithm_
-        - _Grover’s algorithm_
-10. The Nature of Mathematics
-11. Time: The First Quantum Concept
-    - We cling to two incompatible concepts - the moving present and the sequence of unchanging moments - because we need them both, or rather, that we think we do
-        - Objectively, no moment is privileged as being more ‘now’ than the others, just as no position is privileged as being more ‘here’ than other positions
-        - The idea of the flow of time really presupposes the existence of a second sort of time, outside the common-sense sequence-of-moments time.
-            - If ‘now’ really moved from one of the moments to another, it would have to be with respect to this _exterior_ time
-        - No accurate picture of the framework of time can be a moving or changing picture. It must be static. But there is an inherent psychological difficulty in taking this on board. Although the picture is static, we cannot understand it statically.
-            - Similar to how we cannot perceive the multiverse?
-                - The multiverse and static conception of time are two names denoting the same thing, namely the physical reality?
-    - Four-dimensional geometrical interpretation of time
-        - An indispensable part of Einstein’s theory of relativity, because according to relativity observers moving at different velocities do not agree about which events are simultaneous
-            - I.e., they do not agree which events should appear on the same snapshot - they each perceive spacetime as being sliced up in a different way into ‘moments’
-        - ‘Block universe’ and _free will_
-            - In spacetime physics the future is not open - it is _there_
-                - In spacetime physics, causation and free will can be no more than illusions
-                    - _Determinism_
-            - Thought experiment: the shuffled spacetime
-                - In terms of real physics, all the slicing up and re-gluing of spacetime is meaningless because each snapshot has an _intrinsic_ order defined by their contents and by the real laws of physics (by spacetime physics)
-                    - Viz., each snapshot has a ‘time stamp’ encoded in its physical contents
-        - According to pre-quantum physics, everything that happens, happens in spacetime
-            - And spacetime is incompatible with the existence of cause and effect
-                - Because it’s all there
-                - Intuition (causality) is incompatible with the laws of spacetime physics (it’s all _there_)
-    - But spacetime physics is false
-        - Remember the discussion from FoR Ch.8 on replicators
-            - That two conditions must hold for an entity to be a cause of its own replication:
-                1. First, that the entity is in fact replicated
-                2. Second, that most variants of it, in the same situation, would not be replicated
-            - **Reasoning about causes and effects = variants of the causes and effects**
-                - What _would_ have happened
-                - _Could’ve been otherwise_
-                    - Causation = a Figure for Meillassoux ?
-            - “So the previous history would have to be imagined as being different as well. How different? The effect of our imagined variation in history depends critically on what we take ‘other things being equal’ to mean. And that is irreducibly ambiguous . . . Try as we may, we shall not succeed in resolving this ambiguity within spacetime physics. **There is no avoiding the fact in spacetime exactly one thing happens in reality, and everything else is fantasy.**”
-                - In spacetime physics, conditional statements whose premise is false (_counter-factual conditionals_) have no meaning
-                    - The source of this paradox is not in logic or linguistics, it is in physics
-                    - **But in the multiverse, universes are present in definite proportions, so it is meaningful to say that certain type of events are ‘very rare’ or ‘very common’ in the multiverse, and that some events follow others ‘in most cases’.**
-    - “Because of quantum interference, each snapshot would no longer be determined entirely by previous snapshots of the same spacetime (though it would approximately, because classical physics is often a good approximation to quantum physics). **But the super-snapshots beginning with a particular moment would be entirely and exactly determined by the previous super-snapshots. This complete determinism would not give rise to complete predictability, even in principle, because making a prediction would require a knowledge of what had happened in all the universes, and each copy of us can directly perceive only one universe.**”
-        - A ‘super-snapshot’ = one moment in the multiverse
-        - Causation exists because of our way of being in the multiverse (because we are fungible)?
-            - Does causation exist objectively?
-    - [ ] “If time in the multiverse were a sequence of moments, it would have to be possible to identify all the snapshots of space at a given moment, so as to make them into a super-snapshot. **Not surprisingly, it turns out that there is no way of doing that. In the multiverse, snapshots do not have ‘time stamps’. There is no such thing as which snapshot from another universe happens ‘at the same moment’ as a particular snapshot in our universe, for that would again imply that there is an overarching framework of time, outside the multiverse, relative to which events within the multiverse happen. There is no such framework.** Therefore **there is no fundamental demarcation between snapshots of other times and snapshots of other universes**. This is the distinctive core of the quantum concept of time: **Other times are just special cases of other universes** . . . **The snapshots which we call ‘other times in our universe’ are distinguished from ‘other universes’ only from our perspective**, and only in that they are especially closely related to ours by the laws of physics. They are therefore the ones of whose existence our own snapshot holds the most evidence. For that reason, we discovered them thousands of years before we discovered the rest of the multiverse, which impinges on us very weakly by comparison, through interference effects. We evolved special language constructs (past and future forms of verbs) for talking about them. We also evolved other constructs (such as ‘_if … then …_’ statements, and conditional and subjunctive forms of verbs) for talking about other types of snapshot, without even knowing that they exist. We have traditionally placed these two types of snapshot – other times, and other universes – in entirely different conceptual categories. Now we see that this distinction is unnecessary.”
-        - Another one where Deutsch claims _we’ve been doing it alright all along_
-            - As discussed in FoR Ch.13
-        - There is no such thing as ‘which half’ would see ‘heads’, any more than there is an answer to the question ‘which one am I?’.
-    - [ ] Causality in the multiverse
-        - “By the way, if you have ever wondered what happened before the Big Bang, or what will happen after the Big Crunch, you can stop wondering now. Why is it hard to accept that there are no moments before the Big Bang or after the Big Crunch, so that nothing happens, or exists, there? Because it is hard to imagine time coming to a halt, or starting up. **But then, time does not have to come to a halt or start up, for it does not move at all.** **The multiverse does not ‘come into existence’ or ‘cease to exist’; those terms presuppose the flow of time.** It is only imagining the flow of time that makes us wonder what happened ‘before’ or ‘after’ the whole of reality.”
-        - The multiverse vs spacetime
-            - The difference is only that, unlike spacetime, the multiverse does not consist of the mutually determining layers I have called super-snapshots, which could serve as ‘moments’ of the multiverse. It is a complex, multi-dimensional jigsaw puzzle.
-                - In this jigsaw-puzzle multiverse, which neither consists of a sequence of moments nor permits a flow of time, the common-sense concept of cause and effect makes perfect sense.
-                    - **Because _variants_ do exist in the multiverse**
-                        - **Not in the past or in the future, but they literally do exist somewhere in the multiverse!**
-                        - **There is nothing in this definition of cause and effect that logically requires causes to precede their effects, and it could be that in very exotic situations, such as very close to the Big Bang or inside black holes, they do not.** In everyday experience, however, causes always precede their effects, and this is because – at least in our vicinity in the multiverse – the number of distinct types of snapshot tends to increase rapidly with time, and hardly ever decreases.
-                            - [ ] This property is related to the second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. Heat is microscopically random motion. In multiverse terms, this means many microscopically different states of motion in different universes. For example, in successive snapshots of the coin at ordinary magnifications, it seems that the setting-down process converts a group of identical ‘predictably heads’ snapshots into a group of identical ‘heads’ snapshots. But during that process the energy of the coin’s motion is converted into heat, so at magnifications large enough to see individual molecules the latter group of snapshots are not identical at all. They all agree that the coin is in the ‘heads’ position, but they show its molecules, and those of the surrounding air and of the surface on which it lands, in many different configurations. Admittedly, the initial ‘predictably heads’ snapshots are not microscopically identical either, because some heat is present there too, but the production of heat in the process means that these snapshots are very much less diverse than the later ones. **So each homogeneous group of ‘predictably heads’ snapshots determines the existence of – and therefore causes – vast numbers of microscopically different ‘heads’ snapshots. But no single ‘heads’ snapshot by itself determines the existence of any ‘predictably heads’ snapshots, and so is not a cause of them.**
-                                - ‘Predictably heads’ ⇒ ‘heads’
-                                    - One-to-one correspondence?
-                                        - No!
-                                            - ‘Heads’ snapshots in the multiverse are diverse
-                                                - At magnifications large enough to see individual molecules
-                                            - ‘Predictably heads’ snapshots in the multiverse is also diverse
-                                                - But less diverse than ‘heads’ snapshots because the production of _heat_ in the process (of coin spinning between ‘predictably heads’ and ‘heads’)
-                                            - There is more ‘heads’ than ‘predictably heads’
-                                                - This is the sense in which ‘predictably heads’ causes ‘heads’
-                                                    - [ ] Revisit this increase-in-number (evolutionary) and energy (heat) conception of causality
-                                - ‘Heads’ and ‘tails’ are mere human abstractions
-                                - Because ‘head’ ⇒ ‘predictably heads’ requires . . . what?
-                                    - To say ‘head’ causes ‘predictably heads’, the numbers of each doesn’t add up (i.e., ‘predictably heads’ is much less than ‘heads’)
-                                        - [ ] _To say ‘head’ causes ‘predictably heads’ -_ should ‘head’ instead be ‘heads’?
-                                - Time (causality) and the second law of thermodynamics
-                                    - [ ] Impossibility as imposed by the second law of thermodynamics (namely the irreversibility of heat - is this a manifestation of quantum physics, namely/specifically . . . ?) constrains the form of argument regarding causation can take, and this constraint we then perceived (unfortunately) as time flowing?
-                                - Revisit Chiara Marletto
-    - Summary
-        - Time is not a sequence of moments, nor does it flow. Yet our intuitions about the properties of time are broadly true. Certain events are indeed causes and effects of one another. Relative to an observer, the future is indeed open and the past fixed, and possibilities do indeed become actualities. The reason why our traditional theories of time are nonsense is that they try to express these true intuitions within the framework of a false classical physics. In quantum physics they make sense, because time was a quantum concept all along. We exist in multiple versions, in universes called ‘moments’. Each version of us is not directly aware of the others, but has evidence of their existence because physical laws link the contents of different universes. It is tempting to suppose that the moment of which we are aware is the only real one, or is at least a little more real than the others. But that is just solipsism. All moments are physically real. The whole of the multiverse is physically real. Nothing else is.
-12. Time Travel
-13. The Four Strands
-    - Strange phenomenon occurred in the four branches, namely [[1-2g1a1 Popper, Turing, Everett, Dawkins (then Deutsch himself) gave a better explanation as to why the prevailing theories were true after all (unfortunately, they have found themselves constantly on the defensive against obsolete theories) |Popper, Turing, Everett, Dawkins gave a better explanation as to why the prevailing theories were true after all]]; but that they have found themselves constantly on the defensive against obsolete theories
-        - Quantum physics
-            - The multiverse vs Instrumentalism
-                - Delayed discovery of quantum computer
-        - The theories of computation
-            - The Turing principle vs AI denier
-                - Delayed discovery of quantum computer
-        - Knowledge
-            - Popperian epistemology vs Kuhn (a ‘problem of induction’)
-                - Delayed discovery of the theory of scientific explanation
-        - Evolution
-            - Darwin + Dawkins
-                - Delayed discovery of memes
-    - Deutsch: “My thesis, therefore, also takes the form ‘the prevailing theory is true after all!’”—because he took respective ideas seriously
-    - Deutsch: “**I expect the solution of the ‘What is consciousness?’ problem to depend on quantum theory. It will invoke no specific quantum-mechanical processes, but it will depend crucially on the quantum-mechanical, and especially the multi-universe, world-picture.**”
-        - [ ] FoR Ch.8
-            - Specifically where he discussed his multiversal view of knowledge—“Consciousness is clearly intimately related to the growth and representation of knowledge within the brain”
-                - The laws of physics mandate its own comprehensibility, and that consciousness as emergent phenomenon of the Turing principle?
-            - Knowledge in physical terms ⇒ consciousness as a physical process #develop 
-            - **Knowledge = complexity that extends across large numbers of universes** #develop 
-    - Explanatory gaps
-        - ‘Selfish gene’ theory
-            - Deutsch: “We have seen that the very fact that physical variables can store information, that they can interact with one another to transfer and replicate it, and that such processes are stable, all depend on the details of **quantum theory**. Furthermore, we have seen that the existence of highly adapted replicators depends on the physical feasibility of virtual-reality generation and universality, which in turn can be understood as consequences of a deep principle, **the Turing principle**, that links physics and the theory of computation and makes no explicit reference to replicators, evolution or biology at all.”
-                - Quantum theory via diversity within fungibility allows both branching (the multiverse) and stability in the sense of what’s been branched stays branched (stable existence of each universe, allowing the classical physics as approximation)
-                - The Turing principle ⇒ linking physics and the theory of computation ⇒ the physical feasibility of universal virtual-reality generator ⇒ (although the Turing principle makes no explicit reference) highly adapted replicators
-        - Popperian epistemology
-            - Popper: “No theory of knowledge should attempt to explain why we are successful in our attempts to explain things”
-            - Deutsch: “But, once we understand that the growth of human knowledge is a physical process, we see that it cannot be illegitimate to try to explain how and why it occurs. **Epistemology is a theory of (emergent) physics. It is a factual theory about the circumstances under which a certain physical quantity (knowledge) will or will not grow.**”
-                - The explanation (**the theory of knowledge**) must involve **quantum physics**, the Turing principle (**the theory of computation**), and, as Popper himself stressed, the **theory of evolution**.
-    - Summary
-        - “The intellectual histories of the fundamental theories of the four strands contain remarkable parallels. All four have been simultaneously accepted (for use in practice) and ignored (as explanations of reality). One reason for this is that, taken individually, each of the four theories has explanatory gaps, and seems cold and pessimistic. To base a world-view on any of them individually is, in a generalized sense, reductionist. But when they are taken together as a unified explanation of the fabric of reality, this is no longer so.”
-14. The Ends of the Universe
+###### 1. The Theory of Everything
+###### 2. Shadows
+###### 3. Problem-solving
+###### 4. Criteria for Reality
+###### 5. Virtual Reality
+- The existence of it indicate that the human capacity to understand the world is inherently unlimited
+	- **It is a fundamental property of the multiverse**
+		- That we can understand the world infinitely better
+			- That somewhere in the multiverse, there are entities who understand the world infinitely better than we do
+- What are its ultimate limits?
+	- The laws of physics impose no limit on the range and accuracy of image generators
+		- _Universal image generator_
+			- Universal only in a certain external context (only universal with _universal constructor_)
+	- The challenge will be which sensations to render
+		- There will no longer be a hi-fi enthusiast
+- Descartes’ ‘demon’
+- Sensors - Image generators (interface) - Computer
+	- The true virtual-reality generator is the computer
+- Virtual-reality environment ⇒ Specifies how the environment would respond to each of the user’s possible actions (possibilities) and NOT what the user will experience
+	- A rendered environment is accurate in so far as it _would_ respond in the intended way to every possible action of the user. Thus its accuracy depends not only on experiences which users of it actually have, but also on experiences they do not have, but would have had if they had chosen to behave differently during the rendering.
+		- That is, it always implies that _it could’ve been otherwise_
+	- “[[1-2g2j1c The accuracy of an image generator’s rendering can in principle be experienced, measured and certified by the user, but the accuracy of a virtual-reality rendering never can be. Image is what can be seen, the program is the unseen. |The accuracy of an image generator’s rendering can in principle be experienced, measured and certified by the user, but the accuracy of a virtual-reality rendering never can be.]]”
+		- Because you cannot exhaust every possible experiences, and also because you cannot certify the program from the experiences
+			- E.g., Wimbledon’s Centre Court, roulette
+				- **You must understand them because you can’t otherwise program**
+					- Related: [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
+				- The number of tests we carry out cannot certify that the rendering is accurate
+			- **Image is what can be seen, the program is the unseen** (virtual-reality renderer)
+- [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program. |Accuracy in virtual reality = the relationship between theory and experiment in science]]
+	- That you must have explanation and not just experiments, but that even then you can’t say with 100% confidence that that it’s accurate or that the theory is correct
+	- [[1-2g2j1 Accuracy is the closeness, as far as is perceptible, of the rendered environment to the intended one (intension) |Accuracy is the closeness, as far as is perceptible, of the rendered environment to the intended one]]
+		- Intension
+	- [[10-2g2e6a Science is about understanding the whole of reality, of which only an infinitesimal proportion is ever experienced |Science is about understanding the whole of reality, of which only an infinitesimal proportion is ever experienced]]
+	- The program in a virtual-reality generator embodies a general, predictive theory of the behaviour of the rendered environment
+		- I.e., in the computer
+		- **Accurate rendering depends on understanding its physics**
+			- The converse is also true: **[[1-2g2j Accurate rendering depends on understanding its physics. The converse is also true - discovering the physics of an environment depends on creating a virtual-reality rendering of it. And explanation already is rendering inside one’s mind. |discovering the physics of an environment depends on creating a virtual-reality rendering of it]]**
+				- And **explanation already is rendering inside one’s mind**
+- Rendering physically possible environments and impossible ones
+	- Everything is virtual (Deleuze) #develop 
+		- Deutsch: “our ‘direct’ experience of the world through our sense is virtual reality too”
+			- ‘Applied mathematics’, ‘computing’, ‘pure mathematics’, ‘video game’, ‘computer art’—all these are interpretations
+				- Achieved in the virtual reality of our imagination
+					- And **imagination is a straightforward form of virtual reality**
+		- Deutsch: “**What we experience directly is a virtual-reality rendering, conveniently generated for us by our unconscious minds from sensory data plus complex inborn and acquired theories (i.e., programs) about how to interpret them**.”
+			- Related: [[Daniel Everett]], and his [[1-1a2e7 Dark matter both help and impede our perception of the world |Dark Matter theory]] of the mind
+		- Deutsch: “We realists take the view that reality is out there: objective, physical and independent of what we believe about it. But we never experience that reality directly. Every last scrap of our external experience is of virtual reality. And every last scrap of our knowledge—including our knowledge of the non-physical worlds of logic, mathematics and philosophy, and of imagination, fiction, art and fantasy—is encoded in the form of programs for the rendering of those worlds on our brain’s own virtual-reality generator.”
+			- All reasoning and thinking and external experience are forms of virtual reality
+				- Related: [[1-2g2g Life is a form of virtual-reality generation]]
+			- Meillassoux attempted to deduct the existence of reality independent of us philosophically, but Deutsch would likely argue that philosophy is also a physical process because it is processed and constrained by the laws of physics (i.e., the human brain), and as such it doesn’t help? #revisit 
+- The virtual-reality rendering of their environment is the characteristic means by which human beings survive
+	- More in FoR Ch.8
+###### 6. **Universality and the Limits of Computation**
+- What environments can be rendered = what computations can be performed
+	- E.g., we can reverse engineer the perception of time in the brain to make up for the calculations that require quite a lot of time
+- Deutsch: “The relationship between virtual reality and ‘ordinary’ reality is part of the deep, unexpected structure of the world, which this book is about”
+	- The Turing principle
+		- See my note: [[1-2g2h Life is associated with a fundamental principle of physics – the Turing principle – since it is the means by which virtual reality was first realized in nature. (Life = physical embodiment of knowledge = the Turing principle)]]
+- _Diagonal argument_
+	- [ ] He is using the mathematical conception here . . .
+	- More in FoR Ch.10
+	- The mere finiteness (”intuitively obvious physical requirements”) impose drastic restrictions on the repertoire of any physically possible machine
+		- _Cantgotu environments_
+			- The characteristic: [[1-2g2j1d Cantgotu environments - you will always be proven wrong because no program will render it; you can never prove that you were there |you will always proved wrong because _no_ program will render it; you can never prove that you had been in a Cantgotu environment]]
+- Deutsch (after claiming that the feasibility of a universal virtual-reality generator depends on the existence of a universal computer): “**It is impossible to determine by mathematical reasoning what can or cannot be calculated mathematically. That depends entirely on the laws of physics.**”
+	- Turing’s model of computation was the closest to being physical
+		- Turing expected what ‘would naturally be regarded as computable’ to be computed in nature
+			- Think of the multiverse and _quantum computers_
+				- Deutsch conceptualized the possibility of quantum computer from his interpretation of the Turing principle #develop 
+		- _Computable - non-computable_
+			- E.g., _prime pair_ (non-computable)
+			- In virtual-reality terms: Cantgotu environment = non-computable #revisit
+- The Turing principle
+	- The scope of virtual reality depends on whether the relevant computers are physically realizable, and any genuine universal computer must itself by physically realizable
+		- Unlike initial Turing principle which considered the computing power of _abstract_ machines
+		- The strongest form: _“It is possible to build a virtual-reality generator whose repertoire includes every physically possible environment.”_
+			- I.e., a single physical object can perform with unlimited accuracy the task of describing or mimicking any other part of the multiverse
+				- The self-similarity necessary to unify the fabric of reality, discussed in FoR Ch.1
+- “If the laws of physics as they apply to any physical object or process are to be comprehensible, they must be capable of being embodied in another physical object—the knower. It is also necessary that processes capable of creating such knowledge be physically possible. Such processes are called science. Science depends on experimental testing, which means **physically rendering a law’s predictions and comparing it with (a rendering of) reality**. It also depends on explanation, and that requires the abstract laws themselves, not merely their predictive content, to be capable of being rendered in virtual reality. This is a tall order, but reality does meet it. That is to say, the laws of physics meet it. **[[1-2g2p The laws of physics, by conforming to the Turing principle, make it physically possible for those same laws to become known to physical objects. Thus, the laws of physics may be said to mandate their own comprehensibility. |The laws of physics, by conforming to the Turing principle, make it physically possible for those same laws to become known to physical objects. Thus, the laws of physics may be said to mandate their own comprehensibility.]]**”
+	- ***The Turing principle (about what’s possible and not) ⇒ the laws of physics***
+- A physically possible process = one that actually occurs [[10-2e9 Variants do exist in the multiverse - not in the past or in the future, but they literally do exist somewhere in the multiverse! |somewhere in the multiverse]]
+	- [ ] Discussed in FoR Ch.3
+	- Thus, the laws of physics not only mandate their own comprehensibility but also the physical existence of entities that understand them arbitrarily well. That is, there must be a universal virtual-reality generator _built_ in some universes.
+		- Implication discussed in later FoR chapters
+- “Now I return to the question I posed in the previous chapter, namely whether, if we had only a virtual-reality rendering based on the wrong laws of physics to learn from, we should expect to learn the wrong laws. The first thing to stress is that **we _do_ have only virtual reality based on the wrong laws to learn from!** As I have said, [[1-2g2j1a Because we can only be with the virtual-reality, all our renderings will be inaccurate |all our external experiences are of virtual reality]], generated by our own brains. And since our concepts and theories (whether inborn or learned) are never perfect, all our renderings are indeed inaccurate.”
+	- Answering the question from the previous chapter (FoR Ch.5)
+- Deutsch: “The fact is that to anyone who understands what virtual reality is, even genuine magic would be indistinguishable from technology, for there is no room for magic in a comprehensible reality.”
+- Deutsch: “Suppose that someone were imprisoned in a small, unrepresentative portion of our own reality . . . that was programmed with the wrong laws of physics . . . The rendered environment would also have to be such that no explanations of anything inside would ever require one to postulate an outside. The environment, in other words, would have to be self-contained as regards explanations. But I doubt that any part of reality, short of the whole thing, has [[1-1a4d Nothing can be explained only in terms of itself |that property]].”
+	- That is, unless we have the question whose answer is the reality (Elon Musk would use ‘universe’ instead of ‘reality’)
+###### 7. A Conversation About Justification 
+- Beware of how Deutsch uses the word ‘justified’ here—it is not used in the sense of [[10-2g2e4 Abstractions seem less ‘justified’ to the justified-true-belief misconception |‘justified-belief’]]—ToK explained that Deutsch commented on this in new edition of FoR
+- It is rationally _justified_ to rely on the predictions of corresponding theories, to the extent that those explanations are good
+- David—_crypto-inductivist_
+	- Crypto-inductivist: “_How to justify any conclusion about the future from past evidence_”
+	- David: “If by ‘the evidence’ you mean all the experiments whose outcomes the theory correctly predicted in the past . . . that evidence is consistent with an infinity of theories, including theories predicting every logically possible outcome of my jumping over the railing”
+		- Diagonal argument, discussed in FoR Ch.6 and BoI Ch.8, is used here
+	- David: “Only argument ever justifies anything—tentatively, of course . . . But still, argument can sometimes justify theories. That is what argument is for.”
+	- In the Popperian picture of scientific progress, it is not observations but problems, controversies, theories and criticism that are primary. **Confirming instances in themselves have no significance.**
+		- Viz., the gap between reality and our understanding of it—i.e., our _problem-situations_
+			- This is why [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea. |the Idea Maze]] is important—you have to know who took which turns at what cost, i.e., the history around ideas
+	- David: “_**[[10-2e Languages are theories about the world and enmeshed in assumptions. |Languages are theories]]**_. In the vocabulary and grammar, they embody substantial assertions about the world. Whenever we state a theory, only a small part of its content is explicit: the rest is carried by the language. Like all theories, languages are invented and selected for their ability to solve certain problems . . . One of the most important ways in which languages solve these problems is to embody , implicitly, theories that are uncontroversial and taken for granted, while allowing things that need to be stated or argued about to be expressed succinctly and cleanly.”
+		- Maybe English only replicated themselves better, but wasn’t for the good of the speakers of the language
+		- Related: see [[Daniel Everett]]’s Introduction from ***How Language Began***
+	- David: “Knowing is not the same as understanding.”
+	- David: “It is a principle of rationality that theories are postulated in order to solve problems . . . _any_ postulate which solves no problem is to be rejected”
+		- To explicate the hitherto deemed inexplicable
+	- David (discussing Popper and Popperian epistemology): “It is perfectly possible for a person to discover a new theory but nevertheless to continue to hold beliefs that contradict it. [[3-1c3c4a Person who finds profound new theories often holds onto beliefs that contradict them |The more profound the theory is, the more likely this is to happen.]]”
+	- David: “**[[1-2f1b3a1 The question is not whether anomalies happened in the past, but whether we have explanations for such anomalies. |Our justification does not depend on whether a particular anomaly happens in the past. It has to do with whether there is an explanation for the existence of that anomaly.]]**”
+		- Let this statement sink in and apply generally
+	- David: “Nothing in the concepts of ‘rational argument’ or ‘explanation’ relates the future to the past in any special way.”
+		- Remember Deutsch’s argument from FoR Ch.11—time doesn’t flow and the multiverse is all there is—viz., the past and the future exists subjectively but not objectively #revisit 
+			- Related: [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality]]
+	- Theories can be rejected for solving nothing, _and_ for spoiling existing solutions—that is, for removing the explanatory power from existing theories by asserting that the predictions of those theories have exceptions, but not explaining how
+		- The problem of how to know whether you have introduced more problems or not
+			- Maybe the following partly answers this question, namely, constraints
+	- **[[1-2g New theory is constrained in terms of what it can say, since it must either be consistent with existing theories, or contradict them but address the problems thereby raised |New theory is constrained in terms of what they can say]] about the future, since it must _either_ be consistent with existing theories, _or_ contradict some existing theories but address the problems thereby raised, giving alternative explanations**
+	- David: “We only find out in what respects the theory says that the future will resemble the past after we have the theory”
+		- The past and future are both abstractions
+		- The theory explains the meaning of the future and the past
+	- David: “**What justifies the principles of rationality? Argument, as usual . . . It is not perfectly secure. Nor should we expect it to be, for logical reasoning is no less a physical process than scientific reasoning is, and it is inherently fallible.**”
+		- This argument (I use _argument_ rather than _logic_—you will see why shortly) is applied in FoR Ch.10—against the laws of logic and against some mathematicians called ’intuitionists’
+		- This is because even if we understand physical processes better (both of the nature and of the mind), it still remains as _our understanding_ of them
+	- [ ] David (after discussing how _any_ reasoning is fallible): “**However, it is an interesting _fact_ that the physical universe admits processes that create knowledge about itself, and about other things too. We may reasonably try to explain this fact in the same way as we explain other physical facts, namely through explanatory theories.** You will see in Chapter 6 of _The Fabric of Reality_ that I think that the Turing principle is the appropriate theory in this case. It says that it is possible to build a virtual-reality generator whose repertoire includes every physically possible environment. **If the Turing principle is a law of physics, as I have argued that it is, then we should not be surprised to find that we can form accurate theories about reality, because that is just virtual reality in action.** Just as the fact that steam engines are possible is a direct expression of the principles of thermodynamics, so the fact that the human brain is capable of creating knowledge is a direct expression of the Turing principle.”
+		- The parallel:
+			- The principle of thermodynamics ⇒ steam engines
+			- The Turing principle ⇒ why human brain can create knowledge
+		- As discussed in FoR Ch.6
+	- David: “We don’t know that the Turing principle is _true_, of course . . . **But we have now moved on to a completely different question! We are now discussing an apparent _fact_ about physical reality, namely that it can make reliable predictions about itself. We are trying to explain that fact, to place it within the same framework as other facts we know.** I suggested that there may be a certain law of physics involved. But if I were wrong about that, indeed even if we were entirely unable to explain this remarkable property of reality, that would not detract one jot from the justification of any scientific theory. For it would not make the explanations in such a theory one jot worse.”
+		- [ ] JUSTIFICATION ≠ EXPLANATORY POWER #revisit 
+			- Not justified does not equal to having no explanatory power—explanation doesn’t have to be ‘justified’ #revisit 
+	- David (one last comment to crypto-inductivist): “The misconception is about the very nature of argument and explanation. You seem to be assuming that arguments and explanations, such as those that justify acting on a particular theory, have the form of mathematical proofs, proceeding from assumptions to conclusions. You look for the ‘raw material’ (axioms) from which our conclusions (theorems) are derived. Now, there is indeed a logical structure of this type associated with every successful argument or explanation. **[[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion |But the process of argument does not begin with the ‘axioms’ and end with the ‘conclusion’. Rather, it starts in the middle]], with a version that is riddled with inconsistencies, gaps, ambiguities and irrelevancies. All these faults are criticized. Attempts are made to replace faulty theories. The theories that are criticized and replaced usually include some of the ‘axioms’. That is why it is a mistake to assume that an argument begins with, or is justified by, the theories that eventually serve as its ‘axioms’. The argument ends—tentatively—when it seems to have shown that the associated explanation is satisfactory. The ‘axioms’ adopted are not ultimate, unchallengeable beliefs. They are tentative, explanatory theories.**”
+		- Crypto-inductivist: “I see. **Argument is not the same species of thing as deduction**, or the non-existent induction. It is not based on anything or justified by anything. And it _doesn’t have to be_, because its purpose is to solve problems—to show that a given problem is solved by a given explanation.”
+			- In Peircean terms, this is ***abduction***
+		- The process of argument = the process of writing
+			- Related: [[1-1a5a A real essay doesn’t take a position and then defend it (deductive). It starts with a question (abductive), in trying to figure something out.]]
+		- Why fundamental theories of reality progress better than non-fundamental ones
+			- Because of the Turing principle? #revisit 
+###### 8. **The Significance of Life**
+- Darwin’s theory of evolution explained the origin of life in terms that required no special physics
+- [[1-2g2i Genes (life) are programs that embody the laws of physics (of their own niches) |Genes = computer programs]]
+	- Special structures within each organism’s cells = computers that execute these programs
+	- A gene can function as a replicator only in certain environments (_niche_)
+	- “Not everything that can be copied is a replicator. A replicator causes its environment to copy it: that is, it contributes causally to its own copying . . . What it means in general to contribute causally to something is an issue to which I shall return, but what I mean here is that the presence and specific physical form of the replicator makes a difference to whether copying takes place or not.”
+		- Causality is discussed in FoR Ch.11 (conception of time in the multiverse)
+- The degree of adaptation of a replicator = the accuracy of a virtual-reality rendering
+	- Replicator - “The more sensitive the copying in a given environment is to the replicator’s exact physical structure, the more adapted the replicator is to that environment . . . We must therefore consider variants of the environment as well as of the replicator.”
+	- Virtual-reality—“The accuracy of a virtual-reality rendering depends not only on the responses the machine actually makes to what the user actually does, but also on responses it does not, in the event, make to things the user does not in fact do.”
+		- The program always implies how *it could’ve been otherwise*, as discussed in FoR Ch. 5
+- _An organism is not a replicator_: it is part of the environment of replicators—usually the most important part after the other genes.
+- Whether life is a fundamental phenomenon of nature
+	- Deutsch: “[[1-2g2g Life is a form of virtual-reality generation |Life is a form of virtual-reality generation]] . . . But what does accuracy mean for a rendering which no one intended and no one perceives?”
+	- **_Genes embody knowledge about their niches_—everything of fundamental significance about the phenomenon of life depends on this property, and not on replication _per se_**
+		- The discussion is now beyond replicators, and again onto the Turing principle
+- A species whose genes were unable to replicate, but instead were adapted to keep their physical form intact
+	- They share all the properties of real genes except replication
+		- It is **the _survival of knowledge_**, and not necessarily of the gene or any other physical object, that is the common factor
+			- I.e., **it is a piece of knowledge rather than a physical object that is or is not adapted to a certain niche**
+- [[5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent) |Medium-independency]] (the survival of knowledge is the common factor)
+	- Replicator—the physical material keeps changing
+	- Non-replicating knowledge—successively embodied in _different_ physical forms
+		- E.g., different languages, different mediums (e.g., vinyl ⇒ tape ⇒ disc)
+- Deutsch: **“The point is that although all known life is based on replicators, what the phenomenon of life is really about is knowledge. We can give a definition of adaptation directly in terms of knowledge: an entity is adapted to its niche if it embodies knowledge that causes the niche to keep that knowledge in existence. Now we are getting closer to the reason why life is fundamental. [[1-2g2h Life is associated with a fundamental principle of physics – the Turing principle – since it is the means by which virtual reality was first realized in nature. (Life = physical embodiment of knowledge = the Turing principle) |Life is about the physical embodiment of knowledge]], and in Chapter 6 we came across a law of physics, the Turing principle, which is also about the physical embodiment of knowledge. It says that it is possible to embody the laws of physics, as they apply to every physically possible environment, in programs for a virtual-reality generator. Genes are such programs. Not only that, but all other virtual-reality programs that physically exist, or will ever exist, are direct or indirect effects of life.”**
+	- Life = physical embodiment of knowledge = the Turing principle
+		- Viz., life introduced parochial knowledge via genes, and humans with memes introduced more universal knowledge
+			- See my ***The Evolution of Culture*** summary below
+- Deutsch: “The future history of the universe depends on the future history of knowledge”
+	- I.e., literally unpredictable
+- Deutsch: “**Life achieves its effects not by being larger, more massive or more energetic than other physical processes, but by being more knowledgeable.**”
+- But is there, as the ancients assumed there must be in the case of life, a basic physical difference between knowledge-bearing and non-knowledge-bearing objects, a difference that depends neither on the objects’ environments nor on their effects on the remote future, **but only on the objects’ immediate physical attributes**?
+	- Remarkably, there is. To see what it is, we must take the multiversal view.
+		- [ ] Imagine two physical objects, both segments of the same DNA chain, one of which embodies knowledge and the other is a random sequence. But they are _physically identical_. How can knowledge be a fundamental physical quantity, if one object has it while a physically identical object does not? #revisit 
+			- Physically the same but with knowledge ↔ without
+				- [ ] Revisit his argument here
+			- Because information is medium-independent, the specific physical forms do not matter, and since the connection between DNA sequence and the knowledge it embodies is contingent, such case is imaginable where physical properties are identical yet the knowledge they embody are different
+				- This is not what Deutsch meant (my initial interpretation here rests on the assumption that Deutsch was conducting multiversal thought experiment, when in fact he started off initially in just one universe, then introduced the multiverse to elaborate his point)
+			- The non-knowledge-bearing DNA segment (the junk-DNA segment) = random
+		- The ancient idea that living matter has special physical properties was almost true
+			- **It is not living matter but _knowledge-bearing_ matter that is physically special**
+				- Because it would stay instantiated across the multiverse
+	- **Knowledge is a fundamental physical quantity, and the phenomenon of life only slightly less so**
+	- Distinguishing the genes from the non-gene sequences and to estimate the degree of adaptation of each gene _within one universe_ is impossible
+		- The property of being a gene is an _emergent_ property
+		- The task is easy using multiversal perspective
+			- Deutsch: “Genes are regular across many nearby universes, while all the non-gene, junk-DNA segments are irregular. As for the degree of adaptation of a gene, this is almost as easy to estimate. **The better-adapted genes will have the same structure over a wider range of universes**—they will have bigger ‘crystals’.”
+				- Deutsch (via another example): “But if only you could observe through a multiverse telescope, life and its consequences would be obvious at a glance. **You need only look for complex structures that seem irregular in any one universe, but are identical across many nearby universes. If you see any, you will have found some physically embodied knowledge. Where there is knowledge, there must have been life, at least in the past.**”
+- Looking at the universe multiversally
+	- Deutsch: “In a single universe the most striking structures are galaxies and clusters of galaxies. **But those objects have no discernible structure across the multiverse** . . . **Except, that is, in those few places where there is embodied knowledge. In such places, objects extend recognizably [[1-2g2t3d1 Knowledge-bearing entities extend-permeate across the multiverse |across large numbers of universes]].**”
+- Summary
+	- Deutsch: “Life _is_ associated with a fundamental principle of physics—the Turing principle—since it is the means by which virtual reality was first realized in nature.”
+###### 9. Quantum Computers
+- We are harnessing the _materials, forces, energies_ and _information_
+- The universal computer can _eventually_ do what any other computer can
+	- I.e., _given enough time_ it is universal
+- Computational universality would no be much use to genes if rendering their organism were an intractable task
+	- I.e., if so genes cannot _iterate_
+		- Related: [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+- The fabric of reality must be _layered_ for easy-access
+- Deutsch: “The laws of physics, in addition to mandating their own comprehensibility through the Turing principle, ensure that **the corresponding evolutionary processes, such as life and thought, are neither too time-consuming nor require too many resources of any other kind to occur in reality**”
+	- The Deutsch-Turing principle (universal in an even stronger sense than the Turing principle): Not only are universal virtual-reality generators possible, it is possible to build them so that they do not require impracticably large resources to render simple aspects of reality
+- _Tractable-intractable_
+	- E.g., _factorization_ is intractable
+		- ↔ In the quantum theory of computation, factorization is a very tractable task
+	- Feynman: predicting the behaviour of quantum-mechanical systems (rendering quantum-mechanical environments in virtual reality) is in general an intractable task
+		- ≠ _Chaos_ theory and ‘butterfly effect’ because these occur in classical physics, which is not in reality, since reality is quantum-mechanical
+			- Classical unpredictability ≠ quantum unpredictability
+				- Classical physics - “In practice we are never able to measure the initial positions and velocities perfectly . . . planetary motions . . . are untypical classical systems . . . to predict what a typical classical system will do after only a moderate period, one would have to determine its initial state to an impossibly high precision”
+					- ‘Predictability’ and ‘tractability’ in astronomy is a special case and not the norm
+						- Astronomy will fail with the Big Bang (and the Big Crunch)
+				- Quantum mechanics - “Small deviations from a specified initial state tend to cause only small deviations from the predicted final state . . . accurate prediction is made difficult by quite a different effect”
+					- The parallel-universe multiplicity is the real reason
+						- _Diversity within fungibility_ - as discussed in BoI Ch.11
+						- In the whole of multiverse, determinism holds - **but not so in any single universe**
+							- ↔ The flapping of butterflies’ wings
+			- _Unpredictability ≠ intractability_
+				- Classical systems = unpredictable because of their sensitivity to initial conditions
+				- Quantum systems = unpredictable because of the multiplicity, and appear random (i.e., unpredictable) within the perspective of each universes
+				- In neither case will any amount of computation lessen the unpredictability
+					- Intractability, by contrast, is a computational-resource issue
+						- It refers to a situation _where we could make the prediction_ if only we could perform the computation
+							- Hence the following diversion into quantum systems that are predictable
+								- To show that intractable does not mean unpredictable
+- An interferometer
+	
+	- Only when interference occurs between the two paths is the outcome _predictable_
+- The shadow experiments
+	
+	- Discussed in FoR Ch.2
+	- “Thus the number of different histories that we have to calculate if we want to predict what will happen in such cases increases exponentially with the number of interacting particles. That is why the task of computing how a typical quantum system will behave is well and truly intractable.”
+		- And this intractability has nothing to do with unpredictability: on the contrary, it is most clearly manifested in quantum phenomena that are highly predictable
+			- And it was this intractability that was exercising Feynman
+				- Deutsch: “Intractability is **in principle** a greater impediment to universality than unpredictability could ever be.”
+					- It appears as though no practical rendering is possible for environments that do show the effects of quantum interference
+						- Feynman correctly drew the opposite conclusion!
+- [ ] “Instead of regarding the intractability of the task of rendering quantum phenomena as an obstacle, Feynman regarded it as an opportunity. If it requires so much computation to work out what will happen in an interference experiment, then the very act of setting up such an experiment and measuring its outcome is tantamount to performing a complex computation. Thus, Feynman reasoned, it might after all be possible to render quantum environments efficiently, provided the computer were allowed to perform experiments on a real quantum-mechanical object. The computer would choose what measurements to make on an auxiliary piece of quantum hardware as it went along, and would incorporate the results of the measurements into its computations.”
+	
+	- The auxiliary quantum hardware would in effect be a computer too. For example, an interferometer could act as such a device and, like any other physical object, it can be thought of as a computer.
+		- There are computational tasks that are ‘intractable’ if we attempt to perform them using any existing computer, but which would be tractable if we were to use quantum-mechanical objects as special-purpose computers.
+			- This is possible because quantum systems are not subject to ‘chaos’
+- The theory of computation = the quantum theory of computation
+	
+	- Even the classical theory of computation contained strong adumbrations of quantum theory
+		- Discrete variables are alien to classical physics
+			- Discussed in FoR Ch.2
+				
+			- [ ] In quantum physics, no discontinuous change is necessary - even though all measurable quantities are discrete
+				
+				- “At each instant the bit has value 1 in a certain proportion of universes and 0 in another. All those universes, at all those times, are already shown in. They are not moving anywhere!”
+					- Probability does away with distinction between continuous and discontinuous?
+					- Similar discussion on FoR Ch.11 (how time doesn’t ‘flow’)
+				
+- Multiversal effect makes solid matter possible
+- _Decoherence_
+	- ≠ Quantum interference must be shielded from all outside influences
+	- = It is the effect of the quantum computation on the outside world that causes decoherence
+- “Another novel simplification, unique to the quantum theory of computation, partly offsets the difficulties caused by decoherence. It turns out that, unlike classical computation, where one needs to engineer specific classical logic elements such as AND, or and NOT, the precise form of the interactions hardly matters in the quantum case. Virtually any atomic-scale system of interacting bits, so long as it does not decohere, could be made to perform useful quantum computations.”
+	- Hinting at fungibility as explained in BoI Ch.11?
+- Deutsch: “The fact that the repertoire of the universal quantum computer contains environments whose rendering is classically intractable implies that new classes of purely mathematical computations must have become tractable too. For the laws of physics are, as Galileo said, expressed in mathematical language, and rendering an environment is tantamount to evaluating certain mathematical functions.”
+- [ ] _Cryptography - quantum cryptography_
+	- _Shor’s algorithm_
+	- _Grover’s algorithm_
+###### 10. The Nature of Mathematics
+###### 11. Time: The First Quantum Concept
+- We cling to two incompatible concepts - the moving present and the sequence of unchanging moments - because we need them both, or rather, that we think we do
+	- Objectively, no moment is privileged as being more ‘now’ than the others, just as no position is privileged as being more ‘here’ than other positions
+	- The idea of the flow of time really presupposes the existence of a second sort of time, outside the common-sense sequence-of-moments time.
+		- If ‘now’ really moved from one of the moments to another, it would have to be with respect to this _exterior_ time
+	- No accurate picture of the framework of time can be a moving or changing picture. It must be static. But there is an inherent psychological difficulty in taking this on board. Although the picture is static, we cannot understand it statically.
+		- Similar to how we cannot perceive the multiverse?
+			- The multiverse and static conception of time are two names denoting the same thing, namely the physical reality?
+- Four-dimensional geometrical interpretation of time
+	- An indispensable part of Einstein’s theory of relativity, because according to relativity observers moving at different velocities do not agree about which events are simultaneous
+		- I.e., they do not agree which events should appear on the same snapshot - they each perceive spacetime as being sliced up in a different way into ‘moments’
+	- ‘Block universe’ and _free will_
+		- In spacetime physics the future is not open - it is _there_
+			- In spacetime physics, causation and free will can be no more than illusions
+				- _Determinism_
+		- Thought experiment: the shuffled spacetime
+			- In terms of real physics, all the slicing up and re-gluing of spacetime is meaningless because each snapshot has an _intrinsic_ order defined by their contents and by the real laws of physics (by spacetime physics)
+				- Viz., each snapshot has a ‘time stamp’ encoded in its physical contents
+	- According to pre-quantum physics, everything that happens, happens in spacetime
+		- And spacetime is incompatible with the existence of cause and effect
+			- Because it’s all there
+			- Intuition (causality) is incompatible with the laws of spacetime physics (it’s all _there_)
+- But spacetime physics is false
+	- Remember the discussion from FoR Ch.8 on replicators
+		- That two conditions must hold for an entity to be a cause of its own replication:
+			1. First, that the entity is in fact replicated
+			2. Second, that most variants of it, in the same situation, would not be replicated
+		- **Reasoning about causes and effects = variants of the causes and effects**
+			- What _would_ have happened
+			- _Could’ve been otherwise_
+				- Causation = a Figure for Meillassoux ?
+		- “So the previous history would have to be imagined as being different as well. How different? The effect of our imagined variation in history depends critically on what we take ‘other things being equal’ to mean. And that is irreducibly ambiguous . . . Try as we may, we shall not succeed in resolving this ambiguity within spacetime physics. **There is no avoiding the fact in spacetime exactly one thing happens in reality, and everything else is fantasy.**”
+			- In spacetime physics, conditional statements whose premise is false (_counter-factual conditionals_) have no meaning
+				- The source of this paradox is not in logic or linguistics, it is in physics
+				- **But in the multiverse, universes are present in definite proportions, so it is meaningful to say that certain type of events are ‘very rare’ or ‘very common’ in the multiverse, and that some events follow others ‘in most cases’.**
+- “Because of quantum interference, each snapshot would no longer be determined entirely by previous snapshots of the same spacetime (though it would approximately, because classical physics is often a good approximation to quantum physics). **But the super-snapshots beginning with a particular moment would be entirely and exactly determined by the previous super-snapshots. This complete determinism would not give rise to complete predictability, even in principle, because making a prediction would require a knowledge of what had happened in all the universes, and each copy of us can directly perceive only one universe.**”
+	- A ‘super-snapshot’ = one moment in the multiverse
+	- Causation exists because of our way of being in the multiverse (because we are fungible)?
+		- Does causation exist objectively?
+- [ ] “If time in the multiverse were a sequence of moments, it would have to be possible to identify all the snapshots of space at a given moment, so as to make them into a super-snapshot. **Not surprisingly, it turns out that there is no way of doing that. In the multiverse, snapshots do not have ‘time stamps’. There is no such thing as which snapshot from another universe happens ‘at the same moment’ as a particular snapshot in our universe, for that would again imply that there is an overarching framework of time, outside the multiverse, relative to which events within the multiverse happen. There is no such framework.** Therefore **there is no fundamental demarcation between snapshots of other times and snapshots of other universes**. This is the distinctive core of the quantum concept of time: **Other times are just special cases of other universes** . . . **The snapshots which we call ‘other times in our universe’ are distinguished from ‘other universes’ only from our perspective**, and only in that they are especially closely related to ours by the laws of physics. They are therefore the ones of whose existence our own snapshot holds the most evidence. For that reason, we discovered them thousands of years before we discovered the rest of the multiverse, which impinges on us very weakly by comparison, through interference effects. We evolved special language constructs (past and future forms of verbs) for talking about them. We also evolved other constructs (such as ‘_if … then …_’ statements, and conditional and subjunctive forms of verbs) for talking about other types of snapshot, without even knowing that they exist. We have traditionally placed these two types of snapshot – other times, and other universes – in entirely different conceptual categories. Now we see that this distinction is unnecessary.”
+	- Another one where Deutsch claims _we’ve been doing it alright all along_
+		- As discussed in FoR Ch.13
+	- There is no such thing as ‘which half’ would see ‘heads’, any more than there is an answer to the question ‘which one am I?’.
+- [ ] Causality in the multiverse
+	- “By the way, if you have ever wondered what happened before the Big Bang, or what will happen after the Big Crunch, you can stop wondering now. Why is it hard to accept that there are no moments before the Big Bang or after the Big Crunch, so that nothing happens, or exists, there? Because it is hard to imagine time coming to a halt, or starting up. **But then, time does not have to come to a halt or start up, for it does not move at all.** **The multiverse does not ‘come into existence’ or ‘cease to exist’; those terms presuppose the flow of time.** It is only imagining the flow of time that makes us wonder what happened ‘before’ or ‘after’ the whole of reality.”
+	- The multiverse vs spacetime
+		- The difference is only that, unlike spacetime, the multiverse does not consist of the mutually determining layers I have called super-snapshots, which could serve as ‘moments’ of the multiverse. It is a complex, multi-dimensional jigsaw puzzle.
+			- In this jigsaw-puzzle multiverse, which neither consists of a sequence of moments nor permits a flow of time, the common-sense concept of cause and effect makes perfect sense.
+				- **Because _variants_ do exist in the multiverse**
+					- **Not in the past or in the future, but they literally do exist somewhere in the multiverse!**
+					- **There is nothing in this definition of cause and effect that logically requires causes to precede their effects, and it could be that in very exotic situations, such as very close to the Big Bang or inside black holes, they do not.** In everyday experience, however, causes always precede their effects, and this is because – at least in our vicinity in the multiverse – the number of distinct types of snapshot tends to increase rapidly with time, and hardly ever decreases.
+						- [ ] This property is related to the second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. Heat is microscopically random motion. In multiverse terms, this means many microscopically different states of motion in different universes. For example, in successive snapshots of the coin at ordinary magnifications, it seems that the setting-down process converts a group of identical ‘predictably heads’ snapshots into a group of identical ‘heads’ snapshots. But during that process the energy of the coin’s motion is converted into heat, so at magnifications large enough to see individual molecules the latter group of snapshots are not identical at all. They all agree that the coin is in the ‘heads’ position, but they show its molecules, and those of the surrounding air and of the surface on which it lands, in many different configurations. Admittedly, the initial ‘predictably heads’ snapshots are not microscopically identical either, because some heat is present there too, but the production of heat in the process means that these snapshots are very much less diverse than the later ones. **So each homogeneous group of ‘predictably heads’ snapshots determines the existence of – and therefore causes – vast numbers of microscopically different ‘heads’ snapshots. But no single ‘heads’ snapshot by itself determines the existence of any ‘predictably heads’ snapshots, and so is not a cause of them.**
+							- ‘Predictably heads’ ⇒ ‘heads’
+								- One-to-one correspondence?
+									- No!
+										- ‘Heads’ snapshots in the multiverse are diverse
+											- At magnifications large enough to see individual molecules
+										- ‘Predictably heads’ snapshots in the multiverse is also diverse
+											- But less diverse than ‘heads’ snapshots because the production of _heat_ in the process (of coin spinning between ‘predictably heads’ and ‘heads’)
+										- There is more ‘heads’ than ‘predictably heads’
+											- This is the sense in which ‘predictably heads’ causes ‘heads’
+												- [ ] Revisit this increase-in-number (evolutionary) and energy (heat) conception of causality
+							- ‘Heads’ and ‘tails’ are mere human abstractions
+							- Because ‘head’ ⇒ ‘predictably heads’ requires . . . what?
+								- To say ‘head’ causes ‘predictably heads’, the numbers of each doesn’t add up (i.e., ‘predictably heads’ is much less than ‘heads’)
+									- [ ] _To say ‘head’ causes ‘predictably heads’ -_ should ‘head’ instead be ‘heads’?
+							- Time (causality) and the second law of thermodynamics
+								- [ ] Impossibility as imposed by the second law of thermodynamics (namely the irreversibility of heat - is this a manifestation of quantum physics, namely/specifically . . . ?) constrains the form of argument regarding causation can take, and this constraint we then perceived (unfortunately) as time flowing?
+							- Revisit Chiara Marletto
+- Summary
+	- Time is not a sequence of moments, nor does it flow. Yet our intuitions about the properties of time are broadly true. Certain events are indeed causes and effects of one another. Relative to an observer, the future is indeed open and the past fixed, and possibilities do indeed become actualities. The reason why our traditional theories of time are nonsense is that they try to express these true intuitions within the framework of a false classical physics. In quantum physics they make sense, because time was a quantum concept all along. We exist in multiple versions, in universes called ‘moments’. Each version of us is not directly aware of the others, but has evidence of their existence because physical laws link the contents of different universes. It is tempting to suppose that the moment of which we are aware is the only real one, or is at least a little more real than the others. But that is just solipsism. All moments are physically real. The whole of the multiverse is physically real. Nothing else is.
+###### 12. Time Travel
+###### 13. The Four Strands
+- Strange phenomenon occurred in the four branches, namely [[1-2g1a1 Popper, Turing, Everett, Dawkins (then Deutsch himself) gave a better explanation as to why the prevailing theories were true after all (unfortunately, they have found themselves constantly on the defensive against obsolete theories) |Popper, Turing, Everett, Dawkins gave a better explanation as to why the prevailing theories were true after all]]; but that they have found themselves constantly on the defensive against obsolete theories
+	- Quantum physics
+		- The multiverse vs Instrumentalism
+			- Delayed discovery of quantum computer
+	- The theories of computation
+		- The Turing principle vs AI denier
+			- Delayed discovery of quantum computer
+	- Knowledge
+		- Popperian epistemology vs Kuhn (a ‘problem of induction’)
+			- Delayed discovery of the theory of scientific explanation
+	- Evolution
+		- Darwin + Dawkins
+			- Delayed discovery of memes
+- Deutsch: “My thesis, therefore, also takes the form ‘the prevailing theory is true after all!’”—because he took respective ideas seriously
+- Deutsch: “**I expect the solution of the ‘What is consciousness?’ problem to depend on quantum theory. It will invoke no specific quantum-mechanical processes, but it will depend crucially on the quantum-mechanical, and especially the multi-universe, world-picture.**”
+	- [ ] FoR Ch.8
+		- Specifically where he discussed his multiversal view of knowledge—“Consciousness is clearly intimately related to the growth and representation of knowledge within the brain”
+			- The laws of physics mandate its own comprehensibility, and that consciousness as emergent phenomenon of the Turing principle?
+		- Knowledge in physical terms ⇒ consciousness as a physical process #develop 
+		- **Knowledge = complexity that extends across large numbers of universes** #develop 
+- Explanatory gaps
+	- ‘Selfish gene’ theory
+		- Deutsch: “We have seen that the very fact that physical variables can store information, that they can interact with one another to transfer and replicate it, and that such processes are stable, all depend on the details of **quantum theory**. Furthermore, we have seen that the existence of highly adapted replicators depends on the physical feasibility of virtual-reality generation and universality, which in turn can be understood as consequences of a deep principle, **the Turing principle**, that links physics and the theory of computation and makes no explicit reference to replicators, evolution or biology at all.”
+			- Quantum theory via diversity within fungibility allows both branching (the multiverse) and stability in the sense of what’s been branched stays branched (stable existence of each universe, allowing the classical physics as approximation)
+			- The Turing principle ⇒ linking physics and the theory of computation ⇒ the physical feasibility of universal virtual-reality generator ⇒ (although the Turing principle makes no explicit reference) highly adapted replicators
+	- Popperian epistemology
+		- Popper: “No theory of knowledge should attempt to explain why we are successful in our attempts to explain things”
+		- Deutsch: “But, once we understand that the growth of human knowledge is a physical process, we see that it cannot be illegitimate to try to explain how and why it occurs. **Epistemology is a theory of (emergent) physics. It is a factual theory about the circumstances under which a certain physical quantity (knowledge) will or will not grow.**”
+			- The explanation (**the theory of knowledge**) must involve **quantum physics**, the Turing principle (**the theory of computation**), and, as Popper himself stressed, the **theory of evolution**.
+- Summary
+	- “The intellectual histories of the fundamental theories of the four strands contain remarkable parallels. All four have been simultaneously accepted (for use in practice) and ignored (as explanations of reality). One reason for this is that, taken individually, each of the four theories has explanatory gaps, and seems cold and pessimistic. To base a world-view on any of them individually is, in a generalized sense, reductionist. But when they are taken together as a unified explanation of the fabric of reality, this is no longer so.”
+###### 14. The Ends of the Universe
 
 ---
 # The Beginning of Infinity (2011)
 
-1. The Reach of Explanations
+###### 1. The Reach of Explanations
     - We begin with inborn expectations and intensions and an innate ability to improve upon them
 	    - Similar: [[1-1a2b Everett on Kant - His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.]]
     - The quest for truth ≠ A quest for certainty, justification, and necessity
@@ -392,9 +399,9 @@
     - A good explanation has an autonomous meaning and an autonomous domain of applicability
         - “[[10-2g1j A good explanation explain more than what they were originally designed to |They explain more than what they were originally designed to]]”
             - Because they are universal #develop 
-2. Closer to Reality
+###### 2. Closer to Reality
     - Theory + new theory + newer theory + . . . ⇒ Reality
-3. The Spark
+###### 3. The Spark
     - Science > Rules of thumb > Biological knowledge
         - “Our fully ancestors were achieving much the same thing thousands of times faster, by evolving their cultural knowledge instead”
             - The first such technology is the use of symbols? #develop 
@@ -410,7 +417,7 @@
         - [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world. |Knowledge makes enormous (physical) difference]]
         - It’s the difference between universal and parochial
 	        - See my note on [[9-4b2d1 Explanatory knowledge creation ≠ Biological knowledge (the former, specifically scientific knowledge, is more composable, and thus more universal) |Knowledge creation ≠ Biological knowledge]]
-4. Creation
+###### 4. Creation
     - Spontaneous generation argument doesn’t explain anything
     - Lamarckism = Inductivism
         - Both assume that new knowledge is somehow already present in experience, or can be derived mechanically from experience. But knowledge must be _first_ conjectured and _then_ tested.
@@ -466,7 +473,7 @@
         - “But ‘anthropic’ theories that try to account for [the ‘fine-tuning’ of the laws] as a pure selection effect from an infinite number of different universes are, by themselves, bad explanations too—in part because most logically possible laws are themselves bad explanations.”
             - Does he mean by this a megaverse argument?
                 - Find ToK episodes on Max Tegmark, if any
-5. The Reality of Abstractions
+###### 5. The Reality of Abstractions
     - Instrumentalism = Reductionism
 	    - Except the former rejects all explanations
     - The Principle of Mediocrity = Reductionism 
@@ -524,7 +531,7 @@
             - “Beauty, right and wrong, primality, infinite sets—they all exist objectively.”
     - Deutsch: “Causation and the laws of physics are not themselves physical objects”
         - “They are abstractions, and our knowledge of them comes—just as for all other abstractions—from the fact that our best explanations invoke them.”
-6. The Jump to Universality
+###### 6. The Jump to Universality
     1. Alphabet
     2. Numeral
         - The program instructs its computer what to do
@@ -562,7 +569,7 @@
                                 - We do not understand the nature of the universality of the DNA replication system
                                     - Its implication to our artificial evolution research is discussed in BoI Ch.7
     - “The mysterious universality of DNA as a constructor may have been the first universality to exist. But, of all the different forms of universality, the most significant physically is the characteristic universality of people, namely that they are universal explainers, which makes them universal constructors as well. The effects of that universality are, as I have explained, explicable only by means of the full gamut of fundamental explanations. It is also the only kind of universality capable of transcending its parochial origins: **universal computers cannot really be universal unless there are people present to provide energy and maintenance—indefinitely**. And the same is true of all those other technologies. Even life on Earth will eventually be extinguished, unless people decide otherwise. Only people can rely on themselves into the unbounded future.”
-7. Artificial Creativity
+###### 7. Artificial Creativity
     - “_[[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it. |If you can’t program it, you haven’t fully understood it]]”_
     - The Turing test
         - Test was rooted in the empiricist mistake of seeking a purely behavioural criterion
@@ -590,7 +597,7 @@
                         - Viz., without _explanation_?
                 - Can I invert this, somehow? #develop 
     - **Trying to achieve evolution and intelligence artificially without ever discovering how they were achieved in nature was perhaps worth trying, but no surprise that it has failed**
-8. A Window on Infinity
+###### 8. A Window on Infinity
     - Most forms of universality themselves refer to some sort of infinity—though they can always be interpreted in terms of something being _unlimited_ rather than actually infinite
     - The universality of _reason_
         - The reach of science has inherent limitations; so does mathematics; so does every branch of philosophy
@@ -658,8 +665,8 @@
 				- This is a chimera. An infinite regress.
 			2. Imagine _all possible computer programs_ are running argument
 				- This theory again requires an external world in which those computers run
-9. Optimism
-10. A Dream of Socrates
+###### 9. Optimism
+###### 10. A Dream of Socrates
     - Socrates—Hermes
         - Beliefs cannot be justified, except in relation to other beliefs, and even then only fallibly. The quest for their justification can lead only to an infinite regress, with each step of which subject to error.
         - [[9-1a1 People who converge upon the truth converge with each other |People who converge upon the truth converge with each other]]
@@ -688,7 +695,7 @@
     - We habitually underestimate the difficulty of communication
         - **Scientific discourses are less fallible because the fundamental theories of physics are exceedingly hard to vary**, such that the theories manage to be passed faithfully from generation to generation, despite no one caring about its faithfulness one way or the other.
             - Again, truth converges
-11. **The Multiverse**
+###### 11. **The Multiverse**
     - A decidedly minority view among physicists
         - BoI Ch.12 speculates why
     - It _is_ consistent for two identical entities to become different under deterministic and symmetrical laws
@@ -814,18 +821,18 @@
                 - It doesn’t differentiate increasingly over time
     - [ ] About wild speculations with regard to communicating without using information flow #revisit 
         - Not sending message as sending message?
-12. A Physicist’s History of Bad Philosophy
-13. Choices
-14. Why are Flowers Beautiful?
-15. The Evolution of Culture
+###### 12. A Physicist’s History of Bad Philosophy
+###### 13. Choices
+###### 14. Why are Flowers Beautiful?
+###### 15. The Evolution of Culture
     - See ***The Evolution of Culture*** (the original essay) summary below
-16. The Evolution of Creativity
+###### 16. The Evolution of Creativity
     - **What use was creativity?**
     - **How do you replicate a meaning?**
     - **Both puzzles have the same solution**
     - **The future of creativity**
-17. Unsustainable
-18. The Beginning
+###### 17. Unsustainable
+###### 18. The Beginning
 
 ---
 # The Evolution of Culture
