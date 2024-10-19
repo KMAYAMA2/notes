@@ -194,12 +194,12 @@
 	- Deutsch: “In a single universe the most striking structures are galaxies and clusters of galaxies. **But those objects have no discernible structure across the multiverse** . . . **Except, that is, in those few places where there is embodied knowledge. In such places, objects extend recognizably [[1-2g2t3d1 Knowledge-bearing entities extend-permeate across the multiverse |across large numbers of universes]].**”
 - Summary
 	- Deutsch: “Life _is_ associated with a fundamental principle of physics—the Turing principle—since it is the means by which virtual reality was first realized in nature.”
-###### 9. Quantum Computers
+###### **9. Quantum Computers**
 - We are harnessing the _materials, forces, energies_ and _information_
 - The universal computer can _eventually_ do what any other computer can
 	- I.e., _given enough time_ it is universal
-- Computational universality would no be much use to genes if rendering their organism were an intractable task
-	- I.e., if so genes cannot _iterate_
+- Computational universality would not be much use to genes if rendering their organism were an intractable task
+	- I.e., if so, genes cannot _iterate_
 		- Related: [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - The fabric of reality must be _layered_ for easy-access
 - Deutsch: “The laws of physics, in addition to mandating their own comprehensibility through the Turing principle, ensure that **the corresponding evolutionary processes, such as life and thought, are neither too time-consuming nor require too many resources of any other kind to occur in reality**”
@@ -208,77 +208,70 @@
 	- E.g., _factorization_ is intractable
 		- ↔ In the quantum theory of computation, factorization is a very tractable task
 	- Feynman: predicting the behaviour of quantum-mechanical systems (rendering quantum-mechanical environments in virtual reality) is in general an intractable task
-		- ≠ _Chaos_ theory and ‘butterfly effect’ because these occur in classical physics, which is not in reality, since reality is quantum-mechanical
-			- Classical unpredictability ≠ quantum unpredictability
-				- Classical physics - “In practice we are never able to measure the initial positions and velocities perfectly . . . planetary motions . . . are untypical classical systems . . . to predict what a typical classical system will do after only a moderate period, one would have to determine its initial state to an impossibly high precision”
+		- ≠ _Chaos_ theory and ‘butterfly effect’ (because these occur in classical physics, which is not in reality, since reality is quantum-mechanical)
+			- Classical unpredictability ≠ "Quantum unpredictability
+				- Classical physics—“In practice we are never able to measure the initial positions and velocities perfectly . . . planetary motions . . . are untypical classical systems . . . to predict what a typical classical system will do after only a moderate period, one would have to determine its initial state to an impossibly high precision”
 					- ‘Predictability’ and ‘tractability’ in astronomy is a special case and not the norm
-						- Astronomy will fail with the Big Bang (and the Big Crunch)
-				- Quantum mechanics - “Small deviations from a specified initial state tend to cause only small deviations from the predicted final state . . . accurate prediction is made difficult by quite a different effect”
+						- And astronomy does fail with the Big Bang (and the Big Crunch)
+				- Quantum mechanics—“Small deviations from a specified initial state tend to cause only small deviations from the predicted final state . . . accurate prediction is made difficult by quite a different effect”
 					- The parallel-universe multiplicity is the real reason
-						- _Diversity within fungibility_ - as discussed in BoI Ch.11
-						- In the whole of multiverse, determinism holds - **but not so in any single universe**
+						- _Diversity within fungibility_—as discussed in BoI Ch.11
+						- In the whole of multiverse, determinism holds—**but not so in any single universe**
 							- ↔ The flapping of butterflies’ wings
-			- _Unpredictability ≠ intractability_
+			- _[[1-2g2c3 Intractable does not mean unpredictable |Unpredictability ≠ intractability]]_
 				- Classical systems = unpredictable because of their sensitivity to initial conditions
-				- Quantum systems = unpredictable because of the multiplicity, and appear random (i.e., unpredictable) within the perspective of each universes
+				- Quantum systems = unpredictable because of the multiplicity, and [[2-1a6c4 'Randomness' - The appearance of 'randomness' is subjective |appear random]] (i.e., unpredictable) within the perspective of each universes
 				- In neither case will any amount of computation lessen the unpredictability
 					- Intractability, by contrast, is a computational-resource issue
 						- It refers to a situation _where we could make the prediction_ if only we could perform the computation
 							- Hence the following diversion into quantum systems that are predictable
-								- To show that intractable does not mean unpredictable
+								- To show that **intractable does not mean unpredictable**
 - An interferometer
-	
 	- Only when interference occurs between the two paths is the outcome _predictable_
-- The shadow experiments
-	
+- The shadow experiments	
 	- Discussed in FoR Ch.2
 	- “Thus the number of different histories that we have to calculate if we want to predict what will happen in such cases increases exponentially with the number of interacting particles. That is why the task of computing how a typical quantum system will behave is well and truly intractable.”
 		- And this intractability has nothing to do with unpredictability: on the contrary, it is most clearly manifested in quantum phenomena that are highly predictable
 			- And it was this intractability that was exercising Feynman
 				- Deutsch: “Intractability is **in principle** a greater impediment to universality than unpredictability could ever be.”
 					- It appears as though no practical rendering is possible for environments that do show the effects of quantum interference
-						- Feynman correctly drew the opposite conclusion!
-- [ ] “Instead of regarding the intractability of the task of rendering quantum phenomena as an obstacle, Feynman regarded it as an opportunity. If it requires so much computation to work out what will happen in an interference experiment, then the very act of setting up such an experiment and measuring its outcome is tantamount to performing a complex computation. Thus, Feynman reasoned, it might after all be possible to render quantum environments efficiently, provided the computer were allowed to perform experiments on a real quantum-mechanical object. The computer would choose what measurements to make on an auxiliary piece of quantum hardware as it went along, and would incorporate the results of the measurements into its computations.”
-	
+						- Feynman correctly drew the opposite conclusion
+- [ ] “Instead of regarding the intractability of the task of rendering quantum phenomena as an obstacle, Feynman regarded it as an opportunity. If it requires so much computation to work out what will happen in an interference experiment, then the very act of setting up such an experiment and measuring its outcome is tantamount to performing a complex computation. Thus, Feynman reasoned, it might after all be possible to render quantum environments efficiently, provided the computer were allowed to perform experiments on a real quantum-mechanical object. The computer would choose what measurements to make on an auxiliary piece of quantum hardware as it went along, and would incorporate the results of the measurements into its computations.” #revisit 
 	- The auxiliary quantum hardware would in effect be a computer too. For example, an interferometer could act as such a device and, like any other physical object, it can be thought of as a computer.
 		- There are computational tasks that are ‘intractable’ if we attempt to perform them using any existing computer, but which would be tractable if we were to use quantum-mechanical objects as special-purpose computers.
 			- This is possible because quantum systems are not subject to ‘chaos’
-- The theory of computation = the quantum theory of computation
-	
+- The theory of computation = the quantum theory of computation	
 	- Even the classical theory of computation contained strong adumbrations of quantum theory
 		- Discrete variables are alien to classical physics
-			- Discussed in FoR Ch.2
-				
-			- [ ] In quantum physics, no discontinuous change is necessary - even though all measurable quantities are discrete
-				
+			- Discussed in FoR Ch.2				
+			- [ ] In quantum physics, no discontinuous change is necessary—even though all measurable quantities are discrete				
 				- “At each instant the bit has value 1 in a certain proportion of universes and 0 in another. All those universes, at all those times, are already shown in. They are not moving anywhere!”
-					- Probability does away with distinction between continuous and discontinuous?
+					- Probability does away with distinction between continuous and discontinuous #revisit 
 					- Similar discussion on FoR Ch.11 (how time doesn’t ‘flow’)
-				
 - Multiversal effect makes solid matter possible
 - _Decoherence_
 	- ≠ Quantum interference must be shielded from all outside influences
 	- = It is the effect of the quantum computation on the outside world that causes decoherence
 - “Another novel simplification, unique to the quantum theory of computation, partly offsets the difficulties caused by decoherence. It turns out that, unlike classical computation, where one needs to engineer specific classical logic elements such as AND, or and NOT, the precise form of the interactions hardly matters in the quantum case. Virtually any atomic-scale system of interacting bits, so long as it does not decohere, could be made to perform useful quantum computations.”
-	- Hinting at fungibility as explained in BoI Ch.11?
+	- Hinting at fungibility as explained in BoI Ch.11 #revisit 
 - Deutsch: “The fact that the repertoire of the universal quantum computer contains environments whose rendering is classically intractable implies that new classes of purely mathematical computations must have become tractable too. For the laws of physics are, as Galileo said, expressed in mathematical language, and rendering an environment is tantamount to evaluating certain mathematical functions.”
 - [ ] _Cryptography - quantum cryptography_
 	- _Shor’s algorithm_
 	- _Grover’s algorithm_
 ###### 10. The Nature of Mathematics
 ###### 11. Time: The First Quantum Concept
-- We cling to two incompatible concepts - the moving present and the sequence of unchanging moments - because we need them both, or rather, that we think we do
+- We cling to two incompatible concepts—the moving present and the sequence of unchanging moments—because we need them both, or rather, that we think we do
 	- Objectively, no moment is privileged as being more ‘now’ than the others, just as no position is privileged as being more ‘here’ than other positions
 	- The idea of the flow of time really presupposes the existence of a second sort of time, outside the common-sense sequence-of-moments time.
 		- If ‘now’ really moved from one of the moments to another, it would have to be with respect to this _exterior_ time
 	- No accurate picture of the framework of time can be a moving or changing picture. It must be static. But there is an inherent psychological difficulty in taking this on board. Although the picture is static, we cannot understand it statically.
-		- Similar to how we cannot perceive the multiverse?
-			- The multiverse and static conception of time are two names denoting the same thing, namely the physical reality?
+		- Similar to how we cannot perceive the multiverse? #revisit 
+			- The multiverse and static conception of time are two names denoting the same thing, namely the physical reality? #develop 
 - Four-dimensional geometrical interpretation of time
 	- An indispensable part of Einstein’s theory of relativity, because according to relativity observers moving at different velocities do not agree about which events are simultaneous
-		- I.e., they do not agree which events should appear on the same snapshot - they each perceive spacetime as being sliced up in a different way into ‘moments’
+		- I.e., they do not agree which events should appear on the same snapshot—they each perceive spacetime as being sliced up in a different way into ‘moments’
 	- ‘Block universe’ and _free will_
-		- In spacetime physics the future is not open - it is _there_
+		- In spacetime physics the future is not open—it is _there_
 			- In spacetime physics, causation and free will can be no more than illusions
 				- _Determinism_
 		- Thought experiment: the shuffled spacetime
@@ -288,39 +281,40 @@
 		- And spacetime is incompatible with the existence of cause and effect
 			- Because it’s all there
 			- Intuition (causality) is incompatible with the laws of spacetime physics (it’s all _there_)
-- But spacetime physics is false
+- **But spacetime physics is false**
 	- Remember the discussion from FoR Ch.8 on replicators
-		- That two conditions must hold for an entity to be a cause of its own replication:
+		- Two conditions must hold for an entity to be a cause of its own replication:
 			1. First, that the entity is in fact replicated
 			2. Second, that most variants of it, in the same situation, would not be replicated
 		- **Reasoning about causes and effects = variants of the causes and effects**
 			- What _would_ have happened
-			- _Could’ve been otherwise_
-				- Causation = a Figure for Meillassoux ?
+				- _Could’ve been otherwise_
+					- Causation = a Figure for Meillassoux? #develop 
 		- “So the previous history would have to be imagined as being different as well. How different? The effect of our imagined variation in history depends critically on what we take ‘other things being equal’ to mean. And that is irreducibly ambiguous . . . Try as we may, we shall not succeed in resolving this ambiguity within spacetime physics. **There is no avoiding the fact in spacetime exactly one thing happens in reality, and everything else is fantasy.**”
 			- In spacetime physics, conditional statements whose premise is false (_counter-factual conditionals_) have no meaning
-				- The source of this paradox is not in logic or linguistics, it is in physics
+				- *The source of this paradox is not in logic or linguistics, it is in physics*
 				- **But in the multiverse, universes are present in definite proportions, so it is meaningful to say that certain type of events are ‘very rare’ or ‘very common’ in the multiverse, and that some events follow others ‘in most cases’.**
+					- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
 - “Because of quantum interference, each snapshot would no longer be determined entirely by previous snapshots of the same spacetime (though it would approximately, because classical physics is often a good approximation to quantum physics). **But the super-snapshots beginning with a particular moment would be entirely and exactly determined by the previous super-snapshots. This complete determinism would not give rise to complete predictability, even in principle, because making a prediction would require a knowledge of what had happened in all the universes, and each copy of us can directly perceive only one universe.**”
 	- A ‘super-snapshot’ = one moment in the multiverse
-	- Causation exists because of our way of being in the multiverse (because we are fungible)?
-		- Does causation exist objectively?
-- [ ] “If time in the multiverse were a sequence of moments, it would have to be possible to identify all the snapshots of space at a given moment, so as to make them into a super-snapshot. **Not surprisingly, it turns out that there is no way of doing that. In the multiverse, snapshots do not have ‘time stamps’. There is no such thing as which snapshot from another universe happens ‘at the same moment’ as a particular snapshot in our universe, for that would again imply that there is an overarching framework of time, outside the multiverse, relative to which events within the multiverse happen. There is no such framework.** Therefore **there is no fundamental demarcation between snapshots of other times and snapshots of other universes**. This is the distinctive core of the quantum concept of time: **Other times are just special cases of other universes** . . . **The snapshots which we call ‘other times in our universe’ are distinguished from ‘other universes’ only from our perspective**, and only in that they are especially closely related to ours by the laws of physics. They are therefore the ones of whose existence our own snapshot holds the most evidence. For that reason, we discovered them thousands of years before we discovered the rest of the multiverse, which impinges on us very weakly by comparison, through interference effects. We evolved special language constructs (past and future forms of verbs) for talking about them. We also evolved other constructs (such as ‘_if … then …_’ statements, and conditional and subjunctive forms of verbs) for talking about other types of snapshot, without even knowing that they exist. We have traditionally placed these two types of snapshot – other times, and other universes – in entirely different conceptual categories. Now we see that this distinction is unnecessary.”
+	- Causation exists because of our way of being in the multiverse (because we are fungible)? #develop 
+		- Does causation exist objectively? #develop 
+- [ ] “If time in the multiverse were a sequence of moments, it would have to be possible to identify all the snapshots of space at a given moment, so as to make them into a super-snapshot. **Not surprisingly, it turns out that there is no way of doing that. In the multiverse, snapshots do not have ‘time stamps’. There is no such thing as which snapshot from another universe happens ‘at the same moment’ as a particular snapshot in our universe, for that would again imply that there is an overarching framework of time, outside the multiverse, relative to which events within the multiverse happen. There is no such framework.** Therefore **[[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |there is no fundamental demarcation between snapshots of other times and snapshots of other universes]]**. This is the distinctive core of the quantum concept of time: **[[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |Other times are just special cases of other universes]]** . . . **The snapshots which we call ‘other times in our universe’ are distinguished from ‘other universes’ only from our perspective**, and only in that they are especially closely related to ours by the laws of physics. They are therefore the ones of whose existence our own snapshot holds the most evidence. For that reason, we discovered them thousands of years before we discovered the rest of the multiverse, which impinges on us very weakly by comparison, through interference effects. We evolved special language constructs (past and future forms of verbs) for talking about them. We also evolved other constructs (such as ‘_if … then …_’ statements, and conditional and subjunctive forms of verbs) for talking about other types of snapshot, without even knowing that they exist. *We have traditionally placed these two types of snapshot—other times, and other universes—in entirely different conceptual categories. Now we see that this distinction is unnecessary.*”
 	- Another one where Deutsch claims _we’ve been doing it alright all along_
 		- As discussed in FoR Ch.13
-	- There is no such thing as ‘which half’ would see ‘heads’, any more than there is an answer to the question ‘which one am I?’.
+	- [[10-2e4a There is no such thing as 'which half' would see 'heads', any more than there is an answer to the question 'which one am I' |There is no such thing as ‘which half’ would see ‘heads’, any more than there is an answer to the question ‘which one am I?’]].
 - [ ] Causality in the multiverse
 	- “By the way, if you have ever wondered what happened before the Big Bang, or what will happen after the Big Crunch, you can stop wondering now. Why is it hard to accept that there are no moments before the Big Bang or after the Big Crunch, so that nothing happens, or exists, there? Because it is hard to imagine time coming to a halt, or starting up. **But then, time does not have to come to a halt or start up, for it does not move at all.** **The multiverse does not ‘come into existence’ or ‘cease to exist’; those terms presuppose the flow of time.** It is only imagining the flow of time that makes us wonder what happened ‘before’ or ‘after’ the whole of reality.”
 	- The multiverse vs spacetime
 		- The difference is only that, unlike spacetime, the multiverse does not consist of the mutually determining layers I have called super-snapshots, which could serve as ‘moments’ of the multiverse. It is a complex, multi-dimensional jigsaw puzzle.
 			- In this jigsaw-puzzle multiverse, which neither consists of a sequence of moments nor permits a flow of time, the common-sense concept of cause and effect makes perfect sense.
-				- **Because _variants_ do exist in the multiverse**
-					- **Not in the past or in the future, but they literally do exist somewhere in the multiverse!**
-					- **There is nothing in this definition of cause and effect that logically requires causes to precede their effects, and it could be that in very exotic situations, such as very close to the Big Bang or inside black holes, they do not.** In everyday experience, however, causes always precede their effects, and this is because – at least in our vicinity in the multiverse – the number of distinct types of snapshot tends to increase rapidly with time, and hardly ever decreases.
-						- [ ] This property is related to the second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. Heat is microscopically random motion. In multiverse terms, this means many microscopically different states of motion in different universes. For example, in successive snapshots of the coin at ordinary magnifications, it seems that the setting-down process converts a group of identical ‘predictably heads’ snapshots into a group of identical ‘heads’ snapshots. But during that process the energy of the coin’s motion is converted into heat, so at magnifications large enough to see individual molecules the latter group of snapshots are not identical at all. They all agree that the coin is in the ‘heads’ position, but they show its molecules, and those of the surrounding air and of the surface on which it lands, in many different configurations. Admittedly, the initial ‘predictably heads’ snapshots are not microscopically identical either, because some heat is present there too, but the production of heat in the process means that these snapshots are very much less diverse than the later ones. **So each homogeneous group of ‘predictably heads’ snapshots determines the existence of – and therefore causes – vast numbers of microscopically different ‘heads’ snapshots. But no single ‘heads’ snapshot by itself determines the existence of any ‘predictably heads’ snapshots, and so is not a cause of them.**
+				- **Because *[[10-2e9 Variants do exist in the multiverse - not in the past or in the future, but they literally do exist somewhere in the multiverse! |variants do exist in the multiverse]]***
+					- **Not in the past or in the future, but they literally do exist somewhere in the multiverse**
+					- **There is nothing in this definition of cause and effect that logically requires causes to precede their effects, and it could be that in very exotic situations, such as very close to the Big Bang or inside black holes, they do not.** In everyday experience, however, causes always precede their effects, and this is because—at least in our vicinity in the multiverse—the number of distinct types of snapshot tends to increase rapidly with time, and hardly ever decreases.
+						- [ ] This property is related to the second law of thermodynamics, which states that ordered energy, such as chemical or gravitational potential energy, may be converted entirely into disordered energy, i.e. heat, but never vice versa. Heat is microscopically random motion. In multiverse terms, this means many microscopically different states of motion in different universes. For example, in successive snapshots of the coin at ordinary magnifications, it seems that the setting-down process converts a group of identical ‘predictably heads’ snapshots into a group of identical ‘heads’ snapshots. But during that process the energy of the coin’s motion is converted into heat, so at magnifications large enough to see individual molecules the latter group of snapshots are not identical at all. They all agree that the coin is in the ‘heads’ position, but they show its molecules, and those of the surrounding air and of the surface on which it lands, in many different configurations. Admittedly, the initial ‘predictably heads’ snapshots are not microscopically identical either, because some heat is present there too, but the production of heat in the process means that these snapshots are very much less diverse than the later ones. **So each homogeneous group of ‘predictably heads’ snapshots determines the existence of—and therefore causes—vast numbers of microscopically different ‘heads’ snapshots. But no single ‘heads’ snapshot by itself determines the existence of any ‘predictably heads’ snapshots, and so is not a cause of them.**
 							- ‘Predictably heads’ ⇒ ‘heads’
 								- One-to-one correspondence?
-									- No!
+									- No
 										- ‘Heads’ snapshots in the multiverse are diverse
 											- At magnifications large enough to see individual molecules
 										- ‘Predictably heads’ snapshots in the multiverse is also diverse
@@ -329,14 +323,14 @@
 											- This is the sense in which ‘predictably heads’ causes ‘heads’
 												- [ ] Revisit this increase-in-number (evolutionary) and energy (heat) conception of causality
 							- ‘Heads’ and ‘tails’ are mere human abstractions
-							- Because ‘head’ ⇒ ‘predictably heads’ requires . . . what?
+							- Because ‘head’ ⇒ ‘predictably heads’ requires . . . what? #revisit 
 								- To say ‘head’ causes ‘predictably heads’, the numbers of each doesn’t add up (i.e., ‘predictably heads’ is much less than ‘heads’)
-									- [ ] _To say ‘head’ causes ‘predictably heads’ -_ should ‘head’ instead be ‘heads’?
+									- [ ] _To say ‘head’ causes ‘predictably heads’ —should ‘head’ instead be ‘heads’?
 							- Time (causality) and the second law of thermodynamics
-								- [ ] Impossibility as imposed by the second law of thermodynamics (namely the irreversibility of heat - is this a manifestation of quantum physics, namely/specifically . . . ?) constrains the form of argument regarding causation can take, and this constraint we then perceived (unfortunately) as time flowing?
-							- Revisit Chiara Marletto
+								- [ ] Impossibility as imposed by the second law of thermodynamics (namely the irreversibility of heat—is this a manifestation of quantum physics?) constrains the form of argument regarding causation can take, and this constraint we then perceived (unfortunately) as time flowing? #revisit 
+							- Revisit Chiara Marletto’s ***The Science of Can and Can’t***
 - Summary
-	- Time is not a sequence of moments, nor does it flow. Yet our intuitions about the properties of time are broadly true. Certain events are indeed causes and effects of one another. Relative to an observer, the future is indeed open and the past fixed, and possibilities do indeed become actualities. The reason why our traditional theories of time are nonsense is that they try to express these true intuitions within the framework of a false classical physics. In quantum physics they make sense, because time was a quantum concept all along. We exist in multiple versions, in universes called ‘moments’. Each version of us is not directly aware of the others, but has evidence of their existence because physical laws link the contents of different universes. It is tempting to suppose that the moment of which we are aware is the only real one, or is at least a little more real than the others. But that is just solipsism. All moments are physically real. The whole of the multiverse is physically real. Nothing else is.
+	- Time is not a sequence of moments, nor does it flow. Yet our intuitions about the properties of time are broadly true. Certain events are indeed causes and effects of one another. Relative to an observer, the future is indeed open and the past fixed, and possibilities do indeed become actualities. The reason why our traditional theories of time are nonsense is that they try to express these true intuitions within the framework of a false classical physics. **[[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |In quantum physics they make sense, because time was a quantum concept all along. We exist in multiple versions, in universes called ‘moments’.]]** Each version of us is not directly aware of the others, but has evidence of their existence because physical laws link the contents of different universes. It is tempting to suppose that the moment of which we are aware is the only real one, or is at least a little more real than the others. But that is just solipsism. All moments are physically real. The whole of the multiverse is physically real. Nothing else is.
 ###### 12. Time Travel
 ###### 13. The Four Strands
 - Strange phenomenon occurred in the four branches, namely [[1-2g1a1 Popper, Turing, Everett, Dawkins (then Deutsch himself) gave a better explanation as to why the prevailing theories were true after all (unfortunately, they have found themselves constantly on the defensive against obsolete theories) |Popper, Turing, Everett, Dawkins gave a better explanation as to why the prevailing theories were true after all]]; but that they have found themselves constantly on the defensive against obsolete theories
