@@ -315,13 +315,14 @@
 - _What are the_ specific _features of the human brain that underwrite our language ability? And are these features unique to language or do they serve other roles beyond language?_
 	- _Language is a cultural artefact_
 		- _No heritable language-specific disorders implies the non-compartmentalised theory of the brain_
-			- Jeff Hawkins
+			- Related: Jeff Hawkins’ ***A Thousand Brains***
 - _On Broca’s area (an area of the brain often identified with language)_
 ###### 7. Brain Goes Wrong
 - _On Broca’s area (an area of the brain often identified with language)_
+	- Related Essay: [[To Measure or Not To Measure, That Is The Question]]
 ###### 8. Talking with Tongues
 ###### 9. Where Grammar Came From
-- _Recursion is secondary to communication_
+- _[[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation. |Recursion is secondary to communication]]_
 - _G1 grammar was the fundamental human grammar that made the first human language possible_
 ###### 10. Talking with the Hands
 ###### 11. Just Good Enough
@@ -413,6 +414,7 @@
 	- Social values, social knowledge, social structures ⇒ symbol
 	- Symbol = [[Symbol = culturally agreed upon form + culturally developed meaning. The core of language is the symbol. Social values-knowledge-structures ⇒ Symbol. |a combination of culturally agreed upon form with a culturally developed meaning]]
 ---
+
 # Dark Matter of the Mind
 ###### 0. Introduction
 - Talking about the differences between Pirahas and himself
@@ -499,7 +501,7 @@
 - “Personal nexus” (constructed self) ≠ “Human nature”
 	- “There is no human nature if by this we mean a kind of a priori knowledge common to all and only humans”
 
-###### 1. 
+###### 1. The Nature and Pedigree of Dark Matter
 - _There is no clear dividing line between knowledge-how vs. knowledge-that_
 - Humans are designed to be flexible
 	- Cultures are evolution’s ultimate solution to the problem of providing adaptive flexibility
@@ -558,28 +560,33 @@
 	- Michael Polanyi - The mind is not a computer. Our discoveries are driven by our values, commitments, and passions. Scientists choose the questions that are important to them from personal and social values.
 	- Quine - What we take to be nonnegotiable in our beliefs, resulting from our lives, beliefs, and other forms of dark matter, are truths we are not prepared to disbelieve.
 
-###### 2. 
+###### 2. The Ranked-Value Theory of Culture
 - _One of the two major forces in the creation of dark matter: culture_
 - _How is culture even possible?_
-- _Culture is an abstraction - can only be found in the individual_
+- _Culture is an abstraction—can only be found in the individual_
+	- Related: [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - _A theory of values ⇒ A theory of culture_
 - _Machines cannot think because they lack culture_
 	- _No culture ⇒ No semantic understanding, no background, no dark matter ⇒ No thought_
+		- And probably no consciousness #develop 
+			- Related: [[4-1a4b5c Deutsch - Consciousness is clearly intimately related to the growth and representation of knowledge within the brain]]
 - _A society ≠ A foot ball team, an orchestra_
 	- _Overlapping values, roles, and knowledge of individuals that live together, eat together, think together, language together, and culture together ⇒ The cultural cohesiveness of a society_
 - _Culture in the popular sense_
-###### 3. 
+###### 3. The Ontogenesis and Construction of Dark Matter
 - _How is dark matter acquired?_
 	- _The chapter offers a case study by means of a detailed description from the Pirahas_
-- _Understanding cultural learning ⇒ [Extrapolate] ⇒ Understanding how humans construct/acquire the dark matter_
+- _Understanding cultural learning ⇒ Extrapolate ⇒ Understanding how humans construct/acquire the dark matter_
 - _Computers are unlikely to ever be able to think or talk_
-	- _No consciousness, emotions, apperceptions, dark matter, cognitive plasticity, culture, society, and physiology ⇒ No human thinking by robots_
-		- _The entire individual — not merely a disembodied mind — learns and acquires dark matter_
+	- _No consciousness, emotions, apperceptions, dark matter, cognitive plasticity, culture, society, and physiology ⇒ No human thinking by robots_ #revisit 
+		- _The entire individual—not merely a disembodied mind—learns and acquires dark matter_
 			- _No body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence ⇒ No thought_
+				- Related: [[10-1b1 It is the body that learns - '考えるな. 感じろ.']]
 - _The necessary requirements to develop dark matter: a body, “culturing,” a flexible brain, an emotional brain, semantics, and human intelligence_
 - What makes humans unique is not computational ability
-	- “Other animals have tremendous problem-solving, navigational, emotional, and other cognitive ranges, as well as consciousness”
-		- Maybe the concept of a problem is not really unique to humans?
+	- “Other animals have tremendous problem-solving, navigational, emotional, and other cognitive ranges, **as well as consciousness**” #revisit 
+		- Maybe the concept of a problem is not really unique to humans? #develop 
+		- Related: [[意識は推論そのもの]]
 - Requirements to develop dark matter:
 	1. A body
 		- Even when reading, it’s still a bodily engagement?
@@ -595,36 +602,38 @@
 	- _Attachment_ = The creation of the individual-culture connection
 		- Our values are formed by the people we interact with
 		- Our self-image is formed by the perceptions of others’ perceptions of us and our perceptions of others
+			- Related: [[5-2c1a 自己シグナリング：人間は、他人を評価するのと同じで、自分で自分の行動を見て、自分の性格を判断している。]]
 	- “We are not merely self-locomoting computers on legs. We are affected physiologically, emotionally, and mentally with every step we take through our environment.”
-		- No learning without doing; specifically, no learning without cultural doing
+		- [[3-1b1b1 No learning without doing; specifically, no learning without cultural doing |No learning without doing; specifically, no learning without cultural doing]]
 	- But once we have mastered a language, we also enter the world of language-based learning
 	- “The importance of childhood derives from the fact that human beings enjoy a great survival advantage via their ability to escape from the constraints of purely biological evolution”
-		- That is, meme evolution!
-		- Attachment is children’s first journey from the strange to the familiar, from observer to knower — The first step in emicization
+		- That is, meme evolution (see my summary of [[David Deutsch]]’s ***The Evolution of Culture***)
+		- [[10-1b2 Attachment is children’s first journey from the strange to the familiar, from observer to knower — The first step in emicization (未知 ⇒ 既知) |Attachment]] is children’s first journey from the strange to the familiar, from observer to knower—The first step in emicization
 			- 未知 ⇒ 既知
 		- Emicization via attachment, language learning, cultural learning ⇒ The child becomes able to better categorize, store, and arrange its apperceptions, thus constructing itself, its environment, and its society
 	- Variation in cultures ⇒ The variation in forms of attachment of children to caregivers ⇒ Variation in cultures ⇒ . . .
-	- What sets humans apart is our ability to accumulate knowledge by means of language
-		- Language is not the only tool by which we construct knowledge, values, ways of behaving. But it is the most important, even as it itself is shaped by culture.
+	- **[[10-2g1e What sets humans apart is our ability to accumulate knowledge by means of language |What sets humans apart is our ability to accumulate knowledge by means of language]]** #develop 
+		- Language is not the only tool by which we construct knowledge, values, ways of behaving. But it is the most important, even as it itself is shaped by culture. #revisit 
 			- Imitation is crucial. But not quite enough for cultural transmission.
+		- Related: [[1-2g2b Humans are significant insofar as we can create knowledge]]
 - **Piraha Emicization and Attachment**
 	- “Concentric circles” of attachment
 		- Mother ⇒ Parents ⇒ Family ⇒ Village ⇒ Piraha
 	- [ ] Details:
 - **Language and Attachment**
 	- Egocentric language (Piaget) vs. Language as socialization (Vygotsky)
-		- Everett: A child learns language to form itself as an autonomous psychological being (egocentric), but this autonomy makes sense only in comparison and contrast to others — that is, in a social environment (socialization).
+		- Everett: A child learns language to form itself as an autonomous psychological being (egocentric), but this autonomy makes sense only in comparison and contrast to others—that is, in a social environment (socialization).
 	- If you speak Piraha natively, you are a Piraha
-		- But what counts as speaking is not merely grammatical structure. You have to tell appropriate stories, blending both language and culture!
+		- But what counts as speaking is not merely grammatical structure. You have to tell appropriate stories, blending both language and culture
 			- Attachment = A process of defining the self, one’s place in society, and the separateness of one’s group and culture from others
 	- Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships
-	- Sapir: “Culture is then not something given but something to be gradually and gropingly discovered.”
+	- Sapir: “[[10-1b3 Sapir - 'Culture is not something given but something to be gradually and gropingly discovered' |Culture is then not something given but something to be gradually and gropingly discovered.]]”
 ###### 4. Dark Matter as Hermeneutics
 - _Dark matter (the unspoken language) is our primary tool for interpretating all our experiences_
 	- _Novel discussion which attempts to unify mind and culture_
 - We interpret the world around us based on our unspoken knowns
 	- E.g., smoking tobacco
-- [x] **Thick Description of Cultural Experience**
+- **Thick Description of Cultural Experience**
 	- An etic description = Aspects that are physically measurable
 	- Thick description = The meaning of such physical measurables
 		- The absence of thick descriptions affects our understanding of others
@@ -632,138 +641,145 @@
 				- It’s a must for effective and accurate translation
 	- What is usually referred to as “culture” is nothing more than individual dark matters
 		- How does this dark matter come to function as a hermeneutic?
-			- Dark matter arises from the construction of concentric circles of relationships where the members of ever-widening groups are engaged in activities that the individual learns to interpret and repeat, very much like they do in acquiring their first language
+			- Dark matter arises from the construction of [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society |concentric circles of relationships]] where the members of ever-widening groups are engaged in activities that the individual learns to interpret and repeat, very much like they do in acquiring their first language
 				- Culture is the dark matter that is acquired from culturing, social acting, languaging
-					- Games, utterances, speech acts, discourses, symbols, icons — these are our hermeneutics
-- [x] **Culture and Perception**
-	- “Does our dark matter — derived from culture and psychology — help or impede our ability to perceive the world?”
-		- It does both
+					- Games, utterances, speech acts, discourses, symbols, icons—these are our hermeneutics
+- **Culture and Perception**
+	- “Does our dark matter—derived from culture and psychology—help or impede our ability to perceive the world?”
+		- [[1-1a2e7 Dark matter both help and impede our perception of the world |It is both]]
 	- The problem is not seeing the details, but putting together what we are seeing into coherent percept (or gestalt)
 		- This “putting together” occurs effortlessly and without awareness
-			- The connecting the dots of what we perceive is emic vision
-				- Properly emicized, we see the whole “better” — seeing things that are not there and not seeing things that are
+			- The connecting the dots of what we perceive is [[1-1a2e9 Emic vision = Interpreting what you are seeing as symbols |emic vision]]
+				- Properly emicized, we see the whole “better”—[[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there |seeing things that’s not there and not seeing things that’s there]]
+					- Related: [[5-2b5 Theories precede data]]
 	- Perceptual maturation ≠ Dark matter acquired
 		- The Pirahas inability on the two-dimensional tasks simply shows that a mature visual system is insufficient to guarantee recognition of what one sees
 			- The mature system “sees” only the etic until it has undergone emicization into a particular culture, with particular experiences, expectations, and so on
 				- There is such a thing as emic understanding of perceptual experiences that ranges beyond the merely physical and etic limitations of the ocular nerve
-	- Dark matter is our hermeneutic, even for basic perception
+	- *Dark matter is our hermeneutic, even for basic perception*
+		- Related: [[There is no universal perception]]
 - [ ] **Beyond Counterexamples and Exceptions: Dark Matter and Science**
 	- A black swan is evaluated relative to a cultural system
 	- Scientific progress is the output of cultural values
-		- Our inquiry should be informed by multiple theories, with a focus on languageS rather than Language
+		- Our inquiry should be informed by multiple theories, with a focus on *languageS* rather than *Language*
 			- Focus on the particular rather than the general
+			- Related: [[12-1d Flexible media will surface contingency]]
+			- Related: [[10-2f3a0 The best thing to learn (and the best way to learn anything) is to learn another language]]
 	- “This is not to say that science is merely a cultural illusion. This chapter has nothing to do with postmodernist epistemological relativity. But it does aim to show that science is not “pure rationality,” autonomous from its cultural matrix.”
 	- That theories cannot always account for everything
 		- Theories leak
 			- Isn’t this simply because we are fallible?
 	- That counterexamples and exceptions are etically the same, but emically very different
 		- We must resign ourselves to having exceptions at all times that in principle ought not to be incorporated into or analyzed by the theory
-			- Put differently, we start with theory, but because we are fallible, we are forced to restart abductively, but even the new theory contains dark matter, and because it has dark matter, and because we cannot do away with it, we are forced to face ‘counterexamples’ and ‘exceptions’?
+			- Put differently, we start with theory, but because we are fallible, we are forced to restart abductively, but even the new theory contains dark matter, and because it has dark matter, and because we cannot do away with it, we are forced to face ‘counterexamples’ and ‘exceptions’? #revisit 
+			- Related: [[5-1b1a2c0 No theory can exhaust reality]]
 	- Both a counterexample and an exception are facts that a particular theory cannot explain
 		- The difference is that the former is taken seriously while the latter is a hiccup that can be safely ignored for now
 			- The classification depends on our dark matter
 				- Counterexamples and exceptions are the same etically, though they are nearly polar opposites emically
-					- Each is defined relative to a specific theoretical tradition — a particular culture
+					- Each is defined relative to a specific theoretical tradition—a particular culture
 	- Data, like their interpretations, are subject to emicization
 		- We decide to see data with a meaning
 	- Whether a language has recursion or not is vital to psychology and linguistics
 		- It is also vital to anthropology, if indeed the manifestation of recursion (or other properties of grammar) are constrained by culture and dark matter
-	- “One of the oldest and most important empirical programs in cognitive science and linguistics aims to characterize the range of possible human languages. Linguistic universals — if any exist — would point to deep properties of the cognitive mechanisms supporting language; at the same time, the search for possible universals and violations of universals creates rich data for linguistic theory.”
+	- “One of the oldest and most important empirical programs in cognitive science and linguistics aims to characterize the range of possible human languages. Linguistic universals—if any exist—would point to deep properties of the cognitive mechanisms supporting language; at the same time, the search for possible universals and violations of universals creates rich data for linguistic theory.”
 	- Is a language without recursion a counterexample, an exception, or irrelevant to current syntactic theory?
 		- [ ] Greenbergian universals (falsifiable) vs. Chomskyan universals (untestable)
 			- [ ] Chomskyan is falsified, and Greenbergian is irrelevant
 		- [ ] THEORY >> DATA vs. DATA >> THEORY
-	- In the value system of the theory of dark matter here, there are the following values:
+	- In the value system of the theory of dark matter here, there exists following values:
 		1. Understanding particulars is vital and is the first step in developing an etically valid basis for emic science.
-			- Unlike Chomskyan?
+			- Unlike Chomskyan #develop 
 		2. There is no atheoretical research, so be informed.
-			- We are theory-laden!
-			- Unlike Greenbergian?
+			- We are theory-laden
+			- Unlike Greenbergian #develop 
 		3. Using insights from multiple theories can mitigate the counterexample vs. exception quandary.
 		4. Never be too sure.
 		5. The same structure can be a counterexample in one language but a pseudo-exception in another, depending on the “field/matrix” view (or in some cases, the “dynamic” or “wave” view).
-###### 5. 
+###### 5. The Presupposed Dark Matter of Texts
 - _Dark matter in language_
 	- _This chapter takes on the role of dark matter in texts_
-		- _How the implicit, unspoken material of texts contains some of the most important dark matter of culture — knowledge and values in particular — and the individual_
+		- _How the implicit, unspoken material of texts contains some of the most important dark matter of culture—knowledge and values in particular—and the individual_
 - _Texts can be interpreted only against a background of structured knowledge, social roles, and ranked values_
-- _Some diversions on business culture_
 - [ ] **Implicit Values in Texts**
-- [x] **YOU TALK LIKE WHO YOU TALK WITH**
-	- Overt knowledge can be found inside and outside our brains (e.g., Wikipedia), but dark matter is found only within the individual
-		- And this holds universally to all people!
-- [x] **Business Culture**
-- [x] **Implicit Knowledge in Texts**
+- **YOU TALK LIKE WHO YOU TALK WITH**
+	- [[1-1a2a5 Overt knowledge can be found inside and outside our brains (e.g., Wikipedia), but dark matter is found only within the individual |Overt knowledge can be found inside and outside our brains (e.g., Wikipedia), but dark matter is found only within the individual]]
+		- And this holds universally to all people
+- **Some Diversions on Business Culture**
+- **Implicit Knowledge in Texts**
 	- The texts of the _WSJ_ and _NYT_
 		- None of the dark matters are universal
-- [x] **INDEXICALS IN DARK MATTER**
+- **INDEXICALS IN DARK MATTER**
 	- To interpret indexicals, one needs knowledge about the current context of utterance
 		- Indexicals often straddle the boundary between language and culture
 			- E.g., “He said _I_ will do it” — Am _I_ him or me?
 - [ ] **DARK MATTER OF PROCEDURES AND COMPLAINTS**
-- [x] **DARK MATTER CONSTRUCTED BY POPULAR CULTURE**
+- **DARK MATTER CONSTRUCTED BY POPULAR CULTURE**
 	- Popular song lyrics as revealing common dark matter
-###### 6. 
+###### 6. The Dark Matter of Grammar
 - _This chapter examines the architectonic effect of culture on language_
 	- _Syntax, phonology, lexicon, morphology, semantics, and so on_
-		- _Culture ⇒ Language_
+		- *[[1-1a2e4 Cultures precede languages |Culture ⇒ Language]]*
 - [ ] **Symbols and Signs**
 	- Idioms
 		- _Keep tabs on . . ._
 		- _Keep an eye on . . ._
 	- Once constructions are recognized in the theory of grammars, the distinction becomes blurred between the “grammar proper” and the “lexicon”
 		- The rules that generate grammatical forms without regard for meaning ↔ The speaker’s brain-stored dictionary, based on their culturing experiences
-	- Culture’s hand can be found even in the grammar itself — apart from constructions or meaning
+	- Culture’s hand can be found even in the grammar itself—apart from constructions or meaning
 - [ ] **Grammar**
 	- [ ] “Meaning movement”, “generative semantics”, “deep structure”, _Universal base hypothesis_ (UBH)
 	- Sapir: “Speech is a non-instinctive, acquired, ‘cultural’ function.”
 		- That language is significantly shaped by culture
 			- That grammars arise within particular systems of cultural values and that the values and patterns of conversation, telling stories, uttering phrases, and so on, themselves constrain the grammatical structure of a language
-- [x] **REIFICATION OF LINGUISTICS**
+- **REIFICATION OF LINGUISTICS**
 	- _How linguistics led away from its traditional concern with language as partially constructed by culture_
 		- _How the shift occurred with Chomsky’s earliest work_
 	- One cannot understand sentence structures well without understanding the discourses they are embedded in
-		- ChatGPT?
+		- ChatGPT? #develop 
 	- Sentences = Units of interaction
-- [x] **CULTURAL LEARNING**
-	- _That the child learns its culture and other forms of dark matter at least as early as — perhaps even before — it begins to learn its language_
+- **CULTURAL LEARNING**
+	- _That the child learns its culture and other forms of dark matter at least as early as—perhaps even before—it begins to learn its language_
 		- _This non-linguistic learning affects the child in many ways, including its conception of how language is used for communication, a conception that can in turn affect her grammar_
+			- Related: [[10-1b5 We enter the world of language-based learning once we have mastered a language]]
 	- Similar discussion with DM Ch. 3 _Language and Attachment_
 		- Making a blowgun
 			- That differences in dark matter can arise without linguistic guidance
-				- 外山滋比古の言語化の重要性の主張を、非言語の分野に適用した主張
+				- 外山滋比古の言語化の重要性の主張を、非言語の分野に適用した主張 #develop 
 - [ ] **Ethnophonology**
 	- _That even the sound system is architectonically affected by culture (contrary to most linguists’ expectations)_
 	- Two examples in Piraha
 		- Piraha texts reveal cultural values and knowledge, and require a culturally based hermeneutics
-			- Culture and grammar shape each other through their evolved symbiotic relationship
+			- [[10-1b7 Culture and grammar shape each other through their evolved symbiotic relationship |Culture and grammar shape each other through their evolved symbiotic relationship]]
 				- [ ] On evoking hermeneutics, refer to Ch. 4
 - [ ] **CULTURAL CONSTRAINTS ON “CORE GRAMMAR”**
-	- _The overarching cultural value — IMMEDIACY OF EXPERIENCE ⇒ No recursion_
+	- _The overarching cultural value—IMMEDIACY OF EXPERIENCE ⇒ No recursion_
 	- Another example of culture affecting grammar
 		- Piraha’s apparent lack of recursion
 - [ ] **Methodology for Studying the Culture-Grammar Interface**
 	- _A suggested methodology for establishing culture-grammar connections_
-	- _That Piraha is not a unique case and that all languages will show culture-language connections if we look!_
-		- _It is hard to find such connections if we do not look for them!_
+	- _That Piraha is not a unique case and that [[10-1b8 All languages will show culture-language connections if we look for it |all languages will show culture-language connections if we look]]_
+		- _It is hard to find such connections if we do not look for them_
 	- The biggest lacuna in the study of ethnogrammar
-		- The effect of values, especially cultural taboos, in restricting both culture and grammar!
+		- The effect of values, especially [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos) |cultural taboos]], in restricting both culture and grammar
 	- Ethnogrammatical studies are to explain the linkage between _nonlinguistic evidence_ and _noncultural evidence_
 		- To explain how linking the two provides a conceptually and empirically superior account of the facts that leave them unconnected
 	- [ ] “The social instinct”
-		- [ ] Hos is this ‘instinct’ different from “instincts” and “human nature” as used in DM Ch. 9 & 10?
+		- [ ] How is this ‘instinct’ different from “instincts” and “human nature” as used in DM Ch. 9 & 10? #revisit 
 	- COGNITION, CULTURE, AND COMMUNICATION → GRAMMAR
-		- In other words, given human cognitive abilities, cultural/community shared experiences, and the social/interactional instinct, grammar emerges as a solution to the latter problem, facilitated by the first two abilities
-			- ?
-###### 7. 
+		- In other words, given human cognitive abilities, culturally-shared and community-shared experiences, and the social-interactional instinct, grammar emerges as a solution to the latter problem, facilitated by the first two abilities #revisit 
+			- Related: [[10-2e0 Languages are theories. The vocabulary and grammar embody substantial assertions about the world.]]
+			- Related: **[[10-2g1f2c It's as though everything from culture-grammar-symbol-DNA-brain evolved so that high accuracy correspondences were made easier to achieve]]** #develop  
+			- Related: [[4-1a4b5c1 松岡正剛 - われわれは複数の情報生命複合体。意識はそこから突起する文法的な主語のようなもの。]] #develop 
+###### 7. Gestures, Culture, and Homesigns
 - _Gestures have intimate connections with grammar, cognition, and culture_
 	- _Gestures provide no strong evidence of innate dark matter but, on the contrary, show how culture and individual psychology can produce gestures as part of language, just as they do with syntax and other components of human language_
 		- _Culture ⇒ Gestures_
-###### 8. 
-- _Not everything — perhaps not much at all, can be said to be intertranslatable crossculturally or cross-linguistically_
+###### 8. Dark Matter Confrontations in Translation
+- _Not everything—perhaps not much at all, can be said to be intertranslatable crossculturally or cross-linguistically_
 - _A thick description of the culture of the source and the target cultures is essential for translation to take place accurately or effectively_
 - _Quine and radical translation_
-###### 9. 
+###### 9. Beyond Instincts
 - _Apperceptions, values, violable value hierarchies, and knowledge structures of the enveloping culture in conjunction with the idiopsychology of each individual ⇒ Dark matter_
 	- _And this dark matter answers the questions such as:_
 		- _If you give a lecture, how might you know from people’s faces whether they are understanding you?_
@@ -774,7 +790,7 @@
 		- _How do you know what your mother looks like?_
 		- _What does tofu taste like?_
 		- _Why do you say “red, white, and blue” instead of “white, blue, and red”?_
-###### 10. 
+###### 10. Beyond Human Nature
 - _The constructed self_
 - _Will, intelligence, and other components of the self_
 ###### 11. Conclusion
@@ -787,14 +803,15 @@
 - Individual apperceptions + A ranked-value, linguistic-based model of culture ⇒ Human unconscious
 - Culture articulates the unconscious via emicization, learning how and that, value rankings, knowledge structures, and social relations and roles across various groups
 	- What has been most emicized is most deeply unconscious by and large
-		- We have both conscious and unconscious yet the latter is not innately structured
+		- We have both conscious and unconscious yet [[1-1a2a2 The inexplicit and unconscious is also NOT innately structured |the latter is not innately structured]]
 			- Doing, thinking, talking, experiencing ⇒ Interpreting those experiences ⇒ The unconscious
 				- In other words, we must understand the specificity of each culture to understand the dark matter of the individual within?
-- We are flexible
-	- Instincts, human nature ≠> Human behavior, society, and cognition
+- We are [[1-1a2 Our mind is flexible |flexible]]
+	- Instincts, human nature ≠ Human behavior, society, and cognition
 	- Our mental and social experiences ⇒ Our emergent selves
 
 ---
+
 # Everett on other thinkers:
 - [[1-1a2a3 Everett on Freud - No earlier theory made more lively use of the notion of innate, a priori dark matter]]
 - [[1-1a2b Everett on Kant - His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.]]
