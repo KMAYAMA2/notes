@@ -120,12 +120,13 @@
 		- Related: [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - Culture can turn neutral mutations into positive mutations
 	- That is, to explain the evolution of human language one must take cultural knowledge into account
-		- In fact, explanation regarding _any_ evolution must take the role of knowledge into account, because even non-human species’ genes contain knowledge about its environments
+		- In fact, [[10-2f2a Explanation regarding any evolution must take knowledge into account |explanation regarding any evolution must take the role of knowledge into account]], because even non-human species’ genes contain knowledge about its environments 
 			- Deciphering Everett using Deutsch’s framework #revisit 
-- Was the entry of complex sentences into human language have been a mutation?
+- Was the entry of complex sentences into human language a mutation?
 	- Unlikely
 		- Language presents a different case than genes for physical skills #revisit 
 			- What natural selection favored was complex thinking, not complex sentences
+			- I think the sentence here means language per se is not phenotype—but the ability to think complex things is
 - Ability to think complex things ⇒ Ability to talk complex things
 	- Simples sentences ⇒ Stories, Narratives ⇒ Ability to think in complex ways ⇒ Complex sentences (include recursion)
 		- Probably why reading stories is important, especially growing up
@@ -162,9 +163,9 @@
 		- Everett’s definition of culture:
 			- An abstract network shaping and connecting social roles, hierarchically structured knowledge domains and ranked values
 			- Dynamic, shifting, reinterpreted moment by moment
-			- The roles, knowledge and values of culture a re only found in the bodies (the brain is part of the body) and behaviors of its members
+			- The roles, knowledge and values of culture are only found in the bodies (the brain is part of the body) and behaviors of its members
 		- Not all culture contain universal knowledge
-			- But some do (Deutsch’s dynamic society and Popper’s open society)
+			- But some do (e.g., Deutsch’s dynamic society and Popper’s open society)
 - Language changed to fit different cultures
 	- Language, along with cultures, went through evolution process
 - Language ≠ Grammar
@@ -173,7 +174,7 @@
 	- It offers no insights to understand the evolution of language
 	- Language evolution can be explained without mutations
 - “In the absence of evidence, do not assume miracles!”
-	- The absence of evidence ≠ The evidence of absence
+	- [[1-1c6a1c The absence of evidence is not the evidence of absence |The absence of evidence ≠ The evidence of absence]]
 - _Homo erectus_ languages = symbols ordered according to cultural conventions
 	- Symbols and ordering can be vague and ambiguous, hence one must be able to use context and culture to interpret fully what the other said
 - The burden of proof is on _catastrophism_ (Chomsky) and not on _uniformitarian_ (Everett)
@@ -187,32 +188,32 @@
 			- Thinking and communication are dependent upon one another
 - “Ambiguity is expected in a communication system”
 	- The need to keep the necessary memory amount low for efficient communication
-		- Analogous to computation-friendliness in the universe? Or just that communication is computation!
+		- Analogous to computation-friendliness in the universe? Or just that communication is computation? #revisit 
 			- Implies that with better technology and more knowledge, we will be able to communicate better. _It could’ve been expressed otherwise_.
-				- This is a contingency emanating from the infinity. Which is not the same as the super-contingency. Infinity-contingency is rooted in the nature of knowledge (unpredictable). Whereas the super-contingency just says _it could’ve been otherwise_.
+				- This is a contingency emanating from the infinity. Which is not the same as the super-contingency. Infinity-contingency is rooted in the nature of knowledge (unpredictable). Whereas the super-contingency just says _it could’ve been otherwise_. #develop 
 	- Ambiguity is rarely a problem because context usually enables the hearer to pick out the meaning the speaker intended
-		- We are filtering what needs to be said and what doesn’t have to be, subconsciously!
+		- We are filtering what needs to be said and what doesn’t have to be, [[10-2f1b We filter both what needs to be said and what doesn't have to be, either consciously or subconsciously |subconsciously]]
 			- Maybe science is de-contextualizing culture, in other words, science is a discussion within specific culture whose context is the laws of physics and its language mathematics, doing away with the need to explain the relationship between the two (of culture and language). Part of the reason is its universality. The laws of physics applies to all things physical, and it’s constrained to discuss physical things (at least currently)
-			- We are making communication efficient not only combinatorically (by syntax) but also semantically (by using context)
+			- We are making communication efficient [[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context) |not only combinatorically (by syntax) but also semantically (by using context)]]
 				- Syntax is only one side of computational aspect in human communication
-					- Syntax is about making efficient what’s been already filtered - the subconscious already did a job for it (that is, it was made efficient already)
+					- **Syntax is about making efficient what’s been already filtered—the subconscious already did a job for it** (that is, it was made efficient already)
 	- Ambiguity is not inherently problematic for language
 		- Ambiguity is often the result of bad planning
-			- Planning for communication is helpful, but remember that planning (which is complex thinking) doesn’t need complex sentences!
+			- Planning for communication is helpful, but remember that planning (which is complex thinking) doesn’t need complex sentences
 - Language is imperfect
-	- But so does thinking!
+	- But so is thinking
 		- Sometime people think in pictures, not in words
-			- Dreams?
+			- Dreams? #revisit 
 - “English in an abstraction”
 	- But the utterances one hears or the sentences on reads are not abstractions
 		- They are the very concrete, empirical sources of what speakers know, what cultures produce and what people actually do
 			- We must study what they actually say (’performance’) to understand what they know (’competence’)
 				- Ignoring performance is the same as saying that college exams are unnecessary
-					- **We can only figure out what they know by what they do, because we can never directly study what people know**
+					- **[[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking. |We can only figure out what they know by what they do, because we can never directly study what people know]]**
 						- To assert that we can is a common error in thinking
 							- We can only infer knowledge through behavior
 								- Praxeology?
-- Semiotics (signs) progressed along with other socially evolved traits of human cognition (language, culture, communication), fueled by natural selection
+- **Semiotics (signs) progressed along with other socially evolved traits of human cognition (language, culture, communication), fueled by natural selection**
 - [ ] Three hypotheses for the origin of human language
 	- [ ] ‘Grammar Came Last’
 	- [ ] ‘Grammar Came First’
@@ -223,15 +224,15 @@
 - Symbols ⇒ Grammars
 	- Meaning ⇒ Form
 - Indexes ⇒ Icons ⇒ (Culture ⇒) Symbols
-	- Indexes lack arbitrariness and intentionality!
+	- **Indexes lack arbitrariness and intentionality**
 		- Because of physical (necessary) linkage between form and meaning, it lacks universality
 			- Whereas the cultural (arbitrary) linkage increases the number of forms the linkage can take
 		- Intentionality ⇒ Arbitrariness
-	- Icons are intentional resemblances
+	- **Icons are intentional resemblances**
 		- Icons are ‘about’ something
-	- Symbols are both intentional _and_ arbitrary
+	- **Symbols are both intentional _and_ arbitrary**
 - Peirce: One needs the ‘interpretant’ for language to get off the ground
-	- Interpretants = makes it possible to use a sign so as to understand its object
+	- Interpretants = make it possible to use a sign so as to understand its object
 		- Interpretants depend on certain aspects of a sign to work
 			- Size is not part of the interpretant, but the directional orientation is
 				- Big /e/ vs Rotated /e/
@@ -242,14 +243,14 @@
 				- Gene ≠> Language
 			- Language = Semiotic object
 				- Culture ⇒ Language
-					- Language and speech exploited human bodies and brains
+					- **Language and speech exploited human bodies and brains**
 - Icons
 	- Icon-possessors quite possibly grasped a connection between form and meaning
 		- That is, what the icon is a visual representation of
 			- Penis shaped fishbone
 				- What is the significance of such iconic objects for the development of language?
 					- Chomsky: Language is a computational system, as set of structures embellished by local words. Such icons mean nothing.
-					- Everett: Language is about meaning and symbols. Computation is nothing more than an aid to communication. Icons are vital to the reconstruction of the evolution of language.
+					- Everett: Language is about meaning and symbols. [[10-2g2c1d Computation is nothing more than an aid to communication |Computation is nothing more than an aid to communication]]. Icons are vital to the reconstruction of the evolution of language.
 - Art, tools, and symbols
 	- Tools = Symbols
 		- Tools manifest ‘displacement’
@@ -259,7 +260,7 @@
 						- That is, a cultural meaning displaced from the form and meaning of the tool
 							- Tools produce the interpretant
 								- For instance, what matters in axe is the quality of the edge for cutting, and not in color or material
-									- Tools = Not entirely arbitrary but still sufficiently arbitrary to count as symbol
+									- **Tools = Not entirely arbitrary but still sufficiently arbitrary to count as symbol**
 										- Tools = Early symbols ?
 - Tool complexity ≠> Linguistic complexity
 	- Remember, complex thinking doesn’t need complex language
@@ -275,49 +276,48 @@
 					- _Erectus_ then developed the more advanced Levallois technique (500K years ago)
 						- Tools spread with communication, if not in explicit instruction or linguistically, then in the revelation of the tools themselves
 							- They were able to emulate
-								- That is, they already possessed creativity!
-									- At least within one’s mind were they capable of doing this
+								- That is, they already possessed creativity
+									- At least within one’s mind they were capable of doing this
 - Speaking was not absolutely required for making the tools
 	- However, advanced communication was almost necessary
 		- _Erectus_ was capable of sophisticated communication (G1 language) is also supported by their travels
 - Venus of Berekhat Ram (250K years ago)
 	- The oldest extant work of art, either because it is carved from scratch or because it is a human-modified natural formation
-		- That is, it is intentionality instantiated!
+		- That is, it is intentionality instantiated
 - Index/Icon ⇒ Symbol
 	- “A relative baby step in conceptual development, though huge in language evolution”
 		- Icons ⇒ more arbitrary ⇒ Symbols
 			- E.g., the Egyptian hieroglyphics and the Chinese writing system
 - Closer to reality (this is just my musing and really shouldn’t be put here)
 	- Science
-		- Theory + new theory + newer theory . . . ⇒ Reality
+		- Theory + new theory + newer theory . . . ⇒ Reality (from [[David Deutsch]])
 	- Language
 		- Misperceptions + Icons + Symbols . . . ⇒ Reality ?
-			- Each instances are more arbitrary than the previous instance, but that allows us to articulate things more objectively, because reality has to do with the abstract?
+			- Each instances are more arbitrary than the previous instance, but that allows us to articulate things more objectively, because reality has to do with the abstract? #develop 
 - How do symbols arise?
 	1. Within minds by error-correction
 		- Misperceptions ⇒ Icons ⇒ Symbols
 	2. From adaptation of the natural to the conventional in culture
 	3. In tracking social relationships
 - Everett: The question of how symbols arise must address what culture is, because
-	
 	1. Culture ⇒ Status
 	2. Culture ⇒ Language
-	
 	- “Linguistic and status symbols are conceptual kin”
 		- What’s crucial is arbitrariness and intentionality
 - Resemblance ⇒ Intentionally arbitrary symbol
 	- More arbitrary = The interpretant becoming more and more abstract?
 		- Everett: It’s likely that the same happened in spoken systems
 - **Peirce’s ‘infinite semiosis’**
-	- **Symbols are constructed of other symbols**
-	- **There is no limit to the number of symbols available to humans for languages**
-	- **There is no beginning or end to symbols and signs**
-		- _Peirce anticipated both Levinson and Silverstein, however, in proposing that symbols are constructed of other symbols. In Peirce’s writings, the phrase ‘infinite semiosis’ means that there is no limit to the number of symbols available to humans for languages. This in turn is based on the view that signs are multifunctional. Each sign determines an interpretant, but an interpretant is also a sign, so every sign embodies a second sign. This is a kind of conceptual recursion, concepts within concepts, and represents a huge step forward in human communication. It means that a string of signs always contains other signs. According to Peirce, this can be understood when we see infinity even in a simple sequence like:_
+	- **[[3-1c2e5 Symbols are constructed of other symbols |Symbols are constructed of other symbols]]**
+	- **[[3-1c2e4 There is no limit to the number of symbols available to humans for languages |There is no limit to the number of symbols available to humans for languages]]**
+	- **[[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive' |There is no beginning or end to symbols and signs]]**
+		- _Peirce anticipated both Levinson and Silverstein, however, in proposing that symbols are constructed of other symbols. In Peirce’s writings, the phrase ‘infinite semiosis’ means that there is no limit to the number of symbols available to humans for languages. This in turn is based on the view that signs are multifunctional. Each sign determines an interpretant, but an interpretant is also a sign, so every sign embodies a second sign. **This is a kind of conceptual recursion, concepts within concepts, and represents a huge step forward in human communication**. It means that a string of signs always contains other signs. According to Peirce, this can be understood when we see infinity even in a simple sequence like:_
 			- _Sign1/Interpretant1 → Sign2/Interpretant2 … → Sign n_
-		- _This representation looks finite until we realise that Sign n cannot be the end because if it lacks an interpretant it is not a sign. Likewise, Sign1 cannot really be the beginning, because by definition it is connected to an interpretant of an earlier sign. So there is no beginning or end to symbols and signs. The process that creates them is infinite because it is recursive. Any random sign is always partially composed from another sign._
+			- The ability to use symbols means the ability to deal with infinity #develop 
+		- _This representation looks finite until we realize that Sign n cannot be the end because if it lacks an interpretant it is not a sign. Likewise, Sign1 cannot really be the beginning, because by definition it is connected to an interpretant of an earlier sign. So there is no beginning or end to symbols and signs. The process that creates them is infinite because it is recursive. Any random sign is always partially composed from another sign._
 			- Is the implication of this is that, as long as you use symbols, that means you are using recursivity, even if your language doesn’t have recursive syntax?
 - “Language as a whole is greater than the sum of its parts”
-	- Because it refers to what’s yet to be explicated?
+	- Because it refers to what’s yet to be explicated? #develop 
 - The brain ↔ Symbols
 	- “All of human invention and language is underwritten, shaped and enhanced by the human brain. And, in fair play, language paid its debt to the brain by helping the brain become more intelligent, placing cultural and sexual selectional pressures on humans to communicate better.”
 ###### 5. Better Brain
@@ -417,9 +417,10 @@
 	- In European societies this means the dualism of Descartes and the mind-as-computer idea of Alan Turing represent the core of cognition
 - [ ] Repercussion with DM #revisit 
 	- Brains ≠ Computers
-		- Beliefs are states which occur when bodies (including brains) are directed towards something
+		- Beliefs are states which occur when bodies (including brains) are directed towards something #revisit 
 			- Intentionality
 				- The individual engaging in language and culture ⇒ Beliefs
+			- Related: [[9-2b3b2 We have meaning because we are free]] #develop 
 	- How is one to characterize tools culturally?
 		- Language is the most important non-physical tool
 			- Culture itself is a tool #revisit 
