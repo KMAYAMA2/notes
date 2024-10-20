@@ -13,24 +13,29 @@
 - Language is the most advanced form of communication
 - _Erectus_ invented symbols, language, and culture
 	- Pillars of human cognition
-- Language — not communication — is the dividing line between humans and other animals
+- **Language—not communication—is the dividing line between humans and other animals**
+	- Related: [[意識は推論そのもの]]
 - Culture ⇒ Culturally invented symbols ⇒ Language
+	- Viz., *Other animals don’t have cultures* #develop 
 - Language is an invention
 	- Human communities _created_ symbols, grammar and language where there had been none before
+		- Related: [[1-2g2e What science and creative thought in general achieves is unpredictable creation out of nothing. That is, creation of knowledge. And so is biological evolution (i.e., life).]] #develop 
 	- What is an invention?
 		- It is a _creation of culture_
 			- “No one person invents anything. Everyone is part of a culture and part of each other’s creativity, ideas, earlier attempts and the general world of knowledge in which they live. Every invention is built up over time, bit by bit. Language is no exception.”
-				- In other words, culture invents things - but wasn’t Everett claiming in DM that the only individuals learn?
-					- Maybe culture is how individual learning gets transferred and used — the unpredictability, the inevitability of implicit-ness slipping through a grasp of individual ‘inventors’?
+				- In other words, culture invents things—but wasn’t Everett claiming in ***DM*** that the only individuals learn? #revisit 
+					- Maybe culture is how individual learning gets transferred and used—the unpredictability, the inevitability of implicit-ness slipping through a grasp of individual ‘inventors’? #revisit 
 ###### 0. Intro
 - Conversations are ‘underdeterminant’
 	- That is, language can only say less than what is intended to be communicated and leaves the unspoken assumptions to be figured out by the listener
 		- “Underdetermined by the words, it is implicit in the context”
 - Languages shall improve infinitely to better fit our cognitive and perceptual limitations
 	- But it will always be at the beginning of infinity, in the sense of being whole with the mind
+		- Related: [[10-2e Languages are theories about the world and enmeshed in assumptions.]]
+		- Related: [[5-1b1a2c0 No theory can exhaust reality]]
 - Language assumes shared knowledge
 	- That the hearers could ‘fill in the gaps’
-- You have to look at the whole of conversations
+- You have to [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos) |look at the whole of conversations]]
 	- Chomsky’s UG approach is reductionistic
 		- Syntax is secondary to conversation
 	- Understanding the whole of conversations ⇒ Understanding the origins of human language
@@ -39,37 +44,45 @@
 	- Culture ⇒ Language
 - Symbols ⇒ Language
 	- Humans invented symbols
+		- Life invented humans #develop 
 - The _sign progression_ theory of language origin
-	- Indexes ⇒ Icons ⇒ Symbols
+	- **Indexes ⇒ Icons ⇒ Symbols**
 - Words < Phrases < Sentences < Paragraphs < Stories
 	- Recursive
 - No ‘sudden leap’ to the uniquely human features of language
-	- No ‘jump to universality’ at least in the cognitive and cultural evolution?
-		- But there was some ‘jump to universality’ when humans invented language?
-			- How does this compare with Deutsch’s emphasis on ‘the jump to universality’?
+	- No ‘jump to universality’ at least in the cognitive and cultural evolution? #develop 
+		- But there was some ‘jump to universality’ when humans invented language? #develop 
+			- How does this compare with [[David Deutsch |Deutsch]]’s emphasis on ‘the jump to universality’? #develop 
+				- Related: [[10-2d1c Evolution achieved that jump to universality with the DNA genetic code]], but [[We do not yet understand the nature of the universality of the DNA replication system]] #develop 
 - Several unique perspectives that mark the path of the evolution of language
 	1. Animal communication ⇒ Human language
 		- Communication = Transference of information
 			- “Language is much more than information transfer, though.”
-	2. Biological ↔ Cultural
-		- How did biology and culture affect language evolution?
+				- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+				- Related: [[2-1a4a Sometimes the best information is the least transmissible.]]
+				- Compare this with Chiara Marletto’s ***The Science of Can and Can’t*** #revisit 
+	2. Biological ↔ Cultural #revisit 
+		- How did biology and culture affect language evolution? #revisit 
 	3. The first human languages
 		- What does the diversity of modern languages reveal?
 - “_Erectus_ might have been in possession of language yet nevertheless valued taciturnity.”
 ###### 1. Rise
 - Scientists _evaluate_ theories, rejecting ones with _excess_ reasonable doubt
-	- You don’t have to know everything. You just have to choose less crap, as it were!
+	- You don’t have to know everything. 
+		- You just have to choose [[AN3C - People don’t want better, they want less crap |less crap]], as it were
 - Humans are the apex predators of all time of this planet
 	- Why?
 		- Because we talk to each other
 			- We can plan. We can share knowledge. We can leave knowledge for future generations.
+				- Related: [[10-2g1e What sets humans apart is our ability to accumulate knowledge by means of language]]
+				- Related: [[1-2g2b Humans are significant insofar as we can create knowledge]]
 - Language is a gestalt
-	- Its whole is greater than the sum of tis parts
-		- Just like communication the whole and language only part of it
+	- [[1-1a4c2 The whole is greater than the sum of its parts |The whole is greater than the sum of its parts]]
+		- Just like how the communication is the whole and the language is only a part of it
 			- Chomsky’s UG approach is really a subpart (syntax) of a subpart (language) of the whole (communication system)
 - Cultures ⇒ Language
 	- But Language ⇒ Communities, Cultures, and Societies
-- Peirce’s semiotics
+- **Peirce’s semiotics**
 	- Sign = any pairing of a form with a meaning
 		1. Index = LINK
 		2. Icon = RESEMBLANCE
@@ -80,63 +93,67 @@
 			- “Symbols are the original social contract.”
 			- Not all symbols contain knowledge
 - Evolution ⇒ Humans ⇒ Symbols
+	- Again, life invented humans
 - The ‘Watchmaker’ theory
 	- No person can make a watch
 		- A watch is the output of a culture, not a designer
-- “Evolution is a well-established _fact_. Only the explanations of how evolution happens or looks – natural selection, genetic processes and family trees – can be called theories. But evolution itself is not a theory. In order to understand the origin of language, the origin of life more generally must be considered in order to frame the discussion. And that requires evolution.”
+- “Evolution is a well-established _fact_. Only the explanations of how evolution happens or looks—natural selection, genetic processes and family trees—can be called theories. **But evolution itself is not a theory.** In order to understand the origin of language, the origin of life more generally must be considered in order to frame the discussion. And that requires evolution.” #revisit 
+	- Related: [[1-2g2n The Turing principle is an apparent fact, and we are trying to explain that fact, to place it within the same framework as other facts we know |”The Turing principle is an apparent fact, and we are trying to explain that fact, to place it within the same framework as other facts we know”]] – [[David Deutsch]]
 - Genomes = the sum of various DNA and RNA and their combinations
-	- Humans are distinguished because of the _syntax_ of their DNA
+	- Humans are distinguished because of the _[[10-2d1d Humans are distinguished because of the syntax of their DNA (genomes) |syntax]]_ of their DNA
 		- Are the building blocks the same with other life forms?
 - “Humans enjoy a privilege unique among all other life forms that enables them to contemplate their origin. And yet, all human perspectives are culturally shaped. Therefore, along with superior mental powers, cultures not only guide humans’ understanding of the world but also define what is worth looking at. Culture constrains how humans justify their reasoning. Science emerges from and is shaped by the values of culture, different social roles and the knowledge structures that have been sanctioned by society (that is, what knowledge is and how different components of our knowledge are related to one another).”
-	- Culture is an implicit theory for its members
-		- Science emerged from culture
+	- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world. |Culture is an implicit theory for its members]]
+		- [[10-2g1a Science emerged from culture |Science emerged from culture]]
 			- In what way does science differ from other cultures?
 - Many primates are broken down into genera according to the shape or conditions of their noses
 	- Isn’t this itself quite arbitrary?
 - On Darwin’s theory of evolution
 	- Three postulates
 		1. The ability of a population to expand is infinite in principle, though the ability of an environment to support a population is always finite.
-			- There’s something here that reminds me of how knowledge must be instantiated by physical mediums!
+			- There’s something here that reminds me of how knowledge must be instantiated by physical mediums
 		2. There is variation within every population.
 		3. Parents pass their variation along to their offspring.
 - Phenotypes / Genotypes
 	- Natural selection can only operate on physical attributes (phenotypes), and not on the knowledge bearing entity behind it (genotypes)
 		- Does this give some credence to Mises’ praxeology, namely his focus on human actions?
+		- Related: [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - Culture can turn neutral mutations into positive mutations
 	- That is, to explain the evolution of human language one must take cultural knowledge into account
 		- In fact, explanation regarding _any_ evolution must take the role of knowledge into account, because even non-human species’ genes contain knowledge about its environments
-			- Deciphering Everett using Deutsch’s framework
-- Was the entry complex sentences into human language have been a mutation?
+			- Deciphering Everett using Deutsch’s framework #revisit 
+- Was the entry of complex sentences into human language have been a mutation?
 	- Unlikely
-		- Language presents a different case than genes for physical skills
+		- Language presents a different case than genes for physical skills #revisit 
 			- What natural selection favored was complex thinking, not complex sentences
-- Ability of complex thinking ⇒ Ability to talk complex things
+- Ability to think complex things ⇒ Ability to talk complex things
 	- Simples sentences ⇒ Stories, Narratives ⇒ Ability to think in complex ways ⇒ Complex sentences (include recursion)
 		- Probably why reading stories is important, especially growing up
 	- Complex sentences ≠> Complex thinking
 	- Complex thinking ⇒ Complex sentences
-		- But complex thinking doesn’t necessarily bring about complex sentences!
+		- But complex thinking doesn’t necessarily bring about complex sentences
 - Natural selection targeted a gene for complex thinking
 	- A gene for syntax (complex sentences) was ‘junk’ portion, as it were
 - Everett: You can have a language with only simple sentences, but it doesn’t mean they can’t think in complex ways.
-- Ability to think recursively ⇒ Categorizing tasks into sub-tasks
+- [[1-1a1a1 Ability to think recursively allows such thing as categorization of tasks into sub-tasks. Recursion is a property of thought (and not language per se). |Ability to think recursively ⇒ Categorizing tasks into sub-tasks]]
 	- What is needed is a gene for recursive thinking, not a gene for recursive syntax
-	- Recursion is a property of thought, not language per se
+	- **Recursion is a property of thought, not language per se**
 - [ ] Then it touches on the implication of this, as well as on ‘population genetics’, and how having the same or similar phenotypes doesn’t mean they have the same genotype
 	- [ ] Is this just showcasing how genes’ function (phenotype), namely its knowledge about the niche environment where they prove its fitness, can be only assessed after the fact?
-		- If the laws of physics are the same across the multiverse, only the same genotype should permeate across universes which are largely similar with each other
+		- If the laws of physics are the same across the multiverse, only the same genotype should permeate across universes which are largely similar with each other #revisit 
 ###### 2. Fossil Hunters
 - _The genus_ Homo _arose in Mother Africa_
 - “Language works only because people believe other people think enough like they do to understand what they want to tell them.”
 	- The same with money #develop 
+		- I.e., Keynesian beauty contest
 ###### 3. Depart
-- “**Culture entails symbolic reasoning and projecting meaning on to the world, meaning that is not about things as they are, but as they are interpreted, used and perceived by members of the community that uses them. Culture transforms ‘things’ into symbols and meaning.** And if _erectus_ had symbols, it had language.”
+- “**Culture entails symbolic reasoning and projecting meaning on to the world, meaning that is not about things as they are, but as they are interpreted, used and perceived by members of the community that uses them. [[Culture transforms ‘things’ into symbols and meaning]].** And if _erectus_ had symbols, it had language.”
 ###### 4. Everyone Speaks Languages of Signs
 - _The nature of human language in more detail_
 - Human invention + Physical and cognitive evolution ⇒ Language
 	- Icons ⇒ Symbols ⇒ Language
-- All creatures use indexes
-	- Icons by fewer creatures
+- **All creatures use indexes**
+	- Icons by fewer creatures #revisit 
 		- Symbols only humans
 - “Language works fine when it is underdetermined”
 	- That context is crucial
@@ -303,18 +320,19 @@
 	- Because it refers to what’s yet to be explicated?
 - The brain ↔ Symbols
 	- “All of human invention and language is underwritten, shaped and enhanced by the human brain. And, in fair play, language paid its debt to the brain by helping the brain become more intelligent, placing cultural and sexual selectional pressures on humans to communicate better.”
-
 ###### 5. Better Brain
 - _How the brain evolved in general terms_
 - There has been no clear evidence for evolution in _Homo_ brain size since _sapiens_ left Africa
 	- Why no significant change in the brain for 200k years?
 	- Was the intense innovation of _sapiens_ the result of language?
 	- Did _Homo sapiens_ have better language skills and therefore greater cultural accomplishments?
-- The answer is complicated
+- The answer is complicated #revisit 
+	- Related: [[4-1a4b8c When you outsource your thinking, you can reap the benefits of multitasking without any downsides.]] #develop 
 ###### 6. Brain Makes Language Possible
 - _What are the_ specific _features of the human brain that underwrite our language ability? And are these features unique to language or do they serve other roles beyond language?_
 	- _Language is a cultural artefact_
-		- _No heritable language-specific disorders implies the non-compartmentalised theory of the brain_
+		- _[[1-1a2e1 Nothing in the body is dedicated to language. Gene ≠ Language. Culture ⇒ Language. |No heritable language-specific disorders implies the non-compartmentalised theory of the brain]]_
+			- Viz., nothing in the body is dedicated to language
 			- Related: Jeff Hawkins’ ***A Thousand Brains***
 - _On Broca’s area (an area of the brain often identified with language)_
 ###### 7. Brain Goes Wrong
@@ -352,18 +370,17 @@
 - Human language ≠ A computer code
 	- Grammar ≠ Meaning
 		- Culture, grammar, and meaning each imply the others
-			- Culture = Inexplicable framework/theory ???
+			- Culture = Inexplicable framework/theory ??? #revisit 
 				- “Understanding the nature and role of culture in human behaviour, language and thinking is essential for comprehending the evolution of human language.”
 - Structured knowledge = Lists _and_ [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together. |how things on the lists relate to one another]]
 - A common symbol, slogans, chants, anthems, phrases
-	- The group proclamation becomes individuals’ value ⇒ The social and the individual become linked ⇒ Culture ⇒ Words take on new meanings, or new words with new meanings are born (because languages are arbitrary in nature)
+	- The group proclamation becomes individuals’ value ⇒ The social and the individual become linked ⇒ Culture ⇒ Words take on new meanings, or new words with new meanings are born (*because languages are arbitrary in nature*)
 - I think there is some aspect of how culture defines what should remain unsaid
 	- All the more difficult because you can’t really extrapolate what’s been said, unless you understand the culture behind
 		- But to understand the culture behind you have to be one of them
 			- But there’s no way you can assume completely the same background as the counterpart
-				- Culture can be a text? #develop 
 - We also eat like who we eat with, think like those we think with
-	- Maybe an argument for why we should spend time with those whom you want to be like
+	- Maybe an argument for why we should [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most |spend time with those whom you want to be like]]
 		- How Pirahas’ body dimensions are constant
 			- ‘Grow like who you grow with’
 				- Genotype ≠ Phenotype
@@ -385,10 +402,11 @@
 - Parisians vs Houstonians example
 	- They have the same values, but their relative ranking makes the difference
 		- Not components per se, but configuration
+			- Related: [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 - ‘Grammar of society’
 	- Kenneth Pike: The principles of human grammars are the organizing principles as well for ‘grammars of culture’
 - Society and culture are connected and constructed in grammar-like ways in their local contexts, groupings and actions
-	- Society and culture are more than merely grammars, of course
+	- Society and culture are more than mere grammars, of course
 	- One may conceive of all the individuals of a society as ‘fillers’ for slots in a culture-grammar
 - The students-professor example
 	- The students, as well as the professor, are the object—not the subject
@@ -397,18 +415,20 @@
 		- Each participant possesses a separate interpretation of their joint activity
 - Everett: Perceptions and the range of thought are shaped significantly by a cultural network
 	- In European societies this means the dualism of Descartes and the mind-as-computer idea of Alan Turing represent the core of cognition
-- [ ] Repercussion with DM
+- [ ] Repercussion with DM #revisit 
 	- Brains ≠ Computers
 		- Beliefs are states which occur when bodies (including brains) are directed towards something
 			- Intentionality
 				- The individual engaging in language and culture ⇒ Beliefs
 	- How is one to characterize tools culturally?
 		- Language is the most important non-physical tool
-			- Culture itself is a tool
-				- ?????
+			- Culture itself is a tool #revisit 
 	- Stories
 		- People talk about what they assume their interlocutor does not know (but has the necessary background knowledge to understand)
+			- Related: [[1-1a5a2 Good writing happens at the edge of explicit-inexplicit or explicit-unconscious — that is, via surprises.]]
 	- Almost all non-human animal knowledge is dark matter
+		- **Animals don’t explicate**
+			- **Animals don’t explain** #develop 
 ###### 13. Conclusion
 - [[10-2g2 Culture invents symbols, and the core of language is the symbol |The core of language is the symbol]]
 	- Social values, social knowledge, social structures ⇒ symbol
@@ -420,14 +440,17 @@
 - Talking about the differences between Pirahas and himself
 	- “Memes and ideas alone are unable to account for these differences for the simple reason that not all of these or other differences are able to be made explicit; not all of the differences I encountered are reducible to propositions; and many of the differences are negative, rather than positive—learning what not to do, rather than what to do.”
 		- Infinitely many
-- The conclusion of this book = the Buddhist notion of _anatman_
+			- Related: [[1-2g2j1c The accuracy of an image generator’s rendering can in principle be experienced, measured and certified by the user, but the accuracy of a virtual-reality rendering never can be. Image is what can be seen, the program is the unseen.]] #develop 
+- The conclusion of this book = the Buddhist notion of _[[1-2g1c3a Humans have no nature and no self apart from the experiences they have united in their memories (the Buddhist notion of anatman - 'no self') |anatman]]_
 	- Humans have no nature and no self apart from the experiences they have united in their memories
 - Minds do not experience and do not know, and minds are not the repositories of tacit information
 	- Individuals are
-		- “Minds do not learn. Brains do not learn. Societies do not learn. Cultures do not learn. Only individuals learn. And what individuals learn is largely in the form of a culturally articulated dark matter. Brains are part of our bodies, so they play a role in the entire body’s ability to learn. It is the body that learns in this sense.”
-- Joel Gold: The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe
-- Apperceptions = The ways by which we process, makes sense of, and assimilate our experiences
+		- “Minds do not learn. Brains do not learn. Societies do not learn. Cultures do not learn. Only individuals learn. And what individuals learn is largely in the form of a culturally articulated dark matter. Brains are part of our bodies, so they play a role in the entire body’s ability to learn. [[10-1b1 It is the body that learns - '考えるな. 感じろ.' |It is the body that learns]] in this sense.”
+			- Related: [[4-1a4b8a Your mind is not a bucket]]
+- Joel Gold: [[1-1a1b1 Joel Gold - The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe |The conscious mind is only a small fraction of the mental world]] much like the visible aspect of the universe
+- [[1-1a2e7a Apperceptions = The ways by which we process, make sense of, and assimilate our experiences |Apperceptions]] = The ways by which we process, makes sense of, and assimilate our experiences
 - The dark matter ≠ Tacit knowledge
+	- **The dark matter precedes tacit knowledge**
 - Pike’s _emicization_
 	- The _emic_ vs. _etic_
 		- _Etic_: outsider
@@ -435,72 +458,73 @@
 		- _Emic_: insider
 			- The emic approach = ‘Culturally specific, applied to one language or culture at a time’
 - Being a member of particular social groups (families, tribes, societies, nations) ⇒ Its implicit knowledge and apperception ⇒ Our actions, beliefs, desires, values . . . the self
-	- Dark matter is multilayered, differentially manifested, and variously derived from the experiences of living
+	- [[1-1a2e6a The dark matter of mind is multilayered, differentially manifested, and variously derived from the experiences of living |Dark matter is multilayered, differentially manifested, and variously derived from the experiences of living]]
 - Cultures ↔ Individuals
 	- _How different would we be?_
 		- Everett: We are more different than we are alike
-- The mind ≠ A computer
+- [[10-2g1f2a4 The mind ≠ A computer |The mind ≠ A computer]]
 	- The mind = A part of a larger culture
 		- The mind is formed in the context of particular individuals situated in particular cultures
 			- We can’t do away with the particularity ( | physicality | contingency)
-	- _Mind_ ≠> _Culture_
-	- “Emotions, muscles, hormones, even bacteria and the body — that is, _the individual_ (if one believes as I do that there is nothing to an individual but one’s body) — are the portals to reasoning and cognition.”
-		- _Culture_ ⇒ _Mind_
-	- Computer software doesn’t grow biologically from its hardware
+	- **_Mind_ ≠> _Culture_**
+	- “Emotions, muscles, hormones, even bacteria and the body—that is, _the individual_ (if one believes as I do that there is nothing to an individual but one’s body)—are the portals to reasoning and cognition.”
+		- **_Culture_ ⇒ _Mind_**
+	- Computer software doesn’t grow biologically from its hardware #revisit 
 	- Nor do computers possess emotions
-	- The mind is shaped by its environment even when it is not attending to its environment per se, an ability beyond any current computer
+	- The mind is shaped by its environment even when it is not attending to its environment per se, an ability beyond any current computer #revisit 
 - Nativism = Humans share some knowledge because it is programmed into all of us innately
 	- Everett: It is possible that both learned and innate forms of tacit knowledge are crucially implicated in human cognition and behavior
-		- The question is not about against nativism per se (_a false dichotomy_) but in a continuum of possibilities - where do the most important or even the most overlooked contributions to knowledge come from?
-			- Everett is concerned with difference rather than sameness
+		- The question is not about against nativism per se (_a false dichotomy_) but in a continuum of possibilities—where do the most important or even the most overlooked contributions to knowledge come from?
+			- *Everett is concerned with difference rather than sameness*
 				- Because the variability in dark matter is fundamental to human survival, arising from and sustaining our species’ ecological diversity
-					- Variable dark matter ⇒ Variable “human natures”
+					- [[1-1a2a1 Human nature is variable (Cultures ⇒ Flexible human brains ⇒ Variable dark matters ⇒ Variable 'human natures' ⇒ Cultures . . .) |Variable dark matter ⇒ Variable “human natures”]]
 - The concept-apperception continuum
 	- Concepts can always be made explicit
 	- Apperceptions less so
 		- Because often it’s ineffable
 	- Culture, Personal History, Physiology ⇒ Conceptual knowledge _and_ Apperception ⇒ The individual psyche and body
-- Cultures ⇒ [Flexible human brain] ⇒ Variable dark matter
+- Cultures ⇒ Flexible human brain ⇒ Variable dark matter
 	- Instincts ≠ Flexible
 		- Humans adapt in the sense of solving problems, then _teach_ the solutions and _reflect_ on them
 			- Cultures are vital to this human adaptational flexibility
 				- The question ≠ _What’s in the brain?_
-				- The question = _What’s the brain in?_
+				- The question = _[[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain |What’s the brain in?]]_
 					- That is, _in what individual, residing in what culture does this particular brain reside?_
 - Aristotelian view
 	- Aristotle’s tabula rasa view is closer to reality when we consider the question, _what’s left in the mind/brain when culture is removed?_
 		- Aristotle, Sapir, Locke, Hume > Plato, Bastian, Freud, Chomsky, Tooby, Pinker
-- “Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other.
+- “Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that [[10-2g1f2a Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other |neither supervenes on the other]].”
 - Polanyi’s tacit knowledge
 	- Polanyi: Focused on subroutines of intentional act of an individual
 	- Everett: Focuses on dark cultural matter which is embodied in individual but also serving as the unseen connective force between members of a given society
-		- Not only within but also between them, as it were!
+		- Not only within an individual but also in between them
+			- Related: [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
 - Cultural knowledge
 	- Externals: Epistemologically and ontologically objective
 	- Internals: Ontologically subjective (interpretations)
 		- But we can _explain_ our internals and subsequent actions (which is external), as how our interpretations were formed, that is, in relation with his or her culture
-- Self = A memory of _skandhas_
+			- Related: [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]] #develop 
+- Self = A memory of _[[1-2g1c3b Self = A memory of skandhas (form, sensation, perception, mental formations, and consciousness) |skandhas]]_
 	- In Buddhism there is _anatman_, “no-self,” meaning that there is no essence of an individual human, just the set of experiences they pass through, their apperceptive histories (or in Buddhist terms, the _skandhas_: form, sensation, perception, mental formations, and consciousness).
 		- How we come to have taste experiences and how these ultimately give us our sense of what we like to eat, contributing to our very sense of “self” and personality illustrates Everett’s point
 			- Buddhism = Everett = Hume
-				- Self = A sequence of experiences
+				- [[1-2g1c3c Self = A sequence of experiences ('recursive definition of the self') |Self = A sequence of experiences]]
 					- “A recursive definition of the self”
-- Culture ↔ Language
+- **[[10-2g4 Cultures and languages are reflexive |Culture ↔ Language]]**
 	- Although the following view is dominant:
-		- Language ⇒ Culture
-- Pike: “Regardless of how much training one has . . . emic units of a language must be determined during the analysis of that language; _they must be discovered, not predicted_ [emphasis by Everett] — even though the range of kinds of components of language has restrictions placed upon it by the physiology of the human organism”
-	- This somehow reminded me of Peirce’s interpretants. The nature of emic units of a language, namely its unpredictability, which I think is the equivalent to _that which cannot be explicitly stated_, originates from the nature of symbols - that is, it’s infinitely contingent.
-		- ?
+		- **Language ⇒ Culture**
+- Pike: “Regardless of how much training one has . . . emic units of a language must be determined during the analysis of that language; _they must be discovered, not predicted_ (emphasis by Everett)—even though the range of kinds of components of language has restrictions placed upon it by the physiology of the human organism”
+	- This somehow reminded me of Peirce’s *[[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground |interpretants]]*. The nature of emic units of a language, namely its unpredictability, which I think is the equivalent to _that which cannot be explicitly stated_, originates from the nature of symbols—that is, it’s infinitely contingent. #develop 
 - _Emicization_
 	- Aggregated apperceptions (personal interpretations of experiences) ⇒ The “dark matter” ( | emic | the construction of an insider point of view) ⇒ Our language, culture, and self
 		- Emicization = The construction of an insider point of view (the “dark matter”)
 			- Dark matter is unique to individual
 				- As culture is unique for the group possessing it
+					- Related: [[9-2b3a There is no universal culture, because culture is contingency (文化 = 上澄み)]]
 - Culture = What we know, our values, and the systematicization of our values, knowledge, and apperceptions _as members of a given society_
 	- “Not merely all our knowledge. Rather, it is the _arrangement of our knowledge and values and roles_.”
 - “Personal nexus” (constructed self) ≠ “Human nature”
-	- “There is no human nature if by this we mean a kind of a priori knowledge common to all and only humans”
-
+	- “[[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans |There is no human nature if by this we mean a kind of a priori knowledge common to all and only humans]]”
 ###### 1. The Nature and Pedigree of Dark Matter
 - _There is no clear dividing line between knowledge-how vs. knowledge-that_
 - Humans are designed to be flexible
@@ -509,56 +533,58 @@
 		- The question = “What’s the brain in (culture/society/environment)?”
 - Our minds and cultures are constructed symbiotically
 	- Minds ↔ Cultures
-		- The flexibility of humans are found particularly in the tacit knowledge
+		- [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge |The flexibility of humans are found particularly in the tacit knowledge]]
 - Human cognition and behavior are not law-like
 	- We are not doing physics
 	- We do not expect exceptionless laws
-	- Understanding is often list-like and descriptive
-		- Rather than abstract and general
-- Culture ← [”Emicization”] → Individual psychology
+	- **Understanding is often list-like and descriptive**
+		- *Rather than abstract and general*
+			> “[[9-2b3g Edward Sapir - 'The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined.' |The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined.]]” – Edward Sapir
+- Culture ← _[[10-1b2a Emicization = The construction of an insider point of view (the 'dark matter') |Emicization]]_ → Individual psychology
 	- Emicization = The interaction between culture and individual psychology
 - The case against knowing-how and knowing-that distinction
 	- A robot riding a bike (algorithm) ≠ A conscious being riding a bike
-	- “It may not be possible to reduce knowing-how to knowing-that.”
-		- It may just be a distinction without a difference, simply a reflection of what we are able to describe rather than any meaningful distinction in the individual
+	- “It may not be possible to reduce knowing-how to knowing-that.” #revisit 
+		- *It may just be a distinction without a difference, simply a reflection of what we are able to describe rather than any meaningful distinction in the individual*
 - Knowledge as particle, wave, and field
 	- Particles - Understood positively and negatively, by what they _are_ and what they are _not_
 	- Wave - Reveals details about the particles that cannot be seen in isolation
 	- A field - How is it _slotted_?
-- “Some forms of knowing, such as phonology, are at once knowing-how and knowing-that, an ability that embodies dynamic and static cognition
-- **THE PLATONIC TRADITION OF INNATE KNOWLEDGE**
-	- Plato - Ideas are invariant in heaven, they are timeless, pure, and free from contamination by the body and the world
-		- Deutsch - We will always in the virtual-reality, we can be more timeless, more pure, more free, but never timeless, pure, and free in itself
-	- Descartes - Dualism (led to the misguided view of the mind as software running on a physical hardware) and ignored nonhuman animals (”linguaformal” models of knowledge and cognition)
-		- Everett - Dualism is one of the worst error ever introduced into philosophy, and Descartes simply ignored evolution
-	- Kant - Categories (_innate_ a priori concepts, pre-installed concepts, with which our mind interpret the world) and that the mind is the locus of learning
-		- Everett - Kant’s philosophy suffers from a lack of understanding of culture, physiology, psychology, and linguistics. His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.
+- “Some forms of knowing, such as phonology, are at once knowing-how and knowing-that, an ability that embodies dynamic and static cognition”
+- **THE PLATONIC TRADITION OF INNATE KNOWLEDGE** (also see ***Everett on other thinkers*** below)
+	- Plato—Ideas are invariant in heaven, they are timeless, pure, and free from contamination by the body and the world
+		- [[David Deutsch |Deutsch]]—We will always in the virtual-reality, we can be more timeless, more pure, more free, but never timeless, pure, and free in itself
+	- Descartes—Dualism (led to the misguided view of the mind as software running on a physical hardware) and ignored nonhuman animals (”linguaformal” models of knowledge and cognition)
+		- Everett—Dualism is one of the worst error ever introduced into philosophy, and Descartes simply ignored evolution
+	- Kant—Categories (_innate_ a priori concepts, pre-installed concepts, with which our mind interpret the world) and that the mind is the locus of learning
+		- Everett—Kant’s philosophy suffers from a lack of understanding of culture, physiology, psychology, and linguistics. His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.
+		- [[David Deutsch |Deutsch]]—[[1-2f1a3c A central flaw in Kantian philosophy = the doctrine that certain truths about the physical world could be ‘known a priori’ - that is to say, without doing science |A central flaw in Kantian philosophy = the doctrine that certain truths about the physical world could be ‘known a priori’ - that is to say, without doing science]]
 	- Leibniz
-		- Everett - Philosophy without science is “empty ideas”
-	- Adolf Bastian - “Elementary ideas”, “social mind”, “social soul”
-	- Freud - _Id, ego, superego_
-		- Everett - No earlier theory made more lively use of the notion of innate, a priori dark matter
-	- Jung - “Collective unconscious” (innate tacit information common to all humans)
-	- Franz Boas - “Laws of cultural development”
-		- Everett - His pragmatism makes him a “straddler” of the boarder between nativism and nonnativism
-	- Joseph Campbell - “Monomyth” (innate content)
-		- Everett - A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.
-	- Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar,) and the idea that the linguistics capacity were identical and innate in all humans
-		- Everett - ”Monogrammar”
+		- Everett—[[1-2f1a3b Philosophy without science is “empty ideas” |Philosophy without science is “empty ideas”]]
+	- Adolf Bastian—“Elementary ideas”, “social mind”, “social soul”
+	- Freud—_Id, ego, superego_
+		- Everett—No earlier theory made more lively use of the notion of innate, a priori dark matter
+	- Jung—“Collective unconscious” (innate tacit information common to all humans)
+	- Franz Boas—“Laws of cultural development”
+		- Everett—His pragmatism makes him a “straddler” of the boarder between nativism and nonnativism
+	- Joseph Campbell—“Monomyth” (innate content)
+		- Everett—A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.
+	- Chomsky—UG (that humans are born with a tacit knowledge of many intricate details of grammar,) and the idea that the linguistics capacity were identical and innate in all humans
+		- Everett—”Monogrammar”
 - **THE ARISTOTELIAN VIEW OF KNOWLEDGE**
 	- That all humans form tacit memories, knowledge, dispositions, from experience
-	- Aristotle - An innate _capacity_ to learn ≠ Specific knowledge
-		- Everett - He is responsible for the characterization of the mind as a “blank slate” (”Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought”)
-	- John Locke - Our ideas are acquired by living and thinking
-		- Everett - His tabula rasa didn’t mean there were no innate abilities, but that _there were no innate specific concepts_ (innate capacities ≠ innate knowledge)
-	- George Berkeley - Criticizes the very notions of abstraction and generalization
-		- Everett - There is no mind of any kind (except as an imprecise way of talking about the brains), only bodies and the world (cultural, biological, ecological, etc.) in which they move
-	- Hume - Ideas only make sense or exist through experience
-	- William James - _Radical empiricism_
-	- Edward Sapir - The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined. “One is _always unconsciously finding what one is in unconscious subjection to_”
-		- Everett - If he used “psychic unity,” it was in terms of universal capacities, not universal believes or knowledge
-	- Michael Polanyi - The mind is not a computer. Our discoveries are driven by our values, commitments, and passions. Scientists choose the questions that are important to them from personal and social values.
-	- Quine - What we take to be nonnegotiable in our beliefs, resulting from our lives, beliefs, and other forms of dark matter, are truths we are not prepared to disbelieve.
+	- Aristotle—An innate _[[1-1a2d An innate capacity to learn ≠ Specific ('parochial') knowledge |capacity]]_ to learn ≠ Specific knowledge
+		- Everett—He is responsible for the characterization of the mind as a “blank slate” (”Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought”)
+	- John Locke—[[9-2b3e1 Our ideas are acquired by living and thinking |Our ideas are acquired by living and thinking]]
+		- Everett—His tabula rasa didn’t mean there were no innate abilities, but that _there were no innate specific concepts_ (innate capacities ≠ innate knowledge)
+	- George Berkeley—Criticizes the very notions of abstraction and generalization
+		- Everett—There is no mind of any kind (except as an imprecise way of talking about the brains), only bodies and the world (cultural, biological, ecological, etc.) in which they move
+	- Hume—[[9-2b3f Everett on Hume - Ideas only make sense or exist through experience |Ideas only make sense or exist through experience]]
+	- William James—_Radical empiricism_
+	- Edward Sapir—The particular and the variable, rather than the universal or invariable, are where the intellectual gold is to be mined. “One is _always unconsciously finding what one is in unconscious subjection to_”
+		- Everett—If he used “psychic unity,” it was in terms of universal capacities, not universal believes or knowledge
+	- Michael Polanyi—**The mind is not a computer. Our discoveries are driven by our values, commitments, and passions. Scientists choose the questions that are important to them from personal and social values.**
+	- Quine—**What we take to be nonnegotiable in our beliefs, resulting from our lives, beliefs, and other forms of dark matter, are truths we are not prepared to disbelieve.**
 
 ###### 2. The Ranked-Value Theory of Culture
 - _One of the two major forces in the creation of dark matter: culture_
@@ -813,14 +839,25 @@
 ---
 
 # Everett on other thinkers:
-- [[1-1a2a3 Everett on Freud - No earlier theory made more lively use of the notion of innate, a priori dark matter]]
-- [[1-1a2b Everett on Kant - His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.]]
-- [[1-1a2c Everett on Aristotle - He is responsible for the characterization of the mind as a blank slate ('Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought')]]
-- [[9-2b3c1 Everett on Joseph Campbell's 'Monomyth' (innate content) - A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.]]
-- [[9-2b3c2 Everett on Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar) and the idea that the linguistics capacity were identical and innate in all humans are 'monogrammar' similar to 'monomyth']]
-	- [[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
-- [[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move]]
-- [[9-2b3e Everett on John Locke - His tabula rasa didn’t mean there were no innate abilities, but that there were no innate specific concepts (innate capacities ≠ innate knowledge)]]
-- [[9-2b3f Everett on Hume - Ideas only make sense or exist through experience]]
-- [[10-2g1f2a3 Everett on Descartes - Dualism is one of the worst error ever introduced into philosophy, and simply ignores evolution]]
+- On Freud: 
+	- “[[1-1a2a3 Everett on Freud - No earlier theory made more lively use of the notion of innate, a priori dark matter |No earlier theory made more lively use of the notion of innate, a priori dark matter]]”
+- On Kant:
+	- “[[1-1a2b Everett on Kant - His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world. |His notion of categories is best translated into an inborn ability of humans to generalize and learn by any means. Humans are born to be learners. Individual humans have innate capacities to adjust to the world.]]”
+- On Aristotle:
+	- “[[1-1a2c Everett on Aristotle - He is responsible for the characterization of the mind as a blank slate ('Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought') |He is responsible for the characterization of the mind as a blank slate]]”
+		- Aristotle: '*Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought*'
+- On Joseph Campbell’s Monomyth:
+	- “[[9-2b3c1 Everett on Joseph Campbell's 'Monomyth' (innate content) - A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished. |A tendency to think in generic terms of people and races is undoubtedly the profoundest flaw in mythological thinking. You could shape any myths into a monomyth if you so wished.]]”
+- On Chomsky:
+	- “[[9-2b3c2 Everett on Chomsky - UG (that humans are born with a tacit knowledge of many intricate details of grammar) and the idea that the linguistics capacity were identical and innate in all humans are 'monogrammar' similar to 'monomyth' |Universal Grammar (that humans are born with a tacit knowledge of many intricate details of grammar) and the idea that the linguistics capacity were identical and innate in all humans are 'monogrammar' similar to 'monomyth']]”
+		- “[[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation. |Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system—‘the gestalt’). Syntax is only secondary to conversation.]]”
+- On George Berkeley:
+	- “[[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move |There is no mind of any kind, only bodies and the world in which they move]]”
+- On John Locke:
+	- “[[9-2b3e Everett on John Locke - His tabula rasa didn’t mean there were no innate abilities, but that there were no innate specific concepts (innate capacities ≠ innate knowledge) |His tabula rasa didn’t mean there were no innate abilities, but that there were no innate specific concepts (innate capacities ≠ innate knowledge)]]”
+- On Hume:
+	- “[[9-2b3f Everett on Hume - Ideas only make sense or exist through experience |Ideas only make sense or exist through experience]]”
+- On Descartes:
+	- “[[10-2g1f2a3 Everett on Descartes - Dualism is one of the worst error ever introduced into philosophy, and simply ignores evolution |Dualism is one of the worst error ever introduced into philosophy, and simply ignores evolution]]”
+		- Related: [[10-2g1f2a2 You can't separate the mind from the context-culture-body that generated-evolved it. Cartesian dualism is arbitrary categorization-abstraction.]]
 

@@ -7,3 +7,5 @@
 [[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context)]]
 [[10-2f2 The theory of the evolution of language must take culture into account]]
 
+**Related:**
+In drawing, you have to look at the whole—the gestalt (from [[Betty Edwards]]) #develop 
