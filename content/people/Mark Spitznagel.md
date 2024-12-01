@@ -7,6 +7,73 @@
 ### 5. *Umweg*
 ### 6. Time Preference
 ### 7. “The Market Is a Process”
+- “What remains most important, as discussed in Chapter 4, is that economics cannot be considered positivist (empirical) because there are no constants in human action, the way there are in the natural sciences.” (p. 279)
+	- “At the heart of the Austrian methodology is healthy skepticism of data and, in particular, how economics (and, equivalently, investing) uses data to back-fit a story around spurious relationships found in the data (we call this data mining).”
+- **The Misesian Stationarity index**: the aggregate ratio of the LEV to the LRV
+	- *Evenly rotating economy* (the ERE): the Faustmann ratio for each is equal to 1
+		- “The aggregate Faustmann ratio—the sum of all the individual numerators, or the total market capitalization, divided by the sum of all the denominators, or the total replacement cost or “net worth”—is equal to 1.” (p.287)
+		- “In both an ERE and a stationary economy the total appropriately appraised sale price would exactly equal the amount of land times the market price.” (pp.289-290)
+		- “This balancing of resources, from least profitable to most, continues until each man finds that the present value of his future (net) cash flows is exactly equal to the value of his land” (pp.290-291)
+	- “Tobin, operating within the simpler Keynesian view of the capital stock of the economy, thought this (the Q ratio above 1) would be a good thing, drawing forth (as one would expect) real physical investment in new capital goods and making the economy more productive.” (p.292)
+		- The underlying economy and its representation economy (i.e., stock market price) do not influence each other in the same way. #revisit 
+- **A Market-Induced Drop in Interest Rates**
+	- Consumers’ time preferences have fallen: Savings are increasing and, as a result, interest rates are declining.
+		- “Lower interest rates mean that the present value of the expected cash flows from forestry rise because their more-distant profits are discounted to a lesser degree.” (p.295)
+		- “Consumer spending is being diverted from now until later, while future expenditures are now discounted by a lower interest rate.”
+		- “Divert more land out of pasture and into the roundabout production of timber.”
+			- Because people are ready to spend more later
+		- “In the aggregate, though, Siegfried’s gains outweigh Günther’s losses because in this scenario there is genuine saving and investment. It is a classic example of what Mises called a *progressing* (no longer stationary) economy, as defined by a period of capital accumulation.” (p.296)
+	- “The numerator would never get ahead of the denominator (or vice versa) for very long, because even roundabout production would entail immediate transactions to acquire more factors of production. (To expect otherwise is to expect “greedy entrepreneurs” to fully recognize higher profits in their operations—through a higher LEV—yet refrain from exploiting them.)” (p.297)
+		- Investors and entrepreneurs are synonymous here
+	- “The gains of entrepreneurs like Siegfried (who had foreseen the profitability of timber) were partially offset by the losses of those entrepreneurs like Günther who had devoted most of their land to pasture; there wasn’t a general boom.” (p.299)
+		- What happened was intertemporal boom which is explained by (and synonymous with) the act of saving
+- **The Central Bank Lowers Rates**
+	- “With a lower cost of capital, everyone now appears to be making more money.” (p.298)
+		- “Despite Siegfried-like profits suddenly made available to average Johanns, there is a crunch on how much new capital accumulation can occur, because there isn’t any real saving. The central bank can print money, but it can’t print land!” (p.300)
+		- “It is physically impossible to devote more land to timber production because all the pastureland currently in use appears to be quite profitable and, indeed, deserving of expansion, as well.”
+	- ***Capital consumption***
+		- “The artificially low interest rates will open up the possibility of shortening the overall structure of production—the very opposite of the natural response when interest rates fall due to greater savings.” (p.301)
+			- “A business owner would see “good times” in his business—customers spending liberally on his products—and would, in his mind, put aside enough to replace his equipment as it wore out, while spending the rest that he considered to be pure profit. In reality, though, it was only the result of inflation. Later, when he needed to replace his equipment, he would be shocked to discover he hadn’t put aside enough; he had unwittingly “consumed” part of his business’s equipment.” (p.301)
+		- “Inflationary credit expansion by the banks can unfortunately lead to a reduction of the overall capital structure (a regressing economy).”
+			- “It should be clear that the aggregate increase in the denominator LRV will be at a lesser pace in this scenario (***as capital stock is growing slowly or even shrinking***) compared to when genuine savings allows for the production of additional capital goods.”
+- **Time Inconsistency and the Term Structure**
+	- “When the central bank inflates the money stock by buying treasuries (called “open market operations”), it has much more power to push down the front of the yield curve rather than the back.” (p.304)
+		- Because the nominal interest rate includes inflation expectation. And printing money is synonymous with inflation, according to Mises.
+	- “Since artificially lower interest rates by the central bank are typically focused on the front of the yield curve, after a drop in rates the greatest spread, or greatest arbitrage opportunity, is in short-range investments and/or production.”
+		- “If investors have hyperbolic discounting, then the across-the-board drop in interest rates would nonetheless cause the biggest surge in the perceived value of projects that would yield their results in the near future.” (p.305)
+			- Because hyperbolic discounters have high *i* for the near future (“it’s high where it needs to be low, and low where it needs to be high”) that makes decrease in the general interest rate to have more influence on LEV whose income stream primarily depends on the near term cash flow. 
+			- And unfortunately most of us are hyperbolic discounters.
+			- “With standard exponential discounting, a uniform drop in interest rates across various maturities would normally cause the *longest* projects to respond the most in present-value, but hyperbolic discounting concentrates the impact of a rate cut in the near term.” (p.306)
+				- Because ***LEV = B / (1+i) - 1*** applies for standard exponential discounters
+	- “Discounting is highly sequential and intertemporal: Our willingness to endure a wait from now until next week requires our willingness to wait from now until tomorrow, from tomorrow until the day after, and so forth. And (as per the definition of hyperbolic discounting) we perceive enduring the first day as really hard, and each successive day we perceive will be a little easier. But we must make it past the earlier days in order to get to the later days (thus it is sequential).” (pp.305-306)
+		- **Related:** [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- **Related:** [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
+	- “The *quickness for realizing profits* is what matters and so people will tend to invest in projects where they can turn their investments around quickly.” (p.306)
+		- People can’t wait because they borrow in the near term where the rate of interest is low
+		- This introduces the difference between investment and speculation #develop 
+	- “A combination of low short-term rates and hyperbolic time preferences will induce investors to buy title to already existing capital structures, rather than trying to construct them from scratch and suffering the delay in waiting for their completion.” (pp.306-307)
+		- Visions are harder to be realized. Foresights less likely to be fostered.
+			- **Related:** [[5-1b4c1c Align your short-term reward with your long-term vision]]
+			- **Related:** [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
+		- “Rather than reinvesting in newly acquired and expanded operations, firms will pay out higher dividends and buy back stock (and even borrow to do this, such as is happening today), or even just “sit in cash.” (Each time another investor alters his strategy toward “dividend investing,” and another firm adjusts to attract this investor, another bit of future progress is sapped from the economy.)” (p.307)
+			- “Entrepreneurs and investors are, thus, consuming capital in the same analogous way they consume capital in Mises’s inflationary view.”
+				- The monetary interventionism encourages speculation, and is less hospitable to foster true entrepreneurs and investors #develop 
+	- “Genuine, savings-driven declines in the interest rate lead to capital accumulation, more roundabout production, and a progressing economy; artificially lower rates, driven by credit inflation, ultimately lead to naught but capital consumption and a regressing economy.”
+		- “This wave of new investment pushes down yields (or the rate of “interest” income on capital investments) to the new, lower rate.”
+			- Because money is spent (rather than *invested in*) on less profitable businesses
+			- According to the standard Austrian economics, artificially low interest rates lead to malinvestments in projects that are too “roundabout” relative to the amount of genuine saving.
+		- “Amplified by the fact that people discount the immediate future at a steeper rate than more distant periods, we arrive at the perverse result that managers squeeze as much out of their firms as they can in the present—their immediacy is magnified—while neglecting the capital expenditures necessary to keep the firm growing (and even maintain it).” (pp.307-308)
+			- According to Spitznagel, the capital stock is actually degraded; it becomes less roundabout.
+	- “Because of their misdiagnosis of the problem, the Keynesian “solution” is all the worse—they recommend either government deficit spending or “unconventional” monetary policy that will convince the public that higher price inflation is down the road.” (p.308)
+	- “Mises considered economics to be “deadly serious.” To him it was no mere intellectual exercise; rather “the very future of mankind—of civilization” rested upon an understanding of these economic principles.”
+- **The Day of Reckoning Comes to Nibelungenland**
+	- Share prices are bid up, but the market value of their assets net of liabilities lags.
+		- Because people are only “investing” for capital’s near term prospect.
+			- People are not investing intertemporarily
+- **The Market Process Prevails**
+	- “Although there is a decline in business activities during a contraction, there is also less consumption of both consumer goods and factors of production. When a contraction ends, there is no need for painful healing as there is during the euphoria of an artificially induced expansion, when capital is consumed.” (p.312)
+	- “Constructive capital accumulation is an intertemporal legacy that sparks gratitude for what came before and also obligation for what will come after—indeed, a process unto itself.” (pp.312-313)
+
 ### 8. Homeostasis
 ### 9. Austrian Investing I: The Eagle and the Swan
 - “I’m reminded of the roundaboutness of Henry Ford for whom years of developing methods and constructing tools were followed by only minutes in production (sometimes reduced to seconds)—the former were the means to the latter. Here, years of introspection and preparation for what became Austrian Investing are followed by mere minutes of data processing.” (p.351)
@@ -44,8 +111,7 @@
 		- “Investors must always delve deeper into the means of economic profit—certainly a central message of this book.”
 		- “Austrian Investing is concerned with the intertemporal process at work, rather than just the endpoint.”
 			- “To those who understand and can thus suffer through the process go the spoils of capitalism.” (p.412)
-- 
-- s
+
 ---
 
 # Safe Haven
