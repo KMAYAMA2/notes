@@ -1,7 +1,9 @@
 ---
 date: 2024-11-24
 ---
-> “Average returns for an above-average period of time = extreme outperformance. It’s the most obvious secret in investing” – Morgan Housel
+> “Average returns for an above-average period of time = extreme outperformance. It’s the most obvious secret in investing” – [[Morgan Housel]]
+
+> “A genius is the man who can do the average thing when everyone else around him is losing his mind” – Napoleon
 
 [[2-1b2c 'Compounding' - Permeate across the timeline]]
 	[[5-1b4b2 Hanlon's razor applied - See things as results of habits]]
