@@ -1,6 +1,31 @@
 
 # The Dao of Capital
 ### 1. The Daoist Sage
+- “Long term is telescopic, short term is myopic; depth of field retains focus between the two.” (p.35)
+	- “The apparent humility implied in the process is really a false humility that cloaks the art of manipulation” (p.39)
+	- Related: [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality |Anti-fragility over Stoicism]]
+- “The Laozi also has been deemed a distinctive form of teleology, one that emphasizes the individual’s self-development free from the intervention of any external force.” (p.39)
+	- Related: [[9-1c When you take Popperian epistemology seriously, you take people (including children) seriously]]
+	- 為無為 *wei wuwei*
+- “The Laozi endorses Kant’s doctrine of the *a priori*, which means that certain truths can be stated *a priori*, viz., even before we make an actual experience. It is not the globe trotter who knows mankind, but the thinker. In order to know the sun’s chemical composition we need not go to the sun; we can analyze the sun’s light by spectrum analysis. We need not stretch a tape line to the moon to measure its distance from the earth, we can calculate it by the methods of an *a priori* science (trigonometry).” (p.44)
+	- “Laozi is not pro-science in spirit, repudiating the knowledge of the many as not conducive to the knowledge of the one (thus invalidating induction).”
+- **Into the Pit**
+	- Klipp: “The market is a completely subjective thing, it can do anything. And it is always right, yet always wrong!” (p.46)
+		- “The edge to pit trading was in the order flow—the succession of *mini-routs*, as I always called them—and in the discipline; it was in a patient response to someone else’s impatience, someone else’s urgency.” (p.46)
+	- Klipp: “As a pit trader, you have two privileges and two privileges only: One, you can demand the edge—buy at the bid price, sell at offer price; two, you can give up that edge when you’ve made a mistake.” (p.48)
+		- “It’s not up to the locals to determine when they trade; rather, they wait and, if necessary, wait some more.” (p.49)
+		- The second allotted privilege was “cruel,” as Klipp would say, because it meant immediately closing out a trade once it turned negative (a “mistake”), what he called “always taking a one-tick loss.” (p.50)
+			- Klipp: “There’s only one thing that can hurt a trader at the Chicago Board of Trade, and that’s a big loss, [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |never take a big loss]].”
+			- This meant taking many small losses. Hence you had to “love to lose money,” otherwise you’d just stop doing it.
+			- The *disposition effect*: We sweat through large losses and take small profits quickly. (p.51)
+			- “The pressing need for consistent and immediate profits is hardwired into our brains; we humans have a shallow *depth of field*” 
+- Klipp: “One trade can ruin your day. One trade can ruin your week. One trade can ruin your month. One trade can ruin your year. One trade can ruin your career!”
+- “Waiting must precede opportune action, by definition. Exploiting others’ immediacy was the logic of the roundabout approach, the fundamental edge—the ultimate edge of trading and investing.” (p.52)
+	- “I earn my living from the hungriness of investors, from their decisiveness, their forcefulness, from their great urge for immediacy.”
+	- Avoid FOMO
+- **Robinson Crusoe in the Bond Pit**
+	- 
+
 ### 2. The Forest in the Pinecone
 ### 3. Shi
 ### 4. The Seen and the Foreseen

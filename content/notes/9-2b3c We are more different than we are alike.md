@@ -1,5 +1,16 @@
+---
+date: 2024-12-11
+---
 [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 	[[9-2b3b1 Contingency = Meaning (or, contingency implies meaning)]]
+
+***Do what you love, and do it your way*** #develop 
+[[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
+[[3-1d6e You can only progress within the context of your own specificity. You can’t progress objectively, although you can progress towards the objective knowledge.]]
+[[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
+
+[[12-1e Nothing is necessary = Everything is contingent]]
+[[There is no universal perception]]
 
 [[1-1a2a1 Human nature is variable (Cultures ⇒ Flexible human brains ⇒ Variable dark matters ⇒ Variable 'human natures' ⇒ Cultures . . .)]]
 - **Human cognition and behavior are not law-like** ([[1-1a2 Our mind is flexible]])
