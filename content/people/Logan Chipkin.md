@@ -1,0 +1,16 @@
+### Takeaways from Podcast interviews:
+- Logan Chipkin on Constructor Theory: 
+	- Non-copiability (complete replication) leads to biological mutation; 
+	- marginalism (no universal utility), all things being equal (Latin); 
+	- creationism both in economics and biology (~36:00~); 
+	- the history of civilization is that of lowering time preference; 
+	- consumption is encouraged when the money is printed out of thin air (or the expectation thereof); 
+	- stock-to-flow ratio; 
+	- fiat money shields ideas from criticism, the cost of bullshit goes down (economics here meets memes); 
+- Logan Chipkin on BTC: 
+	- ETH and Austrian economics; 
+	- River Financials (?); 
+	- money is not wealth; 
+		- knowledge creates wealth; 
+	- BTC inflation schedule is predictable; 
+		- but knowledge is unpredictable #develop 

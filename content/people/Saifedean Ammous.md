@@ -1,0 +1,72 @@
+### Takeaways from Podcast interviews:
+- Saifedean Ammous: 
+	- loan is mining, you devalue everyone’s fiat with new loan; 
+	- credit creation is self-corrected by the boom and bust (the Austrian business cycle theory); 
+	- inflation expectation encourages consumption (higher time preference, that is, preferring today over tomorrow); 
+		- hard money encourages saving (future-oriented); 
+			- think of Robinson Crusoe; 
+	- fiat average YoY increase ~14% (vs gold ~1.5%); 
+	- bad philosophy and fiat #develop  
+	- *debt slaves*; 
+	- history (WW1-2) and fiat; 
+	- BTC is gold in the abstract; 
+	- deflationary worldview vs inflationary worldview; 
+	- BTC network transactions will be cheaper in the future; 
+	- higher BTC relative to fiat can happen when fiat is under hyperinflation; 
+	- in the fiat world, your fiat are meant to lose its value over time (but to the extent that the bust doesn’t hit you, it’s a short volatility trade of societal scale), and debt in fiat will be encouraged (that is, short fiat) #develop  
+		- miss payments, you might lose all your assets (insecurity from short volatility position) #develop  
+	- concept of opportunity cost gets warped with fiat because you don’t save and because the government can give you the money without cost (the cost of bullshit individually is near zero because the burden falls on the whole of society); 
+		- very high cost for not publishing; 
+	- socialism is a calculation (not an incentive) problem; 
+	- UK externalized its inflation problem to the US and France, and that led to 1920s boom and the Great Depression; 
+	- if you rate the US bonds they will be rated as junk; 
+		- bond market makes sense only with sustaining inflation expectation (‘evil through and through); 
+	- monetizing debt via fiat vs monetizing hard asset via BTC; 
+	- technological upgrade of fiat is BTC; 
+	- the economy will become less dependent on debt
+- Ammous: 
+	- everything is in bubble because fiat can be created out of thin air; 
+	- ‘a continuous devaluation of debt by people moving their asset into something that appreciate is the way out’; 
+- Saifedean Ammous: 
+	- only human action can be the driver (of any relation); 
+	- Progressive Era (Rothbard); 
+- Ammous with Lex; 
+	- capitalism is what happens when humans are left to their own devices; 
+	- money allows you to not worry about the problem of coincidence of wants; 
+	- money is the best technology to transfer value into future (what we want is sound money and not rising market per se); 
+	- money is whatever that is hardest to make; 
+	- gold allowed fiat; 
+	- money is not social contract (belief); 
+		- money is technology (physical); 
+		- lowest supply growth rate fiat tends to be the reserve currency historically; 
+	- gold ban made diamond rings; 
+	- we don’t need further motivation to consume; 
+	- economy is about the problem of scarcity (because want is easier than make); 
+	- prediction with humility; 
+	- fiat is coercion; 
+		- guns to the head; 
+	- wars were fought until all the gold were found, or until all the money were printed; 
+		- wars are often used as scapegoats; 
+	- John Osborn; 
+	- Newton was the ward of mint; 
+	- meritocracy and networkism; 
+	- Ammous is onto fiat, and not just onto quantitative easing (e.g., [[Mark Spitznagel]]); 
+	- gold can’t keep up with the inflation; 
+	- saving is liquid and has little uncertainty and is for the future (BTC), investment means risk (ETH); 
+		- saving and investment is not the same; 
+			- investment is a job in itself (most of Wall Street can’t beat inflation); 
+				- because market feedback mechanism doesn’t function properly in fiat 
+					- fiat world isn’t about meritocracy 
+			- saving should be easy; 
+				- saving is about certainty (there is little to no certainty in hyperinflation economy); 
+	- money is one (multiple currencies are barter); 
+	- fiat and populism; 
+	- money needs salability; 
+	- (we are seeing less and less inventions, and thus pro-status-quo is the status-quo); 
+	- Block Size Wars; 
+	- every non-BTC currencies can hard-fork; 
+	- energy consumption itself is considered evil, which is stupid; 
+		- you can mine from anywhere; 
+	- bonds replaced gold, BTC can replace bonds; 
+	- people are *saving* in equity indices; 
+	- most alt coins are fiat in disguise; 

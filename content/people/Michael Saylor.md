@@ -1,0 +1,31 @@
+### Takeaways from Podcast interviews:
+- Saylor on Galaxy: 
+	- war diverts resources, puts public policy over free market, and inflate these resources (even without printing money); 
+	- take a decade long view, nothing great is achieved in the short run; 
+	- most matrices don’t measure the dollar in the real terms; 
+		- we have flexibility to choose what to measure; 
+	- half the problem is caused because we don’t understand money; 
+	- money is our energy abstracted and to be carried across time and space; 
+	- MSTR structures xARR yVOL BTC assets; 
+	- ‘Shorters gotta short, traders gotta trade, haters gotta hate’;  
+- Saylor-Tom-2: 
+	- people need security (not equity); 
+	- people moved to the West for property rights; 
+		- but now to BTC; 
+	- MSTR stands between investors who want BTC exposure but can’t due to regulation (but understand that exposure, i.e., payoff, isn’t the same as owning it), and also between investors who have different vol preference; 
+	- ETFs are overnight depository banks; 
+		- MSTR issues CBs with 3-4x multiple of underlying BTC; 
+			- it means they can buy BTC worth of 66-75% of CBs issued for free (unless BTC’s rate of return is less than the CBs interest); 
+		- MSTR is operating company (investors get equity and MSTR gets BTC); 
+			- MSTR turns crude capital to equity; 
+	- new technology means new generation of users; 
+		- or users in the war-zones; 
+		- “science advances one funeral at a time”; 
+	- don’t identify with certain sets of technologies; 
+		- be technological, meaning, inventor of finding new way of doing things (in the meta sense); 
+	- transaction fees; 
+	- “money decomposes into currency (USD) and capital (BTC replaces gold as world reserve capital)”; 
+	- stablecoins (still 100B+ market, can reach 10T+) can make USD world reserve currency again; 
+	- capital collapses, the government collapses, the civilization collapses; 
+	- BTC is egalitarian technology that can solve the economic problems; 
+	- 3350 JT Equity; 
