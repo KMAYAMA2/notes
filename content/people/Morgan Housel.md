@@ -138,3 +138,6 @@ date: 2024-12-10
 	    - **What have you experienced that I haven’t that makes you believe what you do? And would I think about the world like you do if I experienced what you have?**
 
 - Can we do away with greed and fear once we adapt new biological body, and if so what would be the implication of the book’s thesis?
+
+---
+> “Having no FOMO might be the most important investing skill”
