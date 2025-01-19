@@ -140,17 +140,100 @@ date: 2025-01-13
 ### 13. Why Bitcoin Fixes This
 #### Salability Across Space
 #### Separation of Money and Debt
+- As gold banks became indispensable for gold performing its monetary role, their gold was only as good as their credit, making their credit as good as gold. (p. 282)
+	- A party that has monopoly control of the payment system will inevitably end up using this control to further its interests.
+- The conflation of money and credit has become so entrenched that most modern fiat academics insist that the two things are the same, ignoring the very real differences between the two. (p. 282)
+- The monopoly command over the international transfer of wealth protects central banks’ fiduciary media from facing the kind of market test possible with bitcoin-based institutions. (p. 283)
+	- Banking returns to being a normal business offering services to customers, rather than a monopoly money-printing operation. (pp. 283-284)
+- Bitcoin monetizes a hard asset and offers everyone a chance to hold an asset as a store of value that does not have liabilities attached to it. You no longer need others to be indebted for you to have savings. (p. 284)
+	- It does not require future production and repayment from the borrower to have market value.
 #### Antifiat Technology
 #### Neutral Global Currency
+- The World Bank’s central planning destroys the division of labor. The IMF’s monetary stipulations destroy the chance of having sound and hard money and thus accumulated capital. Finally, the WTO prevents technological advancement of poor countries through patents and trade restriction masquerading as free trade agreements. (p. 287)
+	- There was no World Bank, IMF, United Nations, or WTO under the gold standard.
+- Will there be corrupt governments under hard money? 
+	- Of course, but they will face the consequences of their corruption far faster, as they run out of money and can no longer afford to pay the henchmen that prop them up. (pp. 287-288)
+- Bitcoin cannot end poverty and it cannot save those who cannot save themselves. (p. 288)
+	- There can be no global lender of last resort in that world.
 ### 15. Bitcoin Banking
+- The two essential functions of banking:
+	- Custody solutions—a specialized service that ensure better security for deposits
+	- The allocation of capital into investments
+		- With the gold money or BTC, there will be more skin in the game when compared to fiat world
+- The problem with banking is not the nature of banking itself but government policies that create monopolies. In a free market, banking would continue to exist but would be subject to consumers’ choice and satisfaction. (pp. 309-310)
+- The following argues seven ways in which we can expect bitcoin’s monetary properties to influence a bitcoin-based banking system:
 #### Savings Technology
+- Investors had to shift to buying government bonds (p. 312)
+	- Until the expectation for future inflation outdid the nominal interest rate with which the investors were comfortable lending—this happens because the overbidding results in lower interest rate (both from supply-demand and also because the government can interfere with the loan market if they deem the demand strong). When this happens, the demand shifts to the equity market. #develop 
+		- Viz., the government can issue bonds as long as the expectation of future inflation was less than the interest offered—that is, as long as there are buyers.
+			- One way they achieve this is by manipulating the “inflation” measure—e.g., CPI
+			- The existence of hypothecation (and repo market) means anyone who purchase such bonds can collateralize them and can get present goods (with the future obligation of central banks). #develop 
+				- Hence the demand for such bonds doesn’t disappear—even when the interest is in the negative territories. #develop 
+	- The height of nominal interest rates does not matter—as long as there is credit expansion, the originary interest rate is bound to be higher than the nominal interest rate, resulting in malinvestment. It was the historical coincidence of 2010s wherein the nominal interest rates of multiple central banks hit zero that made equity market more attractive than debt instruments. #develop
+					- Zero interest rate triggered money inflow to equity market. 
+- The stock index fund appeared as the saving vehicle of choice in the 2010s as bond yields continued to plummet and enter negative territory. (p. 312)
+	- Forced "saving" via forced "investment"—or put differently, forced homogeneous risk. #develop
+	- “An expensive balancing act that impedes individuals’ ability to plan” (p. 312)
 #### High Cash Reserves
+- By having no yield, bitcoin’s appreciation does not make it less attractive as it grows. (p. 313)
+- As bitcoin is also starting from a small market capitalization, similar capital inflows will cause a much higher rate of price appreciation in bitcoin than gold. This makes it a more attractive proposition as a store of value for the future, since it is likely to increase the value, not just preserve value. (p. 313)
+- Bitcoin can offer many millions, and maybe billions, an affordable credible threat of withdrawing their balances and taking full possession of their coins in a matter of minutes. (p. 314)
 #### Demonetizing the World
+- Bonds and stocks can no longer offer yields that beat money supply inflation (p. 316)
+	- The credit expansion artificially lowers the gross market rate, at times to zero—turning bonds into unattractive products. #develop
+	- This results in overbidding of equity, lowering its yield.
+	- After all, there will be no “risk-free” interest rate under the gold or bitcoin standard
+- Excess demand for bonds rewards undeserving borrowers, most notably governments, misallocating capital and causing periodic default crises. (pp. 316-317)
+- “If bitcoin’s liquidity grows significantly, it would offer an increasingly compelling and efficient alternative to these technologies. Demand for these assets would become purely industrial and commercial rather than monetary. Housing would return to being thought of as a consumer good rather than a savings account or capital good. House prices would reflect demand for houses only as places to live, not as savings accounts. Commodities’ prices would reflect demand for the commodity itself. Equity would reflect the underlying fundamental values of the company rather than being a gauge for monetary policy as it is now. Artists might need to return to learning skills and putting effort into their work to sell it and not just rely on people’s search for anything scarce to buy their products.” (p. 317)
 #### Unbonding the World
+- The continued growth of bitcoin would likely result in a reduction of demand for debt instruments as a method of saving. (pp. 317-318)
+- The enormous incentive to borrow in the fiat standard is ultimately driven by the monetization of debt, which creates a huge incentive for lenders to create more loans, as discussed extensively in Part I. (p. 318)
+	- Does "lender" here refers to the commercial banks who are technically backed by the central bank? #develop 
+		- Yes, because the money is created when the loans are issued. #develop
+- The devaluation of the currency itself is what creates the demand for the bonds, which in turn allows for the devaluation of the currency, in the eternal perverse cycle of fiat monetary damnation of the last century. (p. 318)
+- The total market value of bonds = $140 trillion
+	- Bitcoin = $2 trillion (as of 2025 January)
+- The homogeneity of bitcoin and its lack of a yield give it a natural advantage over bonds in playing the role of money. (p. 319)
+- The role of money optimizes liquidity at the expense of risk and return, while equity optimizes for return at the expense of liquidity. (p. 319-320)
+	- I think how equity optimizes for returns at the expense of liquidity becomes clear during the market crash. Unfortunately, its risk-return profile tends to be distorted with the government interference, in that it looks more profitable than it actually is (as discussed in the next section). #develop 
 #### Robustness
+- A financial system built on a hard monetary asset at its base would be far more robust than one built on debt obligations at its base. It would also cause far fewer financial and liquidity crises. (p. 320)
+- When funding conditions become unfavorable, most, or all, debt obligations are valued at a discount by the market, which places financial institutions using them as their financial assets in a precarious position. (p. 320)
+	- I.e., systemic fragility
+- A financial system built on full cash reserves would not experience such liquidity crises. Financial institutions would keep on-hand cash instruments equal to the face value of all their liabilities that are redeemable on demand. (p. 320)
 #### Full Reserve Banking
+- The gold standard itself was sacrificed to keep fractional reserve banking alive. (p. 322)
 #### Equity Finance
-
+- Bitcoin-based financing will probably cause a shift toward more equity investment rather than credit instruments and interest-based lending. (p. 323)
+- Without a lender of last resort, offering a fixed-interest loan with a guaranteed return becomes exceedingly difficult for a bank, as there can never be a guarantee that the bank or its borrowers will not face insolvency. The risk of complete ruin is ever-present in any business enterprise, and any bank that backs its demand deposits with loans issued to businesses is taking on a large risk. (p. 324)
+	- Again, the “risk-free” interest only exists in the fiat world.
+- It is doubtful that the extra returns banks can generate from lending demand deposits, as they do in a fractional reserve banking system, are even possible in a hard money economy where no lender of last resort exists to protect the banks and their clients from the downside risk. (p. 324)
+	- The fiat world is not exactly Old Maid (ババ抜き)—because not only the cards are infinite, but every card is a Joker. #develop 
+- With the clarity brought about by the fixed supply, and the efficiency brought about by the high spatial salability, banking likely bifurcates into its two essential and demarcated functions: deposit banking and equity investment. (p. 324)
+	- The gray area of investing in credit and fixed-interest rate lending is a function of the limitations of spatial salability and supply vagueness of fiat money. (pp. 324-325)
+		- Viz., there will be no credit and fixed-interest rate lending, as well as their derivatives, with the bitcoin standard. #develop
+- Investors who would like to earn a positive nominal return on their bitcoin would need to accept the high degrees of risk. With the downside unlimited, there is little reason to agree to an investment with a fixed upside, as is the case with fixed-interest loans. (p. 325)
+	- Investment will be left to the professionals with skin in the game—as it should. #develop 
+- As human civilization progresses, and money improves as a technology, humans accumulate more cash balances, and that leads to lower interest rates on the price of capital. (p. 325)
+	>”This is why the rate of interest mirrors the cultural level of a nation; for the higher this level, the larger will be the available stock of consumers’ goods, the longer will be the period of production, the smaller will be, according to the law of roundaboutness, the surplus return which further extension of the period of production would yield, and thus the lower will be the rate of interest.” – Joseph Schumpeter
+	- Viz., the nominal interest rate will reach zero in the civilized society (in accordance with the most religions). #develop  
+	- But knowledge is creation *ex nihilo*.
+		- What would be the implication? Specifically, what is the cause-and-effect relationship of progress and the gross market rate of interest rate? #develop 
+- The move to fiat and the ensuing world wars reversed this trend in the twentieth century (p. 326)
+	- But it is hard to escape the conclusion that rates would head to zero. Lending would be done at a nominal rate of return of zero, but a positive real return, which is the result of both the appreciation of the monetary asset, as well as the lender saving on their storage cost and risk of loss or theft. (pp. 326-327)
+		- What is the incentive to run banking business then—especially given how the opportunity will be only in equity, whose downside is unlimited just like their upside? #develop
+			- Rather than seek a fixed yield for lending, lenders would seek an equity stake and a share of the business’s revenues. (p. 327)
+				- I.e., the companies will assume the role of banking. #develop
+- Interest-based lending would cease to exist. (p. 327)
+	- What would be the implication here, especially with regard to how equity market boomed with zero interest rate regime? #develop 
+		- I think it means that the equity market will reflect the fundamentals more. #develop 
+- The more attractive model for savers will be one in which they make a real return from the businesses in which the bank invests their money, sharing in the profit and loss. (p. 328)
+	- Viz., either the companies, or the hedge funds, will assume the role of banking. #develop 
+- The role of the bank will be in matching maturities and risk profiles between borrowers and lenders and identifying the correct projects in which to invest. (p. 328)
+### 17. Bitcoin Cost-Benefit Analysis
+#### Is Bitcoin Worth It?
+- The millions of people who have chosen to hold more than $800 billion of economic value in the bitcoin network are clearly making a similar judgment to these users of modern energy-intensive technology. (p. 363)
+	- Electrification has massively improved countless human products, and bitcoin is just another electric product humans are adopting rapidly.
 ### 18. Can Bitcoin Fix This
 #### Government Attacks
 #### Software Bugs
