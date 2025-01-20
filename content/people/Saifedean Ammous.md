@@ -235,13 +235,70 @@ date: 2025-01-13
 - The millions of people who have chosen to hold more than $800 billion of economic value in the bitcoin network are clearly making a similar judgment to these users of modern energy-intensive technology. (p. 363)
 	- Electrification has massively improved countless human products, and bitcoin is just another electric product humans are adopting rapidly.
 ### 18. Can Bitcoin Fix This
+- Investment in assets that offer a yield always involves risk. (p. 365)
+	- Because of the “entrepreneurial component” (see [[Ludwig von Mises]]). #develop 
+		- What is the nature of yield? What is the implication for ETH staking? #develop 
+- Cash substitutes (e.g., fiat credit, bonds, stocks, real estate, art, commodities)—their roles as monetary media are inherently limited. Rises in their prices will inevitably cause oversupply and big crashes. Bitcoin’s scarcity means that its price crashes to continually and significantly higher levels than past prices. (pp. 365-366)
+	- Doesn't this partially apply to these cash substitutes? #develop 
+	- Essentially, they are simply not the best technology to become money. #develop
+- The world has around $90 trillion of broad fiat money supply, $90 trillion of sovereign bonds, $40 trillion of corporate bonds, and $10 trillion of gold. (p. 368)
+	- Total: $230 trillion (3.7 京) 
+	- Cash substitutes: stocks $90 trillion; global real estate $280 trillion
+	- Bitcoin: $1.8 trillion (as of 2025 January)
+- As more and more investors in search of a store of value discover bitcoin’s superior intertemporal salability, it will continue to acquire an increasing share of global cash balances. (p. 368)
 #### Government Attacks
 #### Software Bugs
 #### The Gold Standard
+- Bitcoin, however, is a hard monetary system that can gain adoption whether or not the entrenched easy-money interests approve of it. (p. 382)
 #### Central Bank Adoption
+- As a dollarized economy, El Salvador had no seigniorage revenue to lose by adopting bitcoin. (p. 383)
+- The IMF has long banned its members from tying their currency to gold. (p. 385)
+- The U.S. still has the world’s strongest military and the strongest currency, and any global financial crisis that happens, while having its root causes in the dollar, is likely to only make the dollar stronger, not weaker, as happened in 2008. For all its flaws, the dollar is still the most liquid of all national currencies, and the one bearing the lowest default risk. All other central banks have liabilities in the dollar. (p. 385)
+	- Merely a historical fact due to Bretton Woods arrangement #develop 
+	- This why even when the Fed bails out corporations in the US, the currency that strengthens the most is USD.
 #### Monetary Upgrade and Debt Jubilee
+- Hyperinflation can only happen as a result of governments and central banks increasing the money supply. (p. 387)
+	- But the fact that they can—shouldn’t that be enough to cause hyperinflation? #develop
+		- “The only way to understand the bolivar’s collapse in value is as a result of the rapid increase in supply; any reduction in demand was rather an effect, not a cause, of that currency’s value dropping.” (p. 387)
+- Should fiat money continue to function as discussed in Part 1, with lending as the equivalent of mining, the likelihood of hyperinflation is reduced by two forces. (p. 388)
+	- First, it is not easy to quickly expand credit to a hyperinflationary degree
+		- This argument hinges on the assumption that the hyperinflation can be only caused by excessive money printing. But isn't what constitutes "excessive" is quite arbitrary in his argument here? #develop
+	- **Second, credit expansion is self-correcting because it brings about financial bubbles that liquidate large amounts of the money supply.**
+		- His argument somewhat holds because although the central banks have been printing money, they usually did so whenever after market crash happens. #develop 
+		- But he also argues how CBDCs can interfere with the phenomenon of market crash (see the final section of this chapter). #develop 
+			- “If hyperinflation were to happen, as it is happening in Venezuela and Lebanon today, it would be the result of governments overriding the credit creation process and resorting to increases in the base money, most likely through physical money printing, or its modern digital equivalent, through central bank digital currencies.” (p. 388)
+- If the credit nature of fiat money is preserved, it could avoid hyperinflationary collapse even if bitcoin continues to consume more of its share of money demand. (p. 388)
+	- Viz., the Austrian Business Cycle theory
+- If more individuals and companies start to hold bitcoin instead of debt instruments on their balance sheets, that would reduce the demand for credit creation, reducing fiat money creation, making hyperinflation less likely. (pp. 388-389)
+	- The next section discusses the strategy of borrowing USD to buy BTC (e.g., MicroStrategy). #develop
+- Hyperinflation happens when the entire monetary system of a society collapses. (p. 389)
+	- But we already have BTC. #develop 
+		- “Bitcoin offers a refuge from hyperinflation rather than being the cause of it.” (p. 390)
+	- In the case of the dollarization of Ecuador, hyperinflation ends, and economic production, growth, and normalcy resume on a harder money. (p. 390)
+- Rather than an attack on the fiat system, bitcoin might allow the fiat economy an exit from its spiral into ever-more debt slavery, as it devalues the fiat debt that saddles everyone in the fiat system. (p. 391)
+	- And anyone who benefits from such debt creation—the governments, the central banks, and any entities associated with them. #develop
+	- But as with any entrepreneurial ventures, the benefits don’t get “distributed” evenly and equally—money is not neutral after all. #develop 
+- The sooner one upgrades to the bitcoin economy, the sooner their fiat debts become insignificant. (p. 391)
+	- Bitcoin is money, and money is not neutral. #develop 
+- More interestingly, perhaps, would be the shift in business financing, as more people become wealthy enough to finance their own businesses with their own savings rather than from bank credit. (p. 391)
+	- The incentives are also different when you work for yourself, compared to when you have to work to pay back your debt. #develop 
+- Under sound money regimes, a free market in capital emerges in place of central monetary planning. Productive individuals are able to accumulate capital and watch it appreciate in value, and so they can finance themselves and their businesses. Productivity is rewarded with compounding growth in value over time, giving the holders of capital more of it, and thus placing increasingly more capital in the hands of the productive. (pp. 391-392)
+	- True meritocracy over crony “capitalism” and networkism. #develop 
+- Eventually, the only part of the economy that would remain wedded to government money would be government itself, and the parts of the economy dependent on government money, both of whose contribution to valuable economic production is approximately zero. (p. 393)
+	- The end of crony capitalism.
+		- And the beginning of infinity, as it were.
 #### Speculative Attacks
+- Can you call this a carry trade? #develop 
+- As bitcoin investment becomes more accessible to institutional investors, many of these lenders will choose to just purchase bitcoin instead of lending to financial firms that purchase bitcoin, limiting the credit available for launching speculative attacks. (p. 394)
 #### Central Bank Digital Currencies
+- With all balances held at the central bank, and credit increasingly politicized and centralized, the fiat system would take a very decisive turn toward an authoritarian and socialist society. (pp. 395-396)
+- As the corrective mechanism of fiat credit bubbles collapsing is sidestepped by the move toward fiat noncredit CBDCs, the brakes on fiat inflation would be severed. (p. 396)
+	- Doesn’t this challenge the claims made in Monetary Upgrade and Debt Jubilee section (specifically, the second force that reduces the likelihood of hyperinflation)? #develop 
+- Since the 2008 financial crisis and the increased intervention of fiat central banks into financial, credit, housing, and many other markets, fiat central banks have been overriding the correcting mechanism of money supply collapse. (p. 396)
+	- The author implies how there were more market forces in the pre-GFC era (e.g., in financial, credit, and housing markets).
+- An increasing share of the world’s bond and stock markets is now held by central banks, and their valuation is increasingly determined by central bank fiat, with the normal workings of the credit cycle overruled through infinite quantitative easing. (p. 396)
+- The push to promote fiat foods and fuels will likely take a far more coercive turn with the implementation of CBDCs. (pp. 397-398)
+- Bitcoin makes payment clearance a mathematical and mechanical process that cannot be controlled by intermediaries, whereas CBDCs make every transaction subject to approval and reversal by the central bank. (p. 400)
 
 ---
 # Takeaways from Podcast interviews:
