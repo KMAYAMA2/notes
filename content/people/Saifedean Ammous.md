@@ -3,8 +3,68 @@ date: 2025-01-13
 ---
 # The Bitcoin Standard
 ## 3. Monetary Metals
+### Why Gold?
+- For anything to function as a good store of value, it has to beat this trap: it has to appreciate when people demand it as a store of value, but its producers have to be constrained from inflating the supply significantly enough to bring the price down. (p. 21)
+### Roman Golden Age and Decline
+### Byzantium and the Bezant
+### The Renaissance
+- It was in the city-states that humans could live with the freedom to work, produce, trade, and flourish, and that was to a large extent the result of these city-states adopting a sound monetary standard. (p. 30)
+	- It all began in Florence in 1252, when the city minted the florin, the first major European sound coinage since Julius Caesar's aureus.
+	- Venice was the first to follow Florence's example with its minting of the ducat, of the same specifications as the florin, in 1270, and by the end of the fourteenth century more than 150 European cities and states had minted coins of the same specifications as the florin.
+- Two particular technological advancements would move Europe and the world away from physical coins and in turn help bring about the demise of silver's monetary role: the telegraph, first deployed commercially in 1837, and the growing network of trains, allowing transportation across Europe. (p. 31)
+	- Eventually, the telegraph also outdid gold.
+		- Bitcoin is both hard and fast. #develop 
+- The death knell for silver's monetary role was the end of the Franco-Prussian war, when Germany extracted an indemnity of £200 million in gold from France and used it to switch to a gold standard. (p. 32)
+- It is the author's opinion that the history of China and India, and their failure to catch up to the West during the twentieth century, is inextricably linked to this massive destruction of wealth and capital brought about by the demonetization of the monetary metal these countries utilized. (p. 33)
+	- The demonetization of silver in effect left the Chinese and Indians in a situation similar to west Africans holding aggri beads as Europeans arrived: domestic hard money was easy money for foreigners, and was being driven out by foreign hard money, which allowed foreigners to control and own increasing quantities of the capital and resources of China and India during the period.
+- We can thus understand why nineteenth-century sound money economists like Menger focused their understanding of money's soundness on its salability as a market good, whereas twentieth-century sound money economists, like Mises, Hayek, Rothbard, and Salerno, focused their analysis of money's soundness on its resistance to control by a sovereign. (p. 34)
+	- Because credit money was ubiquitous during twentieth-century.
+- The money invented in the twenty-first century, bitcoin, was designed primarily to avoid centralized control.
+	- Related: [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
+### *La Belle Epoque*—the beautiful era
+- Under the gold standard, people held as much money as they pleased and spent as much as they desired on local or foreign production, and the actual money supply was not even easily measurable. (p. 35)
+- In the United States this era was called the Gilded Age. (p. 36)
+	- It was only interrupted by one episode of monetary insanity, which was effectively the last dying pang of silver as money (discussed in Ch. 6). #revisit
+- While the gold standard of the nineteenth century was arguably the closest thing that the world had ever seen to an ideal sound money, it nonetheless had its flaws. (p. 37)
+	- First, governments and banks were always creating media of exchange beyond the quantity of gold in their reserves.
+	- Second, many countries used not just gold in their reserves, but also currencies of other countries.
+- With growing international trade relying on settlement of large quantities of money across the world, the Bank of England's banknotes became, in the minds of many at the time, “as good as gold.” (p. 37)
+	- Britain, as the global superpower at that time, had benefited from having its money used as a reserve currency all around the world, resulting in its reserves of gold being a tiny fraction of its outstanding money supply.
+		- An unfair advantage. #develop 
+- The network of settlement became valuable enough that its owners' credit was effectively monetized. As the ability to run a bank started to imply money creation, governments naturally gravitated to taking over the banking sector through central banking. (p. 38)
+	- Viz., the banking sector was de-privatized.
+- With every passing generation displaying the intellectual complacence that tends to accompany wealth, the siren song of con artists and court-jester economists would prove increasingly irresistible for more of the population, leaving only a minority of knowledgeable economists and historians fighting an uphill battle to convince people that wealth can't be generated by tampering with the money supply, that allowing a sovereign the control of the money can only lead to them increasing their control of everyone's life, and that civilized human living itself rests on the integrity of money providing a solid foundation for trade and capital accumulation. (p. 38)
+- Interestingly, central banks continued to confiscate and accumulate more gold until the 1960s, where the move toward a U.S. dollar global standard began to shape up. Although gold was supposedly demonetized fully in 1971, central banks continued to hold significant gold reserves. Even as central banks repeatedly declared the end of gold's monetary role, their actions in maintaining their gold reserves ring truer. (p. 39)
+- From a monetary competition perspective, keeping gold reserves is a perfectly rational decision. Keeping reserves in foreign governments' easy money (e.g., USD) only will cause the value of the country's currency (e.g., JPY) to devalue along with the reserve currencies, while the seigniorage accrues to the issuer of the reserve currency (e.g., the Fed), not the nation's central bank (e.g., BoJ). (p. 39)
+	- Viz., countries holding USD as their reserve do not gain from the seigniorage; instead, they risk the value of their reserves declining due to inflation or currency depreciation in the country that issues the reserve currency. #develop 
+- Even in a world of government money, governments have not been able to decree gold's monetary role away, as their actions speak louder than their words. (p. 40) 
 ## 4. Government Money
+### Monetary Nationalism and the End of the Free World
+### The Interwar Era
+### World War II and Bretton Woods
+### Government Money’s Track Record
 ## 9. What is Bitcoin Good For?
+### Store of Value
+### Individual Sovereignty
+### International and Online Settlement
+### Global Unit of Account
+- Foreign exchange market is almost mimicking barter. (p. 212)
+	- The gold standard offered a solution to this problem, wherein a single form of money, independent of the control of any single government or authority, was the monetary standard worldwide. (p. 213)
+		- The bitcoin standard can also address the problem without introducing the fiat problems.
+			- Related: [[1-2g3b In short, new theories have to solve more problems than existent ones]] #develop 
+- However, bitcoin constitutes less than 1% of the global money supply. 
+	- $2 trillion bitcoin market cap vs $450 trillion global M2 money supply. #develop 
+- One fundamental difference between gold and bitcoin is that gold has large and highly elastic demand for use in a multitude of industrial and ornamental applications. (p. 214)
+	- The central banks are unlikely to dispose their gold reserves, because doing so would only gain a fiat currency which it can print itself as they please, at the expense of letting go of an asset which will likely gain value over its own currency. (p. 215)
+- Unlike industrial demand for gold, which is completely independent of its monetary demand, demand for bitcoin to operate the network is inextricably linked to demand for it as a store of value. (p. 215)
+	- Viz., there is no non-monetary aspect to bitcoin that can ameliorate the volatility of bitcoin's market value—particularly the downside volatility. #develop 
+		- Bitcoin either goes to zero, or higher (with less volatility the higher it goes). #develop 
+			- But given its predictable and limited supply, the upside volatility will be ameliorated as more people adapt bitcoin as unit of account. #develop 
+	- But as for the gold’s industrial demand, humans can create better substitutes—just like how bitcoin can be replaced by better technology. #develop 
+		- Related: [[7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete]]. #develop 
+- The persistence of volatility in bitcoin's value will prevent it from playing the role of a unit of account, at least until it has grown to many multiples of its current value and in the percentage of people worldwide who hold and accept it. (p. 215)
+- National currencies fluctuate in value based on each nation's and government's conditions, and their widespread adoption as a global reserve currency results in an “exorbitant privilege” to the issuing nation. (p. 216)
+	- Viz., the fact that USD is functioning as a measurement of price globally itself violates the definition of price—because USD, given its world reserve currency status, does not respect the Misesian dictum: [[Prices are one but many |price is one but many]]. The whole world is forced to the price in USD, whose value is always contingent upon the actions of the Fed and the US government. #develop
 
 ---
 # The Fiat Standard
