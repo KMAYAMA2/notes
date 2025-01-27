@@ -39,8 +39,48 @@ date: 2025-01-13
 	- Viz., countries holding USD as their reserve do not gain from the seigniorage; instead, they risk the value of their reserves declining due to inflation or currency depreciation in the country that issues the reserve currency. #develop 
 - Even in a world of government money, governments have not been able to decree gold's monetary role away, as their actions speak louder than their words. (p. 40) 
 ## 4. Government Money
+- World War I saw the end of the era of monetary media being the choice decided by the free market, and the beginning of the era of government money. (p. 41)
+- The common name for government money is fiat money, from the Latin word for decree, order, or authorization. (p. 41)
+- It was not government that decreed gold as money; rather, it is only by holding gold that governments could get their money to be accepted at all. (p. 42)
 ### Monetary Nationalism and the End of the Free World
+- In retrospect, the major difference between World War I and the previous limited wars was neither geopolitical nor strategic, but rather, it was monetary. (p. 43)
+	- The ease with which a government could issue more paper currency was too tempting in the heat of the conflict, and far easier than demanding taxation from the citizens. (p. 43)
+	- With the simple suspension of gold redeemability, governments' war efforts were no longer limited to the money that they had in their own treasuries. (p. 44)
+- With redemption of gold from central banks, and movement of gold internationally suspended or severely restricted in the major economies, governments could maintain the façade of the currency's value remaining at its prewar peg to gold, even as prices were rising. (p. 46)
+	- The suspension of gold convertibility during wartime allowed governments to maintain the illusion of monetary stability while financing deficits through inflation. The US deployed the same tactic under the Bretton Woods system and until its collapse in 1971. #develop 
+- A return to the old rates of exchange would cause citizens to demand holding gold rather than the ubiquitous paper receipts, and lead to the flight of gold outside the country to where it was fairly valued. (p. 47)
+	- I.e., Gresham’s law—because citizens will likely buy the gold and sell it elsewhere.
+- The introduction of bitcoin, as a currency native to the Internet superseding national borders and outside the realm of governmental control, offers an intriguing possibility for the emergence of a new international monetary system. (p. 47)
+> 	“A truly International Monetary System would be one where the whole world possessed a homogeneous currency such as obtains within separate countries and where its flow between regions was left to be determined by the results of the action of all individuals.” – Hayek
 ### The Interwar Era
+- Under monetary nationalism the money supply of each country, and the exchange rate between them, was to be determined in international agreements and meetings. (p .48)
+- Britain had major problems with the flow of gold from its shores to France and the United States as it attempted to maintain a gold standard but with a rate that overvalued the British pound and undervalued gold (i.e., Gresham’s law again). (p. 48)
+	- The 1922 Treaty of Genoa.
+		- The U.K. had hoped to alleviate its problems with the overvalued sterling by having other countries purchase large quantities of it to place in their reserves.
+		- The insanity of this arrangement was that these governments wanted to inflate while also maintaining the price of their currency stable in terms of gold at prewar levels.
+		- But this did not and could not work and gold continued to flow out of Britain to the United States and France.
+- Had they admitted to their people the magnitude of the devaluation that took place to fight the war, and re-pegged their currencies to gold at new rates, there would have probably been a recessionary crash, after which the economy would have recovered on a sound monetary basis. (p. 48)
+- As Britain's gold reserves were leaving its shores to places where they were better valued, the chief of the Bank of England, Sir Montagu Norman, leaned heavily on his French, German, and American counterparts to increase the money supply in their countries, devaluing their paper currencies in the hope that it would stem the flow of gold away from England. (p. 49)
+	- While the French and German bankers were not cooperative, Benjamin Strong, chairman of the New York Federal Reserve, was, and he engaged in inflationary monetary policy throughout the 1920s.
+		- The U.S. Fed's inflationary policy ended by the end of 1928, at which point the U.S. economy was ripe for the inevitable collapse that follows from the suspension of inflationism.
+- The Hoover Presidency (1929 March ~ 1933 March)
+	- The problems faced by the American economy in the 1930s were inextricably linked to the fixing of wages and prices.
+	- After the bubble burst, market prices sought readjustment via a drop in the value of the dollar compared to gold, and a drop in real wages and prices. (p. 50)
+		- By the early 1930s, the economic turmoil led to the suspension of the right for U.S. citizens to exchange USD for gold (i.e., Executive Order 6102). #develop 
+		- Viz., even though the gold flew into the US from UK after WWI, that didn't catch up with the amount of money the Fed was printing. #develop
+- The Roosevelt Presidency (1933 March ~ 1945 April)
+	- In order to remove the golden fetters to inflationism, President Roosevelt issued an executive order (Executive Order 6102 on April 5, 1933) banning the private ownership of gold, forcing Americans to sell their gold to the U.S. Treasury at a rate of $20.67 per ounce. With the population deprived of sound money, and forced to deal with dollars, Roosevelt then revalued the dollar on the international market from $20.67 per ounce to $35 per ounce, a 41% devaluation of the dollar in real terms (gold). This was the inevitable reality of years of inflationism which started in 1914 with the creation of the Federal Reserve and the financing of America's entry into World War II. (p. 51)
+		- Viz., they took gold away from people at $20.67—when it’s market price was $35 per ounce.
+- Academic economics stopped being an intellectual discipline focused on understanding human choices under scarcity to improve their conditions. (p. 52)
+- The classical liberal tradition that viewed economic freedom as the foundation of economic prosperity was quietly brushed aside as government propagandists masquerading as economists presented the Great Depression, caused and exacerbated by government controls, as the refutation of free markets. (p. 52)
+- With no standard of value to allow an international price mechanism to exist, and **with governments increasingly captured by statist and isolationist impulses**, currency manipulation emerged as a tool of trade policy, with countries seeking to devalue their currencies in order to give their exporters an advantage. (p. 53)
+	- E.g., the Plaza Accord on 1985. #develop
+	- Also the end of Bretton Woods in 1971 to stop the outflow of gold—the gold was underpriced vs the dollar at the end of Bretton Woods system (largely to fund deficits from the Vietnam War), and abandoning the system helped the US trade balances. #develop 
+		- The dollar's devaluation also helped reduce the "real" burden of U.S. debts (e.g., funding for the Vietnam War). Countries holding dollar reserves saw the value of their holdings decline, effectively benefiting the U.S. at their expense. #develop 
+			- Wars indirectly benefit the US because they allowed the US to take advantage of the _unique position of the dollar_ as the global reserve currency. #develop 
+		- Inflation surged in the 1970s, but this also worked to erode the real value of debt and made U.S. goods more competitive. #develop 
+	- Related: [[5-2a2 What gets measured gets managed]].
+		- The government interference happens because it prioritize its citizens over the others. #develop 
 ### World War II and Bretton Woods
 ### Government Money’s Track Record
 ## 9. What is Bitcoin Good For?
