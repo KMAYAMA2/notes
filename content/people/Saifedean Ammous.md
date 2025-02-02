@@ -82,6 +82,7 @@ date: 2025-01-13
 	- Related: [[5-2a2 What gets measured gets managed]].
 		- The government interference happens because it prioritize its citizens over the others. #develop 
 ### World War II and Bretton Woods
+- 
 ### Government Money’s Track Record
 ## 9. What is Bitcoin Good For?
 ### Store of Value
