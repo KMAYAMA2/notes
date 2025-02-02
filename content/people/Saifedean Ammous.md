@@ -1,6 +1,8 @@
 ---
 date: 2025-01-13
 ---
+# Principles of Economics
+
 # The Bitcoin Standard
 ## 3. Monetary Metals
 ### Why Gold?
@@ -82,8 +84,59 @@ date: 2025-01-13
 	- Related: [[5-2a2 What gets measured gets managed]].
 		- The government interference happens because it prioritize its citizens over the others. #develop 
 ### World War II and Bretton Woods
-- 
+- All spending is spending, in the naive economics of Keynesians, and so it matters not if that spending comes from individuals feeding their families or governments murdering foreigners: it all counts in aggregate demand and it all reduces unemployment. (p. 54)
+- The death of the populist and powerful FDR and his replacement by the meeker and less iconic Truman, coming up against a Congress controlled by Republicans, created political deadlock that prevented the renewal of the statutes of the New Deal. (p. 55)
+	- The end of World War II and the dismantling of the New Deal meant the U.S. government cut its spending by an astonishing 75% between 1944 and 1948, and it also removed most price controls for good measure. And yet, the U.S. economy witnessed an extraordinary boom during these years.
+		- The situation was far from perfect, though, as the world remained off the gold standard.
+- The Bretton Woods Conference (1944)
+	- The United States was to be the center of the global monetary system, with its dollars being used as a global reserve currency by other central banks, whose currencies would be convertible to dollars at fixed exchange rates, while the dollar itself would be convertible to gold at a fixed exchange rate.
+		- To facilitate this system, the United States would take gold from other countries' central banks.
+			- The same tactic FDR employed against its citizens right after the Great Depression. #develop 
+	- In essence, Bretton Woods attempted to achieve through central planning what the international gold standard of the nineteenth century had achieved spontaneously. (p. 57)
+		- Whatever amount of money or goods moved across borders did so at the discretion of its owners under the gold standard, and no macroeconomic problems could emerge.
+		- In the Bretton Woods system, governments were dominated by Keynesian economists who viewed activist fiscal and monetary policy as a natural and important part of government policy.
+- The constant monetary and fiscal management would naturally lead to the fluctuation of the value of national currencies, resulting in imbalances in trade and capital flows. (pp. 57-58) 
+	- When a country's currency is devalued, its products become cheaper to foreigners, leading to more goods leaving the country, while holders of the currency seek to purchase foreign currencies to protect themselves from devaluation. 
+	- As devaluation is usually accompanied by artificially low interest rates, capital seeks exit from the country to go where it can be better rewarded, exacerbating the devaluation of the currency. 
+	- On the other hand, countries which maintained their currency better than others would thus witness an influx of capital whenever their neighbors devalued, leading to their currency appreciating further.
+		- The currency that appreciated from the Bretton Woods was USD by design. 
+	- Devaluation would sow the seeds of more devaluation, whereas currency appreciation would lead to more appreciation, creating a problematic dynamic for the two governments. 
+	- No such problems could exist with the gold standard, where the value of the currency in both countries was constant, because it was gold, and movements of goods and capital would not affect the value of the currency.
+		- In other words, the value of the currency does not affect the movements of goods and capital under the gold standard. #develop 
+- Without a stable unit of account for the global economy, the Bretton Woods system was as hopeless as attempting to build a house with an elastic measuring tape whose own length varied every time it was used. (p. 58)
+	- Again, because of money’s non-neutrality. #develop 
+- In essence, the system was akin to the entire world economy being run as one country on a gold standard, with the U.S. Federal Reserve acting as the world's central bank and all the world's central banks as regional banks, the main difference being that the monetary discipline of the gold standard was almost entirely lost in this world where **there were no effective controls on all central banks in expanding the money supply**, because no citizens could redeem their government money for gold. (p. 59)
+- French economist Jacques Reuff coined the phrase “deficit without tears” to describe the new economic reality that the United States inhabited, where it could purchase whatever it wanted from the world and finance it through debt monetized by inflating the currency that the entire world used. (p. 59)
+- The military industry that prospered during World War II grew into what President Eisenhower called *the Military–Industrial Complex*—an enormous conglomerate of industries that was powerful enough to demand ever more funding from the government, and drive U.S. foreign policy toward an endless series of expensive conflicts with no rational end goal or clear objective. (p. 59)
+	- Because USD is ultimately backed by raw power and its exhibition: war (see *The Fiat Standard, Ch. 16*). #develop 
+		- Whereas bitcoin is backed by Proof of Work. #develop 
+- Fiat money allowed the American electorate to ignore the laws of economics and believe that a free lunch, or at least a perpetually discounted one, was somehow possible. (p. 60)
+- In the absence of gold convertibility and with the ability to disperse the costs of inflation on the rest of the world, the only winning political formula consisted of increasing government spending financed by inflation, and every single presidential term in the postwar era witnessed a growth in government expenditure and the national debt and a loss of the purchasing power of the dollar.
+	- Viz., money was forced into one—because the Bretton Woods had secured USD as the global reserve currency. But this was not achieved through market force—hence not beneficial for the whole of humanity. #develop
 ### Government Money’s Track Record
+- In effect, the United States had defaulted on its commitment to redeem its dollars in gold in 1971. (p. 61)
+- Freely fluctuating exchange rates is “a system of partial barter.” (p. 61)
+	- The seller does not want the currency held by the buyer, and so the buyer must purchase another currency first, and incur conversion costs.
+	- The market for foreign exchange, at $5 trillion of daily volume, exists purely as a result of this inefficiency of the absence of a single global homogeneous international currency.
+		- The foreign exchange market is not a spontaneous market phenomenon. #develop 
+- The total U.S. M2 measure of the money supply in 1971 was around $600 billion, while today it is in excess of $12 trillion, growing at an average annual rate of 6.7%. Correspondingly, in 1971, 1 ounce of gold was worth $35, and today it is worth more than $1,200. (p. 62)
+	- M2 money supply: 20x
+	- The price of gold: 35x
+		- The price of bitcoin: ?x
+- Hyperinflation is a form of economic disaster unique to government money. (p. 66)
+	- There was never an example of hyperinflation with economies that operated a gold or silver standard, and even when artifact money like seashells and beads lost its monetary role over time, it usually lost it slowly, with replacements taking over more and more of the purchasing power of the outgoing money.
+		- The modern equivalent: the dollarization of Ecuador. #develop
+- The constantly increasing supply means a continuous devaluation of the currency, expropriating the wealth of the holders to benefit those who print the currency, and those who receive it earliest. (p. 67)
+	- The Cantillon effect (the non-neutrality of money).
+- History has shown that governments will inevitably succumb to the temptation of inflating the money supply. (p. 67)
+	- This is no different from copper producers mining more copper in response to monetary demand for copper; it rewards the producers of the monetary good, but punishes those who choose to put their savings in copper.
+		- Only the hardest money at that point in time can perform the role of sound money. #develop 
+- Government can confiscate money from the banking monopolies it controls, inflate the currency to devalue holders' wealth and reward it to the most loyal of its subjects, impose draconian taxes and punish those who avoid them, and even confiscate bills. (p. 70)
+	- Viz., what we have is crony capitalism.
+- *Sound money* is the money that is chosen by the market freely and the money completely under the control of the person who earned it legitimately on the free market and not any other third party. (p. 70)
+- As one of the deans of the Austrian tradition in economics, Mises well understood that value does not exist outside of human consciousness, and that metals and substances had nothing inherent to them that could assign to them a monetary role. (p. 70)
+	- Because we create knowledge and meaning. #develop
+- In its infancy, bitcoin already appears to satisfy all the requirements of Menger, Mises, and Hayek: it is a highly salable free-market option that is resistant to government meddling. (p. 72)
 ## 9. What is Bitcoin Good For?
 ### Store of Value
 ### Individual Sovereignty
@@ -331,6 +384,8 @@ date: 2025-01-13
 - The more attractive model for savers will be one in which they make a real return from the businesses in which the bank invests their money, sharing in the profit and loss. (p. 328)
 	- Viz., either the companies, or the hedge funds, will assume the role of banking. #develop 
 - The role of the bank will be in matching maturities and risk profiles between borrowers and lenders and identifying the correct projects in which to invest. (p. 328)
+### 16. Bitcoin and Energy Markets
+
 ### 17. Bitcoin Cost-Benefit Analysis
 #### Is Bitcoin Worth It?
 - The millions of people who have chosen to hold more than $800 billion of economic value in the bitcoin network are clearly making a similar judgment to these users of modern energy-intensive technology. (p. 363)
