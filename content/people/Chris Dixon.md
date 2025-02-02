@@ -1,3 +1,6 @@
+---
+date: 2025-02-02
+---
 - [[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
 - [[6-3b When you own something, you have an incentive to invest in it]]
 
