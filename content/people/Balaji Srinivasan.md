@@ -16,7 +16,7 @@
 	- E.g., Uber drivers and their star ratings
 - Blockchain is an immediatist model of history because 'the past' is with us at every second. History is connected.
 - Even after 51%-attack, people can create before-attack forked chain and keep using that fork instead
-	- I.e., humans are creative
+	- I.e., humans are creative.
 - **Figure out the Network way of doing something, without going through the State**
 - God-Network synthesis (e.g., the Jewish diaspora before Israel)
 	- "What would the people you respect advise in your situation?"
