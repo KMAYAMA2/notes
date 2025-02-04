@@ -2,163 +2,256 @@
 date: 2025-01-13
 ---
 # Principles of Economics
+## Part I. Fundamentals
+### Chapter 2: Value
+> “Value does not exist outside the consciousness of men.” – Carl Menger
+#### Utility and Value
+> “Value is thus nothing inherent in goods, no property of them, nor an independent thing existing by itself. It is a judgment economizing men make about the importance of the goods at their disposal for the maintenance of their lives and well-being.” – Carl Menger 
+- Oil in the year 2020 is no different chemically and physically from oil in the year 1620, and yet its value has changed from negative to positive. (p. 42)
+	- I.e., via knowledge. #develop 
+		- Value cannot be a constant property of objects; it is a conscious phenomenon in our minds. (pp. 42-43)
+			- However, knowledge is [[5-3c Knowledge is irreversible, and can only go from private to public |irreversible]]. #develop 
+#### Valuation: Ordinal and Cardinal
+> “A judgment of value does not measure, it arranges in a scale of degrees, it grades. It is expressive of an order of preference and sequence, but not expressive of measure and weight. Only the ordinal numbers can be applied to it, but not the cardinal numbers.” – Ludwig von Mises
+- It is impossible for the person to express these preferences in quantitative and cardinal terms. (p. 44)
+	- Because it’s subjective.
+		- And it’s an ever-changing [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together. |list]]
+#### Value and Price
+- The value of economic goods is distinct from, and not to be confused with, their price. (p. 45)
+- The price at which a sale is conducted illustrates only that the seller values the good less than the price, while the buyer values it more. (p. 46)
+	- It is not possible to determine an individual’s precise valuation from their transaction, only its upper or lower bounds.
+#### Free Exchange
+#### Determinants of Value
+- The fundamental difference between Austrian school economists and other schools is that Austrians view value as subjective, while other schools conceive of value as something objective, or objectively measurable. (p. 47)
+	- I.e., the difference is [[1-1c You need the best available epistemology because it affects how you see the world |epistemology]].
+- There is no guaranteed correspondence between the amount of labor expended in production and the value of that production. (p. 48)
+	- Related: [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+		- Viz., the labor theory of value is wrong.
+			- It is only the choice of consumers in the market that can pass that judgment and determine the value of goods.
+#### Marginalism
+- The same good will have a different value to the same person depending on what need of his it meets at a given point in time. (p. 49)
+	- Related: [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+- The importance that we attach to goods is inextricably dependent on the quantity of those goods, and their quantity in relation to the existing supply of the good we have at our disposal. (p. 50)
+#### Marginal Utility
+- Menger illustrated that value is dependent on the needs the goods satisfy, which are, in turn, dependent on the abundance and scarcity of the goods, and only to the person making the valuation. (p. 51)
+- Economic decisions pertain only to individual units of goods, and individuals are at any point in time primarily making decisions about the next unit of a good they want to consume, not their lifetime supply of it, nor the good in the abstract.
+	- Viz., there is no such thing as economic decisions in the abstract. #develop
+#### Law of Diminishing Marginal Utility
+- The law of diminishing marginal utility is another reminder that there is no such thing as an objective value of good X, as that value changes depending on the abundance of good X and the needs it satisfies. (p. 52)
+- There are only ever subjective values of the next (marginal) unit of good X to the person making the valuation. This is dependent on the subjective preferences of the valuing individual and the abundance of the good.
+- Related: [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]. #develop 
+- Related: [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve!]] #develop 
+#### Valuation by the Least Valuable Use
+- Valuation occurs at the margin. #develop 
+	- There is no valuation in the abstract. #develop 
+- Why is water relatively cheap even though it is essential?
+	- Because its essential nature ensures humans are usually in possession of large quantities of it and make their marginal purchasing decisions based on the marginal units going to less pressing needs. (p. 53)
+#### Water-Diamond Paradox
+- Since drinking water is usually available in large quantities wherever humans are settled, it, therefore, follows that the most pressing needs of water are already met, and that market choices are being made over units meeting far less pressing needs. (p. 55)
+- The water-diamond paradox illustrates the importance of individual circumstances to the assessment of subjective value. (p. 56)
+### Chapter 3: Time
+- Would there be economics for God? #develop 
+- Related: [[4-1a4b6a0.3 Time is money means money is time]]. #develop 
+- Related: [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]. #develop 
+#### The Ultimate Resource
+- This chapter builds on the work of economist Julian Simon to argue that human time is the ultimate resource and that economic scarcity is a consequence of the scarcity of human time. (p. 57)
+- There are no binding physical constraints on the production of economic goods, and with the dedication of more human time and effort, the output of any good can be increased indefinitely. (p. 58)
+	- “Given enough time” #develop 
+- In contrast to the relative and constantly decreasing scarcity of material objects, human time’s absolute scarcity increases with time. This is intuitively true individually, as growing and aging make man realize that his time on Earth only gets scarcer, giving it more value. (p. 58)
+	- The individual may have low time preference such that he provisions for his future generations. #develop 
+		- See *The Fiat Standard* Ch. 7, primarily *Fiat Family* section. #revisit 
+	- But, as Mises and Menger would argue, the valuation is subjective—meaning whether he cares for his future generations or not, it is always the individuals whose time on the Earth is finite (unless he is God) that does the valuation. #develop 
+- In reality, resources need to be produced before they are consumed, and their production is limited not by their physical abundance on our enormous planet, but by the amount of time humans dedicate to producing them, and their opportunity costs in terms of other goods. (pp. 58-59)
+	- Viz., it depends on the state of knowledge. #develop 
+- Whereas economists had generally posited the scarcity of material goods as the starting point of economic analysis, it would be more accurate to understand scarcity as a function of the finite nature of human time. (p. 59)
+	- What makes them scarce for us is the time that is required to produce them, since that is limited and constrained in a very vivid sense to us.
+#### Opportunity Cost
+- The fact that our time is scarce means we cannot engage in all activities at all times. (p. 59)
+- Since human time is scarce, it is valuable to humans. (p. 60)
+#### Material Abundance
+#### Simon’s Bet
+- Simon understood that as the human population increased and demand for these metals increased, these metals would have more resources directed toward their production, their quantities would increase, and their prices would decrease. (p. 72)
+- Simon, as an economist, understood the dynamics driving the production of these metals, even though he had little familiarity with the geological realities. (p. 72)
+	- Related: [[5-2b5 Theories precede data]]. #develop
+- Simon knew that the scarcity of these metals depended ultimately on the amount of time humans dedicated to them, and that was, in turn, dependent on the incentive humans had to produce these resources, not on geological limitations. (p. 72)
+	- More specifically, human ability to create knowledge has to be taken into consideration (as well as how to encourage them). #develop
+#### Time Preference
+#### Economizing Time
+- As discussed above, economic scarcity is ultimately the scarcity of human time. (p. 73)
+	- We can then also understand the entirety of human economizing as centering around economizing time. 
+		- That is, **we seek to increase the amount and subjective value of our time on Earth**.
+- Ultimately, the economic question is how we trade off present utility against longer survival and future utility. The most important trade an individual conducts is their trade with their future self. (pp. 74-75)
+	- Related: [[4-1a4b6a1 Future self is enough of an audience]]. #develop 
+	- Related: [[2-1b2 Play in different time horizon. That is, in the long-run.]] #develop  
+- Work, and the accumulation of capital, lead to increases in productivity, increasing the value of an individual’s time. (p. 75)
+#### Economizing Action
+- The following nine chapters of the book will each focus on important tools we humans have developed, consciously and spontaneously, to increase the quantity and value of our time. (p. 76)
+## Part II. Economy
+### Chapter 5: Property
+### Chapter 7: Technology
+### Chapter 8: Energy and Power
+#### Energy in Human History
+#### Energy Abundance
+- The amount of solar energy that falls on Earth in one hour is more energy than the entire human race consumes in one year. (p. 163)
+- What constitutes the practical and realistic limit to the quantity of any resource is always the amount of human time that is directed toward producing it, as this is the only real scarce resource. (p. 164)
+	- To be more precise, time dedicated is not a sufficient condition, but necessary one for new knowledge to be created. #develop 
+		- As discussed in Chapter 3.
+- The price of virtually all resources is lower today than it was at past points in history because our technological advancement allows us to produce them at a lower cost in terms of our time. (p. 164)
+	- To be specific, due to the knowledge (i.e., technology) created. #develop 
+- As consumption increases with time, more oil reserves are invariably found. (p. 165)
+	- People produce goods where there is demand—this is why your money should be hard. #develop 
+- With every economic good other than bitcoin, there is no natural limit to its production; the only limit lies in how much time humans dedicate to producing it, which in turn is determined through the price mechanism sending signals to producers. (p. 165)
+	- Viz., the price mechanism (i.e., market) dictates where the knowledge will be created. This is why government interference is detrimental to the whole society. #develop
+	- The power of self-constraint in the bitcoin supply architecture. #develop 
+- The scarcity of energy, like all types of pre-bitcoin scarcity, is relative scarcity, whose cause lies in its opportunity cost in terms of other resources. (p. 165)
+	- The non-scarce nature of energy implies that it cannot be an economic good (as discussed in Chapter 2).
+- Only when directed to the satisfaction of our needs can energy sources be considered goods, and only when directed to the satisfaction of our needs does energy indeed become scarce, and thus, an economic good. (p. 166)
+	- Again, value (ordinal rather than cardinal) exists because the scarcity of each individual’s time necessitates economization of available resources. #develop  
+		- `Revisit Chapter 2 and 3`. #revisit 
+- **Energy, then, is not an economic good, but power is.**
+	- Applying the framework of subjective valuation at the margin (discussed in Chapter 2) to understand energy is a powerful explanatory tool that illuminates the nature of energy markets.
+#### Power Scarcity
+#### Power of Hydrocarbon Alternatives
+- In The Fiat Standard, I argue the hostility of modern government-funded science to hydrocarbon fuels has its roots in inflationary monetary policy, which at once raises the prices of these essential fuels and allows the government to finance and dictate science. The government would like to promote fuel-free alternatives because they are less sensitive to monetary inflation than high-power fuels mass-produced on a global market. (p. 180)
+	- See Chapter 10 and 16 of *The Fiat Standard*. 
+	- The government employs the same schematic with its fiat food program (see Chapter 8 of *The Fiat Standard*).
+- Hydrocarbon power sources are easily transportable and storable, allowing them to be present in large quantities when and where they are to be needed. (p. 181)
+	- I.e., it easily satisfies our needs when needed.
+- For high-productivity machinery to function, it does not just require a low marginal cost of energy; it requires a low marginal cost of energy at all times. (p. 181)
+- To make solar and wind power suitable for modern life would require using battery technology, which has an abysmally low energy per weight, in the range of 0.5 MJ/kg, which is roughly 1% of the energy density of oil or natural gas. (p. 182)
+	- What would Elon Musk say about this? #develop 
+#### Energy and Freedom
+- Slavery as an institution was more common in a world of primitive energy sources. (p. 183)
+- As machines and energy raised the productivity of labor, they increased the likelihood of workers being hired voluntarily rather than coercively. (p. 183)
+- In the modern context of energy abundance, where an individual in a rich, industrialized, developed country uses the energy of 100 humans every day, adding an extra human as a slave contributes very little power at the margin. (pp. 183-184)
+	- The intelligence and integrity of workers in managing and maintaining machines became far more valuable than their brute force.
+		- It is no coincidence that the abolition of slavery spread across the world with the spread of industrialization.
+- The economics of machinery make slavery far less workable economically.
+	- Viz., [[7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete |tech-driven]]. #develop 
+		- Related: [[8-2b2a 'Technologies that change society are technologies that change interactions between people']]. #develop 
+- High-powered machines are also an underappreciated driver of the liberation of women. (p. 184)
+	- It was also a consequence of fiat money and inflationary policies that necessitated double-income for many households. 
+		- See Chapter 7 of *The Fiat Standard*
+- In a modern, energy-rich economy, the most productive and highly rewarded jobs no longer require physical strength. (p. 185)
+## Part III. The Market Order
+### Chapter 10: Money
+#### The Problem Money Solves
+#### Salability
+#### Salability across Time
+#### Why One Money?
+- The more common the medium of exchange, the more salable it is and the larger the potential market its holder can sell to. (p. 230)
+- As time goes by, primitive and unsuitable monetary media are discarded and ignored as their users lose their wealth, and in the long run, the most important metric in determining monetary status becomes the metric of hardness, or stock-to-flow ratio. (p. 230)
+#### Money and the State
+- As humans seek to satisfy their desires through indirect exchange, some goods begin to play a monetary role better than others, and those who employ these media of exchange benefit from using them. Others copy them, and the successful solutions become more widespread. 
+	- If they do not copy the successful solutions, they lose wealth to those who do. The better solutions impose themselves as economic reality always does, by rewarding those who adopt them and punishing those who do not. (pp. 231-232)
+- Mises’ ***regression theorem***
+	- A normal market good can develop into a monetary good when it acquires monetary demand through the price mechanism of market—raising its value and increasing its salability. #develop 
+		- Money, like all goods, emerges on the market because it offers a utility that makes individuals give value to it. (p. 232)
+			- Gold’s global monetary role was not conferred by some government authority.
+			- Government coins became money because they were minted from gold.
+- As with gold, silver, and all forms of money, statist recognition follows economic reality; it does not predate or dictate it. (p. 234)
+	- Think about the implication for bitcoin. #develop 
+#### Value of Money
+1. *Increase the division of labor*
+2. *Allow for economic calculation*
+3. *Lower time preference*
+	- Money is technology, and technology affects time-preference. #develop 
+		- Related: [[1-1a2a1 Human nature is variable (Cultures ⇒ Flexible human brains ⇒ Variable dark matters ⇒ Variable 'human natures' ⇒ Cultures . . .) |human nature is variable]]. #develop 
+	- As its salability allows for increasing provision for the future, the uncertainty of the future decreases, and individuals’ discounting of the future decreases. (p. 236)
+		- Viz., time-preference is tech-driven. #develop 
+	- It allows saving while preserving salability—the “saving” via forced “investment” under the fiat system has more risk because its salability is lower than the saving under the gold (or bitcoin) standard. #develop 
+		- See Chapter 13.
+	- Money can thus be understood as an important technology for the lowering of human time preference, as it is an extremely powerful tool for providing for the future, reducing the uncertainty around it, and allowing its holder to plan for it. (p. 236)
+	- **Money, at least in a free market, is the good with the most salability and least risk**; it is the good that can always be converted to other goods with the smallest loss of its economic value. (pp. 236-237)
+		- Money may not have a yield, but it is still held because it has the least uncertainty of all assets.
+			- See *“The Yield from Money Held” Reconsidered* by Hoppe. #revisit 
+	- Uncertainty is a major contributor to the discounting of the future. (p. 237)
+		- And harder the money, the less uncertainty with regard to its purchasing power in the future. #develop 
+	- Access to money, and in particular good and hard money, is a way to mitigate this uncertainty. (p. 237)
+	- And the more humans can plan for their future and thrive in the long run, the more money will cause time preference to decline and civilization to thrive. (p. 237)
+		- Viz., hard money begets saving begets capital to be deployed into the future (rather than being consumed in the present). #develop #revisit 
+#### Money’s Uniqueness
+- The utility of money is derived from the utility of the goods it can be exchanged for. (p. 237)
+	- Viz., money does not necessarily have to possess industrial component like gold. #develop 
+- Money, like all goods, will have a diminishing marginal utility, but its marginal utility declines less than the marginal utility of all other goods, since each successive unit of money can be used to buy a unit from the next most valuable unit of any good and not just the next most valuable unit of the same good. (pp. 237-238)
+- Being liquid and easily exchangeable for other goods makes money a more useful thing to hold than other goods because it can easily be exchanged for whichever good the individual happens to value most at any time. (p. 238)
+	- Money versus illiquid asset (e.g., money-substitutes such as real estate and stocks) is similar to hydrocarbon power sources versus inefficient alternatives (see Chapter 8)—money and hydrocarbon resource is portable and storable.
+		- More specifically, fiat money is portable and storable spatially, but not sequentially (i.e., in time).
+			- See *The Fiat Standard* on how salability across time is what defines hard money. #revisit  
+- The high salability gives money the utility of whatever good happens to be most valuable to the holder of money at any time. (p. 238)
+#### How Much Money Should There Be?
+> “Nobody wants to have in his cash holding a definite number of pieces of money or a definite weight of money; he wants to keep a cash holding of a definite amount of purchasing power.” – [[Ludwig von Mises]]
 
-# The Bitcoin Standard
-## 3. Monetary Metals
-### Why Gold?
-- For anything to function as a good store of value, it has to beat this trap: it has to appreciate when people demand it as a store of value, but its producers have to be constrained from inflating the supply significantly enough to bring the price down. (p. 21)
-### Roman Golden Age and Decline
-### Byzantium and the Bezant
-### The Renaissance
-- It was in the city-states that humans could live with the freedom to work, produce, trade, and flourish, and that was to a large extent the result of these city-states adopting a sound monetary standard. (p. 30)
-	- It all began in Florence in 1252, when the city minted the florin, the first major European sound coinage since Julius Caesar's aureus.
-	- Venice was the first to follow Florence's example with its minting of the ducat, of the same specifications as the florin, in 1270, and by the end of the fourteenth century more than 150 European cities and states had minted coins of the same specifications as the florin.
-- Two particular technological advancements would move Europe and the world away from physical coins and in turn help bring about the demise of silver's monetary role: the telegraph, first deployed commercially in 1837, and the growing network of trains, allowing transportation across Europe. (p. 31)
-	- Eventually, the telegraph also outdid gold.
-		- Bitcoin is both hard and fast. #develop 
-- The death knell for silver's monetary role was the end of the Franco-Prussian war, when Germany extracted an indemnity of £200 million in gold from France and used it to switch to a gold standard. (p. 32)
-- It is the author's opinion that the history of China and India, and their failure to catch up to the West during the twentieth century, is inextricably linked to this massive destruction of wealth and capital brought about by the demonetization of the monetary metal these countries utilized. (p. 33)
-	- The demonetization of silver in effect left the Chinese and Indians in a situation similar to west Africans holding aggri beads as Europeans arrived: domestic hard money was easy money for foreigners, and was being driven out by foreign hard money, which allowed foreigners to control and own increasing quantities of the capital and resources of China and India during the period.
-- We can thus understand why nineteenth-century sound money economists like Menger focused their understanding of money's soundness on its salability as a market good, whereas twentieth-century sound money economists, like Mises, Hayek, Rothbard, and Salerno, focused their analysis of money's soundness on its resistance to control by a sovereign. (p. 34)
-	- Because credit money was ubiquitous during twentieth-century.
-- The money invented in the twenty-first century, bitcoin, was designed primarily to avoid centralized control.
-	- Related: [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
-### *La Belle Epoque*—the beautiful era
-- Under the gold standard, people held as much money as they pleased and spent as much as they desired on local or foreign production, and the actual money supply was not even easily measurable. (p. 35)
-- In the United States this era was called the Gilded Age. (p. 36)
-	- It was only interrupted by one episode of monetary insanity, which was effectively the last dying pang of silver as money (discussed in Ch. 6). #revisit
-- While the gold standard of the nineteenth century was arguably the closest thing that the world had ever seen to an ideal sound money, it nonetheless had its flaws. (p. 37)
-	- First, governments and banks were always creating media of exchange beyond the quantity of gold in their reserves.
-	- Second, many countries used not just gold in their reserves, but also currencies of other countries.
-- With growing international trade relying on settlement of large quantities of money across the world, the Bank of England's banknotes became, in the minds of many at the time, “as good as gold.” (p. 37)
-	- Britain, as the global superpower at that time, had benefited from having its money used as a reserve currency all around the world, resulting in its reserves of gold being a tiny fraction of its outstanding money supply.
-		- An unfair advantage. #develop 
-- The network of settlement became valuable enough that its owners' credit was effectively monetized. As the ability to run a bank started to imply money creation, governments naturally gravitated to taking over the banking sector through central banking. (p. 38)
-	- Viz., the banking sector was de-privatized.
-- With every passing generation displaying the intellectual complacence that tends to accompany wealth, the siren song of con artists and court-jester economists would prove increasingly irresistible for more of the population, leaving only a minority of knowledgeable economists and historians fighting an uphill battle to convince people that wealth can't be generated by tampering with the money supply, that allowing a sovereign the control of the money can only lead to them increasing their control of everyone's life, and that civilized human living itself rests on the integrity of money providing a solid foundation for trade and capital accumulation. (p. 38)
-- Interestingly, central banks continued to confiscate and accumulate more gold until the 1960s, where the move toward a U.S. dollar global standard began to shape up. Although gold was supposedly demonetized fully in 1971, central banks continued to hold significant gold reserves. Even as central banks repeatedly declared the end of gold's monetary role, their actions in maintaining their gold reserves ring truer. (p. 39)
-- From a monetary competition perspective, keeping gold reserves is a perfectly rational decision. Keeping reserves in foreign governments' easy money (e.g., USD) only will cause the value of the country's currency (e.g., JPY) to devalue along with the reserve currencies, while the seigniorage accrues to the issuer of the reserve currency (e.g., the Fed), not the nation's central bank (e.g., BoJ). (p. 39)
-	- Viz., countries holding USD as their reserve do not gain from the seigniorage; instead, they risk the value of their reserves declining due to inflation or currency depreciation in the country that issues the reserve currency. #develop 
-- Even in a world of government money, governments have not been able to decree gold's monetary role away, as their actions speak louder than their words. (p. 40) 
-## 4. Government Money
-- World War I saw the end of the era of monetary media being the choice decided by the free market, and the beginning of the era of government money. (p. 41)
-- The common name for government money is fiat money, from the Latin word for decree, order, or authorization. (p. 41)
-- It was not government that decreed gold as money; rather, it is only by holding gold that governments could get their money to be accepted at all. (p. 42)
-### Monetary Nationalism and the End of the Free World
-- In retrospect, the major difference between World War I and the previous limited wars was neither geopolitical nor strategic, but rather, it was monetary. (p. 43)
-	- The ease with which a government could issue more paper currency was too tempting in the heat of the conflict, and far easier than demanding taxation from the citizens. (p. 43)
-	- With the simple suspension of gold redeemability, governments' war efforts were no longer limited to the money that they had in their own treasuries. (p. 44)
-- With redemption of gold from central banks, and movement of gold internationally suspended or severely restricted in the major economies, governments could maintain the façade of the currency's value remaining at its prewar peg to gold, even as prices were rising. (p. 46)
-	- The suspension of gold convertibility during wartime allowed governments to maintain the illusion of monetary stability while financing deficits through inflation. The US deployed the same tactic under the Bretton Woods system and until its collapse in 1971. #develop 
-- A return to the old rates of exchange would cause citizens to demand holding gold rather than the ubiquitous paper receipts, and lead to the flight of gold outside the country to where it was fairly valued. (p. 47)
-	- I.e., Gresham’s law—because citizens will likely buy the gold and sell it elsewhere.
-- The introduction of bitcoin, as a currency native to the Internet superseding national borders and outside the realm of governmental control, offers an intriguing possibility for the emergence of a new international monetary system. (p. 47)
-> 	“A truly International Monetary System would be one where the whole world possessed a homogeneous currency such as obtains within separate countries and where its flow between regions was left to be determined by the results of the action of all individuals.” – Hayek
-### The Interwar Era
-- Under monetary nationalism the money supply of each country, and the exchange rate between them, was to be determined in international agreements and meetings. (p .48)
-- Britain had major problems with the flow of gold from its shores to France and the United States as it attempted to maintain a gold standard but with a rate that overvalued the British pound and undervalued gold (i.e., Gresham’s law again). (p. 48)
-	- The 1922 Treaty of Genoa.
-		- The U.K. had hoped to alleviate its problems with the overvalued sterling by having other countries purchase large quantities of it to place in their reserves.
-		- The insanity of this arrangement was that these governments wanted to inflate while also maintaining the price of their currency stable in terms of gold at prewar levels.
-		- But this did not and could not work and gold continued to flow out of Britain to the United States and France.
-- Had they admitted to their people the magnitude of the devaluation that took place to fight the war, and re-pegged their currencies to gold at new rates, there would have probably been a recessionary crash, after which the economy would have recovered on a sound monetary basis. (p. 48)
-- As Britain's gold reserves were leaving its shores to places where they were better valued, the chief of the Bank of England, Sir Montagu Norman, leaned heavily on his French, German, and American counterparts to increase the money supply in their countries, devaluing their paper currencies in the hope that it would stem the flow of gold away from England. (p. 49)
-	- While the French and German bankers were not cooperative, Benjamin Strong, chairman of the New York Federal Reserve, was, and he engaged in inflationary monetary policy throughout the 1920s.
-		- The U.S. Fed's inflationary policy ended by the end of 1928, at which point the U.S. economy was ripe for the inevitable collapse that follows from the suspension of inflationism.
-- The Hoover Presidency (1929 March ~ 1933 March)
-	- The problems faced by the American economy in the 1930s were inextricably linked to the fixing of wages and prices.
-	- After the bubble burst, market prices sought readjustment via a drop in the value of the dollar compared to gold, and a drop in real wages and prices. (p. 50)
-		- By the early 1930s, the economic turmoil led to the suspension of the right for U.S. citizens to exchange USD for gold (i.e., Executive Order 6102). #develop 
-		- Viz., even though the gold flew into the US from UK after WWI, that didn't catch up with the amount of money the Fed was printing. #develop
-- The Roosevelt Presidency (1933 March ~ 1945 April)
-	- In order to remove the golden fetters to inflationism, President Roosevelt issued an executive order (Executive Order 6102 on April 5, 1933) banning the private ownership of gold, forcing Americans to sell their gold to the U.S. Treasury at a rate of $20.67 per ounce. With the population deprived of sound money, and forced to deal with dollars, Roosevelt then revalued the dollar on the international market from $20.67 per ounce to $35 per ounce, a 41% devaluation of the dollar in real terms (gold). This was the inevitable reality of years of inflationism which started in 1914 with the creation of the Federal Reserve and the financing of America's entry into World War II. (p. 51)
-		- Viz., they took gold away from people at $20.67—when it’s market price was $35 per ounce.
-- Academic economics stopped being an intellectual discipline focused on understanding human choices under scarcity to improve their conditions. (p. 52)
-- The classical liberal tradition that viewed economic freedom as the foundation of economic prosperity was quietly brushed aside as government propagandists masquerading as economists presented the Great Depression, caused and exacerbated by government controls, as the refutation of free markets. (p. 52)
-- With no standard of value to allow an international price mechanism to exist, and **with governments increasingly captured by statist and isolationist impulses**, currency manipulation emerged as a tool of trade policy, with countries seeking to devalue their currencies in order to give their exporters an advantage. (p. 53)
-	- E.g., the Plaza Accord on 1985. #develop
-	- Also the end of Bretton Woods in 1971 to stop the outflow of gold—the gold was underpriced vs the dollar at the end of Bretton Woods system (largely to fund deficits from the Vietnam War), and abandoning the system helped the US trade balances. #develop 
-		- The dollar's devaluation also helped reduce the "real" burden of U.S. debts (e.g., funding for the Vietnam War). Countries holding dollar reserves saw the value of their holdings decline, effectively benefiting the U.S. at their expense. #develop 
-			- Wars indirectly benefit the US because they allowed the US to take advantage of the _unique position of the dollar_ as the global reserve currency. #develop 
-		- Inflation surged in the 1970s, but this also worked to erode the real value of debt and made U.S. goods more competitive. #develop 
-	- Related: [[5-2a2 What gets measured gets managed]].
-		- The government interference happens because it prioritize its citizens over the others. #develop 
-### World War II and Bretton Woods
-- All spending is spending, in the naive economics of Keynesians, and so it matters not if that spending comes from individuals feeding their families or governments murdering foreigners: it all counts in aggregate demand and it all reduces unemployment. (p. 54)
-- The death of the populist and powerful FDR and his replacement by the meeker and less iconic Truman, coming up against a Congress controlled by Republicans, created political deadlock that prevented the renewal of the statutes of the New Deal. (p. 55)
-	- The end of World War II and the dismantling of the New Deal meant the U.S. government cut its spending by an astonishing 75% between 1944 and 1948, and it also removed most price controls for good measure. And yet, the U.S. economy witnessed an extraordinary boom during these years.
-		- The situation was far from perfect, though, as the world remained off the gold standard.
-- The Bretton Woods Conference (1944)
-	- The United States was to be the center of the global monetary system, with its dollars being used as a global reserve currency by other central banks, whose currencies would be convertible to dollars at fixed exchange rates, while the dollar itself would be convertible to gold at a fixed exchange rate.
-		- To facilitate this system, the United States would take gold from other countries' central banks.
-			- The same tactic FDR employed against its citizens right after the Great Depression. #develop 
-	- In essence, Bretton Woods attempted to achieve through central planning what the international gold standard of the nineteenth century had achieved spontaneously. (p. 57)
-		- Whatever amount of money or goods moved across borders did so at the discretion of its owners under the gold standard, and no macroeconomic problems could emerge.
-		- In the Bretton Woods system, governments were dominated by Keynesian economists who viewed activist fiscal and monetary policy as a natural and important part of government policy.
-- The constant monetary and fiscal management would naturally lead to the fluctuation of the value of national currencies, resulting in imbalances in trade and capital flows. (pp. 57-58) 
-	- When a country's currency is devalued, its products become cheaper to foreigners, leading to more goods leaving the country, while holders of the currency seek to purchase foreign currencies to protect themselves from devaluation. 
-	- As devaluation is usually accompanied by artificially low interest rates, capital seeks exit from the country to go where it can be better rewarded, exacerbating the devaluation of the currency. 
-	- On the other hand, countries which maintained their currency better than others would thus witness an influx of capital whenever their neighbors devalued, leading to their currency appreciating further.
-		- The currency that appreciated from the Bretton Woods was USD by design. 
-	- Devaluation would sow the seeds of more devaluation, whereas currency appreciation would lead to more appreciation, creating a problematic dynamic for the two governments. 
-	- No such problems could exist with the gold standard, where the value of the currency in both countries was constant, because it was gold, and movements of goods and capital would not affect the value of the currency.
-		- In other words, the value of the currency does not affect the movements of goods and capital under the gold standard. #develop 
-- Without a stable unit of account for the global economy, the Bretton Woods system was as hopeless as attempting to build a house with an elastic measuring tape whose own length varied every time it was used. (p. 58)
-	- Again, because of money’s non-neutrality. #develop 
-- In essence, the system was akin to the entire world economy being run as one country on a gold standard, with the U.S. Federal Reserve acting as the world's central bank and all the world's central banks as regional banks, the main difference being that the monetary discipline of the gold standard was almost entirely lost in this world where **there were no effective controls on all central banks in expanding the money supply**, because no citizens could redeem their government money for gold. (p. 59)
-- French economist Jacques Reuff coined the phrase “deficit without tears” to describe the new economic reality that the United States inhabited, where it could purchase whatever it wanted from the world and finance it through debt monetized by inflating the currency that the entire world used. (p. 59)
-- The military industry that prospered during World War II grew into what President Eisenhower called *the Military–Industrial Complex*—an enormous conglomerate of industries that was powerful enough to demand ever more funding from the government, and drive U.S. foreign policy toward an endless series of expensive conflicts with no rational end goal or clear objective. (p. 59)
-	- Because USD is ultimately backed by raw power and its exhibition: war (see *The Fiat Standard, Ch. 16*). #develop 
-		- Whereas bitcoin is backed by Proof of Work. #develop 
-- Fiat money allowed the American electorate to ignore the laws of economics and believe that a free lunch, or at least a perpetually discounted one, was somehow possible. (p. 60)
-- In the absence of gold convertibility and with the ability to disperse the costs of inflation on the rest of the world, the only winning political formula consisted of increasing government spending financed by inflation, and every single presidential term in the postwar era witnessed a growth in government expenditure and the national debt and a loss of the purchasing power of the dollar.
-	- Viz., money was forced into one—because the Bretton Woods had secured USD as the global reserve currency. But this was not achieved through market force—hence not beneficial for the whole of humanity. #develop
-### Government Money’s Track Record
-- In effect, the United States had defaulted on its commitment to redeem its dollars in gold in 1971. (p. 61)
-- Freely fluctuating exchange rates is “a system of partial barter.” (p. 61)
-	- The seller does not want the currency held by the buyer, and so the buyer must purchase another currency first, and incur conversion costs.
-	- The market for foreign exchange, at $5 trillion of daily volume, exists purely as a result of this inefficiency of the absence of a single global homogeneous international currency.
-		- The foreign exchange market is not a spontaneous market phenomenon. #develop 
-- The total U.S. M2 measure of the money supply in 1971 was around $600 billion, while today it is in excess of $12 trillion, growing at an average annual rate of 6.7%. Correspondingly, in 1971, 1 ounce of gold was worth $35, and today it is worth more than $1,200. (p. 62)
-	- M2 money supply: 20x
-	- The price of gold: 35x
-		- The price of bitcoin: ?x
-- Hyperinflation is a form of economic disaster unique to government money. (p. 66)
-	- There was never an example of hyperinflation with economies that operated a gold or silver standard, and even when artifact money like seashells and beads lost its monetary role over time, it usually lost it slowly, with replacements taking over more and more of the purchasing power of the outgoing money.
-		- The modern equivalent: the dollarization of Ecuador. #develop
-- The constantly increasing supply means a continuous devaluation of the currency, expropriating the wealth of the holders to benefit those who print the currency, and those who receive it earliest. (p. 67)
-	- The Cantillon effect (the non-neutrality of money).
-- History has shown that governments will inevitably succumb to the temptation of inflating the money supply. (p. 67)
-	- This is no different from copper producers mining more copper in response to monetary demand for copper; it rewards the producers of the monetary good, but punishes those who choose to put their savings in copper.
-		- Only the hardest money at that point in time can perform the role of sound money. #develop 
-- Government can confiscate money from the banking monopolies it controls, inflate the currency to devalue holders' wealth and reward it to the most loyal of its subjects, impose draconian taxes and punish those who avoid them, and even confiscate bills. (p. 70)
-	- Viz., what we have is crony capitalism.
-- *Sound money* is the money that is chosen by the market freely and the money completely under the control of the person who earned it legitimately on the free market and not any other third party. (p. 70)
-- As one of the deans of the Austrian tradition in economics, Mises well understood that value does not exist outside of human consciousness, and that metals and substances had nothing inherent to them that could assign to them a monetary role. (p. 70)
-	- Because we create knowledge and meaning. #develop
-- In its infancy, bitcoin already appears to satisfy all the requirements of Menger, Mises, and Hayek: it is a highly salable free-market option that is resistant to government meddling. (p. 72)
-## 9. What is Bitcoin Good For?
-### Store of Value
-### Individual Sovereignty
-### International and Online Settlement
-### Global Unit of Account
-- Foreign exchange market is almost mimicking barter. (p. 212)
-	- The gold standard offered a solution to this problem, wherein a single form of money, independent of the control of any single government or authority, was the monetary standard worldwide. (p. 213)
-		- The bitcoin standard can also address the problem without introducing the fiat problems.
-			- Related: [[1-2g3b In short, new theories have to solve more problems than existent ones]] #develop 
-- However, bitcoin constitutes less than 1% of the global money supply. 
-	- $2 trillion bitcoin market cap vs $450 trillion global M2 money supply. #develop 
-- One fundamental difference between gold and bitcoin is that gold has large and highly elastic demand for use in a multitude of industrial and ornamental applications. (p. 214)
-	- The central banks are unlikely to dispose their gold reserves, because doing so would only gain a fiat currency which it can print itself as they please, at the expense of letting go of an asset which will likely gain value over its own currency. (p. 215)
-- Unlike industrial demand for gold, which is completely independent of its monetary demand, demand for bitcoin to operate the network is inextricably linked to demand for it as a store of value. (p. 215)
-	- Viz., there is no non-monetary aspect to bitcoin that can ameliorate the volatility of bitcoin's market value—particularly the downside volatility. #develop 
-		- Bitcoin either goes to zero, or higher (with less volatility the higher it goes). #develop 
-			- But given its predictable and limited supply, the upside volatility will be ameliorated as more people adapt bitcoin as unit of account. #develop 
-	- But as for the gold’s industrial demand, humans can create better substitutes—just like how bitcoin can be replaced by better technology. #develop 
-		- Related: [[7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete]]. #develop 
-- The persistence of volatility in bitcoin's value will prevent it from playing the role of a unit of account, at least until it has grown to many multiples of its current value and in the percentage of people worldwide who hold and accept it. (p. 215)
-- National currencies fluctuate in value based on each nation's and government's conditions, and their widespread adoption as a global reserve currency results in an “exorbitant privilege” to the issuing nation. (p. 216)
-	- Viz., the fact that USD is functioning as a measurement of price globally itself violates the definition of price—because USD, given its world reserve currency status, does not respect the Misesian dictum: [[Prices are one but many |price is one but many]]. The whole world is forced to the price in USD, whose value is always contingent upon the actions of the Fed and the US government. #develop
+> “The quantity of money available in the whole economy is always sufficient to secure for everybody all that money does and can do.” – [[Ludwig von Mises]]
+- Any supply of money is enough for any economy, as long as it is divisible. (p. 238)
+- The economic value of money lies in its ability to be exchanged for other goods, and so the value of money comes from its purchasing power, not from its quantity. (p. 238)
+	- This is a prerequisite to understand the following: material well-being can be achieved within deflationary economy. #develop 
+- It is only by reducing consumption and increasing saving that the deployment of capital is possible (as discussed in Chapter 6). (p. 241)
+	- The decline in consumption of resources frees them from being used as consumer goods, and allows them to be utilized as capital goods.
+- Saving money corresponds to saving economic resources from consumption, thus creating more opportunities for work to be directed at the earlier stages of economic production. (p. 241)
+	- I.e., the roundabout production. #develop 
+- A society which constantly defers consumption will actually end up being a society that consumes more in the long run than a low-savings society, since the low-time-preference society invests more, thus producing more income for its members. (p. 241)
+	- Because when the money supply is increased, the capital will be consumed—resulting in the overall decrease of total income in the long-run. 
+		- Put differently, Keynesians are myopic (or arithmetic) as they focus in the short-run, while the Austrians think of the future-self as important as present-self (or geometric). #Spitznagel 
+			- Tellingly, Keynes’ famous quote is “we are dead in the long-run.”
+			- While the Austrians distinguish the present goods (money) with future obligations (credit), Keynesians blurs that distinction (see Chapter 6 of *The Fiat Standard*). 
+				- As such, the fiat money doesn't care about salability in time. #develop
+## Part IV. Monetary Economics
+### Chapter 13: Time Preference
+#### Time Preference and Money
+- By saving money, the most liquid good and the generalized medium of exchange, the saver is able to exchange it in the future for the most valuable goods available, and to do so at the time of their choosing. (p. 300)
+- Money, particularly hard one, supercharges our ability to save.
+- Money is a technology—it improves and becomes more efficient at carrying out its task as a medium of exchange, both in the present between individuals, and between a present individual and his future self.
+	- Better ideas and technologies win out and drive out the inferior ones.
+		- The productivity of the technology pertains to how well it performs its function as a medium of exchange, or its salability (as discussed in Chapter 10). (pp. 300-301) 
+- The majority of the wealth will accrue to the hardest money. (p. 301)
+	- Gold made plenty of savings available for capital investment, increased labor productivity, incentivized investment in technological innovations, and increased prosperity.
+- As humanity progresses toward using monetary media that are harder to produce, our ability to provide for our future increases. (pp. 301-302)
+	- The efficiency of transacting with our future selves increases, and the uncertainty of the future declines. #FutureSelf 
+		- The security of money as a medium of saving has allowed countless people to escape the ravages of war and disaster with wealth they can easily transport worldwide.
+- For any society and at all times, the hardness of monetary technologies available to people is inextricably connected to time preference, for good or for ill. (p. 302)
+#### Time Preference and Saving
+- For the Keynesian, saving and investment are levers that government policy dictates, completely separate from any notion of opportunity cost. (p. 302)
+- If man lives in a world in which everything is certain and perfectly predictable, he has no reason to hold any cash. (p. 303)
+	- See [[Ludwig von Mises |Mises]]’ discussion of the ERE. #develop 
+- When man needs to liquidate his investment to spend it, he risks being unable to find someone willing to pay the price he wants at the time he wants. (p. 303)
+	- In times of systemic crises, when everyone wants to liquidate investments for cash, the reduction in the market price from what the owner expected would be large.
+		- **In contrast, money’s value rises in times of crisis as individuals reduce expenses and liquidate investments for cash.** #develop 
+- Should he come across a good business opportunity, if he is holding cash, he can allocate to it quickly. If he has his money tied up in other investments, he may not be able to. (p. 303)
+	- Related: [[Mark Spitznagel |Spitznagel]]’s Austrian Investment I. #develop 
+- Money is acquired for one property only: Its marketability or salability, the ease with which it can be sold without a significant loss in its value. (p. 304)
+	- Specifically with the gold money or bitcoin—not with fiat. #develop
+		- Fiat is not really money because it confuses the present goods with future obligations (i.e., credit). #develop 
+- Cash savings are held not to chase a return on investment, but for their liquidity and low risk of reduction in their value. (p. 304)
+	- Cash-substitutes (e.g., a house, a car, a stake in a business, or a fine painting), on the other hand, have far lower salability.
+		- See Chapter 18 of *The Fiat Standard*. #revisit 
+- There is no investment without risk, as there is always the risk of partial or complete loss of capital. (p. 305)
+	- With investment, what matters is the price at which you exit—not the prices you see in between. Ignoring the cost of liquidity (inherent with any investment), which tends to be the norm given inflationary environment sustained by perpetual credit expansion, amounts to economic miscalculation and thus results in capital consumption. #develop
+		- I.e., shifting your asset into (hard) money is saving, whereas shifting your asset into non-money is investment. #develop  
+			- This is why nothing competes with bitcoin—the hardest money known to man. #develop 
+		- I.e., credit expansion <> money printing. #develop 
+			- The term credit expansion better captures what most central banks do—because credit in the digital form is more ubiquitous than actual paper money. #develop  
+				- See Chapter 4 of *The Fiat Standard*. #revisit 
+- Conceptually and chronologically, saving can only be understood as the precursor and prerequisite of investment. (p. 305)
+- The lowering of time preference is what drives individuals to accumulate cash balances and to invest. (p. 306) 
+- When money is expected to appreciate, people are more likely to defer consumption to save in hard money. (p. 307)
+- The Keynesian model posits the baseless claim that savings need to be equal to investments at equilibrium (as discussed in Chapter 6). (p. 307)
+	- From that perspective, a surplus of savings over investment results in unemployment and recession.
+		- But in reality, investments follow savings (i.e., individually, one has to save first before investment), **and tend to rise as savings rise**.
+			- The latter part of the statement is not necessarily the case, both individually (i.e., some individuals might only save but not invest) and in the aggregate (e.g., bitcoin performance beats most other “investment” alternatives under the fiat regime).  #develop 
+- The more time preference declines, the more likely individuals are to defer consumption, and the more cash they have on hand, the more they are willing to invest and lend. (p. 307)
+	- The abundance of loanable funds allows for the financing of an increasing number of **productive enterprises**, at progressively lower interest rates.
+		- As more capital is available, productivity of labor increases, and with it income and living standards. The increase in income, in turn, allows for more capital accumulation, in a virtuous cycle of improving material well-being.
+			- The income does not necessarily have to increase in terms of absolute numbers, for improved material well-being—it’s achieved via increase in its purchasing power. Goods will be cheaper when the capital is deployed productively and when the money supply is fixed. #develop
+#### Time Preference and Civilization
+#### Time Preference and Bitcoin
+- Hans-Hermann Hoppe believed that the short-term incentives embedded in democratic processes lead to policies that favor immediate gains over long-term benefits. #revisit 
+- Before bitcoin, many people simply had no conception of saving and delayed gratification. (p. 316)
+- The notion of saving passively while earning money from a job was very rare. After bitcoin, it became increasingly common. (p. 317)
+- Bitcoin could be the free market’s solution to the problem of rising time preference. It is the technological solution that allows anyone to rejoin the process of lowering time preference, saving, capital accumulation, and civilization. It requires no political permission, it obviates politics and monetary policy, it is unstoppable, and it is hugely rewarding for everyone who adopts it. (p. 317)
+### Chapter 15: Monetary Expansion
+## Part V. Civilization
+### Chapter 18: Civilization
 
 ---
 # The Fiat Standard
@@ -455,6 +548,164 @@ date: 2025-01-13
 - An increasing share of the world’s bond and stock markets is now held by central banks, and their valuation is increasingly determined by central bank fiat, with the normal workings of the credit cycle overruled through infinite quantitative easing. (p. 396)
 - The push to promote fiat foods and fuels will likely take a far more coercive turn with the implementation of CBDCs. (pp. 397-398)
 - Bitcoin makes payment clearance a mathematical and mechanical process that cannot be controlled by intermediaries, whereas CBDCs make every transaction subject to approval and reversal by the central bank. (p. 400)
+
+---
+# The Bitcoin Standard
+## 3. Monetary Metals
+### Why Gold?
+- For anything to function as a good store of value, it has to beat this trap: it has to appreciate when people demand it as a store of value, but its producers have to be constrained from inflating the supply significantly enough to bring the price down. (p. 21)
+### Roman Golden Age and Decline
+### Byzantium and the Bezant
+### The Renaissance
+- It was in the city-states that humans could live with the freedom to work, produce, trade, and flourish, and that was to a large extent the result of these city-states adopting a sound monetary standard. (p. 30)
+	- It all began in Florence in 1252, when the city minted the florin, the first major European sound coinage since Julius Caesar's aureus.
+	- Venice was the first to follow Florence's example with its minting of the ducat, of the same specifications as the florin, in 1270, and by the end of the fourteenth century more than 150 European cities and states had minted coins of the same specifications as the florin.
+- Two particular technological advancements would move Europe and the world away from physical coins and in turn help bring about the demise of silver's monetary role: the telegraph, first deployed commercially in 1837, and the growing network of trains, allowing transportation across Europe. (p. 31)
+	- Eventually, the telegraph also outdid gold.
+		- Bitcoin is both hard and fast. #develop 
+- The death knell for silver's monetary role was the end of the Franco-Prussian war, when Germany extracted an indemnity of £200 million in gold from France and used it to switch to a gold standard. (p. 32)
+- It is the author's opinion that the history of China and India, and their failure to catch up to the West during the twentieth century, is inextricably linked to this massive destruction of wealth and capital brought about by the demonetization of the monetary metal these countries utilized. (p. 33)
+	- The demonetization of silver in effect left the Chinese and Indians in a situation similar to west Africans holding aggri beads as Europeans arrived: domestic hard money was easy money for foreigners, and was being driven out by foreign hard money, which allowed foreigners to control and own increasing quantities of the capital and resources of China and India during the period.
+- We can thus understand why nineteenth-century sound money economists like Menger focused their understanding of money's soundness on its salability as a market good, whereas twentieth-century sound money economists, like Mises, Hayek, Rothbard, and Salerno, focused their analysis of money's soundness on its resistance to control by a sovereign. (p. 34)
+	- Because credit money was ubiquitous during twentieth-century.
+- The money invented in the twenty-first century, bitcoin, was designed primarily to avoid centralized control.
+	- Related: [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
+### *La Belle Epoque*—the beautiful era
+- Under the gold standard, people held as much money as they pleased and spent as much as they desired on local or foreign production, and the actual money supply was not even easily measurable. (p. 35)
+- In the United States this era was called the Gilded Age. (p. 36)
+	- It was only interrupted by one episode of monetary insanity, which was effectively the last dying pang of silver as money (discussed in Ch. 6). #revisit
+- While the gold standard of the nineteenth century was arguably the closest thing that the world had ever seen to an ideal sound money, it nonetheless had its flaws. (p. 37)
+	- First, governments and banks were always creating media of exchange beyond the quantity of gold in their reserves.
+	- Second, many countries used not just gold in their reserves, but also currencies of other countries.
+- With growing international trade relying on settlement of large quantities of money across the world, the Bank of England's banknotes became, in the minds of many at the time, “as good as gold.” (p. 37)
+	- Britain, as the global superpower at that time, had benefited from having its money used as a reserve currency all around the world, resulting in its reserves of gold being a tiny fraction of its outstanding money supply.
+		- An unfair advantage. #develop 
+- The network of settlement became valuable enough that its owners' credit was effectively monetized. As the ability to run a bank started to imply money creation, governments naturally gravitated to taking over the banking sector through central banking. (p. 38)
+	- Viz., the banking sector was de-privatized.
+- With every passing generation displaying the intellectual complacence that tends to accompany wealth, the siren song of con artists and court-jester economists would prove increasingly irresistible for more of the population, leaving only a minority of knowledgeable economists and historians fighting an uphill battle to convince people that wealth can't be generated by tampering with the money supply, that allowing a sovereign the control of the money can only lead to them increasing their control of everyone's life, and that civilized human living itself rests on the integrity of money providing a solid foundation for trade and capital accumulation. (p. 38)
+- Interestingly, central banks continued to confiscate and accumulate more gold until the 1960s, where the move toward a U.S. dollar global standard began to shape up. Although gold was supposedly demonetized fully in 1971, central banks continued to hold significant gold reserves. Even as central banks repeatedly declared the end of gold's monetary role, their actions in maintaining their gold reserves ring truer. (p. 39)
+- From a monetary competition perspective, keeping gold reserves is a perfectly rational decision. Keeping reserves in foreign governments' easy money (e.g., USD) only will cause the value of the country's currency (e.g., JPY) to devalue along with the reserve currencies, while the seigniorage accrues to the issuer of the reserve currency (e.g., the Fed), not the nation's central bank (e.g., BoJ). (p. 39)
+	- Viz., countries holding USD as their reserve do not gain from the seigniorage; instead, they risk the value of their reserves declining due to inflation or currency depreciation in the country that issues the reserve currency. #develop 
+- Even in a world of government money, governments have not been able to decree gold's monetary role away, as their actions speak louder than their words. (p. 40) 
+## 4. Government Money
+- World War I saw the end of the era of monetary media being the choice decided by the free market, and the beginning of the era of government money. (p. 41)
+- The common name for government money is fiat money, from the Latin word for decree, order, or authorization. (p. 41)
+- It was not government that decreed gold as money; rather, it is only by holding gold that governments could get their money to be accepted at all. (p. 42)
+### Monetary Nationalism and the End of the Free World
+- In retrospect, the major difference between World War I and the previous limited wars was neither geopolitical nor strategic, but rather, it was monetary. (p. 43)
+	- The ease with which a government could issue more paper currency was too tempting in the heat of the conflict, and far easier than demanding taxation from the citizens. (p. 43)
+	- With the simple suspension of gold redeemability, governments' war efforts were no longer limited to the money that they had in their own treasuries. (p. 44)
+- With redemption of gold from central banks, and movement of gold internationally suspended or severely restricted in the major economies, governments could maintain the façade of the currency's value remaining at its prewar peg to gold, even as prices were rising. (p. 46)
+	- The suspension of gold convertibility during wartime allowed governments to maintain the illusion of monetary stability while financing deficits through inflation. The US deployed the same tactic under the Bretton Woods system and until its collapse in 1971. #develop 
+- A return to the old rates of exchange would cause citizens to demand holding gold rather than the ubiquitous paper receipts, and lead to the flight of gold outside the country to where it was fairly valued. (p. 47)
+	- I.e., Gresham’s law—because citizens will likely buy the gold and sell it elsewhere.
+- The introduction of bitcoin, as a currency native to the Internet superseding national borders and outside the realm of governmental control, offers an intriguing possibility for the emergence of a new international monetary system. (p. 47)
+> 	“A truly International Monetary System would be one where the whole world possessed a homogeneous currency such as obtains within separate countries and where its flow between regions was left to be determined by the results of the action of all individuals.” – Hayek
+### The Interwar Era
+- Under monetary nationalism the money supply of each country, and the exchange rate between them, was to be determined in international agreements and meetings. (p .48)
+- Britain had major problems with the flow of gold from its shores to France and the United States as it attempted to maintain a gold standard but with a rate that overvalued the British pound and undervalued gold (i.e., Gresham’s law again). (p. 48)
+	- The 1922 Treaty of Genoa.
+		- The U.K. had hoped to alleviate its problems with the overvalued sterling by having other countries purchase large quantities of it to place in their reserves.
+		- The insanity of this arrangement was that these governments wanted to inflate while also maintaining the price of their currency stable in terms of gold at prewar levels.
+		- But this did not and could not work and gold continued to flow out of Britain to the United States and France.
+- Had they admitted to their people the magnitude of the devaluation that took place to fight the war, and re-pegged their currencies to gold at new rates, there would have probably been a recessionary crash, after which the economy would have recovered on a sound monetary basis. (p. 48)
+- As Britain's gold reserves were leaving its shores to places where they were better valued, the chief of the Bank of England, Sir Montagu Norman, leaned heavily on his French, German, and American counterparts to increase the money supply in their countries, devaluing their paper currencies in the hope that it would stem the flow of gold away from England. (p. 49)
+	- While the French and German bankers were not cooperative, Benjamin Strong, chairman of the New York Federal Reserve, was, and he engaged in inflationary monetary policy throughout the 1920s.
+		- The U.S. Fed's inflationary policy ended by the end of 1928, at which point the U.S. economy was ripe for the inevitable collapse that follows from the suspension of inflationism.
+- The Hoover Presidency (1929 March ~ 1933 March)
+	- The problems faced by the American economy in the 1930s were inextricably linked to the fixing of wages and prices.
+	- After the bubble burst, market prices sought readjustment via a drop in the value of the dollar compared to gold, and a drop in real wages and prices. (p. 50)
+		- By the early 1930s, the economic turmoil led to the suspension of the right for U.S. citizens to exchange USD for gold (i.e., Executive Order 6102). #develop 
+		- Viz., even though the gold flew into the US from UK after WWI, that didn't catch up with the amount of money the Fed was printing. #develop
+- The Roosevelt Presidency (1933 March ~ 1945 April)
+	- In order to remove the golden fetters to inflationism, President Roosevelt issued an executive order (Executive Order 6102 on April 5, 1933) banning the private ownership of gold, forcing Americans to sell their gold to the U.S. Treasury at a rate of $20.67 per ounce. With the population deprived of sound money, and forced to deal with dollars, Roosevelt then revalued the dollar on the international market from $20.67 per ounce to $35 per ounce, a 41% devaluation of the dollar in real terms (gold). This was the inevitable reality of years of inflationism which started in 1914 with the creation of the Federal Reserve and the financing of America's entry into World War II. (p. 51)
+		- Viz., they took gold away from people at $20.67—when it’s market price was $35 per ounce.
+- Academic economics stopped being an intellectual discipline focused on understanding human choices under scarcity to improve their conditions. (p. 52)
+- The classical liberal tradition that viewed economic freedom as the foundation of economic prosperity was quietly brushed aside as government propagandists masquerading as economists presented the Great Depression, caused and exacerbated by government controls, as the refutation of free markets. (p. 52)
+- With no standard of value to allow an international price mechanism to exist, and **with governments increasingly captured by statist and isolationist impulses**, currency manipulation emerged as a tool of trade policy, with countries seeking to devalue their currencies in order to give their exporters an advantage. (p. 53)
+	- E.g., the Plaza Accord on 1985. #develop
+	- Also the end of Bretton Woods in 1971 to stop the outflow of gold—the gold was underpriced vs the dollar at the end of Bretton Woods system (largely to fund deficits from the Vietnam War), and abandoning the system helped the US trade balances. #develop 
+		- The dollar's devaluation also helped reduce the "real" burden of U.S. debts (e.g., funding for the Vietnam War). Countries holding dollar reserves saw the value of their holdings decline, effectively benefiting the U.S. at their expense. #develop 
+			- Wars indirectly benefit the US because they allowed the US to take advantage of the _unique position of the dollar_ as the global reserve currency. #develop 
+		- Inflation surged in the 1970s, but this also worked to erode the real value of debt and made U.S. goods more competitive. #develop 
+	- Related: [[5-2a2 What gets measured gets managed]].
+		- The government interference happens because it prioritize its citizens over the others. #develop 
+### World War II and Bretton Woods
+- All spending is spending, in the naive economics of Keynesians, and so it matters not if that spending comes from individuals feeding their families or governments murdering foreigners: it all counts in aggregate demand and it all reduces unemployment. (p. 54)
+- The death of the populist and powerful FDR and his replacement by the meeker and less iconic Truman, coming up against a Congress controlled by Republicans, created political deadlock that prevented the renewal of the statutes of the New Deal. (p. 55)
+	- The end of World War II and the dismantling of the New Deal meant the U.S. government cut its spending by an astonishing 75% between 1944 and 1948, and it also removed most price controls for good measure. And yet, the U.S. economy witnessed an extraordinary boom during these years.
+		- The situation was far from perfect, though, as the world remained off the gold standard.
+- The Bretton Woods Conference (1944)
+	- The United States was to be the center of the global monetary system, with its dollars being used as a global reserve currency by other central banks, whose currencies would be convertible to dollars at fixed exchange rates, while the dollar itself would be convertible to gold at a fixed exchange rate.
+		- To facilitate this system, the United States would take gold from other countries' central banks.
+			- The same tactic FDR employed against its citizens right after the Great Depression. #develop 
+	- In essence, Bretton Woods attempted to achieve through central planning what the international gold standard of the nineteenth century had achieved spontaneously. (p. 57)
+		- Whatever amount of money or goods moved across borders did so at the discretion of its owners under the gold standard, and no macroeconomic problems could emerge.
+		- In the Bretton Woods system, governments were dominated by Keynesian economists who viewed activist fiscal and monetary policy as a natural and important part of government policy.
+- The constant monetary and fiscal management would naturally lead to the fluctuation of the value of national currencies, resulting in imbalances in trade and capital flows. (pp. 57-58) 
+	- When a country's currency is devalued, its products become cheaper to foreigners, leading to more goods leaving the country, while holders of the currency seek to purchase foreign currencies to protect themselves from devaluation. 
+	- As devaluation is usually accompanied by artificially low interest rates, capital seeks exit from the country to go where it can be better rewarded, exacerbating the devaluation of the currency. 
+	- On the other hand, countries which maintained their currency better than others would thus witness an influx of capital whenever their neighbors devalued, leading to their currency appreciating further.
+		- The currency that appreciated from the Bretton Woods was USD by design. 
+	- Devaluation would sow the seeds of more devaluation, whereas currency appreciation would lead to more appreciation, creating a problematic dynamic for the two governments. 
+	- No such problems could exist with the gold standard, where the value of the currency in both countries was constant, because it was gold, and movements of goods and capital would not affect the value of the currency.
+		- In other words, the value of the currency does not affect the movements of goods and capital under the gold standard. #develop 
+- Without a stable unit of account for the global economy, the Bretton Woods system was as hopeless as attempting to build a house with an elastic measuring tape whose own length varied every time it was used. (p. 58)
+	- Again, because of money’s non-neutrality. #develop 
+- In essence, the system was akin to the entire world economy being run as one country on a gold standard, with the U.S. Federal Reserve acting as the world's central bank and all the world's central banks as regional banks, the main difference being that the monetary discipline of the gold standard was almost entirely lost in this world where **there were no effective controls on all central banks in expanding the money supply**, because no citizens could redeem their government money for gold. (p. 59)
+- French economist Jacques Reuff coined the phrase “deficit without tears” to describe the new economic reality that the United States inhabited, where it could purchase whatever it wanted from the world and finance it through debt monetized by inflating the currency that the entire world used. (p. 59)
+- The military industry that prospered during World War II grew into what President Eisenhower called *the Military–Industrial Complex*—an enormous conglomerate of industries that was powerful enough to demand ever more funding from the government, and drive U.S. foreign policy toward an endless series of expensive conflicts with no rational end goal or clear objective. (p. 59)
+	- Because USD is ultimately backed by raw power and its exhibition: war (see *The Fiat Standard, Ch. 16*). #develop 
+		- Whereas bitcoin is backed by Proof of Work. #develop 
+- Fiat money allowed the American electorate to ignore the laws of economics and believe that a free lunch, or at least a perpetually discounted one, was somehow possible. (p. 60)
+- In the absence of gold convertibility and with the ability to disperse the costs of inflation on the rest of the world, the only winning political formula consisted of increasing government spending financed by inflation, and every single presidential term in the postwar era witnessed a growth in government expenditure and the national debt and a loss of the purchasing power of the dollar.
+	- Viz., money was forced into one—because the Bretton Woods had secured USD as the global reserve currency. But this was not achieved through market force—hence not beneficial for the whole of humanity. #develop
+### Government Money’s Track Record
+- In effect, the United States had defaulted on its commitment to redeem its dollars in gold in 1971. (p. 61)
+- Freely fluctuating exchange rates is “a system of partial barter.” (p. 61)
+	- The seller does not want the currency held by the buyer, and so the buyer must purchase another currency first, and incur conversion costs.
+	- The market for foreign exchange, at $5 trillion of daily volume, exists purely as a result of this inefficiency of the absence of a single global homogeneous international currency.
+		- The foreign exchange market is not a spontaneous market phenomenon. #develop 
+- The total U.S. M2 measure of the money supply in 1971 was around $600 billion, while today it is in excess of $12 trillion, growing at an average annual rate of 6.7%. Correspondingly, in 1971, 1 ounce of gold was worth $35, and today it is worth more than $1,200. (p. 62)
+	- M2 money supply: 20x
+	- The price of gold: 35x
+		- The price of bitcoin: ?x
+- Hyperinflation is a form of economic disaster unique to government money. (p. 66)
+	- There was never an example of hyperinflation with economies that operated a gold or silver standard, and even when artifact money like seashells and beads lost its monetary role over time, it usually lost it slowly, with replacements taking over more and more of the purchasing power of the outgoing money.
+		- The modern equivalent: the dollarization of Ecuador. #develop
+- The constantly increasing supply means a continuous devaluation of the currency, expropriating the wealth of the holders to benefit those who print the currency, and those who receive it earliest. (p. 67)
+	- The Cantillon effect (the non-neutrality of money).
+- History has shown that governments will inevitably succumb to the temptation of inflating the money supply. (p. 67)
+	- This is no different from copper producers mining more copper in response to monetary demand for copper; it rewards the producers of the monetary good, but punishes those who choose to put their savings in copper.
+		- Only the hardest money at that point in time can perform the role of sound money. #develop 
+- Government can confiscate money from the banking monopolies it controls, inflate the currency to devalue holders' wealth and reward it to the most loyal of its subjects, impose draconian taxes and punish those who avoid them, and even confiscate bills. (p. 70)
+	- Viz., what we have is crony capitalism.
+- *Sound money* is the money that is chosen by the market freely and the money completely under the control of the person who earned it legitimately on the free market and not any other third party. (p. 70)
+- As one of the deans of the Austrian tradition in economics, Mises well understood that value does not exist outside of human consciousness, and that metals and substances had nothing inherent to them that could assign to them a monetary role. (p. 70)
+	- Because we create knowledge and meaning. #develop
+- In its infancy, bitcoin already appears to satisfy all the requirements of Menger, Mises, and Hayek: it is a highly salable free-market option that is resistant to government meddling. (p. 72)
+## 9. What is Bitcoin Good For?
+### Store of Value
+### Individual Sovereignty
+### International and Online Settlement
+### Global Unit of Account
+- Foreign exchange market is almost mimicking barter. (p. 212)
+	- The gold standard offered a solution to this problem, wherein a single form of money, independent of the control of any single government or authority, was the monetary standard worldwide. (p. 213)
+		- The bitcoin standard can also address the problem without introducing the fiat problems.
+			- Related: [[1-2g3b In short, new theories have to solve more problems than existent ones]] #develop 
+- However, bitcoin constitutes less than 1% of the global money supply. 
+	- $2 trillion bitcoin market cap vs $450 trillion global M2 money supply. #develop 
+- One fundamental difference between gold and bitcoin is that gold has large and highly elastic demand for use in a multitude of industrial and ornamental applications. (p. 214)
+	- The central banks are unlikely to dispose their gold reserves, because doing so would only gain a fiat currency which it can print itself as they please, at the expense of letting go of an asset which will likely gain value over its own currency. (p. 215)
+- Unlike industrial demand for gold, which is completely independent of its monetary demand, demand for bitcoin to operate the network is inextricably linked to demand for it as a store of value. (p. 215)
+	- Viz., there is no non-monetary aspect to bitcoin that can ameliorate the volatility of bitcoin's market value—particularly the downside volatility. #develop 
+		- Bitcoin either goes to zero, or higher (with less volatility the higher it goes). #develop 
+			- But given its predictable and limited supply, the upside volatility will be ameliorated as more people adapt bitcoin as unit of account. #develop 
+	- But as for the gold’s industrial demand, humans can create better substitutes—just like how bitcoin can be replaced by better technology. #develop 
+		- Related: [[7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete]]. #develop 
+- The persistence of volatility in bitcoin's value will prevent it from playing the role of a unit of account, at least until it has grown to many multiples of its current value and in the percentage of people worldwide who hold and accept it. (p. 215)
+- National currencies fluctuate in value based on each nation's and government's conditions, and their widespread adoption as a global reserve currency results in an “exorbitant privilege” to the issuing nation. (p. 216)
+	- Viz., the fact that USD is functioning as a measurement of price globally itself violates the definition of price—because USD, given its world reserve currency status, does not respect the Misesian dictum: [[Prices are one but many |price is one but many]]. The whole world is forced to the price in USD, whose value is always contingent upon the actions of the Fed and the US government. #develop 
 
 ---
 # Takeaways from Podcast interviews:
