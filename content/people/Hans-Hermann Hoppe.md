@@ -1,0 +1,41 @@
+# “The Yield from Money Held” Reconsidered (2009)
+- “The investment in money balances must be conceived of as an investment in certainty or an investment in the reduction of subjectively felt uneasiness about uncertainty.”
+	- This applies with hard money—not so with the fiat credit. #develop 
+- “Action is by nature speculative and subject to error.”
+	- Related: [[1-2 We are fallible]]
+- “A demand for _media of exchange_ can arise, i.e., a demand for goods valued on account of their marketability or resalability.”
+	- Viz., salability (in [[Saifedean Ammous |Ammous]]’ words).
+- “Insufficient attention has been drawn to the fact that, as the most easily and widely salable good, money is at the same time the most universally _present_ — _instantly_ serviceable — good (which is why the interest rate, i.e., the discount rate of future goods against present goods, is expressed in terms of _money_) and, as such, the good uniquely suited to alleviate presently felt uneasiness about uncertainty.” #develop 
+- “Because money can be employed for the _instant satisfaction of the widest range of possible needs_, it provides its owner with the best humanly possible protection against uncertainty. In holding money, its owner gains in the satisfaction of being able to meet instantly, as they unpredictably arise, the widest range of future contingencies.”
+- *Uncertainty aversion <> risk aversion*
+	- “Risks (instances of class probability) are contingencies against which it is possible to take out insurance, because objective long-run probability distributions concerning all possible outcomes are known and predictable. We know nothing about an individual outcome, but we know everything about the whole class of events, and we are _certain_ about the future.”
+		- “Insofar as man faces a risky future, then, he does not need to hold cash. To satisfy his desire to be protected against risk, he can buy or produce insurance.”
+			- “Insurance premiums are money _spent_, not held, and are as such invested in the physical production structure of producer and consumer goods. **The payment of insurance reflects a man’s subjectively felt _certainty_ concerning (predictable) future contingencies (risks).**”
+				- Would [[Mark Spitznagel |Spitznagel]] argue otherwise? #develop #Spitznagel  
+	- “In distinct contrast, insofar as man faces _uncertainty_ he is, quite literally, _not_ certain concerning future contingencies, i.e., **as to what he might want or need and when**. In order to be protected **against unpredictable contingencies at unpredictable moments**, he cannot invest in producer goods (as in the case of risk insurance); for such investments would reflect his _certainty_ concerning particular future needs.”
+		- Viz., risks are mechanical (in [[Mark Spitznagel |Spitznagel]]’s words). #develop 
+- “Only _present,_ instantly serviceable goods can protect against unpredictable contingencies (uncertainty).”
+	- “Only money, on account of its instant and unspecific wide-ranging salability, can protect him against uncertainty.”
+		- “Thus, just as insurance premiums are the price paid for protection against risk aversion, so cash holdings are the price paid for protection against uncertainty aversion.”
+- “To invest in cash balances means, “I am uncertain about my present and future needs and believe that a balance of the most easily and widely saleable good on hand will best prepare me to meet my as-of-yet unknown needs at as-of-yet unknown times.””
+- The outcome is an immediate fall in certain nonmoney goods’ prices:
+	- As the result of restricting his purchases of x, y, or z, the money price of x, y, or z will be lowered.
+	- Or by increasing his sales of a, b, or c, their prices will fall.
+- “There is more investment in the removal of perceived uncertainty, and there is less investment in needs, present or future, considered as certain.”
+- “Even if nominal cash balances cannot rise as a result of a general increase in the demand for money, the _real_ value of cash balances can; and it is this increase in the value of _real_ cash balances that brings about precisely and immediately the effect desired: being better prepared for a future deemed as less certain.”
+	- E.g., in case of market crash. #develop 
+- “No one cares about the nominal number of money units in his possession. Rather, people want to keep cash with a definite amount of purchasing power on hand. If the purchasing power per unit money increases as the result of an increased demand for cash holdings, each unit of money confronted with an array of generally lower nonmoney goods prices can do a better job in affording its owner protection against uncertainty.”
+	- Similar to [[Mark Spitznagel |Spitznagel]]’s Austrian Investing I. #develop 
+		- Viz., **the hard money can hedge more than FOTM puts**. #develop 
+			- I.e., the fiat credit cannot hedge as well as the hard money (e.g., gold and bitcoin). #develop 
+- Cash holding is “yielders of certainty” in an uncertain world.
+- On GFC:
+	- “With the quantity of money given, the higher demand for money can be satisfied only by bidding down nonmoney goods’ prices. Consequently, as the overall “level” of prices falls, the purchasing power per unit money correspondingly rises. Each unit of money is productive now of more certainty, and **the desired level of uncertainty protection is restored**. The crisis is ended.” #develop 
+	- “The solution to the crisis suggested instead by most economists and pundits and officially adopted by governments everywhere is entirely different.”
+		- “Huge efforts are now undertaken to increase the amount of spending.”
+- “But this stands at cross purpose to the general public’s needs and desires: in order to be better protected against heightened perceived uncertainty, prices must fall and the purchasing power of money must rise.”
+	- “Yet with an influx of additional, newly created money, prices will be higher and the purchasing power per unit money will be lower than otherwise.”
+		- “Thus, as the result of the current monetary policy, the restoration of the desired level of uncertainty protection will be **_delayed_** and the crisis **_prolonged_**.” #develop 
+			- Viz., the easy money policy delays the recovery process and prolongs the crisis—assuming that the crisis here refers to a situation where capital is misallocated (because when the money supply is arbitrary the desired level of uncertainty protection cannot be achieved) and consumed (or to be consumed)—even if some market indicators seem to suggest that things are improving. #develop 
+				- Viz., individuals are forced to *not* invest in cash balances under credit expansion regimes. #develop 
+				- And the longer the delay and the crisis, the bigger will be the market correction—and what matters is the price at which you exit, not what you see in between (as discussed in [[Saifedean Ammous |Ammous’]] *The Fiat Standard*, Chapter 13). #develop
