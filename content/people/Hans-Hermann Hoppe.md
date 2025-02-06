@@ -6,6 +6,8 @@
 - “A demand for _media of exchange_ can arise, i.e., a demand for goods valued on account of their marketability or resalability.”
 	- Viz., salability (in [[Saifedean Ammous |Ammous]]’ words).
 - “Insufficient attention has been drawn to the fact that, as the most easily and widely salable good, money is at the same time the most universally _present_ — _instantly_ serviceable — good (which is why the interest rate, i.e., the discount rate of future goods against present goods, is expressed in terms of _money_) and, as such, the good uniquely suited to alleviate presently felt uneasiness about uncertainty.” #develop 
+	- Is the quality of being the most universally present the same as the good being the medium of exchange? #develop
+		- Particularly, see [[Per Bylund]]’s argument. #develop 
 - “Because money can be employed for the _instant satisfaction of the widest range of possible needs_, it provides its owner with the best humanly possible protection against uncertainty. In holding money, its owner gains in the satisfaction of being able to meet instantly, as they unpredictably arise, the widest range of future contingencies.”
 - *Uncertainty aversion <> risk aversion*
 	- “Risks (instances of class probability) are contingencies against which it is possible to take out insurance, because objective long-run probability distributions concerning all possible outcomes are known and predictable. We know nothing about an individual outcome, but we know everything about the whole class of events, and we are _certain_ about the future.”

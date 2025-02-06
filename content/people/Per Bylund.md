@@ -1,0 +1,36 @@
+---
+date: 2025-02-06
+---
+# Bitcoiners’ Guide to Austrian Economics
+- Money is that _medium of exchange_ that is commonly accepted (i.e., universally used). 
+	- “A money is what you can use to exchange for things without having to search for those who accept it. A money also doesn’t need to be converted to some other medium of exchange (such as dollars or euros) to buy things.”
+- It is also not any “properties” of the thing that is a medium of exchange that makes it money. Mainstream economics confusingly teaches that money typically has certain properties such as divisibility, fungibility, and a store of value. Those are indeed common (and perhaps important) functions of the money good, but are not what makes it money. 
+	- “What makes something money is that it is used as a medium of exchange and that it is rather universally accepted as such. It is money’s _moneyness_ that makes it money.”
+- It is ambiguous when exactly a medium of exchange becomes money. 
+	- “Thus far (in November 2024), Bitcoin is not generally money. But it may be money in some specific circumstances or groups.”
+- By logically going back in time, we can see that goods-as-money have much greater market value than goods-as-consumption good (before it was money) _because_ it is money—its demand is much greater because people use it as a go-to medium of exchange. 
+	- “How much greater? This can be answered by noting the difference between the demand (and thus market price) for goods when it is money and the demand for goods as a consumption good (when it is not money).”
+		- Can you even differentiate the two? #develop 
+		- Does this imply that people demand bitcoin (as of this writing) primarily for its store of value property, and not yet for its moneyness? #develop 
+- “Bitcoin is certainly a medium of exchange, but it is not yet _money_.”
+	- “There is a difference between being in high demand and being a money: the latter implies the former, but the former does not imply the latter.”
+		- “High demand only means higher price, not that it is therefore generally accepted and used as a medium of exchange.”
+			- High demand for non-money good implies liquidity cost (see [[Hans-Hermann Hoppe |Hoppe]] on cash balances). #develop 
+- “Many things are in high demand, but are not therefore media of exchange, but instead used as, for example, consumption goods or assets. The former because they directly satisfy our wants and the latter because they are expected to serve as stores of value (stable or increasing). Our demand for money (cash) is neither for consumption nor as a speculative asset—it is (primarily) to be used in exchange. In other words, we demand (and acquire) money to get rid of it. It’s a means to get what we really want—it is a _medium of exchange_.”
+	- Aren’t we demanding money because of the future uncertainty? See [[Hans-Hermann Hoppe |Hoppe]] on why we invest in cash balances. #develop
+		- [[Hans-Hermann Hoppe |Hoppe]] argues that the crisis is restored when the comfortable levels of protection against future uncertainty is reached by holding (hard) money. And the fiat does not give you that comfort—only hard money (bitcoin) can give you that. The crisis will be restored only when sufficient wealth is stored as hard money (bitcoin). #develop 
+			- I assume then it is understandable that people hold bitcoin in the meantime rather than use it as medium of exchange—because people are not yet comfortable spending it. #develop 
+- “Certainly, high demand can lead to people using a good as a medium of exchange. But it is quite roundabout to buy-and-hold a good in order to increase its demand (and therefore market price) as a means for making it money. There are better and more effective ways. Including the obvious one: **to use it in and for exchange, that is, to use it _as_ money**.”
+	- The above-mentioned argument (from [[Hans-Hermann Hoppe |Hoppe]]) also applies here. #develop 
+	- Viz., Per focuses on the exchange demand yet ignores the reservation demand for money (see below).
+## Counter-argument ([[Bitstein |@bitstein]])
+- As Mises points out, people have a reason to reduce their cash balance in favor of secondary media of exchange if they make up for the costs of holding cash, while also being marketable enough to be sold for other goods or for money itself at a ready pace.
+- Too much focus on the spending of a good as defining factor of it being a MoE. However, what defines a MoE is that a good is acquired (exchange demand) or held (reservation demand) in anticipation of being used in future indirect exchange.
+- It doesn’t flesh out a theory of why bitcoin is demanded as a MoE at all, and why an economy would adopt it as such, despite this being the fundamental purpose of the Austrian theory of money.
+	- This would be explained by talking about the role of uncertainty in the role of money as described by Mises, and how bitcoin's properties make it very useful for overcoming the challenges of exchange over space and time as described by Menger.
+		- As I pointed out above.
+- Exchange demand is for acquiring a good; reservation demand is for holding it. Both have increased dramatically, as you can't hold what you haven't already acquired. What Per is describing is a demand for other goods outweighing the reservation demand for bitcoin. #develop 
+	- But Gresham’s law will mean that the reservation demand for bitcoin will outweigh exchange demand for other goods until the crisis is restored—i.e., until the fiat system transitions into harder money (bitcoin) system. #develop 
+		- Remember: [[5-3c Knowledge is irreversible, and can only go from private to public |knowledge is irreversible]]. #develop 
+- “The total demand for money on the market consists of two parts: the exchange demand for money (by sellers of all other goods that wish to purchase money) and the reservation demand for money (the demand for money to hold by those who already hold it).” – Rothbard
+	- “Solely focusing on the former, and not also the latter is X” – [@Conza](https://x.com/Conza/status/1780033738807943194)
