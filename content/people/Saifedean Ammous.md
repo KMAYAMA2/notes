@@ -22,7 +22,7 @@ date: 2025-01-13
 	- It is not possible to determine an individual’s precise valuation from their transaction, only its upper or lower bounds.
 #### Free Exchange
 #### Determinants of Value
-- The fundamental difference between Austrian school economists and other schools is that Austrians view value as subjective, while other schools conceive of value as something objective, or objectively measurable. (p. 47)
+- The fundamental difference between Austrian school economists and other schools is that Austrians view value as [[Value is subjective |subjective]], while other schools conceive of value as something objective, or objectively measurable. (p. 47)
 	- I.e., the difference is [[1-1c You need the best available epistemology because it affects how you see the world |epistemology]].
 - There is no guaranteed correspondence between the amount of labor expended in production and the value of that production. (p. 48)
 	- Related: [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
@@ -674,7 +674,7 @@ date: 2025-01-13
 	- There was never an example of hyperinflation with economies that operated a gold or silver standard, and even when artifact money like seashells and beads lost its monetary role over time, it usually lost it slowly, with replacements taking over more and more of the purchasing power of the outgoing money.
 		- The modern equivalent: the dollarization of Ecuador. #develop
 - The constantly increasing supply means a continuous devaluation of the currency, expropriating the wealth of the holders to benefit those who print the currency, and those who receive it earliest. (p. 67)
-	- The Cantillon effect (the non-neutrality of money).
+	- [[The Cantillon effect]] (the non-neutrality of money).
 - History has shown that governments will inevitably succumb to the temptation of inflating the money supply. (p. 67)
 	- This is no different from copper producers mining more copper in response to monetary demand for copper; it rewards the producers of the monetary good, but punishes those who choose to put their savings in copper.
 		- Only the hardest money at that point in time can perform the role of sound money. #develop 
