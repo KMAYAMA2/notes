@@ -9,4 +9,6 @@
 [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
 [[7-1d3 The most valuable advantage in business is technical one]]
 
+[[7-1d1b Look for technology which haven’t gotten a lot of press yet because it’s really new from labs, or because people assume it’s “dead” although doesn’t explain why]]
+
 [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

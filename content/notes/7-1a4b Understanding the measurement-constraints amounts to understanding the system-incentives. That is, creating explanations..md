@@ -8,5 +8,7 @@ Know the corporates’ incentive — given its tax scheme, they want to spend (a
 
 ***[[7-1a4c Different institutions have different motivations-incentives]]***
 
+[[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
+
 #incentives 
 #develop 

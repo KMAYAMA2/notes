@@ -125,6 +125,7 @@ See the next section's sub-section (“The Entrepreneurial Function in the Stati
 		- [[Mark Spitznagel |Spitznagel]] discusses how this process plays out (with Siegfried, Johann, and Günther). 
 			- Viz., everyone would be the average Johann under the ERE.
 			- Does Spitznagel confuse the ERE with the economy under the gold standard? #develop #Spitznagel 
+	- Also see my note from p. 464
 ### Chapter XV. THE MARKET
 #### 3. Capitalism
 - The market economy is a man-made mode of acting under the division of labor. But this does not imply that it is something accidental or artificial and could be replaced by another mode. The market economy is the product of a long evolutionary process. It is the outcome of man’s endeavors to adjust his action in the best possible way to the given conditions of his environment that he cannot alter. It is the strategy, as it were, by the application of which man has triumphantly progressed from savagery to civilization. (p. 426)
@@ -156,7 +157,69 @@ See the next section's sub-section (“The Entrepreneurial Function in the Stati
 - He is certainly not independent. He depends on the other members of society. But this dependence is mutual. The buyer depends on the seller and the seller on the buyer. (p. 445-446)
 	- Related: [[2-1c2a Matt Ridley - 'Self-sufficiency leads to economic downturns. Mutual interdependence is more robust.']] #develop 
 #### 8. Entrepreneurial Profit and Loss
-- 
+- The specific entrepreneurial profits and losses are not produced by the quantity of physical output. They depend on the adjustment of output to the most urgent wants of the consumers. (p. 459)
+	- What produces them is the extent to which the entrepreneur has succeeded or failed in anticipating the future—necessarily uncertain—state of the market.
+	- The ultimate source from which entrepreneurial profit and loss are derived is the uncertainty of the future constellation of demand and supply.
+		- We hold money because the future in uncertain (see e.g., [[Hans-Hermann Hoppe |Hoppe]]). Elaborate the connection. #revisit #develop 
+#### 9. Entrepreneurial Profits and Losses in a Progressing Economy
+See Chapter. XIV, Section 6 (“The Stationary Economy“). #revisit 
+- We must guard ourselves against the popular fallacy of drawing a sharp line between short-run and long-run effects. (p. 464)
+	- What happens in the short run is precisely the first stages of the chain of successive transformations which tend to bring about the long-run effects. The long-run effect is in our case the disappearance of entrepreneurial profits and losses. The short-run effects are the preliminary stages of this process of elimination which finally, if not interrupted by a further change in the data, would result in the emergence of the evenly rotating economy.
+		- See my note from p. 413
+- Profit and loss are entirely determined by the success or failure of the entrepreneur to adjust production to the demand of the consumers. (p. 465)
+	- Related: [[7-1 Create what people want or will want |build what people (or you) (would) want]]. #develop 
+- An excess of the total amount of profits over that of losses is a proof of the fact that there is economic progress and an improvement in the standard of living of all strata of the population. (p. 466)
+	- Simply because the demand of the consumers are met by the product. #develop 
+		- Profit-seeking business is subject to the sovereignty of the consumers, while non-profit institutions are sovereign unto themselves and not responsible to the public. Production for profit is necessarily production for use, as profits can only be earned by providing the consumers with those things they most urgently want to use. (p. 468)
+- It rests with the philosophers to change people’s ideas and ideals. The entrepreneur serves the consumers as they are today, however wicked and ignorant. (p. 469)
+	- Related: [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy. |”Don’t sell anything you wouldn’t buy yourself.”]] – [[Charlie Munger]] #develop
+	- Related: “Customers don’t know what they want until we’ve shown them.” – Steve Jobs
+##### *Some Observations on the Underconsumption Bogey and on the Purchasing Power Argument*
+- The excess of profits over losses is not a consequence of the rise in the prices of the factors of production. The two phenomena—the rise in the prices of the factors of production and the excess of profits over losses—are both steps in the process of adjustment of production to the increase in the quantity of capital goods and to the technological changes which the entrepreneurial actions actuate. Only to the extent that the other strata of the population are enriched by this adjustment can an excess of profits over losses temporarily come into being. (pp. 471-472) #revisit  
+- The basic error of the purchasing power argument consists in misconstruing this causal relation. It turns things upside down when considering the rise in wage rates as the force bringing about economic improvement. (p. 472) #revisit
+#### 10. Promoters, Managers, Technicians, and Bureaucrats
+- He will prefer among the various methods with regard to which the technicians are neutral, the one the application of which requires the smallest cost. (p. 474)
+	- Compare this to “as long as it gets there” mentality, which wouldn’t prevail under the gold (or bitcoin) standard wherein not only capital but money is also scarce. #develop 
+		- See [[Saifedean Ammous |Ammous]] on [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden. |opportunity cost]]. #develop 
+- Economic calculation as practiced in the market economy, and especially the system of double-entry bookkeeping, make it possible to relieve the entrepreneur of involvement in too much detail. He can devote himself to his great tasks without being entangled in a multitude of trifles beyond any mortal man’s range of sight. (p. 474)
+	- The managerial function is always subservient to the entrepreneurial function. It can relieve the entrepreneur of a part of his minor duties; it can never evolve into a substitute for entrepreneurship. (p. 476)
+		- He sees the prospects of an uncertain enterprise from another angle than that of the man who is answerable for the losses. It is precisely when he is rewarded by a share of the profits that he becomes foolhardy because he does not share in the losses too. (p. 477)
+- In profit-seeking business the discretion of the managers and submanagers is restricted by considerations of profit and loss. The profit motive is the only directive needed to make them subservient to the wishes of the consumers. There is no need to restrict their discretion by minute instructions and rules. (pp. 481-482)
+	- Related: [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]] #develop 
+- Bureaucrats are men who in every instance must observe a set of inflexible regulations. (p. 482)
+	- “Play stupid games, win stupid prizes” – [[Naval Ravikant]]
+	- Related: [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit. |When automating, make sure the initial constraints and requirements are not stupid.]] #develop 
+#### 11. The Selective Process
+- Everybody has the opportunity to take his chance. A newcomer does not need to wait for an invitation or encouragement from anyone. He must leap forward on his own account and must himself know how to provide the means needed. (p. 486)
+	- I.e., permissionless (e.g., see [[Chris Dixon]] on Web2.0). #develop 
+		- However, the entrepreneurial pursuits are interfered by politics under the fiat system, because of [[The Cantillon effect |the Cantillon effect]] (i.e., the centralized fiat rail—which explains fiat’s low salability across time—makes providing “the means needed” with savings harder). #develop
+			- Related: “Business leverage come from capital, people, and products with no marginal cost of replication (code and media).” – [[Naval Ravikant]] #develop 
+				- **This might explain why we have more inventions in [[8-1b3 The software can control the hardware |the software]], and less in the hardware.** #revisit #develop 
+- In many countries interventionism has so undermined the supremacy of the market that it is more advantageous for a businessman to rely upon the aid of those in political office than upon the best satisfaction of the needs of the consumers. (p. 487)
+	- Again, *play stupid games, win stupid prizes*.
+- Success in business is the proof of services rendered to the consumers. (p. 487)
+	- The poor man need not be inferior to the prosperous businessman in other regards; he may sometimes be outstanding in scientific, literary, and artistic achievements or in civic leadership.
+- Equality of opportunity, it is said, could be provided only by making education at every level accessible to all. (p. 488)
+	- At the expense of reducing [[There is no such thing as an individual in the abstract—because each individual has unique, specific problem-situations |the varieties of problem-situations]]. #develop
+- It produces imitation and routine, not improvement and progress. Innovators and creative geniuses cannot be reared in schools. (p. 488)
+	- An entrepreneur cannot be trained. A man becomes an entrepreneur in seizing an opportunity and filling the gap.
+- The most successful businessmen were often uneducated when measured by the scholastic standards of the teaching profession. But they were equal to their social function of adjusting production to the most urgent demand. Because of these merits the consumers chose them for business leadership. (p. 488)
+#### 12. The Individual and the Market
+See Chapter. XIV, Section 7 (“The Integration of Catallactic Functions“)—specifically, my note from p. 408. #revisit
+- He does not always see that he himself is a part, although a small part, of the complex of elements determining each momentary state of the market. Because he fails to realize this fact he feels himself free, in criticizing the market phenomena, to condemn with regard to his fellow men a mode of conduct which he considers as quite right with regard to himself. (p. 489)
+	- Related: [[3-1a4a1 The whole must be evoked in explaining the parts]]. #develop 
+		- Praxeology is concerned with the market, because everyone is in it.
+- Modern man in contrasting a producers’ policy with a consumers’ policy has fallen victim to a kind of schizophrenia. (p. 494)
+	- Related: [[2-1e Everything is connected in a complex way]]. #develop 
+- He fails to realize that he is an undivided and indivisible person, i.e., an individual, and as such no less a consumer than a producer. (p. 494)
+#### 13. Business Propaganda
+I.e., advertisement
+- Therefore advertising pays the advertiser only if the examination of the first sample bought does not result in the consumer’s refusal to buy more of it. It is agreed among businessmen that it does not pay to advertise products other than good ones. (p. 498)
+- In this regard there is no difference between the costs of advertising and all other costs of production. (p. 499)
+- All costs of production are expended with the intention of increasing demand. (p. 499)
+#### 14. The “Volkswirtschaft”
+- Here we have only to answer the question of whether or not any of the essential features of the Volkswirtschaft are compatible with the market economy. (p. 502)
+- As far as there is still some room left for the actions of individuals, as far as there is private ownership and exchange of goods and services between individuals, there is no Volkswirtschaft. Only if full government control is substituted for the choices of individuals does the Volkswirtschaft emerge as a real entity. (p. 505)
 ## Part V
 ## Part VI
 ## Part VII
