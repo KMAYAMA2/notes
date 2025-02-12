@@ -2,7 +2,7 @@
 ## Introduction
 - It is the science of every kind of human action. (p. 50)
 	- I.e., praxeology encompasses economics.
-- It is no longer enough to deal with the economic problems within the traditional framework. It is necessary to build the theory of catallactics upon the solid foundation of a general theory of human action, praxeology. This procedure will not only secure it against many fallacious criticisms but clarify many problems hitherto not even adequately seen, still less satisfactorily solved. There is, especially, the fundamental problem of economic calculation. (p. 55)
+- It is no longer enough to deal with the economic problems within the traditional framework. It is necessary to build the theory of catallactics upon the solid foundation of a general theory of human action, praxeology. This procedure will not only secure it against many fallacious criticisms but clarify many problems hitherto not even adequately seen, still less satisfactorily solved. There is, especially, **the fundamental problem of economic calculation**. (p. 55)
 - Omniscience is denied to man. (p. 56)
 	- It merely means that economics is a living thing—and to live implies both imperfection and change.
 - What is commonly called the “industrial revolution” was an offspring of the ideological revolution brought about by the doctrines of the economists. (p. 57)
@@ -35,8 +35,75 @@
 - **The question we have to deal with is whether it is possible to grasp human action intellectually if one refuses to comprehend it as meaningful and purposeful behavior aiming at the attainment of definite ends.** (p. 83)
 	- It is this purposeful behavior—viz., action—that is the subject matter of our science.
 
-
+## Part II
+### Chapter VIII. HUMAN SOCIETY
+#### 1. Human Cooperation
+- The fundamental facts that brought about cooperation, society, and civilization and transformed the animal man into a human being are the facts that work performed under the division of labor is more productive than isolated work and that man’s reason is capable of recognizing this truth. (p. 250)
+- One must never forget that the characteristic feature of human society is purposeful cooperation; society is an outcome of human action, i.e., of a conscious aiming at the attainment of ends. (p. 251) #DanielEverett #revisit 
+#### 2. A Critique of the Holistic and Metaphysical View of Society
+- The advantages derived from peaceful cooperation and division of labor are universal. They immediately benefit every generation, and not only later descendants. For what the individual must sacrifice for the sake of society he is amply compensated by greater advantages. His sacrifice is only apparent and temporary; he foregoes a smaller gain in order to reap a greater one later. No reasonable being can fail to see this obvious fact. (pp. 253-254)
+	- Viz., positive-sum vs zero-sum.
+- For the adjustment of the individual to the requirements of social cooperation demands sacrifices. These are, it is true, only temporary and apparent sacrifices as they are more than compensated for by the incomparably greater advantages which living within society provides. However, at the instant, in the very act of renouncing an expected enjoyment, they are painful, and it is not for everybody to realize their later benefits and to behave accordingly. (p. 256)
+- The principle of majority rule or government by the people as recommended by liberalism does not aim at the supremacy of the average or common man. (p. 258)
+- If one assumes that there exists above and beyond the individual’s actions an imperishable entity aiming at its own ends, different from those of mortal men, one has already constructed the concept of a superhuman being. (p. 260)
+- If one postulates the existence of an entity which ex definitione is higher, nobler, and better than the individuals, then there cannot be any doubt that the aims of this eminent being must tower above those of the wretched individuals. (p. 260)
+	- See my note from p. 394
+- **The philosophy commonly called individualism is a philosophy of social cooperation and the progressive intensification of the social nexus.** (pp. 261-262)
+- Liberalism aims at a political constitution which safeguards the smooth working of social cooperation and the progressive intensification of mutual social relations. Its main objective is the avoidance of violent conflicts, of wars and revolutions that must disintegrate the social collaboration of men and throw people back into the primitive conditions of barbarism where all tribes and political bodies endlessly fought one another. (p. 263)
+	- Because the division of labor requires undisturbed peace, liberalism aims at the establishment of a system of government that is likely to preserve peace, viz., democracy. 
+##### *Liberalism and Religion*
+- Religion, as William James sees it, is a purely personal and individual relation between man and a holy, mysterious, and awe-inspiring divine Reality. It enjoins upon man a certain mode of individual conduct. But it does not assert anything with regard to the problems of social organization. (p. 268)
+- Liberalism is rationalistic. It maintains that it is possible to convince the immense majority that peaceful cooperation within the framework of society better serves their rightly understood interests than mutual battling and social disintegration. (p. 269)
+- It has full confidence in man’s reason. It may be that this optimism is unfounded and that the liberals have erred. But then there is no hope left for mankind’s future. (p. 269) 
+	- “If you believe that there are bounds on the domain in which reason is the proper arbiter of ideas, then you believe in unreason or the supernatural” – [[David Deutsch]] #develop 
+#### 3. The Division of Labor
+- If the earth’s surface were such that the physical conditions of production were the same at every point and if one man were as equal to all other men as is a circle to another with the same diameter in Euclidian geometry, division of labor would not offer any advantages for acting man. (pp. 269-270)
+	- Related: [[2-1c1a Even if you are better at everything that doesn't mean you should do everything by yourself]]. #develop 
+#### 4. The Ricardian Law of Association
+- The gains derived from the division of labor are always mutual. (p. 272)
+#### 6. The Individual Within Society
+- One of the privileges which society affords to the individual is the privilege of living in spite of sickness or physical disability. Sick animals are doomed. Their weakness handicaps them in their attempts to find food and to repel aggression on the part of other animals. Deaf, nearsighted, or crippled savages must perish. But such defects do not deprive a man of the opportunity to adjust himself to life in society. The majority of our contemporaries are afflicted with some bodily deficiencies which biology considers pathological. Our civilization is to a great extent the achievement of such men. The eliminative forces of natural selection are greatly reduced under social conditions. Hence some people say that civilization tends to deteriorate the hereditary qualities of the members of society. (p. 281)
+##### *The Fable of the Mystic Communion*
+- The mystical experience of communion or community is not the source of societal relations, but their product. (p. 285) #DanielEverett #develop 
+- People do not cooperate under the division of labor because they love or should love one another. They cooperate because this best serves their own interests. (pp. 285-286)
+	- Non-human animals cooperate to spread its genes. #develop 
+	- Humans cooperate because each individuals want to pursue their own interests and goals—and these interests and goals are individually created knowledge (via memes). #develop 
+		- See [[David Deutsch]]’s *The Evolution of Culture*
+#### 8. The Instinct of Aggression and Destruction
+- Rational conduct means that man, in face of the fact that he cannot satisfy all his impulses, desires, and appetites, foregoes the satisfaction of those which he considers less urgent. (p. 291)
+- He who wants to preserve life and health as well and as long as possible, must realize that respect for other people’s lives and health better serves his aim than the opposite mode of conduct. One may regret that such is the state of affairs. But no such lamentations can alter the hard facts. (p. 292)
+- Praxeology as a science cannot encroach upon the individual’s right to choose and to act. The final decisions rest with acting men, not with the theorists. Science’s contribution to life and action does not consist in establishing value judgments, but in clarification of the conditions under which man must act and in elucidation of the effects of various modes of action. It puts at the disposal of acting man all the information he needs in order to make his choices in full awareness of their consequences. It prepares an estimate of cost and yield, as it were. It would fail in this task if it were to omit from this statement one of the items which could be of influence in people’s choices and decisions. (p. 293)
+	- Viz., praxeology does not dictate values (i.e., what people _should_ do) but must present the reality of economic cause-and-effect—if it leaves out any relevant factor, individuals making choices may act on faulty assumptions.
+### Chapter X. EXCHANGE WITHIN SOCIETY
+#### 3. Calculative Action
+- Economics is essentially a theory of that scope of action in which calculation is applied or can be applied if certain conditions are realized. No other distinction is of greater significance, both for human life and for the study of human action, than that between **calculable action** and **noncalculable action**. (p. 331)
+	- Related: [[5-2a2 What gets measured gets managed]]. #develop 
 ## Part III
+### Chapter XI. VALUATION WITHOUT CALCULATION
+#### 2. The Barter-Fiction of the Elementary Theory of Value and Prices
+- The economists misconstrued economic calculation. They took it for a category of all human action and ignored the fact that it is only a category inherent in acting under special conditions. (p. 335)
+- People tacitly assumed that changes in purchasing power occur with regard to all goods and services at the same time and to the same extent. (p. 337)
+	- Related: [[The Cantillon effect |the Cantillon effect]].
+- An inveterate fallacy asserted that things and services exchanged are of equal value. (p. 338)
+	- People, it was assumed, first established the magnitude of value proper to goods and services by an act of measurement and then proceeded to barter them against quantities of goods and services of the same amount of value.
+- Values and valuations are intensive quantities and not extensive quantities. (p. 339)
+	- Hence positive-sum. #develop 
+- Just as there is no standard and no measurement of sexual love, of friendship and sympathy, and of aesthetic enjoyment, so there is no measurement of the value of commodities. (p. 340)
+	- If a man exchanges two pounds of butter for a shirt, all that we can assert with regard to this transaction is that he—at the instant of the transaction and under the conditions which this instant offers to him—prefers one shirt to two pounds of butter.
+- Psychic quantities can only be felt. They are entirely personal, and there is no semantic means to express their intensity and to convey information about them to other people. (p. 340)
+	- *“Manifested only through action”* #develop 
+		- See my note from p. 64
+#### 3. The Problem of Economic Calculation
+- Technological computation can establish relations between various classes of means only to the extent that they can be substituted for one another in the attempts to attain a definite goal. But action is bound to discover relations among all means, however dissimilar they may be, without any regard to the question whether or not they can replace one another in performing the same services. (p. 345)
+	- Because time is scarce. #develop 
+		- “*However dissimilar they may be*” #develop
+- Only because money is the common medium of exchange, because most goods and services can be sold and bought on the market against money, and only as far as this is the case, can men use money prices in reckoning. The exchange ratios between money and the various goods and services as established on the market of the past and as expected to be established on the market of the future are the mental tools of economic planning. (p. 346)
+- Where there are no money prices, there are no such things as economic quantities. There are only various quantitative relations between various causes and effects in the external world. There is no means for man to find out what kind of action would best serve his endeavors to remove uneasiness as far as possible. (p. 346)
+#### 4. Economic Calculation and the Market
+- The exchange ratios which we have to deal with are permanently fluctuating. There is nothing constant and invariable in them. (p. 348)
+- They are historical events, expressive of what happened once at a definite instant and under definite circumstances. (p. 348)
+- As action is always directed toward influencing a future state of affairs, economic calculation always deals with the future. (p. 348)
+### Chapter XII. THE SPHERE OF ECONOMIC CALCULATION
 ### Chapter XIII. MONETARY CALCULATION AS A TOOL OF ACTION
 #### 1. Monetary Calculation as a Method of Thinking
 - Monetary calculation is entirely inapplicable and useless for any consideration which does not look at things from the point of view of individuals. It involves calculating the individuals’ profits, not imaginary “social” values and “social” welfare. (p. 375)
@@ -57,13 +124,15 @@
 		- See Chapter XIX, Section 2. #revisit 
 #### 3. The Pure Market Economy
 - Only at a later stage, having exhausted everything which can be learned from the study of this imaginary construction, does it turn to the study of the various problems raised by interference with the market on the part of governments and other agencies employing coercion and compulsion. (pp. 387-388)
-##### The Maximization of Profits
+##### *The Maximization of Profits*
 - What a man does is always aimed at an improvement of his own state of satisfaction. In this sense—and in no other—we are free to use the term selfishness and to emphasize that action is necessarily always selfish. Even an action directly aiming at the improvement of other people’s conditions is selfish. The actor considers it as more satisfactory for himself to make other people eat than to eat himself. His uneasiness is caused by the awareness of the fact that other people are in want. (p. 393)
+	- E.g., “Hospitality is a selfish pleasure. [[2-1b2c1 Knowing your sustainable growth is the key to consistency. Do not depend on will power. |It feels great to make other people feel good.]]” – [[Will Guidara]]
 - Some economists believe that it is the task of economics to establish how in the whole of society the greatest possible satisfaction of all people or of the greatest number could be attained. (p. 394)
 	- They do not realize that there is no method which would allow us to measure the state of satisfaction attained by various individuals. (p. 394)
 		- [[There is no such thing as an individual in the abstract—because each individual has unique, specific problem-situations]]. And [[Value is subjective |value is subjective]]. #develop 
 - Economics is not intent upon pronouncing value judgments. (P. 394)
 	- Value judgements imply meta-level perspective and that implies zero-sum, because the attainment of one perspective comes at the expense of others—viz., Austrian economics (via subjective value theory) is [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] and benefit the whole society. #develop 
+		- See my note from p. 260
 #### 5. The State of Rest and the Evenly Rotating Economy
 See Chapter XVII, Section 19 (“The Gold Standard”). See also [[Mark Spitznagel |Spitznagel]]’s discussion of ERE. #Spitznagel 
 - **The *plain state of rest***
@@ -75,7 +144,7 @@ See Chapter XVII, Section 19 (“The Gold Standard”). See also [[Mark Spitznag
 - The final price can only be defined by defining the conditions required for its emergence. No definite numerical value in monetary terms or in quantities of other goods can be attributed to it. It will never appear on the market. The market price can never coincide with the final price coordinated to the instant in which this market structure is actual. But catallactics would fail lamentably in its task of analyzing the problems of price determination if it were to neglect dealing with the final price. (pp. 398-399)
 	- Viz., praxeology must discuss the nature of the final price, even when it's not realizable in reality. #develop
 - Economists often erred in neglecting the element of time. (p. 399)
-	- E.g., [[The Cantillon effect]]. #develop 
+	- E.g., [[The Cantillon effect |the Cantillon effect]]. #develop 
 - **The *evenly rotating economy***
 	- The evenly rotating economy is characterized by the elimination of change in the data and of the time element. (p. 400)
 		- It is inexpedient and misleading to call this imaginary construction, as is usual, the static economy or the static equilibrium, and it is a bad mistake to confuse it with the imaginary construction of a stationary economy.  
