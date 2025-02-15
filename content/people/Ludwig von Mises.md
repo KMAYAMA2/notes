@@ -104,6 +104,73 @@
 - They are historical events, expressive of what happened once at a definite instant and under definite circumstances. (p. 348)
 - As action is always directed toward influencing a future state of affairs, economic calculation always deals with the future. (p. 348)
 ### Chapter XII. THE SPHERE OF ECONOMIC CALCULATION
+#### 1. The Character of Monetary Entries
+- Economic calculation can comprehend everything that is exchanged against money. (p. 351)
+- The main task of economic calculation is not to deal with the problems of unchanging or only slightly changing market situations and prices, but to deal with change. (p. 351)
+- Economic calculation is as efficient as it can be. No reform could add to its efficiency. It renders to acting man all the services which he can obtain from numerical computation. It is, of course, not a means of knowing future conditions with certainty, and it does not deprive action of its speculative character. (p. 354)
+- It is not the task of economic calculation to expand man’s information about future conditions. **Its task is to adjust his actions as well as possible to his present opinion concerning want-satisfaction in the future.** (p. 354)
+- For this purpose acting man needs a method of computation, and computation requires a common denominator to which all items entered are to be referable. The common denominator of economic calculation is money. (pp. 354-355)
+#### 2. The Limits of Economic Calculation
+- Honor, virtue, glory, and likewise vigor, health, and life itself play a role in action both as means and as ends; but they do not enter into economic calculation. (p. 355)
+- Those things which do not enter into the items of accountancy and calculation are either ends or goods of the first order. (p. 355)
+- No complaint is less justified than the lamentation that the computation methods of the market do not comprehend things not vendible. Moral and aesthetic values do not suffer any damage on account of this fact. (p. 356)
+	- Related: [[5-2a2 What gets measured gets managed]]. #develop 
+- Some critics of economic calculation fail to realize that it is a method available only to people acting in the economic system of the division of labor in a social order based upon private ownership of the means of production. It can only serve the considerations of individuals or groups of individuals operating in the institutional setting of this social order. It is consequently a calculation of private profits and not of “social welfare.” (p. 357)
+- Economic calculation in terms of money prices is the calculation of entrepreneurs producing for the consumers of a market society. (p. 357)
+	- Viz., there is no “higher-level” entrepreneur. #develop 
+- In a society of free men the preservation of life and health are ends, not means. They do not enter into any process of accounting means. (p. 358)
+- It is possible to determine in terms of money prices the sum of the income or the wealth of a number of people. (p. 358)
+	- But it is nonsensical to reckon national income or national wealth. As soon as we embark upon considerations foreign to the reasoning of a man operating within the pale of a market society, we are no longer helped by monetary calculation methods.
+- The attempts to determine in money the wealth of a nation or of the whole of mankind are as childish as the mystic efforts to solve the riddles of the universe by worrying about the dimensions of the pyramid of Cheops. (p. 358)
+- **The prices are not measured in money; they consist in money.** (p. 358) #revisit 
+	- Viz., **prices are money-based exchange ratios shaped by human action and subjective valuation**—as such they are subject to change. #develop #revisit 
+		- Change and uncertainty necessitate money (e.g., see the discussion on ERE from Chapter XIV Section 2, and [[Hans-Hermann Hoppe |Hoppe]], respectively). 
+			- Related: [[12-1e Nothing is necessary = Everything is contingent]]. #develop 
+			- Refer to [[Hans-Hermann Hoppe |Hoppe]] and elaborate further. #TODO
+- There is nothing in prices which permits one to liken them to the measurement of physical and chemical phenomena. (p. 359)
+#### 3. The Changeability of Prices
+- On the contrary, it could rather be asserted that the merger of local markets into larger national markets, the final emergence of a world embracing world market, and the evolution of commerce aiming at continuously supplying the consumers have made price changes less frequent and less sharp. (pp. 359-360)
+- It is easy to understand why those whose short-run interests are hurt by a change in prices resent such changes, emphasize that the previous prices were not only fairer but also more normal, and maintain that price stability is in conformity with the laws of nature and of morality. (p. 360)
+- Even the classical economists were slow to free themselves from this error. With them value was something objective, i.e., a phenomenon of the external world and a quality inherent in things and therefore measurable. They utterly failed to comprehend the purely human and voluntaristic character of value judgments. (pp. 360-361)
+	- E.g., see [[Saifedean Ammous |Ammous]]’ *Principles of Economics* Chapter 2.
+- It is not only a task of economic science to discard the errors concerning measurability in the field of action. It is no less a task of economic policy. For the failures of present-day economic policies are to some extent due to the lamentable confusion brought about by the idea that there is something fixed and therefore measurable in interhuman relations. (p. 361)
+	- Related: [[There are things that cannot be measured]]. #develop 
+#### 4. Stabilization
+- The urge toward action, i.e., improvement of the conditions of life, is inborn in man. Man himself changes from moment to moment and his valuations, volitions, and acts change with him. In the realm of action there is nothing perpetual but change. There is no fixed point in this ceaseless fluctuation other than the eternal aprioristic categories of action. (p. 361)
+- The goal assigned to the policy of stabilization is the preservation of the immutability of this money expenditure. This would be all right if the housewife and her imaginary basket were constant elements, if the basket were always to contain the same goods and the same quantity of each and if the role which this assortment of goods plays in the family’s life were not to change. But we are living in a world in which none of these conditions is realized. (pp. 362-363)
+	- E.g., CPI. #develop 
+- The mere fact that the quality of all goods and services of the first order is subject to change explodes one of the fundamental assumptions of all index number methods. (p. 363)
+- But even apart from all these insurmountable obstacles the task would remain insoluble. For not only do the technological features of commodities change and new kinds of goods appear while many old ones disappear. Valuations change too, and they cause changes in demand and production. The assumptions of the measurement doctrine would require men whose wants and valuations are rigid. (p. 364)
+	- Related: [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]] #develop 
+- Only if people were to value the same things always in the same way, could we consider price changes as expressive of changes in the power of money to buy things. (p. 364)
+	- Viz., you cannot infer purchasing power changes from price changes in reality. #develop 
+- **Changes in the purchasing power of money must necessarily affect the prices of different commodities and services at different times and to different extents.** (p. 365)
+	- Refer to this when elaborating Section 2 (see my note from p. 358). #revisit #TODO 
+- In the field of praxeology and economics no sense can be given to the notion of measurement. In the hypothetical state of rigid conditions there are no changes to be measured. In the actual world of change there are no fixed points, dimensions, or relations which could serve as a standard. (p. 365)
+- The monetary unit’s purchasing power never changes evenly with regard to all things vendible and purchasable. (p. 365)
+- Where there is action, there is change. Action is a lever of change. (p. 365)
+- Human action originates change. As far as there is human action there is no stability, but ceaseless alteration. The historical process is a sequence of changes. It is beyond the power of man to stop it and to bring about an age of stability in which all history comes to a standstill. It is man’s nature to strive after improvement, to beget new ideas, and to rearrange the conditions of his life according to these ideas. (p. 366)
+	- Relate: [[David Deutsch]] and [[Elie Ayache]] #Ayache
+- In the imaginary—and, of course, unrealizable—state of rigidity and stability there are no changes to be measured. In the actual world of permanent change there are no fixed points, objects, qualities or relations with regard to which changes could be measured. (p. 367)
+	- Related: [[Know what to measure. Google Analytics is provided by Google. Know their incentives. |Know what to measure]]. #develop 
+	- Related: [[There are things that cannot be measured]]. #develop 
+#### 5. The Root of the Stabilization Idea
+- The fact that rigidity in the monetary unit’s purchasing power is unthinkable and unrealizable does not impair the methods of economic calculation. What economic calculation requires is a monetary system whose functioning is not sabotaged by government interference. (p. 367)
+- Changes in the relation between the supply of and the demand for the precious metals and the resulting alterations in purchasing power went on so slowly that the entrepreneur’s economic calculation could disregard them without going too far afield. (pp. 367-368)
+	- I.e., high stock-to-flow ratio. #develop 
+- The idea of rendering purchasing power stable did not originate from endeavors to make economic calculation more correct. Its source is the wish to create a sphere withdrawn from the ceaseless flux of human affairs, a realm which the historical process does not affect. (p. 368)
+	- Endowments which were designed to provide in perpetuity for an ecclesiastic body, for a charitable institution, or for a family were long established in land or in disbursement of agricultural products in kind. Later annuities to be settled in money were added.
+- He who invested his funds in bonds issued by the government and its subdivisions was no longer subject to the inescapable laws of the market and to the sovereignty of the consumers. (p. 369)
+	- His income no longer stemmed from the process of supplying the wants of the consumers in the best possible way, **but from the taxes levied by the state’s apparatus of compulsion and coercion**.
+	- He was no longer a servant of his fellow citizens, subject to their sovereignty; he was a partner of the government which ruled the people and exacted tribute from them.
+	- What the government paid as interest was less than the market offered. But this difference was far outweighed by the unquestionable solvency of the debtor, the state whose revenue did not depend on satisfying the public, but on insisting on the payment of taxes.
+		- See [[Saifedean Ammous |Ammous]]’ *The Fiat Standard* for more discussion on government bonds. #revisit
+- Capitalists and entrepreneurs were fully aware of the fact that in the market society there is no means of preserving acquired wealth other than by acquiring it anew each day in tough competition with everybody. (pp. 369-370)
+- The investor who for security’s sake shuns the market, entrepreneurship, and investment in free enterprise and prefers government bonds is faced again with the problem of the changeability of all human affairs. He discovers that in the frame of a market society there is no room left for wealth not dependent upon the market. His endeavors to find an inexhaustible source of income fail. (p. 370)
+- There are in this world no such things as stability and security and no human endeavors are powerful enough to bring them about. There is in the social system of the market society no other means of acquiring wealth and of preserving it than successful service to the consumers. (p. 370)
+- Even the most ruthless government in the long run is not able to defy the laws determining human life and action. (p. 370)
+- If the government invests funds unsuccessfully and no surplus results, or if it spends the money for current expenditure, the capital borrowed shrinks or disappears entirely, and no source is opened from which interest and principal could be paid. (p. 371)
+	- I.e., capital consumption. #develop 
 ### Chapter XIII. MONETARY CALCULATION AS A TOOL OF ACTION
 #### 1. Monetary Calculation as a Method of Thinking
 - Monetary calculation is entirely inapplicable and useless for any consideration which does not look at things from the point of view of individuals. It involves calculating the individuals’ profits, not imaginary “social” values and “social” welfare. (p. 375)
@@ -289,6 +356,20 @@ I.e., advertisement
 #### 14. The “Volkswirtschaft”
 - Here we have only to answer the question of whether or not any of the essential features of the Volkswirtschaft are compatible with the market economy. (p. 502)
 - As far as there is still some room left for the actions of individuals, as far as there is private ownership and exchange of goods and services between individuals, there is no Volkswirtschaft. Only if full government control is substituted for the choices of individuals does the Volkswirtschaft emerge as a real entity. (p. 505)
+### Chapter XVI. PRICES
+#### 1. The Pricing Process
+#### 2. Valuation and Appraisement
+#### 3. The Prices of the Goods of Higher Orders
+#### 4. Cost Accounting
+#### 5. Logical Catallactics Versus Mathematical Catallactics
+#### 15. The Chimera of Nonmarket Prices
+### Chapter XIX. THE RATE OF INTEREST
+#### 1. The Phenomenon of Interest
+#### 2. Originary Interest
+#### 3. The Height of Interest Rates
+#### 4. Originary Interest in the Changing Economy
+#### 5. The Computation of Interest
+
 ## Part V
 ## Part VI
 ## Part VII
