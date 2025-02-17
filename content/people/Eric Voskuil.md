@@ -34,7 +34,7 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Reserve Currency Fallacy 
 ## State Banking Principle 
 
-# MINING (0/23)
+# MINING (2/23)
 ## ASIC Monopoly Fallacy 
 ## Balance of Power Fallacy 
 ## Byproduct Mining Fallacy 
@@ -42,9 +42,14 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Decoupled Mining Fallacy 
 ## Dedicated Cost Principle 
 ## Efficiency Paradox 
+- No matter what technology improvement is introduced, the cost of transaction confirmation remains the sum of the reward for confirmation. (p. 100)
+- An increase in hash rate for the same cost results in a difficulty increase to maintain the block period, increasing cost accordingly. (p. 100)
 ## Empty Block Fallacy 
 ## Energy Exhaustion Fallacy 
 ## Energy Store Fallacy 
+- The theory errs in the implication that energy value expended in mining is unique in its contribution to value. (p. 106)
+- Furthermore, it is a similar error to assert that money is a store of value. Money is a store of money. Only objects can actually be stored. The value of money derives entirely from the value of what it can be traded for, to the people trading. As value is subjective, it is human preference, subject to constant and unpredictable change, and cannot be stored. (p. 106)
+	- Viz., the extent to which bitcoin will maintain its purchasing power relatively better vs USD ultimately comes down to people. #develop  
 ## Energy Waste Fallacy 
 ## Fee Recovery Fallacy 
 ## Halving Fallacy 
