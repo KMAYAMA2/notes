@@ -2,16 +2,27 @@
 date: 2025-02-15
 ---
 Read 28 sub-categories (out of 98—from eight parts)
-# SECURITY MODEL (13/22)
+# SECURITY MODEL (14/22)
 
 ## Axiom of Resistance 
 - In modern logic an axiom is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. (p. 19)
 - There is an assumption that it is *possible* for a system to resist state control. This is not accepted as a fact but deemed to be a reasonable assumption, due to the behavior of similar systems, on which to base the system. (p. 20)
 - One who does not accept the axiom of resistance is contemplating an entirely different system than Bitcoin. (p. 20)
 ## Censorship Resistance Property 
+- Resistance to censorship is a consequence of transaction fees. (p. 21)
+- As shown in [Proof of Work Fallacy], hard forks cannot be used to selectively evict the censor and instead accelerate coin collapse. (p. 21)
+- Only the state can perpetually subsidize operations, as it can compel tax. (p. 21)
+- Censorship resistance arises only from the fee premium. The subsidy portion of the block reward does not contribute to censorship resistance because the censor earns the same subsidy as other miners. (p. 22)
+- It is also possible that a censorship soft fork could lead to a price increase, as white market business embraces the associated state approval. Nevertheless, for the coin to survive, its economy must continue to generate a fee premium sufficient to overpower the censor. (p. 22)
+- It cannot be shown that the economy will generate sufficient fees to overpower a censor. Similarly, it cannot be shown that a censor will be willing and able to subsidize operations at any given level. It is therefore not possible to prove censorship resistance. This is why resistance to state control is axiomatic. (p. 22)
 ## Centralization Risk 
 ## Cockroach Fallacy 
 ## Consensus Property 
+- People generally think of consensus in the context of a fixed membership, like a jury. In this model consensus implies that all members must agree. (p. 27)
+- **But because Bitcoin membership is permissionless and therefore not fixed, there is always complete agreement, as implied by membership.** (p. 27)
+- In this model consensus refers to the size of the membership (economy), not a condition of agreement. (p. 27)
+	- Consensus: agreement of members (jury) <> membership size (bitcoin)
+- A consensus may fragment ([Fragmentation Principle]) or consolidate ([Consolidation Principle]). Generally a larger consensus provides greater utility and greater security by more broadly sharing risk ([Risk Sharing Principle]). (p. 27)
 ## Cryptodynamic Principles 
 ## Custodial Risk Principle 
 ## Hearn Error 
@@ -21,6 +32,11 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Other Means Principle 
 ## Patent Resistance Principle 
 ## Permissionless Principle 
+- Bitcoin is designed to operate without permission from any authority. Its [Value Proposition] is entirely based on this property. (p. 42)
+- **Bitcoin is therefore inherently a black market money.** (p. 42)
+- Its security architecture necessarily assumes it is operating without state permission ([Other Means Principle]). (p. 42)
+- Any system dependent upon the value proposition of Bitcoin must also be black market. (p. 42)
+	- E.g., the mining industry—although much of bitcoin mining has become white market, in the scenario where the state initiates censorship attacks, new miners will emerge from the black market (e.g., see [Reserve Currency Fallacy]). #develop 
 ## Prisoner’s Dilemma Fallacy 
 ## Private Key Fallacy 
 ## Proof of Work Fallacy 
@@ -31,11 +47,47 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Threat Level Paradox 
 ## Value Proposition 
 
-# STATISM (1/5)
+# STATISM (3/5)
 ## Fedcoin Objectives 
+- The essential Fedcoin distinctions from Bitcoin allow the state to arbitrarily create new units (seigniorage) and deny transfer (censorship). (p. 69)
+	- The seigniorage objective can be achieved by a hard fork that introduces one new consensus rule. (p. 69)
+	- The censorship objective can be achieved by a soft fork that precludes confirmation of transactions that lack state signature. (p. 69)
+- **Preventing the state from compelling the use of these forks is the central purpose of Bitcoin system security.** The economy guards against the hard fork and miners guard against the soft fork. (p. 69)
+	- The economy here means the set of all merchants (or users).
 ## Inflationary Quality Fallacy 
 ## Reservation Principle 
+- The term “reserve currency” refers to a state hoard, as required for settlement of accounts with other states. (p. 72)
+- States buy reserve currency from people using monopoly money, foreign exchange controls and direct taxation. (p. 72)
+- A “gold standard” is one in which the state collects gold as a foreign exchange reserve, and individuals reserve in claims to a “standard” amount. (p. 72)
+	- The irredeemably was extended to other states in 1971, officially ending the gold standard in the United States. No longer a debt of the state, the Dollar transitioned from a representative currency (i.e. note) to fiat. (p. 73)
+		- E.g., see [[Saifedean Ammous |Ammous]]’ *The Bitcoin Standard*, Chapter 4.
+- The state collects the reserve money into its hoard, which represents its ability to settle its own debts with other states. While people do still hoard the reserve money, it is subject to onerous constraints[266] on its use in order to preserve the tax benefit of the state’s monopoly money. (p. 74)
+	- Constraints include: legal tender laws; capital controls; tax policies; bans or restrictoins.
+- The use of gold as a state reserve offers no monetary benefit to individuals who must still trade in monopoly money. As shown in [Reserve Currency Fallacy], Bitcoin as a state reserve can do no better. (p. 74)
+	- Viz., unless individuals are allowed to transact freely in the reserve asset (e.g., gold or bitcoin), its presence in state reserves does not shield them from the risks of fiat currency, such as inflation or government control.
+- With the bulk of actual bitcoin acceptance in the hands of the state, with people trading in money substitutes, there is nothing to restrain the state from introducing both arbitrary inflation and censorship. (p. 74)
+	- The Bitcoin Standard as advocated by [[Saifedean Ammous |Ammous]] and [[Michael Saylor |Saylor]] will recreate situations similar to previous regimes where the government confiscated the reserve currency (e.g., gold) from people. #develop 
+		- Bitcoin’s [Value Proposition] is censorship resistance, and not number-go-up. #develop 
 ## Reserve Currency Fallacy 
+- Potential scenario:
+	- In order to obtain a reserve of bitcoin (BTC) the state issues negotiable Bitcoin Certificates (BC) in exchange for bitcoin. (p. 75)
+	- This may be accomplished by seizing centralized accounts (compelling conversion) or by market trading, both of which have been done to build gold reserves. (p. 75)
+	- **This is how states ended up with gold and people ended up with paper.** (p. 76)
+	- The central bank must be trusted to account for BC issuance, and ultimately this means everyone trusts the state to not engage in easing. (p. 76)
+	- The *reason* there is a difference between legal tender and reserve currency is to enable inflation of the currency in use (taxation) while holding a better money in reserve (hoard). (p. 76)
+		- Legal tender: BC <> reserve currency: BTC
+- Without individuals validating BTC received in trade, there is nobody to refuse invalid BTC as it comes to be redefined by the state. In this case censorship and inflation can easily be introduced, invalidating the theory. (p. 276)
+- Only black market Bitcoin transaction and mining can resist this transition. (p. 76)
+- This provides little economic pressure on the state to maintain consistency with Bitcoin consensus rules. (pp. 76-77)
+	- The state and mining:
+		- Honest mining results in the growth of bitcoin network—which is inherently black market money. #develop 
+		- Similarly, censorship attacks not only burdens the people with tax but also can result in the emergence of new miners due to increased transaction fees pressure—the same outcome with the honest mining scenario.
+			- Obviously, censorship attacks *can* succeed.
+		- The surest way for the state to undermine the bitcoin network isn’t a direct attack, but a slow and strategic capture of its supply—i.e., **a *strategic* bitcoin *reserve***. #develop 
+- Layering preserves the [Cryptodynamic Principles] of decentralization, while “backing” is full abandonment of them. Bitcoin cannot be sustained as predominantly a backing money for central bank notes. People must trade with it for it to be secure. (p. 77)
+	- People must transact with BTC, and not with BC—as discussed in the final paragraph of [Reservation Principle].
+- It is certainly possible for Bitcoin to be held by state treasuries, but this offers no transaction scaling or other advantage to people. (p. 77)
+	- It will only benefit the state—states will end up with bitcoin and people with paper.
 ## State Banking Principle 
 
 # MINING (2/23)
@@ -184,8 +236,14 @@ Read 28 sub-categories (out of 98—from eight parts)
 - In other words, flow is a function of demand. An anticipated loss results in no production whatsoever. This lack of any flow is *not inherent in the substance* but a consequence of *lack of demand*. Given that both supply and demand determine flow, the theory is invalid. (p. 285)
 	- E.g., the demonetization of gold.  
 - It does not imply anything about future monetary inflation. It can be used to analyze historical relations, and to calculate future stock based on assumed future flow, but it cannot be used to predict future monetary inflation. (p. 288)
-# SCALABILITY (1/4)
+# SCALABILITY (2/4)
 ## Auditability Fallacy 
+- Solvency of a Bitcoin custodian cannot be audited. (p. 292)
+- A custodian is a person with discretion both in the release of an asset and issuance of securities against it. If both release of the asset and the issuance of securities against it are controlled by consensus rules, then the relationship is not actually custodial. (p. 292)
+- This is the distinction between a reserve ([Reservation Principle]) and a layer. A layer is protocol-enforced (non-custodial) and therefore has nothing to audit. (p. 292)
+- **A solvency audit requires simultaneous (atomic) proof of both the full amount of the asset held by a custodian and the securities issued against it.** (p. 292)
+- In the case of state banking ([Reserve Currency Fallacy]) it is insufficient to detect the deviation. Historically it has not been difficult to detect such deviations. The difficulty arises in stopping them. (p. 292)
+	- E.g., the suspension of the gold standard (see [[Saifedean Ammous |Ammous]]).
 ## Scalability Principle 
 ## Substitution Principle 
 - As shown in [Stability Property], Bitcoin integrates transfer fees which necessarily rise with use. This unique characteristic creates downward price pressure by reducing demand. But this rising cost also makes substitutes viable, creating downward price pressure by effectively increasing supply. (p. 293)
