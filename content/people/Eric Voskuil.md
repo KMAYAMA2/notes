@@ -1,7 +1,7 @@
 ---
 date: 2025-02-15
 ---
-Read 28 sub-categories (out of 98—from eight parts)
+Read 43 sub-categories (out of 98—from eight parts)
 # SECURITY MODEL (14/22)
 
 ## Axiom of Resistance 
@@ -47,7 +47,7 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Threat Level Paradox 
 ## Value Proposition 
 
-# STATISM (3/5)
+# STATISM (4/5)
 ## Fedcoin Objectives 
 - The essential Fedcoin distinctions from Bitcoin allow the state to arbitrarily create new units (seigniorage) and deny transfer (censorship). (p. 69)
 	- The seigniorage objective can be achieved by a hard fork that introduces one new consensus rule. (p. 69)
@@ -162,7 +162,7 @@ Read 28 sub-categories (out of 98—from eight parts)
 			- Time preference is *preference*—i.e., it’s subjectivity means nothing necessitates it to move one way or other (i.e., higher or lower time preference).
 				- Related: [[12-1e Nothing is necessary = Everything is contingent]]. #develop 
 ## Split Speculator Dilemma 
-# ECONOMICS (5/12)
+# ECONOMICS (6/12)
 ## Credit Expansion Fallacy 
 ## Depreciation Principle 
 ## Expression Principle 
@@ -207,7 +207,7 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Speculative Consumption 
 ## Subjective Inflation Principle 
 ## Time Preference Fallacy 
-# MONEY (3/10)
+# MONEY (5/10)
 ## Collectible Tautology 
 ## Debt Loop Fallacy 
 ## Ideal Money Fallacy 
@@ -227,16 +227,38 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Unlendable Money Fallacy 
 # PRICE (4/5)
 ## Lunar Fallacy 
+- **Production is the source of trade and therefore all economic activity results from investment.** (p. 273)
+- A hoard is defined by its lack of consumption in production. If all people hoarded their capital, there would be nothing to trade and therefore no demand for the money. (pp. 273-274)
+	- **Profit from production requires preceding investment.**
+- A fixed supply market money can only increase in purchasing power due to:
+	- Economic growth—creating more demand for use of the money in exchange
+	- Monetization—people transferring demand from another money
+		- Viz., bitcoin hoarding works as long as people are transferring from the state fiat money (e.g., the dollar)—i.e., as a secondary medium of exchange (e.g., see [[Bitstein]]’s argument).
+			- But of course monetization has a limit. 
+- Finally, the theory fails to recognize the [Stability Property] of Bitcoin. (p. 274)
+- For these reasons the theory is invalid. (p. 274)
 ## Price Estimation 
 ## Scarcity Fallacy 
 ## Stability Property 
+- As shown in [Inflation Principle] the relationship between supply and demand (price) is stable despite supply not being fixed. Competition ensures that market money production is controlled by demand. The feedback of demand decrease resulting from supply increase reduces the production incentive, ensuring stability. (pp. 282-283)
+- As a market money, Bitcoin supply increase has no effect on price. Yet because its supply rate is fixed its stability is instead based on changes to demand. Unlike commodity money, the cost of producing Bitcoin rises and falls based on demand for it. **Given that price is the relationship between supply and demand, this has the same effect.** (p. 283)
+- Monopoly money supply is increased arbitrarily (or taxed as demurrage) by the sovereign due to the financial reward of seigniorage. (p. 283)
+	- The resulting sovereign profit (tax) is the reward of seigniorage and the reason for monopoly money. (p. 283)
+		- See [Reservation Principle]
+	- The supply increase caused by seigniorage is mitigated only by political unrest as people resist the consequential value decrease. This unrest initially manifests as capital flight, which is countered by foreign exchange controls. (pp. 283-284)
+- As a fixed supply money, late Bitcoin remains stable. (p. 284)
+	- As fees necessarily rise with demand the utility threshold ([Utility Threshold Property]) eliminates demand for transaction of value below the threshold. More generally, the fee level rises to the point where monetary substitutes ([Substitution Principle]) are more cost-effective for a given value transaction. (p. 284)
+	- **Stability therefore results from limiting demand directly, in contrast to relying on an increase in supply to do so.** (p. 284)
+	- Stability implies that price is bounded, yet it can rise with increased effective transaction carrying capacity (e.g., via layering or block size increase—see [Scalability Principle]) of the coin, and with increased utility relative to substitutes. (p. 284) #revisit 
+		- Refer to Allen Farrington’s *bitcoin’s killer-app* article for increased utility relative to substitutes. #revisit 
+		- The increased effective transaction carrying capacity itself also contributes to the increased utility of the coin as well. #develop 
 ## Stock to Flow Fallacy 
 - There is a theory that money with a higher inherent stock-to-flow ratio will suffer less proportional monetary inflation than a money with a lower ratio. (p. 285)
 - But production of anything occurs when the anticipated price makes production profitable. More people digging for gold increases its flow. (p. 285)
 - In other words, flow is a function of demand. An anticipated loss results in no production whatsoever. This lack of any flow is *not inherent in the substance* but a consequence of *lack of demand*. Given that both supply and demand determine flow, the theory is invalid. (p. 285)
 	- E.g., the demonetization of gold.  
 - It does not imply anything about future monetary inflation. It can be used to analyze historical relations, and to calculate future stock based on assumed future flow, but it cannot be used to predict future monetary inflation. (p. 288)
-# SCALABILITY (2/4)
+# SCALABILITY (3/4)
 ## Auditability Fallacy 
 - Solvency of a Bitcoin custodian cannot be audited. (p. 292)
 - A custodian is a person with discretion both in the release of an asset and issuance of securities against it. If both release of the asset and the issuance of securities against it are controlled by consensus rules, then the relationship is not actually custodial. (p. 292)
@@ -248,4 +270,5 @@ Read 28 sub-categories (out of 98—from eight parts)
 ## Substitution Principle 
 - As shown in [Stability Property], Bitcoin integrates transfer fees which necessarily rise with use. This unique characteristic creates downward price pressure by reducing demand. But this rising cost also makes substitutes viable, creating downward price pressure by effectively increasing supply. (p. 293)
 	- Substitution principle is already at play for bitcoin with the existence of dollar (and other coins). #develop 
+		- “However dissimilar they may be” – [[Ludwig von Mises]] #develop 
 ## Utility Threshold Property
