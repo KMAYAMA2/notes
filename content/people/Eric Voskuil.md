@@ -1,8 +1,8 @@
 ---
 date: 2025-02-15
 ---
-Read 43 sub-categories (out of 98—from eight parts)
-# SECURITY MODEL (14/22)
+Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
+# SECURITY MODEL (5/19/22)
 
 ## Axiom of Resistance 
 - In modern logic an axiom is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. (p. 19)
@@ -47,7 +47,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 ## Threat Level Paradox 
 ## Value Proposition 
 
-# STATISM (4/5)
+# STATISM (3/(4+1)/5)
 ## Fedcoin Objectives 
 - The essential Fedcoin distinctions from Bitcoin allow the state to arbitrarily create new units (seigniorage) and deny transfer (censorship). (p. 69)
 	- The seigniorage objective can be achieved by a hard fork that introduces one new consensus rule. (p. 69)
@@ -90,7 +90,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 	- It will only benefit the state—states will end up with bitcoin and people with paper.
 ## State Banking Principle 
 
-# MINING (2/23)
+# MINING (2/16/23)
 ## ASIC Monopoly Fallacy 
 ## Balance of Power Fallacy 
 ## Byproduct Mining Fallacy 
@@ -119,7 +119,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 ## Spam Misnomer 
 ## Variance Discount Flaw 
 ## Zero Sum Property 
-# ALTERNATIVES (5/17)
+# ALTERNATIVES (5/7/17)
 ## Bitcoin Labels 
 ## Blockchain Fallacy 
 ## Brand Arrogation 
@@ -162,7 +162,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 			- Time preference is *preference*—i.e., it’s subjectivity means nothing necessitates it to move one way or other (i.e., higher or lower time preference).
 				- Related: [[12-1e Nothing is necessary = Everything is contingent]]. #develop 
 ## Split Speculator Dilemma 
-# ECONOMICS (6/12)
+# ECONOMICS (1/(6+2)/12)
 ## Credit Expansion Fallacy 
 ## Depreciation Principle 
 ## Expression Principle 
@@ -207,7 +207,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 ## Speculative Consumption 
 ## Subjective Inflation Principle 
 ## Time Preference Fallacy 
-# MONEY (5/10)
+# MONEY (3/6/10)
 ## Collectible Tautology 
 ## Debt Loop Fallacy 
 ## Ideal Money Fallacy 
@@ -225,7 +225,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 ## Risk Free Return Fallacy 
 ## Thin Air Fallacy 
 ## Unlendable Money Fallacy 
-# PRICE (4/5)
+# PRICE (3/5/5)
 ## Lunar Fallacy 
 - **Production is the source of trade and therefore all economic activity results from investment.** (p. 273)
 - A hoard is defined by its lack of consumption in production. If all people hoarded their capital, there would be nothing to trade and therefore no demand for the money. (pp. 273-274)
@@ -258,7 +258,7 @@ Read 43 sub-categories (out of 98—from eight parts)
 - In other words, flow is a function of demand. An anticipated loss results in no production whatsoever. This lack of any flow is *not inherent in the substance* but a consequence of *lack of demand*. Given that both supply and demand determine flow, the theory is invalid. (p. 285)
 	- E.g., the demonetization of gold.  
 - It does not imply anything about future monetary inflation. It can be used to analyze historical relations, and to calculate future stock based on assumed future flow, but it cannot be used to predict future monetary inflation. (p. 288)
-# SCALABILITY (3/4)
+# SCALABILITY (2/3/4)
 ## Auditability Fallacy 
 - Solvency of a Bitcoin custodian cannot be audited. (p. 292)
 - A custodian is a person with discretion both in the release of an asset and issuance of securities against it. If both release of the asset and the issuance of securities against it are controlled by consensus rules, then the relationship is not actually custodial. (p. 292)
