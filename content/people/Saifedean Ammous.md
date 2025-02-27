@@ -50,6 +50,8 @@ date: 2025-01-13
 - Since drinking water is usually available in large quantities wherever humans are settled, it, therefore, follows that the most pressing needs of water are already met, and that market choices are being made over units meeting far less pressing needs. (p. 55)
 - The water-diamond paradox illustrates the importance of individual circumstances to the assessment of subjective value. (p. 56)
 ### Chapter 3: Time
+- I personally think that Ammous here falls to the same trap as Marx and his labor theory of value. #elaborate #TODO 
+- [[David Deutsch |Deutsch]] *explains* what time (hence causality) is within his theory. #develop 
 - Would there be economics for God? #develop 
 - Related: [[4-1a4b6a0.3 Time is money means money is time]]. #develop 
 - Related: [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]. #develop 
@@ -61,14 +63,20 @@ date: 2025-01-13
 	- The individual may have low time preference such that he provisions for his future generations. #develop 
 		- See *The Fiat Standard* Ch. 7, primarily *Fiat Family* section. #revisit 
 	- But, as Mises and Menger would argue, the valuation is subjective—meaning whether he cares for his future generations or not, it is always the individual whose time on the Earth is finite (unless he is God) that does the valuation. #develop 
+		- Upon further reflection, I argue that the finiteness of his time doesn’t matter—he would manifest his preferences based on his knowledge unless he is all-knowing being. #develop 
 - In reality, resources need to be produced before they are consumed, and their production is limited not by their physical abundance on our enormous planet, but by the amount of time humans dedicate to producing them, and their opportunity costs in terms of other goods. (pp. 58-59)
-	- Viz., it depends on the state of knowledge. #develop 
+	- Again, the amount of time per se doesn’t really matter if it doesn’t result in knowledge-creation. 
+		- Viz., it depends on the state of knowledge. #develop 
+			- Related: [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
 - Whereas economists had generally posited the scarcity of material goods as the starting point of economic analysis, it would be more accurate to understand scarcity as a function of the finite nature of human time. (p. 59)
-	- What makes them scarce for us is the time that is required to produce them, since that is limited and constrained in a very vivid sense to us.
+	- What makes them scarce for us is the time that is required to produce them, since that is limited and constrained in a very vivid sense to us. (p. 59)
+		- This again is not precise—what makes material goods scarce is not time per se, but our state of knowledge.
+			- Related: [[5-1b1a2c0 No theory can exhaust reality |Human knowledge is imperfect]]. #develop 
 #### Opportunity Cost
 - The fact that our time is scarce means we cannot engage in all activities at all times. (p. 59)
 - Since human time is scarce, it is valuable to humans. (p. 60)
-#### Material Abundance
+	- Ammous is here falling to [Scarcity Fallacy] (e.g., see [[Eric Voskuil]]’s [Scarcity Fallacy]). #develop 
+#### Material Abundance #TODO 
 #### Simon’s Bet
 - Simon understood that as the human population increased and demand for these metals increased, these metals would have more resources directed toward their production, their quantities would increase, and their prices would decrease. (p. 72)
 - Simon, as an economist, understood the dynamics driving the production of these metals, even though he had little familiarity with the geological realities. (p. 72)
@@ -76,10 +84,12 @@ date: 2025-01-13
 - Simon knew that the scarcity of these metals depended ultimately on the amount of time humans dedicated to them, and that was, in turn, dependent on the incentive humans had to produce these resources, not on geological limitations. (p. 72)
 	- More specifically, human ability to create knowledge has to be taken into consideration (as well as how to encourage them). #develop
 #### Time Preference
+- Human time being finite and uncertain means that no person knows with certainty how long they will live, or when they might die. This creates in man a time preference, a universal preference for earlier over later satisfaction. (p. 73)
+	- I think time preference exists and is positive because nothing is certain—because we create knowledge, and because [[5-1b1a2d Knowledge is by definition unpredictable |knowledge is by definition unpredictable]]. #develop 
 #### Economizing Time
 - As discussed above, economic scarcity is ultimately the scarcity of human time. (p. 73)
-	- We can then also understand the entirety of human economizing as centering around economizing time. 
-		- That is, **we seek to increase the amount and subjective value of our time on Earth**.
+	- We can then also understand the entirety of human economizing as centering around economizing time. (p. 73)
+		- That is, **we seek to increase the amount and subjective value of our time on Earth**. (p. 73)
 - Ultimately, the economic question is how we trade off present utility against longer survival and future utility. The most important trade an individual conducts is their trade with their future self. (pp. 74-75)
 	- Related: [[4-1a4b6a1 Future self is enough of an audience]]. #develop 
 	- Related: [[2-1b2 Play in different time horizon. That is, in the long-run.]] #develop  
