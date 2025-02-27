@@ -60,7 +60,7 @@ date: 2025-01-13
 - In contrast to the relative and constantly decreasing scarcity of material objects, human time’s absolute scarcity increases with time. This is intuitively true individually, as growing and aging make man realize that his time on Earth only gets scarcer, giving it more value. (p. 58)
 	- The individual may have low time preference such that he provisions for his future generations. #develop 
 		- See *The Fiat Standard* Ch. 7, primarily *Fiat Family* section. #revisit 
-	- But, as Mises and Menger would argue, the valuation is subjective—meaning whether he cares for his future generations or not, it is always the individuals whose time on the Earth is finite (unless he is God) that does the valuation. #develop 
+	- But, as Mises and Menger would argue, the valuation is subjective—meaning whether he cares for his future generations or not, it is always the individual whose time on the Earth is finite (unless he is God) that does the valuation. #develop 
 - In reality, resources need to be produced before they are consumed, and their production is limited not by their physical abundance on our enormous planet, but by the amount of time humans dedicate to producing them, and their opportunity costs in terms of other goods. (pp. 58-59)
 	- Viz., it depends on the state of knowledge. #develop 
 - Whereas economists had generally posited the scarcity of material goods as the starting point of economic analysis, it would be more accurate to understand scarcity as a function of the finite nature of human time. (p. 59)

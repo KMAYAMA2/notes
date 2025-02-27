@@ -1,8 +1,8 @@
 ---
 date: 2025-02-15
 ---
-Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
-# SECURITY MODEL (5/19/22)
+Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
+# SECURITY MODEL (5/22/22)
 
 ## Axiom of Resistance 
 - In modern logic an axiom is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. (p. 19)
@@ -90,7 +90,7 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 	- It will only benefit the state—states will end up with bitcoin and people with paper.
 ## State Banking Principle 
 
-# MINING (2/16/23)
+# MINING (2/17/23)
 ## ASIC Monopoly Fallacy 
 ## Balance of Power Fallacy 
 ## Byproduct Mining Fallacy 
@@ -119,7 +119,7 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 ## Spam Misnomer 
 ## Variance Discount Flaw 
 ## Zero Sum Property 
-# ALTERNATIVES (5/7/17)
+# ALTERNATIVES (5/10/17)
 ## Bitcoin Labels 
 ## Blockchain Fallacy 
 ## Brand Arrogation 
@@ -162,12 +162,22 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 			- Time preference is *preference*—i.e., it’s subjectivity means nothing necessitates it to move one way or other (i.e., higher or lower time preference).
 				- Related: [[12-1e Nothing is necessary = Everything is contingent]]. #develop 
 ## Split Speculator Dilemma 
-# ECONOMICS (1/(6+2)/12)
+# ECONOMICS (3/(7+2)/12)
 ## Credit Expansion Fallacy 
 ## Depreciation Principle 
 ## Expression Principle 
+- [Catallactics](https://en.m.wikipedia.org/wiki/Catallactics) concerns itself with expressed preferences, specifically [production](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption), [trade](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#trade), and [consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle).
+- It is not necessary to contemplate disembodied spirits, as no action is implied.
+- Catallactics is not concerned with legal, theological, or ethical concepts of humanity. The [Turing Test](https://en.m.wikipedia.org/wiki/Turing_test) is sufficient criteria for the definition of humanity. The catallactic distinction is in the formation of preferences, independent of any other actor. A person in this sense is a decision-maker, as distinct from a rule-follower.
+	- Viz., knowledge-creator (because [[5-2b4 Explanation (explicit or inexplicit) precedes both your options and choices |explanation precedes]] decisions as well as rule-creation). #develop
+- It is sometimes argued that time is valuable because life is temporary. This is not the basis of time preference ([Time Preference Fallacy]). 
+	- Because time preference is *preference* (e.g., see [Split Credit Expansion Fallacy])—only more money can imply lower time preference (see [Time Preference Fallacy]).
+	- Because scarcity per se doesn’t imply value (e.g., see [Scarcity Fallacy]). #develop 
+- The impermanence of a person is of no consequence to catallactics. A person may live forever yet is still presumed to exhibit a preference for goods sooner than later. Infinite life does not imply no desire to consume.
+	- Economics of Gods. #revisit 
+- **Action is the expression of human preference through goods.** Processes directed by humans are action, processes directed by machines are goods. In other words, production/[labor](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure), trade/theft, and leisure/waste are actions, while websites, assembly lines, and cars are goods.
 ## Full Reserve Fallacy 
-## Inflation Principle 
+## Inflation Principle
 - A money is presumed to change in purchasing power in proportion to the demand for goods that it represents. In other words, with twice the amount of money each unit of the money will trade for half its previous amount of goods, as the increase in goods implies lower demand for them. (p. 191)
 - **Economic growth is not price-inflationary in a free market.** (p. 192)
 	- Because the miner (e.g., of gold or bitcoin) must use money to purchase the hardware—which will be depreciated in the process of mining. #develop 
@@ -207,7 +217,37 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 ## Speculative Consumption 
 ## Subjective Inflation Principle 
 ## Time Preference Fallacy 
-# MONEY (3/6/10)
+- There is a theory that lower [time preference](https://en.m.wikipedia.org/wiki/Time_preference) is better than higher, as it results in greater production and therefore greater wealth. This is a reversal of cause and effect.
+- The [value](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#value) placed on one good over another is a [preference](https://en.wikipedia.org/wiki/Preference#Economics), even his own life.
+	- Viz., economic theory cannot prove why someone prefers one good over another, because preferences are based on subjective valuations. #develop 
+	- I.e., a person might choose to sacrifice his own life for a cause—economic theory cannot assume self-preservation is always the highest preference (relate to [[Ludwig von Mises |Mises]]). #revisit
+- The reason for a preference is not provable in [rational economic theory](https://en.wikipedia.org/wiki/Catallactics), with one exception—the effect of wealth on time preference.
+	- I.e., you can't prove why A likes X. #develop 
+		- Rational economic theory (e.g., catallactics) is agnostic with ends. #develop 
+	- [[Ludwig von Mises |Mises]] argued how some people spend more as they accumulate more wealth—does this contradict the argument? #revisit 
+		- It doesn’t contradict the argument as long as that person’s savings rate doesn’t drop. #develop
+- Diminishing [marginal utility](https://en.m.wikipedia.org/wiki/Marginal_utility) implies that each additional [unit](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#unit) of a good accumulated by a person has a lower utility to the person than the previous. This implies that, for a given [interest](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#interest) rate, increasing wealth implies an increasing willingness to [lend](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#lend).
+	- Diminishing marginal utility applies to individual consumptions, whereas network effects describe system-wide value accumulation. #develop
+		- But aren’t economies of scale challenge the universality of DMU? #develop 
+			- E.g., more knowledge doesn’t hurt. #develop 
+			- E.g., when ownership is crucial—such as monopolistic control and strategic accumulation—DMU doesn’t apply. #develop 
+		- However, to the extent that money is held against future uncertainties (e.g., see [[Hans-Hermann Hoppe |Hoppe]]), and because the more money can only mean reduced uncertainty, Voskuil’s argument holds—if by wealth he means money. #develop 
+- The economic rate of interest is merely a reflection of time preference. While anything can affect a person's time preference, only a change to wealth implies a necessary change.
+- It would be an error however to assume that higher interest rates increase time preference. It is a similar error to assume that a person will be wealthier if he lowers his time preference. These are both reversals of cause and effect.
+	- Viz., time preference is only implied in how the wealth is allocated (i.e., invested vs consumed)—it doesn’t cause wealth (viz., to riches).
+- Time preference is a balance between consumption and production.
+	- Because both infinite time preference and zero time preference imply no production.
+- No moral distinction between higher and lower time preference exists.
+- People doing what they prefer is the moral good, again assuming the moral principle of nonaggression.
+- A related theory states that people can demonstrate lower time preference by [hoarding](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#hoard) more bitcoin. An increased level of hoarding at the expense of lending implies _higher_ time preference.
+- A hoard represents only the liquidity required for consumption.
+- Any [speculation](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#speculation) is consumption of the cost of "playing", supported by its required liquidity.
+	- Because you forego the interest.
+- There is a related theory that time preference is expressed by deferred consumption.
+- Savings is a general term encompassing both a person's hoard and investment.
+- Savings is the _source_ of all investment, but only actual investment expresses time preference. A hoard can certainly change in marketable value. **But considering a greater hoard an expression of lower time preference is a common colloquial misinterpretation of the economic meaning of the term.**
+- With full hoarding interest rates are infinite, and infinite interest reflects infinite time preference
+# MONEY (3/8/10)
 ## Collectible Tautology 
 ## Debt Loop Fallacy 
 ## Ideal Money Fallacy 
@@ -225,7 +265,7 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 ## Risk Free Return Fallacy 
 ## Thin Air Fallacy 
 ## Unlendable Money Fallacy 
-# PRICE (3/5/5)
+# PRICE (4/5/5)
 ## Lunar Fallacy 
 - **Production is the source of trade and therefore all economic activity results from investment.** (p. 273)
 - A hoard is defined by its lack of consumption in production. If all people hoarded their capital, there would be nothing to trade and therefore no demand for the money. (pp. 273-274)
@@ -239,6 +279,24 @@ Read 66+3 (and took notes on 24) sub-categories (out of 98—from eight parts)
 - For these reasons the theory is invalid. (p. 274)
 ## Price Estimation 
 ## Scarcity Fallacy 
+Relate this to [[Saifedean Ammous |Ammous]]’ contention that value comes from time. #TODO 
+- If no [person](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#person) demands even a scarce resource, it has no [value](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#value).
+- Increasing demand tends to increase production.
+- Increasing supply tends to decrease production.
+- These negative feedbacks [stabalize](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property) availability and correspondingly [price](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#price).
+- **Bitcoin cannot increase in value only because of absolute scarcity.** To the contrary, it necessarily becomes more scarce as it becomes more highly valued.
+	- It comes down to people's demand (i.e., value). #develop
+- Bitcoin is unique in the realm of property in that the cost of [transferring](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#transfer) it inherently increases with demand to do so.
+	- Viz., bitcoin creates a market of its own transactions—bitcoin transaction cost is more precisely bitcoin transaction demand. #develop
+- Bitcoin is also subject to effective substitution ([Substitution Principle])—unlike the Mona Lisa.
+	- I think the Mona Lisa is also subject to substitution principle. #develop
+		- [[Ludwig von Mises |Mises]]: “*However dissimilar they may be*”
+- Non-decreasing demand is not assured.
+	- As is common with economic fallacies, the error stems in part from considering just one side of the supply-demand relation.
+- Another cause of the error is a misinterpretation of the behavior of commodity monies.
+	- Apart from sufficient divisibility, the total number of Bitcoin units is entirely arbitrary and therefore unrelated to its utility.
+		- Viz., gold’s portability (i.e., greater value carried per weight) was an accidental result of its rarity, and bitcoin’s portability is not tied to fixed supply due to its digital nature. #develop 
+- Scarcity is a function of both supply and demand and therefore cannot be inherent in a money, even with fixed supply.
 ## Stability Property 
 - As shown in [Inflation Principle] the relationship between supply and demand (price) is stable despite supply not being fixed. Competition ensures that market money production is controlled by demand. The feedback of demand decrease resulting from supply increase reduces the production incentive, ensuring stability. (pp. 282-283)
 - As a market money, Bitcoin supply increase has no effect on price. Yet because its supply rate is fixed its stability is instead based on changes to demand. Unlike commodity money, the cost of producing Bitcoin rises and falls based on demand for it. **Given that price is the relationship between supply and demand, this has the same effect.** (p. 283)
