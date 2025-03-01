@@ -330,3 +330,113 @@ Relate this to [[Saifedean Ammous |Ammous]]’ contention that value comes from 
 	- Substitution principle is already at play for bitcoin with the existence of dollar (and other coins). #develop 
 		- “However dissimilar they may be” – [[Ludwig von Mises]] #develop 
 ## Utility Threshold Property
+
+---
+Relate with [***A Cypherpunk’s Manifesto***](https://www.activism.net/cypherpunk/manifesto.html)—it is not technology, but people, that secure the privacy.
+
+---
+# Personal notes from various sources, primarily Podcast
+- Crypto per se doesn’t secure anything—to assume otherwise is to assume unused guns as good as wielded ones.
+- PayPal suck because of regulation. Bitcoin circumvents the issue totally.
+- Anybody can fork.
+- Decentralization is not sufficient for security. McDonald is decentralized but taxed.
+- Security is people hiding.
+- Attack means theft.
+- Censorship is not an attack. 
+- People not wanting to be censored will pay the fees (fee differentials).
+- Technology is not security. People defending the system is the security.
+- Mainstream narrative says technology secures bitcoin. 
+- Rothbard was hired to update Mises.
+- Munger came up with subjective value theory.
+- In trading, one is both supplier and demander. Supply is something you do. Supply is not a quantity of something. What’s sold is a product. 
+- Bitcoin “supply” is fixed but not bitcoin supply (people exchanging bitcoin for other goods).
+- Supply and demand are just two people’s desires meeting.
+- Positive time preference is assumed. It cannot be derived because otherwise it would contradict subjective value theory.
+- Interest cannot be explained without positive time preference.
+- Time preference is the driver of all production.
+- Hoarding doesn’t drive production. I think it does, although indirectly. #develop 
+	- It wouldn’t, if there is only one money.
+		- But it can, if the hoarded money is secondary medium of exchange—but the relation is not necessary.
+			- For the economy revolving around that second medium of exchange, the hoarding means less production in that economy.
+			- **It appears “productive” as long as there is monetization process going on from the primary economy to the secondary economy—but it contributes neither.**
+- Things get made that people want and that’s profit.
+- **“If it’s not yielding or producing, it’s not an investment. It’s speculation. It’s not driven by time preference.” Challenge this.** #develop 
+- When you lend your gold, with 10% ARR, in 7.5 year you will double your gold. While just hoarding it gets you nothing extra. #develop 
+- Time preference is what determines interest rate.
+- “Every one has different time preference and they all compete to get as much as they can for their time, so they can produce and just pay as little.”
+- It’s supply and demand, but it’s not based on the quantity of money (again, supply is not a quantity, but demand, and that demand is time preference). #develop 
+- Hoarding is not low time preference activity, but high time preference activity.
+- Zero time preference means you won’t get it back. Infinite time preference means you won’t lend.
+- **Hoarding doesn’t affect interest rate. If anything, it will raise interest rate. Hoarding is high time preference activity. It appears as if low time preference when the price of hoarded asset increases while hoarded.** #develop 
+- Lunar fallacy.
+- Bitcoin is not about number-go-up.
+- **The world is not going to pay you perpetually for not doing nothing. #develop** 
+- **Hoarding <> producing | trading.**
+- Pump and dump.
+- And money’s value is in the exchange with other goods. It doesn’t have use in and of itself. #develop 
+- **Monetization of new money cannot go on forever.**
+- Bitcoin has the unique property of costing more to use as more people use it (dynamic stability that doesn’t use supply increase).
+- Supply and demand are both demands.
+- **“Credit scales money to a limit - the limit established by time preference.”**
+- **Substitution principle is already at play for bitcoin with the existence of dollar (and other coins).**
+- **You cannot prove that something will store value - because value is subjective.**
+- **It’s not monetary inflation per se (increased quantity of money) but monetary inflation done at the cost lower than the market rate (monopoly protection) which is the culprit.**
+- Technology only provide opportunities to security.
+- White market doesn’t have security against tax (e.g., demurrage with KYC can tax bitcoin under the Bitcoin Standard). 
+- Labor theory of value (Marx) = energy theory of value (“Bitcoin Austrians”). Relate to [production multiple] as presented by Checkmate.
+- The diamond-water paradox. Relate to [be useful] note.
+	- Related: [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+- Supply is not fixed, and demand is not constant. 
+- Yogi Berra.
+- “There is only me. I have monopoly on my labor.” — Rothbard
+- **“Without credit there will be no production.” #develop** 
+- **We can’t prove time preference.**
+- **The value proposition of bitcoin is as money—as money that can avoid taxation.** 
+- **Value is subjective—you can’t store what’s in people’s minds. #develop** 
+- Transaction fees reveal the Lunar Fallacy. #develop 
+- More demands lead to more supply—except bitcoin (because transaction fees increase offset demand).
+- Rational economics applied to bitcoin = cryptoeconomics.
+- Making consensus changes because your implementation is limited is real issue.
+- **Rothbard equivocates free banking and state banking.**
+- **Anything done voluntarily is good, if you adhere to the non-aggression principle.**
+- Everything state does is a form of taxation.
+- **Credit expansion is a natural consequence of credit—if not there will no products.**
+- **Credit includes equity investment (not just loan).**
+- **Bank reserves should be called bank hoard. Their job is to estimate the future cash flows. When in trouble, they just borrow or go out of business just like other businesses.**
+- **It’s not that every company will assume the role of banks (full-reserve), but rather banks become a company whose commodity happens to be money and credit (fractional-reserve). #develop** 
+- Lending is necessary for money to flow.
+- **All capital is always hoarded (post credit iterations). But invested. This is credit expansion. The amount of expansion is a direct consequence of interest rate, which is determined by time preference.**
+- **Mutual fund (money market) is an investment and not risk-free.**
+- Ideas are free. Only limit is capital. Without capital there will be no product made.
+- **Credit expansion and interest are inherent. Tautological.**
+- **Credit expansion is a consequence of lending. Credit expansion is inherent in the production cycle.**
+- **Investing in banks (not equity but deposit) is not really like selling call option, but it’s similar in that you get limited upside.**
+- Reservation principle: central banks hoard reserve asset so that people will have less access to them.
+- Popularity doesn’t win (Hearn error).
+- Jurisdictional arbitrage won’t work (troops will be sent).
+- It will work until someone serious really starts to care.
+- Banks are not warehouses.
+- Every banks are monopolized now.
+- Crypto exchanges are crypto banks. 
+- Tether is white market money.
+- Bitcoin and using bitcoin is not the same. Bitcoin can survive without exchanges.
+- Most people are statist.
+- Promissory notes are different from the lent capital itself (e.g., gold and bitcoin) and inherent with risk (in a free market).
+- **Saving in deposit account is investment and a form of saving.**
+- **If you eliminate fractional reserve you eliminate money market fund (MMF) and that eliminates investing.**
+- **Reserve ratio should be freely dictated by the market. But if so we won’t need bitcoin. #develop** 
+- **Free banking will be equivalent to investment funds (reserve ratios would be simply the leverage ratio?).** #develop 
+- State banking doesn’t have maturity mismatch risk because they have the lender of last resort.
+- **Free banking just have to estimate its cash flows.**
+- Black market lending has all the associated black market characteristics—but bitcoin doesn’t care about that.
+- **Free banking won’t likely exist. If it does, we don’t need bitcoin.** 
+- “Only in the rejection of a trade you can enforce your rules.”
+- **Being distributed is the security.**
+- Miner is selling confirmation to merchants.
+- **Work is about off chain.**
+- Anonymity, externality, fees = security.
+- Money has to be used, and will find its way. Issuance is not that important.
+- Satoshi didn’t see the fee premiums as the source of censorship. It was charity by community instead.
+- **Fee premiums doesn’t guarantee successful censorship resistance.**
+- **Possibility <> guarantee (provability)**
+- Time preference is a “given” in economics, it’s neither derived nor judged. Lower *cannot* always be better. This should also be obvious from the use of the word “preference”. The ideal is what is preferred. [link](https://x.com/evoskuil/status/1122409261273772037)
