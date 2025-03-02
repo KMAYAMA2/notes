@@ -1,3 +1,6 @@
+
+Knowledge is the correspondence between the reality and one’s symbolic—and persistent—representation of that reality. There is always a room for improvement in that correspondence. The correspondence is formed via creative conjectures.
+
 [[9-4b2b1 We are free because we can create knowledge, and knowledge is unpredictable]]
 	[[2-1a4c We don't know how we create knowledge yet, but that doesn't mean we can't]]
 
