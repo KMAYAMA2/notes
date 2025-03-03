@@ -39,7 +39,27 @@ date: 2025-02-28
 	- [[Daniel Everett |Everett]] (or extension of his theory) would likely agree with Deutsch, if not fully—he would likely argue that although science deals with the objective reality, scientific theory is fallible and cannot comprehend all of human knowledge (i.e., *the dark matter* theory of mind). 
 	- The subjective value theory, another axiom of praxeology, is retained even with the existence of objective reality and associated scientific theories, precisely because [[1-2 We are fallible |we are fallible]]. #develop 
 ### Appendix A: Praxeology and Economics
-
+- Once it is demonstrated that human action is a necessary attribute of the existence of human beings, the rest of praxeology (and its subdivision, economic theory) consists of the elaboration of the logical implications of the concept of action. (p. 72)
+	- Constructor theory by Deutsch precedes praxeology and hence economics. #develop 
+		- Viz., his elaboration of epistemology, the Turing principle, the theory of evolution, and the multiverse cements the arguments of Mises and Rothbard.
+		- Related: [[1-2g2b1 Constructor Theory defines knowledge independent of people]].
+- Economics is not concerned with their content, and its laws apply regardless of the nature of these ends. Psychology and ethics deal with the content of human ends; they ask, *why* does the man choose such and such ends, or *what* ends *should* men value? (pp. 72-73)
+	- Viz., content-independence. #develop 
+		- Related: [[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle]].
+- **The law of marginal utility depends on no physiological or psychological assumptions but is based on the praxeological truth that the first unit of a good will be used to satisfy the most urgent want, the second unit the next most urgent want, etc.** (p. 73)
+	- Revisit [[Eric Voskuil |Voskuil]]’s *Time Preference Fallacy*. #TODO 
+- Praxeology includes economics, and the latter includes the analysis of the action of an isolated individual (Crusoe economics) and that of interpersonal exchange (catallactics). (p. 74)
+- It is the great quality of verbal propositions that *each one* is meaningful. Algebraic and logical symbols, as used in logistics, are not in themselves meaningful. (p. 75)
+	- As Deutsch would argue, it is [[1-2g3.1 It’s explanations all the way down |explanations all the way down]]. And explanations, as Everett would argue, is [[3-1c2e3.1 It’s symbols all the way down |symbols all the way down]]. #develop 
+- Logistics, therefore, is far more suited to the physical sciences, where, in contrast to the science of human action, the conclusions rather than the axioms are known. In the physical sciences, the premises are only hypothetical, and logical deductions are made from them. In these cases, there is no purpose in having meaningful propositions at each step of the way, and therefore symbolic and mathematical language is more useful. (p. 75)
+	- Physical sciences, as with most of human thinking, [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion |start in the middle]]—it consists both theorization and experimental refutation of such theories. The representation of the latter (i.e., experimental results) can be done with mathematical symbols. 
+		- But it can be also explained verbally. The specific symbolic forms do not matter. #develop 
+			- Related: [[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle |the interoperability laws]] of information. #develop 
+	- Praxeology consists of axioms and its implications—i.e., theorization.
+		- Viz., explanations.
+	- If the laws of physics imply the existence of the multiverse, and if [[2-1a6c4c We can explain things because we are multiversal objects. The multiverse implies explanatory knowledge. |the multiverse implies the existence of explanatory knowledge]] (i.e., humans), then praxeology per se does not necessarily have to be refutable. In other words, refuting the existence of the multiverse will refute praxeology. #develop 
+- Contrary to what might be believed, the use of verbal logic is not inferior to logistics. On the contrary, the latter is merely an auxiliary device based on the former. (p. 76)
+	- “If you can’t explain it simply, you don’t understand it well enough” – Einstein
 ## Chapter 2: Direct Exchange
 ## Chapter 3: The Pattern of Indirect Exchange
 ### 1. The Limitations of Direct Exchange
