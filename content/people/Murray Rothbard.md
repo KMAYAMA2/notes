@@ -63,6 +63,9 @@ date: 2025-02-28
 ## Chapter 2: Direct Exchange
 ## Chapter 3: The Pattern of Indirect Exchange
 ### 1. The Limitations of Direct Exchange
+## Chapter 8: Production: Entrepreneurship and Change
+### 1. Entrepreneurial Profit and Loss
+- Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
 
 ---
 # Power and Market
