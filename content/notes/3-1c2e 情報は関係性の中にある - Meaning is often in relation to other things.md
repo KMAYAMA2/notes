@@ -10,6 +10,8 @@ date: 2024-10-16
 
 [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 
+[[RUL3 - List ⇒ Rank ⇒ Iterate]]
+
 **Next:**
 [[3-1c2e0 There is no minimum idea]]
 [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]

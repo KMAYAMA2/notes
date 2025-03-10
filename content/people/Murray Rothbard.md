@@ -1,7 +1,6 @@
 ---
 date: 2025-02-28
 ---
-Test
 # Man, Economy, and State
 ## Chapter 1: Fundamentals of Human Action
 ### 1. The Concept of Action
@@ -32,6 +31,104 @@ Test
 	- The *uncertainty of the future* must be true because the contrary would completely negate the possibility of action. This uncertainty stems from two basic sources: the unpredictability of human acts of choice, and insufficient knowledge about natural phenomena. (p. 7)
 		- And I argue that both originate from the following general condition—[[1-2 We are fallible |humans are fallible]] because [[5-1b1a2d Knowledge is by definition unpredictable |knowledge is unpredictable]]. #develop 
 			- All his actions are of necessity *speculations* based on his judgment of the course of future events. The omnipresence of uncertainty introduces the ever-present possibility of *error* in human action. (p. 7)
+### 3. Further Implications: The Means
+Knowledge has to be instantiated physically in goods (labor included)—knowledge itself cannot be goods. #develop  
+- The *means* to satisfy man’s wants are called *goods*. (p. 8)
+	- *Consumption goods*—*directly serviceable*
+	- *Factors of production*—*indirectly serviceable*
+- *Production*:
+	- The use by man of available elements of his environment as indirect means—as co-operating factors—to arrive eventually at a consumer’s good that he can use directly to arrive at his end. (p. 9)
+		- Cooperating factors include land and time—both are *first-order producers’ goods*. (p. 9)
+			- Viz., the multiverse.
+	- Any process (or *structure*) of production may be analyzed as occurring in different *stages* (p. 9)
+- Important general conclusions applicable to all processes of production (p. 10):
+	- Each stage of production takes *time*
+	- The factors of production may all be divided into two classes:
+		- *Those that are themselves produced* (the *produced factors of production*)—***Capital Goods***
+		- *Those that are found already available in nature—in man’s environment* (the *original factors of production*), which may, in turn, be divided into two classes: 
+			- *The expenditure of human energy*—***Labor***
+			- *The use of nonhuman elements provided by nature*—***Land*** *or Nature*
+- Land must be available to provide room at every stage of the process, and time, as has been stated above, is required for each stage. (p. 10)
+- Action uses materials available in the present to arrive at desired goals in the *future*, and there is no need to be concerned with development in the *past*. (p. 11)
+	- Is this the same with problem-solving? #develop 
+- Another unique type of factor of production indispensable in every stage of every production process—”technological idea” (p. 11)
+	- Viz., knowledge.
+- Without such plans or ideas, there would be no action. These plans may be called *recipes*; they are ideas of recipes that the actor uses to arrive at his goal. (p. 11)
+- The distinguishing feature of a recipe is that, *once learned*, it generally does not have to be learned again. It can be noted and remembered. Remembered, it no longer has to be produced; it remains with the actor as an *unlimited* factor of production that never wears out or needs to be economized by human action. It becomes a general condition of human welfare in the same way as air. (p. 11)
+	- Viz., [[5-3c Knowledge is irreversible, and can only go from private to public |Knowledge is irreversible]]—i.e., in economic parlance, it doesn’t depreciate (due to its [[5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent) |substrate-independence]]), and thus it [[6-3b2a Interoperability implies compounding |compounds]]. #develop 
+- The material bread is valued not for itself, but for its service in satisfying wants. (p. 12)
+- The various higher-order producers’ goods—are valued solely because of their anticipated usefulness in helping to produce future consumers’ goods or to produce lower-order producers’ goods that will help to bring about consumers’ goods. (p. 12)
+- The scarcity of consumers’ goods must imply a scarcity of their factors. (p. 12)
+	- Because if its factors are abundant, then the good becomes abundant as well.
+- For each consumers’ good *there must be more than once scarce factors of production*. This is implied in the very existence of human action. (p. 13)
+	- Think of that magic sandwich which will appear in the coming analysis.
+	- The second sentence, when inverted, means: we wouldn’t act if everything was abundant and *accessible*—if one could access the whole of the multiverse, such an existence amounts to having been already performed every possible action, and as such wouldn’t act. #develop 
+		- Viz., the multiverse implies both [[2-1a6c4c We can explain things because we are multiversal objects. The multiverse implies explanatory knowledge. |explanation]] and action. #develop
+			- Action, if understood as problem-solving, is implied in the multiverse in another sense—that problem must’ve been already solved somewhere in the multiverse. #develop  
+		- Accessibility is constrained by both the laws of physics and the unpredictability of knowledge. #develop
+			- Or, put differently, the laws of physics dictate the unpredictability of knowledge. #develop
+- To simplify the example, let us suppose the sandwich already is prepared and in the kitchen. Then, to produce a consumers’ good from this stage forward requires the following factors: (1) the sandwich; (2) carrying it to the armchair; (3) time; (4) the land available. (p. 13)
+	- If we assume that it required only one factor—the sandwich—then we would have to assume that the sandwich was magically and instantaneously moved from kitchen to armchair without effort. But in this case, the consumers’ good would not have to be produced at all, and we would be in the impossible assumption of Paradise. (p. 13)
+### 4. Further Implications: Time
+- Acting man does *not* trace back past production processes to their original sources. (p. 14)
+	- E.g., the labor theory of value.
+- Acting man is not interested in past processes, but only in using *presently available means* to achieve anticipated future ends. (p. 14)
+- At any point in time, when he begins the action (say A), he has available to him: labor, nature-given elements, and *previously produced capital goods*. (p. 14)
+- He is concerned only with the capital (and other) goods in the present and the future. This is the necessary result of the fact that action occurs in the present and is aimed at the future. (p. 15)
+	- Viz., the laws of physics, and specifically the general condition of the multiverse, implies action. #develop 
+		- Knowledge-creation amounts to having more access in the multiverse (due to its irreversibility), and since [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |other times are just special cases of other universes]], in my opinion it seems somewhat analogous to time travel. #develop 
+- A fundamental and constant truth about human action is that *man prefers his end to be achieved in the shortest possible time*. The sooner any end is attained, the better. *This is the universal fact of time preference*. *The less waiting time*, the more preferable it is for him. (p. 15)
+	- I.e., the meaning of positive time-preference.
+- Some people live from day to day, taking no heed of later periods of time; others plan not only for the duration of their own lives, but for their children as well. (p. 17)
+### 5. Further Implications
+#### A. Ends and Values
+- A scale of values (or scale of preferences):
+	- These scales differ for each person, both in their content and in their orders of preference. Furthermore, they differ for the same individual at different times. (p. 17)
+		- Related: [[Daniel Everett]] on ranked values.
+		- Related: [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things |Information is often in relation]]. #develop 
+		- Given that [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |other times are just special cases of other universes]], there is no difference between the differences that exist among the same individuals across the multiverse and the differences within the same individual at different times. #develop
+			- Taking this further, that same individual is as different from any other instance of himself as with other individuals in his universe. #develop 
+				- Put differently: self-identity is no stronger than identity between any two people. #develop 
+					- The [[5-1b1a2c0.1 Perfect replication is impossible |non-copiability]] principle doesn’t necessarily hold across the multiverse, as universes can exist that are perfectly identical to each other. #develop 
+					- But to the extent that explanatory knowledge must evoke the multiverse (as the former is implied in the latter), other universes must be different for such evocation to be meaningful—as such, the same universes wouldn’t matter. #develop 
+- Values cannot be measured; values or utilities cannot be added, subtracted, or multiplied. They can only be ranked as better or worse. (p. 19)
+	- He can say, “I am better off” or “I am happier” but he cannot say, “I am two and a half times happier because of this choice”—two and a half times *what*? (p. 19)
+- *All action involves exchange*—an exchange of one state of affairs, X, for Y, which the actor anticipates will be a more satisfactory one (and therefore higher on his value scale). (p. 20)
+- Value proceeds from the ends to the consumers’ good to the various first-order producers’ goods, to the second-order producers’ goods, etc. The original source of value is the ranking of ends by human actors, who then impute value to consumers’ goods, and so on to the orders of producers’ goods, in accordance with their expected ability to contribute toward serving the various ends. (pp. 20-21)
+#### B. The Law of Marginal Utility
+- Acting man does not evaluate the goods open to him by abstract classes, but in terms of the specific units available. (p. 22)
+	- Related: [[11-3.5 There is no universal utility. Utility doesn't exist in the abstract, it must be rooted in the context and corresponding explanations.]]
+	- Related: [[There is no such thing as an individual in the abstract—because each individual has unique, specific problem-situations]]
+- Actors choose between, and evaluate, not “coal” or “butter” in general, but specific units of coal or butter. (p. 21)
+	- If butter is an object serving human ends, we know that two pounds of butter will be valued more highly than one pound. (p. 22)
+		- This will be true until a point is reached when the butter is available in unlimited quantities to satisfy human wants and will then be transferred from the status of a means to that of a general condition of human welfare. (pp. 22-23)
+- A *supply*—a commodity available in *specific homogeneous unites equally capable of rendering the same service to the actor*. (p. 23)
+	- Viz., fungible (e.g., money).
+- What is significant for human action is *not* the physical property of a good, but the evaluation of the good by the actor. (p. 24)
+	- If the actor, despite no physical discernible differences, chooses to evaluate differently one good from another (e.g., cow), they are no longer part of the supply of the same good. (p. 24)
+- *For all human actions, as the quantity of the supply (stock) of a good increases, the utility (value) of each additional unit decreases.* (p. 25)
+	- It is impossible to determine *by how much greater* one value is than the other. (p. 25)
+- The supply must be scarce in relation to the ends that it is capable of fulfilling; otherwise it would not be a good, but a condition of human welfare. (p. 25)
+- If the supply of the good is 6 units, then the first six ends, ranked in order of importance by the valuing individual, are the ones that are being satisfied. (p. 26)
+	- Ideas precede actions. Ideas are ascertainable only through actions. Ideas are created by human minds. Human minds include both explicit and implicit. As such, humans are often at loss with themselves as to why they act the way they act. #develop
+		- To assume that we will eventually do away with the inexplicit disrespects the substrate-independence of information. #develop   
+	- Because humans create knowledge, and because knowledge precedes actions, and because not all knowledge can be explicit at any point in time (this is why knowledge can be improved infinitely, and also why knowledge can be ascertained through actions), a scale of preference must be assumed no matter the content of actions—however silly they might appear to be. #develop
+- *The marginal unit*
+	- The least important end fulfilled by the stock is known as the *satisfaction provided by the marginal unit*, or the *utility of the marginal unit*—in short: the marginal satisfaction, or *marginal utility*. (p. 27)
+- *The greater the supply of a good, the lower the marginal utility; the smaller the supply, the higher the marginal utility*. This fundamental law of economics has been derived from the fundamental axiom o human action; it is the *law of marginal utility*, sometimes known as the *law of diminishing marginal utility*. (p. 27)
+	- Scarcity per se does not equal value, since anything can be substitute (e.g., see [[Eric Voskuil |Voskuil]]’s *Scarcity Fallacy* and *Substitution Principle*, respectively).
+- *Thus, presented with a choice of units of goods to give up, he will give up the good with units of lowest marginal utility on his value scale.* (p. 30)
+- It is evident that in the act of choosing between giving up or adding units of either X or Y, the actor must have, in effect, placed both goods on a *single, unitary value scale*. (p. 31)
+	- Or more precisely, action evokes the value scale—and it is the multiverse that dictates that we act. #develop 
+		- This is somewhat analogous to [[Elie Ayache |Ayache]]’s emphasis on the precedence of price over models (e.g., BSM formula). #revisit 
+			- Interestingly, Ayache also discusses how making something redundant can create something new, by elaborating the genealogy of options market. #revisit 
+- The actor may not and cannot measure *differences* in utility, but he must be engaged in ranking all the goods considered on one value scale. (p. 31)
+	- Viz., to assume otherwise implies that the actor isn’t acting based on his knowledge (both explicit and implicit), and because that cannot be the case (if so, he is an automaton controlled by its genes, and is not human), the action axiom implies a scale of preferences. #develop
+	- Better way to put it: if you assume otherwise (i.e., more than one value scales), you are extending across the multiverse, and that is forbidden by the laws of physics. #develop
+### 6. Factors of Production: The Law of Returns
+### 7. Factors of Production: Convertibility and Valuation
+### 8. Factors of Production: Labor versus Leisure
+### 9. The Formation of Capital
 ### 10. Action as an Exchange
 - All action involves an exchange—a giving up of a state of affairs for what the actor expects will be a more satisfactory state. Every aspect of action has involved a *choice* among alternatives. In each case, the actor adopted the course that he believed would afford him the highest utility on his value scale; and in each case, the actor gave up what he believed would turn out to be a lesser utility. (pp. 70-71)
 - Since man is always acting, he must always be engaged in trying to attain the *greatest height on his value scale*. There must *always* be room for improvement in his value scale; otherwise action would disappear. This means that there is always open to each actor the prospect of improving his lot, of attaining a value higher than he is giving up, i.e., of *making a psychic profit*. (p. 71)
@@ -61,6 +158,7 @@ Test
 	- If the laws of physics imply the existence of the multiverse, and if [[2-1a6c4c We can explain things because we are multiversal objects. The multiverse implies explanatory knowledge. |the multiverse implies the existence of explanatory knowledge]] (i.e., humans), then praxeology per se does not necessarily have to be refutable. In other words, refuting the existence of the multiverse will refute praxeology. #develop 
 - Contrary to what might be believed, the use of verbal logic is not inferior to logistics. On the contrary, the latter is merely an auxiliary device based on the former. (p. 76)
 	- “If you can’t explain it simply, you don’t understand it well enough” – Einstein
+### Appendix B: On Means and Ends
 ## Chapter 2: Direct Exchange
 ## Chapter 3: The Pattern of Indirect Exchange
 ### 1. The Limitations of Direct Exchange
