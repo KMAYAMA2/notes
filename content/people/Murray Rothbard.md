@@ -126,9 +126,41 @@ Knowledge has to be instantiated physically in goods (labor included)—knowledg
 	- Viz., to assume otherwise implies that the actor isn’t acting based on his knowledge (both explicit and implicit), and because that cannot be the case (if so, he is an automaton controlled by its genes, and is not human), the action axiom implies a scale of preferences. #develop
 	- Better way to put it: if you assume otherwise (i.e., more than one value scales), you are extending across the multiverse, and that is forbidden by the laws of physics. #develop
 ### 6. Factors of Production: The Law of Returns
+- *The law of returns states that with the quantity of complementary factors held constant, there always exists some optimum amount of the varying factor.* (p. 35)
+- The law that such an optimum must exist can be proved by contemplating the implications of the contrary. (p. 35)
 ### 7. Factors of Production: Convertibility and Valuation
+- *A change in the value of the product causes a greater change in the value of the specific factors than in that of the relatively nonspecific factors.* (p. 40)
+- The value of a unit of a convertible factor is set, not by the conditions of its employment in one type of product, but by the value of its marginal product when all its uses are taken into consideration. (pp. 41-42)
 ### 8. Factors of Production: Labor versus Leisure
+- The nature-given factors are limited by his environment and therefore cannot be increased. This leaves him with the choice of increasing his supply of *capital goods* or of increasing his *expenditure of labor*. (p. 43)
+- A recipe, however, can only set *outer limits* on his increases in production; the actual increases can be accomplished solely by an increase in the supply of productive factors. (p. 43)
+- But without the necessary supply of factors available, this knowledge could not suffice to construct the mansion. (p. 43)
+- “Whether or not the work is directly satisfying in itself, labor always involves the foregoing of *leisure*, a desirable good.” (p. 43)
+	- See [[Eric Voskuil]]’s critique (e.g., [Labor and Leisure]). #revisit  
 ### 9. The Formation of Capital
+> “[[9-1b0b 'If I have seen further, it is by standing on the shoulders of giants.' |If I have seen further, it is by standing on the shoulders of giants]]” – Isaac Newton
+- Without the aid of capital, the only goods open to him for consumption are goods with the *shortest period of production*. (p. 47)
+- The restriction of consumption is called *saving*, and the transfer of labor and land to the formation of capital goods is called *investment*. (p. 48)
+	- Saving doesn’t necessarily have to be in the form of money (e.g., restricting consumption and then transferring labor for that period constitutes saving).
+- At any given point in time, all men will have invested in all the *shorter* periods of production to satisfy the most urgently felt wants that their knowledge of recipes allows; *any further formation of capital will go into longer processes of production*. (p. 51)
+- If Crusoe were lucky enough to find an axe in good condition left by some previous inhabitant, he would reckon his period of production at 200 hours instead of 250. (p. 52)
+	- He who possesses capital is that much *further advanced in time* on the road to the desired consumers’ good. (p. 52)
+	- The role of capital is to advance men in time toward their objective in producing consumers’ goods. (p. 52)
+- *All capital goods are perishable.* 
+	- Those few products that are not perishable but permanent become, to all intents and purposes, part of the *land*. (p. 53)
+- Any actor, at any point in time, has the choice of: (a) adding to his capital structure, (b) maintaining his capital intact, or (c) consuming his capital. (p. 55)
+- Any given saving will be invested either in maintaining the present capital structure or in adding to it capital in more and more remote stages of production, i.e., in longer processes of production. (p. 57)
+- Capital goods have no independent productive power of their own; they are completely reducible to labor and land, which produced them, and time. (p. 58)
+- Capital goods are purely way stations in the process of production, worked on at every possible stage by the forces of labor and land. (p. 59)
+	- Maintenance included.
+- He will cease saving and investing at the point at which the value of goods forgone exceeds the present value of the future utilities to be derived. This will determine an actor’s *rate* of saving and investing at any time. (pp. 63-64)
+	- Viz., his time preference—the discount rate—determines his rate of saving and investment.
+- The concepts of *success* or *failure* in entrepreneurship are thus deducible from the existence of action. (p. 64)
+	- Viz., the action axiom—the uncertainty of future—implies success and failure.
+- The accumulated stock of capital goods (or, for that matter, durable consumers’ goods) imposes a conservative force on present-day action. (p. 65)
+	- Viz., the past, to some extent, influences the present.
+- Capital formation and the concomitant lengthening of the period of production prolong the *period of provision* of the actor. (p. 68)
+	- Viz., the more saving one has, the longer his period of provision becomes, as dictated by the laws of diminishing marginal utility and positive time-preference.
 ### 10. Action as an Exchange
 - All action involves an exchange—a giving up of a state of affairs for what the actor expects will be a more satisfactory state. Every aspect of action has involved a *choice* among alternatives. In each case, the actor adopted the course that he believed would afford him the highest utility on his value scale; and in each case, the actor gave up what he believed would turn out to be a lesser utility. (pp. 70-71)
 - Since man is always acting, he must always be engaged in trying to attain the *greatest height on his value scale*. There must *always* be room for improvement in his value scale; otherwise action would disappear. This means that there is always open to each actor the prospect of improving his lot, of attaining a value higher than he is giving up, i.e., of *making a psychic profit*. (p. 71)
@@ -160,8 +192,126 @@ Knowledge has to be instantiated physically in goods (labor included)—knowledg
 	- “If you can’t explain it simply, you don’t understand it well enough” – Einstein
 ### Appendix B: On Means and Ends
 ## Chapter 2: Direct Exchange
+### 1. Types of Interpersonal Action: Violence
+- The interpersonal relation under slavery is known as *hegemonic*. The relationship is one of command and obedience, the commands being enforced by threats of violence. (p. 82)
+- The subject chooses *s* in choosing to obey the ruler; the other choices are made by the ruler. (p. 83)
+### 2. Types of Interpersonal Action: Voluntary Exchange and the Contractual Society
+- The essence of the exchange is that *both people make it because they expect that it will benefit them; otherwise they would not have agreed to the exchange*. (p. 85)
+- A necessary condition for an exchange to take place is that the *two goods have reverse valuations on the respective value scales of the two parties to the exchange*. (p. 85)
+- Since it takes two to make a bargain, Jones and Smith will exchange units of X for units of Y *until one of them* reaches a point beyond which further exchange will lead to loss rather than profit. (p. 87)
+- In order for a person to exchange anything, he must first possess it, or *own* it. (p. 91)
+	- Although the statement here is logical, the same argument can be made in functional terms—that is, given how exchanges are beneficial to all parties involved, a contractual society must presuppose property. #revisit 
+- The goods owned are known as *property*. (p. 92)
+- Only *scarce means* are property. (p. 92)
+	- Knowledge can have value to the extent that it influences goods which are scarce. 
+		- Related: [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]].
+- A man owns himself; he appropriates unused nature-given factors for his ownership; he uses these factors to produce capital goods and consumers’ goods which become his own; he uses up the consumers’ goods and/or gives them and the capital goods away to others; he exchanges some of these goods for other goods that had come to be owned in the same way by others. (p. 93)
+### 3. Exchange and the Division of Labor
+- The extent to which division of labor is carried on in a society depends on the *extent of the market for the products*. The latter determines the exchange-value that the producer will be able to obtain for his goods. (p. 96)
+	- Products need market (i.e., economy).
+- Praxeologically, the very fact of exchange and the division of labor implies that it must be more productive for all concerned than isolated, autistic labor. (p. 96)
+	- You access the other instances of knowledge-creation being through exchanges, as it were. #develop 
+- Mises: “One may as well consider these two facts as one and the same fact, namely, the manifoldness of nature which makes the universe a complex of infinite varieties. If the earth’s surface were such that the physical conditions of production were the same at every point and if one man were . . . equal to all other men . . . division of labor would not offer any advantages for acting man.” (pp. 96-97)
+	- The interoperability law implies differences. #develop 
+- As more and more people are linked together in the exchange network, the more “extended” is the market for each of the products, and the more will exchange-value predominate, as compared to direct use-value, in the decisions of the producer. (p. 98)
+	- The combined value scale is necessarily more exhaustive than any of the component value scale.
+- It is far more likely that feelings of friendship and communion are the *effects* of a regime of (contractual) social co-operation rather than the cause. (p. 100)
+### 4. Terms of Exchange
+- If we express one commodity in terms of the other, we obtain the price of the commodity. (p. 103)
+- *Psychic costs* include all that the actor gives up by making the exchange. This is equal to the *next best use* that he could have made of the resources that he has used. (p. 104)
+	- I.e., *could’ve been*—a conception that makes sense because of the multiverse. #develop 
+- The seller will always prefer *the highest possible selling price for his good*. (p. 105)
+- *The buyer will always purchase his good at the lowest possible price*. (p. 106)
+	- In cases where Jackson chooses the latter price, the two berries are no longer the same, but different, goods. (p. 106)
+		- Inverted, this means that prices can imply a difference in the seemingly same goods. It’s like some type of information is *entangled* and becomes ascertainable through prices. #develop
+### 5. Determination of Price: Equilibrium Price
+- We do not know exactly what the price will be, but we do know that it will be set by bargaining *somewhere at or below the maximum buying price of the most capable buyer and above the maximum buying price of the next most capable buyer*. (p. 110)
+	- Price implies value scales—the latter (ideas) can be ascertained only through the former (actions). #develop
+- Clearly, this preliminary “testing of the market” will tend to be more prolonged in a “new” market, where conditions are unfamiliar, while it will tend to be less prolonged in an “old” market, where the participants are relatively familiar with the results of the price-formation process in the past and can estimate more closely what the results will be. (pp. 113-114)
+- The amount offered for sale at each price is called the *supply*; the amount demanded for purchase at each price is called the *demand*. (pp. 114-115)
+- The price of the good will find a resting point where the quantity demanded is equal to the quantity supplied, i.e., where supply equals demand. (p. 116)
+- The more capable or “more urgent,” buyers (and sellers)—the *supramarginal* (which includes the marginal)—obtain a psychic surplus in this exchange. (p. 117)
+- The fact that it is one man that is supplying the new units rather than different men does not change the results of the analysis. (p. 124)
+	- This specific supply (or demand) curve within his value scale is information (i.e., knowledge)—whether it is instantiated within the same individual, or across different individuals, does not matter (at least as it concerns the curve). #develop
+### 6. Elasticity of Demand
+- Contrary to what might be thought at first, the concept of “elasticity of supply” is not a meaningful one, as is “elasticity of demand.” (p. 130)
+	- If we compare any two rather widely spaced prices, it is evident that the outlay is less at the higher price. If the price is high enough, the demand for any good will dwindle to zero, and therefore the outlay will dwindle to zero. (p. 129)
+		- I.e., the equilibrium price is achieved because the demand will dwindle to zero when the price is high enough. #revisit 
+### 7. Speculation and Supply and Demand Schedules
+- Speculative anticipations render the demand curve far more *elastic*, since more will be bought at the lower price and less at the higher. (pp. 132-133)
+	- I.e., speculation intensifies the force of market feedback.
+- The more this anticipatory, or *speculative*, element enters into supply and demand, the more quickly will the market price tend toward equilibrium. (p. 133)
+- It is, for every good, *utility* and utility alone that determines the price and the quantity exchanged. (p. 136)
+- “Cost” is simply the utility of the next best alternative that must be forgone in any action, and it is therefore part and parcel of utility on the individual’s value scale. (p. 136)
+### 8. Stock and the Total Demand to Hold
+- The equilibrium price not only equates the supply and demand on the market; *it also equates the stock of a good to be held with the desire of people to hold it, buyers and sellers included*. (p. 139)
+- The result of the exchange process is that the stock finally goes into the hands of the *most capable possessors*. (p. 140)
+- It focuses more sharply on the fundamental truth that price is determined solely by *utility*. (p. 141)
+	- Viz., supply is just another form of demand. #develop
+- The supply curve is reducible to a *reservation demand curve* and to a *quantity of physical stock*. (p. 141)
+	- Because Stock - Supply = Reservation Demand means Supply = Stock - Reservation Demand
+- The supply curve is not based on some sort of “cost” that is independent of utility on individual value scales. (p. 141)
+- The fundamental determinants of price are the value scales of all individuals (buyers and sellers) in the market and that the physical stock simply assumes its place on these scales. (p. 141)
+### 9. Continuing Markets and Changes in Price
+- An increase in stock, with demand and reservation-demand schedules remaining the same, is equivalent to a *uniform increase in the supply schedule* by the amount of the increased stock. (p. 150)
+### 10. Specialization and Production of Stock
+- The distinguishing feature of the original producers is that, as a result of specialization, the direct use-value of their product to them is likely to be almost nonexistent. (p. 155)
+- The only reason for a producer to reserve, to hold on to, any of his stock is speculative—in anticipation of a higher price for the good in the future. (p. 155)
+	- Specialization implies speculation. #develop
+- If we eliminate the temporary speculative element, and if we consider the sellers as the specialized original producers, only the following factors ultimately remain: the revenue for both the buyers and the sellers is the expected direct use of the goods acquired; the costs are the exchange for a third good that is forgone because of this exchange. (p. 161)
+### 11. Types of Exchangeable Goods
+- A man’s self-ownership over his will is inalienable. (p. 164)
+	- Viz., since his will cannot be exchanged, and since it’s subject to change, he can opt out whenever he changes his mind—whenever he wants to.
+- The *share* is evidence of part-ownership, or a claim to part-ownership, of a good. (p. 166)
+	- Holding shares at brokerage account is analogous to holding cryptocurrencies at CEX—the physical stock certificate is analogous to crypto held in self-custody wallet. The former is claim to the latter (in the case of crypto the latter is the good, and in the case of shares the latter is part-ownership of the good while the former is a claim to the part-ownership). #revisit
+		- Related: [[6-3a2 How you have something can (and will) matter more than what (you think) you have (e.g., DEX vs CEX - DEX will counter Maximalists movement)]]
+- Types of possible exchanges:
+	- a. A commodity for a commodity
+	- b. A commodity for a personal service
+	- c. A personal service of a personal service
+	- d. A commodity for a claim
+		- There are claims for present goods, and for future goods.
+	- e. A claim for a service
+	- f. A claim for a claim
+### 12. Property: The Appropriation of Raw Land
+### 13. Enforcement Against Invasion of Property
+- It may be considered more moral to keep promises than to break them, but the condition of a free market is that each individual’s rights of person and property be maintained, and not that some further standard of morals be coercively imposed on all. Any coercive enforcement of such a moral code, going beyond the abolition of invasive acts, would in itself constitute an invasion of individual rights of person and property and be an interference in the free market. (p. 178)
+- The “blacklist” is permissible on the free market. (p. 179)
+- Another legitimate action on the free market is the *boycott*. (p. 179)
+	- Any coercive action against a boycott is an invasion against the rights of free persons. (p. 179)
+- The law of negotiability is evidently a clear infringement of property right. (p. 181)
+	- Viz., with the law of negotiability, the transactions can be reversed. #develop 
+- A man has no such objective property as “reputation.” His reputation is simply what others think of him, i.e., it is purely a function of the *subjective* thoughts of others. But a man cannot own the minds or thoughts of others. Therefore, I cannot invade a man’s property right by criticizing him publicly. Further, since I do not own others’ minds, either, I cannot force anyone else to think less of the man because of my criticism. (pp. 182-183)
+- The foregoing observations should firmly remind us that what the enforcing agency combats in a free society is invasion of the *physical* person and property, *not* injury to the *values* of property. For physical property is what the person owns; he does not have any ownership in monetary values, which are a function of what *others* will pay for his property. (p. 183)
+	- Value exists in the minds of others. Will there be value, if others don’t exist? Is my future-self constitute the other? #revisit 
 ## Chapter 3: The Pattern of Indirect Exchange
+Money is technology—without money, the period of provision shortens. #develop 
 ### 1. The Limitations of Direct Exchange
+- Under a system of direct exchange, a plow would have almost no marketability in exchange, and few if any would be produced. (p. 188)
+- The conclusion is evident that no sort of civilized society can be built on the basis of direct exchange and that direct exchange, as well as Crusoe-like isolation, could yield only an economy of the most primitive type. (pp. 188-189)
+### 2. The Emergence of Indirect Exchange
+- The butter was more *marketable* than his eggs and was worth purchasing because of its superior marketability. (p. 189)
+	- Viz., salability.
+- Tending to increase the marketability of a commodity are its demand for use by more people, its divisibility into small units without loss of value, its durability, and its transportability over large distances. (p. 190)
+- Their choices will quickly focus on the few *most marketable* commodities available. (p. 191)
+	- E.g., see [[Eric Voskuil]]’s [Consolidation Principle]
+- This demand for their use as a medium is superimposed on the demand for their direct use, and this increase in the composite demand for the selected media *greatly increases their marketability*. (p. 191)
+	- A form of network effects. #revisit 
+- The process is cumulative, with the most marketable commodities becoming enormously more marketable and with this increase spurring their use as media of exchange. (p. 191)
+### 3. Some Implications of the Emergence of Money
+- Intricate and remote stages of production are now possible, and specialization can extend to every part of a production process as well as to the type of good produced. (p. 193)
+- With the great variety in human skills and natural resources resulting in enormous advantages from the division of labor, the existence of money permits the splitting of production into minute branches, each man selling his product for money and using money to buy the products that he desires. (p. 194)
+	- Put differently, money encourages differences. #develop 
+- The economy is therefore a “money economy,” and almost all goods are compared with and exchanged against the money commodity. (p. 195)
+### 4. The Monetary Unit
+### 5. Money Income and Money Expenditures
+- *Other things being equal* (an important qualification that will be examined in later sections), *he will strive to earn as much money income in any prospective period as he can*. (p. 199)
+	- E.g., 3-7
+- The production of the money commodity, as with all other valuable commodities, itself requires the use of land, labor, and capital goods, and these must be paid for by the use of money. The gold miner, then, receives no money by gift, but must actively find and produce gold to acquire his money. (pp. 200-201)
+- Labor services, therefore, can only be bought for “hire,” on a “pay-as-you-go” basis. (p. 201)
+- In each period, some individuals decide to add to their cash balances, and others decide to reduce them, and each makes that decision which he believes will benefit him most. For centuries, however, fallacious popular usage has asserted that one whose income is greater than expenditures (exports greater than imports) has a “favorable balance of trade,” while one whose expenditures have been greater than income for a period (imports greater than exports) has suffered an “unfavorable balance of trade.” (pp. 204-205)
+- *There is therefore never a need for anyone to worry about anyone else’s balance of payments*. A person’s “unfavorable” balance of trade will continue so long as the individual wishes to reduce his cash balance. (p. 205)
+### 6. Producers’ Expenditures
 ## Chapter 8: Production: Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)

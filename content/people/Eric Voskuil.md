@@ -31,6 +31,7 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 ## Jurisdictional Arbitrage Fallacy 
 ## Other Means Principle 
 ## Patent Resistance Principle 
+- Unlike copyright, patent is an anti-market force.
 ## Permissionless Principle 
 - Bitcoin is designed to operate without permission from any authority. Its [Value Proposition] is entirely based on this property. (p. 42)
 - **Bitcoin is therefore inherently a black market money.** (p. 42)
