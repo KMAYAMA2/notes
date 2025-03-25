@@ -312,6 +312,18 @@ Money is technology—without money, the period of provision shortens. #develop
 - In each period, some individuals decide to add to their cash balances, and others decide to reduce them, and each makes that decision which he believes will benefit him most. For centuries, however, fallacious popular usage has asserted that one whose income is greater than expenditures (exports greater than imports) has a “favorable balance of trade,” while one whose expenditures have been greater than income for a period (imports greater than exports) has suffered an “unfavorable balance of trade.” (pp. 204-205)
 - *There is therefore never a need for anyone to worry about anyone else’s balance of payments*. A person’s “unfavorable” balance of trade will continue so long as the individual wishes to reduce his cash balance. (p. 205)
 ### 6. Producers’ Expenditures
+- For a man to produce a consumers’ good, he must obtain labor services and the services of land and capital goods, in order to use the technological “know-how” available in the production of the good. (p. 207)
+- The capitalists are the only ones who *spend money on producers’ goods*, and they, therefore, may here be termed “the producers.” (p. 208)
+- Where, then, do the *producers* acquire their money for investment? (p. 209)
+- In order to obtain the money for investment, then, an individual must *save money* by restricting his possible consumption expenditures. This saved money first goes into his cash balance and then is *invested* in the purchase of factors in the anticipation of a later sale of the produced good. (p. 209)
+- A crucial difference, then, between man as an entrepreneur and man as a consumer is that in the latter case there is no drive to have exports greater than imports. A man’s imports are his purchase of consumers’ goods and are therefore the ends of his activity. (p. 212)
+	- Viz., a consumer does not have drive to have more money income than money expenditure.
+- On the other hand, the businessman is “importing” only producers’ goods, which by definition are useless to him directly. He can gain from them only by selling them or their product, and therefore his imports are merely the necessary means to his later “exports.” (p. 212)
+	- Roundabout. #develop 
+- It is clear, however, that the man, *considered as a whole*, has no particular desire to export more than he imports or to have a “favorable balance of trade.” (p. 212)
+	- Because everyone is consumer.
+### 7. Maximizing Income and Allocating Resources
+- 
 ## Chapter 8: Production: Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
