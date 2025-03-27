@@ -354,7 +354,148 @@ The individual demand schedules and the *market-demand schedule*
 - If there is no reservation demand, then the supply curve will be vertical. (p. 249)
 	- When reservation demand is zero, there is no choice to hold onto stock—it is all sold no matter the price. The supply curve then becomes perfectly inelastic (vertical), meaning quantity supplied does not change with price. The supply curve is just the flip side of reservation demand—it shows how much stock sellers release instead of holding back. If reservation demand exists, supply increases gradually with price (upward-sloping curve)—which explains why total demand curve is more elastic than demand curve. If reservation demand is zero, all stock is sold at any price (vertical supply curve). Thus, supply is essentially the inverse of reservation demand.
 ### 3. Determination of Supply and Demand Schedules
-
+- What can be the possible *sources* of his *demand for the good*? (p. 252)
+	- (a) The *anticipated later sale*
+	- (b) Direct use as a consumers’ good
+	- (c) Direct use as producers’ good
+- If we set aside the temporary speculative source, (b) is the source of the individual demand schedules for all consumers’ goods, (c) the source of demands for all producers’ goods. (p. 252)
+- What is the source of his *reservation demand* for the good? (p. 253)
+	- (a) Anticipation of later sale at a higher price
+	- (b) Direct use of the good by the seller
+- If we set aside (a) as being a temporary factor and realize that (b) is frequently not present in the case of either consumers’ or producers’ goods, it becomes evident that many market-supply curves will tend to assume an almost vertical shape. Here the seller’s problem is *what to do with given stock*, with already produced goods. (pp. 253-254)
+	- The problem of production will be treated in chapter 5 and subsequent chapters. (p. 254)
+- *Personal service* is consumed immediately upon their production. There is no “stock” in this sphere, since the goods disappear into consumption immediately on being produced. (p. 255)
+- The general factors that determine the supply and demand schedules of any and all consumers’ goods, by *all persons on the market*, are the balancing on their value scales of their demand for the good for direct use and their demand for money, either for reservation or for exchange. (pp. 256-257)
+### 4. The Gains of Exchange
+- Value scales of each individual are *purely ordinal*, and there is no way whatever of measuring the distance between the rankings; indeed, any concept of such distance is a fallacious one. Consequently, there is no way of making interpersonal comparisons and measurements, and no basis for saying that one person subjectively benefits more than another. (p. 258)
+	- Another sense in which valuation is subjective. #develop 
+- The fact that even if we could identify the marginal and supramarginal purchasers, we could never assert that one’s gain is greater than another’s is a conclusive reason for the rejection of all attempts to measure consumers’ or other psychic surpluses. (pp. 259-260)
+- We deduce the existence of a specific value scale on the basis of the *real act*; we have no knowledge of that part of a value scale that is not revealed in real action. (p. 260)
+	- To be more precise, the real act implies a value scale at the moment—but this does not guarantee that the actor will behave similarly in the future, given similar circumstances. Humans are unpredictable because we create knowledge, and knowledge can be only ascertained through actions. #develop
+### 5. The Marginal Utility of Money
+#### A. The Consumer
+- We are interested here in the marginal utility of money as relevant to consumption decisions. Every man is a consumer, and therefore the analysis applies to everyone taking part in the nexus of monetary exchange. (p. 262)
+- *Money obeys the law of marginal utility, just as any other commodity does*. (p. 263)
+- Its marginal utility of addition is equal to the rank of the most highly valued end the monetary unit can attain; and its marginal utility is equal in value to the most highly valued end *that would have to be sacrificed* if the unit were surrendered. (p. 264)
+	- Either for consumption, saving, or investment.
+- The desire to keep a cash balance stems from fundamental *uncertainty* as to the right time for making purchases, whether of capital or of consumers’ goods. Also important are a basic *uncertainty* about the individual’s own future value scale and the desire to keep cash on hand to satisfy any changes that might occur. (pp. 264-265)
+	- Uncertainty about both the future environment and the future-self.
+- Uncertainty, indeed, is a fundamental feature of all human action, and uncertainty about changing prices and changing value scales are aspects of this basic uncertainty. (p. 265)
+	- Uncertainty principle in economics, as it were. #develop 
+	- Uncertainty arises because nothing can extend across the multiverse. #develop 
+	- To the extent that values derive from human demand, and humans are significant in so far as we create knowledge, and to the extent that there is no meaningful difference between differences with others and with the future-self, changing prices and changing value scales are the same thing. #develop 
+- The marginal utility of money differs from person to person, just as does the marginal utility of any other good. *There is no measuring or comparability in the field of values or ranks*. Money permits only *prices* to be comparable, by establishing money prices for every good. (p. 267)
+	- Viz., the existence of prices in terms of money makes subjective valuation easier, but nothing more. #develop 
+- To determine the price of a good, we analyze the market-demand schedule for the good; this in turn depends on the individual demand schedules; these in their turn are determined by the individuals’ value rankings of units of the good and units of money as given by the various alternative uses of money; *yet the latter alternatives depend in turn on given prices of the other goods*. (p. 268)
+- *But how, then, can value scales and utilities be used to explain the formation of money prices, when these value scales and utilities themselves depend upon the existence of money prices?* (p. 268)
+	- In short, any prior money (e.g., gold, USD, and Bitcoin) must necessarily trace its origin back to the original money, which must've had direct use-value. And because all subsequent money derived part of its value from that historical chain starting with the original money, even if the new money does not exhibit the property of direct use-value (e.g., Bitcoin), and even with the seemingly naivety of assuming some "objective use-value" (e.g., gold) which contradicts the subjective value axiom, the regression theorem still stands because the original money must've had direct, *subjective*, use-value.
+#### B. The Money Regression
+- The marginal utility of money is based, as we have seen above, on a *previously* existing array of money prices. Money is demanded and considered useful because of its *already existing* money prices. The economic analysis of money prices is therefore *not* circular. (pp. 270-271)
+- *In a society of barter, there is no time component* in the prices of any given day. (p. 271)
+	- Time component in prices is an emergent phenomenon, as it were, with the introduction of money. #develop 
+- Since the marginal utility of the money commodity depends on previously existing money prices, a wiping out of existing markets and knowledge of money prices would render impossible the direct re-establishment of a money economy. (p. 271)
+- The determination of money prices (gold prices) is therefore completely explained, with no circularity and no infinite regression. (p. 273)
+- It does *not* follow from this analysis that if an extant money were to lose its direct uses, it could no longer be used as money. (p. 275)
+	- E.g., Bitcoin.
+#### C. Utility and Costs
+- It is convenient to distinguish the two vantage points by which an actor judges his action as *ex ante* and *ex post*. (p. 277)
+	- Viz., everyone benefits at the time of exchange, but not everyone will benefit from the exchange. #revisit 
+- *Ex ante*, then, he will always take the most advantageous course of action, and will always have a psychic profit, with revenue exceeding cost. *Ex post*, he may have profited or lost from a course of action. It is clear that his *ex post* judgments are mainly useful to him in the weighing of his *ex ante* considerations for future action. (pp. 277-278)
+- It is clear that value can be conferred on a good only by individuals’ desires to use it directly in the *present* or in the present expectation of selling to such individuals in the *future*. (p. 278)
+	- Value is derived from people's demand, and since demand is implied in human action which is concerned with the present and the future, value has nothing to do with the past. #develop 
+	- Also, the regression theorem does not contradict the statement here. Money’s past *price* influences expectations, as discussed in the previous sub-section, but today’s demand still determines its present *value*—e.g., if everyone suddenly lose faith in a currency (e.g., hyperinflation), its past price history wouldn’t matter anymore. #revisit
+#### D. Planning and the Range of Choice
+- *Ex ante* he appraises his situation, present and prospective future, chooses among his valuations, tries to achieve the highest ones according to his “know-how,” and then chooses courses of action on the basis of these *plans*. (pp. 279-280)
+	- Viz., in a free society, everyone is allowed to benefit from exchange as best as their knowledge allows—and if they make mistakes, they can learn from them (thanks to the existence of money and money prices). #develop
+		- Money facilitates error-correction, as it were. #develop 
+	- Viz., in a hampered market, people are unable to fully apply their knowledge, and errors persist rather than being corrected (and such errors will be then incorporated by people as "knowledge"—further exacerbating the error). #revisit
+- It is erroneous, therefore, to assert that a free market society is “unplanned”; on the contrary, each individual plans for himself. (p. 280)
+## 6. Interrelations Among the Prices of Consumers’ Goods
+Elastic goods prefer price decrease, in terms of total revenue in comparison with other goods (e.g., 1% increase in price causes a more than 1% decrease in quantity demanded), and vice versa for inelastic goods whose demand curve is steeper.
+- The law of the interrelation of consumers’ goods is: *The more substitutes there are available for any given good, the more elastic will tend to be the demand schedules (individual and market) for that good*. (p. 282)
+	- E.g., if there are many substitutes, slight price increase (or decrease) will cause people to demand substantially less (or more) of that 
+- And *all* consumers’ goods are *partial* substitutes for one another; for every good is engaged in competing for the consumers’ stock of money. (pp. 282-283)
+	- “However dissimilar they may appear to be” – [[Ludwig von Mises]]
+		- Related: [[2-1e Everything is connected in a complex way]]
+			- Time emerges out of money in economy, as it were. #develop 
+- The closeness of the substitution depends, however, on the particular circumstances of the consumer and his preferences rather than on technological similarity. (p. 283)
+	- As with values, the closeness of goods does not exist objectively, but subjectively in the minds of consumers (which gets aggregated intersubjectively, as it were). #develop 
+- Consequently, there is a tendency for the demands for the various consumers’ goods to become more elastic. (p. 284)
+	- Inelastic goods are those that people will buy regardless of price. A unitary value scale means all goods are compared—goods become more substitutable with money, to some degree. The more diverse an economy, the less likely it is that any good remains truly inelastic.
+	- Consequently, price decrease will be dominant. #develop 
+- Furthermore, when *new* types of goods are established on the market, these will clearly draw monetary demand away from other, substitute products, and hence bring about the first type of reaction. (p. 284)
+	- And if an existing producer’s product has an elastic demand schedule, the emergence of new goods does not harm them—it benefits them. #revisit 
+	- The above is assuming that the emergence of new product doesn't cause leftward shift of the existing product's demand schedule—because if that were the case (e.g., the new product is a superior substitute), then it can harm the existing producer—specifically, if the magnitude of the shift outweighs the degree of elasticity. #revisit 
+		- The effects from the changes in demand side is discussed later in this section.
+- The substitutive interrelations of consumers’ goods were cogently set forth by Philip Wicksteed. (p. 284)
+	- “The price is the first and most obvious indication of the nature of the alternatives“
+		- Put differently, the action axiom (which is implied in the multiverse) implies value scales and exchange, which implies market, which implies price (both of barter and then of money). #revisit
+			- “Market—price—is always there” – [[Elie Ayache]] #Ayache #revisit 
+- *Complementary* consumers’ goods
+	- For example, an increase in the supply of golf balls will tend to cause a *fall* in their prices, which will tend to raise the demand schedule for golf *clubs* as well as to increase the quantity of golf balls demanded. This will tend to *increase* the price of golf clubs. (p. 285)
+		- Why vertical integration and conglomeration can benefit firms. #revisit 
+	- For this effect the elasticity of demand for the original good has no relevance. (p. 285)
+		- Viz., it doesn't matter whether the increase in golf ball purchases was large (elastic) or small (inelastic), because this is a supply-side effect—any increase in golf ball purchases (via change in supply side) raises the demand for golf clubs (unless the demand curve for golf balls is vertical).
+		- For the whole operation, what matters is the elasticity of golf balls (because if the demand for golf balls is elastic, revenue will increase with price decrease), and the magnitude of the rightward shift in gold clubs' demand schedule (its elasticity will matter only after the operation—if elastic, the operation will further benefit from price decrease in golf clubs, and the opposite if inelastic). #revisit
+- All goods are substitutable for one another, while fewer are complementary. When they are also complementary, then the complementary effect will be mixed with the substitutive effect, and the nature of each particular case will determine which effect will be the stronger. (p. 286)
+- More money spent on good A, given the stock of money, signifies that less money is spent on goods B, C, D . . . The demand curves for the latter goods “shift to the left,” and the prices of these goods *fall*. (p. 286)
+- The second-order effect:
+	- If there is an increase in the demand schedule for golf clubs, it is likely to be accompanied by an increase in the demand schedule for golf balls, since both are determined by increased relative desires to play golf. (p. 287)
+		- 1. ^Supply for A (golf balls) increases—supply-side.
+			- Step 1 per se is beneficiary *only* if A's demand schedule is elastic in that specific price ranges—i.e., conglomerates (or vertically integrated entities) will not pursue Step 1 unconditionally (and remember that they can be doing completely different things—that is to say, they are also constrained by the opportunity costs, which should often outweigh such details as the specific demand elasticity of specific good). #develop 
+				- The tendency toward equilibrium price via market feedback is the general condition of free market. Bitcoin—specifically, its use of market feedback in fee premiums—per se is nothing special, it's just an example of that.
+				- Conglomerates (can) produce complementary goods, and vertically integrated entities produce a good independently by themselves—two are not the same entities by definition. #develop 
+					- But to the extent that all goods are somewhat substitutable by all other goods, everyone who produces more than one good is a conglomerate. #develop
+		- 2. If A's demand schedule is elastic, the revenue increases.
+		- 3. Demand for B (golf clubs) increases—demand-side-i.
+		- 4. Demand for A (golf balls) increases—demand-side-ii.
+- Much has been written in the economic literature of consumption theory on the “assumption” that each consumers’ good is desired quite independently of other goods. Actually, as we have seen, the desires for various goods are of necessity interdependent, since all are ranged on the consumers’ value scales. Utilities of each of the goods are relative to one another. These ranked values for goods and money permit the formation of individual, and then aggregate, demand schedules in money for each particular good. (p. 288)
+### 7. The Prices of Durable Goods and Their Services
+Analysis of the arbitrage profits and losses of entrepreneurship in the case of selling outright as against renting.
+- For nondurable goods, the problem of the separate sale of the service of the good and of the good itself does not arise. (p. 289)
+- Personal services are never sold as a whole, since, on the free market, slave contracts are not enforceable. Personal services, then, are always sold in their individual units. (pp. 289-290)
+- The problem whether services should be sold separately or with the good as a whole arises in the case of durable commodities. The price of the service unit is called the *rent*. (p. 290)
+- There is a definite relationship between the price of the unit services of a durable consumers’ good and the price of the good as a whole. (p. 291)
+- *The market price of the good as a whole is equal to the present value of the sum of its expected (future) rental incomes or rental prices.* (p. 292)
+- The *capital value*—the “price of the good as a whole”—of any good (be it consumers’ or capital good or nature-given factor) is the money price which, as a durable good, it presently sells for on the market. The capital value at any time is based on expectations of future rental prices. (pp. 292-293)
+- The man who has bought a good to rent out at what proves to be an excessive capital value has only himself to blame for being overly-optimistic about the monetary return on his investment. And since successful forecasters are, in effect, rewarded, and poor ones penalized, and in proportion to good and poor judgment respectively, the market tends to establish and maintain as high a quality of forecasting as is humanly possible to achieve. (p. 293)
+- The equilibrium relation between present capital value and *actual* future rents is only a long-range tendency fostered by the market’s encouragement of successful forecasters. This relation is a *final* equilibrium, similar to the *final equilibrium* prices that set the goal toward which the day-to-day prices tend. (p. 294) #revisit 
+	- E.g., 5-2
+- Study of capital value and rental prices requires additional supply-demand analysis. It is clear that the supply schedules on the two markets are interconnected. They will tend to come into equilibrium when the equilibrium-price relation is established between them. (pp. 294-295)
+	- Because the sellers who believe that the capital market is offering higher price than the rental market will sell in the former (and vice versa). #revisit
+	- The equilibrium-price relation: the market price of the good as a whole is equal to the present value of the sum of its expected (future) rental incomes or rental prices.
+- *The price of presently established long-term rents will tend to be equal to the present value of the sum of the expected fluctuating rents for identical goods.* The ever-present uncertainty of the future causes the more able forecasters to gain and the less able ones to lose. (p. 296)
+	- Viz., speculation is an inherent and continuous feature of the market, because uncertainty is never eliminated. #revisit
+### 8. Welfare Comparisons and the Ultimate Satisfactions of the Consumer
+- From the full praxeological point of view, the butter becomes a consumers’ good only when it is actually being eaten or otherwise “consumed” by the ultimate consumer. (p. 299)
+- From the point of view of that subdivision of praxeology that covers traditional economics—that of *catallactics*, the science of monetary exchanges—however, it becomes convenient to call the good at the last retail stage a “consumers’ good.” (p. 299)
+- The purchasing power of money in terms of all other commodities is continually changing, and there is no way to measure such changes. There is no precise method of measuring or even identifying the purchasing power of money and its changes. (pp. 300-301)
+	- a. Value is subjective—objective “power” doesn’t exist. #revisit
+		- E.g., A’s psychic income can be equal to, or greater than, B’, despite the lower monetary expenditures—although such comparison itself is meaningless, given the subjectivity of value.
+	- b. Market conditions are always changing—e.g., CPI consists of arbitrary selection of goods and hence meaningless.
+- The law of the diminishing marginal utility of money applies only to the valuations of *each individual* person. (p. 301)
+### 9. Some Fallacies Relating to Utility
+- Even in the case of the most divisible of goods, there will still be a *difference in rank*, not an equalization, between the two utilities. (p. 303)
+	- Otherwise, men wouldn’t act. #develop 
+- Utilities are not quantities, but ranks, and the successive amounts of a commodity that are used are always discrete units, not infinitely small ones. If the units are discrete, then the rank of each unit differs from that of every other, and there can be no equalization. (p. 305)
+- Human beings act on the basis of things that are relevant to their action. The human being cannot see the infinitely small step; it therefore has no meaning to him and no relevance to his action. (p. 306)
+- “Indifference maps”
+	- The crucial fallacy is *that “indifference” cannot be a basis for action*. If a man were really indifferent between two alternatives, he could not make any choice between them, and therefore the choice could not be revealed in action. (p. 307)
+- Praxeology is a logical science based on the existence of action *per se*; it is interested in explaining and interpreting real action in its universal sense rather than in its concrete content. **Its discussion of value scales is therefore a deduction from the nature of human action and not a speculative essay on the internal workings of the mind.** (p. 308)
+- Praxeology is not concerned with the content of these ends, the manner of arriving at them, or their order; it is concerned with analysis of the logical implications of the existence of these ends. (pp. 308-309)
+	- Viz., praxeology is concerned with the fact that humans solve problems—regardless of how. #revisit
+- Economics is interested not in value scales professed in response to questionnaires, but in the values implied by real action. (p. 309)
+	- Again, talk is cheap. #revisit 
+- “The scale of value is nothing but a constructed tool of thought. The scale of value manifests itself only in real acting; it can be discerned only from the observation of real acting. It is therefore impermissible to contrast it with real acting and to use it as a yardstick for the appraisal of real actions." – [[Ludwig von Mises]] (p. 309)
+	- Value scales are implied in the real actions, not vice versa. #revisit 
+- The case of Buridan’s ass
+	- He is confronted not with *two* choices, but with *three*, the third being to starve where he is. (p. 310)
+	- We are interested in preference *as revealed through choice* and not in the *psychology* of preferences. (p. 310)
+	- Far from being a proof of the importance of indifference, the case of Buridan’s ass is an excellent demonstration of the fact that indifference can play no part whatever in an analysis of human action. (pp. 310-311)
+		- Relate this with the multiverse (specifically with differentiation and fungibility)—viz., elaborate how differentiation relates with being made redundant (i.e., fungibility). #develop   
+			- Bredan will either choose the left water hole or right. In some universes, the left will be preferred to the right, while the right will be preferred to the left in other universes. 
+			- Put differently, **the individual differentiates due to the indifference—a lack of preference, which in turn is due to the lack of knowledge**. #develop 
+- In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice. (p. 311)
 ### Appendix A: The Diminishing Marginal Utility of Money
 “Total utility” can be only ascertained when the marginal good with which the individual acts upon coincides with whatever the totality means in that context. #revisit
 - There is no possible way of adding or combining marginal utilities to form some sort of “total utility”; the latter can only be a *marginal* utility of a large-sized unit. (p. 314)
@@ -363,9 +504,24 @@ The individual demand schedules and the *market-demand schedule*
 ### Appendix B: On Value
 - It is more important to keep distinct the subjective use of the term in the sense of *valuation* and preference, as against the “objective” use in the sense of *purchasing power* or price on the market. (p. 316)
 - *Appraisement*—fundamental to the entire economic system in an economy of indirect exchange—is to be distinguished from subjective evaluation. (p. 316)
+## Chapter 5: Production—The Structure
+### 1. Some Fundamental Principles of Action
+### 2. The Evenly Rotating Economy
+- What would occur if value scales, technological ideas, and the given resources remained constant? (p. 321)
+- The state of *final equilibrium is one which the economy is always tending to approach*. It is never reached in practice and it is always changing. (pp. 321-322)
+- At the *final position of rest*, on the basis of the given, actually existing value scales, all individuals would have attained the highest positions on their value scales, given the technology and resources. (p. 322-323)
+- Such a position of no change would be most unfortunate, since it would imply that no further want-satisfaction would be possible. (p. 323)
+	- Viz., a final equilibrium position implies the end of progress. #revisit 
+- Far too many writers discerning that in the evenly rotating economy entrepreneurial profits and losses would all be zero, have somehow concluded that this must be the *condition* for any legitimate activity on the market. (p. 323)
+	- Viz., do not confuse the effect with the condition.
+- 
+## Chapter 6: Production—The Rate of Interest and Its Determination
+
+## Chapter 7: Production—General Pricing of the Factors
 ## Chapter 8: Production: Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
+## Chapter 9: Production—Particular Factor Prices and Productive Incomes
 
 ---
 # Power and Market
