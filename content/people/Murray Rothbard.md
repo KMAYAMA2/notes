@@ -323,7 +323,46 @@ Money is technology—without money, the period of provision shortens. #develop
 - It is clear, however, that the man, *considered as a whole*, has no particular desire to export more than he imports or to have a “favorable balance of trade.” (p. 212)
 	- Because everyone is consumer.
 ### 7. Maximizing Income and Allocating Resources
-- 
+On the “other things being equal”—the *ceteris paribus*—qualification
+- We examined the truth that in every action, men try to obtain the greatest advantage, i.e., to attain the end located on the highest possible point on their value scale. This was also called attempting to “maximize psychic revenue” or “psychic income.” This is a praxeological truth, a general law holding for all human action, with no qualification whatsoever. (p. 213)
+	- Inverted: because we are in the multiverse, we must choose something over others—counterfactuals are implied in the multiverse. Unless you create knowledge that compels you to choose certain things over certain other things, there will be many instances of you across the multiverse who manifest, through their actions, different value scales. Put differently, value scales converge only through knowledge. #revisit
+- *The very fact that exchangeable consumers’ goods are more abundant enables each individual to enjoy more of the nonexchangeable ones*. (p. 214)
+- A destitute person is far less likely to prefer the nonexchangeable to the exchangeable than one whose “standard of living” in terms of the latter is high. (p. 215)
+- The important fact for catallactics is that a man always chooses a bundle of *money income plus other psychic factors* and that he will maximize his money income only if psychic factors are neutral with respect to his choices. (p. 216)
+	- Viz., it cannot be unbundled. #develop 
+		- Related: [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+- Man allocates his time between leisure and productive labor, between labor for money and labor on unexchangeable items, etc., in accordance with the principle of maximizing his psychic income. (p. 219)
+	- Relate with [[Eric Voskuil]]’s [Labor and Leisure] (also mentioned in 1-8) #revisit 
+- Each man, at every point in time, has in his ownership a certain stock of useful goods, a certain stock of *resources*, or *assets*. These resources may include not only *money*, but also *consumers’ goods*, *nonpersonal producers’ goods* (land and capital goods), *personal energy*, and *time*. He will allocate *each one* of these resources according to the same principles by which he has allocated money—so that each unit goes into the use with the highest prospective marginal utility on his value scale. (p. 221)
+- At any time, each owner of a consumers’ good must judge on his value scale whether its exchange-value or its highest direct use-value is the greater. In the money economy, the problem of exchange-value is simplified, since it will be exchange for *money* that will be especially important. The utility on his value scale of the highest direct use-value will be compared to the utility of the sum of money the good could procure in exchange. (p. 223)
+	- With money, value scale becomes more transparent, measurable, and comparable (although never completely). #develop
+- Nonexchangeable factors for an owner of a stock of consumers’ goods or of producers’ goods will generally be negligible in importance, since they had already been discounted when the investment in them was made. If we set aside the value of the durable consumers’ good in direct use for some owners, the aim of the owners will be to maximize their money income from the stock of the good. (p. 227)
+- At this point we may, at least briefly, begin to answer the question we did not have the information to answer in chapter 2: Granted the behavior of the owner of a given stock, what determines the *size* of that stock of goods? (p. 228)
+	- E.g., 2-8
+- The previous investors expected that he would be able to sell the good for a money income greater than the money expenditures that he had to make on the factors of its production. This investment decision accounts for the existence of all the stock of all producers’ goods and durable consumers’ goods for any community at any given point in time. (p. 228)
+- With few exceptions—e.g., the laborer who spurns a higher money price for his labor because of the nonexchangeable conditions attached to the work, or the investor who spurns a greater prospective income for a line of production that he prefers for its own sake—aside, pursuit of the rule: “Buy on the cheapest market and sell on the dearest” leads to satisfaction of the most highly valued ends for each individual, both as a consumer and as a producer. (p. 230)
+## Chapter 4. Prices and Consumption
+### 1. Money Prices
+- With the establishment of a money economy, the *number* of markets needed is immeasurably reduced. (p. 233)
+- Money has an almost infinite *array* of “goods-prices” that establish the “goods-price of money.” The entire array, considered together, yields us the general “goods-price of money.” For if we consider the whole array of goods-prices, we know what one ounce of money will buy in terms of any desired combination of goods, i.e., we know what that “ounce’s worth” of money (which figures so largely in consumers’ decisions) will be. (p. 237)
+- *The purchasing power of the monetary unit consists of an array of all the particular goods-prices in the society in terms of the unit*. (pp. 237-238)
+### 2. Determination of Money Prices
+The individual demand schedules and the *market-demand schedule*
+- The money price will remain at the equilibrium point for further exchanges of the good, *until* demand or supply schedules change. (p. 247)
+- Where there is a rise in reservation demand, the increase in the total demand to hold is greater—the curve far more elastic—than the regular demand curve, because of the addition of the reservation-demand component. (p. 248)
+- It is characteristic of the total demand curve that it *always* intersects the physical stock available at the same equilibrium price as the one at which the demand and supply schedules intersect. (p. 248)
+- If there is no reservation demand, then the supply curve will be vertical. (p. 249)
+	- When reservation demand is zero, there is no choice to hold onto stock—it is all sold no matter the price. The supply curve then becomes perfectly inelastic (vertical), meaning quantity supplied does not change with price. The supply curve is just the flip side of reservation demand—it shows how much stock sellers release instead of holding back. If reservation demand exists, supply increases gradually with price (upward-sloping curve)—which explains why total demand curve is more elastic than demand curve. If reservation demand is zero, all stock is sold at any price (vertical supply curve). Thus, supply is essentially the inverse of reservation demand.
+### 3. Determination of Supply and Demand Schedules
+
+### Appendix A: The Diminishing Marginal Utility of Money
+“Total utility” can be only ascertained when the marginal good with which the individual acts upon coincides with whatever the totality means in that context. #revisit
+- There is no possible way of adding or combining marginal utilities to form some sort of “total utility”; the latter can only be a *marginal* utility of a large-sized unit. (p. 314)
+- “Value can rightly be spoken of only with regard to specific acts of appraisal. . . . Total value can be spoken of only with reference to a particular instance of an individual . . . having to choose between the total available quantities of certain economic goods. Like every other act of valuation, this is complete in itself. . . . When a stock is valued as a whole, its marginal utility, that is to say, the utility of the last available unit of it, coincides with its total utility, since the total supply is one indivisible quantity.” – Mises (p. 314)
+- There are, then, two laws of utility, both following from the apodictic conditions of human action: first, that *given the size of a unit of a good, the (marginal) utility of each unit decreases as the supply of units increases; second, that the (marginal) utility of a larger-sized unit is greater than the (marginal) utility of a smaller-sized unit*. But there is no arithmetical relationship between the items apart from these rankings. (p. 314)
+### Appendix B: On Value
+- It is more important to keep distinct the subjective use of the term in the sense of *valuation* and preference, as against the “objective” use in the sense of *purchasing power* or price on the market. (p. 316)
+- *Appraisement*—fundamental to the entire economic system in an economy of indirect exchange—is to be distinguished from subjective evaluation. (p. 316)
 ## Chapter 8: Production: Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
