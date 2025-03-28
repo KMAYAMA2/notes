@@ -514,8 +514,94 @@ Analysis of the arbitrage profits and losses of entrepreneurship in the case of 
 	- Viz., a final equilibrium position implies the end of progress. #revisit 
 - Far too many writers discerning that in the evenly rotating economy entrepreneurial profits and losses would all be zero, have somehow concluded that this must be the *condition* for any legitimate activity on the market. (p. 323)
 	- Viz., do not confuse the effect with the condition.
-- 
+- We are not dealing with “functional,” quantitative relations among variables, but with human reason and will causing certain action, which is not “determinable” or reducible to outside forces. (p. 324)
+	- Relate this with the unpredictability which is inherent in the multiverse—in particular, relate this with how experimental results cannot be used to verify theories due to the non-determinancy which is inherent in each universes. #revisit 
+		- Does that mean experimental results can be only used to falsify theories? How is the multiverse related with fallibilism? #revisit
+- The only “natural laws” (if we may use such an old-fashioned but perfectly legitimate label for such constant regularities) in human action are *qualitative* rather than *quantitative*. (p. 324)
+- The “mathematical economists”:
+	- It cannot describe the *path* by which the economy approaches the final equilibrium position. This task can be performed only by verbal, logical analysis of the causal action of human beings. (p. 325)
+		- And the multiverse explains causation, at least in the realm of human actions. #revisit
+			- Viz., because the multiverse is the general condition, and because the multiverse allows the explanation of life and mind by allowing the causality to be evoked by the mind, causation (as a concept implied in the multiverse) is sure to explain human actions. #revisit
+	- The mathematical equations of the evenly rotating economy describe only a static situation, outside of time. (p. 325)
+		- Other times are special cases of other universes. Inverted, the mathematical equations—at least in the sense the mathematical economists use them—disregard the multiverse. #revisit
+- The use of the mathematical concept of “function” is particularly inappropriate in a science of human action. On the one hand, action itself is *not* a function of anything, since “function” implies definite, unique, mechanical regularity and determination. On the other hand, the mathematics of simultaneous equations, dealing in physics with unmotivated motion, stresses mutual determination. In human action, however, the known causal force of action unilinearly determines the results. (pp. 326-327)
+	- Viz., the result does not simultaneously determine the cause—mutual determination is closely tied to a deterministic worldview. Put differently, humans create their own causality. #develop 
+		- E.g., the Earth deflecting meteoric stars. #revisit
+		- Related: [[5-1b1a3 We are more than technology, because we create knowledge-technology. We are more than functions. Don’t be a function.]]
+- The idea of the evenly rotating economy is indispensable in analyzing the real economy; through hypothesizing a world where all change has worked itself out, we can analyze the directions of actual change. (p. 329)
+	- Is this actually true? #revisit 
+		- Is discussing the ERE a form of explicating the contradiction? #revisit 
+### 3. The Structure of Production: A World of Specific Factors
+- Let us for a time consider a world where every good is produced *only* by several *specific* factors. In this world, a world that is conceivable, though highly unlikely, every person, every piece of land, every capital good, would necessarily be irrevocably committed to the production of one particular product. (p. 330)
+- There would still, in the sphere of production of exchangeable goods, be *one* allocation that every man would make: how much time to devote to labor and how much to leisure. But there would be no problem of *which* field to labor in, no problem of what to do with any piece of land, no problem of how to allocate capital goods. The employment of the factors would all depend on the consumers’ demand for the final product. (p. 330)
+- There are two alternatives in regard to the final ownership of the product (*before* it is sold to the consumer)—although the latter is the nearly universal condition, it will be convenient to begin by analyzing the first alternative. (p. 332): 
+	- (a) All the owners of these factors *jointly* own the final product 
+	- (b) The owner of each of the factors sells the services of his factor to someone else, and the latter (who may himself contribute a factor) sells the good at a later date to the consumer.
+		- The term “capitalists” will be confined to the owners in the second alternative.
+### 4. Joint Ownership of the Product by the Owners of the Factors
+- Since every capital good analytically resolves itself into original nature-given and labor factors, it is evident that no money could accrue to the owner of a capital good. All 100 ounces must eventually be allocated to labor and owners of nature-given factors exclusively. (p. 334)
+- To the truism that the income from sale of the consumers’ good equals the consumers’ expenditure on the good, we may add a corresponding truism for each stage of production, namely, that *the income from sale of a capital good equals the income accruing to the factors of its production*. (p. 336)
+- The income gained from the final sale of the product to the consumers accrues only to the owners of land and labor; there is no separate group of owners of capital goods to whom income accrues. (p. 337)
+	- Viz., there is no capitalist.
+- Their income is received only at a much later date. (p. 337)
+	- I.e., when the consumers’ good is finally purchased.
+- The joint monetary income earned by the owners of the factors fluctuates *pari passu* with consumer demand for the product. (p. 338)
+	- Viz., the capitalists hedge this risk for the owners of land and labor.
+- His labor, on our assumptions, may be a specific factor, but his *money* is usable in every line of production. (p. 338)
+	- Saving literally can save you. #develop
+- It is the free market in a free society that furnishes the only instrument to reduce or eliminate poverty and provide abundance. (p. 340)
+### 5. Cost
+- What are the costs involved in the decisions made by the owners of the factors? (p. 341)
+- It must be stressed that these costs are subjective and cannot be precisely determined by outside observers or be gauged *ex post* by observing accountants. (p. 341)
+	- Viz., only monetary income (or loss) can be measured *ex post*—never psychic income (or loss). #revisit 
+- *Since* such factors as land and the produced capital goods have only one use, namely, the production of this product (by virtue of being purely specific), they involve *no cost* to their owner in being used in production. (p. 341)
+- The use of labor, however, does have a cost, in accordance with the value of the leisure forgone by the laborers. This value is, of course, unmeasurable in money terms, and necessarily differs for each individual, since there can be no comparison between the value scales of two or more persons. (p. 341)
+- Individuals, on their value scales, evaluate a given stock of goods according to their utilities, setting the prices of consumers’ goods; the stock is produced according to previous decisions by producers, who had weighed on their value scales the expected monetary revenue from consumers against the subjective costs (themselves simply *utilities forgone*) of engaging in the production. (p. 343)
+	- In the former case, the utility valuations are generally (though by no means always) the ones made by *consumers*; in the latter case, they are made by *producers*. But it is clear that the determinants of price are *only the subjective utilities of individuals* in valuing given conditions and alternatives. There are no “objective” or “real” costs that determine, or are co-ordinate in determining, price. (p. 343)
+- Added to the leisure-labor element, the workers, in this case, must wait for some time before earning the return, while they must give up their leisure in the present or in various periods earlier than the return is obtained. Time, therefore, is a critical element in production, and its analysis must pervade any theory of production. (p. 344)
+- *Present* consumption is given up in anticipation of *future* consumption. This restriction of present consumption is *saving*. (pp. 344-345)
+- In a world where products are all jointly owned by owners of factors, the original owners of land and labor must do their own saving; there is no monetary expression to represent total saving, even in a monetary economy. (p. 345)
+	- Because saving in a pure production process without monetary intermediaries is fundamentally a real, not a monetary, phenomenon.
+	- Under the current assumption, the owners of land and labor "save" real resources (e.g., time), and not in money (e.g., monetary wages and rents are assumed to be non-existent).
+- It is impossible for us to say what this saving or investment was in monetary terms. (p. 345)
+	- Because the question of leisure forgone (which constitutes the saving under the current assumption) implies time preference—and because time preference is subjective preference, it cannot be measured in monetary terms. #revisit
+### 6. Ownership of the Product by Capitalists: Amalgamated Stages
+- The capitalists relieved the owners of the original factors from the necessity of sacrificing present goods and waiting for future goods. *Instead*, the capitalists have supplied present goods *from their own savings* (i.e., money with which to buy present goods) to the owners of the original factors. (p. 346)
+- The owners of these factors have the money already for which they otherwise would have had to save and wait (and bear uncertainty), while the capitalist has only a mass of capital goods, a mass that will prove worthless to him unless it can be further worked on and the product sold to the consumers. (p. 347)
+	- Viz., the capitalists are not “powerful”
+- Let us now add another temporary restriction to our analysis—namely, that all producers’ goods and services are only *hired*, never bought outright. This is a convenient assumption that will be maintained long after the assumption of specific factors is dropped. (p. 348)
+	- Similar assumption as in 4-7
+- A laborer cannot be bought, then, but his *services* can be bought over a period of time; i.e., he can be rented or hired. (p. 348)
+### 7. Present and Future Goods: The Pure Rate of Interest
+Interest is not the “reward” of capital goods—interest arises because the capitalists buy labor and land today in exchange for goods that will be sold in the future.
+- *In an evenly rotating economy*, where all the market actions are repeated in an endless round and there is therefore no uncertainty, *entrepreneurship* disappears. (p. 349)
+	- Viz., under the current assumption, the capitalists can exist, but not entrepreneurs.
+- Even if final returns and consumer demand are certain, *the capitalists are still providing present goods to the owners of labor and land* and thus relieving them of the burden of waiting until the future goods are produced and finally transformed into consumers’ goods. (p. 349)
+- When the capitalists have saved money (“money capital”), however, they are at liberty to purchase factor services in any line of production. *Money, the general medium of exchange, is precisely nonspecific*. (p. 350)
+- The concept of *rate* of return is necessary in order for him to compare different potential investments for different periods of time and involving different sums of money. (p. 350)
+	- And since money has market with all the other goods, and *ceteris paribus* the more monetary returns the better, the concept of rate of return can abstract the specificity of goods exchanged with money.
+	- Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general, resulting in the pure rate of interest which is uniform for all lines of production.
+	- Money exists due to the uncertainty of the future (which is implied in the multiverse)—inverted, money is a technology (not forbidden by the laws of physics) that allows the present to coordinate better with the future—which is by definition uncertain as implied in the multiverse. #develop 
+	- Although David Deutsch emphasized fungibility as one of the distinguishing features of money, many other goods are by definition fungible—it's the combination of money's medium-ness (viz., salability) and its fungibility that makes it uniquely useful. #develop 
+	- Money's medium-ness means it can be exchanged with any other goods (another sense of fungibility apart from the literal sense of any money can substitute any other money)—*it can be otherwise*—it's analogous to a quantum system before differentiation via entanglement. #develop 
+	- Each individual is fungible with every other instances of himself across the multiverse (the literal sense of fungibility), as well as with every other individual across the multiverse (the contingent sense of fungibility—because there is no substantive difference between the difference between himself and other instances of himself and the difference between himself and others, due to the fact that other times are special cases of other universes, and because humans are significant to the extent that they create knowledge)—viz., humans replicated themselves in money. #develop
+- After data work themselves out and continue without change, the rate of net return on the investment of money capital will, in the ERE, be the *same* in every line of production. (p. 350)
+- In the ERE, there is no entrepreneurial uncertainty, and the rate of net return is the pure exchange ratio between present and future goods. This rate of return is *the rate of interest*. This *pure rate of interest* will be uniform for all periods of time and for all lines of production and will remain constant in the ERE. (p. 351)
+	- Viz., there is no time inconsistency—e.g., see [[Mark Spitznagel]]—in the ERE. #develop 
+		- Is the concept of time inconsistency universal and necessary as in the case with positive time-preference? If not (which is very likely), what is the implication? #revisit 
+- Since money is the general medium of exchange and can be invested in all products, this close competition extends throughout the length and breadth of the production structure. (p. 351)
+- It is the *time element*, the result of the various individuals’ time preferences, and *not* the alleged independent productivity of capital goods, from which the interest rate and interest income arise. (p. 352)
+	- Again, capital goods per se are not productive.
+- We shall see below that this exchange rate between present and future goods is not only uniform in the production process, but throughout the entire market system. (p. 353)
+	- Time inconsistency does not exist in the ERE. #revisit 
+- It is the “social rate of time preference.” It is the “price of time” on the market as the resultant of all the individual valuations of that good. (p. 353)
+	- Viz., the capitalists—in supplying present goods for future goods—are constrained by aggregated time-preference schedules just as sellers of any other present goods are constrained by aggregated demand schedules. #develop 
+	- Viz., the capitalists are not exploiters but intermediaries, bridging present and future demand with money—because, by definition, money is the best technology for this function. #develop
+		- Elaborate this without using the “store of value” rhetoric. #TODO 
+### 8. Money Costs, Prices, and Alfred Marshall
+
 ## Chapter 6: Production—The Rate of Interest and Its Determination
+A fuller discussion of the determination of the rate of interest (e.g., see 5-7).
 
 ## Chapter 7: Production—General Pricing of the Factors
 ## Chapter 8: Production: Entrepreneurship and Change
