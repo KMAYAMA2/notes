@@ -528,6 +528,7 @@ Analysis of the arbitrage profits and losses of entrepreneurship in the case of 
 	- Viz., the result does not simultaneously determine the cause—mutual determination is closely tied to a deterministic worldview. Put differently, humans create their own causality. #develop 
 		- E.g., the Earth deflecting meteoric stars. #revisit
 		- Related: [[5-1b1a3 We are more than technology, because we create knowledge-technology. We are more than functions. Don’t be a function.]]
+- Training in mathematics, without adequate attention to the epistemology of the sciences of human action, is likely to yield unfortunate results when applied to the latter. (p. 366)
 - The idea of the evenly rotating economy is indispensable in analyzing the real economy; through hypothesizing a world where all change has worked itself out, we can analyze the directions of actual change. (p. 329)
 	- Is this actually true? #revisit 
 		- Is discussing the ERE a form of explicating the contradiction? #revisit 
@@ -599,12 +600,42 @@ Interest is not the “reward” of capital goods—interest arises because the 
 	- Viz., the capitalists are not exploiters but intermediaries, bridging present and future demand with money—because, by definition, money is the best technology for this function. #develop
 		- Elaborate this without using the “store of value” rhetoric. #TODO 
 ### 8. Money Costs, Prices, and Alfred Marshall
-
+The subjective utility of individuals—both of consumers and producers—*alone* (a “*monistic* causal explanation”) determines how much productive energy and savings will go into producing goods (i.e., size)—both total size and specific sizes. #revisit 
+- The price of the final product is determined by the valuations and demands of the consumers, and this price *determines what the cost will be*. (pp. 354-355)
+- Costs of production, then, are at the mercy of final price, and not the other way around. It is ironic that it is precisely in the ERE that this causative phenomenon should be the clearest. (p. 355)
+	- E.g., 5-4
+- In the real world of uncertainty it is more difficult to see this, because factors are paid in *advance* of the sale of the product, since the capitalist-entrepreneurs speculatively advance money to the factors in the *expectation* of being able to recoup their money with a surplus for interest and profit after sale to the consumers. (p. 355)
+	- [[2-1b Seeing the unseen (面影・うつろい) |Seeing the unseen]] via the ERE.
+- The economist, instead of viewing the economy from the standpoint of an individual entrepreneur, must see how money costs are determined and, taking account of all the interrelations in the economy, must recognize that they are determined by final prices reflecting consumer demands and valuations. (p. 356)
+	- Praxeology is concerned with the laws of human action. Economics is a subdivision of praxeology, and it's concerned with the totality of men as both consumer and producer. #revisit
+		- Related: [[1-2g2s7d A history has to be explained in multiversal terms. The true explanation of what happened involves many other instances of me.]]
+- Alfred Marshall:
+	- He considers the “long run” as actually existing, as being the permanent, persistent, observable element beneath the fitful, basically unimportant flux of market value. (p. 358)
+	- The long run, by its very nature, *never does and never can exist*. The point at issue is that it *is not observable*, or real, as are actual market prices. (p. 359)
+		- The ERE—the Austrian version of the “long-run”—is by definition unobservable in the real world, and the Austrians know it. #develop
+	- The actual market prices, on the contrary, are the only ones that *ever* exist, and they are the resultants of actual market data (consumer demands, resources, etc.) that themselves change continually. (p. 359)
+		- [[Elie Ayache]] again (see, e.g., 1-5-b, 4-6)
+		- The physical reality creates life, mind, and money via the Turing principle—as such the multiverse is implied in life, mind, and money. #develop
+	- The “long run” of the ERE is not real at all, but a very useful theoretical construct that enables the economist to point out the direction in which the market is moving at any given time—specifically, toward the elimination of profits and losses if existing market data remain the same. (p. 360)
+### 9. Pricing and the Theory of Bargaining
+- What will be the process of pricing productive factors in a world of purely specific factors? (p. 362)
+- Laborer could always enjoy leisure, and this sets a minimum supply price for labor service. On the other hand, the use of land sacrifices no leisure. The bargaining power of the owner of labor is almost always superior to that of the owner of land. (p. 364)
+- In the real world, labor is uniquely the *nonspecific* factor, so that the theory of bargaining could never apply to labor incomes. (p. 364)
+- Not only is bargaining theory rarely applicable in the real world, but zones of indeterminacy between valuations, and therefore zones of indeterminacy in pricing, tend to dwindle radically in importance as the economy evolves from barter to an advanced monetary economy. (p. 365)
+	- Because money allows you to prove your relative worth. #revisit
 ## Chapter 6: Production—The Rate of Interest and Its Determination
 A fuller discussion of the determination of the rate of interest (e.g., see 5-7).
-
+### 1. Many Stages: The Pure Rate of Interest
+- *Not only must the interest rate be uniform for each good; it must be uniform for every stage of every good*. (p. 370)
+	- Again, there is no time inconsistency in the ERE.
+- In the real world of uncertainty, the *tendency* of entrepreneurial actions is always in the direction of establishing a uniform rate of interest throughout all time markets in the economy. (p. 372)
+	- Viz., does time inconsistency exist because of the government intervention? #revisit 
+- Capital goods are vital and of crucial importance in production, but their production is, in the long run, imputable to land, labor, and time factors—the capitalists’ function is thus a *time* function. (pp. 373-374)
+- The interest income is *not* derived from the concrete, heterogeneous capital *goods*, but from the generalized investment of time. (p. 374)
+	- Again, capital goods per se are not productive.
+### 2. 
 ## Chapter 7: Production—General Pricing of the Factors
-## Chapter 8: Production: Entrepreneurship and Change
+## Chapter 8: Production—Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
