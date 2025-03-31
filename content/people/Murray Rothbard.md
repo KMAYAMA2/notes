@@ -846,6 +846,24 @@ Revisit the concept of *net rent* (e.g., p. 498) #revisit
 - The market is no respecter of past laurels, however large. Capital does not “beget” profit. Only wise entrepreneurial decisions do that. (p. 516)
 ### 2. The Effect of Net Investment
 See 1-9 #revisit 
+- When will there be *aggregate* profits or losses in the economy? (p. 517)
+- What happens if, in a certain period, there are now net savings as a result of a lowering of time-preference schedules? (p. 518)
+- Simple investigation will reveal that the only way that so much investment can be shifted from the lower to the higher stages, while preserving uniform (lowered) interest differentials (cumulative price spreads) at each stage, is *to increase the number of productive stages in the economy*, i.e., to lengthen the structure of production. (p. 519)
+- Lowered time preferences mean an increased proportion of savings-investment to consumption and lead to smaller price spreads and an equivalent lowering of the rate of interest. (p. 520)
+	- See Figure 60
+- The change in the rate of interest lessens the spreads of cumulative prices, so that aggregate consumption is lower, the immediate next higher stages are less and less lower, until the lines cross, and the prices in the higher stages are higher than before. It is as if the impact of lower consumer demand tends to die out in the higher stages and is more and more counteracted by the increase and shift in investment funds. (pp. 521-522)
+	- See Figure 61
+- It is the land and labor elements that constitute the fundamental resources being shifted or remaining in production. **The shift ceases when the price of the factor is again uniform throughout**. (p. 523)
+	- The more supply of a factor there is, the less value will be imputed to that factor due to the laws of diminishing MVP (which reflects both the diminishing physical productivity of the factor *MPP* and the diminishing marginal utility of the final goods it helps produce)—this is why you don’t want to be the best but [[5-1b1b2b Don't try to be the best. Be the only. |the only]]. #develop 
+		- This is the true sense of MVP = MPP x Price.
+			- Since MPP will always diminish but never enters the negative territory, the quantity of the final product will increase, and that implies the price decrease via the laws of diminishing marginal utility. 
+			- Viz., DMU plays a foundational causal role in the relationship between MPP and Price.
+- The one certain prospect in a *progressing economy* (an economy with *increasing* gross investment) is that total net income for factors *and* interest will fall. (p. 524)
+	- Simply because the consumption falls.
+- The prices of these factors, as well as the interest rate, will “in general” also decline. (pp. 524-525)
+	- Because in principle it is possible for interest to fall significantly resulting the net income for factors to increase.
+- What interests us, however, is not the course of *money* incomes and prices of factors, but of *real* incomes and prices, i.e., the “goods-income” accruing to factors. (p. 525)
+	- Instead of money-income.
 - 
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
 
