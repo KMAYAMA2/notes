@@ -704,7 +704,19 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 - Some theorists lapse into the sheer mysticism of considering the “corporation”—a conceptual name which we give to an institution owned by real individuals—as “really” existing and acting by itself. (p. 435)
 	- E.g., 法人論 #revisit 
 ### 9. Joint-Stock Companies and the Producers’ Loan Market
- - 
+ - In essence, the creditor on the prospective loan market is no different from the man who has invested in stock. (p. 436)
+ - The interest rate is determined by the various time-preference schedules, and the final rate is set by the saving schedules, on the one hand, and by the demand-for-present-goods schedules, on the other. (p. 437)
+	 - You must evoke others—other configurations (i.e., contingencies)—to explain interest rate. #develop 
+ - *The difference between investing in stock and lending money to firms is mainly a technical one*. (p. 437)
+ - The interest return on investment, as set by total savings and total demands by owners of factors, *completely determines the rate of interest on the producers’ loan market* as well as the rate of earning on stock. (p. 437)
+ - The creditors *get first claim* on the assets of a corporation, and they get paid before the stockholders. They are therefore definitely owners of these assets. (p. 439)
+ - *Investment trust* sells its own stock to individuals and then uses this capital to buy stock of other companies. (p. 440)
+	 - E.g., MMA, and MMF. #develop
+- Each individual attempts to maximize his *psychic* income, and this will translate itself into maximizing his *monetary* income only if other psychic ends are neutral. (p. 441)
+- The disfavored armament industry example:
+	- The burden of the lower prices at each stage of production falls on the *purely specific* factors in the industry, those which *must* be devoted to this industry if they are to be in the production system at all. (p. 442)
+	- It is therefore likely to be specific *land* factors that bear the brunt of the lower return. (p. 442)
+- The rates of interest will differ in accordance with a “psychic” component, either positive or negative, depending on whether there is an acute dislike or liking among investors for a particular production process. (p. 443)
 ### 10. Forces Affecting Time Preferences
 - Praxeological analysis can supply some truths about time preferences, using *ceteris paribus* assumptions. (pp. 443-444)
 	- Thanks to the multiverse.
@@ -713,14 +725,128 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 - If people all became immortal and healthy as a result of the discovery of some new drug, time preferences would tend to be very much lower, there would be a great increase in investment, and the pure rate of interest would fall sharply. (pp. 444-445)
 	- Related: [[Economics of God]]
 ### 11. The Time Structure of Interest Rates
-- 
+Arbitragers will equalize the rate of interest throughout the time structure (e.g., across *short-term* and *long-term* bonds)
+- Just as speculative errors in regard to commodity prices cause losses and impel further change to the “real” underlying price, so speculative errors will be self-correcting here too and lead the rate of interest to the height determined by underlying time preferences. (pp. 448-449)
+- The stock market equates the rate of interest on all investments, obliterating the differences in time structure so thoroughly that it becomes difficult for many writers to grasp the very concept of period of production. (p. 449)
+	- Related: [[5-2b5 Theories precede data]]
 ### Appendix: Schumpeter and the Zero Rate of Interest
 - If the rate of interest paid were zero, complete capital consumption would ensue. (p. 452)
 - The authors’ “proof” simply consists of ignoring the powerful, universal fact of time preference. (p. 452)
 ## Chapter 7: Production—General Pricing of the Factors
+### 1. Imputation of the Discounted Marginal Value Product
+- The mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning. (p. 508)
+- According to the law of returns, there is an optimum of proportions of factors, given other factors, in the production of any given product. We shall see that our analysis of factor pricing is based only on this praxeological law and not on more restrictive technological assumptions. (pp. 455-456)
+	- See 1-6
+- The key question is *specificity* of factors. (p. 456)
+- The *marginal value product* is the monetary revenue that may be attributed, or “imputed,” to one service unit of the factor. In the ERE every isolable factor will earn its DMVP (discounted marginal value product), and this will be its price. (pp. 456-457)
+	- E.g., the capitalist sees that a labor will produce 20 gold ounces worth in a year; assuming 5% interest rate, he will buy the factor at up to 19 ounces; if the factor is offered cheaper than 19—i.e., the factor’s DMVP—then other capitalists will bid up the factor (and vice versa).
+- But by what process does the market isolate and determine the share (the MVP of a certain unit of a factor) of income yielded from production? (p. 458)
+	- E.g., how is laborers’ income decided?
+- *As new supply is added, the marginal value product of a unit declines*. (p. 461)
+- We must recall that there takes place the inexorable tendency in the market for the *price of all units of any good to be uniform throughout its market*—since factor units by definition are **interchangeable**, the value of one unit will be equal to the value of every other unit at any one time. (p. 462)
+	- Interchangeable, fungible, interoperable. #develop 
+- Effectively, all factors will shift until the prices that they can attain will be uniform throughout the market for their services. (p. 462)
+- The tendency will always be, then (and this will always obtain in the ERE), *for the DMVP of any factor to be equal in each line of production*. (p. 463)
+	- The tendency is achieved because increased purchase of a factor even within each line will lower the MVP in that line. 
+		- See 7-2-b.
+- *The impact of a change in consumer demand on a specific factor will be far greater, in either direction, than it will be on the price of employment of a nonspecific factor*. (p. 463)
+- It should be evident that **the array of MVPs as a whole** is the determining factor, and the lowest-ranking process in terms of MVP will, through the medium of factor prices, transmit its message, so to speak, to the various firms, each of which will use the factor to such an extent that its DMVP will be brought into alignment with its price. It is the *general* DMVP schedule that determines the price of the supply of the factor, and then the *particular* DMVP schedules within each production process are brought into alignment so that the DMVPs of the factor equal its price. (p. 464)
+- The nonspecific factor’s price will be set equal to its DMVP as determined by its general DMVP schedule: **the full possible array of DMVPs**, given various units of supply of the factor in the economy. (p. 464)
+	- Viz., the price exists because of the fungibility achieved due to the laws of physics which allows information via abstraction. #develop 
+	- Viz., the laws of physics allow and imply the interoperability laws, which in turn allow and imply the formation of price. #develop 
+### 2. Determination of the Discounted Marginal Value Product
+#### A. Discounting
+- The higher the rate of discount (as a result of rises in time-preference schedules), the lower will tend to be the DMVP and, therefore, the lower the price of the factor. (p. 466)
+#### B. The Marginal Physical Product
+- *The marginal value product of a factor service unit is equal to its marginal physical product times the price of that product*. (p. 467)
+- There can be no general schedule for the MPP as there is for the MVP, for the simple reason that *physical* units of various goods are not comparable. (p. 467)
+- *The MPP is the amount of physical product that will be produced with the addition of one unit of a factor, other factors being given*. (p. 468)
+- *The APP is the ratio of the total product to the total quantity of the variable factor, other factors being given*. (p. 468)
+- *No factor will be employed in the region where the MPP is negative*. (p. 469)
+- *If APP is increasing, then MPP is greater than the APP*, and vice versa. *When APP is at its maximum, MPP must be neither lower nor higher than, but equal to, APP*. (p. 472)
+	- See Figure 59
+- If the producer remains in the region where the APP is increasing, he is in an area of *negative MPP of the other factors*. *A region of increasing APP for one factor* signifies a region of *negative MPP for other factors*. (p. 474)
+- The variable factor will be set so that it has zero MPP *only if it is a free good*. Conversely, the APP is at its maximum for the variable factor, only when the *other* factors are free goods and therefore have zero MPP at this point. However, there can be no production with only one factor. (p. 474)
+	- See 1-3
+- A factor will always be employed in a production process in such a way that *it is in a region of declining APP and declining but positive MPP*. Every factor will be employed in a region of diminishing MPP and diminishing APP *so that additional units of the factor employed in the process will lower the MPP, and decreased units will raise it*. (pp. 474-475)
+	- This explains why increased purchase of a factor even within each line will lower the MVP in that line. (e.g., 7-1)
+#### C. Marginal Value Product #revisit 
+- What will be the shape of the MVP schedule? (p. 475)
+- The MVP curve of the factor will always be falling, and falling at a *more rapid* rate than the MPP curve. (p. 475)
+	- Because the greater the stock the cheaper the price, and because MVP = MPP x Price. #revisit 
+		- The caveat is discussed in 7-A. #revisit 
+- The producers will employ the factor in such a way *that its DMVP will be equalized **among all the uses***. (p. 475)
+	- Viz., if a certain line of production has higher MPP for a factor, the producers will employ more of that factor in that line of production, until its MPP is lowered and equalized with MPP in other lines of production.
+	- Again, the economist must evoke all the producers, instead of one particular entrepreneur.
+- By looking at a factor in all of its interrelations, *we have been able to explain the pricing of its unit service without previously assuming the existence of the price itself*. (p. 476)
+	- Rothbard is providing a time-structured causal explanation:
+		- Consumers’ preferences determine the value of consumer goods.
+		- This value is imputed backward to the higher-order capital goods (factors of production).
+		- MPP is a technical relation (how much output a unit of factor adds).
+		- Multiply that MPP by the subjectively determined value of the final good (not yet market price) to get the MVP.
+		- The price of the factor, then, is determined by the MVP discounted by the interest rate, since production takes time.
+	- Viz., Rothbard isn't assuming MVP depends on an already-existing market price—he’s saying the MVP arises from subjective valuations + MPP + time:
+		- Because factor prices are imputed when the consumers' goods are sold (or via the capitalist who provides the discounted amount of present money which is the equivalent of the consumers' goods discounted by the time element—the interest rate), instead of factor prices influencing the price of consumers' goods (the circular reasoning employed by the neo-classics). His analysis of production processes without the capitalist clarifies the point.
+			- MPP = physical contribution (independent of prices)
+			- Subjective valuation of output = value
+			- MVP = MPP × value of output
+			- Factor price = MVP discounted by time preference
+		- No circularity involved, since factor prices are not assumed up front.
+- The fact that most factors (and all labor factors) are nonspecific enables the market to isolate value productivity and to tend to pay each factor in accordance with this marginal product. On the free market, the price of each factor is not determined by “arbitrary” bargaining, but tends to be set strictly in accordance with its DMVP. (p. 477)
+- In the free-market process, there is no separation between production and “distribution.” There is no separate “distribution”; there is only production and its corollary, exchange. (p. 477)
+	- Because the production factors are valued when it’s distributed, as it were. #revisit 
+### 3. The Source of Factor Incomes
+- The time-honored controversy in economics: Which is the source of wages—capital or consumption? (p. 478)
+- We must conclude that in the dispute between the classical theory that wages are paid out of capital and the theory of Henry George, J.B. Clark, and others that wages are paid out of the annual product consumed, the former theory is correct in the overwhelming majority of cases, and that this majority becomes more preponderant the greater the stock of capital in the society. (p. 479)
+### 4. Land and Capital Goods
+- With depletable resources left aside, “permanent” becomes identical with “nonreproducible.” (p. 508)
+- The “permanence” with which we are dealing refers, to the *physical* permanence of the goods, and *not* to the permanence of their value. *The latter depends on the shifting desires of consumers and could never be called permanent*. (p. 485)
+	- E.g., [[Eric Voskuil]]’s [Scarcity Fallacy]
+- One of land’s most fundamentally indestructible features: *its physical space*—its part of the surface of the earth. This eternally fixed, permanent, *positional* aspect of geographic land is called the *site* aspect of the land, or as Mises aptly puts it, “the land as standing room.” Since it is permanent and nonreproducible, it very clearly comes under the category of economic land. (pp. 486-487)
+	- Viz., a spacetime—a universe—in the multiverse. #revisit
+- “Basic land” (or “ground land”) in this treatise refers to the *soil without maintenance*, in the case of agriculture, or the *pure site without depreciating superstructure*, in the case of urban land. (p. 487)
+	- What about cyberspace? #revisit 
+		- To the extent that its infrastructure depends on physical facilities (and this must be so, because all computations are physical processes), the analysis here should also apply to cyberspace.
+### 5. Capitalization and Rent
+- “Rent”: *the unit price of the services of any good*. (p. 488)
+- Rent is the same as *hire*. (p. 488)
+- *The rents are the fundamental prices*—men value goods in *units* and not as wholes; the *unit price* is the fundamental price on the market. (p. 489)
+- The price of the “whole good”—*the capital value of the good*—is equal to the sum of the expected future rents discounted by the *rate of interest*. The capital value, or price of the good as a whole, then, is completely dependent on the rental prices of the good, its physical durability, and the rate of interest. (p. 489)
+- Many writers have fallen into the trap of assuming that they can, in a similar way, add up the entire capital value of the nation or world and arrive at a meaningful figure. Estimates of National Capital or World Capital, however, are completely meaningless. The world, or country, cannot sell all its capital on the market. Therefore, such statistical exercises are pointless. They are without possible reference to the very goal of capitalization: correct estimation of potential market price. (p. 491)
+- Given the *MVPs*, *durability*, and the *rate of interest*, all the prices on the capital market—the market for exchange of ownership (total or partial) of durable producers’ goods—are determined, and these will be the prices in the ERE. (p. 492)
+- A major characteristic of land as compared to capital goods is that its series of future rents is generally *infinite*, since, whether as basic soil or site, it is physically indestructible. (p. 493)
+- The fact that lands *do* have prices is an indication that there is always a time preference and that future rents are discounted to reduce to a present value. (p. 493)
+	- Viz., PV is finite because the series converges to a finite sum, given positive interest rate.
+		- E.g., if r=10%, and annual-perpetual-rent=10, then PV=100.
+- *No one* receives pure rent except laborers in the form of wages, that the *only* incomes in the productive ERE economy are *wages* (the term for the prices and incomes of labor factors) and *interest*. (p. 495)
+	- Because land rent is treated as part of capital and absorbed into interest in the ERE.
+	- Pure rent = return to a factor that is _not_ a result of human investment (i.e., nature-given land)
+	- In the ERE, Incomes = Wages + Interest
+- But there is still a crucial distinction between land and capital goods. For we see that a fundamental, irreducible element is the *capital value of land*. The capital value of capital goods still reduces to wages and the capital value of land. (p. 495)
+	- Because land is indestructible and given in the economy—it retains its value ***across time***. #develop 
+- In a *changing* economy, there is another source of income: *increases in the capital value of ground land*. (p. 495)
+	- Incomes = Wages + Interest + Increases in the capital value of land. 
+		- Because, again, all capital goods ultimately reduces to labor and land. #revisit 
+### 6. The Depletion of Natural Resources
+What is the purpose of this section? #revisit 
+Revisit the concept of *net rent* (e.g., p. 498) #revisit 
+- The natural resource that is being depleted (nonreplaceable but also nonpermanent) comes as a special division under the “land” category. (p. 496)
+	- Viz., capital goods are producible and nonpermanent—everything else is land (see Table 15). 
+- There is, however, one striking problem that pervades any analysis of the resource subject to depletion and that distinguishes it from all other types of goods. This is the fact that there can be *no* use for such a resource in an evenly rotating economy. (p. 498)
+- Forests would have to be classified as capital goods rather than depletable resources. (p. 499)
+### Appendix A: Marginal Physical and Marginal Value Product
+### Appendix B: Professor Rolph and the Discounted Marginal Productivity Theory
 ## Chapter 8: Production—Entrepreneurship and Change
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
+- The difference in the dynamic, real world is this. None of these future values or events is known; all must be *estimated*, guessed at, by the capitalists. (p. 510)
+	- Viz., conjectures. #develop
+- In the real world, profits and losses are almost always intertwined with interest returns. Our separation of them is conceptually valid and very important, but cannot be made easily and quantitatively in practice. (p. 514)
+- If we must condemn anyone, it should not be the *profit-making* entrepreneur, but the one that has suffered losses. For losses are a sign that he has added further to a maladjustment, through allocating factors where they were overvalued as compared to the consumers’ desire for their product. (p. 515)
+- The market is no respecter of past laurels, however large. Capital does not “beget” profit. Only wise entrepreneurial decisions do that. (p. 516)
+### 2. The Effect of Net Investment
+See 1-9 #revisit 
+- 
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
 
 ---
