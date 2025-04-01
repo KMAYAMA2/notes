@@ -938,7 +938,7 @@ The artificially induced seeming abundance of capital does not change people’s
 				- And information is implied in symbols. #revisit
 - The entrepreneur is not creating uncertainties for the fun of it. On the contrary, he tries to reduce them as much as possible. The uncertainties he confronts are already inherent in the market situation, indeed in the nature of human action; someone must deal with them, and he is the most skilled or willing candidate. (p. 556)
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
-		### 1. Introduction
+### 1. Introduction
 
 ---
 # Power and Market
