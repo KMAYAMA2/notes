@@ -844,7 +844,7 @@ Revisit the concept of *net rent* (e.g., p. 498) #revisit
 - In the real world, profits and losses are almost always intertwined with interest returns. Our separation of them is conceptually valid and very important, but cannot be made easily and quantitatively in practice. (p. 514)
 - If we must condemn anyone, it should not be the *profit-making* entrepreneur, but the one that has suffered losses. For losses are a sign that he has added further to a maladjustment, through allocating factors where they were overvalued as compared to the consumers’ desire for their product. (p. 515)
 - The market is no respecter of past laurels, however large. Capital does not “beget” profit. Only wise entrepreneurial decisions do that. (p. 516)
-### 2. The Effect of Net Investment
+### 2. The Effect of Net Investment #revisit 
 See 1-9 #revisit 
 - When will there be *aggregate* profits or losses in the economy? (p. 517)
 - What happens if, in a certain period, there are now net savings as a result of a lowering of time-preference schedules? (p. 518)
@@ -864,8 +864,81 @@ See 1-9 #revisit
 	- Because in principle it is possible for interest to fall significantly resulting the net income for factors to increase.
 - What interests us, however, is not the course of *money* incomes and prices of factors, but of *real* incomes and prices, i.e., the “goods-income” accruing to factors. (p. 525)
 	- Instead of money-income.
-- 
+- Price of factor service = DMVP = MPP x P / d
+- Real price of factor service = MPP / d
+- The progressing economy consists of two leading features: an increase in the MPP of original factors resulting from more productive and longer production processes, and a fall in the discount or interest rate concomitant with falling time preference and increasing gross investment. (p. 526)
+- Both elements—the increase in MPP and the fall in d—impel an increase in the real prices of factor services in a progressing economy. The conclusion is that in a progressing economy, i.e., in an economy with increases in gross savings and investment, money wages and ground rents may well fall, but *real* wages and rents will rise. (p. 526)
+	- When we lengthen the production process, we are introducing an entirely new process, which implies an increased MPP even for the same factor.
+	- Remember Robinson Crusoe and his cherry-picking (e.g., 1-9)—saving creates new technology, which in turn increases MPP.
+- It is this increasing “roundaboutness” that causes every increase in capital—even if unaccompanied by an advance in technological *knowledge*—to lead to higher physical productivity per original factor. (p. 527)
+	- Even without new technology, the extra stages increase efficiency.
+### 3. Capital Values and Aggregate Profits in a Changing Economy
+- The first impact of the new investment, then, is to cause *aggregate profits* to appear in the economy, concentrated in the new production processes in the higher stages. (p. 527)
+- There is practically nothing unique about incomes from ground land and all net income in the productive system goes to wages, to interest, and to profit. (p. 530)
+	- Viz., a rise in the capital value to the *first* finder and user of the land is reducible to profits (because the aggregate gains in capital value are synonymous with aggregate profits) and interest (because pioneering is a business like any other).
+- As production and investment increase in the higher stages, and the effects of the new saving continue, the profits disappear and become imputed to increases in real wage rates and in real ground rents. (p. 530)
+- A *retrogressing economy*
+	- There would be higher prices for consumers’ goods and therefore a greater demand for factors in this and other lower stages. (p. 531)
+	- There would be general abandonment of the higher stages. (p. 531)
+	- Money wage rates and money rents may rise (although this possibly might not occur because of the higher interest rate), but the prices of consumers’ goods will rise further because of the reduced physical supply of goods. (pp. 531-532)
+- A *stationary economy*
+	- This is not the same construct as the ERE—in the stationary economy, uncertainty does not disappear and no unending constant round pervades all elements in the system. (p. 533)
+	- There is only *one* constancy: total capital invested. (p. 533)
+- Are “capital gains”—increases in capital value—*income*? (p. 533)
+	- If we fully realize that profits and capital gains, and losses and capital losses, are identical, the solution becomes clear. No one would exclude business profits from money income. The same should be true of capital gains. In the ERE, of course, there are neither capital gains nor capital losses. (p. 533-534)
+- *Capital consumption*
+	- Professor Frank H. Knight has been the leader of the school of thought that assumes capital to be automatically permanent. (p. 535)
+	- This is obviously incorrect. Services are yielded by things, at least in the cases relevant to our discussion, and they are produced through the using up of *things*, of capital goods. (p. 536)
+- Progress can occur, in fact, with falling prices of all products and factors. (p. 536)
+### 4. Capital Accumulation and the Length of the Structure of Production
+- Calling these methods “roundabout” is definitely paradoxical; for do we not know that men strive always to achieve their ends in the most direct and shortest manner possible? These longer processes *are the most direct* that must be used to attain the goal—not more roundabout. (pp. 537-538)
+- If there were no time preference, the most productive methods would be invested in *first*, regardless of time. The existence of time preference acts as a brake on the use of the more productive but longer processes. (p. 539)
+- The limits at any time on investment and productivity are a *scarcity of saved capital*, *not* the state of technological knowledge. In order for the new invention to be used, *more capital must be invested*. Technological inventions have received a far more important place than they deserve in economic theory. (pp. 540-542) #develop 
+- While knowledge is a limit, *capital* is a narrower limit; technology, while important, must always *work through* an investment of capital. (p. 542)
+- What is lacking is the supply of saved capital needed to put the advanced methods into effect. (p. 542)
+### 5. The Adoption of a New Technique
+- What determines the extent to which these firms adopt new and more productive techniques? (p. 544)
+- The fact that investment in a new technique or location is unprofitable means that the use of capital in the new process at the cost of scrapping the old equipment is a waste from the point of view of satisfying consumer wants. (p. 545)
+- It is determined by the values and desires of consumers, who decide on the price and profitability of the various goods and on the values of the necessary nonspecific factors used to produce these goods. (p. 545)
+#### The Entrepreneur and Innovation
+- Under the stimulus of the late Professor Schumpeter, it has been thought that the essence of entrepreneurship is *innovation*—however, most entrepreneurs are not innovators, but are in the process of investing capital within a large framework of available technological opportunities. Supply of product is limited by supply of capital goods rather than by available technological know-how. (pp. 546-547)
+- If he succeeds in his estimate and reaps a profit, then he and others will continue in this line of activity until the income discrepancy is eliminated and there is no “pure” profit or loss in this area. (p. 547)
+	- Because knowledge is not only irreversible but also accessible to everyone. #develop 
+		- Related: [[5-3c Knowledge is irreversible, and can only go from private to public]]
+### 6. The Beneficiaries of Saving-Investment
+- The laborers are “external beneficiaries” of increased investment, i.e., they are the beneficiaries of the actions of others without paying for these benefits. (p. 548)
+- The main benefits gained by the investors are short-run entrepreneurial profits. (p. 548)
+- The short-run benefits earned by the workers and landowners are *immediate* and more certain. The entrepreneur-capitalists take the risks of speculating on the uncertain market; no one can guarantee profits to them. (p. 548)
+### 7. The Progressing Economy and the Pure Rate of Interest
+The artificially induced seeming abundance of capital does not change people’s time preference per se (viz., QE lowers interest rates without lowering time preference)—the entrepreneurs would then make plans based on fictitious savings (i.e., no real increase of capital—because money does its job regardless of its quantity in the economy) while consumer time preferences haven’t changed, leading to malinvestment and capital consumption (the capital structure cannot be sustained because the real capital didn’t increase). #develop 
+- *A lower pure rate of interest increases the quantity and value of capital goods available*. (pp. 549-550)
+	- Nothing *necessarily* changes time-preference.
+	- The more money you have, the more of it will be invested due to DMU—but that doesn’t guarantee a shift in time
+- The causative principle is just the other way round from what is commonly believed. The pure rate of interest, then, can change at any time and is determined by time preferences. If it is lowered, the stock of invested capital will increase; if it is raised, the stock of invested capital will fall. (p. 550)
+### 8. The Entrepreneurial Component in the Market Interest Rate
+- On the market, a whole structure of interest rates will be superimposed on the pure rate, varying positively in accordance with the expected risks of each venture. (p. 551)
+- It is because data are always changing and thus setting up new uncertainties in place of the old that we do not have the uniformity of the ERE. (p. 552)
+### 9. Risk, Uncertainty, and Insurance
+- “Risk” occurs when an event is a member of a class of a large number of homogeneous events and there is fairly certain knowledge of the frequency of occurrence of this class of events. (p. 552)
+- The principle of insurance is that firms or individuals are subject to risks which, in the aggregate, form a class of homogeneous cases. (p. 553)
+	- The key is pseudo-fungibility via abstraction. #revisit 
+		- “Case probability” exists because of the multiverse—viz., the subjective randomness as discussed by [[David Deutsch]]. #revisit 
+- “Class probability”
+	- Class probability means: We know or assume to know, with regard to the problem concerned, everything about the behavior of a whole class of events or phenomena; but about the actual singular events or phenomena we know nothing but that they are elements of this class. (pp. 553-554)
+		- E.g., objective probability across the multiverse. #revisit 
+			- Class probability attempts to emulate this by abstraction in a universe, as it were. #revisit 
+	- In the free market each homogeneous group will tend to pay premium rates in proportion to its actuarial risk. (p. 554)
+		- Inverted, it means that the rate would be homogeneous to the extent that the group can be made homogenous. #revisit 
+- “Case probability”
+	- Most uncertainties are uninsurable because they are unique, single cases, and not members of a class. They are unique cases facing each individual or business; they may bear resemblances to other cases, but are not homogeneous with them. (p. 554)
+		- **Because fungibility (not pseudo-fungibility) is achieved only across the multiverse—and never within a universe**. #develop 
+	- Case probability means: We know, with regard to a particular event, some of the factors which determine its outcome; but there are other determining factors about which we know nothing. (p. 554)
+		- I.e., the contingency in the sense of *it could've been otherwise* (because the multiverse implies symbols). #revisit 
+			- The multiverse implies fallibilism (because *it could’ve been otherwise*) via symbols (because knowledge is a special type of information). #revisit 
+				- And information is implied in symbols. #revisit
+- The entrepreneur is not creating uncertainties for the fun of it. On the contrary, he tries to reduce them as much as possible. The uncertainties he confronts are already inherent in the market situation, indeed in the nature of human action; someone must deal with them, and he is the most skilled or willing candidate. (p. 556)
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
+		### 1. Introduction
 
 ---
 # Power and Market
