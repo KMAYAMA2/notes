@@ -6,6 +6,7 @@ date: 2025-02-28
 ### 1. The Concept of Action
 - *Human action is defined simply as purposeful behavior.* (p. 1)
 - The purpose of a man’s act is his *end*; the desire to achieve this end is the man’s *motive* for instituting the action. (pp. 1-2)
+	- Because humans have problems—while other animals don’t. #develop 
 	- As [[David Deutsch |Deutsch]] would likely argue, it is [[10-2g3d Behaviors can be replicators even when its meanings are not (properly) understood, because we can guess the meaning of memes. For rational memes, knowledge is THE replicator. |memes]]—and in the case of rational memes, knowledge—that drive men.
 - The fact that men act by virtue of their being human is indisputable and incontrovertible. To assume the contrary would be an absurdity. (p. 2)
 	- Related: [[1-2g2b Humans are significant insofar as we can create knowledge]].
@@ -939,6 +940,157 @@ The artificially induced seeming abundance of capital does not change people’s
 - The entrepreneur is not creating uncertainties for the fun of it. On the contrary, he tries to reduce them as much as possible. The uncertainties he confronts are already inherent in the market situation, indeed in the nature of human action; someone must deal with them, and he is the most skilled or willing candidate. (p. 556)
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
 ### 1. Introduction
+- We now return to analysis of the particular ultimate factors—labor and land—and to a more detailed discussion of entrepreneurial incomes. (p. 557)
+### 2. Land, Labor, and Rent
+#### A. Rent
+- Since all goods have unit services, *all* goods will earn rents, whether they be consumers’ goods or any type of producers’ goods. (p. 558)
+- *Net rents* are earned only by labor and land factors, and not by capital goods. (p. 558)
+	- Because Net Rents = Gross Rents Earned - Gross Rents Paid to Owners of Factors
+	- In the ERE, capitalists only earn time interest, and zero net rent.
+- In the real world, capital goods’ capital value changes, but this does not mean that they earn net rents. Rather, these changes are *profits* or *losses* accruing to their owners as entrepreneurs. (p. 558)
+- A *wage is a special case of rent*. (p. 559)
+- The wage, in fact, is the only source of rent that *cannot* be capitalized on the free market, since every man is necessarily a self-owner with an inalienable will. (p. 559)
+- One distinction between wages and land rents, then, is that the latter are capitalized and transformed into interest return, while the former are not. (p. 559)
+- At any time, for any given conditions of capital and production processes, there will be an “optimum” population level that will maximize the total output of consumers’ goods per head in the economy. Whether a given increase in population at any time will lead to an increase or decrease in real output per head is an *empirical* question, depending on the concrete data. (pp. 561-562) #revisit 
+- It might be wondered how the statement that increasing population might increase MPP and MVPs can be reconciled with the demonstration above that factors will always be put to work in areas of *diminishing* physical returns. (p. 562)
+	- The same question I had in 8-2
+- If the *total* supply of a factor changes and it has an effect on the productivity of the labor factor, this is equivalent to a *shift* in the MPP curves (or schedules) rather than a movement *along the curves* such as we considered above. (p. 562)
+	- As I elaborated in 8-2: “When we lengthen the production process, we are introducing an entirely *new process*, which implies an increased MPP even for the same factor.”
+- Prices of consumers’ goods, through market processes, determine the prices of productive factors (ultimately land and labor factors), and the brunt of price changes is borne by *specific* factors in the various fields. (p. 564)
+#### B. The Nature of Labor
+- It is grossly unscientific to separate laborers into arbitrary categories and to refer to one group as “labor” and “workers,” while the other group receives various other names. (p. 565)
+	- Because praxeology is concerned with humans.
+- If everyone admits that the unionizing of vice presidents is absurd or evil, then perhaps the same adjective would have to apply to the unionization of *any* workers. (p. 566)
+#### C. Supply of Land
+- Three basic differences between the conditions of land and those of labor:
+	- (1). Labor cannot be capitalized
+	- (2). Land tends to be more specific
+	- (3). There will be reserve prices for labor against leisure
+- The fact that labor is scarcer and nonspecific means that there will always be *unused land*. Only the best and most productive land will be used, i.e., the land with the highest DMVPs. (p. 567)
+- Similarly, in the real world of uncertainty, where errors are made, there will also be unused *capital goods*, i.e., in places where malinvestments had been made which turned out to be unprofitable. (p. 567) #revisit 
+- *The supply curves* for land factors:
+	- If we take the *general* supply curve (the factor considered in relation to all of its uses), then it is clear that there is no reservation demand curve for land; at least this will be true in the ERE. (p. 567)
+		- I.e., the general supply curve of a land factor is vertical
+	- In its *particular* uses, the landowner will have a reservation demand, since he may obtain a higher return by shifting to another use. (p. 568) 
+- The *value scales of the consumers* determine, given the stocks of original factors, all the various results of the market economy that need to be explained: the prices of the original factors, the allocation of original factors, the incomes to original factors, the rate of time preferences and interest, the length of the production processes in use, and the amounts and types of the final products. In our changing real world, this beautiful and orderly structure of the free market economy tends to be attained through the drive of the entrepreneurs toward making profit and avoiding loss. (p. 569)
+- The speculative site-owner is performing a great service to consumers and to the market in not committing the land to a poorer productive use. (p. 571)
+#### D. Supply of Labor
+- Since labor is the relatively nonspecific factor, the particular supply curve of a labor factor is likely to be flatter than the supply curve of the (usually more specific) land factor. (p. 572)
+	- Viz., labor is more price sensitive.
+- “Backward supply curve of labor”
+	- Rising wages may draw nonworking people into the labor force and induce people to work overtime or to obtain an extra part-time job. (p. 574)
+	- On the other hand, it may lead to increased leisure and a falling off in total hours worked. (p. 574)
+- “The *psychic* income”
+	- There will be so much labor competing in the generally liked jobs that they will pay *lower* wage rates. (p. 576)
+	- Our amended conclusion is that not *money* wage rates, but *psychic* wage rates, will be equalized throughout—psychic wage rates being equal to money wage rates plus or minus a psychic benefit or psychic disutility component. (p. 576)
+- Many writers have based their analyses on the assumption of the homogeneity of all workers. Consequently, when they find that generally well-liked jobs, such as television-directing, pay more than such disliked jobs as ditch-digging, they tend to assume that there is injustice and chicanery afoot. (pp. 577-578)
+- A recognition of differences in labor productivity eliminates this bugbear. (p. 578)
+	- E.g., since TV-directing takes more skill than ditch-digging, or rather skill that fewer people have, the wage rates in the two occupations cannot be equalized. (p. 578)
+#### E. Productivity and Marginal Productivity
+- An advancing capital structure increases the *marginal* productivity of labor, because the labor supply has increased less than the supply of capital goods. (p. 578)
+	- The existence of an *optimum* population level is also implied in here (see 9-2-A)
+- The causal agents of increased wage rates in an expanding economy, then, are *not* primarily the workers themselves, but the capitalist-entrepreneurs who have invested in capital goods. The workers are provided with more and better tools, and so their labor becomes relatively scarcer as compared to the other factors. (p. 578)
+	- As already elaborated in 8-6
+- It is impossible to impute absolute “productivity” to any productive factor or class of factors. We can discuss productivity only in *marginal terms*, in terms of the productive contribution of a single unit of a factor, given the existence of other factors. This is precisely what entrepreneurs do on the market, adding and subtracting units of factors in an attempt to achieve the most profitable course of action. (p. 579)
+- A *connexity* between all the occupations on the labor market:
+	- When a certain branch of industry expands its capital and production, an increase in DMVP, and therefore in wage rates, is not confined to that particular branch. Because of the connexity of the supply of labor, labor tends to leave other industries and enter the new ones, until finally all the wage rates throughout the labor market have risen, while maintaining the same differentials as before. (p. 579)
+	- Suppose, for example, that there is an expansion of capital in the steel industry. A rise in capital investment in steel will increase the wages of workers in domestic service. The latter increase is clearly not caused by some sort of increase in the “productivity” or in the quality of the output of the domestic servants. Rather, their *marginal* value productivity has increased as a result of the greater scarcity of labor in the service trades (because some laborers left the service industry and entered the steel industry). (pp. 579-580)
+#### F. A Note on Overt and Total Wage Rates
+- The institutional manner of paying wage rates is a matter of complete indifference to our analysis. (p. 581)
+#### G. The “Problem” of Unemployment
+- Economic theory does not “assume” full employment. Economics, in fact, “assumes” *nothing*. (p. 582)
+- The whole discussion of alleged “assumptions” reflects the bias of the epistemology of physics, where “assumptions” are made without originally knowing their validity and are eventually tested to see whether or not their consequents are correct. (p. 582)
+	- Physics starts in the middle (see 1-A) #revisit 
+- *Labor factors will always be fully employed on the free market to the extent that laborers are so willing*. (p. 582)
+- What the worker wants is not just “employment” (which he could always get in the last resort by *paying* for it) but *employment at a wage*. (p. 583)
+- There can never be an employment problem on the free market—the problem is employment at an above-subsistence wage. (p. 584)
+- The able-bodied in a developed economy can always find work, and work that will pay an over-subsistence wage. This is so because labor is scarcer than land, and enough capital has been invested to raise the marginal value product of laborers sufficiently to pay such a wage. (p. 585) #revisit 
+	- Viz., the economy would be able to absorb population increase as long as there is concurrent increase in capital. #revisit 
+- On the ever-recurring doctrine of “technological unemployment”:
+	- The process of technological innovation shifts workers from the inelastic-demand to the elastic-demand industries. One of the major sources of new employment demand is in the industry making the new machines. (p. 588)
+		- Because the rightward shift of the supply schedule means revenue increase for that industry—if the demand schedule is elastic (see 4-6).
+		- Viz., to the extent that the demand for the related good is elastic, the prices of all other substitutable goods will also decrease, for the benefit of the consumers—and everyone is a consumer. #revisit
+		- Again, what benefits the consumer is not the technological improvement per se, but the increase in gross savings (assuming that most goods have elastic demand given the substitution principle—e.g., see [[Eric Voskuil]]’s [Substitution Principle]). #develop 
+### 3. Entrepreneurship and Income
+#### A. Costs to the Firm
+- As Böhm-Bawerk and the Austrians pointed out, *costs conform to prices*, and not *vice versa*. (p. 588)
+- *Where all factors and the product are completely divisible, a proportionate increase in the quantities of all the factors must lead to an equally proportionate increase in physical output*. (pp. 592-593)
+- As any firm’s scale of output increases, it necessarily bids factors of production away from other firms, raising their prices in the process. And this is particularly true for labor and land factors, which cannot be increased in supply via new production. The increase in factor prices as output increases, combined with constant physical costs, raises the average money cost per unit output. We may therefore conclude that *if factors and product were perfectly divisible, average cost would always be increasing*. (p. 593)
+- Other things being equal—average production costs increase with the increase in the quantity produced. (p. 596)
+- What any given firm’s size and output will be is therefore subject to a host of conflicting determinants—at what point any firm will settle depends on the concrete data of the actual case and cannot be decided by economic analysis. This is the task of the businessman and not of the economist. (p. 598)
+- There is no infinite tendency for ever-larger size—the general rule of operating in a zone of diminishing marginal productivity for each factor, as well as the tendency for product prices to decline and factor prices to increase as output increases, establishes limits on the size of each firm. (p. 599)
+	- Also see 9-3-E
+#### B. Business Income
+- The income accruing to a business owner, in a changing economy, will be a composite of four elements. (p. 604)
+	- (a). Interest on capital invested (uniform in ERE)
+	- (b). Wages of management, when owner is self-employed (se according to DMVP)
+	- (c). Rents of ownership-decision (set according to DMVP)
+	- (d). Entrepreneurial profit or loss
+		- Only (d) disappears in ERE
+- One important distinction between capitalist-entrepreneurs and laborer-entrepreneurs is that only the former may suffer *negative incomes* in production. (p. 604)
+#### C. Personal Consumer Service
+- *Direct labor*
+	- Doctors, lawyers, concert artists, servants—they earn a peculiar type of income: a business return consisting almost exclusively of labor income. (p. 605)
+	- The market-supply curves for most consumers’ goods are vertical straight lines, since the sale of the product, *once produced*, is costless to the entrepreneur. He has no alternative use for it. (pp. 605-606)
+	- The case of *personal service*, however, is different. In the first place, leisure is a definite alternative to work. In the second place, as a result of the connexity of the labor market, the worker can shift to a higher-paying occupation further up on the structure of production if his income in this occupation is unsatisfactory. As a result, for this type of consumers’ good, the supply curve is likely to be a rather flat, forward-sloping one. (p. 606)
+#### D. Market Calculation and Implicit Earnings
+- In practice, the different sources of income can be separated only by referring to these incomes *as determined by prices on the market*. (p. 606)
+- A very important aspect of such estimates of implicit incomes has been overlooked: *there can be no implicit estimates without an explicit market*. (p. 608)
+- To isolate them by calculation, *there must be in existence an external market to which the entrepreneur can refer*. (p. 608)
+	- *Could’ve been otherwise* is already realized to some extent, as it were. #develop 
+- Without an external market for wage rates, rents, and interest, there would be no rational way for entrepreneurs to allocate factors in accordance with the wishes of the consumers. There could be no efficiency in production because the requisite knowledge would be lacking. (p. 608)
+#### E. Vertical Integration and the Size of the Firm
+- A firm can accurately estimate the profit or loss it makes in a stage of its enterprise only by finding out the *implicit* price of its internal product, and it can do this only if an *external* market price for that product is established elsewhere. (p. 611)
+	- Viz., you need redundancy, as it were. #develop 
+- If there were no market for a product, and all of its exchanges were internal, there would be no way for a firm or for anyone else to determine a price for the good—not being able to calculate a price, the firm could not rationally allocate factors and resources from one stage to another. (p. 613)
+- We must conclude that complete vertical integration for a capital-good product can never be established on the free market. (p. 613)
+- This economic law *sets a definite maximum to the relative size of any particular firm on the free market*. (p. 613)
+- There can never be One Big Cartel over the whole economy or mergers until One Big Firm owns all the productive assets in the economy. (p. 613)
+	- Again, redundancy is required. #develop 
+	- What does the analysis here imply for all-knowing in general? What does it mean to be all-knowing? What does the fact that nothing is all-knowing tell us about the nature of knowledge? #develop 
+		- I think the nature of price lies in its symbolicity. And anything that is all-knowing denies symbols. Knowledge consists of symbols as well. In short, all-knowing has no knowledge. #develop
+- Under *one* owner or *one* cartel for the whole productive system, there would be no possible areas of calculation at all, and therefore complete economic chaos would prevail. (p. 614)
+	- This is what Mises meant when he posed socialism as calculation problem. The free society may be said to mandate their own comprehensibility with money, and also by allowing every contingencies to exist (analogous to the laws of physics and the Turing principle). #develop 
+- Ever more important for the maintenance of an advanced economy is the preservation of *markets* for all the capital and other producers’ goods. (p. 614)
+- The reason for the impossibility of calculation under socialism is that *one agent* owns or directs the use of all the resources in the economy—there is no possibility of calculation anywhere in the production structure, since production processes would be only internal and without markets. (p. 615)
+	- Market is there. Price is there. You have to adjust to it. Just like how you adjust to your culture. Initially via imitation and assuming (icon). #develop
+- *There can be no calculation problem in the ERE because no calculation there is necessary*. There is no need to calculate profits and losses when all future data are known from the beginning and where there are no profits and losses. In the ERE, the best allocation of resources proceeds automatically. The difficulty of calculation applies to the real world only. (p. 616) #revisit 
+### 4. The Economics of Location and Spatial Relations
+Jared Diamond was not completely wrong, and David Deutsch was not completely right. #develop 
+- It would not matter whether the trade was within or outside a nation—the laws of the free market that we have been enunciating apply to the whole extent of the market, i.e., to the “world” or the “civilized world.” (p. 617)
+- Since it is *psychic*, not money, wage rates that are being equalized, money wage rates will be equalized throughout the world *plus* or *minus* negative or positive psychic attachment components. (p. 618)
+- What determines how people and businesses will be distributed over the face of the earth? (p. 618)
+- “The fact that the production of raw materials and foodstuffs cannot be centralized and forces people to disperse over the various parts of the earth’s surface enjoins also upon the processing industries a certain degree of decentralization.” – Mises (p. 628)
+- We must say rather that there will be a tendency for equalization of money wage rates *plus* or *minus* the attachment component, and *plus* or *minus* the cost component, for every geographic area. (p. 619)
+- Other things being equal, then, the cost components tend to become relatively less important as the economy progresses. (p. 620)
+- A “good” must be considered as homogeneous in *use-value*, and not in physical substance. (p. 620)
+	- Viz., what it does over what it is (whatever the latter means). #develop 
+- A difference in position with respect to consumers makes a physically identical thing a different good. (p. 620)
+	- E.g., wheat in Kansas is a higher-stage capital good than wheat in New York (because transporting the wheat to New York is a stage in the process of production).
+- Firms will be economically located in relation to the consumer. (p. 622)
+	- E.g., as firms are more distantly located from the consumer, they will then not be able to remain in business unless their average costs at the mill are sufficiently lower than those of their competitors to compensate for the increased freight costs.
+	- Cyberspace must be supported by physical network infrastructure (e.g., data centers, servers, and under-the-sea cable wires), and to that extent the analysis here should be applicable even with the digital economy. #revisit
+		- See 7-4
+- A firm with a location closer to the consumer market therefore has a spatial advantage conferred by its location. Given the same costs in other fields as its competitors, it earns a profit from its superior location. The gains of location will be imputed to the site value of the ground land of the plant. (p. 622)
+### 5. A Note on the Fallacy of “Distribution”
+- “Distribution” theory is simply production theory—“distribution” is only the other side of the coin of production on the market. (p. 623)
+	- Similar to how supply is demand. #revisit 
+- The *initial distribution of income* (or rather of money assets) did not originate in thin air. It was the necessary consequence of a market allocation of prices and production. It was the consequence of serving the needs of previous consumers. It was not an arbitrarily given distribution, but one that itself emerged from satisfying consumer needs. It too was inextricably bound up with production. (p. 623)
+	- Rational economics is focused on with is, and not with should. #revisit 
+	- Put differently, rational economics is concerned with how *is* should be developed. #revisit 
+- After the initial period, the effect of unjust incomes becomes less and less important. For in order to keep and increase their ill-gotten gains, the former robbers, now that a free economy is established, have to invest and recoup their funds so as to serve consumers correctly. If they are not fit for this task, and their exploits in predation have certainly not trained them for it, then entrepreneurial losses will diminish their assets and shift them to more able producers. (p. 624)
+### 6. A Summary of the Market
+- The (monetary) value productivity of a course of action depends on the extent to which it serves consumer needs. (p. 625)
+- An increase in the labor supply may lower the DMVP of labor and hence wage rates, or raise them because of the further advantages of the division of labor and a more extended market. Which will occur depends on the optimum population level. (p. 626)
+- To expand production, the important consideration is not so much technological improvement as greater capital investment. At no time has invested capital exhausted the best technological opportunities available. Many firms still use old, unimproved processes and techniques simply because they do not have the capital to invest in new ones. (p. 626)
+- While the state of technology is ultimately a very important consideration, at no given time does it play a *direct* role, since the *narrower* limit on production is always the supply of capital. (p. 626)
+	- Because capital is by definition finite (otherwise it becomes a general condition for humans). #revisit 
+		- Knowledge, on the other hand, is just rare—but not necessarily finite. #revisit 
+			- Related: [[5-3c Knowledge is irreversible, and can only go from private to public]]
+- In a progressing economy, the real capital value of land will increase, although the value will fall in money terms. (p. 628)
+	- Because consumption decreases for the latter, but MPP / d increases for the former.
+- In a *stationary* economy, total production, the capital structure, real wages per capita, real capital values of land, and the rate of interest will remain the same, while the allocation of factors of production and the relative prices of various products will vary. (p. 628) #revisit 
+
 
 ---
 # Power and Market
