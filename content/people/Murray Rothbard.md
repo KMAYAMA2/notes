@@ -1090,7 +1090,45 @@ Jared Diamond was not completely wrong, and David Deutsch was not completely rig
 - In a progressing economy, the real capital value of land will increase, although the value will fall in money terms. (p. 628)
 	- Because consumption decreases for the latter, but MPP / d increases for the former.
 - In a *stationary* economy, total production, the capital structure, real wages per capita, real capital values of land, and the rate of interest will remain the same, while the allocation of factors of production and the relative prices of various products will vary. (p. 628) #revisit 
-
+## Chapter 10: Monopoly and Competition
+### 6. Multiform Prices and Monopoly
+Once we take into account transactions costs, it is possible for multiple prices to exist even for “the same” good. However, this is not an infringement on consumers’ sovereignty; some consumers would rather risk paying higher prices in exchange for not spending time researching all relevant sellers.
+### 7. Patents and Copyrights
+On a free market, there would be no analogue to the patent; someone who independently discovers a technological recipe would be free to begin using it immediately. However, there *would* be copyrights, in the sense that it would be illegal to fraudulently impersonate another individual when selling a good or service.
+## Chapter 11: Money and Its Purchasing Power
+### 5. The Demand for Money
+#### B. Speculative Demand
+#### D. Demand for Money Unlimited?
+Anyone who owns any nonmonetary asset demonstrates that he or she does *not* want “more money.”
+#### E. The PPM and the Rate of Interest
+#### F. Hoarding and the Keynesian System
+Only if we assume that workers do care about *money* (rather than real) wages could hoarding have such sinister effects.
+#### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest
+The nominal rate can never be *negative*, and so Fisher’s explanation can’t be the whole story in times of severe price deflation.
+- The purchasing power component, then, is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
+### 6. The Supply of Money
+#### B. Claims to Money: The Money Warehouse
+In a free market, FRB would be illegal because of its fraudulent nature.
+#### D. A Note on Some Criticisms of 100-Percent Reserve
+### 14. The Fallacy of Measuring and Stabilizing the PPM
+#### A. Measurement
+#### B. Stabilization
+### 15. Business Fluctuations
+### 16. Schumpeter’s Theory of Business Cycles
+Schumpeter doesn’t explain why there should be sudden *clusters* of innovation that trigger the boom-bust cycle.
+## Chapter 12: The Economics of Violent Intervention in the Market
+### 4. Utility *Ex Post*: Free Market and Government
+### 11. Binary Intervention: Inflation and Business Cycles
+#### A. 
+#### B. 
+#### C.
+#### D. 
+#### E.
+#### F.
+#### G.
+### 12. Conclusion: The Free Market and Coercion
+### Appendix A: Government Borrowing
+### Appendix B: 
 
 ---
 # Power and Market
