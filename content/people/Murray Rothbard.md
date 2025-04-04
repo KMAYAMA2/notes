@@ -1097,10 +1097,10 @@ Once we take into account transactions costs, it is possible for multiple prices
 On a free market, there would be no analogue to the patent; someone who independently discovers a technological recipe would be free to begin using it immediately. However, there *would* be copyrights, in the sense that it would be illegal to fraudulently impersonate another individual when selling a good or service.
 ## Chapter 11: Money and Its Purchasing Power
 ### 5. The Demand for Money
-#### B. Speculative Demand
 #### D. Demand for Money Unlimited?
 Anyone who owns any nonmonetary asset demonstrates that he or she does *not* want “more money.”
 #### E. The PPM and the Rate of Interest
+The PPM and the rate of interest are not inherently connected. For example, the demand for money could increase (raising the PPM), yet if time preferences remain the same, this will not affect the (real) rate of interest. Instead, each person could increase his cash balances by reducing expenditures on present *and* future goods in a proportion reflecting the original time preference.
 #### F. Hoarding and the Keynesian System
 Only if we assume that workers do care about *money* (rather than real) wages could hoarding have such sinister effects.
 #### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest
@@ -1108,27 +1108,24 @@ The nominal rate can never be *negative*, and so Fisher’s explanation can’t 
 - The purchasing power component, then, is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
 ### 6. The Supply of Money
 #### B. Claims to Money: The Money Warehouse
-In a free market, FRB would be illegal because of its fraudulent nature.
+Rothbard claims here that, in a free market, FRB would be illegal because of its fraudulent nature.
 #### D. A Note on Some Criticisms of 100-Percent Reserve
-### 14. The Fallacy of Measuring and Stabilizing the PPM
-#### A. Measurement
-#### B. Stabilization
-### 15. Business Fluctuations
 ### 16. Schumpeter’s Theory of Business Cycles
 Schumpeter doesn’t explain why there should be sudden *clusters* of innovation that trigger the boom-bust cycle.
 ## Chapter 12: The Economics of Violent Intervention in the Market
 ### 4. Utility *Ex Post*: Free Market and Government
+People always *expect* to benefit from voluntary exchanges, and in practice they usually *will* do so. In particular, inept businesses soon go bankrupt while entrepreneurs who make good forecasts earn profits. In contrast, in the government sector there are no mechanisms to minimize error. When a government policy fails in its stated objectives, the politicians do not necessarily suffer and the voters may not be sophisticated enough to perceive the true causes of the failure.
 ### 11. Binary Intervention: Inflation and Business Cycles
-#### A. 
-#### B. 
-#### C.
-#### D. 
-#### E.
-#### F.
-#### G.
+#### B. Credit Expansion and the Business Cycle
+In a credit expansion the government artificially lowers the interest rate, thereby spurring investment in higher stages of production. There is a temporary “boom” period of illusory prosperity. But unlike a genuine expansion spurred by actual saving, in the case of credit expansion the capital structure becomes unbalanced and eventually entrepreneurs realize that their plans cannot be fulfilled. The “bust” ensues when businesses discontinue the unprofitable lines and resources must be reallocated to their proper uses.
 ### 12. Conclusion: The Free Market and Coercion
-### Appendix A: Government Borrowing
-### Appendix B: 
+- Proudhon, indeed, wrote better than he knew when he called “Liberty, the Mother, not the Daughter, of Order.” (pp. 1024-1025)
+	- Liberty → Order
+- Coercion benefits one party only at the expense of others. (p. 1025) 
+- Coerced exchange is a system of exploitation of man by man, in contrast to the free market, which is a system of cooperative exchanges in the exploitation of *nature* alone. (p. 1025)
+- Coercion leads only to further problems: it is inefficient and chaotic, it cripples production, and it leads to cumulative and unforeseen difficulties. (p. 1025)
+- The hidden order, harmony, and efficiency of the voluntary free market, the hidden disorder, conflict, and gross inefficiency of coercion and intervention—these are the great truths that economic science, through deductive analysis from self-evident axioms, reveals to us. (p. 1025)
+	- Viz., seeing the unseen.
 
 ---
 # Power and Market
