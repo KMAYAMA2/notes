@@ -838,6 +838,7 @@ Revisit the concept of *net rent* (e.g., p. 498) #revisit
 ### Appendix A: Marginal Physical and Marginal Value Product
 ### Appendix B: Professor Rolph and the Discounted Marginal Productivity Theory
 ## Chapter 8: Production—Entrepreneurship and Change
+That more investment will result in the longer production processes (also discussed in 1-9). That you don’t want to be the best but the only. That real wages and rents will rise in a progressing economy. That the existence of time preference acts as a brake on the use of the more productive but longer processes. That technology, while important, must always work through an investment of capital. That the laborers are external beneficiaries of increased investment, while the main benefits gained by the investors are short-run entrepreneurial profits. That nothing necessarily changes time-preference: the more money you have, the more of it will be invested due to DMU—but that doesn’t guarantee a shift in time-preference schedules. That class probability *par excellence* cannot be realized in a universe.
 ### 1. Entrepreneurial Profit and Loss
 - Having developed in the previous chapters our basic analysis of the market economy, we now proceed to discuss more dynamic and specific applications, as well as the consequences of intervention in the market. (p. 509)
 - The difference in the dynamic, real world is this. None of these future values or events is known; all must be *estimated*, guessed at, by the capitalists. (p. 510)
@@ -855,7 +856,7 @@ See 1-9 #revisit
 - The change in the rate of interest lessens the spreads of cumulative prices, so that aggregate consumption is lower, the immediate next higher stages are less and less lower, until the lines cross, and the prices in the higher stages are higher than before. It is as if the impact of lower consumer demand tends to die out in the higher stages and is more and more counteracted by the increase and shift in investment funds. (pp. 521-522)
 	- See Figure 61
 - It is the land and labor elements that constitute the fundamental resources being shifted or remaining in production. **The shift ceases when the price of the factor is again uniform throughout**. (p. 523)
-	- The more supply of a factor there is, the less value will be imputed to that factor due to the laws of diminishing MVP (which reflects both the diminishing physical productivity of the factor *MPP* and the diminishing marginal utility of the final goods it helps produce)—this is why you don’t want to be the best but [[5-1b1b2b Don't try to be the best. Be the only. |the only]]. #develop 
+	- The more supply of a factor there is, the less value will be imputed to that factor due to the laws of diminishing MVP (which reflects both the diminishing physical productivity of the factor *MPP* and the diminishing marginal utility of the final goods it helps produce)—this is why **you don’t want to be the best but [[5-1b1b2b Don't try to be the best. Be the only. |the only]]**. #develop 
 		- This is the true sense of MVP = MPP x Price.
 			- Since MPP will always diminish but never enters the negative territory, the quantity of the final product will increase, and that implies the price decrease via the laws of diminishing marginal utility. 
 			- Viz., DMU plays a foundational causal role in the relationship between MPP and Price.
@@ -868,13 +869,13 @@ See 1-9 #revisit
 - Price of factor service = DMVP = MPP x P / d
 - Real price of factor service = MPP / d
 - The progressing economy consists of two leading features: an increase in the MPP of original factors resulting from more productive and longer production processes, and a fall in the discount or interest rate concomitant with falling time preference and increasing gross investment. (p. 526)
-- Both elements—the increase in MPP and the fall in d—impel an increase in the real prices of factor services in a progressing economy. The conclusion is that in a progressing economy, i.e., in an economy with increases in gross savings and investment, money wages and ground rents may well fall, but *real* wages and rents will rise. (p. 526)
+- Both elements—the increase in MPP and the fall in d—impel an increase in the real prices of factor services in a progressing economy. The conclusion is that **in a progressing economy, i.e., in an economy with increases in gross savings and investment, money wages and ground rents may well fall, but *real* wages and rents will rise**. (p. 526)
 	- When we lengthen the production process, we are introducing an entirely new process, which implies an increased MPP even for the same factor.
 	- Remember Robinson Crusoe and his cherry-picking (e.g., 1-9)—saving creates new technology, which in turn increases MPP.
 - It is this increasing “roundaboutness” that causes every increase in capital—even if unaccompanied by an advance in technological *knowledge*—to lead to higher physical productivity per original factor. (p. 527)
-	- Even without new technology, the extra stages increase efficiency.
+	- **Even without new technology, the extra stages increase efficiency**.
 ### 3. Capital Values and Aggregate Profits in a Changing Economy
-- The first impact of the new investment, then, is to cause *aggregate profits* to appear in the economy, concentrated in the new production processes in the higher stages. (p. 527)
+- **The first impact of the new investment, then, is to cause *aggregate profits* to appear in the economy, concentrated in the new production processes in the higher stages**. (p. 527)
 - There is practically nothing unique about incomes from ground land and all net income in the productive system goes to wages, to interest, and to profit. (p. 530)
 	- Viz., a rise in the capital value to the *first* finder and user of the land is reducible to profits (because the aggregate gains in capital value are synonymous with aggregate profits) and interest (because pioneering is a business like any other).
 - As production and investment increase in the higher stages, and the effects of the new saving continue, the profits disappear and become imputed to increases in real wage rates and in real ground rents. (p. 530)
@@ -889,13 +890,13 @@ See 1-9 #revisit
 	- If we fully realize that profits and capital gains, and losses and capital losses, are identical, the solution becomes clear. No one would exclude business profits from money income. The same should be true of capital gains. In the ERE, of course, there are neither capital gains nor capital losses. (p. 533-534)
 - *Capital consumption*
 	- Professor Frank H. Knight has been the leader of the school of thought that assumes capital to be automatically permanent. (p. 535)
-	- This is obviously incorrect. Services are yielded by things, at least in the cases relevant to our discussion, and they are produced through the using up of *things*, of capital goods. (p. 536)
+	- This is obviously incorrect. **Services are yielded by things, at least in the cases relevant to our discussion, and they are produced through the using up of *things*, of capital goods**. (p. 536)
 - Progress can occur, in fact, with falling prices of all products and factors. (p. 536)
 ### 4. Capital Accumulation and the Length of the Structure of Production
 - Calling these methods “roundabout” is definitely paradoxical; for do we not know that men strive always to achieve their ends in the most direct and shortest manner possible? These longer processes *are the most direct* that must be used to attain the goal—not more roundabout. (pp. 537-538)
-- If there were no time preference, the most productive methods would be invested in *first*, regardless of time. The existence of time preference acts as a brake on the use of the more productive but longer processes. (p. 539)
+- If there were no time preference, the most productive methods would be invested in *first*, regardless of time. **The existence of time preference acts as a brake on the use of the more productive but longer processes**. (p. 539)
 - The limits at any time on investment and productivity are a *scarcity of saved capital*, *not* the state of technological knowledge. In order for the new invention to be used, *more capital must be invested*. Technological inventions have received a far more important place than they deserve in economic theory. (pp. 540-542) #develop 
-- While knowledge is a limit, *capital* is a narrower limit; technology, while important, must always *work through* an investment of capital. (p. 542)
+- While knowledge is a limit, *capital* is a narrower limit; **technology, while important, must always *work through* an investment of capital**. (p. 542)
 - What is lacking is the supply of saved capital needed to put the advanced methods into effect. (p. 542)
 ### 5. The Adoption of a New Technique
 - What determines the extent to which these firms adopt new and more productive techniques? (p. 544)
@@ -907,14 +908,14 @@ See 1-9 #revisit
 	- Because knowledge is not only irreversible but also accessible to everyone. #develop 
 		- Related: [[5-3c Knowledge is irreversible, and can only go from private to public]]
 ### 6. The Beneficiaries of Saving-Investment
-- The laborers are “external beneficiaries” of increased investment, i.e., they are the beneficiaries of the actions of others without paying for these benefits. (p. 548)
-- The main benefits gained by the investors are short-run entrepreneurial profits. (p. 548)
+- **The laborers are “external beneficiaries” of increased investment**, i.e., they are the beneficiaries of the actions of others without paying for these benefits. (p. 548)
+- **The main benefits gained by the investors are short-run entrepreneurial profits**. (p. 548)
 - The short-run benefits earned by the workers and landowners are *immediate* and more certain. The entrepreneur-capitalists take the risks of speculating on the uncertain market; no one can guarantee profits to them. (p. 548)
 ### 7. The Progressing Economy and the Pure Rate of Interest
 The artificially induced seeming abundance of capital does not change people’s time preference per se (viz., QE lowers interest rates without lowering time preference)—the entrepreneurs would then make plans based on fictitious savings (i.e., no real increase of capital—because money does its job regardless of its quantity in the economy) while consumer time preferences haven’t changed, leading to malinvestment and capital consumption (the capital structure cannot be sustained because the real capital didn’t increase). #develop 
 - *A lower pure rate of interest increases the quantity and value of capital goods available*. (pp. 549-550)
-	- Nothing *necessarily* changes time-preference.
-	- The more money you have, the more of it will be invested due to DMU—but that doesn’t guarantee a shift in time
+	- **Nothing *necessarily* changes time-preference**.
+	- **The more money you have, the more of it will be invested due to DMU—but that doesn’t guarantee a shift in time-preference schedules**. #develop 
 - The causative principle is just the other way round from what is commonly believed. The pure rate of interest, then, can change at any time and is determined by time preferences. If it is lowered, the stock of invested capital will increase; if it is raised, the stock of invested capital will fall. (p. 550)
 ### 8. The Entrepreneurial Component in the Market Interest Rate
 - On the market, a whole structure of interest rates will be superimposed on the pure rate, varying positively in accordance with the expected risks of each venture. (p. 551)
@@ -922,12 +923,13 @@ The artificially induced seeming abundance of capital does not change people’s
 ### 9. Risk, Uncertainty, and Insurance
 - “Risk” occurs when an event is a member of a class of a large number of homogeneous events and there is fairly certain knowledge of the frequency of occurrence of this class of events. (p. 552)
 - The principle of insurance is that firms or individuals are subject to risks which, in the aggregate, form a class of homogeneous cases. (p. 553)
-	- The key is pseudo-fungibility via abstraction. #revisit 
+	- The key is **pseudo-fungibility via abstraction**. #revisit 
 		- “Case probability” exists because of the multiverse—viz., the subjective randomness as discussed by [[David Deutsch]]. #revisit 
 - “Class probability”
 	- Class probability means: We know or assume to know, with regard to the problem concerned, everything about the behavior of a whole class of events or phenomena; but about the actual singular events or phenomena we know nothing but that they are elements of this class. (pp. 553-554)
 		- E.g., objective probability across the multiverse. #revisit 
 			- Class probability attempts to emulate this by abstraction in a universe, as it were. #revisit 
+			- Viz., **class probability *par excellence* cannot be realized in a universe**. #develop 
 	- In the free market each homogeneous group will tend to pay premium rates in proportion to its actuarial risk. (p. 554)
 		- Inverted, it means that the rate would be homogeneous to the extent that the group can be made homogenous. #revisit 
 - “Case probability”
@@ -935,10 +937,11 @@ The artificially induced seeming abundance of capital does not change people’s
 		- **Because fungibility (not pseudo-fungibility) is achieved only across the multiverse—and never within a universe**. #develop 
 	- Case probability means: We know, with regard to a particular event, some of the factors which determine its outcome; but there are other determining factors about which we know nothing. (p. 554)
 		- I.e., the contingency in the sense of *it could've been otherwise* (because the multiverse implies symbols). #revisit 
-			- The multiverse implies fallibilism (because *it could’ve been otherwise*) via symbols (because knowledge is a special type of information). #revisit 
+			- **The multiverse implies fallibilism (because *it could’ve been otherwise*) via symbols (because knowledge is a special type of information)**. #revisit 
 				- And information is implied in symbols. #revisit
 - The entrepreneur is not creating uncertainties for the fun of it. On the contrary, he tries to reduce them as much as possible. The uncertainties he confronts are already inherent in the market situation, indeed in the nature of human action; someone must deal with them, and he is the most skilled or willing candidate. (p. 556)
 ## Chapter 9: Production—Particular Factor Prices and Productive Incomes
+That there is an optimum population level—and that the economy would be able to absorb population increase as long as there is concurrent increase in capital. That there can be no implicit estimates without an explicit market. That firms will be economically located in relation to the consumer. That knowledge is rare—but never finite.
 ### 1. Introduction
 - We now return to analysis of the particular ultimate factors—labor and land—and to a more detailed discussion of entrepreneurial incomes. (p. 557)
 ### 2. Land, Labor, and Rent
@@ -951,10 +954,10 @@ The artificially induced seeming abundance of capital does not change people’s
 - A *wage is a special case of rent*. (p. 559)
 - The wage, in fact, is the only source of rent that *cannot* be capitalized on the free market, since every man is necessarily a self-owner with an inalienable will. (p. 559)
 - One distinction between wages and land rents, then, is that the latter are capitalized and transformed into interest return, while the former are not. (p. 559)
-- At any time, for any given conditions of capital and production processes, there will be an “optimum” population level that will maximize the total output of consumers’ goods per head in the economy. Whether a given increase in population at any time will lead to an increase or decrease in real output per head is an *empirical* question, depending on the concrete data. (pp. 561-562) #revisit 
+- At any time, for any given conditions of capital and production processes, **there will be an “optimum” population level that will maximize the total output of consumers’ goods per head in the economy**. Whether a given increase in population at any time will lead to an increase or decrease in real output per head is an *empirical* question, depending on the concrete data. (pp. 561-562) #revisit 
 - It might be wondered how the statement that increasing population might increase MPP and MVPs can be reconciled with the demonstration above that factors will always be put to work in areas of *diminishing* physical returns. (p. 562)
 	- The same question I had in 8-2
-- If the *total* supply of a factor changes and it has an effect on the productivity of the labor factor, this is equivalent to a *shift* in the MPP curves (or schedules) rather than a movement *along the curves* such as we considered above. (p. 562)
+- **If the *total* supply of a factor changes and it has an effect on the productivity of the labor factor, this is equivalent to a *shift* in the MPP curves (or schedules) rather than a movement *along the curves* such as we considered above**. (p. 562)
 	- As I elaborated in 8-2: “When we lengthen the production process, we are introducing an entirely *new process*, which implies an increased MPP even for the same factor.”
 - Prices of consumers’ goods, through market processes, determine the prices of productive factors (ultimately land and labor factors), and the brunt of price changes is borne by *specific* factors in the various fields. (p. 564)
 #### B. The Nature of Labor
@@ -976,25 +979,26 @@ The artificially induced seeming abundance of capital does not change people’s
 - The speculative site-owner is performing a great service to consumers and to the market in not committing the land to a poorer productive use. (p. 571)
 #### D. Supply of Labor
 - Since labor is the relatively nonspecific factor, the particular supply curve of a labor factor is likely to be flatter than the supply curve of the (usually more specific) land factor. (p. 572)
-	- Viz., labor is more price sensitive.
+	- Viz., **labor is more price sensitive**.
 - “Backward supply curve of labor”
 	- Rising wages may draw nonworking people into the labor force and induce people to work overtime or to obtain an extra part-time job. (p. 574)
 	- On the other hand, it may lead to increased leisure and a falling off in total hours worked. (p. 574)
 - “The *psychic* income”
 	- There will be so much labor competing in the generally liked jobs that they will pay *lower* wage rates. (p. 576)
 	- Our amended conclusion is that not *money* wage rates, but *psychic* wage rates, will be equalized throughout—psychic wage rates being equal to money wage rates plus or minus a psychic benefit or psychic disutility component. (p. 576)
-- Many writers have based their analyses on the assumption of the homogeneity of all workers. Consequently, when they find that generally well-liked jobs, such as television-directing, pay more than such disliked jobs as ditch-digging, they tend to assume that there is injustice and chicanery afoot. (pp. 577-578)
+- **Many writers have based their analyses on the assumption of the homogeneity of all workers**. Consequently, when they find that generally well-liked jobs, such as television-directing, pay more than such disliked jobs as ditch-digging, they tend to assume that there is injustice and chicanery afoot. (pp. 577-578)
 - A recognition of differences in labor productivity eliminates this bugbear. (p. 578)
 	- E.g., since TV-directing takes more skill than ditch-digging, or rather skill that fewer people have, the wage rates in the two occupations cannot be equalized. (p. 578)
 #### E. Productivity and Marginal Productivity
 - An advancing capital structure increases the *marginal* productivity of labor, because the labor supply has increased less than the supply of capital goods. (p. 578)
 	- The existence of an *optimum* population level is also implied in here (see 9-2-A)
-- The causal agents of increased wage rates in an expanding economy, then, are *not* primarily the workers themselves, but the capitalist-entrepreneurs who have invested in capital goods. The workers are provided with more and better tools, and so their labor becomes relatively scarcer as compared to the other factors. (p. 578)
+- The causal agents of increased wage rates in an expanding economy, then, are *not* primarily the workers themselves, but the capitalist-entrepreneurs who have invested in capital goods. **The workers are provided with more and better tools, and so their labor becomes relatively scarcer as compared to the other factors**. (p. 578)
 	- As already elaborated in 8-6
 - It is impossible to impute absolute “productivity” to any productive factor or class of factors. We can discuss productivity only in *marginal terms*, in terms of the productive contribution of a single unit of a factor, given the existence of other factors. This is precisely what entrepreneurs do on the market, adding and subtracting units of factors in an attempt to achieve the most profitable course of action. (p. 579)
+	- Similar to how there is no “total” utility unless the total quantity happens to be the marginal quality, as discussed earlier (e.g., 4-A).
 - A *connexity* between all the occupations on the labor market:
 	- When a certain branch of industry expands its capital and production, an increase in DMVP, and therefore in wage rates, is not confined to that particular branch. Because of the connexity of the supply of labor, labor tends to leave other industries and enter the new ones, until finally all the wage rates throughout the labor market have risen, while maintaining the same differentials as before. (p. 579)
-	- Suppose, for example, that there is an expansion of capital in the steel industry. A rise in capital investment in steel will increase the wages of workers in domestic service. The latter increase is clearly not caused by some sort of increase in the “productivity” or in the quality of the output of the domestic servants. Rather, their *marginal* value productivity has increased as a result of the greater scarcity of labor in the service trades (because some laborers left the service industry and entered the steel industry). (pp. 579-580)
+	- Suppose, for example, that there is an expansion of capital in the steel industry. **A rise in capital investment in steel will increase the wages of workers in domestic service. The latter increase is clearly not caused by some sort of increase in the “productivity” or in the quality of the output of the domestic servants. Rather, their *marginal* value productivity has increased as a result of the greater scarcity of labor in the service trades** (because some laborers left the service industry and entered the steel industry). (pp. 579-580)
 #### F. A Note on Overt and Total Wage Rates
 - The institutional manner of paying wage rates is a matter of complete indifference to our analysis. (p. 581)
 #### G. The “Problem” of Unemployment
@@ -1004,10 +1008,10 @@ The artificially induced seeming abundance of capital does not change people’s
 - *Labor factors will always be fully employed on the free market to the extent that laborers are so willing*. (p. 582)
 - What the worker wants is not just “employment” (which he could always get in the last resort by *paying* for it) but *employment at a wage*. (p. 583)
 - There can never be an employment problem on the free market—the problem is employment at an above-subsistence wage. (p. 584)
-- The able-bodied in a developed economy can always find work, and work that will pay an over-subsistence wage. This is so because labor is scarcer than land, and enough capital has been invested to raise the marginal value product of laborers sufficiently to pay such a wage. (p. 585) #revisit 
-	- Viz., the economy would be able to absorb population increase as long as there is concurrent increase in capital. #revisit 
+- The able-bodied in a developed economy can always find work, and work that will pay an over-subsistence wage. This is so because labor is scarcer than land, and **enough capital has been invested to raise the marginal value product of laborers** sufficiently to pay such a wage. (p. 585) #revisit 
+	- Viz., **the economy would be able to absorb population increase as long as there is concurrent increase in capital**. #revisit 
 - On the ever-recurring doctrine of “technological unemployment”:
-	- The process of technological innovation shifts workers from the inelastic-demand to the elastic-demand industries. One of the major sources of new employment demand is in the industry making the new machines. (p. 588)
+	- **The process of technological innovation shifts workers from the inelastic-demand to the elastic-demand industries**. One of the major sources of new employment demand is in the industry making the new machines. (p. 588)
 		- Because the rightward shift of the supply schedule means revenue increase for that industry—if the demand schedule is elastic (see 4-6).
 		- Viz., to the extent that the demand for the related good is elastic, the prices of all other substitutable goods will also decrease, for the benefit of the consumers—and everyone is a consumer. #revisit
 		- Again, what benefits the consumer is not the technological improvement per se, but the increase in gross savings (assuming that most goods have elastic demand given the substitution principle—e.g., see [[Eric Voskuil]]’s [Substitution Principle]). #develop 
@@ -1016,7 +1020,7 @@ The artificially induced seeming abundance of capital does not change people’s
 - As Böhm-Bawerk and the Austrians pointed out, *costs conform to prices*, and not *vice versa*. (p. 588)
 - *Where all factors and the product are completely divisible, a proportionate increase in the quantities of all the factors must lead to an equally proportionate increase in physical output*. (pp. 592-593)
 - As any firm’s scale of output increases, it necessarily bids factors of production away from other firms, raising their prices in the process. And this is particularly true for labor and land factors, which cannot be increased in supply via new production. The increase in factor prices as output increases, combined with constant physical costs, raises the average money cost per unit output. We may therefore conclude that *if factors and product were perfectly divisible, average cost would always be increasing*. (p. 593)
-- Other things being equal—average production costs increase with the increase in the quantity produced. (p. 596)
+- **Other things being equal—average production costs increase with the increase in the quantity produced**. (p. 596)
 - What any given firm’s size and output will be is therefore subject to a host of conflicting determinants—at what point any firm will settle depends on the concrete data of the actual case and cannot be decided by economic analysis. This is the task of the businessman and not of the economist. (p. 598)
 - There is no infinite tendency for ever-larger size—the general rule of operating in a zone of diminishing marginal productivity for each factor, as well as the tendency for product prices to decline and factor prices to increase as output increases, establishes limits on the size of each firm. (p. 599)
 	- Also see 9-3-E
@@ -1027,7 +1031,7 @@ The artificially induced seeming abundance of capital does not change people’s
 	- (c). Rents of ownership-decision (set according to DMVP)
 	- (d). Entrepreneurial profit or loss
 		- Only (d) disappears in ERE
-- One important distinction between capitalist-entrepreneurs and laborer-entrepreneurs is that only the former may suffer *negative incomes* in production. (p. 604)
+- **One important distinction between capitalist-entrepreneurs and laborer-entrepreneurs is that only the former may suffer *negative incomes* in production**. (p. 604)
 #### C. Personal Consumer Service
 - *Direct labor*
 	- Doctors, lawyers, concert artists, servants—they earn a peculiar type of income: a business return consisting almost exclusively of labor income. (p. 605)
@@ -1035,39 +1039,39 @@ The artificially induced seeming abundance of capital does not change people’s
 	- The case of *personal service*, however, is different. In the first place, leisure is a definite alternative to work. In the second place, as a result of the connexity of the labor market, the worker can shift to a higher-paying occupation further up on the structure of production if his income in this occupation is unsatisfactory. As a result, for this type of consumers’ good, the supply curve is likely to be a rather flat, forward-sloping one. (p. 606)
 #### D. Market Calculation and Implicit Earnings
 - In practice, the different sources of income can be separated only by referring to these incomes *as determined by prices on the market*. (p. 606)
-- A very important aspect of such estimates of implicit incomes has been overlooked: *there can be no implicit estimates without an explicit market*. (p. 608)
+- A very important aspect of such estimates of implicit incomes has been overlooked: ***there can be no implicit estimates without an explicit market***. (p. 608)
 - To isolate them by calculation, *there must be in existence an external market to which the entrepreneur can refer*. (p. 608)
 	- *Could’ve been otherwise* is already realized to some extent, as it were. #develop 
-- Without an external market for wage rates, rents, and interest, there would be no rational way for entrepreneurs to allocate factors in accordance with the wishes of the consumers. There could be no efficiency in production because the requisite knowledge would be lacking. (p. 608)
+- Without an external market for wage rates, rents, and interest, there would be no rational way for entrepreneurs to allocate factors in accordance with the wishes of the consumers. **There could be no efficiency in production because the requisite knowledge would be lacking**. (p. 608)
 #### E. Vertical Integration and the Size of the Firm
 - A firm can accurately estimate the profit or loss it makes in a stage of its enterprise only by finding out the *implicit* price of its internal product, and it can do this only if an *external* market price for that product is established elsewhere. (p. 611)
-	- Viz., you need redundancy, as it were. #develop 
+	- Viz., **you need redundancy**, as it were. #develop 
 - If there were no market for a product, and all of its exchanges were internal, there would be no way for a firm or for anyone else to determine a price for the good—not being able to calculate a price, the firm could not rationally allocate factors and resources from one stage to another. (p. 613)
 - We must conclude that complete vertical integration for a capital-good product can never be established on the free market. (p. 613)
 - This economic law *sets a definite maximum to the relative size of any particular firm on the free market*. (p. 613)
 - There can never be One Big Cartel over the whole economy or mergers until One Big Firm owns all the productive assets in the economy. (p. 613)
 	- Again, redundancy is required. #develop 
 	- What does the analysis here imply for all-knowing in general? What does it mean to be all-knowing? What does the fact that nothing is all-knowing tell us about the nature of knowledge? #develop 
-		- I think the nature of price lies in its symbolicity. And anything that is all-knowing denies symbols. Knowledge consists of symbols as well. In short, all-knowing has no knowledge. #develop
+		- I think the nature of price lies in its symbolicity. And anything that is all-knowing denies symbols. Knowledge consists of symbols as well. In short, **all-knowing has no knowledge**. #develop
 - Under *one* owner or *one* cartel for the whole productive system, there would be no possible areas of calculation at all, and therefore complete economic chaos would prevail. (p. 614)
-	- This is what Mises meant when he posed socialism as calculation problem. The free society may be said to mandate their own comprehensibility with money, and also by allowing every contingencies to exist (analogous to the laws of physics and the Turing principle). #develop 
+	- This is what Mises meant when he posed socialism as calculation problem. **The free society may be said to mandate their own comprehensibility with money, and also by allowing every contingencies to exist** (analogous to the laws of physics and the Turing principle). #develop 
 - Ever more important for the maintenance of an advanced economy is the preservation of *markets* for all the capital and other producers’ goods. (p. 614)
 - The reason for the impossibility of calculation under socialism is that *one agent* owns or directs the use of all the resources in the economy—there is no possibility of calculation anywhere in the production structure, since production processes would be only internal and without markets. (p. 615)
 	- Market is there. Price is there. You have to adjust to it. Just like how you adjust to your culture. Initially via imitation and assuming (icon). #develop
 - *There can be no calculation problem in the ERE because no calculation there is necessary*. There is no need to calculate profits and losses when all future data are known from the beginning and where there are no profits and losses. In the ERE, the best allocation of resources proceeds automatically. The difficulty of calculation applies to the real world only. (p. 616) #revisit 
 ### 4. The Economics of Location and Spatial Relations
-Jared Diamond was not completely wrong, and David Deutsch was not completely right. #develop 
+**Jared Diamond was not completely wrong, and David Deutsch was not completely right**. #develop 
 - It would not matter whether the trade was within or outside a nation—the laws of the free market that we have been enunciating apply to the whole extent of the market, i.e., to the “world” or the “civilized world.” (p. 617)
 - Since it is *psychic*, not money, wage rates that are being equalized, money wage rates will be equalized throughout the world *plus* or *minus* negative or positive psychic attachment components. (p. 618)
 - What determines how people and businesses will be distributed over the face of the earth? (p. 618)
-- “The fact that the production of raw materials and foodstuffs cannot be centralized and forces people to disperse over the various parts of the earth’s surface enjoins also upon the processing industries a certain degree of decentralization.” – Mises (p. 628)
+- “**The fact that the production of raw materials and foodstuffs cannot be centralized and forces people to disperse over the various parts of the earth’s surface enjoins also upon the processing industries a certain degree of decentralization**.” – Mises (p. 628)
 - We must say rather that there will be a tendency for equalization of money wage rates *plus* or *minus* the attachment component, and *plus* or *minus* the cost component, for every geographic area. (p. 619)
 - Other things being equal, then, the cost components tend to become relatively less important as the economy progresses. (p. 620)
 - A “good” must be considered as homogeneous in *use-value*, and not in physical substance. (p. 620)
 	- Viz., what it does over what it is (whatever the latter means). #develop 
 - A difference in position with respect to consumers makes a physically identical thing a different good. (p. 620)
 	- E.g., wheat in Kansas is a higher-stage capital good than wheat in New York (because transporting the wheat to New York is a stage in the process of production).
-- Firms will be economically located in relation to the consumer. (p. 622)
+- **Firms will be economically located in relation to the consumer**. (p. 622)
 	- E.g., as firms are more distantly located from the consumer, they will then not be able to remain in business unless their average costs at the mill are sufficiently lower than those of their competitors to compensate for the increased freight costs.
 	- Cyberspace must be supported by physical network infrastructure (e.g., data centers, servers, and under-the-sea cable wires), and to that extent the analysis here should be applicable even with the digital economy. #revisit
 		- See 7-4
@@ -1077,15 +1081,15 @@ Jared Diamond was not completely wrong, and David Deutsch was not completely rig
 	- Similar to how supply is demand. #revisit 
 - The *initial distribution of income* (or rather of money assets) did not originate in thin air. It was the necessary consequence of a market allocation of prices and production. It was the consequence of serving the needs of previous consumers. It was not an arbitrarily given distribution, but one that itself emerged from satisfying consumer needs. It too was inextricably bound up with production. (p. 623)
 	- Rational economics is focused on with is, and not with should. #revisit 
-	- Put differently, rational economics is concerned with how *is* should be developed. #revisit 
+	- Put differently, **rational economics is concerned with how *is* should be developed**. #revisit 
 - After the initial period, the effect of unjust incomes becomes less and less important. For in order to keep and increase their ill-gotten gains, the former robbers, now that a free economy is established, have to invest and recoup their funds so as to serve consumers correctly. If they are not fit for this task, and their exploits in predation have certainly not trained them for it, then entrepreneurial losses will diminish their assets and shift them to more able producers. (p. 624)
 ### 6. A Summary of the Market
 - The (monetary) value productivity of a course of action depends on the extent to which it serves consumer needs. (p. 625)
 - An increase in the labor supply may lower the DMVP of labor and hence wage rates, or raise them because of the further advantages of the division of labor and a more extended market. Which will occur depends on the optimum population level. (p. 626)
-- To expand production, the important consideration is not so much technological improvement as greater capital investment. At no time has invested capital exhausted the best technological opportunities available. Many firms still use old, unimproved processes and techniques simply because they do not have the capital to invest in new ones. (p. 626)
-- While the state of technology is ultimately a very important consideration, at no given time does it play a *direct* role, since the *narrower* limit on production is always the supply of capital. (p. 626)
+- To expand production, the important consideration is not so much technological improvement as greater capital investment. **At no time has invested capital exhausted the best technological opportunities available**. Many firms still use old, unimproved processes and techniques simply because they do not have the capital to invest in new ones. (p. 626)
+- While the state of technology is ultimately a very important consideration, at no given time does it play a *direct* role, since **the *narrower* limit on production is always the supply of capital**. (p. 626)
 	- Because capital is by definition finite (otherwise it becomes a general condition for humans). #revisit 
-		- Knowledge, on the other hand, is just rare—but not necessarily finite. #revisit 
+		- **Knowledge, on the other hand, is just rare—but not finite**. #revisit 
 			- Related: [[5-3c Knowledge is irreversible, and can only go from private to public]]
 - In a progressing economy, the real capital value of land will increase, although the value will fall in money terms. (p. 628)
 	- Because consumption decreases for the latter, but MPP / d increases for the former.
