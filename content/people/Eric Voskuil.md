@@ -48,7 +48,7 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 ## Threat Level Paradox 
 ## Value Proposition 
 
-# STATISM (3/(4+1)/5)
+# STATISM (3/5/5)
 ## Fedcoin Objectives 
 - The essential Fedcoin distinctions from Bitcoin allow the state to arbitrarily create new units (seigniorage) and deny transfer (censorship). (p. 69)
 	- The seigniorage objective can be achieved by a hard fork that introduces one new consensus rule. (p. 69)
@@ -163,7 +163,7 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 			- Time preference is *preference*—i.e., it’s subjectivity means nothing necessitates it to move one way or other (i.e., higher or lower time preference).
 				- Related: [[12-1e Nothing is necessary = Everything is contingent]]. #develop 
 ## Split Speculator Dilemma 
-# ECONOMICS (3/(7+2)/12)
+# ECONOMICS (4/(7+2)/12)
 ## Credit Expansion Fallacy 
 ## Depreciation Principle 
 ## Expression Principle 
@@ -217,6 +217,7 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 ## Savings Relation 
 ## Speculative Consumption 
 ## Subjective Inflation Principle 
+- Free market price inflation is entirely the consequence of personal preferences, and therefore not derivable from anything else. 
 ## Time Preference Fallacy 
 - There is a theory that lower [time preference](https://en.m.wikipedia.org/wiki/Time_preference) is better than higher, as it results in greater production and therefore greater wealth. This is a reversal of cause and effect.
 - The [value](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#value) placed on one good over another is a [preference](https://en.wikipedia.org/wiki/Preference#Economics), even his own life.
@@ -248,8 +249,10 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 - Savings is a general term encompassing both a person's hoard and investment.
 - Savings is the _source_ of all investment, but only actual investment expresses time preference. A hoard can certainly change in marketable value. **But considering a greater hoard an expression of lower time preference is a common colloquial misinterpretation of the economic meaning of the term.**
 - With full hoarding interest rates are infinite, and infinite interest reflects infinite time preference
-# MONEY (3/8/10)
+# MONEY (4/8/10)
 ## Collectible Tautology 
+- If commodity value can arise from potential as money then the Regression Theorem is tautological, implying nothing more than money is money.
+- **If anything can be a commodity then the Regression Theorem would imply, contrary to its assertion, that anything can be money**.
 ## Debt Loop Fallacy 
 ## Ideal Money Fallacy 
 ## Inflation Fallacy 
@@ -266,7 +269,7 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 ## Risk Free Return Fallacy 
 ## Thin Air Fallacy 
 ## Unlendable Money Fallacy 
-# PRICE (4/5/5)
+# PRICE (5/5)
 ## Lunar Fallacy 
 - **Production is the source of trade and therefore all economic activity results from investment.** (p. 273)
 - A hoard is defined by its lack of consumption in production. If all people hoarded their capital, there would be nothing to trade and therefore no demand for the money. (pp. 273-274)
@@ -278,7 +281,28 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 			- But of course monetization has a limit. 
 - Finally, the theory fails to recognize the [Stability Property] of Bitcoin. (p. 274)
 - For these reasons the theory is invalid. (p. 274)
-## Price Estimation 
+## Price Estimation #revisit 
+The table in [Credit Expansion Fallacy] is adjusted as follows:
+
+| Substitute     | Size (2019)          | USD/BTC (2029) |
+| -------------- | -------------------- | -------------- |
+| Tangible money | $4,347,460,000,000   | $279,852       |
+| Base money     | $8,187,102,500,000   | $527,016       |
+| Bank credit    | $36,018,735,000,000  | $2,318,578     |
+| All credit     | $236,812,492,891,206 | $15,243,965    |
+| Gross product  | $80,270,000,000,000  | $5,167,097     |
+- The presumption of Bitcoin as global reserve currency is dismissed for reasons discussed in [Reserve Currency Fallacy]
+- The effects of speculative hoarding on price are not considered, based on the catallactic disproof of speculation as a determinant of price.
+- Given that Bitcoin is money and not credit, the "money" approach is a more rational starting assumption. Yet without a clear understanding of the essential distinction between money and credit, this approach is often flawed in practice.
+	- Fiat world doesn't really conflate present money with future obligations. The critique that says so (e.g., [[Saifedean Ammous]]) might be the one that is obscuring present money with future obligations. The conflation can lead one to assume how BTC can replace not only money market (i.e., BTC as reserve currency argument) but also bond market (i.e., BTC will make government bond redundant). #develop
+- As shown in [Credit Expansion Fallacy], Bitcoin cannot limit credit expansion.
+- Using credit is an irrational approach, since Bitcoin is not credit.
+- Base Money scenario:
+	- $527,016 / ((1 + 7.2%)^10) = $263,508
+- Black Market Money scenario:
+	- $263,508 x 28% = $73,782
+		- This is assuming 100% of black market activity in Bitcoin.  
+- This estimate does not consider the [Stability Property] of Bitcoin. It is possible that trade would be forced into monetary substitutes before the currently-implied future adoption can be reached.
 ## Scarcity Fallacy 
 Relate this to [[Saifedean Ammous |Ammous]]’ contention that value comes from time. #TODO 
 - If no [person](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#person) demands even a scarce resource, it has no [value](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary#value).
