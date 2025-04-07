@@ -2,7 +2,7 @@
 date: 2025-02-15
 ---
 Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
-# SECURITY MODEL (5/22/22)
+# SECURITY MODEL (7/22/22)
 
 ## Axiom of Resistance 
 - In modern logic an axiom is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. (p. 19)
@@ -25,9 +25,14 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 - A consensus may fragment ([Fragmentation Principle]) or consolidate ([Consolidation Principle]). Generally a larger consensus provides greater utility and greater security by more broadly sharing risk ([Risk Sharing Principle]). (p. 27)
 ## Cryptodynamic Principles 
 ## Custodial Risk Principle 
+- Being human, the reliability of a custodian cannot be assured.
+- Custodial default is the reason for state money.
+	- I.e., the state can do away with default because it uses the state money. #develop 
 ## Hearn Error 
 - It is evident that states actually prefer to ban popular things. (p. 32)
 ## Hoarding Fallacy 
+- As shown in [Qualitative Security Model], consensus rule enforcement requires ongoing trade.
+	- Viz., Bitcoin’s security is market-driven. #develop 
 ## Jurisdictional Arbitrage Fallacy 
 ## Other Means Principle 
 ## Patent Resistance Principle 
@@ -43,12 +48,14 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 ## Proof of Work Fallacy 
 ## Public Data Principle 
 ## Qualitative Security Model 
+- Decentralization alone is not security. Security is the product of activity, distribution of that activity, and the fraction of participating humanity.
+	- Security = Activity x Distribution x Participation
 ## Risk Sharing Principle 
 ## Social Network Principle 
 ## Threat Level Paradox 
 ## Value Proposition 
 
-# STATISM (3/5/5)
+# STATISM (4/5/5)
 ## Fedcoin Objectives 
 - The essential Fedcoin distinctions from Bitcoin allow the state to arbitrarily create new units (seigniorage) and deny transfer (censorship). (p. 69)
 	- The seigniorage objective can be achieved by a hard fork that introduces one new consensus rule. (p. 69)
@@ -56,6 +63,8 @@ Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 - **Preventing the state from compelling the use of these forks is the central purpose of Bitcoin system security.** The economy guards against the hard fork and miners guard against the soft fork. (p. 69)
 	- The economy here means the set of all merchants (or users).
 ## Inflationary Quality Fallacy 
+- There is a theory that the price inflation caused by seigniorage causes the production of lower “quality” and (or) less durable goods.
+- The theory necessarily presumes that value is objective and therefore contradicts the subjective theory of value. As such the theory is invalid.
 ## Reservation Principle 
 - The term “reserve currency” refers to a state hoard, as required for settlement of accounts with other states. (p. 72)
 - States buy reserve currency from people using monopoly money, foreign exchange controls and direct taxation. (p. 72)
