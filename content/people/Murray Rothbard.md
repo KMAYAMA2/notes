@@ -766,7 +766,8 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 	- E.g., 8-2
 	- Relate this with [[Eric Voskuil]]’s [Time Preference Fallacy]
 	- Implication: in the progressing economy, since the real wages and rents will increase, the rate of time-preferences will decrease.
-		- However, the question is what brings about the increased saving in the first place. It must be from the changes in the time-preferences.
+		- However, what brings about the increased saving in the first place is the *shift* in the time-preference schedules. 
+			- See the following ***Personal Answers***. 
 - If people all became immortal and healthy as a result of the discovery of some new drug, time preferences would tend to be very much lower, there would be a great increase in investment, and the pure rate of interest would fall sharply. (pp. 444-445)
 	- Related: [[Economics of God]]
 ### 11. The Time Structure of Interest Rates
@@ -780,12 +781,12 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 ### Personal Question
 - Does the laws of physics forbid all-knowing being (e.g., God)? 
 ### Personal Answers #revisit 
-- What actually happens: the time-preference schedules of the individuals in the economy shifts, which is synonymous with the lowering of interest rate and with more saving and with more investment → capital accumulation → higher real incomes → the rate of time-preference schedule lowers (along the same post-shift time-preference schedules) due to the laws of DMU. 
+- What actually happens in the formation of a progressing economy: **the time-preference schedules of the individuals in the economy shifts, which is synonymous with the lowering of interest rate and with more saving and with more investment → capital accumulation → higher real incomes → the rate of time-preference schedule lowers (*along* the post-shift time-preference schedules) due to the laws of DMU**.
 	- It is not circular reasoning.
 	- The loop doesn’t continue indefinitely, as the effect of the initial shift will be absorbed in the secondary effect.
 		- Put differently: The endogenous consequences of an exogenous change in time preference eventually play themselves out, and do not perpetuate the process unless the underlying preferences shift again.
-- The intersection of demand-for and supply-of present goods’ curves does not imply the level of saving (x-axis), but rather the amount actually transacted in the time market at the equilibrium interest rate (y-axis): the quantity of present goods transacted (x-axis) might increase, decrease, or stay the same depending on the shapes of the curves. But the point is that the real behavioral change—more saving—is still present.
-	- In short, lowering shift of time-preferences schedule *means* the increase in saving.
+- **The intersection of demand-for and supply-of present goods’ curves does not imply the level of saving (x-axis), but rather the amount actually transacted in the time market at the equilibrium interest rate (y-axis)**: the quantity of present goods transacted (x-axis) might increase, decrease, or stay the same depending on the shapes of the curves. But the point is that the real behavioral change—more saving—is still present.
+	- In short, the lowering shift of time-preference schedules *means* the increase in saving.
 ## Chapter 7: Production—General Pricing of the Factors
 ### 1. Imputation of the Discounted Marginal Value Product
 - The mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning. (p. 508)
