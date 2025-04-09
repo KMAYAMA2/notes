@@ -664,29 +664,30 @@ Interest is not the “reward” of capital goods—**interest arises because th
 - **Is discussing the ERE a form of explicating the contradiction?**
 ## Chapter 6: Production—The Rate of Interest and Its Determination
 A fuller discussion of the determination of the rate of interest (e.g., see 5-7).
+That there is no time inconsistency in the ERE. That the capitalists’ function is a *time* function—the interest income is derived from the generalized investment of time. That *money* is the present good *par excellence*. That the time market is not restricted to the loan market. That the *equilibrium rate of interest* is determined *solely by the time preferences of the individuals in the society, and by no other factor*. That we must consider *all the decisions* to supply present goods on the present-future market to provide for the maintenance of the capital structure—what maintains capital is *gross* expenditures and *gross* investment and not net investment. That civilization advances by virtue of additional capital. That the aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption. That capital per se is not permanent—to argue otherwise is to argue against the multiverse. That a landowner’s pre-income demand for money is likely to be practically inelastic—regardless of the height of interest rate, the land will be rent out, because the land doesn't have direct use-value for the owner. That the only thing that stops a man from being a capitalist is his own high time-preference scale. That total savings going into investment in production is the total supply of savings minus consumers’ loan demands for present goods. That there is no substantive difference between debt and equity. That the rate of interest will tend to be equalized in every process of production, at every stage of production, and in the consumer loan market as well as in the production structure. That the productivity of production processes has no basic relation to the rate of return on business investment—because the rate of return will be equalized. That the laws of physics forbid all-knowing being. That the rate of interest return yielded on the share market will tend to equal the rate of interest as determined elsewhere on the time market—the investment return in the ERE is exclusively dependent on *time* element. That the creditor on the prospective loan market is no different from the man who has invested in stock. That others must be evoked—other configurations (i.e., contingencies)—to explain the rate of interest. That the burden of the lower prices at each stage of production falls on the *purely specific* factors (likely specific *land* factors) in the industry. That an increase in one’s real income—real additions to his money stock—will lower the time-preference rate on his schedule. That arbitragers will equalize the rate of interest throughout the time structure. That the stock market equates the rate of interest on all investments, obliterating the differences in time structure so thoroughly that it becomes difficult for many writers to grasp the very concept of period of production.
 ### 1. Many Stages: The Pure Rate of Interest
 - *Not only must the interest rate be uniform for each good; it must be uniform for every stage of every good*. (p. 370)
-	- Again, there is no time inconsistency in the ERE.
+	- Again, **there is no time inconsistency in the ERE**.
 - In the real world of uncertainty, the *tendency* of entrepreneurial actions is always in the direction of establishing a uniform rate of interest throughout all time markets in the economy. (p. 372)
 	- Viz., does time inconsistency exist because of the government intervention? #revisit 
-- Capital goods are vital and of crucial importance in production, but their production is, in the long run, imputable to land, labor, and time factors—the capitalists’ function is thus a *time* function. (pp. 373-374)
-- The interest income is *not* derived from the concrete, heterogeneous capital *goods*, but from the generalized investment of time. (p. 374)
+- Capital goods are vital and of crucial importance in production, but their production is, in the long run, imputable to land, labor, and time factors—**the capitalists’ function is thus a *time* function**. (pp. 373-374)
+- **The interest income is *not* derived** from the concrete, heterogeneous capital *goods*, but from **the generalized investment of time**. (p. 374)
 	- Again, capital goods per se are not productive.
 ### 2. The Determination of the Pure Rate of Interest: The Time Market
 - The establishment of money as a general medium of exchange has greatly simplified the present-future market as compared to the laborious conditions under barter, where there were separate present-future markets for every commodity. (p. 375)
-- *Money* is clearly the present good *par excellence*. (p. 375)
+- ***Money* is clearly the present good *par excellence***. (p. 375)
 - There are two specific types of future goods that enter the time market:
 	- *Credit transaction*
 	- *The purchase of producers’ goods and services, which are transformed over a period of time, finally to emerge as consumers’ goods*
-- *The time market is therefore not restricted to the loan market. It permeates the entire production structure of the complex economy*. (p. 378)
-	- Viz., credit transaction doesn’t exhaust the time market.
+- ***The time market is therefore not restricted to the loan market**. It permeates the entire production structure of the complex economy*. (p. 378)
+	- Viz., **credit transaction doesn’t exhaust the time market**.
 ### 3. Time Preference and Individual Value Scales
 - Many economists have made the great mistake of believing that the interest rate determines the time-preference schedule and rate of savings, rather than *vice versa*. (p. 382)
 - In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market. (p. 382)
 - We cannot compare utilities or values between persons, but we certainly may say that A’s time-preference schedule is *higher* than B’s. In other words, it cannot make sense to compare the rankings or utilities that the two men accord to any particular unit of a good, but we can (if we know them) compare their *schedules* based purely on their demonstrated time preferences. (p. 385)
 - Every man must consume in the present, and this drastically limits his savings regardless of the interest rate. After a certain point, a man’s time preference for the present becomes infinite. (p. 386)
 	- Because one has to consume some amount in the present.
-- The intersection of the two curves—supply of present goods and demand for present goods—determines the *equilibrium rate of interest*—the rate of interest as it would tend to be in the evenly rotating economy. This pure rate of interest is determined *solely by the time preferences of the individuals in the society, and by no other factor*. (p. 389)
+- The intersection of the two curves—supply of present goods and demand for present goods—determines **the *equilibrium rate of interest***—the rate of interest as it would tend to be in the evenly rotating economy. This pure rate of interest **is determined *solely by the time preferences of the individuals in the society, and by no other factor***. (p. 389)
 ### 4. The Time Market and the Production Structure
 - Two main subdivisions of the present-future market:
 	- *The production structure*
@@ -694,15 +695,15 @@ A fuller discussion of the determination of the rate of interest (e.g., see 5-7)
 - The fact that different durations of production processes and different degrees of vertical integration make no difficulties for aggregation permits us to use the diagram almost interchangeably for a single production process and for the economy as a whole. (p. 394)
 	- Scale-independent. #revisit 
 - The temptation has been simply to write off the various intercapitalist transactions as “duplications.” The inference from such concepts is that even without any savings, consumption expenditure is alone sufficient to maintain the productive capital structure intact. (pp. 396-397)
-- This thesis is tragically erroneous. For with production divided into stages, we must consider *all the decisions* to supply present goods on the present-future market to provide for the maintenance of the capital structure. (pp. 397-398)
-- What maintains capital is *gross* expenditures and *gross* investment and not net investment. (p. 399)
-- Civilization advances by virtue of additional capital, which lengthens production processes. The economy would revert to barbarism, with the employment of only the shortest and most primitive production processes. (pp. 399-400)
-- *The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption*. (p. 400)
+- This thesis is tragically erroneous. For with production divided into stages, **we must consider *all the decisions* to supply present goods on the present-future market to provide for the maintenance of the capital structure**. (pp. 397-398)
+- **What maintains capital is *gross* expenditures and *gross* investment and not net investment**. (p. 399)
+- **Civilization advances by virtue of additional capital**, which lengthens production processes. The economy would revert to barbarism, with the employment of only the shortest and most primitive production processes. (pp. 399-400)
+- ***The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption***. (p. 400)
 - *The time preferences of the individuals on the market determine simultaneously and by themselves both the market equilibrium interest rate and the proportions between consumption and savings (individual and aggregate)*. (p. 400)
 - In our example, the increase in time-preference schedules has caused a decline in savings, absolute and proportionate, and a rise in the interest rate. (p. 401)
-	- In general, the supply curve of present goods shifts to the left, but the demand curve for present goods also shift to the right. Interest rate will increase for sure. The level of saving case by case. #revisit
-- Capital per se is not permanent (as endorsed by J.B. Clark, Frank H. Knight, and “neoclassical” economists)—the all-pervading influence of time is stressed in the period-of-production concept and in the determination of the interest rate and of the investment-consumption ratio by individual time-preference schedules. (p. 402)
-	- To argue otherwise is to argue against the multiverse. #revisit 
+	- In general, the supply curve of present goods shifts to the left, but the demand curve for present goods also shift to the right. Interest rate will increase for sure. The level of saving case by case (which makes sense because the rate of interest rises). #revisit
+- **Capital per se is not permanent** (as endorsed by J.B. Clark, Frank H. Knight, and “neoclassical” economists)—the all-pervading influence of time is stressed in the period-of-production concept and in the determination of the interest rate and of the investment-consumption ratio by individual time-preference schedules. (p. 402)
+	- **To argue otherwise is to argue against the multiverse**. #revisit 
 - It is this rate of interest that induces capitalists to save and invest present goods in productive factors. (p. 403)
 	- Not consumers’ spending.
 - There is, in fact, *never any need to worry about the maintenance of consumer spending*. (p. 403)
@@ -710,42 +711,43 @@ A fuller discussion of the determination of the rate of interest (e.g., see 5-7)
 ### 5. Time Preference, Capitalists, and Individual Money Stock
 - *All* consumers *can be capitalists* if they wish. They will be capitalists if their time-preference schedules so dictate. (p. 410) #revisit 
 - How can a laborer or a landowner be a demander of present goods, and then turn around and be a supplier of present goods for investment? The solution to this puzzle is that the two acts *are not performed at the same time*. (p. 411)
-- A landowner’s pre-income demand for money is likely to be practically inelastic, or vertical, while a laborer’s will probably be more elastic. (p. 414)
-	- Viz., regardless of the height of interest rate, the land will be rent out—because the land doesn't have direct use-value for the owner.
+- **A landowner’s pre-income demand for money is likely to be practically inelastic**, or vertical, while a laborer’s will probably be more elastic. (p. 414)
+	- Viz., **regardless of the height of interest rate, the land will be rent out—because the land doesn't have direct use-value for the owner**.
 		- E.g., 6-4
 	- Viz., depending on the height of interest rate, the laborer will work less (or more)—with lower rate he will work more for present money (because he will be paid more as laborer when the time spread is tight), while with higher rate he will work less and can turn as a supplier of present money. #revisit 
-- *The only thing that stops a man from being a capitalist is his own high time-preference scale*. (p. 415)
+- ***The only thing that stops a man from being a capitalist is his own high time-preference scale***. (p. 415)
 - We *cannot compare time preferences interpersonally*, any more than we can formulate interpersonal laws for any other type of utilities. (pp. 415-416)
 - The common-sense observation that it is generally the rich who save more may be an interesting historical judgment, but it furnishes us with no scientific economic law whatever, and the purpose of economic science is to furnish us with such laws. (p. 416)
 ### 6. The Post-Income Demanders
-- The *time market’s components* are savings as supply of present goods for future goods, and *producers’ demand* (i.e., landowners and laborers) and *consumers’ demand* (i.e., borrowing consumers) for present goods. (pp. 417-418)
-- The total savings going into investment in production is the total supply of savings minus consumers’ loan demands for present goods. (p. 419)
+- **The *time market’s components* are savings as supply of present goods for future goods, and *producers’ demand* (i.e., landowners and laborers) and *consumers’ demand* (i.e., borrowing consumers) for present goods**. (pp. 417-418)
+- **The total savings going into investment in production is the total supply of savings minus consumers’ loan demands for present goods**. (p. 419)
 	- See Figure 51
-- We have seen that the productive demand (i.e., that of landowners and laborers) for present goods tends to be inelastic with respect to interest rates. (p. 419)
+- We have seen that **the productive demand (i.e., that of landowners and laborers) for present goods tends to be inelastic with respect to interest rates**. (p. 419)
 	- Viz., this is why consumers’ loan demand curve is almost parallel to the total demand curve.
 - There can be no long-run deviation of the rate of interest on the consumption loan market from the rate of interest return on productive investment. Both are aspects of one time market. (p. 420)
-	- Viz., there is no substantive difference between debt and equity, as will be discussed elsewhere.
-- The rate of interest will tend to be equalized for all areas of the economy, as it were in three dimensions—“horizontally” in every process of production, “vertically” at every stage of production, and “in depth,” in the consumer loan market as well as in the production structure. (p. 420)
+	- Viz., **there is no substantive difference between debt and equity**, as will be discussed elsewhere.
+- **The rate of interest will tend to be equalized for all areas of the economy, as it were in three dimensions—“horizontally” in every process of production, “vertically” at every stage of production, and “in depth,” in the consumer loan market as well as in the production structure**. (p. 420)
 ### 7. The Myth of the Importance of the Producers’ Loan Market
-- The productivity of production processes has no basic relation to the rate of return on business investment. This rate of return depends on the price spreads between stages, and these price spreads will tend to be equal. The size of the price spread, i.e., the size of the interest rate, is determined, as we have seen at length, by the time-preference schedules of all the individuals in the economy. (p. 424)
+- **The productivity of production processes has no basic relation to the rate of return on business investment**. This rate of return depends on the price spreads between stages, and these price spreads will tend to be equal. The size of the price spread, i.e., the size of the interest rate, is determined, as we have seen at length, by the time-preference schedules of all the individuals in the economy. (p. 424)
+	- **Because the rate of return will be equalized**.
 - The neoclassicists are partly right in only one respect—that the rate of interest in the producers’ loan market is dependent on the rates of return on investment. They hardly realize the extent of this dependence. (p. 424)
 - From the point of view of fundamental analysis, there need not be any producers’ loan market at all. (p. 425)
 ### 8. The Joint-Stock Company
-The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ERE is inhabited by all-knowing beings, because it’s deterministic. Inverted, the laws of physics forbid all-knowing being. #revisit 
+The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ERE is inhabited by all-knowing beings, because it’s deterministic. Inverted, **the laws of physics forbid all-knowing being**. #revisit 
 - With the assumption of the ERE, to the superficial, it looks as if the firm is an automatically continuing thing and as if the production is somehow timeless and instantaneous, ensuing immediately after the factor input. (p. 427)
 - The *joint-stock company*:
 	- Wherein each investor-owner receives a *share* (or *stock*)—a certification of ownership in proportion to the amount he has invested in thee total capital of the company. (p. 429)
 - It is easy for new capital to be attracted through the issuance of new shares. It is also easier for any owner to withdraw his capital from the firm. (p. 431)
-- In the ERE, *the share market is strictly dependent on the price spreads*. If the price spreads are 5 percent, the rate of interest return yielded on the share market (the ratio of earnings per share to the market price of the share) will tend to equal the rate of interest as determined elsewhere on the time market. (p. 431)
+- In the ERE, *the share market is strictly dependent on the price spreads*. If the price spreads are 5 percent, **the rate of interest return yielded on the share market** (the ratio of earnings per share to the market price of the share) **will tend to equal the rate of interest as determined elsewhere on the time market**. (p. 431)
 - Far from rendering economic analysis obsolete, the modern world of the corporation aids analysis by separating and simplifying functions in production—specifically, the managerial function. (pp. 433-434)
 - In the ERE, where all techniques, market demands and supplies, etc., for the future are known, the investment function becomes purely passive and waiting. (p. 434)
-	- Viz., the investment return in the ERE is exclusively dependent on *time* element.
+	- Viz., **the investment return in the ERE is exclusively dependent on *time* element**.
 - Some theorists lapse into the sheer mysticism of considering the “corporation”—a conceptual name which we give to an institution owned by real individuals—as “really” existing and acting by itself. (p. 435)
 	- E.g., 法人論 #revisit 
 ### 9. Joint-Stock Companies and the Producers’ Loan Market
- - In essence, the creditor on the prospective loan market is no different from the man who has invested in stock. (p. 436)
+ - In essence, **the creditor on the prospective loan market is no different from the man who has invested in stock**. (p. 436)
  - The interest rate is determined by the various time-preference schedules, and the final rate is set by the saving schedules, on the one hand, and by the demand-for-present-goods schedules, on the other. (p. 437)
-	 - You must evoke others—other configurations (i.e., contingencies)—to explain interest rate. #develop 
+	 - **You must evoke others—other configurations (i.e., contingencies)—to explain interest rate**. #develop 
  - *The difference between investing in stock and lending money to firms is mainly a technical one*. (p. 437)
  - The interest return on investment, as set by total savings and total demands by owners of factors, *completely determines the rate of interest on the producers’ loan market* as well as the rate of earning on stock. (p. 437)
  - The creditors *get first claim* on the assets of a corporation, and they get paid before the stockholders. They are therefore definitely owners of these assets. (p. 439)
@@ -753,24 +755,37 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 	 - E.g., MMA, and MMF. #develop
 - Each individual attempts to maximize his *psychic* income, and this will translate itself into maximizing his *monetary* income only if other psychic ends are neutral. (p. 441)
 - The disfavored armament industry example:
-	- The burden of the lower prices at each stage of production falls on the *purely specific* factors in the industry, those which *must* be devoted to this industry if they are to be in the production system at all. (p. 442)
-	- It is therefore likely to be specific *land* factors that bear the brunt of the lower return. (p. 442)
+	- **The burden of the lower prices at each stage of production falls on the *purely specific* factors in the industry**, those which *must* be devoted to this industry if they are to be in the production system at all. (p. 442)
+	- **It is therefore likely to be specific *land* factors that bear the brunt of the lower return**. (p. 442)
 - The rates of interest will differ in accordance with a “psychic” component, either positive or negative, depending on whether there is an acute dislike or liking among investors for a particular production process. (p. 443)
-### 10. Forces Affecting Time Preferences
+### 10. Forces Affecting Time Preferences #revisit 
 - Praxeological analysis can supply some truths about time preferences, using *ceteris paribus* assumptions. (pp. 443-444)
 	- Thanks to the multiverse.
-- It is not his *money* stock that is relevant to his time preferences, but the *real* value of his money stock. In the ERE, of course, where the purchasing power of the money unit remains unchanged, the two are identical. *Ceteris paribus*, an increase in his real income—real additions to his money stock—will lower the time-preference rate on his schedule. (p. 444)
+- Here, one element, a man’s money stock, is varied and **his value scale is otherwise assumed to remain constant**. (p. 444)
+- **It is not his *money* stock that is relevant to his time preferences, but the *real* value of his money stock**. In the ERE, of course, where the purchasing power of the money unit remains unchanged, the two are identical. *Ceteris paribus*, **an increase in his real income—real additions to his money stock—will lower the time-preference rate on his schedule**. (p. 444)
 	- E.g., 8-2
+	- Relate this with [[Eric Voskuil]]’s [Time Preference Fallacy]
+	- Implication: in the progressing economy, since the real wages and rents will increase, the rate of time-preferences will decrease.
+		- However, the question is what brings about the increased saving in the first place. It must be from the changes in the time-preferences.
 - If people all became immortal and healthy as a result of the discovery of some new drug, time preferences would tend to be very much lower, there would be a great increase in investment, and the pure rate of interest would fall sharply. (pp. 444-445)
 	- Related: [[Economics of God]]
 ### 11. The Time Structure of Interest Rates
-Arbitragers will equalize the rate of interest throughout the time structure (e.g., across *short-term* and *long-term* bonds)
+**Arbitragers will equalize the rate of interest throughout the time structure** (e.g., across *short-term* and *long-term* bonds)
 - Just as speculative errors in regard to commodity prices cause losses and impel further change to the “real” underlying price, so speculative errors will be self-correcting here too and lead the rate of interest to the height determined by underlying time preferences. (pp. 448-449)
-- The stock market equates the rate of interest on all investments, obliterating the differences in time structure so thoroughly that it becomes difficult for many writers to grasp the very concept of period of production. (p. 449)
+- **The stock market equates the rate of interest on all investments, obliterating the differences in time structure so thoroughly that it becomes difficult for many writers to grasp the very concept of period of production**. (p. 449)
 	- Related: [[5-2b5 Theories precede data]]
 ### Appendix: Schumpeter and the Zero Rate of Interest
 - If the rate of interest paid were zero, complete capital consumption would ensue. (p. 452)
 - The authors’ “proof” simply consists of ignoring the powerful, universal fact of time preference. (p. 452)
+### Personal Question
+- Does the laws of physics forbid all-knowing being (e.g., God)? 
+### Personal Answers #revisit 
+- What actually happens: the time-preference schedules of the individuals in the economy shifts, which is synonymous with the lowering of interest rate and with more saving and with more investment → capital accumulation → higher real incomes → the rate of time-preference schedule lowers (along the same post-shift time-preference schedules) due to the laws of DMU. 
+	- It is not circular reasoning.
+	- The loop doesn’t continue indefinitely, as the effect of the initial shift will be absorbed in the secondary effect.
+		- Put differently: The endogenous consequences of an exogenous change in time preference eventually play themselves out, and do not perpetuate the process unless the underlying preferences shift again.
+- The intersection of demand-for and supply-of present goods’ curves does not imply the level of saving (x-axis), but rather the amount actually transacted in the time market at the equilibrium interest rate (y-axis): the quantity of present goods transacted (x-axis) might increase, decrease, or stay the same depending on the shapes of the curves. But the point is that the real behavioral change—more saving—is still present.
+	- In short, lowering shift of time-preferences schedule *means* the increase in saving.
 ## Chapter 7: Production—General Pricing of the Factors
 ### 1. Imputation of the Discounted Marginal Value Product
 - The mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning. (p. 508)
