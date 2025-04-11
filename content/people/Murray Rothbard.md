@@ -802,9 +802,7 @@ The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ER
 - The intersection of demand-for and supply-of present goods’ curves does not imply the level of saving (x-axis), but rather the amount actually transacted in the time market at the equilibrium interest rate (y-axis): the quantity of present goods transacted (x-axis) might increase, decrease, or stay the same depending on the shapes of the curves. But the point is that the real behavioral change—more saving—is still present.
 	- In short, the lowering shift of time-preference schedules *means* the increase in saving.
 ## Chapter 7: Production—General Pricing of the Factors
-That the mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning. That the key question is *specificity* of factors. That in the ERE every isolable factor will earn its DMVP and this will be its price. That since factor units by definition are interchangeable, the value of one unit will be equal to the value of every other unit at any one time. That the array of MVPs as a whole is the determining factor, and the lowest-ranking process in terms of MVP will, through the medium of factor prices, transmit its message, so to speak, to the various firms, each of which will use the factor to such an extent that its DMVP will be brought into alignment with its price. That the nonspecific factor’s price will be set equal to its DMVP as determined by its general DMVP schedule—the full possible array of DMVPs. That the price exists because of the fungibility achieved due to the laws of physics which allows information via abstraction (i.e., interoperability)—the laws of physics allow the interoperability laws, which in turn allow the formation of market price. That no factor will be employed in the region where the MPP is negative. That a factor will always be employed in a production process in such a way that it is in a region of declining APP and declining but positive MPP—so that additional units of the factor employed in the process will lower the MPP. That the MVP curve of the factor will always be falling, and falling at a more rapid rate than the MPP curve.  
-
-That wages are paid out of capital in the overwhelming majority of cases, and that this majority becomes more preponderant the greater the stock of capital in the society. That one of land’s most fundamentally indestructible features is *its physical space*—its part of the surface of the earth. 
+That the mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning. That the key question is *specificity* of factors. That in the ERE every isolable factor will earn its DMVP and this will be its price. That since factor units by definition are interchangeable, the value of one unit will be equal to the value of every other unit at any one time. That the array of MVPs as a whole is the determining factor, and the lowest-ranking process in terms of MVP will, through the medium of factor prices, transmit its message, so to speak, to the various firms, each of which will use the factor to such an extent that its DMVP will be brought into alignment with its price. That the nonspecific factor’s price will be set equal to its DMVP as determined by its general DMVP schedule—the full possible array of DMVPs. That the price exists because of the fungibility achieved due to the laws of physics which allows information via abstraction (i.e., interoperability)—the laws of physics allow the interoperability laws, which in turn allow the formation of market price. That no factor will be employed in the region where the MPP is negative. That a factor will always be employed in a production process in such a way that it is in a region of declining APP and declining but positive MPP—so that additional units of the factor employed in the process will lower the MPP. That the MVP curve of the factor will always be falling, and falling at a more rapid rate than the MPP curve. That the producers will employ the factor in such a way *that its DMVP will be equalized among all the uses*—if a certain line of production has higher MVP for a factor, the producers will employ more of that factor in that line of production, until its MVP is lowered and equalized with MVP in other lines of production. That the same DMVP can be achieved with higher (or lower) MPP and lower (or higher) Price. That the Price in *MVP = MPP x Price* refers to the anticipated price of the output as estimated by the entrepreneur—not an existing market price. That in the ERE the actual market price of the consumer good and the entrepreneur’s anticipation of that price coincide. That prices of final goods emerge _after_ production is completed and goods are sold—so you can’t use them up front to determine factor prices. That in the free-market process, there is no separation between production and “distribution”—the production factors are valued when it’s distributed, as it were, because the anticipated price meets the actual price through exchange. That wages are paid out of capital in the overwhelming majority of cases, and that this majority becomes more preponderant the greater the stock of capital in the society. That one of land’s most fundamentally indestructible features is *its physical space*—its part of the surface of the earth. That rent is the same as *hire*, and is the fundamental price—men value goods in *units* and not as wholes; the *unit price* is the fundamental price on the market. That capital value is completely dependent on the rental prices of the good, its physical durability, and the rate of interest. That the world, or country, cannot sell all its capital on the market. That a major characteristic of land as compared to capital goods is that its series of future rents is generally *infinite*, since it is physically indestructible—the fact that lands *do* have prices is an indication that there is always a time preference. That in the ERE: Incomes = Wages + Interest (because land rent is treated as part of capital and absorbed into interest in the ERE). That there is a crucial distinction between land and capital goods—the capital value of capital goods still reduces to wages and the capital value of land, because land is indestructible and given in the economy—it retains its value *across time*. That in a *changing* economy: Incomes = Wages + Interest + Increases in the capital value of land (because all capital goods ultimately reduce to labor and land). That all capital goods are ultimately a product of physical indestructibility, human ability to create wealth, and time—land, labor, and time. That the ERE analysis holds because land *is* indestructible. That if you assume land to be reproducible, then something else must exist to enable that reproduction—but _that_ something would then play the same role as land: nonreproducible, persistent, and foundational. That market prices are never the explanatory starting point. That subjective preferences are necessary for market prices to emerge. That market prices are necessary for rational economic calculation and coordination in a complex economy. That only in a money economy can profit and loss be calculated—money bridges past (anticipation) and future (result). That money is imperfect, but indispensable for economic calculation. 
 ### 1. Imputation of the Discounted Marginal Value Product
 - **The mathematical bent toward replacing the concepts of cause and effect by mutual determination has contributed to the willingness to engage in circular reasoning**. (p. 508)
 - According to the law of returns, there is an optimum of proportions of factors, given other factors, in the production of any given product. We shall see that our analysis of factor pricing is based only on this praxeological law and not on more restrictive technological assumptions. (pp. 455-456)
@@ -848,26 +846,26 @@ That wages are paid out of capital in the overwhelming majority of cases, and th
 - **The MVP curve of the factor will always be falling, and falling at a *more rapid* rate than the MPP curve**. (p. 475)
 	- Because the greater the stock the cheaper the price, and because MVP = MPP x Price. #revisit 
 		- The caveat is discussed in 7-A. #revisit 
-- The producers will employ the factor in such a way *that its DMVP will be equalized **among all the uses***. (p. 475)
-	- Viz., if a certain line of production has higher MPP for a factor, the producers will employ more of that factor in that line of production, until its MPP is lowered and equalized with MPP in other lines of production.
+- **The producers will employ the factor in such a way *that its DMVP will be equalized among all the uses***. (p. 475)
+	- Viz., **if a certain line of production has higher MVP for a factor, the producers will employ more of that factor in that line of production, until its MVP is lowered and equalized with MVP in other lines of production**.
+		- The equalized DMVP can be achieved with different MPP and Price. 
+			- Viz., **the same DMVP can be achieved with higher (or lower) MPP and lower (or higher) Price**. 
 	- Again, the economist must evoke all the producers, instead of one particular entrepreneur.
-- By looking at a factor in all of its interrelations, *we have been able to explain the pricing of its unit service without previously assuming the existence of the price itself*. (p. 476)
+- By looking at a factor in all of its interrelations, *we have been able to explain the pricing of its unit service **without previously assuming the existence of the price itself***. (p. 476)
 	- Rothbard is providing a time-structured causal explanation:
 		- Consumers’ preferences determine the value of consumer goods.
+			- Hence the prior discussion of pricing consumers’ good in Chapter 4. #revisit 
+			- However, **the Price (of MVP = MPP x Price) does refer to the anticipated price of the output as estimated by the entrepreneur—not an existing market price**.
 		- This value is imputed backward to the higher-order capital goods (factors of production).
 		- MPP is a technical relation (how much output a unit of factor adds).
-		- Multiply that MPP by the subjectively determined value of the final good (not yet market price) to get the MVP.
+		- Multiply that MPP by the subjectively determined value of the final good (not yet market price—**in the ERE the actual market price of the consumer good and the entrepreneur’s anticipation of that price coincide**) to get the MVP.
+			- **Market prices of final goods emerge _after_ production is completed and goods are sold—so you can’t use them up front to determine factor prices.** 
+			- The MVP is thus based on anticipated consumer valuations—not on existing prices of goods—which avoids circular reasoning.
 		- The price of the factor, then, is determined by the MVP discounted by the interest rate, since production takes time.
-	- Viz., Rothbard isn't assuming MVP depends on an already-existing market price—he’s saying the MVP arises from subjective valuations + MPP + time:
-		- Because factor prices are imputed when the consumers' goods are sold (or via the capitalist who provides the discounted amount of present money which is the equivalent of the consumers' goods discounted by the time element—the interest rate), instead of factor prices influencing the price of consumers' goods (the circular reasoning employed by the neo-classics). His analysis of production processes without the capitalist clarifies the point.
-			- MPP = physical contribution (independent of prices)
-			- Subjective valuation of output = value
-			- MVP = MPP × value of output
-			- Factor price = MVP discounted by time preference
-		- No circularity involved, since factor prices are not assumed up front.
 - The fact that most factors (and all labor factors) are nonspecific enables the market to isolate value productivity and to tend to pay each factor in accordance with this marginal product. On the free market, the price of each factor is not determined by “arbitrary” bargaining, but tends to be set strictly in accordance with its DMVP. (p. 477)
 - **In the free-market process, there is no separation between production and “distribution.”** There is no separate “distribution”; there is only production and its corollary, exchange. (p. 477)
 	- Because **the production factors are valued when it’s distributed, as it were**. #revisit 
+	- **Or more precisely, the anticipated price meets the actual price through exchange**.
 ### 3. The Source of Factor Incomes
 - The time-honored controversy in economics: Which is the source of wages—capital or consumption? (p. 478)
 - We must conclude that in the dispute between the classical theory that **wages are paid out of capital** and the theory of Henry George, J.B. Clark, and others that wages are paid out of the annual product consumed, the former theory is correct in **the overwhelming majority of cases, and that this majority becomes more preponderant the greater the stock of capital in the society**. (p. 479)
@@ -880,7 +878,7 @@ That wages are paid out of capital in the overwhelming majority of cases, and th
 - “Basic land” (or “ground land”) in this treatise refers to the *soil without maintenance*, in the case of agriculture, or the *pure site without depreciating superstructure*, in the case of urban land. (p. 487)
 	- What about cyberspace? #revisit 
 		- To the extent that its infrastructure depends on physical facilities (and this must be so, because all computations are physical processes), the analysis here should also apply to cyberspace.
-		### 5. Capitalization and Rent #revisit 
+### 5. Capitalization and Rent #revisit 
 - “Rent”: *the unit price of the services of any good*. (p. 488)
 - **Rent is the same as *hire***. (p. 488)
 - ***The rents are the fundamental prices*—men value goods in *units* and not as wholes; the *unit price* is the fundamental price on the market**. (p. 489)
@@ -893,13 +891,12 @@ That wages are paid out of capital in the overwhelming majority of cases, and th
 		- E.g., if r=10%, and annual-perpetual-rent=10, then PV=100.
 - *No one* receives pure rent except laborers in the form of wages, that the *only* incomes in the productive ERE economy are *wages* (the term for the prices and incomes of labor factors) and *interest*. (p. 495)
 	- Because land rent is treated as part of capital and absorbed into interest in the ERE.
-	- Pure rent = return to a factor that is _not_ a result of human investment (i.e., nature-given land)
 	- **In the ERE, Incomes = Wages + Interest**
 - But there is still a crucial distinction between land and capital goods. For we see that a fundamental, irreducible element is the *capital value of land*. The capital value of capital goods still reduces to wages and the capital value of land. (p. 495)
-	- Because land is indestructible and given in the economy—it retains its value ***across time***. #develop 
+	- **Because land is indestructible and given in the economy—it retains its value *across time***. #develop 
 - In a *changing* economy, there is another source of income: *increases in the capital value of ground land*. (p. 495)
-	- Incomes = Wages + Interest + Increases in the capital value of land. 
-		- Because, again, all capital goods ultimately reduces to labor and land. #revisit 
+	- **Incomes = Wages + Interest + Increases in the capital value of land**. 
+		- Because, again, all capital goods ultimately reduce to labor and land. #revisit 
 ### 6. The Depletion of Natural Resources
 What is the purpose of this section? #revisit 
 Revisit the concept of *net rent* (e.g., p. 498) #revisit 
@@ -911,6 +908,27 @@ Revisit the concept of *net rent* (e.g., p. 498) #revisit
 ### Appendix B: Professor Rolph and the Discounted Marginal Productivity Theory
 ### Personal Question
 - MVP doesn’t need market price?
+	- Yes. It doesn’t need factor prices. Better yet, it also doesn’t need that of consumer goods.
+- Is it essential that MVP doesn't rely on market prices *at all*? Is the point then how subjective values determine everything—not only prices of consumers' goods but also that of factors of production processes?
+	- The point is not that MVP must ignore market prices, but rather that **market prices are never the explanatory starting point**. #develop #Ayache 
+		- Price is not primary causally or explanatorily—they are results derived from subjective preferences and MPP.
+			- **Subjective preferences are necessary for market prices to emerge**.
+		- Price is primary epistemically or practically—they are signals that allow entrepreneurs to coordinate.
+			- **Market prices are necessary for rational economic calculation and coordination in a complex economy**.
+				- **Only in a money economy can profit and loss be calculated—money bridges past (anticipation) and future (result)**.
+					- Profit and loss are calculated in money terms, not in real terms. This limits their precision, since the purchasing power of money changes over time and across contexts. But no other good can serve as a universal denominator—**money is imperfect, but indispensable for economic calculation**. #revisit
+						- E.g., Ch. 11
+- **Does the ERE analysis hold because land is indestructible?** #revisit 
+	- Destructibility implies change.
+	- Relate this with [[Eric Voskuil]]’s [Depreciation Principle].
+	- The ERE doesn’t just abstract from reality—it depends on reality. Specifically, on the physical indestructibility of land to make timeless, equilibrium-based reasoning coherent.
+		- The ERE is physically possible. #develop 
+	- **If you assume land to be reproducible, then something else must exist to enable that reproduction. But _that_ something would then play the same role as land: nonreproducible, persistent, and foundational**.
+		- This necessity reveals the conceptual function of “land” in economic theory: not as a physical substance, but as a foundational category of input whose permanence makes equilibrium analysis possible.
+### Personal Thought
+- **All capital goods are ultimately a product of physical indestructibility, human ability to create wealth, and time—land, labor, and time.**
+	- Numerically, incomes reduce to wages and interest.
+	- Categorically, incomes are earned by laborers, capitalists, and landowners—and what differentiates the latter two is the physical indestructibility of land.
 ## Chapter 8: Production—Entrepreneurship and Change
 That more investment will result in the longer production processes (also discussed in 1-9). That you don’t want to be the best but the only. That real wages and rents will rise in a progressing economy. That the existence of time preference acts as a brake on the use of the more productive but longer processes. That technology, while important, must always work through an investment of capital. That the laborers are external beneficiaries of increased investment, while the main benefits gained by the investors are short-run entrepreneurial profits. That nothing necessarily changes time-preference: the more money you have, the more of it will be invested due to DMU—but that doesn’t guarantee a shift in time-preference schedules. That class probability *par excellence* cannot be realized in a universe.
 ### 1. Entrepreneurial Profit and Loss
