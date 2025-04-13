@@ -1192,28 +1192,54 @@ Once we take into account transactions costs, it is possible for multiple prices
 ### 7. Patents and Copyrights
 On a free market, there would be no analogue to the patent; someone who independently discovers a technological recipe would be free to begin using it immediately. However, there *would* be copyrights, in the sense that it would be illegal to fraudulently impersonate another individual when selling a good or service.
 ## Chapter 11: Money and Its Purchasing Power
+### 1. Introduction
+- In chapter 4 we discussed money prices and their formation, analyzed the marginal utility of money, and demonstrated how monetary theory can be subsumed under utility theory by means of the money regression theorem. (p. 755)
+	- His argument likely stands even without relying on reggressoin theorem. #revisit
+### 2. The Money Relation: The Demand for and the Supply of Money
+### 3. Changes in the Money Relation
+### 4. Utility of the Stock of Money
 ### 5. The Demand for Money
-#### D. Demand for Money Unlimited?
+#### A. Money in the ERE and in the Market
+#### B. Speculative Demand
+##### C. Secular Influences on the Demand for Money
+#### D. Demand for Money Unlimited
 Anyone who owns any nonmonetary asset demonstrates that he or she does *not* want “more money.”
 #### E. The PPM and the Rate of Interest
 The PPM and the rate of interest are not inherently connected. For example, the demand for money could increase (raising the PPM), yet if time preferences remain the same, this will not affect the (real) rate of interest. Instead, each person could increase his cash balances by reducing expenditures on present *and* future goods in a proportion reflecting the original time preference.
-#### F. Hoarding and the Keynesian System
-Only if we assume that workers do care about *money* (rather than real) wages could hoarding have such sinister effects.
 #### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest
 The nominal rate can never be *negative*, and so Fisher’s explanation can’t be the whole story in times of severe price deflation.
 - The purchasing power component, then, is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
 ### 6. The Supply of Money
+#### A. The Stock of the Money Commodity
 #### B. Claims to Money: The Money Warehouse
 Rothbard claims here that, in a free market, FRB would be illegal because of its fraudulent nature.
+#### C. Money-Substitutes and the Supply of Money
 #### D. A Note on Some Criticisms of 100-Percent Reserve
-### 16. Schumpeter’s Theory of Business Cycles
-Schumpeter doesn’t explain why there should be sudden *clusters* of innovation that trigger the boom-bust cycle.
+### 7. Gains and Losses During a Change in the Money Relation
+### 8. The Determination of Prices: The Goods Side and the Money Side
+### 10. Balances of Payments
+### 11. Monetary Attributes of Goods
+#### A. Quasi Money
+#### B. Bills of Exchange
+### 14. The Fallacy of Measuring and Stabilizing the PPM
+#### A. Measurement
+#### B. Stabilization
+### 15. Business Fluctuations
+### Personal Question
+- Is the regression theorem essential?
+- Is Fisher’s Real Interest Rate Equation conceptually wrong? Maybe what is needed is the ERE analysis?
 ## Chapter 12: The Economics of Violent Intervention in the Market
 ### 4. Utility *Ex Post*: Free Market and Government
 People always *expect* to benefit from voluntary exchanges, and in practice they usually *will* do so. In particular, inept businesses soon go bankrupt while entrepreneurs who make good forecasts earn profits. In contrast, in the government sector there are no mechanisms to minimize error. When a government policy fails in its stated objectives, the politicians do not necessarily suffer and the voters may not be sophisticated enough to perceive the true causes of the failure.
 ### 11. Binary Intervention: Inflation and Business Cycles
+#### A. Inflation and Credit Expansion
 #### B. Credit Expansion and the Business Cycle
 In a credit expansion the government artificially lowers the interest rate, thereby spurring investment in higher stages of production. There is a temporary “boom” period of illusory prosperity. But unlike a genuine expansion spurred by actual saving, in the case of credit expansion the capital structure becomes unbalanced and eventually entrepreneurs realize that their plans cannot be fulfilled. The “bust” ensues when businesses discontinue the unprofitable lines and resources must be reallocated to their proper uses.
+#### C. Secondary Developments of the Business Cycle
+#### D. The Limits of Credit Expansion
+#### E. The Government as Promoter of Credit Expansion
+#### F. The Ultimate Limit: The Runaway Boom
+#### G. Inflation and Compensatory Fiscal Policy
 ### 12. Conclusion: The Free Market and Coercion
 - Proudhon, indeed, wrote better than he knew when he called “Liberty, the Mother, not the Daughter, of Order.” (pp. 1024-1025)
 	- Liberty → Order
