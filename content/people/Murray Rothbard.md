@@ -1194,18 +1194,57 @@ On a free market, there would be no analogue to the patent; someone who independ
 ## Chapter 11: Money and Its Purchasing Power
 ### 1. Introduction
 - In chapter 4 we discussed money prices and their formation, analyzed the marginal utility of money, and demonstrated how monetary theory can be subsumed under utility theory by means of the money regression theorem. (p. 755)
-	- His argument likely stands even without relying on reggressoin theorem. #revisit
+	- His argument likely stands even without relying on regressoin theorem. #revisit
 ### 2. The Money Relation: The Demand for and the Supply of Money
+- The money commodity, however, can be expressed only by an array of all the other commodities. (p. 756)
+	- In everything other than itself (i.e., contingencies). #develop 
+- The changes in the array cannot be measured. (p. 756)
+- The (exchange) demand curves for money in terms of land, capital goods, and consumers’ goods will tend to be perfectly inelastic. (p. 757)
+	- Viz., people want money regardless of its "price"—because people will sell *ready-made products* for money regardless of its price, if speculative component is assumed absent.
+- In determining labor’s demand curve for money, we can be far more certain—*the man earns more money at the higher wage rate*. (pp. 757-758)
+	- A man’s backward-sloping supply curve will never be “backward” enough to make him earn *less money* at higher wage rates. (p. 758)
+- *The higher the exchange-value of money (i.e., the PPM), the lower the quantity of money demanded; the lower the exchange-value of money, the higher the quantity of money demanded.* (p. 758)
+	- I.e., the lower the wage rate, the less money earned; the higher the wage rate, the more money earned.
+- On the labor market, the demand-for-money schedule is not vertical, but falling, when the exchange-value of money increases, as in the case of any demand curve. (p. 759)
+	- When things are cheaper (i.e., higher PPM), you need less money. The higher wage rate implies cheaper money, and people will acquire more (although he may labor less).
+- Adding the vertical demand curves for money in the other exchange markets to the falling demand curve in the labor market, we arrive at a falling exchange-demand curve for money. (p. 759)
+- *The reservation demand curve for money in the cash balance also falls as the exchange-value of money increases*. (p. 760)
+- All total demand is to hold. (p. 761)
+	- In accord with our analysis of total demand in Chapter 2.
 ### 3. Changes in the Money Relation
+- The purchasing power of money is determined by two factors: *the total demand schedule for money to hold* and *the stock of money in existence*. (p. 762)
 ### 4. Utility of the Stock of Money
+- The utility of money (setting aside the *non*monetary use of the money commodity) depends solely on its prospective use as the general medium of exchange. (p. 764)
+	- Viz., everyone in the economy must use the money. #revisit 
+- The sole use of money is to be exchanged for goods, and if it had no price and therefore no exchange-value, it could not be exchanged and would no longer be used. (p. 765)
+	- Viz., people want more goods—people want more money to the extent that it can be exchanged with other goods.
+- *Every supply of money is always utilized to its maximum extent, and hence no social utility can be conferred by increasing the supply of money*. (p. 766)
+- An increase in the supply of gold, although conferring no *monetary* benefit, does confer a social benefit by increasing the supply of gold for direct use. (p. 767)
+	- To be more precise, gold mining has monetary benefit—it is the only thing that sustains the PPM (see [[Eric Voskuil]]’s [Inflation Fallacy]). #revisit 
 ### 5. The Demand for Money
 #### A. Money in the ERE and in the Market
 #### B. Speculative Demand
+- *An expected future fall in the PPM will tend to lower the PPM now*. (p. 768)
+- The speculative demand for money functions in the same manner as the speculative demand for any good. (p. 769)
+- In the field of money as well as in that of specific goods, speculative anticipations are self-correcting, not “self-fulfilling.” (pp. 770-771)
+	- Relate this with [[Eric Voskuil]]. #revisit 
 ##### C. Secular Influences on the Demand for Money
+- The ever more occasions for new exchanges in an advancing economy tend to increase the demand-for-money schedule. (p. 771)
+- The major long-run factor counteracting this tendency and tending toward a *fall* in the demand for money is the growth of the *clearing system*. (p. 771)
+- The scope for clearing is vastly increased when *credit* transactions come into play. (pp. 771-772)
 #### D. Demand for Money Unlimited
 Anyone who owns any nonmonetary asset demonstrates that he or she does *not* want “more money.”
+- *Demand* on the market does not refer to all possible entries on people’s value scales; it refers to *effective* demand, to desires made effective by being “demanded,” i.e., by the fact that something else is “supplied” for it. (pp. 772-773) #develop 
+	- Again, demand is supply.
+- Effective demand for money is limited by the appraised value of the goods a person can sell in exchange and by the amount of that money which the individual wants to spend on goods rather than keep in his cash balance. (p. 773)
+- It is not “money” *per se* that he wants and demands, but money for its purchasing power, or “real” money, money in some way expressed in terms of what it will purchase. (p. 773)
 #### E. The PPM and the Rate of Interest
 The PPM and the rate of interest are not inherently connected. For example, the demand for money could increase (raising the PPM), yet if time preferences remain the same, this will not affect the (real) rate of interest. Instead, each person could increase his cash balances by reducing expenditures on present *and* future goods in a proportion reflecting the original time preference.
+- *There is no reason to suppose that this increase affects the consumption/investment proportion at all*. (p. 774)
+- *There is no reason why a change in the demand for money should affect the interest rate one iota*. (p. 774)
+- If the PPM falls, then more money in the hands of an individual may not necessarily lower the time-preference rate on his schedule, for the more money may only just compensate him for the fall in the PPM, and his “real money stock” may therefore be the same as before. (pp. 774-775)
+	- As argued elsewhere, what matters is the real income. #revisit 
+#### F. Hoarding and the Keynesian System #revisit 
 #### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest
 The nominal rate can never be *negative*, and so Fisher’s explanation can’t be the whole story in times of severe price deflation.
 - The purchasing power component, then, is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
