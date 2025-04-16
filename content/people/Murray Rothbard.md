@@ -1290,8 +1290,15 @@ The problem is uncovered money-substitutes, and not credit.
 - When a change in the money relation causes prices to rise, the man whose selling price rises before his buying prices gains, and the man whose buying prices rise first, loses. (p. 812)
 - Which people gain and which lose from any given change is an empirical question, dependent on the location of changes in elements of the money relation, institutional conditions, anticipations, speeds of reaction, etc. (pp. 812-813)
 - *New money enters the system at some specific point* and then becomes diffused in this way throughout the economy. (p. 813)
-- 
+- An increase in gold is socially useful only to the extent that it makes possible an increase in the nonmonetary, direct use of gold. (p. 814)
+	- Rothbard also errs here, because market money production (including both commodity money and non-commodity money) stabilizes the price level—a *monetary* benefit (see [[Eric Voskuil]]’s [Inflation Fallacy]). #revisit 
+- The gainers of wealth during the transition period will have a structure of preferences and demand different from that of the losers. As a result, demand itself will shift in structure, and the new equilibrium will have a different set of relative prices. Similarly, the change will probably not be neutral to time preferences. (pp. 814-815)
+- Money changes have the “driving force,” it may be noted, even in the fanciful case of the automatic overnight doubling of the supply of everyone’s cash balance. Each individual has a differently shaped demand-for-money schedule, and it is impossible to predict how each will be shaped. The structure of demand will change, and a decreased PPM will not double all prices; some will increase by more and some by less than double. (p. 815)
 ### 8. The Determination of Prices: The Goods Side and the Money Side
+- 
+### 9. Interlocal Exchange #revisit 
+#### A. Uniformity of the Geographic Purchasing Power of Money #revisit 
+#### B. Clearing in Interlocal Exchange #revisit 
 ### 10. Balances of Payments
 ### 11. Monetary Attributes of Goods
 #### A. Quasi Money
