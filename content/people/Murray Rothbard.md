@@ -1228,7 +1228,7 @@ On a free market, there would be no analogue to the patent; someone who independ
 - The speculative demand for money functions in the same manner as the speculative demand for any good. (p. 769)
 - In the field of money as well as in that of specific goods, speculative anticipations are self-correcting, not “self-fulfilling.” (pp. 770-771)
 	- Relate this with [[Eric Voskuil]]. #revisit 
-##### C. Secular Influences on the Demand for Money
+#### C. Secular Influences on the Demand for Money
 - The ever more occasions for new exchanges in an advancing economy tend to increase the demand-for-money schedule. (p. 771)
 - The major long-run factor counteracting this tendency and tending toward a *fall* in the demand for money is the growth of the *clearing system*. (p. 771)
 - The scope for clearing is vastly increased when *credit* transactions come into play. (pp. 771-772)
@@ -1240,21 +1240,57 @@ Anyone who owns any nonmonetary asset demonstrates that he or she does *not* wan
 - It is not “money” *per se* that he wants and demands, but money for its purchasing power, or “real” money, money in some way expressed in terms of what it will purchase. (p. 773)
 #### E. The PPM and the Rate of Interest
 The PPM and the rate of interest are not inherently connected. For example, the demand for money could increase (raising the PPM), yet if time preferences remain the same, this will not affect the (real) rate of interest. Instead, each person could increase his cash balances by reducing expenditures on present *and* future goods in a proportion reflecting the original time preference.
+Since the PPM is synonymous with demand for money, its demand per se has nothing to do with the pure rate (just like with any other good)—demand for money determines PPM, and time preference determines (which is concerned with present vs. future goods, not money vs. goods) the pure interest rate. The two are logically distinct, yet Fisher’s formulation makes it impossible for him to see how the interrelatedness of the PPM and the interest rate is not necessarily causal (see 11-5-G). #revisit  
+Fisher's framework confuses correlation with causation, and then locks that confusion into a formal identity that obscures the real process: human action.
+The PPM is an effect of either external (e.g., credit expansion) or internal (e.g., less demand for money) change, and each move in the PPM sows the seeds for its own reversal, as it were (e.g., when the PPM rises, prices fall, and spending now becomes more attractive). #revisit 
 - *There is no reason to suppose that this increase affects the consumption/investment proportion at all*. (p. 774)
 - *There is no reason why a change in the demand for money should affect the interest rate one iota*. (p. 774)
 - If the PPM falls, then more money in the hands of an individual may not necessarily lower the time-preference rate on his schedule, for the more money may only just compensate him for the fall in the PPM, and his “real money stock” may therefore be the same as before. (pp. 774-775)
 	- As argued elsewhere, what matters is the real income. #revisit 
 #### F. Hoarding and the Keynesian System #revisit 
-#### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest
-The nominal rate can never be *negative*, and so Fisher’s explanation can’t be the whole story in times of severe price deflation.
-- The purchasing power component, then, is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
+#### G. The Purchasing-Power and Terms-of-Trade Components in the Rate of Interest #revisit 
+The example of negative interest rates is not essential to Rothbard’s critique of Fisher. Rothbard’s essential point is that expectations only shape interest rates through action.
+The PPM changes because people’s demand for money changes, just like any other good—this statement is comprehensive to the extent that supply is demand, and because monetary distortions do change people's demand. #develop 
+- It has often been shown that a period of rising prices misleads businessmen into thinking that their increased money profits are also real gains, whereas they only maintain real rates of return. Businessmen who under such circumstances treat their monetary profits as real profits and consume them soon find that they are really consuming their capital. (pp. 795-796)
+- The purchasing power component is *not* the reflection, as has been thought, of *expectations* of changes in purchasing power. It is the reflection of the change itself. (p. 797)
+	- The rise in interest rates occurs because prices are already rising—the change in purchasing power is already underway. The “purchasing-power component" in interest rates reflects actual inflation, not mere expectation—it is a reality-based response, not a prediction-based premium.
+	- You can’t separate expectations from reality. Only actual market behavior brings about the conditions that raise interest rates due to purchasing power loss.
+- Indeed, *if the change were completely anticipated, the purchasing power would change immediately, and there would be no room for a purchasing-power component in the rate of interest*. (p. 797)
+	- The very existence of a purchasing-power component implies that changes in purchasing power are not fully anticipated.
+		- I.e., the Fisher equation is contradictory.
+- A *terms-of-trade* component exists to the extent that money changes are *not* neutral (and they never are). (p. 797)
+	- The three other components are: the pure time preferences, the entrepreneurial component, and the purchasing-power component. 
+		- Again, the purchasing-power component exists not because expectations exist, but because people *act* on those expectations—this is why the component is a “reflection of the change itself”.
+			- The change has already occurred, because people already acted on it.
+			- Or is the same relation between actions and value scales also apply here? #revisit 
+- Aside from the pure rate, none of these components would exist in the ERE. (p. 798)
 ### 6. The Supply of Money
 #### A. The Stock of the Money Commodity
+- If greater variety is preferred, consumers will demand and obtain a more varied number of coins. (p. 800)
+	- See [[Eric Voskuil]]’s [Substitution Principle] and [Consolidation Principle].
 #### B. Claims to Money: The Money Warehouse
 Rothbard claims here that, in a free market, FRB would be illegal because of its fraudulent nature.
+The problem is uncovered money-substitutes, and not credit.
+- A warehouse specializing in money is known as a “bank.” (p. 801)
+- All the bank’s *money-substitutes* (warehouse receipts) will also be *money certificates*, i.e., each receipt genuinely certifies the actual existence of the money in its vaults. (p. 803)
+	- This is not the same thing as credit.
 #### C. Money-Substitutes and the Supply of Money
+- Since money-substitutes exchange as money on the market, we must consider them as part of the supply of money. (p. 805)
+- As long as all money-substitutes are full money certificates, an increase or decrease in the money-substitutes outstanding can have no effect on the total supply of money. (p. 806)
+- The bank creates new money out of thin air. (p. 809)
+- This process of money creation has also been called the “monetization of debt,” an apt term since it describes the only instance where a *liability* can be transformed into money—the supreme *asset*. (p. 809)
+	- Rothbard likely errs here, since what is created is not money, but *credit*.
+		- Relate with [[Eric Voskuil]]. #revisit 
+- The bank has been able to alter the conditions of the free market system, in which money can be obtained only by purchase, mining, or gift. The bank’s inflationary intervention has created another route to money: the creation of new money out of thin air. (p. 809)
+	- This is only to the extent that the banks are protected by the State who can print money at lower than market price.
 #### D. A Note on Some Criticisms of 100-Percent Reserve
+- Another popular objection is that a 100-percent-reserve policy would eliminate all credit. (p. 810)
+- The bank’s income would be the interest differential between the two types of credit transactions; the payment is for the services of the bank as an intermediary, channeling the savings of the public into investment. (p. 810)
 ### 7. Gains and Losses During a Change in the Money Relation
+- When a change in the money relation causes prices to rise, the man whose selling price rises before his buying prices gains, and the man whose buying prices rise first, loses. (p. 812)
+- Which people gain and which lose from any given change is an empirical question, dependent on the location of changes in elements of the money relation, institutional conditions, anticipations, speeds of reaction, etc. (pp. 812-813)
+- *New money enters the system at some specific point* and then becomes diffused in this way throughout the economy. (p. 813)
+- 
 ### 8. The Determination of Prices: The Goods Side and the Money Side
 ### 10. Balances of Payments
 ### 11. Monetary Attributes of Goods
