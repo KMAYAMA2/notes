@@ -1294,15 +1294,38 @@ The problem is uncovered money-substitutes, and not credit.
 	- Rothbard also errs here, because market money production (including both commodity money and non-commodity money) stabilizes the price level—a *monetary* benefit (see [[Eric Voskuil]]’s [Inflation Fallacy]). #revisit 
 - The gainers of wealth during the transition period will have a structure of preferences and demand different from that of the losers. As a result, demand itself will shift in structure, and the new equilibrium will have a different set of relative prices. Similarly, the change will probably not be neutral to time preferences. (pp. 814-815)
 - Money changes have the “driving force,” it may be noted, even in the fanciful case of the automatic overnight doubling of the supply of everyone’s cash balance. Each individual has a differently shaped demand-for-money schedule, and it is impossible to predict how each will be shaped. The structure of demand will change, and a decreased PPM will not double all prices; some will increase by more and some by less than double. (p. 815)
-### 8. The Determination of Prices: The Goods Side and the Money Side
-- 
+### 8. The Determination of Prices: The Goods Side and the Money Side #revisit
+- The *exchange* demand for each good = the stock of money in the society - the exchange demands for all other goods and the reservation demand for money (p. 816)
+	- E.g., the exchange demand for apple = money stock - the exchange demands for non-apple goods and money hoarded.
+- The exchange demand for all goods = the stock of money - the reservation demand for money (p. 816)
+- The total demand for goods = the stock of money - the reservation demand for money + the reservation demand for all goods (p. 816)
+- The obverse of the price of all goods is the PPM. (p. 816)
+- The exchange demand for money = the stock of all goods - the reservation demand for all goods (p. 816)
+- The ultimate determinants of the PPM are: the stock of all goods and the reservation demand for money (factors of increase), and the stock of money and the reservation demand for goods (factors of decrease). (p. 816)
+	- Viz., the more goods or the more hoard the higher the PPM, and the most money stock or the higher price the lower the PPM. 
+		- PPM reflects the overall productive capacity of money in the economy, and that’s deeply influenced by how productive factors are (MPP) and how much capital is available (which is shaped by i). #develop 
+- Whether we treat one good or all goods, the price or prices will *increase*, *ceteris paribus*, if the stock of money increases; *decrease* when the stock of the good or goods increases; *decrease* when the reservation demand for money increases; and *increase* when the reservation demand for the good or goods increases. (p. 817)
+	- The PPM goes up in the second and the third, goes down in the first and the fourth.
+		- There are two types of PPM changes: substantive (e.g., the third and the fourth) and superficial (e.g., the first and the second).
+- In a progressing economy, the secular trend for the four determining factors is likely to be: the *money stock* increasing gradually as gold production adds to the previous total (PPM ↓); the *stock of goods* increasing as capital investment accumulates (PPM ↑); the *reservation demand for goods* disappearing because short-run speculations disappear over the long run, and this is the main reason for such a demand (PPM ↑); the *reservation demand for money* unknown, with clearing, for example, working to reduce this demand over a period of time (PPM ↓), and the greater number of transactions tending to increase it (PPM ↑). (p. 817)
+- We cannot precisely say how the PPM will move in a progressing economy—the influence of the *goods* side is in the direction of falling prices; the money side we cannot predict. (p. 817)
+- The ultimate determinants of the PPM as well as of specific prices are the subjective *utilities* of individuals (the determinants of demand) and the given objective stocks of goods. (p. 817)
+- *Money can never be neutral*—even if we can make an historical (not an economic-scientific) judgment that the PPM has remained roughly the same, the price relations have shifted within the array, and therefore the judgment can never be exact. (p. sa818)
 ### 9. Interlocal Exchange #revisit 
 #### A. Uniformity of the Geographic Purchasing Power of Money #revisit 
 #### B. Clearing in Interlocal Exchange #revisit 
 ### 10. Balances of Payments
+- *Every* action and exchange is favorable from the point of view of the person performing the action or exchange; otherwise he would not have engaged in it. (pp. 822-823)
+- The consolidated balance of the citizens of a large nation such as the United States conveys less information about their economic activities than is revealed by the consolidated balance of the citizens of Cuba. (p. 824)
+- If we lump together all the citizens of the world engaged in exchange, their consolidated balance of payments is precisely zero. (p. 824)
+- Imagine each brother exhorting the others to “buy Jones,” to “keep the money circulating *within* the Jones family,” to abstain from buying products made by others. (p. 826)
+- Another popular argument is that a debtor group or nation cannot possibly repay its debt because its “balance of trade is in fundamental disequilibrium, being inherently unfavorable”—would the creditor be justified in bluntly telling the debtor that all he is saying is that he would much rather spend his money income and assets on enjoyable goods and services than on repayment of his debt? (p. 826)
 ### 11. Monetary Attributes of Goods
 #### A. Quasi Money
+- Quasi moneys do not form part of the nation’s money supply. (p. 827)
 #### B. Bills of Exchange
+### 12. Exchange Rates of Coexisting Moneys #revisit 
+### 13. The Fallacy of the Equation of Exchange #revisit 
 ### 14. The Fallacy of Measuring and Stabilizing the PPM
 #### A. Measurement
 #### B. Stabilization
