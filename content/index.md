@@ -2,26 +2,21 @@
 title: About this project
 date: 2024-07-23
 ---
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. My writings explore the intersection between tech, philosophy, finance, history, culture, productivity, and life—as well as [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |a better medium of writing]], because often [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content' |form matters as much as the content]].
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. My writings explore the intersection between tech, philosophy, finance, history, culture, productivity, and life—as well as [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |a better medium for writing]].
 
-- Check my **[Notes](https://kenti.xyz/notes/)**—for atomic insights (most of them still being rewritten).
+For starters:
+- Check my **[Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
+- Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers.
 
-- Check my **[Essays](https://kenti.xyz/essays/)**—longer but deeper than notes.
+I take these notes to [[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money. |clear my head]]. Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
 
-- Check my **[People](https://kenti.xyz/people/)**—for summaries and quotes.
+Occasionally I share my micro insights on [X](https://twitter.com/kmayama2).
 
-My favorite thinkers include Paul Graham, Naval Ravikant, Charlie Munger, Balaji Srinivasan, David Deutsch, Karl Popper, Friedrich Hayek, Ludwig von Mises, Mark Spitznagel, Nassim Taleb, Michel de Montaigne, Seigow Matsuoka, and Daniel Everett.
-
-I started taking these notes to [[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money. |clear my head]], and to create [[4-1a5c When you have your Second Brain, you can have a conversation with it |my second brain]]. The cognitive offload was huge—writing still feels like a meditation to me. But my notes started to take on [[5-1b1a2c0.1 Perfect replication is impossible |a life of its own]]—writing my ideas down resulted in more ideas being discovered, with writing them down also begetting more ideas, ad infinitum. Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
-
-I’ll be sharing my micro insights on [Twitter](https://twitter.com/kmayama2) and [Farcaster](https://warpcast.com/kenty). Your follow would mean a lot to me, especially if you have mutual interests.
-
-For those wondering, the numbering at the beginning of each title (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
+The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
 
 ---
 ###### **Why all these 'atomic' notes instead of blog posts?**
 - Because [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them |there is nothing absolute and necessary in the connections I make between ideas]]
-- Because [[12-1e Nothing is necessary = Everything is contingent |nothing is necessary = everything is contingent]]
 - Because [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things |meaning is often in relation with other things]]
 - Because [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |connecting ideas is a way to create knowledge]]
 - However, [[3-1c2e0 There is no minimum idea |there is no minimum idea]]
