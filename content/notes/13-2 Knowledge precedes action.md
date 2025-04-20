@@ -1,4 +1,4 @@
-In order to institute action, it is not sufficient that the individual man have unachieved ends that he would like to fulfill. *He must also expect that certain modes of behavior will enable him to attain his ends.* Action requires an image of a desired end and “technological ideas” or plans.
+”In order to institute action, it is not sufficient that the individual man have unachieved ends that he would like to fulfill. *He must also expect that certain modes of behavior will enable him to attain his ends.* Action requires an image of a desired end and “technological ideas” or plans.”
 
 Next:
 - [[13-3 All action must take place in time]]
