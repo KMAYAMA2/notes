@@ -79,6 +79,7 @@ Knowledge has to be instantiated physically in goods (labor included)—**knowle
 - He is concerned only with the capital (and other) goods in the present and the future. This is the necessary result of the fact that action occurs in the present and is aimed at the future. (p. 15)
 	- Viz., the laws of physics, and specifically the general condition of the multiverse, implies action. #develop 
 		- **Knowledge-creation amounts to having more access in the multiverse (due to its irreversibility), and since [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse. |other times are just special cases of other universes]], in my opinion it seems somewhat analogous to time travel**. #develop 
+			- Inverted, such knowledge-creation also implies the realization of more universes out there. #develop  
 - A fundamental and constant truth about human action is that *man prefers his end to be achieved in the shortest possible time*. The sooner any end is attained, the better. *This is the universal fact of time preference*. ***The less waiting time*, the more preferable** it is for him. (p. 15)
 	- I.e., the meaning of positive time-preference.
 - Some people live from day to day, taking no heed of later periods of time; others plan not only for the duration of their own lives, but for their children as well. (p. 17)
