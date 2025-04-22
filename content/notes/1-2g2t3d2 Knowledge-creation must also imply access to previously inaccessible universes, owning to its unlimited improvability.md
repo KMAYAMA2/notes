@@ -2,3 +2,5 @@
 
 Related:
 - [[5-1b1a2c0 No theory can exhaust reality]]
+- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
+- Also see [[David Deutsch]]’s elaboration of Cantor’s *Infinity Hotel*
