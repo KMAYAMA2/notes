@@ -4,6 +4,7 @@ Praxeology is concerned with that part of value scales that can be ascertained f
 
 Next:
 - [[13-6a The same individual exhibits different scale of values at different times]]
+- [[13-7 Value scales consist of specific units, and associated subjective utilities]]
 
 Related:
 - Ranked values

@@ -1,3 +1,5 @@
+To assume that we will eventually do away with the implicit disrespects the substrate-independence of information—i.e., it *could be otherwise*.
+
 [[10-2g1a Science emerged from culture]]
 [[10-2b I cannot be fully explicated]]
 

@@ -1,7 +1,7 @@
 
 Next:
 - [[13-6a1 Without knowledge, self-identity is no stronger than the identity between any two people]]
-- [[13-6b One cannot exhibit more than one value scale at any point in time]]
+- [[13-6b One's action cannot imply more than one value scale with regard to that action]]
 
 Related:
 - Do not underestimate how much we change in time

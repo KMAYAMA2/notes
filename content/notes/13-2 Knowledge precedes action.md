@@ -4,6 +4,10 @@ Next:
 - [[13-3 All action must take place in time]]
 
 Related:
-- [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
-- [[7-1b4 You can solve problems that just became solvable]]
-- [[7-1a2a1.1 'Scale' - Anything that scaled started small, at the edge, at the frontier, as an avant-garde]]
+- With knowledge, you can act in the domains of the few
+	- [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
+	- [[7-1b4 You can solve problems that just became solvable]]
+	- [[7-1a2a1.1 'Scale' - Anything that scaled started small, at the edge, at the frontier, as an avant-garde]]
+- We are often at loss with what we do
+	- [[1-1a1b The mind includes inexplicit as well as unconscious]]
+	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
