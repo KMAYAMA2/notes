@@ -152,7 +152,7 @@
 - Human action originates change. As far as there is human action there is no stability, but ceaseless alteration. The historical process is a sequence of changes. It is beyond the power of man to stop it and to bring about an age of stability in which all history comes to a standstill. It is man’s nature to strive after improvement, to beget new ideas, and to rearrange the conditions of his life according to these ideas. (p. 366)
 	- Relate: [[David Deutsch]] and [[Elie Ayache]] #Ayache
 - In the imaginary—and, of course, unrealizable—state of rigidity and stability there are no changes to be measured. In the actual world of permanent change there are no fixed points, objects, qualities or relations with regard to which changes could be measured. (p. 367)
-	- Related: [[Know what to measure. Google Analytics is provided by Google. Know their incentives. |Know what to measure]]. #develop 
+	- Related: [[Know what to measure|Know what to measure]]. #develop 
 	- Related: [[There are things that cannot be measured]]. #develop 
 #### 5. The Root of the Stabilization Idea
 - The fact that rigidity in the monetary unit’s purchasing power is unthinkable and unrealizable does not impair the methods of economic calculation. What economic calculation requires is a monetary system whose functioning is not sabotaged by government interference. (p. 367)
@@ -196,7 +196,7 @@
 	- E.g., “Hospitality is a selfish pleasure. [[2-1b2c1 Knowing your sustainable growth is the key to consistency. Do not depend on will power. |It feels great to make other people feel good.]]” – [[Will Guidara]]
 - Some economists believe that it is the task of economics to establish how in the whole of society the greatest possible satisfaction of all people or of the greatest number could be attained. (p. 394)
 	- They do not realize that there is no method which would allow us to measure the state of satisfaction attained by various individuals. (p. 394)
-		- [[There is no such thing as an individual in the abstract—because each individual has unique, specific problem-situations]]. And [[Value is subjective |value is subjective]]. #develop 
+		- [[There is no such thing as an individual in the abstract—because each individual has unique, specific problem-situations]]. And [[13-4d4 Value is subjective|value is subjective]]. #develop 
 - Economics is not intent upon pronouncing value judgments. (P. 394)
 	- Value judgements imply meta-level perspective and that implies zero-sum, because the attainment of one perspective comes at the expense of others—viz., Austrian economics (via subjective value theory) is [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved |positive-sum]] and benefit the whole society. #develop 
 		- See my note from p. 260

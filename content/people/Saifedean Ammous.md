@@ -22,7 +22,7 @@ date: 2025-01-13
 	- It is not possible to determine an individual’s precise valuation from their transaction, only its upper or lower bounds.
 #### Free Exchange
 #### Determinants of Value
-- The fundamental difference between Austrian school economists and other schools is that Austrians view value as [[Value is subjective |subjective]], while other schools conceive of value as something objective, or objectively measurable. (p. 47)
+- The fundamental difference between Austrian school economists and other schools is that Austrians view value as [[13-4d4 Value is subjective|subjective]], while other schools conceive of value as something objective, or objectively measurable. (p. 47)
 	- I.e., the difference is [[1-1c You need the best available epistemology because it affects how you see the world |epistemology]].
 - There is no guaranteed correspondence between the amount of labor expended in production and the value of that production. (p. 48)
 	- Related: [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]

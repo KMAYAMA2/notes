@@ -1,5 +1,8 @@
 Put differently, we choose (i.e., act) because the future is uncertain—and error is inevitable because of the uncertainty. 
 
+Next:
+- [[13-1a3 All action involves exchange across the multiverse]]
+
 Related:
 - Error-correction
 	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]

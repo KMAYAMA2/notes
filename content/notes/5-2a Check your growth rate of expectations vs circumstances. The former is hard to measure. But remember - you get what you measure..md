@@ -9,4 +9,4 @@
 [[RUL3 - Any system should be measured by how much it can help with whatever its output.]]
 
 [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
-[[Know what to measure. Google Analytics is provided by Google. Know their incentives.]]
+[[Know what to measure]]
