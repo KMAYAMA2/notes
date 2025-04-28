@@ -1,4 +1,6 @@
 
+Next:
+- [[13-6c The action axiom implies corresponding value scales]]
 
 Related:
 - [[9-4b2c You can host multiple memes both consequentially or simultaneously during your lifetime. A gene in contrast can be hosted only once per life-cycle.]]

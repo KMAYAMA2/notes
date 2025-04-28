@@ -4,7 +4,7 @@
 
 Next: 
 - [[13-7a The difference in goods can be ascertained only through human actions]]
-- [[13-8 As the quantity of the supply (stock) of a good increases, the utility (value) of each additional unit decreases]]
+- [[13-8 Marginal utility—as the quantity of the supply (stock) of a good increases, the utility (value) of each additional unit decreases]]
 
 Related:
 - [[11-3.5 There is no universal utility. Utility doesn't exist in the abstract, it must be rooted in the context and corresponding explanations.]]

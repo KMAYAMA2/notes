@@ -1,0 +1,1 @@
+“The value of a unit of a convertible factor is set, not by the conditions of its employment in one type of product, but by the value of its marginal product when all its uses are taken into consideration.”
