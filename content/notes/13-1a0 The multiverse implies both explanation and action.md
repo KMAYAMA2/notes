@@ -3,6 +3,7 @@
 Action, if understood as problem-solving, is implied in the multiverse in another sense—**that the problem must’ve been already solved somewhere in the multiverse**.
 
 Next:
+- [[13-1a0a Refuting the existence of the multiverse will refute praxeology]]
 - [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
 	- This one also explores the connection between the laws of physics and the unpredictability of knowledge
 

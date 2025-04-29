@@ -18,4 +18,6 @@
 - Most information is **time-consuming**, **negative**, **irrelevant to your goals**, and **outside of your influence**. (p. 107)
 - ***Develop the habit of asking yourself, “Will I definitely use this information for something immediate and important?”*** (p. 113)
 	- Put differently, ask yourself, “Will this help [[7-1a1a2 Solve your own problems. Otherwise you'll lose time and money without self-indulgence alarms going off. |solving my problems]]?” #develop 
+		- “Just-in-time information” over “just-in-case information”
+			- [[1-1c6a2a1 Be careful with 'just-in time productivity']]
 - Focus on what digerati Kathy Sierra calls “just-in-time” information instead of “just-in-case” information. (p. 113)
