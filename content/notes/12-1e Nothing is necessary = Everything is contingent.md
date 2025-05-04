@@ -29,3 +29,4 @@ Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 
 - [[12-1e3 There is no should in nature]]
 - [[12-1f 言葉と物事の関係性が一対である必要性はない (e.g., 二項同体)]]
 - [[13-4d2 There is no objective value]]
+- [[13-1a3c We will never attain objectivity]]

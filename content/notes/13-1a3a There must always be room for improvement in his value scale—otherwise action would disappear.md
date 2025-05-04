@@ -2,5 +2,12 @@
 
 “Since man is always acting, he must always be engaged in trying to attain the *greatest height on his value scale*. **There must *always* be room for improvement in his value scale; otherwise action would disappear**. This means that there is always open to each actor the prospect of improving his lot, of attaining a value higher than he is giving up, i.e., of *making a psychic profit*.”
 
+Maybe the word *improvement* should be replaced with the word *change*. #develop 
+
 Next:
+- [[13-1a3a1 The essence of the exchange is that both people make it because they expect that it will benefit them]]
 - [[13-1a3b The subjective value theory persists because of the multiverse—because we are fallible]]
+
+Related:
+- [[13-6a The same individual exhibits different scale of values at different times]]
+- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]]

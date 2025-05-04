@@ -5,4 +5,8 @@ To assume otherwise implies that the actor isn’t acting based on his knowledge
 Or put differently, **if you assume otherwise (i.e., more than one value scales), you are extending across the multiverse, and that is forbidden by the laws of physics**.
 
 Next:
+- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
 - [[13-6d Praxeological laws apply regardless of the content of value scales—regardless of the nature of ends pursued]]
+
+Related:
+- [[13-2 Knowledge precedes action]]
