@@ -1,5 +1,7 @@
 Praxeology is concerned with that part of value scales that can be ascertained from actions.
 
+**Price implies value scales—the latter (ideas) can be ascertained only through the former (actions)**.
+
 “In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice.”
 
 Next:

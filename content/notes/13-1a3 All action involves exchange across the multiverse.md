@@ -2,5 +2,5 @@
 
 Next: 
 - [[13-1a3a There must always be room for improvement in his value scale—otherwise action would disappear]]
+- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 - [[13-1a4 The value of a unit of a convertible factor is set by the value of its marginal product when all its uses are taken into consideration]]
-- The concept of cost must evoke the multiverse
