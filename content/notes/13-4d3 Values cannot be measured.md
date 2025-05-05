@@ -4,5 +4,7 @@ Next:
 - [[13-4d4 Value is subjective]]
 
 Related: 
+- On improvement
+	- [[13-1a3d Any improvement is subjective]]
 - [[5-2 What counts cannot be counted]]
 - [[Know what to measure]]

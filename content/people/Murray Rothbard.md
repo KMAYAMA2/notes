@@ -236,7 +236,7 @@ That you access the other instances of knowledge-creation being through exchange
 ### 5. Determination of Price: Equilibrium Price
 - We do not know exactly what the price will be, but we do know that it will be set by bargaining *somewhere at or below the maximum buying price of the most capable buyer and above the maximum buying price of the next most capable buyer*. (p. 110)
 	- **Price implies value scales—the latter (ideas) can be ascertained only through the former (actions)**. #develop
-- Clearly, this preliminary “testing of the market” will tend to be more prolonged in a “new” market, where conditions are unfamiliar, while it will tend to be less prolonged in an “old” market, where the participants are relatively familiar with the results of the price-formation process in the past and can estimate more closely what the results will be. (pp. 113-114)
+- Clearly, this preliminary “testing of the market” will tend to be more prolonged in a “new” market, where conditions are unfamiliar, while it will tend to be less prolonged in an “old” market, where the participants are relatively familiar with the results of the price-formation process in the past and can estimate more closely what the results will be. (pp. 113-114) #develop #volatility 
 - **The amount offered for sale at each price is called the *supply***; the amount demanded for purchase at each price is called the *demand*. (pp. 114-115)
 	- Viz., **the supply is seller’s demand**.
 - The price of the good will find a resting point where the quantity demanded is equal to the quantity supplied, i.e., where supply equals demand. (p. 116)
