@@ -11,4 +11,5 @@ Related:
 - [[13-8b Supply = Stock - Reservation Demand]]
 - On specialization
 	- [[2-1c2 'Specialization' - Minimizing opportunity costs maximize comparative advantages and leads to prosperity]]
+	- [[2-1c2a Matt Ridley - 'Self-sufficiency leads to economic downturns. Mutual interdependence is more robust.']]
 	- [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]
