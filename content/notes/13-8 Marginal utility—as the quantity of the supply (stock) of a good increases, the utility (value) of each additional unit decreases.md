@@ -6,6 +6,7 @@ Scarcity *per se* does not equal value, since anything can be substituted by any
 
 Next:
 - [[13-8a The supply is seller’s demand]]
+- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
 
 Related:
 - [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]
