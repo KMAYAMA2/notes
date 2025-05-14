@@ -4,6 +4,9 @@ Originally, this note was titled: *But everything can be priced*.
 
 Viz., it cannot be unbundled. #develop 
 
+Next:
+- [[3-1a4b6 The importance of the monetarily accountable compared to the unaccountable increases indefinitely, although the former never exhausts the latter]]
+
 Related:
 - [[13-4d4 Value is subjective]]
 	- [[9-2b2 There is no objective hierarchy amongst knowledge; only cultural-subjective hierarchy exists because we are cultural being (知識・情報そのものに優劣はない)]]

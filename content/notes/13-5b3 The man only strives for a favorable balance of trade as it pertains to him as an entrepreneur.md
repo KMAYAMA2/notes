@@ -6,6 +6,6 @@ Next:
 - [[13-5b4 A man is necessarily a consumer, but not necessarily a producer]]
 
 Related:
-- [[13-1a3a2d The more extended the market, the more will exchange-value (as compared to direct use-value) predominate in the decisions of the producer]]
+- [[13-1a3a2d The more extended the market, the more will exchange-values (as compared to direct use-values) predominate in the decisions of the producer]]
 - [[13-1a3a2f The market implies specialization implies speculation]]
 - [[13-8d Speculative anticipations merely assist the market price toward equilibrium]]
