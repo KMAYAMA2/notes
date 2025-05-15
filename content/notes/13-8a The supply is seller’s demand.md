@@ -1,5 +1,7 @@
 “**The amount offered for sale at each price is called the *supply***; the amount demanded for purchase at each price is called the *demand*.”
 
+
+
 Next:
 - [[13-8a1  The supply (and demand) curves can be aggregated respectively, because whether it is instantiated within one individual or across different individuals does not matter from the perspective of the curve]]
 - [[13-8b Supply = Stock - Reservation Demand]]

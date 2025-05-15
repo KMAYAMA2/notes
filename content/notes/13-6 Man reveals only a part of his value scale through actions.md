@@ -4,6 +4,8 @@ Praxeology is concerned with that part of value scales that can be ascertained f
 
 “In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice.”
 
+“**We deduce the existence of a specific value scale on the basis of the *real act*; we have no knowledge of that part of a value scale that is not revealed in real action**.”
+
 Next:
 - [[13-6a The same individual exhibits different scale of values at different times]]
 - [[13-7 Value scales consist of specific units, and associated subjective utilities]]
@@ -12,3 +14,5 @@ Related:
 - Ranked values
 	- [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 	- [[3-1c2d1 Individuals or nations might possess the same values, but the ordering differs]]
+- Praxeology is content-independent
+	- [[13-6d Praxeological laws apply regardless of the content of value scales—regardless of the nature of ends pursued]]
