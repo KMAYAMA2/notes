@@ -1,6 +1,6 @@
 
 Next:
-- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topography of value scales]]
+- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
 - [[13-1a3a2d5 The number of markets needed is immeasurably reduced with the establishment of a money economy]]
 
 Related:
