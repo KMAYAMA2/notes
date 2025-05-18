@@ -1,7 +1,8 @@
 “The economy is a *money economy*, and almost all goods are compared with and exchanged against the money commodity.”
 
 Next:
-- [[13-1a3a2e3 Money and differences in the economy are reflexive]]
+- [[13-1a3a2e2a Money and differences in the economy are reflexive]]
+- [[13-1a3a2e3 Any prior money must necessarily trace its origin back to the original money]]
 
 Related:
 - On specialization
