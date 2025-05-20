@@ -1,5 +1,6 @@
 
 Next:
+- [[13-1a3a1a Everyone benefits a psychic profit at the time of exchange (ex ante), but not everyone will benefit from the exchange (ex post)]]
 - [[13-1a3a2 A necessary condition for an exchange to take place is that the two goods have reverse valuations on the respective value scales of the two parties to the exchange]]
 
 Related:
