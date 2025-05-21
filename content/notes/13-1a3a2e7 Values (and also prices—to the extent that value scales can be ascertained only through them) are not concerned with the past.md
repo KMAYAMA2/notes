@@ -1,5 +1,6 @@
 
 Related:
+- [[5-1b1a2d Knowledge is by definition unpredictable]] #develop 
 - On values
 	- [[7-1b4b5 Any kind of expertise is valuable, and some people will take unexpected action to capture that value such that it will be serendipitous to you]]
 	- [[13-1a3a There must always be room for improvement in his value scale—otherwise action would disappear]]

@@ -16,3 +16,4 @@ Related:
 	- [[9-4b2a1d3 Technologists and background technologies interact reflexively]]
 	- [[10-2g1f2b The brain and symbols evolved reflexively to enhance communication to deal with cultural and sexual selectional pressures.]]
 	- [[10-2g4 Cultures and languages are reflexive]]
+- [[12-1a2a2 資本は資本の一元性を好み、商品は商品の多様性を好む]]

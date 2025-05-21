@@ -1,4 +1,7 @@
 
+Next:
+- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
+
 Related:
 - [[Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
 - On memes #develop 
@@ -19,3 +22,4 @@ Related:
 	- [[9-1c2 You can only hope that people you care about will somewhat understand your explanations, but they will never understand you exhaustively]]
 	- [[12-1a2d Abstractions such as 'the economy' and 'the supply chain' can be realized arbitrarily well (never exhaustively)]]
 	- [[13-1a3a2d3 Value scales are unified individually—they become more transparent, more measurable, and more comparable to the individual—with money, although never exhaustively]]
+	- [[13-1a3a2e7 Values (and also prices—to the extent that value scales can be ascertained only through them) are not concerned with the past]]
