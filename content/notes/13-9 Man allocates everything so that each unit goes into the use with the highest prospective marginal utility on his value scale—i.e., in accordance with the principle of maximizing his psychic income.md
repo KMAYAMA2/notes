@@ -3,6 +3,9 @@
 
 “***Money obeys the law of marginal utility, just as any other commodity does***.”
 
+Next:
+- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+
 Related:
 - [[13-6 Man reveals only a part of his value scale through actions]]
 - [[13-1a3a2.1 An exchange is positive-sum only subjectively]]

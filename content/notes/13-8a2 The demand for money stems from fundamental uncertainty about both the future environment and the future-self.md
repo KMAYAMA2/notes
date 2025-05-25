@@ -8,6 +8,7 @@ Next:
 - [[13-8a2a Money allows you to deal with change per se, since there is no substantive difference between changes in values scales of others and that of himself in the future]]
 
 Related:
+- [[13-8 Marginal utility—as the quantity of the supply (stock) of a good increases, the utility (value) of each additional unit decreases]]
 - On unpredictability
 	- [[1-2g2e What science and creative thought in general achieves is unpredictable creation out of nothing. That is, creation of knowledge. And so is biological evolution (i.e., life).]]
 		- [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]

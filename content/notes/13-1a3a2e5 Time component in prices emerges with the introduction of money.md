@@ -6,6 +6,8 @@ Next:
 - [[13-1a3a2e6 Money prices of the past influence current expectations, but today’s demand also influences the present price—and the influence of the latter can dwarf that of the former]]
 
 Related:
+- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+- [[10-2g2c0c We don't think at the moment (we don't 'generate' ideas), our thinking is connected]]
 - [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
 - Money as bridge
 	- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
