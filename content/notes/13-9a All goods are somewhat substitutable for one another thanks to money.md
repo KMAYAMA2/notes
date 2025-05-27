@@ -7,6 +7,7 @@
 “Much has been written in the economic literature of consumption theory on the *assumption* that each consumers’ good is desired quite independently of other goods. Actually, as we have seen, **the desires for various goods are of necessity interdependent, since all are ranged on the consumers’ value scales**. Utilities of each of the goods are relative to one another. These ranked values for goods and money permit the formation of individual, and then aggregate, demand schedules in money for each particular good.”
 
 Next:
+- [[13-9a0 “The price is the first and most obvious indication of the nature of the alternatives” – Philip Wicksteed]]
 - [[13-9a1 A value scale consists of goods with which the individual is familiar—the good will not be on the value scale if the individual does not know about that good]]
 - [[13-9b The more substitutes there are, the more elastic will tend to be the demand schedules for that good]]
 

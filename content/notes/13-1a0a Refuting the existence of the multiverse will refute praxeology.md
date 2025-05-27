@@ -5,5 +5,5 @@ Put differently, [[David Deutsch]]’s elaboration of epistemology, the Turing p
 Constructor theory defines knowledge as independent of people to account for the phenomenon of life and genes. Praxeology is concerned with knowledge implied in human action.
 
 Related:
-- [[The fabric of reality implies the beginning of infinity]]
+- [[The Fabric of Reality Implies the Beginning of Infinity]]
 - [[1-2g2b1 Constructor Theory defines knowledge independent of people]]

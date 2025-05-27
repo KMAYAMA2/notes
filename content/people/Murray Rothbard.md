@@ -179,7 +179,7 @@ Knowledge has to be instantiated physically in goods (labor included)—**knowle
 - Once it is demonstrated that human action is a necessary attribute of the existence of human beings, the rest of praxeology (and its subdivision, economic theory) consists of the elaboration of the logical implications of the concept of action. (p. 72)
 	- Constructor theory by Deutsch precedes praxeology and hence economics. #develop 
 		- Viz., his elaboration of epistemology, the Turing principle, the theory of evolution, and the multiverse cements the arguments of Mises and Rothbard.
-			- See: [[The fabric of reality implies the beginning of infinity]]
+			- See: [[The Fabric of Reality Implies the Beginning of Infinity]]
 		- Related: [[1-2g2b1 Constructor Theory defines knowledge independent of people]].
 - Economics is not concerned with their content, and its laws apply regardless of the nature of these ends. Psychology and ethics deal with the content of human ends; they ask, *why* does the man choose such and such ends, or *what* ends *should* men value? (pp. 72-73)
 	- Viz., content-independence. #develop 
