@@ -1,4 +1,7 @@
 
+Next:
+- [[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]
+
 Related:
 - [[5-1b1a2d Knowledge is by definition unpredictable]] #develop 
 - On values
