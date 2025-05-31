@@ -1,5 +1,4 @@
-
-
+#revisit 
 
 Related:
   - Money is one of the best tools available to account for success and failure, but not perfect
