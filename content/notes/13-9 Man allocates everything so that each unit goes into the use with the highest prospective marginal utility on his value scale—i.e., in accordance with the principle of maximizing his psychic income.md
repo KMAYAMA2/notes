@@ -5,6 +5,7 @@
 
 Next:
 - [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
 
 Related:
 - [[13-6 Man reveals only a part of his value scale through actions]]

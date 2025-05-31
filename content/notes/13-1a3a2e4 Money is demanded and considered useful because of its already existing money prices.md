@@ -8,4 +8,4 @@ Related:
 - On the source of demand for money
 	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
 - Money as bridge across spacetime (or the multiverse) #develop 
-	- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
+	- [[13-1a3a2d3b Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]

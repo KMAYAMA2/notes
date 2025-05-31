@@ -10,6 +10,6 @@ Related:
 - [[10-2g2c0c We don't think at the moment (we don't 'generate' ideas), our thinking is connected]]
 - [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
 - Money as bridge
-	- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
+	- [[13-1a3a2d3b Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
 - Money price as a special form of *knowledge*
 	- [[13-8a2a Money allows you to deal with change per se, since there is no substantive difference between changes in values scales of others and that of himself in the future]]

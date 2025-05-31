@@ -8,4 +8,4 @@ Next:
 Related:
 - Likely a key to solve the aforementioned paradox
 	- [[13-1a3a2e2a Money and differences in the economy are reflexive]]
-	- [[13-1a3a2d4 Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
+	- [[13-1a3a2d3b Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
