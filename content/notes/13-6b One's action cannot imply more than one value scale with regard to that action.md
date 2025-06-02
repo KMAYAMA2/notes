@@ -1,3 +1,6 @@
+Talk is cheap.
+
+“Economics is interested not in value scales professed in response to questionnaires, but in the values implied by real action.”
 
 Next:
 - [[13-6c The action axiom implies corresponding value scales]]

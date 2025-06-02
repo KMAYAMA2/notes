@@ -3,6 +3,7 @@ The analysis here predicts the money form of Bitcoin—money that doesn’t have
 “Since the marginal utility of the money commodity depends on previously existing money prices, a wiping out of existing markets and knowledge of money prices would render impossible the direct re-establishment of a money economy. The determination of money prices (gold prices) is therefore completely explained, with no circularity and no infinite regression. It does *not* follow from this analysis that if an extant money were to lose its direct uses, it could no longer be used as money.”
 
 Next: 
+- [[13-1a3a2e5.1 Money necessarily evokes prices in the past—in barter economy, this is not necessarily the case]]
 - [[13-1a3a2e6 Money prices of the past influence current expectations, but today’s demand also influences the present price—and the influence of the latter can dwarf that of the former]]
 
 Related:

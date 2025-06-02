@@ -7,3 +7,4 @@ Next:
 
 Related:
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]
+- [[13-6e Praxeology is concerned with the fact that humans solve problems—regardless of how]]

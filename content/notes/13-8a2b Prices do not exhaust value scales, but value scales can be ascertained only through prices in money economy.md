@@ -1,6 +1,7 @@
 Prices and values are substantively different, but cognitively the same in money economy simply because only prices can be there. #develop 
 
-
+Next:
+- [[13-8a2c Value scales are ascertainable from the real actions, not vice versa—because value scales cannot be exhausted]]
 
 Related:
 - To be different it has to be the same beforehand #develop 

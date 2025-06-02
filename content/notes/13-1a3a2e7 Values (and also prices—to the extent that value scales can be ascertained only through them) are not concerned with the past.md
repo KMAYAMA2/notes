@@ -17,3 +17,7 @@ Related:
 	- [[13-8a2b Prices do not exhaust value scales, but value scales can be ascertained only through prices in money economy]]
 - *Ex ante* and *ex post*
 	- [[13-1a3a1a Everyone benefits a psychic profit at the time of exchange (ex ante), but not everyone will benefit from the exchange (ex post)]]
+- Money must evoke the past, but the demand for money lies in the future #develop 
+	- [[13-1a3a2e4 Money is demanded and considered useful because of its already existing money prices]]
+	- [[13-1a3a2e5.1 Money necessarily evokes prices in the past—in barter economy, this is not necessarily the case]]
+	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
