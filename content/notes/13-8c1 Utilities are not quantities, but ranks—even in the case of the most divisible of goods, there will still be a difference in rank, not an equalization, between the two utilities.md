@@ -1,8 +1,9 @@
 Otherwise, men wouldn’t act.
 
-“Even in the case of the most divisible of goods, there will still be a *difference in rank*, not an equalization, between the two utilities. **Utilities are not quantities, but ranks**, and the successive amounts of a commodity that are used are always discrete units, not infinitely small ones. If the units are discrete, then the rank of each unit differs from that of every other, and there can be no equalization.”
+“Even in the case of the most divisible of goods, there will still be a *difference in rank*, not an equalization, between the two utilities. **Utilities are not quantities, but ranks**, and the successive amounts of a commodity that are used are always discrete units, not infinitely small ones. If the units are discrete, then the rank of each unit differs from that of every other, and there can be no equalization. Human beings act on the basis of things that are relevant to their action. The human being cannot see the infinitely small step; it therefore has no meaning to him and no relevance to his action.”
 
 Related:
+- [[13-9a2 Indifference cannot be a basis for action—the choice could not be meaningfully revealed in action]]
 - On utility
 	- [[11-3.5 There is no universal utility. Utility doesn't exist in the abstract, it must be rooted in the context and corresponding explanations.]]
 	- [[13-7 Value scales consist of specific units, and associated subjective utilities]]

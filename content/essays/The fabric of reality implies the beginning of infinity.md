@@ -16,5 +16,6 @@ Evolution—a special type of knowledge creation—is *possible* because it is a
 ## 6. The multiverse and computation
 Computation—information processing—is *possible* because it is allowed in the laws of physics. Put differently, there will be no information without the multiverse, because the characteristic feature of the former is how it *could’ve been otherwise*—incomprehensible conception without the multiverse. And quantum computers can be explained only by evoking the multiverse—computation reveals the multiverse, as it were. Another way to put it: computation is a physical process.
 
-
-
+Related:
+- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
+- [[13-1a3a1e Money puts back memes to the game genes were playing—to the game of survival]]

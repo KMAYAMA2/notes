@@ -1,4 +1,7 @@
 
+Next:
+- [[13-9a2 Indifference cannot be a basis for action—the choice could not be meaningfully revealed in action]]
+
 Related:
 - On value scales and knowledge
 	- [[9-1a1 People who converge upon the truth converge with each other]]

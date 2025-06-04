@@ -28,7 +28,7 @@
 #### 5. Causality as a Requirement of Action
 - The category means and ends presupposes the category cause and effect. (p. 77)
 	- Related: [[10-2g2e1 Our best explanation invokes abstractions including causation and the laws of physics]]. #develop 
-	- Related: [[1-2g2s8 The unobserved parts of the wider phenomenon (other universes) have in no way affected what we (the viewers) observe (in OUR universe), yet they are essential to its explanation. Causation doesn't exhaust explanation!]] #develop #multiverse 
+	- Related: [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #develop #multiverse 
 #### 6. The Alter Ego
 - Reasoning and scientific inquiry can never bring full ease of mind, apodictic certainty, and perfect cognition of all things. (p. 82)
 	- Related: [[5-1b1a2c0 No theory can exhaust reality]].

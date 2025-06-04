@@ -5,7 +5,8 @@ Next:
 
 Related:
 - Causation isn’t everything
-	- [[1-2g2s8 The unobserved parts of the wider phenomenon (other universes) have in no way affected what we (the viewers) observe (in OUR universe), yet they are essential to its explanation. Causation doesn't exhaust explanation!]]
+	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]]
+	- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
 	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 - Abstractions are real
 	- [[10-2g2e2 Abstractions are real, and created the same way as with any other knowledge]]

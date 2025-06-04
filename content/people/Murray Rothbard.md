@@ -522,7 +522,7 @@ Analysis of the arbitrage profits and losses of entrepreneurship in the case of 
 	- We are interested in preference *as revealed through choice* and not in the *psychology* of preferences. (p. 310)
 	- Far from being a proof of the importance of indifference, **the case of Buridan’s ass is an excellent demonstration of the fact that indifference can play no part whatever in an analysis of human action**. (pp. 310-311)
 		- Relate this with the multiverse (specifically with differentiation and fungibility)—viz., elaborate how differentiation relates with being made redundant (i.e., fungibility). #develop   
-			- Bredan will either choose the left water hole or right. In some universes, the left will be preferred to the right, while the right will be preferred to the left in other universes. 
+			- Buridan will either choose the left water hole or right. In some universes, the left will be preferred to the right, while the right will be preferred to the left in other universes. 
 			- Put differently, **the individual differentiates due to the indifference—a lack of preference, which in turn is due to the lack of knowledge**. #develop 
 				- Inverted: **the individual converges across the multiverse through knowledge**.
 - **In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice.** (p. 311)

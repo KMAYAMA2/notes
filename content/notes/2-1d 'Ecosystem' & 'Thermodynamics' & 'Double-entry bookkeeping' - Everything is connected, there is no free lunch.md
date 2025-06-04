@@ -1,7 +1,7 @@
 [[5-2 What counts cannot be counted]]
 
 Not everything is connected *causally* #multiverse #develop 
-[[1-2g2s8 The unobserved parts of the wider phenomenon (other universes) have in no way affected what we (the viewers) observe (in OUR universe), yet they are essential to its explanation. Causation doesn't exhaust explanation!]]
+[[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]]
 [[1-2g2s7d A history has to be explained in multiversal terms. The true explanation of what happened involves many other instances of me.]]
 
 "In nature, nothing exists alone."

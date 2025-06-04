@@ -1,3 +1,4 @@
+Charles Darwin meets Alan Turing and Hugh Everett here. Put differently, money allows memes to survive (i.e., the Turing principle at play) by mediating the multiverse (i.e., derived from the Everett interpretation of quantum mechanics).
 
 Next:
 - [[13-1a3a1f Success in the money economy implies adaptation to others (including distant ones), not merely to its surrounding environment]]

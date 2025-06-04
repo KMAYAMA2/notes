@@ -3,3 +3,4 @@
 Related:
 - [[13-2 Knowledge precedes action]]
 - [[13-6a2 Knowledge keeps you the same, from the perspective of exhibited value scales]]
+- [[13-9a3 Praxeology is concerned with preference as revealed through choice]]
