@@ -3,8 +3,10 @@
 Next:
 - [[13-4d4 Value is subjective]]
 
-Related: 
+Related:
+- [[13-7a Utilities cannot be combined]]
 - On improvement
 	- [[13-1a3d Any improvement is subjective]]
-- [[5-2 What counts cannot be counted]]
-- [[Know what to measure]]
+- On measure
+	- [[5-2 What counts cannot be counted]]
+	- [[Know what to measure]]

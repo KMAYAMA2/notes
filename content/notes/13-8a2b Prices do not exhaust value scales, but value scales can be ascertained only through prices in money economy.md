@@ -4,6 +4,7 @@ Next:
 - [[13-8a2c Value scales are ascertainable from the real actions, not vice versa—because value scales cannot be exhausted]]
 
 Related:
+- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
 - To be different it has to be the same beforehand #develop 
 	- [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]
 - To be un-bundled it has to be bundled first #develop 

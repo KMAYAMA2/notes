@@ -10,6 +10,6 @@ Related:
 - Prices do not exhaust value scales, but value scales can be ascertained only through prices—from accessibility standpoint they are identical #develop 
 	- [[13-6 Man reveals only a part of his value scale through actions]]
 		- **Price implies value scales—the latter (ideas) can be ascertained only through the former (actions)**.
-	- [[13-7a The difference in goods can be ascertained only through human actions]]
-	- [[13-7b Prices can reveal differences between goods that appear identical]]
+	- [[13-7.1 The difference in goods can be ascertained only through human actions]]
+	- [[13-7.1a Prices can reveal differences between goods that appear identical]]
 - [[13-9a1 A value scale consists of goods with which the individual is familiar—the good will not be on the value scale if the individual does not know about that good]] #revisit 

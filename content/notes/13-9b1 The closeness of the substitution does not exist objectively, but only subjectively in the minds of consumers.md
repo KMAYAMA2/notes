@@ -5,4 +5,4 @@ As with values, the closeness of goods does not exist objectively, but subjectiv
 Related:
 - [[13-4d2 There is no objective value]]
 - [[13-4d4 Value is subjective]]
-- [[13-7b Prices can reveal differences between goods that appear identical]]
+- [[13-7.1a Prices can reveal differences between goods that appear identical]]
