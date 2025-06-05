@@ -60,7 +60,7 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
   - [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress |Constraints]] in the form of consistent style leave space for creativity and progress
   - Replace 'self-discipline' with [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying |the four laws of habit formation]]: *make it visible; make it attractive; make it easy; make it satisfying*
 - **Life**
-  - Use [[3-1b2 Use the Fun Criterion to filter what problems to work on |*the Fun Criterion*]]
+  - Use *[[3-1b2 Use the Fun Criterion to filter what problems to work on |the Fun Criterion]]*
   - Love bad news—[[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations. |always question to falsify your idea and theory.]] How fast you can invalidate matters as much as how fast you can build them.
 - **Longevity**
   - [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |You have to realign the incentives of capitalist entities you are outsourcing your health]], or you have to take care of yourself
