@@ -1,0 +1,89 @@
+# A Few Lessons from Sherlock Holmes – Peter Bevelin
+- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
+- On multidisciplinary perspective
+	- One’s ideas must be as broad as Nature if they are to interpret Nature. (Holmes; A Study in Scarlet)
+	- Our divisions into sciences are not a part of nature...in nature there is really neither chemistry nor physics, nor zoology, nor physiology, nor pathology; there are only bodies to be classified or phenomena to be known and mastered. (Claude Bernard)
+- It can be dangerous to know too much
+	- His ignorance was as remarkable as his knowledge...He said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he possessed was such as would be useful to him. (Dr. Watson; A Study in Scarlet)
+	- It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones. (Holmes; A Study in Scarlet)
+- Understand human nature and what motivates people
+	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
+- **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
+	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
+- On observation
+	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
+	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
+- Never jump to conclusions and try to collect facts as open-minded as possible
+	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
+		- Adjusting the theory matters more than starting from theory *per se*.
+- Being nice is hardly the evidence of innocence
+- Start with collecting facts and follow them where they lead
+	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
+	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
+- Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
+	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
+	- Nothing can be done without preconceived ideas; only there must be the wisdom not to accept their deductions beyond what experiments confirm. (Louis Pasteur)
+- What are the facts? Gather enough evidence—both positive and negative—that is relevant to the problem
+	- The temptation to form premature theories upon insufficient data is the bane of our profession. (Holmes; The Valley of Fear)
+- Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen?
+	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
+- Deception has many faces
+	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
+- Why may they be lying or deceive us? What is out of the ordinary?
+	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge)
+- Separate the relevant and important facts from the unimportant or accidental
+	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
+- There may be many theories that fit the facts
+	- There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear)
+	- Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery)
+- Sometimes it helps to shift perspective
+	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
+- More information isn’t necessarily better—what is not worth knowing is not worth knowing
+	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
+- Know where to look
+	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
+	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
+	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
+	- The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles)
+- The eye sees only what it is trained to see
+	- In the last analysis, we see only what we are ready to see, what we have been taught to see. We eliminate and ignore everything that is not a part of our prejudices. (Jean-Martin Charcot)
+		- Related: [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
+- “Checklist” routines for critical factors help—assuming I am competent enough to decide what factors are critical and that I can evaluate them
+	- To practise order and system requires steady adherence to a given plan until the order of events becomes unconscious. With training one observation follows another without any effort and a glance will do what formerly took repeated observations. (Thomas McCrae; The Method of Zadig)
+		- Related: [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
+- Sometimes the trivial or the most immaterial aspect of a case may be the most important but we need to learn how to separate between trifles that matter and those that don’t
+	- The great majority of people, of incidents, and of cases resemble each other in the main and larger features...Most men have...a head, two arms, a nose, a mouth, and a certain number of teeth. It is the little differences, themselves trifles, such as the droop of an eyelid, or what not, which differentiates man. (Joseph Bell; Dr. Joe Bell)
+- Reasoning backwards—working back form observations (effects) to causes
+	- Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet)
+- Which is the simplest, most natural explanation—the one requiring the least assumptions needed to explain the facts?
+	- There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well. (Charles Sanders Peirce)
+		- Related: [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
+- What normally happens in similar situations? Why should this be any different?
+	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
+	- Some of us are too much attracted by the thought of rare things and forget the law of averages in diagnosis. (Thomas McCrae; The Method of Zadig)
+- History often repeats itself
+	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
+		- Related: [[4-1a4b2b2 History repeats and reverses]]
+- Paradoxically the strange crime is often easier to solve than the common one
+	- It is your commonplace, featureless crimes which are really puzzling, just as a commonplace face is the most difficult to identify. (Holmes; The Red-Headed League)
+- Negative evidence and events that don’t happen, matter when something implies they should be present or happen
+	- Only one important thing has happened in the last three days, and that is that nothing has happened. (Holmes; The Second Stain)
+		- Related: [[5-2 What counts cannot be counted]]
+- Small pieces of information may in themselves look to be of no importance but may clarify things when taken together.
+	- Experience has taught me, and must have taught you, that the most trivial, commonplace and seemingly irrelevant facts have a way of suddenly assuming a crucial importance by connecting, explaining or filling in the detail of later discoveries. (Dr. Thorndyke; The Penrose Mystery)
+		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
+- What doesn’t matter? What can’t happen? What can’t it be? What can’t be done?
+	- By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. (Holmes; A Study in Scarlet)
+	- That process...starts upon the supposition that when you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth. It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support. (Holmes; The Blanched Soldier)
+	- There is no great mystery in this matter...the facts appear to admit of only one explanation. (Holmes; The Sign of the Four)
+		- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]] #revisit 
+- Test our theory—if it disagrees with the facts it is wrong
+	- Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them? (Claude Bernard)
+	- Does your explanation cover every point? (Holmes; The Priory School)
+- Check for other possible explanations—what else can explain this?
+	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter)
+	- Life is infinitely stranger than anything which the mind of man could invent. (Holmes; A Case of Identity)
+- Sometimes we need to remove ourselves from the problem and get a fresh perspective
+	- One of our greatest statesmen has said that a change of work is the best rest. So it is. (Holmes; The Sign of the Four)
+	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot)
+- 
