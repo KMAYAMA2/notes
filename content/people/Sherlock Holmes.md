@@ -1,7 +1,11 @@
 # A Few Lessons from Sherlock Holmes – Peter Bevelin
-- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
+- Martin Gardner on Sherlock Holmes
+	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
+		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
+		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]]
 - On multidisciplinary perspective
 	- One’s ideas must be as broad as Nature if they are to interpret Nature. (Holmes; A Study in Scarlet)
+		- Related: [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 	- Our divisions into sciences are not a part of nature...in nature there is really neither chemistry nor physics, nor zoology, nor physiology, nor pathology; there are only bodies to be classified or phenomena to be known and mastered. (Claude Bernard)
 - It can be dangerous to know too much
 	- His ignorance was as remarkable as his knowledge...He said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he possessed was such as would be useful to him. (Dr. Watson; A Study in Scarlet)
@@ -86,4 +90,23 @@
 - Sometimes we need to remove ourselves from the problem and get a fresh perspective
 	- One of our greatest statesmen has said that a change of work is the best rest. So it is. (Holmes; The Sign of the Four)
 	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot)
-- 
+- Put yourself in the other person’s shoes
+	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman)
+- Get a different view—talk it over with someone else
+	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze)
+- Combine experiences
+	- There were two of us in the hunt, and when two men set out to find a golf ball in the rough, they expect to come across it where the straight line marked in their minds eye to it, from their original positions, crossed. In the same way, when two men set out to investigate a crime mystery, it is where their researches intersect that we have a result. (Joseph Bell; Dr. Joe Bell)
+	- Oh, you must not let me influence you in any way! I suggest that you go on your line and I on mine. We can compare notes afterwards, and each will supplement the other. (Holmes; The Six Napoleons)
+- Don’t make the world fit your tools and use the right tool for the job
+	- The advances on the laboratory side and the perfection of instruments have added much to our powers of diagnosis, but they have given some men the idea that they are everything and the use of one’s eyes and hands is looked on as old-fashioned. The man whose first idea in an obscure thoracic case is to have an x-ray plate taken and who cannot “bother” with physical signs does not deserve the name diagnostician. (Thomas McCrae; The Method of Zadig)
+		- Related: [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
+		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
+	- To my mind accurate habits of working and thinking are a great safeguard against these supposed short cuts to diagnosis. (Thomas McCrae; The Method of Zadig)
+- Criticize ourselves
+	- When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted. (Claude Bernard)
+		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
+- Change the theory and change course if the facts or evidence don’t agree with the theory
+	- I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved…as soon as facts are shown to be opposed to it. (Charles Darwin)
+- Know our limitations
+	- The best part of our knowledge is that which teaches us where knowledge leaves off and ignorance begins. Nothing more clearly separates a vulgar from a superior mind, than the confusion in the first between the little that it truly knows, on the one hand, and what it half knows and what it thinks it knows on the other. (Oliver Wendell Holmes)
+		- Related: [[3-1a4b2' Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
