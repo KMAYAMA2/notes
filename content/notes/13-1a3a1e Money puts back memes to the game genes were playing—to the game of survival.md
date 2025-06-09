@@ -6,7 +6,7 @@ Next:
 Related:
 - [[9-4b2a Writing is THE evolution. It’s more fast-universal-explicit in contrast to the evolution of genes.]]
 - [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
-- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - On memes #develop 
 	- [[1-1b Memes are more powerful than genes because they can out-evolve them]]
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]

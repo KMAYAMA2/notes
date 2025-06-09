@@ -9,4 +9,4 @@
 
 [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
 
-[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]

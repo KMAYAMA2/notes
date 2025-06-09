@@ -14,6 +14,7 @@
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
 	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
+		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]] #revisit 
 - On observation
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
@@ -21,6 +22,7 @@
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
 		- Adjusting the theory matters more than starting from theory *per se*.
 - Being nice is hardly the evidence of innocence
+	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 - Start with collecting facts and follow them where they lead
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)

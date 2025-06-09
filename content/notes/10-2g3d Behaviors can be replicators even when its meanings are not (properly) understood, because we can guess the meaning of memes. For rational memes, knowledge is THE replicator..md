@@ -4,7 +4,7 @@
 [[10-2g2e6 Abstraction is the unseen]]
 #unseen 
 
-[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 
 [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
 

@@ -9,3 +9,4 @@ Next:
 
 Related:
 - [[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle]]
+- [[13-3a The use of the mathematical concept of function in a science of human action is inappropriate—because it disregards time and knowledge creation (i.e., the multiverse)]]

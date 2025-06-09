@@ -8,7 +8,7 @@ Related:
 - [[4-1a4b3 If you write down ideas, you can have a conversation with each one of them individually, or with any configurations from them]]
 - [[10-2g2e9c Life has been creating knowledge by conjectures]]
 
-- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]] #develop 
+- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]] #develop 
 
 - [[3-1c2e0 There is no minimum idea]]
 	- [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]

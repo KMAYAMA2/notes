@@ -564,6 +564,7 @@ That a *final equilibrium* position implies the end of progress. That experiment
 	- Relate this with how we are doubly blind: **knowledge is unpredictable (viz., our “function” keeps evolving), and only that part of knowledge that can be ascertained through actions can be conjectured (viz., actions can’t reveal the whole of value scales)**.
 		- See 4-4
 	- **Is it fair to say that in confining itself to knowledge as can be evoked only through actions, Rothbard (and other Austrian economists) succumbs to a form of empiricism?** #develop 
+		- Relate to [[Sherlock Holmes]] #revisit 
 - Training in mathematics, without adequate attention to the epistemology of the sciences of human action, is likely to yield unfortunate results when applied to the latter. (p. 366)
 - The idea of the evenly rotating economy is indispensable in analyzing the real economy; through hypothesizing a world where all change has worked itself out, we can analyze the directions of actual change. (p. 329)
 	- Is this actually true? #revisit 

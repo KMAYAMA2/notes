@@ -1,7 +1,7 @@
 Substrate-independence implies the Turing principle. Or maybe the opposite: the Turing principle implies substrate-independence. Or maybe it's just the same thing conceptualized differently.
 	***If my second postulate is true, that means substrate-independence can be only realized by beings which can use symbols. That is, humans.*** ([[10-2g2e Universality of the laws of physics depends on the existence of universal explainers — people]]) #develop 
 		[[10-2g1f2b The brain and symbols evolved reflexively to enhance communication to deal with cultural and sexual selectional pressures.]]
-			[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+			[[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 #TheTuringPrinciple #develop 
 
 Classical information: *possibility* of 'flip' and 'copy' #develop 

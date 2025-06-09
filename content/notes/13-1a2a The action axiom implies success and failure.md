@@ -1,4 +1,7 @@
 
+Next:
+- 
+
 Related:
 - On failure
 	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
