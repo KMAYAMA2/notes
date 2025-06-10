@@ -543,11 +543,11 @@ That a *final equilibrium* position implies the end of progress. That experiment
 - The state of *final equilibrium is one which the economy is always tending to approach*. It is never reached in practice and it is always changing. (pp. 321-322)
 - At the *final position of rest*, on the basis of the given, actually existing value scales, all individuals would have attained the highest positions on their value scales, given the technology and resources. (p. 322-323)
 - Such a position of no change would be most unfortunate, since it would imply that no further want-satisfaction would be possible. (p. 323)
-	- Viz., **a final equilibrium position implies the end of progress**. #revisit 
+	- Viz., **a final equilibrium position implies the end of progress**.
 - Far too many writers discerning that in the evenly rotating economy entrepreneurial profits and losses would all be zero, have somehow concluded that this must be the *condition* for any legitimate activity on the market. (p. 323)
-	- Viz., do not confuse the effect with the condition.
+	- Viz., do not confuse the effect with the condition. #revisit 
 - We are not dealing with “functional,” quantitative relations among variables, but with human reason and will causing certain action, which is not “determinable” or reducible to outside forces. (p. 324)
-	- Relate this with the unpredictability which is inherent in the multiverse—in particular, relate this with how **experimental results cannot be used to verify theories due to the non-determinacy which is inherent in each universe**. #revisit 
+	- Relate this with the unpredictability which is inherent in the multiverse—in particular, relate this with how **experimental results cannot be used to verify theories due to the non-determinacy which is inherent in each universe**.
 		- Does that mean experimental results can be only used to falsify theories? **How is the multiverse related with fallibilism?** #revisit
 - The only “natural laws” (if we may use such an old-fashioned but perfectly legitimate label for such constant regularities) in human action are *qualitative* rather than *quantitative*. (p. 324)
 - The “mathematical economists”:
@@ -555,14 +555,15 @@ That a *final equilibrium* position implies the end of progress. That experiment
 		- And the multiverse explains causation, at least in the realm of human actions. #revisit
 			- Viz., **because the multiverse is the general condition, and because the multiverse allows the explanation of life and mind by allowing the causality to be evoked by the mind, causation (as a concept implied in the multiverse) is sure to explain human actions**. #revisit
 	- **The mathematical equations of the evenly rotating economy describe only a static situation, outside of time**. (p. 325)
-		- Other times are special cases of other universes. Inverted, **the mathematical equations**—at least in the sense the mathematical economists use them—**disregard the multiverse**. #revisit
+		- Other times are special cases of other universes. Inverted, **the mathematical equations**—at least in the sense the mathematical economists use them—**disregard the multiverse**.
 - **The use of the mathematical concept of “function” is particularly inappropriate in a science of human action**. On the one hand, action itself is *not* a function of anything, since “function” implies definite, unique, mechanical regularity and determination. On the other hand, the mathematics of simultaneous equations, dealing in physics with unmotivated motion, stresses mutual determination. In human action, however, the known causal force of action unilinearly determines the results. (pp. 326-327)
-	- Viz., **the result does not simultaneously determine the cause**—mutual determination is closely tied to a deterministic worldview. Put differently, **humans create their own causality**. #develop 
+	- Viz., **the result does not simultaneously determine the cause**—mutual determination is closely tied to a deterministic worldview. Put differently, **humans create their own causality**.
 		- E.g., the Earth deflecting meteoric stars. #revisit
 		- Related: [[5-1b1a3 We are more than technology, because we create knowledge-technology. We are more than functions. Don’t be a function.]]
 		- Similar to [[Elie Ayache]]’s claim in *The Blank Swan*. #Ayache 
 	- Relate this with how we are doubly blind: **knowledge is unpredictable (viz., our “function” keeps evolving), and only that part of knowledge that can be ascertained through actions can be conjectured (viz., actions can’t reveal the whole of value scales)**.
 		- See 4-4
+		- But as it relates to the matter at hand, I think only the first point is relevant.
 	- **Is it fair to say that in confining itself to knowledge as can be evoked only through actions, Rothbard (and other Austrian economists) succumbs to a form of empiricism?** #develop 
 		- Relate to [[Sherlock Holmes]] #revisit 
 - Training in mathematics, without adequate attention to the epistemology of the sciences of human action, is likely to yield unfortunate results when applied to the latter. (p. 366)

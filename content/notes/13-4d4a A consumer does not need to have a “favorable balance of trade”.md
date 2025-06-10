@@ -7,4 +7,4 @@ Related:
 - [[13-4d4 Value is subjective]]
 
 Next:
-- [[13-5b2 Everyone must consume]]
+- [[13-4d4b Everyone must consume]]

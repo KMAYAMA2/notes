@@ -1,12 +1,6 @@
 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.
 
-- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
-	- E.g., Las Vegas exists because most of us can't price correctly
 
-- [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
-	- E.g., Status, 威信財
-		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
-- #develop 
 
 Next:
 - [[10-2g3d1.1 Humans create their own cause]]
@@ -22,4 +16,11 @@ Next:
 					- To certain extent, it DOES matter where you come from
 						- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
 						- [[5-1b4b0 Evolution is trend]]
-#develop 
+
+Related:
+- Inverted
+	- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
+		- E.g., Las Vegas exists because most of us can't price correctly
+- [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
+	- E.g., Status, 威信財
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]

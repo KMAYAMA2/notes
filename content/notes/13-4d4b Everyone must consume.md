@@ -3,7 +3,7 @@ Unless you are a god. #revisit
 “A man’s imports are his purchase of consumers’ goods and are therefore the ends of his activity.”
 
 Next:
-- [[13-5b3 The man only strives for a favorable balance of trade as it pertains to him as an entrepreneur]]
+- [[13-4d4c The man only strives for a favorable balance of trade as it pertains to him as an entrepreneur]]
 
 Related:
 - [[Economics of God]]

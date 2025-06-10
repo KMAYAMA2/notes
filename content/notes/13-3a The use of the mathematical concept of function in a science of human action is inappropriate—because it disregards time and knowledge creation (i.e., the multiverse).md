@@ -4,7 +4,7 @@
 
 Related:
 - [[10-2g3d1.1 Humans create their own cause]]
-- Why disregarding time disregards the mutliverse
+- Why disregarding time disregards the multiverse
 	- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]]
 - On functions
 	- [[5-1b1a3 We are more than technology, because we create knowledge-technology. We are more than functions. Don’t be a function.]]

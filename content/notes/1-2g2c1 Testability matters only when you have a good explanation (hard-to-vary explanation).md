@@ -1,3 +1,5 @@
+Relate with [[Sherlock Holmes]]
+
 [[10-2g2e9b DNA is digital system which evolves by discrete changes. If it were analog, evolution couldn’t have happened.]]
 [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]
 [[1-2g2s7a Knowing probability doesn't mean you can predict it]]
