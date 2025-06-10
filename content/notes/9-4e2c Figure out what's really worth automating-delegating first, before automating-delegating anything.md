@@ -1,3 +1,5 @@
+> “Question every requirement. A common mistake is to simplify and optimize a part or a process that should not exist.” – Elon Musk
+
 [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 
 Put differently: *process when you really have to; otherwise prioritize execution (i.e., solving problems)*

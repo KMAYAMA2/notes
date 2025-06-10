@@ -35,17 +35,21 @@
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
+		- [[9-1a1 People who converge upon the truth converge with each other]]
 - Why may they be lying or deceive us? What is out of the ordinary?
 	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge)
 - Separate the relevant and important facts from the unimportant or accidental
 	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
 - There may be many theories that fit the facts
 	- There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear)
+		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 	- Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery)
+		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
 - Sometimes it helps to shift perspective
 	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
-- More information isn’t necessarily better—what is not worth knowing is not worth knowing
+- More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
+		- [[4-1a4b2a3 整理 = 意識的にすてること]]
 - Know where to look
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
@@ -104,6 +108,7 @@
 		- Related: [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
 		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
 	- To my mind accurate habits of working and thinking are a great safeguard against these supposed short cuts to diagnosis. (Thomas McCrae; The Method of Zadig)
+		- [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
 - Criticize ourselves
 	- When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted. (Claude Bernard)
 		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
@@ -112,3 +117,9 @@
 - Know our limitations
 	- The best part of our knowledge is that which teaches us where knowledge leaves off and ignorance begins. Nothing more clearly separates a vulgar from a superior mind, than the confusion in the first between the little that it truly knows, on the one hand, and what it half knows and what it thinks it knows on the other. (Oliver Wendell Holmes)
 		- Related: [[3-1a4b2' Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+
+Related:
+- [[1-1a6 To live is to live like a detective]]
+- [[1-1a7 Epistemology is the way with which we go about our detective work; other sciences are application of such detective lens]]
+- [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
+- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]

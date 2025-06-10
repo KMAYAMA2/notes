@@ -1,6 +1,6 @@
+>”There should be no combination of events for which the wit of man cannot conceive an explanation.” – [[Sherlock Holmes]]
+
 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.
-
-
 
 Next:
 - [[10-2g3d1.1 Humans create their own cause]]

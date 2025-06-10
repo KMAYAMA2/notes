@@ -1,5 +1,7 @@
 > “One’s ideas must be as broad as Nature if they are to interpret Nature.” – [[Sherlock Holmes]]
 
+> “Our divisions into sciences are not a part of nature...in nature there is really neither chemistry nor physics, nor zoology, nor physiology, nor pathology; there are only bodies to be classified or phenomena to be known and mastered.” – Claude Bernard
+
 **Next:**
 - [[3-1a0 Use categories, but don't be categorized]]
 - [[3-1a1 It’s either you are solving problems or not]]
