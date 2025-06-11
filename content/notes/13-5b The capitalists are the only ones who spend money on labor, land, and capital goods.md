@@ -5,7 +5,7 @@
 “There are two alternatives in regard to the final ownership of the product (*before* it is sold to the consumer)—although the latter is the nearly universal condition, it will be convenient to begin by analyzing the first alternative: (a) All the owners of these factors *jointly* own the final product; (b) The owner of each of the factors sells the services of his factor to someone else, and the latter (who may himself contribute a factor) sells the good at a later date to the consumer. The term “capitalists” will be confined to the owners in the second alternative.”
 
 Next:
-- 
+- [[13-5b1 Without the capitalists, the income earned by the owners of land and labor fluctuates with consumer demand and is received at a much later date]]
 - [[13-5c The capitalists’ money for investment must be first saved]]
 
 Related:

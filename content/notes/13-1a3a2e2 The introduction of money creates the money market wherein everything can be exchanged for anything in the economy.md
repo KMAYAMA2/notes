@@ -10,3 +10,6 @@ Related:
 	- [[2-1c2a Matt Ridley - 'Self-sufficiency leads to economic downturns. Mutual interdependence is more robust.']]
 - On being exchangeable
 	- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+- Money can be anything other than itself, and it is also fungible with itself
+	- [[10-2e4b Money is fungible. So is energy. So are we.]]

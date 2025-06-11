@@ -5,6 +5,7 @@ Originally, this note was titled: *But everything can be priced*.
 Viz., it cannot be unbundled. #develop 
 
 Next:
+- [[3-1a4b5.1 Money can be anything—but money will not be everything]]
 - [[3-1a4b6 The importance of the monetarily accountable compared to the unaccountable increases indefinitely, although the former never exhausts the latter]]
 
 Related:
