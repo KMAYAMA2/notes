@@ -1,7 +1,9 @@
 ---
 date: 2024-12-10
 ---
-> “The world is full of obvious things which nobody by any chance ever observes.” – Sherlock Holmes
+> “The world is full of obvious things which nobody by any chance ever observes.” – [[Sherlock Holmes]]
+
+> “Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again.” – [[Sherlock Holmes]]
 
 [[2-1a5a Evolution doesn't care about lifetime of each individual gene-meme carrier (its sample is beyond your own experience and any human lifetime)]]
 [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded.]]

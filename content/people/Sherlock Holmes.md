@@ -1,8 +1,8 @@
 # A Few Lessons from Sherlock Holmes – Peter Bevelin
 - Martin Gardner on Sherlock Holmes
 	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
-		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
-		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]]
+		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]] #revisit 
+		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]] #revisit 
 - On multidisciplinary perspective
 	- One’s ideas must be as broad as Nature if they are to interpret Nature. (Holmes; A Study in Scarlet)
 		- Related: [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
@@ -14,7 +14,7 @@
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
 	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
-		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]] #revisit 
+		- Related: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]] #revisit 
 - On observation
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
@@ -35,21 +35,21 @@
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
-		- [[9-1a1 People who converge upon the truth converge with each other]]
+		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
 - Why may they be lying or deceive us? What is out of the ordinary?
 	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge)
 - Separate the relevant and important facts from the unimportant or accidental
 	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
 - There may be many theories that fit the facts
 	- There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear)
-		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 	- Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery)
-		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
+		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
 - Sometimes it helps to shift perspective
 	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
 - More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
-		- [[4-1a4b2a3 整理 = 意識的にすてること]]
+		- Related: [[4-1a4b2a3 整理 = 意識的にすてること]]
 - Know where to look
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
@@ -67,13 +67,13 @@
 	- Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet)
 - Which is the simplest, most natural explanation—the one requiring the least assumptions needed to explain the facts?
 	- There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well. (Charles Sanders Peirce)
-		- Related: [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
+		- Related: [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
 - What normally happens in similar situations? Why should this be any different?
 	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
 	- Some of us are too much attracted by the thought of rare things and forget the law of averages in diagnosis. (Thomas McCrae; The Method of Zadig)
 - History often repeats itself
 	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
-		- Related: [[4-1a4b2b2 History repeats and reverses]]
+		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - Paradoxically the strange crime is often easier to solve than the common one
 	- It is your commonplace, featureless crimes which are really puzzling, just as a commonplace face is the most difficult to identify. (Holmes; The Red-Headed League)
 - Negative evidence and events that don’t happen, matter when something implies they should be present or happen
@@ -97,18 +97,20 @@
 	- One of our greatest statesmen has said that a change of work is the best rest. So it is. (Holmes; The Sign of the Four)
 	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot)
 - Put yourself in the other person’s shoes
-	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman)
+	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman) #revisit 
 - Get a different view—talk it over with someone else
-	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze)
+	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze) #revisit 
 - Combine experiences
 	- There were two of us in the hunt, and when two men set out to find a golf ball in the rough, they expect to come across it where the straight line marked in their minds eye to it, from their original positions, crossed. In the same way, when two men set out to investigate a crime mystery, it is where their researches intersect that we have a result. (Joseph Bell; Dr. Joe Bell)
+		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
 	- Oh, you must not let me influence you in any way! I suggest that you go on your line and I on mine. We can compare notes afterwards, and each will supplement the other. (Holmes; The Six Napoleons)
+		- Related: [[1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated.]]
 - Don’t make the world fit your tools and use the right tool for the job
 	- The advances on the laboratory side and the perfection of instruments have added much to our powers of diagnosis, but they have given some men the idea that they are everything and the use of one’s eyes and hands is looked on as old-fashioned. The man whose first idea in an obscure thoracic case is to have an x-ray plate taken and who cannot “bother” with physical signs does not deserve the name diagnostician. (Thomas McCrae; The Method of Zadig)
 		- Related: [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
-		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
+		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]] #revisit 
 	- To my mind accurate habits of working and thinking are a great safeguard against these supposed short cuts to diagnosis. (Thomas McCrae; The Method of Zadig)
-		- [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
+		- Related: [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
 - Criticize ourselves
 	- When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted. (Claude Bernard)
 		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]

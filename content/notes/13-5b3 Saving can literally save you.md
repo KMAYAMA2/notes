@@ -1,3 +1,6 @@
+---
+date: 2025-06-12
+---
 
 Related:
 - Money can be anything other than itself
