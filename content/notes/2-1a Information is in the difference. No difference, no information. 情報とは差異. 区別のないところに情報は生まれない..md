@@ -1,3 +1,5 @@
+> “The great majority of people, of incidents, and of cases resemble each other in the main and larger features...Most men have...a head, two arms, a nose, a mouth, and a certain number of teeth. It is the little differences, themselves trifles, such as the droop of an eyelid, or what not, which differentiates man.” – Joseph Bell
+
 ***情報とは差異 (= manifestation of contingency)。区別のないところに情報は生まれない。***
 
 [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]

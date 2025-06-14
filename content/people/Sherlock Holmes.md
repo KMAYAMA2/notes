@@ -20,7 +20,7 @@
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
 - Never jump to conclusions and try to collect facts as open-minded as possible
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
-		- Adjusting the theory matters more than starting from theory *per se*.
+		- Adjusting the theory matters more than starting from theory *per se*. #revisit 
 - Being nice is hardly the evidence of innocence
 	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 - Start with collecting facts and follow them where they lead
@@ -28,18 +28,23 @@
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
+		- Related: [[5-2b5 Theories precede data]]
 	- Nothing can be done without preconceived ideas; only there must be the wisdom not to accept their deductions beyond what experiments confirm. (Louis Pasteur)
 - What are the facts? Gather enough evidence—both positive and negative—that is relevant to the problem
 	- The temptation to form premature theories upon insufficient data is the bane of our profession. (Holmes; The Valley of Fear)
+		- Related: [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
 - Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen?
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
 - Why may they be lying or deceive us? What is out of the ordinary?
-	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge)
+	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #revisit 
+		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]] #revisit 
+		- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] #revisit 
 - Separate the relevant and important facts from the unimportant or accidental
 	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
+		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - There may be many theories that fit the facts
 	- There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear)
 		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
@@ -47,6 +52,7 @@
 		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
 - Sometimes it helps to shift perspective
 	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
+		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
 		- Related: [[4-1a4b2a3 整理 = 意識的にすてること]]
@@ -63,14 +69,17 @@
 		- Related: [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
 - Sometimes the trivial or the most immaterial aspect of a case may be the most important but we need to learn how to separate between trifles that matter and those that don’t
 	- The great majority of people, of incidents, and of cases resemble each other in the main and larger features...Most men have...a head, two arms, a nose, a mouth, and a certain number of teeth. It is the little differences, themselves trifles, such as the droop of an eyelid, or what not, which differentiates man. (Joseph Bell; Dr. Joe Bell)
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 - Reasoning backwards—working back form observations (effects) to causes
 	- Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet)
+		- Related: [[10-2g3d1.1 Humans create their own cause]]
 - Which is the simplest, most natural explanation—the one requiring the least assumptions needed to explain the facts?
 	- There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well. (Charles Sanders Peirce)
-		- Related: [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
+		- Related: [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 - What normally happens in similar situations? Why should this be any different?
 	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
 	- Some of us are too much attracted by the thought of rare things and forget the law of averages in diagnosis. (Thomas McCrae; The Method of Zadig)
+		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - History often repeats itself
 	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
 		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
@@ -93,9 +102,11 @@
 - Check for other possible explanations—what else can explain this?
 	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter)
 	- Life is infinitely stranger than anything which the mind of man could invent. (Holmes; A Case of Identity)
+		- Related: [[2-3a 'First principles thinking' - If it's not forbidden by the laws of physics, it is possible]]
 - Sometimes we need to remove ourselves from the problem and get a fresh perspective
 	- One of our greatest statesmen has said that a change of work is the best rest. So it is. (Holmes; The Sign of the Four)
-	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot)
+		- Related: [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
+	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot) #revisit 
 - Put yourself in the other person’s shoes
 	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman) #revisit 
 - Get a different view—talk it over with someone else
@@ -108,7 +119,7 @@
 - Don’t make the world fit your tools and use the right tool for the job
 	- The advances on the laboratory side and the perfection of instruments have added much to our powers of diagnosis, but they have given some men the idea that they are everything and the use of one’s eyes and hands is looked on as old-fashioned. The man whose first idea in an obscure thoracic case is to have an x-ray plate taken and who cannot “bother” with physical signs does not deserve the name diagnostician. (Thomas McCrae; The Method of Zadig)
 		- Related: [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
-		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]] #revisit 
+		- Related: [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
 	- To my mind accurate habits of working and thinking are a great safeguard against these supposed short cuts to diagnosis. (Thomas McCrae; The Method of Zadig)
 		- Related: [[3-1d6a Consistent style allows cognitive offload with regard to everything unrelated to the problems at hand]]
 - Criticize ourselves
@@ -116,6 +127,7 @@
 		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 - Change the theory and change course if the facts or evidence don’t agree with the theory
 	- I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved…as soon as facts are shown to be opposed to it. (Charles Darwin)
+		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 - Know our limitations
 	- The best part of our knowledge is that which teaches us where knowledge leaves off and ignorance begins. Nothing more clearly separates a vulgar from a superior mind, than the confusion in the first between the little that it truly knows, on the one hand, and what it half knows and what it thinks it knows on the other. (Oliver Wendell Holmes)
 		- Related: [[3-1a4b2' Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
