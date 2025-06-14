@@ -32,3 +32,4 @@ Next:
 - [[12-1f 言葉と物事の関係性が一対である必要性はない (e.g., 二項同体)]]
 - [[13-4d2 There is no objective value]]
 - [[13-1a3c We will never attain objectivity]]
+- [[13-1a3.4 There are no objective or real costs that determine price]]

@@ -7,3 +7,5 @@ Next:
 Related:
 - [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 - [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
+- [[13-4d4 Value is subjective]]
+- [[13-5b1 Without the capitalists, the income earned by the owners of land and labor fluctuates with consumer demand and is received at a much later date]]

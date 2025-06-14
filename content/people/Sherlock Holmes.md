@@ -137,3 +137,6 @@ Related:
 - [[1-1a7 Epistemology is the way with which we go about our detective work; other sciences are application of such detective lens]]
 - [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
 - [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
+
+Relate:
+- [[5-1b2.2 There is no objective Black Swan]]

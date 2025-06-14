@@ -10,3 +10,5 @@ Related:
 - On time
 	- [[2-1a0a1 Don't waste time unnecessarily complicating things]]
 	- [[3-1c3c3a2 Time spent doesn't mean much]]
+	- [[4-1a4b6a0.3 Time is money means money is time]]
+	- [[13-4 Time is scarce because action involves choosing one thing over others]]
