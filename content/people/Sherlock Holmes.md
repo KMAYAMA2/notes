@@ -139,4 +139,55 @@ Related:
 - [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
 
 Relate:
+- #MentalModels 
+	- [[1-1c6a1d In the absence of evidence, do not assume miracles]]
+	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
+	- [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
+	- [[5-1b2a The “Doubt-Avoidance Tendency” - people want certainty-predictability-control over accuracy-reality]]
+- #MentalModelsBiology 
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+- #MentalModelsGeneral 
+	- [[2-1a0b 'Thought experiment' - Don't limit yourself to binary thinking. Explore at least three possible solutions.]]
+	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
+	- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+- #MentalModelsSystems 
+	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
+- #MentalModelsNumeracy 
+	- [[2-1a5 'Sampling' - Increase your sample size with QUALITY data]]
+	- [[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+	- [[2-3c 'Surface area' - Manage your exposure to volatilities]]
+- #MentalModelsMicroEcon 
+	- [[2-1b2a 'Seizing the middle' - 'Time is the friend of someone who is properly positioned and the enemy of someone poorly positioned.']]
+	- [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.]]
+	- [[2-1c2 'Specialization' - Minimizing opportunity costs maximize comparative advantages and leads to prosperity]]
+- #MentalModelsPsychology 
+	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+	- [[2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.]]
+	- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
+	- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
+	- [[2-1a1a4 'Representativeness heuristic' - Remember the Linda test!]]
+	- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
+	- [[2-1a1a6 'Tendency to overgeneralize from small samples']]
+	- [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
+	- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
+	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
+	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process form the problem-solving phase]]
+- #MentalModelsMilitaryAndWar 
+	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+- #MentalModelsPhysicsAndChem 
+	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
+	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+- [[1-2g1b What matters is the explanation, and not what you can see]]
+- [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[5-1b2.2 There is no objective Black Swan]]

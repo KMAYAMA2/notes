@@ -11,5 +11,10 @@ Related:
 - Likely a key to solve the aforementioned paradox
 	- [[13-1a3a2e2a Money and differences in the economy are reflexive]]
 	- [[13-1a3a2d3b Value scales and money are reflexive—value scales become more actionable with money, because money changes the topology of value scales]]
-- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
-- [[13-4d5 Prices are derived from subjective values]]
+- On saving
+	- [[13-5b1a Saving is not necessarily a monetary phenomenon—the restriction of present consumption constitutes saving]]
+	- [[13-5b1b Saving cannot be exhaustively measured in monetary terms]]
+- Never exhaustively, because prices are derived from subjective values
+	- [[13-4d5 Prices are derived from subjective values]]
+- And also because what’s been maximized is psychic income, and not monetary income
+	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
