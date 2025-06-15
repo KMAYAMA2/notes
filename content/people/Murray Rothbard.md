@@ -592,7 +592,7 @@ That a *final equilibrium* position implies the end of progress. That experiment
 ### 5. Cost
 - What are the costs involved in the decisions made by the owners of the factors? (p. 341)
 - It must be stressed that these costs are subjective and cannot be precisely determined by outside observers or be gauged *ex post* by observing accountants. (p. 341)
-	- Viz., **only monetary income (or loss) can be measured *ex post*—never psychic income (or loss)**. #revisit 
+	- Viz., **only monetary income (or loss) can be measured *ex post*—never psychic income (or loss)**.
 - *Since* such factors as land and the produced capital goods have only one use, namely, the production of this product (by virtue of being purely specific), they involve *no cost* to their owner in being used in production. (p. 341)
 	- Because **the cost involves what *it could’ve been otherwise*—and there is no otherwise under our assumption where all factors are specific**. 
 - **The use of labor, however, does have a cost, in accordance with the value of the leisure forgone by the laborers**. This value is, of course, unmeasurable in money terms, and necessarily differs for each individual, since there can be no comparison between the value scales of two or more persons. (p. 341)

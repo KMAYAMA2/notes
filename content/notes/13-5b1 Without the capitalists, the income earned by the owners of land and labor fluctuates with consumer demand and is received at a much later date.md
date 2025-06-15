@@ -4,7 +4,10 @@ In other words, the capitalists hedge this risk for the owners of land and labor
 
 “Added to the leisure-labor element, the workers, in this case, must wait for some time before earning the return, while they must give up their leisure in the present or in various periods earlier than the return is obtained. **Time, therefore, is a critical element in production, and its analysis must pervade any theory of production**.”
 
+
+
 Next:
+- [[13-5b1a Saving is not necessarily a monetary phenomenon—the restriction of present consumption constitutes saving]]
 - [[13-5b2 Money is usable in every line of production]]
 
 Related:
