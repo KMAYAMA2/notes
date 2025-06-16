@@ -15,3 +15,4 @@ Related:
 - [[13-3 All action must take place in time]]
 - [[13-5 Man prefers his end to be achieved in the shortest possible time (i.e., positive time preference)]]
 - [[13-5a The role of capital is to advance men in time toward their objective in producing consumers’ goods]]
+- [[13-5d The capitalists per se are not powerful]]

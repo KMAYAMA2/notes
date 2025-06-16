@@ -4,6 +4,7 @@
 “When the capitalists have saved money (“money capital”), however, they are at liberty to purchase factor services in any line of production. ***Money, the general medium of exchange, is precisely nonspecific***.”
 
 Next:
+- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 - [[13-5b3 Saving (in money) can literally save you]]
 
 Related:
