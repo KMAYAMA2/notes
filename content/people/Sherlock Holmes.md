@@ -52,6 +52,7 @@
 		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
 - Sometimes it helps to shift perspective
 	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
+		- Related: [[1-1c6a1d In the absence of evidence, do not assume miracles]]
 		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
@@ -79,6 +80,7 @@
 - What normally happens in similar situations? Why should this be any different?
 	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
 	- Some of us are too much attracted by the thought of rare things and forget the law of averages in diagnosis. (Thomas McCrae; The Method of Zadig)
+		- Related: [[1-1c6a1d In the absence of evidence, do not assume miracles]]
 		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - History often repeats itself
 	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
@@ -111,6 +113,7 @@
 	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman) #revisit 
 - Get a different view—talk it over with someone else
 	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze) #revisit 
+		- Related: [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 - Combine experiences
 	- There were two of us in the hunt, and when two men set out to find a golf ball in the rough, they expect to come across it where the straight line marked in their minds eye to it, from their original positions, crossed. In the same way, when two men set out to investigate a crime mystery, it is where their researches intersect that we have a result. (Joseph Bell; Dr. Joe Bell)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
@@ -140,13 +143,10 @@ Related:
 
 Relate:
 - #MentalModels 
-	- [[1-1c6a1d In the absence of evidence, do not assume miracles]]
 	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
 	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
-	- [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
 	- [[5-1b2a The “Doubt-Avoidance Tendency” - people want certainty-predictability-control over accuracy-reality]]
 - #MentalModelsBiology 
-	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 - #MentalModelsGeneral 
 	- [[2-1a0b 'Thought experiment' - Don't limit yourself to binary thinking. Explore at least three possible solutions.]]

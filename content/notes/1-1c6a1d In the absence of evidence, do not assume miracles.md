@@ -1,2 +1,5 @@
 
-Link with probability-thinking #MentalModels
+#MentalModels
+
+Related:
+- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
