@@ -9,6 +9,9 @@ There are infinite fungible instances of yourself across the multiverse—fungib
 
 Put differently, the topology of mind and money is probably the same—**humans replicated themselves in money**, as it were. And both were implied in the multiverse.
 
+Next: 
+- **The physical reality creates life, mind, and money via the Turing principle—as such the multiverse is implied in life, mind, and money**. #revisit 
+
 Related
 - On money
 - On money price

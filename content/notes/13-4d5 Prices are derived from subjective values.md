@@ -1,6 +1,9 @@
 
 “It is more important to keep distinct the subjective use of the term in the sense of *valuation* and preference, as against the “objective” use in the sense of *purchasing power* or price on the market. *Appraisement*—fundamental to the entire economic system in an economy of indirect exchange—is to be distinguished from subjective evaluation.”
 
+Next:
+- [[13-4d6 The economist must take account of all the interrelations in the economy and recognize that money costs are determined by final prices reflecting consumer demands and valuations]]
+
 Related:
 - On price
 	- [[3-1a4b2 Price can only convey so much]]

@@ -4,6 +4,8 @@ Doesn’t the first sentence of the following quote constitute infinite regress?
 
 > “Individuals, on their value scales, evaluate a given stock of goods according to their utilities, setting the prices of consumers’ goods; the stock is produced according to previous decisions by producers, who had weighed on their value scales the expected monetary revenue from consumers against the subjective costs (themselves simply *utilities forgone*) of engaging in the production. In the former case, the utility valuations are generally (though by no means always) the ones made by *consumers*; in the latter case, they are made by *producers*. But it is clear that the determinants of price are *only the subjective utilities of individuals* in valuing given conditions and alternatives. **There are no “objective” or “real” costs that determine, or are co-ordinate in determining, price**.” – [[Murray Rothbard]]
 
+
+
 Next:
 - [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 
