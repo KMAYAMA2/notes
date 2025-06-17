@@ -14,7 +14,8 @@
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
 	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
-		- Related: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]] #revisit 
+		- Relate: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]] #revisit 
+		- Relate: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]] #revisit 
 - On observation
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
@@ -79,9 +80,9 @@
 		- Related: [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 - What normally happens in similar situations? Why should this be any different?
 	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
+		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 	- Some of us are too much attracted by the thought of rare things and forget the law of averages in diagnosis. (Thomas McCrae; The Method of Zadig)
 		- Related: [[1-1c6a1d In the absence of evidence, do not assume miracles]]
-		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - History often repeats itself
 	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
 		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
