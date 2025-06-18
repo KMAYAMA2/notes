@@ -13,6 +13,6 @@ Related:
 	- [[3-1a4b5.1 Money can be anything—but money will not be everything]]
 	- [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
 	- [[13-5b2 Money is usable in every line of production]]
-	- [[13-5b3 Saving (in money) can literally save you]]
+	- [[13-5b2.1 Saving (in money) can literally save you]]
 	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
 	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]

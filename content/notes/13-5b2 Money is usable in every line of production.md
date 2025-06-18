@@ -5,7 +5,8 @@
 
 Next:
 - [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
-- [[13-5b3 Saving (in money) can literally save you]]
+- [[13-5b2.1 Saving (in money) can literally save you]]
+- [[13-5b3 Labor is uniquely the nonspecific factor]]
 
 Related:
 - [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
