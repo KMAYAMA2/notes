@@ -31,6 +31,8 @@
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
 		- Related: [[5-2b5 Theories precede data]]
 	- Nothing can be done without preconceived ideas; only there must be the wisdom not to accept their deductions beyond what experiments confirm. (Louis Pasteur)
+		- Related: [[5-2b6 Theories need data]]
+		- Related: [[13-6f Praxeology is concerned with that part of value scales that can be ascertained from actions]]
 - What are the facts? Gather enough evidence—both positive and negative—that is relevant to the problem
 	- The temptation to form premature theories upon insufficient data is the bane of our profession. (Holmes; The Valley of Fear)
 		- Related: [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]

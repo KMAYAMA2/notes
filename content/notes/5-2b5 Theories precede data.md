@@ -2,6 +2,9 @@
 
 *Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*
 
+Next:
+- [[5-2b6 Theories need data]]
+
 Related:
 1. [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
 2. [[1-1a2e4 Cultures precede languages]] ([[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]])
