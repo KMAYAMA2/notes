@@ -1,14 +1,16 @@
 # A Few Lessons from Sherlock Holmes – Peter Bevelin
 - Martin Gardner on Sherlock Holmes
 	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
-		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]] #revisit 
-		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]] #revisit 
+		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
+		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]]
 - On multidisciplinary perspective
 	- One’s ideas must be as broad as Nature if they are to interpret Nature. (Holmes; A Study in Scarlet)
-		- Related: [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+		- Related: [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 	- Our divisions into sciences are not a part of nature...in nature there is really neither chemistry nor physics, nor zoology, nor physiology, nor pathology; there are only bodies to be classified or phenomena to be known and mastered. (Claude Bernard)
+		- Related: [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 - It can be dangerous to know too much
 	- His ignorance was as remarkable as his knowledge...He said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he possessed was such as would be useful to him. (Dr. Watson; A Study in Scarlet)
+		- Relate: [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]] #revisit 
 	- It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones. (Holmes; A Study in Scarlet)
 - Understand human nature and what motivates people
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
@@ -113,10 +115,15 @@
 		- Related: [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
 	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot) #revisit 
 - Put yourself in the other person’s shoes
-	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman) #revisit 
+	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman)
+		- Related: [[1-1a4d Nothing can be explained only in terms of itself]]
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+		- Related: [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+		- Related: [[3-1a4a1 The whole must be evoked in explaining the parts]]
 - Get a different view—talk it over with someone else
-	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze) #revisit 
+	- Nothing clears up a case so much as stating it to another person, and I can hardly expect your co-operation if I do not show you the position from which we start. (Holmes; Silver Blaze)
 		- Related: [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+		- Related: [[9-4b2a1f Two-way debate benefits from criticism]]
 - Combine experiences
 	- There were two of us in the hunt, and when two men set out to find a golf ball in the rough, they expect to come across it where the straight line marked in their minds eye to it, from their original positions, crossed. In the same way, when two men set out to investigate a crime mystery, it is where their researches intersect that we have a result. (Joseph Bell; Dr. Joe Bell)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
@@ -187,7 +194,6 @@ Relate:
 - #MentalModelsMilitaryAndWar 
 	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 - #MentalModelsPhysicsAndChem 
-	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
 	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]

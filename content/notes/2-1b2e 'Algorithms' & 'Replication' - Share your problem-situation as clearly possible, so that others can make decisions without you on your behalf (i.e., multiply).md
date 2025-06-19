@@ -6,16 +6,22 @@ Next:
 - *[[2-1b2g 'Margin of safety' - Be redundant and resourceful]]*
 
 Related:
-- [[2-1a6a Understanding incentives amounts to understanding its culture]]
-- [[3-1c Know what your problems are]]
-- [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
-- [[3-1c2c Your mind has inexplicit and unconscious assumption not only with regard to what constitute as problems but also their relative importance]]
-- [[9-1b1a It almost never happens that two minds hold precisely the same idea]]
-- [[9-1b1 Ideas are never replicated fully because each individual has different problem-situation. Meme variation (and mutation) is inevitable.]]
-- [[3-1c1c2 Second Brain is a private media, where you are both the editor and the reader]]
-- [[4-1a4b5 When you write down anything, you are literally saving yourself (although never entirely) at that moment]]
-- [[9-4b3e4 Write each sentence like you are talking to a friend]]
+- First, you have to know your problems
+	- [[2-1a6a Understanding incentives amounts to understanding its culture]]
+	- [[3-1c Know what your problems are]]
+	- [[3-1c2c Your mind has inexplicit and unconscious assumption not only with regard to what constitute as problems but also their relative importance]]
+- Writing helps
+	- [[3-1c1c2 Second Brain is a private media, where you are both the editor and the reader]]
+	- [[4-1a4b5 When you write down anything, you are literally saving yourself (although never entirely) at that moment]]
+- Then, share them clearly
+	- [[9-4b2a1f Two-way debate benefits from criticism]]
+	- [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
+	- [[9-4b3e4 Write each sentence like you are talking to a friend]]
+- But know that others will not understand them exhaustively
+	- [[9-1b1a It almost never happens that two minds hold precisely the same idea]]
+	- [[9-1b1 Ideas are never replicated fully because each individual has different problem-situation. Meme variation (and mutation) is inevitable.]]
 
+---
 - *It's an inversion of:*
 	- [[7-1a2 You can also make their problem as your problem by using growth as a guidance.]]
 
@@ -31,9 +37,9 @@ Related:
 		- [[10-2g1f1 Natural selection can only operate on phenotypes (physical attributes) and not on genotypes (the knowledge bearing entity). The same (or similar) phenotypes doesn’t mean they share the same genotype.]]
 
 ---
-- It's an equivalent of building a communication system, and it can be implemented on-chain with proper incentives.
+- It's an equivalent of building a communication system, and it can be implemented on-chain with proper incentives
 	- [[8-2b2 The most efficient business is one with trust, or one completely without]]
-		- No permission means no guessing on blockchains!
+		- No permission means no guessing on blockchains
 			- [[2-1b2e0 The less guessing layers the better]]
 
 #MentalModelsSystems
