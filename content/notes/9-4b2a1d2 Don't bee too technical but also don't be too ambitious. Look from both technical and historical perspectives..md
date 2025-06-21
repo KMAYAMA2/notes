@@ -7,7 +7,7 @@
 
 To some extent, it does matter where you came from:
 	[[9-2a1 It doesn’t matter where you came from (or where you are); what matters is what you can do and where you are going]] ([[1-1a2e4a 言い換え = Making sense in your own world, that is, in your own language and in your own web of ideas]])
-		[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+		[[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 
 [[1-1a5b5 Shipping perfection means you are too late - you have to find a balance of finding the right moment and being fixable]] #develop 
 

@@ -8,7 +8,7 @@ Related:
 - [[1-1d Usually the obstacles are your own preconceived notions, and rarely the laws of physics]]
 - [[3-1c3c2b Getting rid of your own misconceived notions alone can take you far enough]]
 
-- [[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 - [[9-2a1 It doesn’t matter where you came from (or where you are); what matters is what you can do and where you are going]]
 - [[3-1c2g Often times what matters is not what's used in the system, but what it does and can do]]
 

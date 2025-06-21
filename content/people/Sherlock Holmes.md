@@ -14,10 +14,14 @@
 	- It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones. (Holmes; A Study in Scarlet)
 - Understand human nature and what motivates people
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
+		- Related: [[RUL3 - Invert, always invert]]
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
 	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
-		- Relate: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]] #revisit 
-		- Relate: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]] #revisit 
+		- Relate with [[Naval Ravikant]] #TODO 
+		- Related: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]]
+		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
+		- Related: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
+		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest]] 
 - On observation
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
@@ -100,9 +104,11 @@
 		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - What doesn’t matter? What can’t happen? What can’t it be? What can’t be done?
 	- By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. (Holmes; A Study in Scarlet)
+		- Related: [[RUL3 - Invert, always invert]]
+		- Related: [[3-1b0 Think forward, but also think in reverse via inversion]]
 	- That process...starts upon the supposition that when you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth. It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support. (Holmes; The Blanched Soldier)
+		- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
 	- There is no great mystery in this matter...the facts appear to admit of only one explanation. (Holmes; The Sign of the Four)
-		- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]] #revisit 
 - Test our theory—if it disagrees with the facts it is wrong
 	- Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them? (Claude Bernard)
 	- Does your explanation cover every point? (Holmes; The Priory School)
@@ -113,7 +119,8 @@
 - Sometimes we need to remove ourselves from the problem and get a fresh perspective
 	- One of our greatest statesmen has said that a change of work is the best rest. So it is. (Holmes; The Sign of the Four)
 		- Related: [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
-	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot) #revisit 
+	- Let us walk along the cliffs together and search for flint arrows. We are more likely to find them than clues to this problem. To let thee brain work without sufficient material is like racing an engine. It racks itself to pieces. The sea air, sunshine, and patience, Watson—all else will come. (Holmes; The Devil’s Foot)
+		- Related: [[10-1a1b 行き詰らないとアブダクションできない]]
 - Put yourself in the other person’s shoes
 	- You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays. (Holmes; The Retired Colourman)
 		- Related: [[1-1a4d Nothing can be explained only in terms of itself]]

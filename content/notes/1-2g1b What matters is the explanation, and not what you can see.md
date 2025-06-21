@@ -1,4 +1,4 @@
-[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+[[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 [[1-1c6a1c The absence of evidence is not the evidence of absence]]
 [[10-2g2e6 Abstraction is the unseen]]
 [[10-2g2e3 Abstractions seem ‘inaccessible’ to empiricism]]

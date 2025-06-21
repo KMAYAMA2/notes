@@ -676,7 +676,7 @@
 		- Xenophanes: “For all is but a woven web of guesses.”
 	- Hermes: “Have you yourself not often been misunderstood, even by people trying hard to understand you? Have you, in turn, not often misunderstood what someone means, even when he is trying to tell you as clearly as he can? . . . _Where did that wrong idea come from?_ . . . It all comes from within, from conjecture and criticism.”
 		- _Even if revealed by a god,_ it is just as fallible as ever
-			- See my note: [[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+			- See my note: [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- Hermes: “Why is ‘direct’ sensory experience an exception? What if it just _seems_ radically different?”
 		- Socrates: “We first guess what is there, and then—what?—we test our guesses against the input from our senses?”
 	- We guess _and_ we test them

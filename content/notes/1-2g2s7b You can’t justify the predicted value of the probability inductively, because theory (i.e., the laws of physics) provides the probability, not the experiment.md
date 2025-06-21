@@ -9,7 +9,7 @@ Next:
 Related:
 - You cannot be proven right
 	- [[1-2a2 Logical reasoning is no less a physical process than scientific reasoning is, and it is inherently fallible]]
-	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- [[1-2g2j1d Cantgotu environments - you will always be proven wrong because no program will render it; you can never prove that you were there]]
 	- [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]
 - Fallibilism is implied in the multiverse

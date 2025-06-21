@@ -8,7 +8,7 @@
 #categories #develop 
 
 Remember: ***[[12-1e Nothing is necessary = Everything is contingent]]***
-	[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+	[[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 		[[1-2b0.5 We crave necessity because we are contingent]]
 	[[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them]]
 

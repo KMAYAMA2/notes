@@ -1,5 +1,5 @@
 [[9-2a1 It doesn’t matter where you came from (or where you are); what matters is what you can do and where you are going]]
-[[1-2b In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)]]
+[[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 
 [[3-1c3a1 Tracing its beginning is as impossible as predicting the future]]
 [[3-1c3b We are not interested in where the knowledge is stored, but rather whether it’s easy to retrieve them when we have to]]

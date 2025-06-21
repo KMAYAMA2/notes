@@ -1,3 +1,7 @@
-[[1-1c6a1c The absence of evidence is not the evidence of absence]]
+> “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne
 
-[[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
+Next:
+- [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
+
+Related:
+- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
