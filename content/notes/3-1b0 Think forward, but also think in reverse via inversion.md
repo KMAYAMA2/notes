@@ -1,5 +1,7 @@
 > “By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts.” – [[Sherlock Holmes]]
 
+> “Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically.” – [[Sherlock Holmes]]
+
 Next:
 - [[3-1b0a You can think forward and invert insofar as you have a problem to solve]]
 

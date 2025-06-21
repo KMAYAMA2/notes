@@ -1,3 +1,4 @@
+> “His ignorance was as remarkable as his knowledge...He said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he possessed was such as would be useful to him.” – [[Sherlock Holmes]]
 
 Next:
 - [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]

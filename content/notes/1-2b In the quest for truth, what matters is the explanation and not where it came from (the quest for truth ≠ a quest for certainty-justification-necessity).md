@@ -1,4 +1,4 @@
-In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)/
+In the quest for truth, what matters is the explanation and not where it came from, because even if gods reveal something to you it’s just as fallible as ever (the quest for truth ≠ a quest for certainty-justification-necessity)
 
 [[1-2g1b What matters is the explanation, and not what you can see]]
 [[3-1c3a We are not interested in where the knowledge came from]]

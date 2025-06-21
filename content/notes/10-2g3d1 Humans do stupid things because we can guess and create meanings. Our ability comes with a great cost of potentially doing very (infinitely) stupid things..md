@@ -1,5 +1,7 @@
 >”There should be no combination of events for which the wit of man cannot conceive an explanation.” – [[Sherlock Holmes]]
 
+> “If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field.” – Montaigne
+
 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.
 
 Next:

@@ -10,8 +10,11 @@
 		- Related: [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 - It can be dangerous to know too much
 	- His ignorance was as remarkable as his knowledge...He said that he would acquire no knowledge which did not bear upon his object. Therefore all the knowledge which he possessed was such as would be useful to him. (Dr. Watson; A Study in Scarlet)
-		- Relate: [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]] #revisit 
+		- Related [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+		- Related: [[3-1d5 You can question the adequacy of the tools at hand insofar as it relates to some specific problems of yours. You don’t evaluate them ‘comparatively' based on its ‘utility’ without explanations.]] 
 	- It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones. (Holmes; A Study in Scarlet)
+		- Related: [[3-1d2 The problem of what problems to solve includes the problem of deciding which tools-frameworks (e.g., tech stack, writing medium, criteria, objective, goals, exercise protocols) to use and improve upon]]
+		- Related: [[RUL3 - Write out your goals. It’s amazing how few people do.]]
 - Understand human nature and what motivates people
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 		- Related: [[RUL3 - Invert, always invert]]
@@ -22,15 +25,15 @@
 		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
 		- Related: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
 		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest]] 
-- On observation
+- On observation #TODO 
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
-- Never jump to conclusions and try to collect facts as open-minded as possible
+- Never jump to conclusions and try to collect facts as open-minded as possible #TODO 
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
 		- Adjusting the theory matters more than starting from theory *per se*. #revisit 
 - Being nice is hardly the evidence of innocence
 	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
-- Start with collecting facts and follow them where they lead
+- Start with collecting facts and follow them where they lead #TODO 
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
@@ -42,11 +45,12 @@
 - What are the facts? Gather enough evidence—both positive and negative—that is relevant to the problem
 	- The temptation to form premature theories upon insufficient data is the bane of our profession. (Holmes; The Valley of Fear)
 		- Related: [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
-- Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen?
+- Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen? #TODO 
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
+		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Why may they be lying or deceive us? What is out of the ordinary?
 	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #revisit 
 		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]] #revisit 
@@ -66,7 +70,7 @@
 - More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
 		- Related: [[4-1a4b2a3 整理 = 意識的にすてること]]
-- Know where to look
+- Know where to look #TODO 
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
 	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
@@ -80,12 +84,14 @@
 - Sometimes the trivial or the most immaterial aspect of a case may be the most important but we need to learn how to separate between trifles that matter and those that don’t
 	- The great majority of people, of incidents, and of cases resemble each other in the main and larger features...Most men have...a head, two arms, a nose, a mouth, and a certain number of teeth. It is the little differences, themselves trifles, such as the droop of an eyelid, or what not, which differentiates man. (Joseph Bell; Dr. Joe Bell)
 		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
-- Reasoning backwards—working back form observations (effects) to causes
+- Reasoning backwards—working back from observations (effects) to causes
 	- Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet)
+		- Related: [[3-1b0 Think forward, but also think in reverse via inversion]]
 		- Related: [[10-2g3d1.1 Humans create their own cause]]
 - Which is the simplest, most natural explanation—the one requiring the least assumptions needed to explain the facts?
 	- There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well. (Charles Sanders Peirce)
 		- Related: [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+		- Related: [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
 - What normally happens in similar situations? Why should this be any different?
 	- Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim)
 		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
@@ -94,13 +100,16 @@
 - History often repeats itself
 	- Mr. Mac, the most practical thing that you ever did in your life would be to shut yourself up for three months and read twelve hours a day at the annals of crime. Everything comes in circles...The old wheel turns, and the same spoke comes up. It’s all been done before, and will be again. (Holmes; The Valley of Fear)
 		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+		- Related: [[10-1a History is all the data we have so far]]
 - Paradoxically the strange crime is often easier to solve than the common one
 	- It is your commonplace, featureless crimes which are really puzzling, just as a commonplace face is the most difficult to identify. (Holmes; The Red-Headed League)
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 - Negative evidence and events that don’t happen, matter when something implies they should be present or happen
 	- Only one important thing has happened in the last three days, and that is that nothing has happened. (Holmes; The Second Stain)
 		- Related: [[5-2 What counts cannot be counted]]
 - Small pieces of information may in themselves look to be of no importance but may clarify things when taken together.
 	- Experience has taught me, and must have taught you, that the most trivial, commonplace and seemingly irrelevant facts have a way of suddenly assuming a crucial importance by connecting, explaining or filling in the detail of later discoveries. (Dr. Thorndyke; The Penrose Mystery)
+		- Related: [[3-1a4a1 The whole must be evoked in explaining the parts]]
 		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - What doesn’t matter? What can’t happen? What can’t it be? What can’t be done?
 	- By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts. (Holmes; A Study in Scarlet)
@@ -109,11 +118,12 @@
 	- That process...starts upon the supposition that when you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth. It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support. (Holmes; The Blanched Soldier)
 		- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
 	- There is no great mystery in this matter...the facts appear to admit of only one explanation. (Holmes; The Sign of the Four)
-- Test our theory—if it disagrees with the facts it is wrong
+		- Related: [[5-2b6 Theories need data]]
+- Test our theory—if it disagrees with the facts it is wrong #TODO 
 	- Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them? (Claude Bernard)
 	- Does your explanation cover every point? (Holmes; The Priory School)
 - Check for other possible explanations—what else can explain this?
-	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter)
+	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter) #TODO 
 	- Life is infinitely stranger than anything which the mind of man could invent. (Holmes; A Case of Identity)
 		- Related: [[2-3a 'First principles thinking' - If it's not forbidden by the laws of physics, it is possible]]
 - Sometimes we need to remove ourselves from the problem and get a fresh perspective
