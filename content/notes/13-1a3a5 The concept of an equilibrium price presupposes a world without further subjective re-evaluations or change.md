@@ -8,3 +8,5 @@ Next:
 
 Related:
 - [[13-1a3a3 The equilibrium price implies no further changes (the so-called subjective improvements)]]
+
+#ERE 

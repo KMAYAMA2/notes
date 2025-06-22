@@ -7,7 +7,7 @@ Related:
 	- [[13-1a3a2e5 Time component in prices emerges with the introduction of money]]
 - Equilibrium is never achieved in reality #revisit   
 	- [[13-1a3a3 The equilibrium price implies no further changes (the so-called subjective improvements)]]
-	- [[13-1a3a4 The equilibrium price cannot be realized (except in the ERE)]]
+	- [[13-1a3a4 The equilibrium price cannot be realized, except in the evenly rotating economy (ERE)]]
 	- [[13-1a3a5 The concept of an equilibrium price presupposes a world without further subjective re-evaluations or change]]
 - On success and failure
 	- [[13-1a2a The action axiom implies success and failure]]

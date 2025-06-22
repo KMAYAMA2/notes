@@ -3,7 +3,7 @@ A final equilibrium position implies the end of progress
 “The state of *final equilibrium is one which the economy is always tending to approach*. It is never reached in practice and it is always changing. At the *final position of rest*, on the basis of the given, actually existing value scales, all individuals would have attained the highest positions on their value scales, given the technology and resources. Such a position of no change would be most unfortunate, since it would imply that no further want-satisfaction would be possible.”
 
 Next:
-- [[13-1a3a4 The equilibrium price cannot be realized (except in the ERE)]]
+- [[13-1a3a4 The equilibrium price cannot be realized, except in the evenly rotating economy (ERE)]]
 
 Related:
 - On progress
