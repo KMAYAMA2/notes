@@ -19,23 +19,26 @@
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 		- Related: [[RUL3 - Invert, always invert]]
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
-	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
-		- Relate with [[Naval Ravikant]] #TODO 
+	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne) #revisit 
 		- Related: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]]
 		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
 		- Related: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
-		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest]] 
+		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest (or the richest)]] 
 - On observation #TODO 
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
+		- Relate: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
 - Never jump to conclusions and try to collect facts as open-minded as possible #TODO 
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
 		- Adjusting the theory matters more than starting from theory *per se*. #revisit 
+			- Relate: [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
 - Being nice is hardly the evidence of innocence
 	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 - Start with collecting facts and follow them where they lead #TODO 
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
+		- Relate: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
+		- Relate: [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
 		- Related: [[5-2b5 Theories precede data]]
@@ -45,16 +48,17 @@
 - What are the facts? Gather enough evidence—both positive and negative—that is relevant to the problem
 	- The temptation to form premature theories upon insufficient data is the bane of our profession. (Holmes; The Valley of Fear)
 		- Related: [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
-- Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen? #TODO 
+- Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen?
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
+		- Related: [[5-2b7 The skeptical empiricist doubts both data and theory]]
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
 		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Why may they be lying or deceive us? What is out of the ordinary?
-	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #revisit 
-		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]] #revisit 
-		- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] #revisit 
+	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #TODO 
+		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]  
+		- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] 
 - Separate the relevant and important facts from the unimportant or accidental
 	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
 		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
@@ -62,19 +66,24 @@
 	- There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear)
 		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 	- Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery)
-		- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]] #revisit 
+		- Related: [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+		- Related: [[5-2b7 The skeptical empiricist doubts both data and theory]]
 - Sometimes it helps to shift perspective
 	- No, no. No crime...Only one of those whimsical little incidents which will happen when you have four million human beings all jostling each other within the space of a few square miles. Amid the action and reaction of so dense a swarm of humanity, every possible combination of events may be expected to take place, and many a little problem will be presented which may be striking and bizarre without being criminal. (Holmes; The Blue Carbuncle)
 		- Related: [[1-1c6a1d In the absence of evidence, do not assume miracles]]
 		- Related: [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
-- More information isn’t necessarily better—what is not worth knowing is not worth knowing #develop 
+- More information isn’t necessarily better—what is not worth knowing is not worth knowing
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
 		- Related: [[4-1a4b2a3 整理 = 意識的にすてること]]
+		- Related: [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
 - Know where to look #TODO 
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
+		- Relate: [[4-1d3 The most effective communication is to listen]]
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
 	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
+		- Relate: [[5-2b5 Theories precede data]]
 	- The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles)
+		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - The eye sees only what it is trained to see
 	- In the last analysis, we see only what we are ready to see, what we have been taught to see. We eliminate and ignore everything that is not a part of our prejudices. (Jean-Martin Charcot)
 		- Related: [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
@@ -119,11 +128,16 @@
 		- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
 	- There is no great mystery in this matter...the facts appear to admit of only one explanation. (Holmes; The Sign of the Four)
 		- Related: [[5-2b6 Theories need data]]
-- Test our theory—if it disagrees with the facts it is wrong #TODO 
+- Test our theory—if it disagrees with the facts it is wrong
 	- Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them? (Claude Bernard)
+		- Related: [[5-2 What counts cannot be counted]]
 	- Does your explanation cover every point? (Holmes; The Priory School)
+		- Related: [[1-2h A good explanation makes it harder to fool yourself]]
+		- Related: [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
 - Check for other possible explanations—what else can explain this?
-	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter) #TODO 
+	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter)
+		- Related: [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
+		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 	- Life is infinitely stranger than anything which the mind of man could invent. (Holmes; A Case of Identity)
 		- Related: [[2-3a 'First principles thinking' - If it's not forbidden by the laws of physics, it is possible]]
 - Sometimes we need to remove ourselves from the problem and get a fresh perspective
@@ -170,7 +184,6 @@ Related:
 
 Relate:
 - #MentalModels 
-	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
 	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- [[5-1b2a The “Doubt-Avoidance Tendency” - people want certainty-predictability-control over accuracy-reality]]
 - #MentalModelsBiology 
@@ -200,7 +213,6 @@ Relate:
 	- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
 	- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
 	- [[2-1a1a4 'Representativeness heuristic' - Remember the Linda test!]]
-	- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
 	- [[2-1a1a6 'Tendency to overgeneralize from small samples']]
 	- [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
 	- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
@@ -213,7 +225,6 @@ Relate:
 - #MentalModelsPhysicsAndChem 
 	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
-	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
 - [[1-2g1b What matters is the explanation, and not what you can see]]
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[5-1b2.2 There is no objective Black Swan]]

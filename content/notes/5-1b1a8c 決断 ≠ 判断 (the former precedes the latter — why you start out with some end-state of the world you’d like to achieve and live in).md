@@ -1,7 +1,7 @@
 > “Judgment can do without knowledge but not knowledge without judgment” – Montaigne
 
 Next:
-- [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest]]
+- [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest (or the richest)]]
 
 Related:
 - [[1-2h A good explanation makes it harder to fool yourself]]

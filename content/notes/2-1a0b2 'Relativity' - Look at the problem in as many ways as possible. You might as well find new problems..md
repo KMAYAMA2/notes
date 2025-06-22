@@ -1,5 +1,7 @@
 > “You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays.” – [[Sherlock Holmes]]
 
+> “Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different.” – [[Sherlock Holmes]]
+
 New way of looking at a problem is equivalent to finding a new problem
 
 Time and space were deemed the most fundamental fabric of reality until superseded by the theory of general relativity and quantum physics.

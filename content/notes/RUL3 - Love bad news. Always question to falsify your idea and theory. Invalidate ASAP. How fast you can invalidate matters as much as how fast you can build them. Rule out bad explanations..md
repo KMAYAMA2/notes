@@ -1,5 +1,7 @@
 > “I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved…as soon as facts are shown to be opposed to it.” – Charles Darwin
 
+> “One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation.” – [[Sherlock Holmes]]
+
 > “When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted.” – Claude Bernard
 
 [[3-1b1a1 People think big ideas are answers, but often the real insight is in the question. The question-answer categorization is arbitrary.]]

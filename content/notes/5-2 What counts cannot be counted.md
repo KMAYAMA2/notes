@@ -1,5 +1,7 @@
 > “Only one important thing has happened in the last three days, and that is that nothing has happened.” – [[Sherlock Holmes]]
 
+> “Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them?” – [[Sherlock Holmes]]
+
 Negative evidence and events that don’t happen, matter when something implies they should be present or happen.
 
 Next:
