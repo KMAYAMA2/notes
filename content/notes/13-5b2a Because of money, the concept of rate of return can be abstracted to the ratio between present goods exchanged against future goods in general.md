@@ -10,6 +10,7 @@ Since money has market with all the other goods, and *ceteris paribus* the more 
 “The establishment of money as a general medium of exchange has greatly simplified the present-future market as compared to the laborious conditions under barter, where there were separate present-future markets for every commodity.”
 
 Next:
+- [[13-5b2a1 The production structure, along with credit transaction, constitute the time market]]
 - [[13-5b2b Because of money, the rate of return will tend to be uniform throughout the length and breadth of the production structure]]
 
 Related:

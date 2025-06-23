@@ -6,6 +6,7 @@ The laws of physics implied that something like money will be demanded, and it w
 
 Next:
 - [[13-8a2a Money allows you to deal with change per se, since there is no substantive difference between changes in values scales of others and that of himself in the future]]
+- [[13-8a2.1 Money is the present good par excellence]]
 - [[13-8a3 Money must evoke the past, but the demand for money lies in the future]]
 
 Related:
