@@ -1,5 +1,7 @@
 > “A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly.” – Claude Bernard
 
+> “It was invisible, buried in the mud. I only saw it because I was looking for it.” – [[Sherlock Holmes]]
+
 *Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*
 
 Next:

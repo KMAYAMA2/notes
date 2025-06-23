@@ -1,4 +1,4 @@
-> “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne
+> “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne #revisit 
 
 Because *action* is teleological behavior—”action” without intent is equivalent to the motion of dust in the universe. #develop 
 

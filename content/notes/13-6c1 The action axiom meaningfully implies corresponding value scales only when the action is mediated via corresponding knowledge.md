@@ -1,4 +1,4 @@
-> “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne
+> “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne #revisit 
 
 [[Murray Rothbard |Rothbard]]’s interpretation of *Buridan’s ass* thought experiment constitutes counter-example to make the point. 
 

@@ -1,5 +1,7 @@
 > “Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty.” – Martin Gardner on [[Sherlock Holmes]]
 
+> “We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations.” – [[Sherlock Holmes]]
+
 Next:
 - [[1-1a5a2 Good writing happens at the edge of explicit-inexplicit or explicit-unconscious — that is, via surprises.]]
 

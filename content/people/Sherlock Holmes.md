@@ -31,10 +31,10 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 		- Relate: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
-- Never jump to conclusions and try to collect facts as open-minded as possible #TODO 
+- Never jump to conclusions and try to collect facts as open-minded as possible
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
-		- Adjusting the theory matters more than starting from theory *per se*. #revisit 
-			- Relate: [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
+		- Related: [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
+		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
 - Being nice is hardly the evidence of innocence
 	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 - Start with collecting facts and follow them where they lead #TODO 
@@ -85,7 +85,7 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 		- Relate: [[4-1d3 The most effective communication is to listen]]
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
 	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
-		- Relate: [[5-2b5 Theories precede data]]
+		- Related: [[5-2b5 Theories precede data]]
 	- The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles)
 		- Related: [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - The eye sees only what it is trained to see

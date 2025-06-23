@@ -1,3 +1,4 @@
+Knowledge is about correspondence with reality. #revisit 
 
 Related:
 - [[1-2g2r The Turing principle, if true, dictates that we can form accurate theories about reality. Knowledge to the Turing principle is what steam engines are to the principles of thermodynamics. That is, the Turing principle implies knowledge.]]
