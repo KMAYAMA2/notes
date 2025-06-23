@@ -3,7 +3,7 @@
 [[1-1c6a2a Don’t let how you work affect what problems you can work on]]
 [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
 
-[[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process form the problem-solving phase]]
+[[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process from the problem-solving phase]]
 [[2-1a6c2 Establishing rituals is the key to creating positive inertia]]
 
 [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]

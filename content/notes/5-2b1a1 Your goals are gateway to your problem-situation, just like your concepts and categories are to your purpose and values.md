@@ -13,7 +13,7 @@
 - Each problem-situation can never be interpreted the same by different individuals (or even by the same individual at different times). This means uniform understanding is impossible.
 	- Problems themselves are signs and have to be interpreted
 	- In short, each individual has to come up with an explanation not just during  problem-solving phase but also during problem-defining phase!
-		- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process form the problem-solving phase]]
+		- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process from the problem-solving phase]]
 	- We can’t use anything as how it’s used by others
 		- We can’t have the same exact problem-situation
 			- As well as concepts, categories, purposes, and goals

@@ -1,3 +1,4 @@
+Observe, *pay attention*, information is difference, *indifference*, corresponding knowledge
 # A Few Lessons from Sherlock Holmes – Peter Bevelin
 - Martin Gardner on Sherlock Holmes
 	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
@@ -19,11 +20,13 @@
 	- Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches)
 		- Related: [[RUL3 - Invert, always invert]]
 - **Knowledge doesn’t automatically make us wise—the most learned are not the wisest**
-	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne) #revisit 
+	- Judgment can do without knowledge but not knowledge without judgment. (Montaigne)
 		- Related: [[5-2b0a Most errors in judgement happen when we don't know we're supposed to be exercising judgement]]
 		- Related: [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
 		- Related: [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
 		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest (or the richest)]] 
+		- Related: [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
+		- Related: [[13-9a2 Indifference cannot be a basis for action—the choice could not be meaningfully revealed in action]]
 - On observation #TODO 
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 		- Relate: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
@@ -57,6 +60,7 @@
 		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Why may they be lying or deceive us? What is out of the ordinary?
 	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #TODO 
+		- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]  
 		- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] 
 - Separate the relevant and important facts from the unimportant or accidental
@@ -95,6 +99,7 @@
 		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 - Reasoning backwards—working back from observations (effects) to causes
 	- Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet)
+		- Related: [[1-2g1b2 Don’t pay as much attention to people’s conclusions as to the reasoning that led them to their conclusions]]
 		- Related: [[3-1b0 Think forward, but also think in reverse via inversion]]
 		- Related: [[10-2g3d1.1 Humans create their own cause]]
 - Which is the simplest, most natural explanation—the one requiring the least assumptions needed to explain the facts?
@@ -219,7 +224,7 @@ Relate:
 	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
-	- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process form the problem-solving phase]]
+	- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process from the problem-solving phase]]
 - #MentalModelsMilitaryAndWar 
 	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 - #MentalModelsPhysicsAndChem 
