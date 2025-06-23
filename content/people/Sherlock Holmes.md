@@ -31,6 +31,7 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
 		- Relate: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
+		- Related: [[2-1aa Observe]]
 - Never jump to conclusions and try to collect facts as open-minded as possible
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
 		- Related: [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
@@ -40,8 +41,14 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 - Start with collecting facts and follow them where they lead #TODO 
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
 		- Relate: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+		- Related: [[2-1aa Observe]]
+		- Relate: [[5-2b6 Theories need data]]
+		- Relate: [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
 		- Relate: [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+		- Related: [[2-1aa Observe]]
+		- Relate: [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+		- Relate: [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
 		- Related: [[5-2b5 Theories precede data]]
@@ -53,16 +60,16 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 		- Related: [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
 - Make sure “facts” are facts - Is it really so? Is this really true? Did this really happen?
 	- I realize that if you ask people to account for “facts”, they usually spend more time finding reasons for them than finding out whether they are true...They skip over the facts but carefully deduce inferences. They normally begin thus: “How does this come about?” But does it do so? That is what they ought to be asking. (Montaigne)
+		- Related: [[2-1a5 'Sampling' - Increase your sample size with QUALITY data]]
 		- Related: [[5-2b7 The skeptical empiricist doubts both data and theory]]
 - Deception has many faces
 	- If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field. (Montaigne)
 		- Related: [[9-1a1 People who converge upon the truth converge with each other]]
 		- Related: [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Why may they be lying or deceive us? What is out of the ordinary?
-	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) #TODO 
-		- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
-		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]  
-		- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] 
+	- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge)
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+		- Related: [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]] 
 - Separate the relevant and important facts from the unimportant or accidental
 	- It is one of those cases where the art of the reasoner should be used rather for the sifting of details than for the acquiring of fresh evidence. (Holmes; Silver Blaze)
 		- Related: [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
@@ -80,10 +87,13 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 	- A wise man sees as much as he ought, not as much as he can. (Montaigne)
 		- Related: [[4-1a4b2a3 整理 = 意識的にすてること]]
 		- Related: [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
-- Know where to look #TODO 
+- Know where to look
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
-		- Relate: [[4-1d3 The most effective communication is to listen]]
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+		- Related: [[2-1aa Observe]]
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
+		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+		- Related: [[2-1aa Observe]]
 	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
 		- Related: [[5-2b5 Theories precede data]]
 	- The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles)
