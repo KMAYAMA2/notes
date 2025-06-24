@@ -27,10 +27,13 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 		- Related: [[5-1b1a8d Knowledge doesn’t automatically make us wise—the most learned are not the wisest (or the richest)]] 
 		- Related: [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
 		- Related: [[13-9a2 Indifference cannot be a basis for action—the choice could not be meaningfully revealed in action]]
-- On observation #TODO 
+- On observation
 	- Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell)
-		- Relate: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
+		- Related: [[1-2f1a3 To be scientific is to be critical]]
+		- Related: [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+		- Related: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
+		- Related: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 		- Related: [[2-1aa Observe]]
 - Never jump to conclusions and try to collect facts as open-minded as possible
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
@@ -38,17 +41,15 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
 - Being nice is hardly the evidence of innocence
 	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
-- Start with collecting facts and follow them where they lead #TODO 
+- Start with collecting facts and follow them where they lead
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
-		- Relate: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+		- Related: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 		- Related: [[2-1aa Observe]]
-		- Relate: [[5-2b6 Theories need data]]
-		- Relate: [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+		- Related: [[5-2b6 Theories need data]
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
-		- Relate: [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+		- Related: [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+		- Related: [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
 		- Related: [[2-1aa Observe]]
-		- Relate: [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
-		- Relate: [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
 		- Related: [[5-2b5 Theories precede data]]
@@ -240,6 +241,5 @@ Relate:
 - #MentalModelsPhysicsAndChem 
 	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
-- [[1-2g1b What matters is the explanation, and not what you can see]]
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[5-1b2.2 There is no objective Black Swan]]
