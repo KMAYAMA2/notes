@@ -3,6 +3,8 @@ date: 2025-06-17
 ---
 The capitalists—in supplying present goods for future goods—are constrained by the aggregated time-preference schedules just as sellers of any other present goods are constrained by the aggregated demand schedules of the consumers. **The capitalists are not exploiters but intermediaries, bridging present and future demand with money—because, by definition, money is the best technology for this function**. #revisit 
 
+“In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market.”
+
 Next:
 - [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
 

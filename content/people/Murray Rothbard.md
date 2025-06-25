@@ -545,7 +545,7 @@ That a *final equilibrium* position implies the end of progress. That experiment
 - Such a position of no change would be most unfortunate, since it would imply that no further want-satisfaction would be possible. (p. 323)
 	- Viz., **a final equilibrium position implies the end of progress**.
 - Far too many writers discerning that in the evenly rotating economy entrepreneurial profits and losses would all be zero, have somehow concluded that this must be the *condition* for any legitimate activity on the market. (p. 323)
-	- Viz., do not confuse the effect with the condition. #revisit 
+	- Viz., do not confuse the effect with the condition.
 - We are not dealing with “functional,” quantitative relations among variables, but with human reason and will causing certain action, which is not “determinable” or reducible to outside forces. (p. 324)
 	- Relate this with the unpredictability which is inherent in the multiverse—in particular, relate this with how **experimental results cannot be used to verify theories due to the non-determinacy which is inherent in each universe**.
 		- Does that mean experimental results can be only used to falsify theories? **How is the multiverse related with fallibilism?** #revisit

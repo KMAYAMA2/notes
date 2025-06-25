@@ -14,14 +14,6 @@ date: 2024-10-07
 > 
 > – *Paul Valery*
 
-
-**Related Notes:**
-- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
-	- **You can't really break down things into its *most fundamental unit***
-		- Qubit is more constrained than bit, but that doesn't mean it can't be constrained any further #develop 
-			- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
-				- [[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground]]
-
 **Next:**
 - [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 	- [[3-1c2e2 Creativity is more than just combining things]]
@@ -31,3 +23,12 @@ date: 2024-10-07
 	- [[3-1c2e5 Symbols are constructed of other symbols]]
 - [[3-1c3c00 Evergreen notes should be atomic]]
 	- To an extent that [[12-1d Flexible media will surface contingency]]
+
+**Related Notes:**
+- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+	- **You can't really break down things into its *most fundamental unit***
+		- Qubit is more constrained than bit, but that doesn't mean it can't be constrained any further #develop 
+			- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
+				- [[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground]]
+- [[10-2g3d1.1 Humans create their own cause]]
+

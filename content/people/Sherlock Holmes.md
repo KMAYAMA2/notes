@@ -152,6 +152,7 @@ Observe, *pay attention*, information is difference, *indifference*, correspondi
 		- Related: [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
 - Check for other possible explanations—what else can explain this?
 	- One should always look for a possible alternative and provide against it. It is the first rule of criminal investigation. (Holmes; Black Peter)
+		- Related: [[2-1a0b 'Thought experiment' - Don't limit yourself to binary thinking. Explore at least three possible solutions.]]
 		- Related: [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
 		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 	- Life is infinitely stranger than anything which the mind of man could invent. (Holmes; A Case of Identity)
