@@ -11,6 +11,8 @@ date: 2025-06-24
 
 > “To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it.” – Thomas McCrae
 
+> “To observe attentively is to remember distinctly” – Edgar Allan Poe
+
 Related: #develop 
 - [[4-1d3 The most effective communication is to listen]]
 - [[5-2b5 Theories precede data]]
