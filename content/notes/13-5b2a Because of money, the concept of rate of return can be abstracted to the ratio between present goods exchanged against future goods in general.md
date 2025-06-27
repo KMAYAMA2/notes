@@ -10,6 +10,7 @@ Since money has market with all the other goods, and *ceteris paribus* the more 
 “The establishment of money as a general medium of exchange has greatly simplified the present-future market as compared to the laborious conditions under barter, where there were separate present-future markets for every commodity.”
 
 Next:
+- [[13-5b2a0 Utilities or values between persons cannot be compared—but demonstrated time-preference schedules can be compared]]
 - [[13-5b2a1 The production structure, along with credit transaction, constitute the time market]]
 - [[13-5b2b Because of money, the rate of return will tend to be uniform throughout the length and breadth of the production structure]]
 
@@ -22,3 +23,7 @@ Related:
 - [[13-1a3a2d3 Value scales are unified individually—they become more transparent, more measurable, and more comparable to the individual—with money, although never exhaustively]]
 - [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
 - [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+- On abstraction—*what is abstracted?* #revisit 
+	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
+	- [[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move]]
+	- [[10-2g2e1 Our best explanation invokes abstractions including causation and the laws of physics]]

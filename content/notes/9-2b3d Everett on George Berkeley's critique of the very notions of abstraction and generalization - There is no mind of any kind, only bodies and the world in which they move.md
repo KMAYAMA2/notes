@@ -9,3 +9,5 @@ Related:
 		- I.e., the mind isn't really interoperable #develop 
 - [[10-2g2e1 Our best explanation invokes abstractions including causation and the laws of physics]]
 - [[10-2g2e3 Abstractions seem ‘inaccessible’ to empiricism]]
+- This relates to the problem of how unrealizable theoretical construct such as ERE (evenly rotating economy) can be useful #revisit 
+	- [[13-5g1 The ERE (evenly rotating economy) is not the condition but the effect of thought experiment]]
