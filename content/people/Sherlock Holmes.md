@@ -1,4 +1,3 @@
-Observe, *pay attention*, information is difference, *indifference*, corresponding knowledge
 # A Few Lessons from Sherlock Holmes – Peter Bevelin
 - Martin Gardner on Sherlock Holmes
 	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
@@ -201,23 +200,15 @@ Related:
 
 Relate:
 - #MentalModels 
-	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- [[5-1b2a The “Doubt-Avoidance Tendency” - people want certainty-predictability-control over accuracy-reality]]
 - #MentalModelsBiology 
 	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 - #MentalModelsGeneral 
-	- [[2-1a0b 'Thought experiment' - Don't limit yourself to binary thinking. Explore at least three possible solutions.]]
-	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
-	- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
-	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
 - #MentalModelsSystems 
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 - #MentalModelsNumeracy 
-	- [[2-1a5 'Sampling' - Increase your sample size with QUALITY data]]
 	- [[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
-	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 	- [[2-3c 'Surface area' - Manage your exposure to volatilities]]
 - #MentalModelsMicroEcon 
@@ -230,17 +221,8 @@ Relate:
 	- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
 	- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
 	- [[2-1a1a4 'Representativeness heuristic' - Remember the Linda test!]]
-	- [[2-1a1a6 'Tendency to overgeneralize from small samples']]
-	- [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
-	- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
-	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
-	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
-	- [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process from the problem-solving phase]]
-- #MentalModelsMilitaryAndWar 
-	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 - #MentalModelsPhysicsAndChem 
-	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[5-1b2.2 There is no objective Black Swan]]

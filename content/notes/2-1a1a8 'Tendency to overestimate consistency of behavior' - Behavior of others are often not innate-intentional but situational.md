@@ -1,5 +1,7 @@
+> “You’ll get results, Inspector, by always putting yourself in the other fellow’s place, and thinking what you would do yourself. It takes some imagination, but it pays.” – [[Sherlock Holmes]]
 
 Related:
+- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
 - [[13-2.2 Most “actions” are mere behavior]]
 	- Behavior of others are often not innate-intentional but situational:
 		- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]

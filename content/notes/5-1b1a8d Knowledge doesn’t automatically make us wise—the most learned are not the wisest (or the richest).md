@@ -10,5 +10,7 @@ Related:
 	- [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
 	- [[1-2g2r0 The Turing principle implies 梵我一如]]
 	- [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality]]
+- On judgement
+	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
 - [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
 - [[13-9a2 Indifference cannot be a basis for action—the choice could not be meaningfully revealed in action]]

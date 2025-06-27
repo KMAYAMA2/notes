@@ -1,8 +1,8 @@
-[[3-1c1d4 We are bombarded with ‘unlikely’ events on our social media feed]]
+People are not as rational as you think. Before assuming ill intent, know that they are fallible and usually ignorant. Often the right explanation is one with the least intent involved.
 
-- People are not as rational as you think
-- Before assuming ill intent, know that they are fallible and usually ignorant
-- Often the right explanation is one with the least intent involved
+Related:
+- [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
+- [[3-1c1d4 We are bombarded with ‘unlikely’ events on our social media feed]]
 
 #MentalModelsGeneral 
 

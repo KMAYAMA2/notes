@@ -1,3 +1,7 @@
+> “Only one important thing has happened in the last three days, and that is that nothing has happened.” – [[Sherlock Holmes]]
+
+> “Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them?” – [[Sherlock Holmes]]
+
 Sherlock Holmes meets [[David Deutsch]] and [[Murray Rothbard]].
 
 Next:
@@ -14,6 +18,7 @@ Related:
 - Related? #revisit 
 	- [[1-1d Usually the obstacles are your own preconceived notions, and rarely the laws of physics]]
 	- [[1-2g1a In most cases, the new theory likely predicts the same outcome as the old ones, but that doesn’t mean we don’t need new theories because new theories give better explanations]]
+	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 	- [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
 	- [[5-1b1d1 Not investing is also a form of investing]]
 	- [[5-2 What counts cannot be counted]]

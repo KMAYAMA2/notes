@@ -15,6 +15,9 @@ Related:
 - [[4-1a4b6a1 Future self is enough of an audience]]
 - [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
 - [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+- On inversion
+	- [[3-1b0 Think forward, but also think in reverse via inversion]]
+	- [[RUL3 - Invert, always invert]]
 
 - IN LIFE
 	- ***"Wisdom is turning your future hindsight into your current foresight."***
