@@ -13,7 +13,11 @@ Related:
 - [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
-
-
+- On recruiting
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+	- [[4-1a4b2b0 Your algo is your principles]]
+- But you should know everything—there’s difference between doing and knowing (e.g., Elon Musk on vertical integration): #revisit 
+	- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
+	- [[5-1b1a7 Technology’s ‘function’ consists of many parts, and you have to have an explanation for how each contributes to the whole (i.e., ‘vertically-integrated’)]]
 
 #MentalModelsMicroEcon 
