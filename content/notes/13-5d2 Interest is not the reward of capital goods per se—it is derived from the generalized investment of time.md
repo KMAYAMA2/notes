@@ -2,6 +2,9 @@ Put differently, the capitalists are constrained by the aggregated time-preferen
 
 “**The interest income is *not* derived** from the concrete, heterogeneous capital *goods*, but from **the generalized investment of time**.”
 
+Next:
+- [[13-5d3 Capital per se is not permanent]]
+
 Related:
 - [[3-1a4a1 The whole must be evoked in explaining the parts]]
 - [[13-4d6 The economist must take account of all the interrelations in the economy and recognize that money costs are determined by final prices reflecting consumer demands and valuations]]
