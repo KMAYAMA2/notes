@@ -7,7 +7,7 @@ Relate with [[Mark Spitznagel]]. #TODO
 Inverted: time inconsistency exists because there is change, and also because of government intervention. #revisit 
 
 Next:
-- [[13-5b2d Production processes in the evenly rotating economy are interchangeable (i.e., scale-independent)]]
+- [[13-5b2d Production processes in the evenly rotating economy are interchangeable, hence the analysis becomes scale-independent]]
 
 Related:
 - [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]

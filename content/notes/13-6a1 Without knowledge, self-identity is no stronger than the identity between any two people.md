@@ -11,5 +11,8 @@ Related:
 - Habit is knowledge that keeps you the same *epistemologically*
 	- [[3-1d Consistency requires consistent constraints]]
 	- [[1-2g New theory is constrained in terms of what it can say, since it must either be consistent with existing theories, or contradict them but address the problems thereby raised]]
+- Interestingly, we can converge precisely because we can do anything: #revisit  
+	- [[10-2g2c0 A system is universal if it contains enough expressibility to represent anything. It can do anything and everything.]]
+	- [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 - Fungible universes matter only because they can differentiate
 	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]

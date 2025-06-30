@@ -1,6 +1,7 @@
 ---
 date: 2025-06-28
 ---
+The rate of interest can be uniform in the evenly rotating economy, because the incommensurable differences are mediated by time-preference schedules—which are comparable thanks to money. #develop 
 
 “We cannot compare utilities or values between persons, but we certainly may say that A’s time-preference schedule is *higher* than B’s. In other words, it cannot make sense to compare the rankings or utilities that the two men accord to any particular unit of a good, but we can (if we know them) compare their *schedules* based purely on their demonstrated time preferences.” (p. 385)
 

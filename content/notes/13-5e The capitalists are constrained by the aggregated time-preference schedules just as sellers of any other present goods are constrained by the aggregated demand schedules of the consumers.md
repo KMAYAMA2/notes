@@ -3,6 +3,8 @@ date: 2025-06-17
 ---
 The capitalists—in supplying present goods for future goods—are constrained by the aggregated time-preference schedules just as sellers of any other present goods are constrained by the aggregated demand schedules of the consumers. **The capitalists are not exploiters but intermediaries, bridging present and future demand with money—because, by definition, money is the best technology for this function**. #revisit 
 
+Put differently, capitalists do not *necessarily* influence people’s time-preference schedules; rather, they operate within them—coordinating present and future goods in response to existing preferences. In a free market, they serve as intermediaries, not influencers.
+
 “In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market.”
 
 Next:
