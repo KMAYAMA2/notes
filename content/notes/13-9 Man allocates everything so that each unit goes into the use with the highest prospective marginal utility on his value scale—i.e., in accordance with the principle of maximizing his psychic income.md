@@ -10,9 +10,9 @@ Next:
 - [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
 
 Related:
-- [[13-6 Man reveals only a part of his value scale through actions]]
 - [[13-1a3a2.1 An exchange is positive-sum only subjectively]]
 - [[13-4d4 Value is subjective]]
+- [[13-6 Man reveals only a part of his value scale through actions]]
 - [[13-6c The action axiom implies corresponding value scales]]
 - [[13-7 Value scales consist of specific units, and associated subjective utilities]]
 - [[13-8c Utility alone determines the price and the quantity exchanged]]

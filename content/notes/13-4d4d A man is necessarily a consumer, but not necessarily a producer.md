@@ -2,6 +2,8 @@ A man is necessarily a consumer—because one has to consume some amount in the 
 
 “Every man must consume in the present, and this drastically limits his savings regardless of the interest rate. After a certain point, a man’s time preference for the present becomes infinite.”
 
+“There is, in fact, *never any need to worry about the maintenance of consumer spending*.” (p. 403)
+
 Related:
 - The interest rate is not the cause
 	- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]

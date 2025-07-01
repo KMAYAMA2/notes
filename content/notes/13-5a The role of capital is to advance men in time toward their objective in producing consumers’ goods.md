@@ -3,6 +3,7 @@
 “**He who possesses capital is that much *further advanced in time*** on the road to the desired consumers’ good.”
 
 Next:
+- [[13-5a1 Civilization advances by virtue of additional capital]]
 - [[13-5b The capitalists are the only ones who spend money on labor, land, and capital goods]]
 
 Related:

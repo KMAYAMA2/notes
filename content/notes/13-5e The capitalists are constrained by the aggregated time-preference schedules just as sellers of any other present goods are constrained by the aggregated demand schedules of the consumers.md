@@ -7,12 +7,15 @@ Put differently, capitalists do not *necessarily* influence people’s time-pref
 
 “In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market.”
 
+“***The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption***. *The time preferences of the individuals on the market determine simultaneously and by themselves both the market equilibrium interest rate and the proportions between consumption and savings (individual and aggregate)*.” (p. 400)
+
 Next:
 - [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
 
 Related:
+- [[13-4d4 Value is subjective]]
+- [[13-4d5 Prices are derived from subjective values]]
 - [[13-4d6 The economist must take account of all the interrelations in the economy and recognize that money costs are determined by final prices reflecting consumer demands and valuations]]
 - [[13-5a The role of capital is to advance men in time toward their objective in producing consumers’ goods]]
-- [[13-4d5 Prices are derived from subjective values]]
 - [[13-7 Value scales consist of specific units, and associated subjective utilities]]
 - [[13-8c Utility alone determines the price and the quantity exchanged]]
