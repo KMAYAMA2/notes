@@ -2,7 +2,7 @@
 [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 [[2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.]]
 [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
-[[2-1a1a4 'Representativeness heuristic' - Remember the Linda test!]]
+[[2-1a1a4 'Representativeness heuristic' - Remember the Linda test (i.e., the conjunction fallacy)]]
 [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
 [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]

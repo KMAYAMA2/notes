@@ -1,7 +1,7 @@
 [[2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.]]
 [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
 [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
-[[2-1a1a4 'Representativeness heuristic' - Remember the Linda test!]]
+[[2-1a1a4 'Representativeness heuristic' - Remember the Linda test (i.e., the conjunction fallacy)]]
 [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
 [[2-1a1a6 'Tendency to overgeneralize from small samples']]
 [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
