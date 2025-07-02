@@ -23,4 +23,5 @@ Related:
 	- [[5-1b1d1 Not investing is also a form of investing]]
 	- [[5-2 What counts cannot be counted]]
 	- [[9-2a It’s easy to convince if people don’t know you enough for what you are not]]
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 

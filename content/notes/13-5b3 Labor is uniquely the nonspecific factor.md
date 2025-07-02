@@ -4,9 +4,11 @@ date: 2025-06-19
 Labor is nonspecific, just like money—and labor necessarily comes with mind, and we know both money and mind are implied in the multiverse. #revisit 
 
 Next:
+- [[13-5b3a Land has no reservation price (except in rare cases where it has subjective-use-value to the owner)]]
 - [[13-5b4 Zones of indeterminacy between valuations and in pricing dwindle radically with money]]
 
 Related:
+- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
 - On labor
 	- [[13-1a3.3 The use of labor has a cost in accordance with the subjective value of the leisure forgone]]
 - The topology of mind and money is probably the same
