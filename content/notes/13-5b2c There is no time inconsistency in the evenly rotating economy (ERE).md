@@ -1,6 +1,7 @@
 ---
 date: 2025-06-17
 ---
+#ERE 
 
 Relate with [[Mark Spitznagel]]. #TODO 
 

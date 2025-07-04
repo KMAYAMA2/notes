@@ -8,4 +8,6 @@
 [[8-1c3a1 Internet vs Telecom will recur in Crypto vs Financial Services]]
 [[8-1c3b Farming became the most common job during the 19th century]]
 
+[[13-5c1 All consumers can be capitalists if their time-preference schedules so dictate]]
+
 #history

@@ -2,11 +2,11 @@
 title: About this project
 date: 2024-07-23
 ---
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I explore various intersections between tech, philosophy (epistemology), economics (primarily Austrian), finance, history, culture, linguistics (and semiotics), productivity, and life—[[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |as I write]].
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |explore connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance, history, culture, linguistics (semiotics), productivity, etc—basically everything related to life.
 
 For starters:
 - Check my **[Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
-- Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favourite is [[Sherlock Holmes]]).
+- Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
 
 Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
 
@@ -25,10 +25,10 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
 ###### **Some good starting points if you are interested in any of these fields**:
 - **Philosophy** (epistemology)
   - “[[5-2 What counts cannot be counted |What counts cannot be counted]]” – Einstein
-  - [[5-1b1a2c0 No theory can exhaust reality |No theory can exhaust reality]]
+  - [[5-1b1a2c0.1 Perfect replication is impossible |No theory can exhaust reality]]
   - You have to solve problems, including the problem of [[1-1c4b You always have to solve problems, including the problem of what problems to solve |what problems to solve]]
 - **History**
-  - [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience) |'One-of-those' >>> 'one-off']]
+  - Learn from history—[[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience) |'one-of-those' over 'one-off']]
   - [[4-1a4b2b2 History repeats and reverses |History repeats and reverses]]
   - “[[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars |A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]” – Balaji
 - **Tech**

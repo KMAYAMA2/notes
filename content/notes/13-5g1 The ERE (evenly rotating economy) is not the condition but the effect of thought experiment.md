@@ -27,3 +27,5 @@ Related:
 	- [[13-1a3a4 The equilibrium price cannot be realized, except in the evenly rotating economy (ERE)]]
 	- [[13-1a3a4b The long run of the evenly rotating economy (ERE) is not real at all, but a very useful theoretical construct that enables the economist to point out the direction in which the market is moving at any given time]]
 	- [[13-5b2c There is no time inconsistency in the evenly rotating economy (ERE)]]
+
+#ERE 

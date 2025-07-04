@@ -11,3 +11,5 @@ Related:
 - [[5-2b5 Theories precede data]]
 - [[12-1e0 Everything changes]]
 - [[13-3a The use of the mathematical concept of function in a science of human action is inappropriate—because it disregards time and knowledge creation (i.e., the multiverse)]]
+
+#ERE 

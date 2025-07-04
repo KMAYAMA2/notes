@@ -23,15 +23,13 @@ Related:
 - [[10-2g2e9b1 Evolution couldn't have happened without the multiverse]]
 - [[10-2g2e9b2 Only when evoking the multiverse can we say this and that made this and that difference in the context of evolution]]
 - [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
-
-- 生命は、熱力学的に平衡でない「ゆらぎ」・負のエントロピーの出現
-	- [[1-2g2d1 生命は無秩序が生み出したゆらぎ・その中で生じたヒトというゆらぎ・さらにそのなかで生じた科学というゆらぎ]]
-		- 平衡状態からは情報は生まれない
-			- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
-
 - Related in the sense that you need more than just one filter to filter the reality:
 	- [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
 	- [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]
 - *The question, however, is that our explanation must be explanatory. That is, it has to explain all the differences emerging from using different filters (mental models). Maybe mental models are the easiest by which abductions can occur, for the problem at hand will respectively require coherent explanation when considered in the context of each mental model employed*
 	- Mental models are likely there to ask effective questions:
 		- [[5-2c2b The Lindy effect]]
+- 生命は、熱力学的に平衡でない「ゆらぎ」・負のエントロピーの出現
+	- [[1-2g2d1 生命は無秩序が生み出したゆらぎ・その中で生じたヒトというゆらぎ・さらにそのなかで生じた科学というゆらぎ]]
+		- 平衡状態からは情報は生まれない
+			- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
