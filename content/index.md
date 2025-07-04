@@ -2,13 +2,13 @@
 title: About this project
 date: 2024-07-23
 ---
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. My writings explore the intersection between tech, philosophy, finance, history, culture, productivity, and life—as well as [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |a better medium of writing]].
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I explore various intersections between tech, philosophy (epistemology), economics (primarily Austrian), finance, history, culture, linguistics (and semiotics), productivity, and life—[[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |as I write]].
 
 For starters:
 - Check my **[Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
-- Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers.
+- Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favourite is [[Sherlock Holmes]]).
 
-I’m taking these notes to [[4-1a4b6a0 You can use ideas both NOW (upside - cognitive offload) and LATER (upside - ideas becoming useful with new interpretation). Ideas ≠ Money. |clear my head]]. Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
+Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
 
 Occasionally I share my micro insights on [X](https://twitter.com/kmayama2).
 
@@ -22,7 +22,7 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
 - However, [[3-1c2e0 There is no minimum idea |there is no minimum idea]]
 
 ---
-###### **Some good starting points if you are interested in any of these fields**^:
+###### **Some good starting points if you are interested in any of these fields**:
 - **Philosophy** (epistemology)
   - “[[5-2 What counts cannot be counted |What counts cannot be counted]]” – Einstein
   - [[5-1b1a2c0 No theory can exhaust reality |No theory can exhaust reality]]
@@ -65,5 +65,5 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
 - **Longevity**
   - [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |You have to realign the incentives of capitalist entities you are outsourcing your health]], or you have to take care of yourself
 
-^It's important to use categories, but [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |the reality doesn't have categories.]] 'Academic subjects' are social constructs. Always prioritize solving [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT. |your own problems]].
+It's important to use categories, but [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |the reality doesn't have categories.]] 'Academic subjects' are social constructs. Always prioritize solving [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT. |your own problems]].
 
