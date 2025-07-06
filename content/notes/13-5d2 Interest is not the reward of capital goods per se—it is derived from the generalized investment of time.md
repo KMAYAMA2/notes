@@ -1,4 +1,4 @@
-Put differently, the capitalists are constrained by the aggregated time-preference schedules, which tend to be uniform—so the concreteness of capital goods doesn’t matter as it relates to the interest income.
+Put differently, the capitalists are constrained by the aggregated time-preference schedules, which tend to be uniform—so the concreteness of capital goods doesn’t matter as it relates to the interest income, at least in the evenly rotating economy. #revisit 
 
 “**The interest income is *not* derived** from the concrete, heterogeneous capital *goods*, but from **the generalized investment of time**.”
 

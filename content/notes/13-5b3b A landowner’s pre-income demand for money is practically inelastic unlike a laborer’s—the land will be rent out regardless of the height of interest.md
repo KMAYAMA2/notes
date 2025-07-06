@@ -7,6 +7,9 @@ In other words, depending on the height of interest rate, the laborer will work 
 
 “**A landowner’s pre-income demand for money is likely to be practically inelastic**, or vertical, while a laborer’s will probably be more elastic.” (p. 414)
 
+Next:
+- [[13-5b3c The demand of landowners and laborers for present goods tend to be inelastic with respect to interest rates]]
+
 Related:
 - That interest rate is not that influential: #revisit 
 	- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]

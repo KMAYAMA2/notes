@@ -9,6 +9,8 @@ Put differently, capitalists do not *necessarily* influence people’s time-pref
 
 “***The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption***. *The time preferences of the individuals on the market determine simultaneously and by themselves both the market equilibrium interest rate and the proportions between consumption and savings (individual and aggregate)*.” (p. 400)
 
+“**The *time market’s components* are savings as supply of present goods for future goods, and *producers’ demand* (i.e., landowners and laborers) and *consumers’ demand* (i.e., borrowing consumers) for present goods**.” (pp. 417-418)
+
 Next:
 - [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
 

@@ -1,9 +1,16 @@
 ---
 date: 2025-06-30
 ---
-#ERE 
+Because the rate of return will be equalized, at least in the evenly rotating economy. #ERE 
 
 “The fact that different durations of production processes and different degrees of vertical integration make no difficulties for aggregation permits us to use the diagram almost interchangeably for a single production process and for the economy as a whole.” (p. 394)
+
+“There can be no long-run deviation of the rate of interest on the consumption loan market from the rate of interest return on productive investment. Both are aspects of one time market.” (p. 420)
+
+“**The productivity of production processes has no basic relation to the rate of return on business investment**. This rate of return depends on the price spreads between stages, and these price spreads will tend to be equal. The size of the price spread, i.e., the size of the interest rate, is determined, as we have seen at length, by the time-preference schedules of all the individuals in the economy.” (p. 424)
+
+Next:
+- [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
 
 Related:
 - On scale-independence #revisit 
