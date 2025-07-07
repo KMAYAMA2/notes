@@ -10,6 +10,7 @@ Interest rate is the effect, not the cause—at least in the evenly rotating eco
 “It is this rate of interest that induces capitalists to save and invest present goods in productive factors.” (p. 403)
 
 Next:
+- [[13-5f1 You must evoke others to explain the interest rate]]
 - [[13-5g Do not confuse the effect for the cause—to explain the causality at play, you must explain what must have happened at first and what would have happened in the absence of change]]
 
 Related:

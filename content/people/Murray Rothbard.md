@@ -741,7 +741,7 @@ That there is no time inconsistency in the ERE. That the capitalists’ function
 The ERE cannot exist in reality, yet is a powerful explanatory tool. How? The ERE is inhabited by all-knowing beings, because it’s deterministic. Inverted, **the laws of physics forbid all-knowing being**. #revisit 
 - With the assumption of the ERE, to the superficial, it looks as if the firm is an automatically continuing thing and as if the production is somehow timeless and instantaneous, ensuing immediately after the factor input. (p. 427)
 - The *joint-stock company*:
-	- Wherein each investor-owner receives a *share* (or *stock*)—a certification of ownership in proportion to the amount he has invested in thee total capital of the company. (p. 429)
+	- Wherein each investor-owner receives a *share* (or *stock*)—a certification of ownership in proportion to the amount he has invested in the total capital of the company. (p. 429)
 - It is easy for new capital to be attracted through the issuance of new shares. It is also easier for any owner to withdraw his capital from the firm. (p. 431)
 - In the ERE, *the share market is strictly dependent on the price spreads*. If the price spreads are 5 percent, **the rate of interest return yielded on the share market** (the ratio of earnings per share to the market price of the share) **will tend to equal the rate of interest as determined elsewhere on the time market**. (p. 431)
 - Far from rendering economic analysis obsolete, the modern world of the corporation aids analysis by separating and simplifying functions in production—specifically, the managerial function. (pp. 433-434)
