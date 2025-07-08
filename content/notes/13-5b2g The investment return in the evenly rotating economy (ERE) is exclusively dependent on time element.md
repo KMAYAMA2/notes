@@ -7,6 +7,9 @@ If everything is known, then what will happen can be deduced and reduced to the 
 
 “The interest return on investment, as set by total savings and total demands by owners of factors, *completely determines the rate of interest on the producers’ loan market* as well as the rate of earning on stock.” (p. 437)
 
+Next:
+- [[13-5b2h In the evenly rotating economy, the rates of interest will differ in accordance with a psychic component]]
+
 Related:
 - On future and knowledge:
 	- [[1-2g2e What science and creative thought in general achieves is unpredictable creation out of nothing. That is, creation of knowledge. And so is biological evolution (i.e., life).]]
