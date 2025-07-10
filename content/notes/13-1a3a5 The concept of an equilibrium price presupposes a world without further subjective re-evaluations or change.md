@@ -4,6 +4,7 @@
 
 Next:
 - [[13-1a3a5a The equilibrium price can be achieved conceptually because the demand will dwindle to zero when the price is high enough]]
+- [[13-1a3a5.1 The concept of an equilibrium becomes meaningless when knowledge creation is introduced]]
 - [[13-1a3a6 The result of the exchange process is that the stock goes into the hands of the most capable possessors]]
 
 Related:

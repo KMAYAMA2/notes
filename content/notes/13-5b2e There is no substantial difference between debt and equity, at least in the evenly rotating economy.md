@@ -3,7 +3,7 @@ date: 2025-07-06
 ---
 #ERE 
 
-The assumption here is that **arbitragers will equalize the rate of interest throughout the time structure** (e.g., across *short-term* and *long-term* bonds). #revisit 
+The assumption here is that **arbitragers will equalize the rate of interest throughout the time structure** (e.g., across *short-term* and *long-term* bonds), and that no new knowledge will be created meanwhile. #revisit 
 
 “The neoclassicists are partly right in only one respect—that the rate of interest in the producers’ loan market is dependent on the rates of return on investment. They hardly realize the extent of this dependence. From the point of view of fundamental analysis, there need not be any producers’ loan market at all.” (pp. 424-425)
 
@@ -19,6 +19,7 @@ Next:
 Related:
 - [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 - [[5-2b5 Theories precede data]]
+- [[13-1a3a5.1 The concept of an equilibrium becomes meaningless when knowledge creation is introduced]]
 - **[[13-5b2h In the evenly rotating economy, the rates of interest will differ in accordance with a psychic component]]**
 - **[[13–5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations]]**
 - [[13-5b3c The demand of landowners and laborers for present goods tend to be inelastic with respect to interest rates]]

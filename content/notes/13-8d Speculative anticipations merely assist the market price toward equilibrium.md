@@ -1,2 +1,3 @@
+Assumption here is that no new knowledge is created meanwhile. #revisit 
 
 “Speculative anticipations render the demand curve far more *elastic*, since more will be bought at the lower price and less at the higher. The more this anticipatory, or *speculative*, element enters into supply and demand, the more quickly will the market price tend toward equilibrium.”

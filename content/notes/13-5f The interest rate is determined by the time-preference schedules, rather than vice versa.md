@@ -1,7 +1,7 @@
 ---
 date: 2025-06-25
 ---
-Interest rate is the effect, not the cause—at least in the evenly rotating economy ERE (ontologically).
+Interest rate is the effect, not the cause—at least in the evenly rotating economy ERE (ontologically). That is, the real income increase doesn’t cause another round of saving—interest rates adjust immediately to reflect the shift of underlying time preferences in the economy, preventing recursive saving loops.
 
 “Many economists have made the great mistake of believing that the interest rate determines the time-preference schedule and rate of savings, rather than *vice versa*.”
 
@@ -14,6 +14,8 @@ Next:
 - [[13-5g Do not confuse the effect for the cause—to explain the causality at play, you must explain what must have happened at first and what would have happened in the absence of change]]
 
 Related:
+- In reality
+	- [[13-10a Time preference per se doesn’t explain anything]]
 - The case on point: a man must consume—and in some cases his time preference will become infinite regardless of the rate of interest
 	- [[13-4d4d A man is necessarily a consumer, but not necessarily a producer]]
 - Price is also the effect—not the cause #develop 
@@ -29,3 +31,5 @@ Related:
 	- [[13-1a3a4a The actual market prices are the only ones that ever exist]]
 - Consumers’ spending does not induce capitalists to save and invest present goods in productive factors
 	- [[13-4d4d A man is necessarily a consumer, but not necessarily a producer]]
+- On saving
+	- [[13-5c The capitalists’ money for investment must be first saved]]
