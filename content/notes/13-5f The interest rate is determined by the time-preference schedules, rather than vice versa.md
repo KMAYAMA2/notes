@@ -1,7 +1,7 @@
 ---
 date: 2025-06-25
 ---
-Interest rate is the effect, not the cause—at least in the evenly rotating economy ERE (ontologically). That is, the real income increase doesn’t cause another round of saving—interest rates adjust immediately to reflect the shift of underlying time preferences in the economy, preventing recursive saving loops.
+Interest rate is the effect, not the cause—at least in the evenly rotating economy ERE (ontologically). That is, the real income increase (in the sense of shifting of time preference schedule *per se*) doesn’t cause another round of saving—interest rates adjust immediately to reflect the shift of underlying time preferences in the economy, preventing recursive saving loops.
 
 “Many economists have made the great mistake of believing that the interest rate determines the time-preference schedule and rate of savings, rather than *vice versa*.”
 
@@ -33,3 +33,7 @@ Related:
 	- [[13-4d4d A man is necessarily a consumer, but not necessarily a producer]]
 - On saving
 	- [[13-5c The capitalists’ money for investment must be first saved]]
+- Shift-of-curve ≠ Along-the-curve changes
+	- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
+- Recursive saving loop doesn’t happen because the rate of interest is the effect of time preferences (at least in the evenly rotating economy): #revisit 
+	- [[13-5b3c The demand of landowners and laborers for present goods tend to be inelastic with respect to interest rates]]
