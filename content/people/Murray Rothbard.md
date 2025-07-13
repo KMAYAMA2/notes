@@ -930,6 +930,8 @@ Revisit the concept of *net rent* (e.g., p. 498) #revisit
 		- The ERE is physically possible. #develop 
 	- **If you assume land to be reproducible, then something else must exist to enable that reproduction. But _that_ something would then play the same role as land: nonreproducible, persistent, and foundational**.
 		- This necessity reveals the conceptual function of “land” in economic theory: not as a physical substance, but as a foundational category of input whose permanence makes equilibrium analysis possible.
+		- Inverted: the ERE requires something *timeless* and *invariant*. #revisit 
+			- The very conception of time evolves as knowledge evolves. #revisit 
 ### Personal Thought
 - **All capital goods are ultimately a product of physical indestructibility, human ability to create wealth, and time—land, labor, and time.**
 	- Numerically, incomes reduce to wages and interest.
