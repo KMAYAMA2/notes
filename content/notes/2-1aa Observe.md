@@ -13,6 +13,8 @@ date: 2025-06-24
 
 > “To observe attentively is to remember distinctly” – Edgar Allan Poe
 
+> “I think that I am superior to the common run of men in noticing things which easily escape attention, and in observing them carefully.” – Charles Darwin
+
 Related: #develop 
 - [[4-1d3 The most effective communication is to listen]]
 - [[5-2b5 Theories precede data]]

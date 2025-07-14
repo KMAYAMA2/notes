@@ -2,6 +2,8 @@
 
 > “By the method of exclusion, I had arrived at this result, for no other hypothesis would meet the facts.” – [[Sherlock Holmes]]
 
+> “All I want to know is where I’m going to die so I’ll never go there.” – [[Charlie Munger]]
+
 Related:
 - [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
 - [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]

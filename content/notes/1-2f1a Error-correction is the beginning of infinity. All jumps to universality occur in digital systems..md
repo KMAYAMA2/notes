@@ -1,3 +1,5 @@
+> “A man who has committed a mistake and doesn’t correct it, is committing another mistake.” – Confucius
+
 [[1-2 We are fallible]]
 [[8-1a What can go digital will go digital]]
 
