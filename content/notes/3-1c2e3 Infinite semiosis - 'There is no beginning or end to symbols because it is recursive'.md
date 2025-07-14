@@ -1,3 +1,4 @@
+
 Next:
 - [[3-1c2e3.1 It’s symbols all the way down]]
 - [[3-1c2e4 There is no limit to the number of symbols available to humans for languages]]
