@@ -1,3 +1,5 @@
+> “It’s about accurate and complete information” – Li Lu
+
 Knowledge is about correspondence with reality. #revisit 
 
 Related:

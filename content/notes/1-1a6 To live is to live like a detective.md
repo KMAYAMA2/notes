@@ -1,8 +1,14 @@
-[[5-2 What counts cannot be counted]]
-[[5-2b3 You have to be guessing everything all the time, including your goals themselves because the unconscious is what can’t be explicated yet]]
-[[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
-[[9-2a2 You have to figure out where you are going by living abductively via surprises]]
-[[9-2a3 Be long volatility with people]]
-[[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+> “Most of the time you’re going to spend as a value investor is really to be an academic, to be a researcher, to be a journalist actually, to basically be have insatiable curiosity to really, and try to figure out how just about everything works.” – Li Lu
 
-[[1-1a7 Epistemology is the way with which we go about our detective work; other sciences are application of such detective lens]]
+Next:
+- [[1-1a7 Epistemology is the way with which we go about our detective work; other sciences are application of such detective lens]]
+
+Related:
+- [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
+- [[5-2 What counts cannot be counted]]
+- [[5-2b3 You have to be guessing everything all the time, including your goals themselves because the unconscious is what can’t be explicated yet]]
+- [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality]]
+- [[9-2a2 You have to figure out where you are going by living abductively via surprises]]
+- [[9-2a3 Be long volatility with people]]
+
