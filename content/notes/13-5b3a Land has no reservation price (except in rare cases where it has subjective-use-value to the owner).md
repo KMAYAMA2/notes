@@ -6,6 +6,8 @@ date: 2025-07-03
 
 “**The burden of the lower prices at each stage of production falls on the *purely specific* factors in the industry**, those which *must* be devoted to this industry if they are to be in the production system at all. **It is therefore likely to be specific *land* factors that bear the brunt of the lower return**.” (p. 442)
 
+“*The impact of a change in consumer demand on a specific factor will be far greater, in either direction, than it will be on the price of employment of a nonspecific factor*.” (p. 463)
+
 Next:
 - [[13-5b3b A landowner’s pre-income demand for money is practically inelastic unlike a laborer’s—the land will be rent out regardless of the height of interest]]
 

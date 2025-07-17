@@ -10,6 +10,7 @@ Because the rate of return will be equalized, at least in the evenly rotating ec
 “**The productivity of production processes has no basic relation to the rate of return on business investment**. This rate of return depends on the price spreads between stages, and these price spreads will tend to be equal. The size of the price spread, i.e., the size of the interest rate, is determined, as we have seen at length, by the time-preference schedules of all the individuals in the economy.” (p. 424)
 
 Next:
+- [[13-5b2d1 In the evenly rotating economy (ERE), every isolable factor will earn its DMVP and this will be its price since factor units are interchangeable]]
 - [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
 
 Related:
