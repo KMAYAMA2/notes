@@ -7,7 +7,7 @@ date: 2025-06-20
 
 > “Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different.” – [[Sherlock Holmes]]
 
-Where [[Sherlock Holmes]] meets [[David Deutsch]] and [[Murray Rothbard]], again.
+Where [[Sherlock Holmes]] meets [[David Deutsch]] and [[Murray Rothbard]], again. I think Sherlock and Deutsch will cross with Rothbard.
 
 Related:
 - On theorizing #revisit 
