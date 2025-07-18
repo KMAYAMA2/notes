@@ -2,3 +2,87 @@
 date: 2024-08-15
 ---
 - “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
+
+# A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
+- **return matters in comparison with other possible returns**
+	- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
+- inverted: don’t invest in companies signaling DMU
+- inverted: pricing power is essential in inflationary environment
+	- consumer franchise is the key to pricing power, not production cost
+		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
+		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
+			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
+- sugar isn’t differentiated—unless someone does (p. 15)
+- in commoditized businesses, individually economic decision isn’t economic at all when considered collectively (p. 17)
+	- only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in DMU environment (i.e., in no knowledge creation environment)
+		- if the division of capital relates to creating *different* production process, then *the more is different* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+- growth has its limits (p. 21)
+- Ch. 5-E is about the difference between a good business and a good purchase
+	- it clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
+	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
+		- Buffett meets Lachmann
+	- but when you are buying the business as an investment, then relevant return is within the framework of Portfolio Strucure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
+- personal thought—housing bubbles in tokyo reminds me of ones which led to GFC (p. 27)
+- relate the following with the network effect: survival of the fattest (p. 29)
+- have fun, then it will compound, then you widen the moat (p. 31)
+- personal thought: who’s allocating the capital for us? Sean? (p. 34)
+- personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
+	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
+		- is this where smart contracts can make a difference?
+			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
+
+# Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
+- prevention is primarily about avoiding ruin (p. 4)
+- relate #41 on relating ideas
+- repeat what works (p. 7)
+- independent thinking over imitation (p. 9)
+
+# other sources
+- Buffett munger episode #286
+	- relate (as well as create)
+		- The former can be as powerful as the latter
+			- also avoiding bad ones
+	- reading lets you connect with other instances 
+	- you can’t change the behavior of others unless initiated by themselves spontaneously
+		- intense curiosity dives everything
+		- if the person is not interested, it wouldn’t work
+			- missionaries make the best product—not mercenaries
+	- cash is hedge
+		- stay in the game
+		- life gets you out of your weakest link (e.g., leverage)
+		- implication for market reform
+	- the world is driven by envy, not snger
+		- time is the best filter
+	- sol price’s membership model
+		- he wanted to avoid certain customers
+	- no master plans
+		- keep reacting
+	- communicate who when what why
+	- on interest rate (48:00~)
+- bevelin on Buffett (founders #202)
+	- Steve Jobs intensely studied Disney
+		- Only Disney was making money lucratively in animation business, and the recipe was hidden
+	- growth is easy to measure, durability isn’t (~27:00)
+- Buffett (founders #101)
+	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
+		- E.g., chewing gum (27:00~)
+		- Ask: what’s not going to change?
+	- public-opinion suck, don’t just build what people want
+		- Aim for specific customer segment
+		- Ask: what are rich and nerd doing?
+	- When you are sloppy in one area, you are probably sloppy elsewheere
+	- writing is the best help for thinking
+- Buffett (founders #227)
+	- Bruce Lee: hack the unessential 
+	- Good business run by good manager is rare.
+	- It’s all about free cash flow.
+	- Watch the basket.
+		- Focus. Concentrate.
+			- And you will when you concentrate instead of diversifying.
+	- When dumb money acknowledges itself as such, it ceases to be dumb money.
+	- Avoid dragons. No need to slay them.
+	- Money provides margin of safety
+	- Fees never falter
+		- Cost can be controlled (James J. Hill)
+	- Buffett’s pitch (1:35:00)
+	- There would be no auto industry with horses

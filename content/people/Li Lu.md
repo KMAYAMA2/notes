@@ -1,0 +1,47 @@
+---
+date: 2025-07-18
+---
+- Li Lu (Founders #362)
+	- Born 1966
+	- Was at 天安門事件 (1989)
+	- Was at Columbia Business School
+	- He says he started this business late 97
+	- Met Charlie Munger 2004
+	- ”It’s about accurate and complete information” #revisit 
+	- Gave a lecture at Columbia Business School (2006)
+- Li Lu (Founders #363): 
+	- buffett and munger: “study how to die so you don’t go there”
+		- always invert—study weaknesses and mistakes #revisit 
+	- constantly trading gets you constantly taxed (and more noise from brokers)
+		- whatever style you do it has to be authentic otherwise it won’t last a decade (and that’s where the money is)
+		- “sit on your arse”
+	- timberland example
+	- munger: “decision in life is all about opportunity cost”
+		- pick the best, and don’t indulge in others
+	- bbg example
+		- *untapped pricing power*
+	- 2010 talk at columbia (again)
+		- he spent 2 years studying buffet
+		- “business is change, and change equals opportunity”
+		- “capitalism rewards people who are talented at capital allocation—it is a great game”
+		- **study one company thoroughly, inside out**—then you can understand an industry #TODO 
+			- find superior company in superior industry with good management and good price—you can very likely stay for a very long time—superior businesses produce a lot of positive surprises (the opposite is also true)
+		- BYD example (2002~) (1:02:52~)
+- the 2006 lecture:
+	- what defines value investor?
+		- those three things are tied together because you don’t really own the business (only a small piece of it) you want margin
+			- a. owner of business
+			- b. demand safety margin
+			- c. don’t really care about what others think—mr. market anology
+	- only 5% are value investors
+		- other 95% likes trading in and out
+			- why value investing is persistently low percent of asset management business?—because *assets find these people*
+				- this is counter-point to **make what people want**
+				- common sense is the least common commodity
+	- “most of the time you’re going to spend as a value investor is really to be an academic, to be a researcher, to be a journalist actually, to basically be have insatiable curiosity to really, and try to figure out how just about everything works”
+	- “the more you know the better off you are as an investor”
+	- ask these things
+		- is that cheap?
+		- is the business good?
+		- is the management somebody i can trust either because they’re good or because the external checks are sufficient
+	- examples (13:13~)
