@@ -25,7 +25,7 @@ date: 2024-08-15
 - personal thought—housing bubbles in tokyo reminds me of ones which led to GFC (p. 27)
 - relate the following with the network effect: survival of the fattest (p. 29)
 - have fun, then it will compound, then you widen the moat (p. 31)
-- personal thought: who’s allocating the capital for us? Sean? (p. 34)
+- personal thought: who’s allocating the capital for us? (p. 34)
 - personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
 	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
 		- is this where smart contracts can make a difference?
