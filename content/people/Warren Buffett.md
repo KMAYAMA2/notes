@@ -30,14 +30,72 @@ date: 2024-08-15
 	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
 		- is this where smart contracts can make a difference?
 			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
+- skin in the game (p. 39)
+- in buffett’s *owner-capitalism*, the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
+	- directors ≠ managers
+		- the former functions as a check on the latter (社長/CEO) power—on daily basis the latter decides company matters
+- on “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
+- incentives work regardless of the scale
+- “hire well, manage little” code
+- follow the Golden Rule
+	- relate with relativity notes (e.g., imagine being in the other’s shoe note)
+- on managers’ mindset (p. 42)
+- on what counts, and not how it’s counted
+- at Berkshire, mgmt (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
+- avoid capricious incentive structure (p. 44) #revisit 
+	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
+	- ask: is the current incentive structure “capricious”?
 
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 - prevention is primarily about avoiding ruin (p. 4)
 - relate #41 on relating ideas
 - repeat what works (p. 7)
 - independent thinking over imitation (p. 9)
+- on inversion (p. 10)
+- there’s never a shortage of human folly (p. 11)
+	- personal thought: you will find more new errors and you will increasingly get better at finding them
+		- partly because these follies are usually cross boundaries #revisit 
+		- relate with similar note on surprises and ability to detect them
+			- Buffett and Munger meets PG again
+- grand chess masters operate by exclusion, not by speed (p. 12)
+	- relate with Rockefeller’s emphasis on quality of information over speed
+- rochefoucauld quote on seeming clever (p. 14)
+	- relate with notes on nerds
+- samuel johnson quote on understanding (p. 15)
+- on ignorance removal
+	- we will be always ignorant
+		- relate with we will be always anti-rational note, and infinity hotel note (i.e., any notes with kaleidoscopic worldview)
+- on having low expectations (p. 17)
+- nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
 
 # other sources
+- Buffett (founders #101)
+	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
+		- E.g., chewing gum (27:00~)
+		- Ask: what’s not going to change?
+	- public-opinion suck, don’t just build what people want
+		- Aim for specific customer segment
+		- Ask: what are rich and nerd doing?
+	- When you are sloppy in one area, you are probably sloppy elsewheere
+	- writing is the best help for thinking
+- bevelin on Buffett (founders #202)
+	- Steve Jobs intensely studied Disney
+		- Only Disney was making money lucratively in animation business, and the recipe was hidden
+	- growth is easy to measure, durability isn’t (~27:00)
+- Buffett (founders #227)
+	- Bruce Lee: hack the unessential 
+	- Good business run by good manager is rare.
+	- It’s all about free cash flow.
+	- Watch the basket.
+		- Focus. Concentrate.
+			- And you will when you concentrate instead of diversifying.
+	- When dumb money acknowledges itself as such, it ceases to be dumb money.
+	- Avoid dragons. No need to slay them.
+	- Money provides margin of safety
+	- Fees never falter
+		- Cost can be controlled (James J. Hill)
+	- Buffett’s pitch (1:35:00)
+	- There would be no auto industry with horses
 - Buffett munger episode #286
 	- relate (as well as create)
 		- The former can be as powerful as the latter
@@ -59,30 +117,17 @@ date: 2024-08-15
 		- keep reacting
 	- communicate who when what why
 	- on interest rate (48:00~)
-- bevelin on Buffett (founders #202)
-	- Steve Jobs intensely studied Disney
-		- Only Disney was making money lucratively in animation business, and the recipe was hidden
-	- growth is easy to measure, durability isn’t (~27:00)
-- Buffett (founders #101)
-	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
-		- E.g., chewing gum (27:00~)
-		- Ask: what’s not going to change?
-	- public-opinion suck, don’t just build what people want
-		- Aim for specific customer segment
-		- Ask: what are rich and nerd doing?
-	- When you are sloppy in one area, you are probably sloppy elsewheere
-	- writing is the best help for thinking
-- Buffett (founders #227)
-	- Bruce Lee: hack the unessential 
-	- Good business run by good manager is rare.
-	- It’s all about free cash flow.
-	- Watch the basket.
-		- Focus. Concentrate.
-			- And you will when you concentrate instead of diversifying.
-	- When dumb money acknowledges itself as such, it ceases to be dumb money.
-	- Avoid dragons. No need to slay them.
-	- Money provides margin of safety
-	- Fees never falter
-		- Cost can be controlled (James J. Hill)
-	- Buffett’s pitch (1:35:00)
-	- There would be no auto industry with horses
+- on buffett and munger (#380) ~32m
+	- yogi berra on observing (9m)
+	- cut envy
+	- deserve what you get
+	- on adjacent opportunities
+		- geico saw how effective google ad was
+		- rockefeller looked up to jay gould, who saw opportunities in telco when operating in railway industry
+	- long-term is where the money is—and the world is extremely short-term focused (14m)
+	- read Titan which is on Rockefeller (21m) #TODO 
+		- rockefeller emphasized the quality of information over speed
+	- build business around what you do naturally
+	- you wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
+		- the same applies to American corporations and their histories (29m)
+	- not buying Belridge because munger didn’t have “enough” cash (32m)

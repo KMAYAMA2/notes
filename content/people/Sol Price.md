@@ -1,0 +1,13 @@
+---
+date: 2025-07-22
+---
+- sol price (founders #304)
+	- inspirations: seven seas’ locker club (sailors’ store) and fedco store
+	- when you see people driving long distance to save some money, that’s usually a good sign
+	- he didn’t know anything about retail business, but that was the edge
+		- knowledge is created not by imitation, but by reconfiguration—this is probably why noobs can do better
+	- membership was established initially to circumvent the fair trade laws
+		- costco now makes money on membership fees
+	- he started fedmart then price club
+	- makro in amsterdam
+	- jim sinegal (costco) and [[Sam Walton]] (walmart) were better at executing sol price’s idea
