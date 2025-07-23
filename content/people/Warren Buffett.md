@@ -22,18 +22,22 @@ date: 2024-08-15
 	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets Lachmann
 	- but when you are buying the business as an investment, then relevant return is within the framework of Portfolio Strucure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
+### 6. past results
 - personal thought—housing bubbles in tokyo reminds me of ones which led to GFC (p. 27)
 - relate the following with the network effect: survival of the fattest (p. 29)
 - have fun, then it will compound, then you widen the moat (p. 31)
+### 7. trustworthy mgmt
 - personal thought: who’s allocating the capital for us? (p. 34)
 - personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
 	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
 		- is this where smart contracts can make a difference?
 			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
+### 9. corporate governance
 - skin in the game (p. 39)
 - in buffett’s *owner-capitalism*, the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
 	- directors ≠ managers
 		- the former functions as a check on the latter (社長/CEO) power—on daily basis the latter decides company matters
+### 10. owners and mgmt
 - on “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
 - incentives work regardless of the scale
 - “hire well, manage little” code
@@ -41,12 +45,25 @@ date: 2024-08-15
 	- relate with relativity notes (e.g., imagine being in the other’s shoe note)
 - on managers’ mindset (p. 42)
 - on what counts, and not how it’s counted
+### 11. compensation
 - at Berkshire, mgmt (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
 - avoid capricious incentive structure (p. 44) #revisit 
 	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
 	- ask: is the current incentive structure “capricious”?
+### 13. few mgmt issues
+- imitation has a limitation (p. 56)
+	- relate with singleton quote
+- no yo-yo approach—do what makes sense for the customers (p. 59)
+- three key questions (p. 59) #revisit 
+### 14. prevention
+- keep it simple (p. 61)
+### 15. sometimes mistakes are made
+- the Noah rule and prediction (p. 80)
+	- relate with payoff notes
+- investment is most intelligent when it’s most businesslike – Ben Graham (p. 81)
 
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
+## part i
 - prevention is primarily about avoiding ruin (p. 4)
 - relate #41 on relating ideas
 - repeat what works (p. 7)
@@ -65,9 +82,35 @@ date: 2024-08-15
 - on ignorance removal
 	- we will be always ignorant
 		- relate with we will be always anti-rational note, and infinity hotel note (i.e., any notes with kaleidoscopic worldview)
+## part ii
 - on having low expectations (p. 17)
 - nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
-
+## part iv
+- get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
+- when it’s too simple it might not spread fast. (p. 202)
+- narrow it down to the important and knowable. (p. 203)
+	- relate with solve important problems note
+- circle of competence is about knowing your limit (p. 203)
+	- relate with mark twain quote #TODO 
+	- it’s more epistemological concept than I initially thought
+- you mix raisins and turds, you still get turds (p. 205)
+- mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
+	- relate with media notes
+	- relate with biases notes
+- get the no-brainers off the desk fast (p. 207)
+	- do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
+- edward tuft quote (p. 207)
+- it’s about *personal* opportunity costs, and since your value scale changes, you have to reevaluate your opportunity costs all the time (pp. 208-209)
+	- relate with value scales change notes
+	- relate with recalibration notes
+- the more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
+	- this is implied in personal opportunity costs argument, and also in value scales notes (particularly, how what you don’t know cannot be in your value scale note)
+	- relate with it-gets-easier notes
+	- relate with how nothing is evaluated independently by us memo (p. 18)
+	- relate with munger’s comment on li lu
+- do with what’s available (p. 210)
+	- similar in spirit with concentric circle (how children acquire languages) note
+		- that is, you have to widen your circle of competence (i think you can replace this with conception of reality) reflexively
 # other sources
 - Buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
