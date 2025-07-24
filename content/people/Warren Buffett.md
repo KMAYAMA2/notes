@@ -2,7 +2,6 @@
 date: 2024-08-15
 ---
 - “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
-
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
 - **return matters in comparison with other possible returns**
 	- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
@@ -12,11 +11,15 @@ date: 2024-08-15
 		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
 			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
+### 5. business characteristics
+#### c. the gruesome
 - sugar isn’t differentiated—unless someone does (p. 15)
 - in commoditized businesses, individually economic decision isn’t economic at all when considered collectively (p. 17)
 	- only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in DMU environment (i.e., in no knowledge creation environment)
 		- if the division of capital relates to creating *different* production process, then *the more is different* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+#### d. other tough businesses
 - growth has its limits (p. 21)
+#### e. on accounting goodwill
 - Ch. 5-E is about the difference between a good business and a good purchase
 	- it clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
 	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
@@ -50,6 +53,7 @@ date: 2024-08-15
 - avoid capricious incentive structure (p. 44) #revisit 
 	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
 	- ask: is the current incentive structure “capricious”?
+	- ask: would rewarding XXX based on YYY’s performance capricious?
 ### 13. few mgmt issues
 - imitation has a limitation (p. 56)
 	- relate with singleton quote
@@ -57,6 +61,8 @@ date: 2024-08-15
 - three key questions (p. 59) #revisit 
 ### 14. prevention
 - keep it simple (p. 61)
+- do the basics well (p. 62)
+- a chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
 ### 15. sometimes mistakes are made
 - the Noah rule and prediction (p. 80)
 	- relate with payoff notes
@@ -111,6 +117,25 @@ date: 2024-08-15
 - do with what’s available (p. 210)
 	- similar in spirit with concentric circle (how children acquire languages) note
 		- that is, you have to widen your circle of competence (i think you can replace this with conception of reality) reflexively
+- comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
+- the goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
+- Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
+- ask: then what? (p. 213)
+- you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
+- parade-tiptoe problem (p. 215)
+	- in spirit this is spontaneous disorder phenomenon—but you can avoid this if you think through
+- on Gresham and pejoristic system (p. 216)
+- don’t fool yourself (p. 217)
+	- you truly communicate when trying to fool someone—because you must think really hard about what the counterpart is thinking
+		- inspired by 福本伸行’s カイジ (mentioned in コテンラジオ: ペリー編)
+- look at the corporate cemetery (p. 218)
+- opportunity cost filter + compared to what filter + then what filter (p. 219)
+	- you have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
+		- you have to figure out the multiverse—relate this with idea maze notes
+- checklists are no substitute for thinking, but powerful (p. 221)
+- always surprise the enemy (p. 221)
+	- relate with black swan notes and surprise notes
+	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 # other sources
 - Buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
