@@ -63,6 +63,45 @@ date: 2024-08-15
 - keep it simple (p. 61)
 - do the basics well (p. 62)
 - a chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
+- if it’s not worth doing, it’s not worth doing well (p. 63)
+	- relate with then what filter memo and higher-order consequences notes
+- defining what you don’t know is essential in investing as well (p. 64)
+- optimism is the enemy of rational buyer (p. 66)
+- simply being a contrarian is easy and doesn’t count (p. 67)
+	- relate with Deutsch quote on scientific mind
+- when it’s raining gold, get a bucket (p. 67)
+- some things just take time—be patient (p. 69)
+- to finish first, you must first finish (p. 70)
+	- relate with avoid ruin notes
+- only cash can meet the payment (p. 71)
+	- relate with cash is the present good par excellence note
+- cash is the gun to shoot rare fast-moving elephants (p. 71)
+- tight credit environment is the best opportunity for acquisitions—not when there’s easy money (p. 71)
+- CP (commercial paper) and MMF (money market fund) ≠ cash (p. 72)
+- each subsidiary should manage their own financing—if each was dependent on the (rich) parent company it will result in sloppy decisions (p. 72)
+	- replace subsidiary with child—the same still applies
+- what’s good for investor ≠ what’s good for broker (p. 73)
+	- relate with Li Lu’s comment on turnover and on trading in and out frequently
+- whose bread I eat, his song I sing (p. 74)
+- what the wise do in the beginning, fools do in the end (p. 74)
+	- relate with everything changes notes
+	- relate with imitation wouldn’t do memos and notes
+- “the other guy is doing it so we must as well” is the trouble (p. 75)
+- profitability >>> volume and market share (p. 75)
+- slack (occasional) >>> producing bad businesses (p. 76)
+- identify businesses to which external surprises will have little effect (p. 77)
+- predictable long-term future >>> short-term uncertainties (p. 77)
+	- remember that the latter is the general condition of the multiverse
+- ignore Mr. Market as necessary (p. 77)
+- Mr. Market is there to serve me, never to guide me (p. 78)
+- operating results >>> price quotations (p. 78)
+	- this makes sense because any amount of money can do the job of money #revisit 
+	- also makes sense because here the emphasis is on the soundness of the Plan Structure
+- in the short-run the market is a voting machine wherein you only need money—in the long-run the market is a weighing machine (p. 78)
+	- personal thought: in the long-run, the Portfolio Structure will reflect the Plan Structure—just that you have to stay in the game. #revisit 
+		- but how (and why) does the long-run kick in? does this have to happen necessarily? is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is change? maybe the rule of thumb is enough here? #revisit 
+			- maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
+				- related: [[13-5b2j There is no natural rate of interest in reality]]
 ### 15. sometimes mistakes are made
 - the Noah rule and prediction (p. 80)
 	- relate with payoff notes
@@ -164,7 +203,7 @@ date: 2024-08-15
 		- Cost can be controlled (James J. Hill)
 	- Buffett’s pitch (1:35:00)
 	- There would be no auto industry with horses
-- Buffett munger episode #286
+- Buffett munger bevelin episode #286
 	- relate (as well as create)
 		- The former can be as powerful as the latter
 			- also avoiding bad ones
@@ -184,7 +223,15 @@ date: 2024-08-15
 	- no master plans
 		- keep reacting
 	- communicate who when what why
-	- on interest rate (48:00~)
+	- interest rate to asset price is what gravity is to apple (48m)
+	- brand matters
+	- learning is about changing your behavior, not memorization (53m)
+		- in other words, effect in the real world (relate with knowledge impacts reality note)
+	- human nature never changes (55m)
+		- challenge this #revisit 
+	- customer is the boss—just cut out what irritates them (1h1m)
+	- play with good players—the story of eddie (1h5m)
+	- look for weak competition—competence is relative concept (1h6m)
 - on buffett and munger (#380) ~32m
 	- yogi berra on observing (9m)
 	- cut envy
