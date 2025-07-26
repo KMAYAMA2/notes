@@ -130,6 +130,89 @@ date: 2024-08-15
 ## part ii
 - on having low expectations (p. 17)
 - nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+## part iii
+- investment is business of capital allocation (p. 134)
+- on zero and negative interest rates (pp. 135-136)
+	- check the timeline of quotes
+- investment is about the return, when, and how sure you are  (p. 136)
+- what is smart at one price is dumb at another (p. 137)
+- outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
+- when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
+- the decision should be obvious (p. 138)
+- get rich slow (p. 139)
+- really good opportunities aren’t often and won’t last long (p. 139)
+- you get paid for being right (p. 140) 
+	- relate with naval
+- on bull market and sex (p. 141)
+- human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
+- on fear and greed as unpredictable diseases (p. 142)
+- horse and auto industry (p. 142)
+	- relate with other memo
+- you can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
+	- relate with knowledge and performance notes
+- there are mispricings (p. 143)
+	- relate with there is no objective mispricing memos and notes
+- deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
+	- what is deprival-superreaction tendency? #revisit 
+- when you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
+- See’s Candies (pp. 145-146)
+- constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
+	- this doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
+- Internet isn’t going to affect how people shave (p. 147)
+	- somehow reminded me of Death Stranding
+	- ask: what doesn’t change with AI? #revisit 
+	- ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
+- the law of least effort >>> change (p. 147)
+	- relate with loss aversion notes
+- the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
+	- relate with the first quote in /Buffett 
+	- this applies to anything (e.g., poker)
+- …
+- don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
+	- relate with naval’s quote and relate note on redefining the game
+- allocate your time according to your talent (p. 182)
+	- relate with DMU (diminishing marginal utility) notes #revisit 
+- just pick weak competitions (p. 183)
+- get in the right train, and why “idiots” can get rich (p. 184)
+	- relate with marc andreessen’s emphasis on being in the right business
+		- ask: am I in the right business? #revisit 
+- microeconomics >>> macroeconomics (p. 185)
+- buy good businesses run by good people in good places. macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
+- no rainbow without a cloud or a storm (p. 187)
+	- relate with being greedy when others are fearful
+- On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
+	- relate with quotes from /Holmes
+	- the statement here clearly shows Buffett’s view that the Portfolio Structure will reflect the underlying Plan Structure
+		- does Lachmann share the same view?
+		- can the Portfolio Structure change the Plan Structure not temporality or on surface but substantially?
+			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
+				- if so, what’s the implication for Buffett’s view? #revisit 
+- roughly right >>> precisely wrong (p. 189)
+- common sense >>> computer models (p. 189)
+- you shouldn’t need a spreadsheet to decide (p. 190)
+	- relate with decision should be obvious memo from (p. 138) above
+- people calculate too much and think too little (p. 190)
+	- relate with what counts often cannot be counted
+- it’s not a competency if you don’t know the edge of it (p. 192) #revisit 
+- on one or few factors. less is often more. (p. 192)
+- Sandy Gottesman (p. 193)
+- write down your investment decision, preferably in a paragraph (p. 193) #TODO 
+- investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
+	- the statement here implies that nothing is objectively mispriced #revisit 
+		- relate with there is no such thing as mispricing note and refine it to there is no such thing as objectively mispriced #TODO 
+- Mr. Market >>> PnL (p. 195)
+	- to be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
+		- relate with other memos and notes elsewhere—you want to use Mr. Market, never to be used
+- the playing field (the Plan Structure) >>> scoreboard (the Portfolio Structure) (p. 196)
+- not where the puck is, but where it’s going (p. 196)
+	- relate with price is fundamentally about future notes
+- risk is loss of purchasing power (p. 197)
+	- why does Buffett not invest in Bitcoin?
+- simple stuff is generally overlooked (p. 197)
+	- relate with simple stuff might not spread fast memo
+- questions to ask when investing (p. 197)
+- best time to get rick is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
+	- relate with cash is the gun to hunt rare fast-moving elephants memo
 ## part iv
 - get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
 - when it’s too simple it might not spread fast. (p. 202)
