@@ -329,3 +329,21 @@ date: 2024-08-15
 	- you wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
 		- the same applies to American corporations and their histories (29m)
 	- not buying Belridge because munger didn’t have “enough” cash (32m)
+	- not paying attention to what other people think should apply to investment (i.e., to price quotations) (35m)
+		- Jeff Bezos story on Amazon’s stock price going down from $103 to $6
+	- share what’s important to you
+	- Variance in listed companies’ CEOs ≠ that of Olympic team. So if you find good ones stick with them, because they are rare.
+		- relate with knowledge is rare notes
+	- Isadore Sharpe doubling down on ads when everyone was cutting it down because they saw it as a cost.
+	- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. Projects >>> plan. #revisit 
+	- Be easy to interface with (49m)
+	- Think about and focus on what counts for the business, and eliminate everything else.
+	- Specialization = focus = play your game (53m) 
+		- e.g., Todd Graves (chicken fingers guy)
+	- If you’re not sure if it’s your game, it likely isn’t. Know your circle of competence.
+	- On internet (59m) 
+		- Billy Durant (of GM)—he was in horse carrying business initially
+	- Learning is about changing your behavior. 
+		- Buffett with Belridge Oil, Intel, Disney, and Amazon.
+	- Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 
+		- e.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country), Coca Cola and fridge, Rockefeller and Ford.
