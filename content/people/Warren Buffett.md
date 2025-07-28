@@ -2,6 +2,227 @@
 date: 2024-08-15
 ---
 - “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
+# Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
+## part i
+- prevention is primarily about avoiding ruin (p. 4)
+- relate #41 on relating ideas
+- repeat what works (p. 7)
+- independent thinking over imitation (p. 9)
+- on inversion (p. 10)
+- there’s never a shortage of human folly (p. 11)
+	- personal thought: you will find more new errors and you will increasingly get better at finding them
+		- partly because these follies are usually cross boundaries #revisit 
+		- relate with similar note on surprises and ability to detect them
+			- Buffett and Munger meets PG again
+- grand chess masters operate by exclusion, not by speed (p. 12)
+	- relate with Rockefeller’s emphasis on quality of information over speed
+- rochefoucauld quote on seeming clever (p. 14)
+	- relate with notes on nerds
+- samuel johnson quote on understanding (p. 15)
+- on ignorance removal
+	- we will be always ignorant
+		- relate with we will be always anti-rational note, and infinity hotel note (i.e., any notes with kaleidoscopic worldview)
+## part ii
+- on having low expectations (p. 17)
+- nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+- Overfear and overavoidance of addiction can never hurt you (p. 19)
+- Study history, Buffett likes financial history (pp. 19-20)
+- If you define all problems as a nail, you’ll only look for a hammer (p. 21)
+- …..
+- Masterplan implies expectations (p. 37)
+- …..
+- Say no (p. 51)
+- On fretting on leveraged financial institutions. (p. 55) 
+	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
+		- this was mentioned in founders #380, 
+		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
+- Low expectations, humor, friends and family (p. 57)
+- Interest rate independent (p. 58) 
+	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
+- margin of safety is there to avoid ruin. on that one time out of 100. (pp. 58-59)
+	- relate with the same memos
+	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
+- Usually when the time is right the credit is tight. Have loaded gun. (p. 59)
+- Shakespeare quote on the black swan event (p. 61) 
+	- relate probability notes with black swan notes
+- Be wary of low probability events in financial arena than natural arena (p. 61) 
+	- because knowledge is subjective and created subjectively it’s more wild than nature. #revisit 
+- Work with people who understand the Lucretius problem (p. 61)
+- Margin of safety is related with the black swan (p. 62)
+- And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
+- Relate with give it time and distance yourself notes (p. 64)
+- Improving yourself >>> penalizing others. (p. 65) 
+	- relate with stupidity notes
+- Envy is simply negative-sum, rule it out (p. 66)
+- …..
+- The best knows that they are playing their game (p. 74)
+- 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
+	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
+- Real knowledge is knowing one’s ignorance, Confucius (p. 77)
+- The shoe button complex (p. 77) 
+	- relate with how being successful in one area doesn’t translate to other areas automatically notes.
+- Planck knowledge >>> chauffeur knowledge (p. 78) 
+	- relate with imitation notes 
+- Beware the articulate incompetent (p. 78)
+- also beware the twaddler (p. 78) 
+	- relate with humans can do stupid things note.
+- it’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
+- Relate stupid people notes and pigs (p. 81) 
+- Buffett version of surround yourself with better people (p. 81) 
+	- relate with similar notes
+- When you have doubts about a person, you can pass. There are many other nice ones to interface with (p. 82)
+- On trust (p. 83) 
+	- no matter how many contracts you sign, the bad actors will find ways
+		- relate with black swan
+	- relate this with Bitcoin and smart contract notes. #revisit 
+- On decentralization and no second guessing (p. 84)
+- Leave them alone, and treat them they you would like to be treated if the role is reversed, the Golden Rule again (p. 85) #revisit 
+- Lack of oversight means we miss some things but overall it is a benefit (pp. 86-87) 
+	- relate with long term thinking memos and notes.
+- Culture, not rule books, determines organizations (p. 87) 
+	- elaborate #revisit
+- People see what’s been done than said, both in children and businesses (p. 87) 
+	- relate with concentric learning notes
+- …..
+- Try to formulate the opposing argument better than the opponents (p. 114) 
+	- relate with knowing creation is about debate and reconfiguration.
+- Medical maxim, first do no harm. (p. 114)
+- Exactitude /= truth (p. 114)
+- Montaigne: “yes but is it true?” (p. 115)
+- Science is about not fooling yourself (p. 115)
+- Take ideas seriously and show how absurd that idea is (p. 116) 
+	- this is implied in extending the Portfolio Structure (price quotations) to the Plan Structure (the underlying businesses) #revisit 
+- On writing and orangutan theory (pp. 117-118)
+- Simplicity reflects clear thinking (p. 118) 
+	- and it’s rare
+## part iii
+- investment is business of capital allocation (p. 134)
+- on zero and negative interest rates (pp. 135-136)
+	- check the timeline of quotes
+- investment is about the return, when, and how sure you are  (p. 136)
+- what is smart at one price is dumb at another (p. 137)
+- outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
+- when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
+- the decision should be obvious (p. 138)
+- get rich slow (p. 139)
+- really good opportunities aren’t often and won’t last long (p. 139)
+- you get paid for being right (p. 140) 
+	- relate with naval
+- on bull market and sex (p. 141)
+- human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
+- on fear and greed as unpredictable diseases (p. 142)
+- horse and auto industry (p. 142)
+	- relate with other memo
+- you can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
+	- relate with knowledge and performance notes
+- there are mispricings (p. 143)
+	- relate with there is no objective mispricing memos and notes
+- deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
+	- what is deprival-superreaction tendency? #revisit 
+- when you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
+- See’s Candies (pp. 145-146)
+- constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
+	- this doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
+- Internet isn’t going to affect how people shave (p. 147)
+	- somehow reminded me of Death Stranding
+	- ask: what doesn’t change with AI? #revisit 
+	- ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
+- the law of least effort >>> change (p. 147)
+	- relate with loss aversion notes
+- the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
+	- relate with the first quote in /Buffett 
+	- this applies to anything (e.g., poker)
+- …..
+- don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
+	- relate with naval’s quote and relate note on redefining the game
+- allocate your time according to your talent (p. 182)
+	- relate with DMU (diminishing marginal utility) notes #revisit 
+- just pick weak competitions (p. 183)
+- get in the right train, and why “idiots” can get rich (p. 184)
+	- relate with marc andreessen’s emphasis on being in the right business
+		- ask: am I in the right business? #revisit 
+- microeconomics >>> macroeconomics (p. 185)
+- buy good businesses run by good people in good places. macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
+- no rainbow without a cloud or a storm (p. 187)
+	- relate with being greedy when others are fearful
+- On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
+	- relate with quotes from /Holmes
+	- the statement here clearly shows Buffett’s view that the Portfolio Structure will reflect the underlying Plan Structure
+		- does Lachmann share the same view?
+		- can the Portfolio Structure change the Plan Structure not temporality or on surface but substantially?
+			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
+				- if so, what’s the implication for Buffett’s view? #revisit 
+- roughly right >>> precisely wrong (p. 189)
+- common sense >>> computer models (p. 189)
+- you shouldn’t need a spreadsheet to decide (p. 190)
+	- relate with decision should be obvious memo from (p. 138) above
+- people calculate too much and think too little (p. 190)
+	- relate with what counts often cannot be counted
+- it’s not a competency if you don’t know the edge of it (p. 192) #revisit 
+- on one or few factors. less is often more. (p. 192)
+- Sandy Gottesman (p. 193)
+- write down your investment decision, preferably in a paragraph (p. 193) #TODO 
+- investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
+	- the statement here implies that nothing is objectively mispriced #revisit 
+		- relate with there is no such thing as mispricing note and refine it to there is no such thing as objectively mispriced #TODO 
+- Mr. Market >>> PnL (p. 195)
+	- to be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
+		- relate with other memos and notes elsewhere—you want to use Mr. Market, never to be used
+- the playing field (the Plan Structure) >>> scoreboard (the Portfolio Structure) (p. 196)
+- not where the puck is, but where it’s going (p. 196)
+	- relate with price is fundamentally about future notes
+- risk is loss of purchasing power (p. 197)
+	- why does Buffett not invest in Bitcoin?
+- simple stuff is generally overlooked (p. 197)
+	- relate with simple stuff might not spread fast memo
+- questions to ask when investing (p. 197)
+- best time to get rick is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
+	- relate with cash is the gun to hunt rare fast-moving elephants memo
+## part iv
+- get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
+- when it’s too simple it might not spread fast. (p. 202)
+- narrow it down to the important and knowable. (p. 203)
+	- relate with solve important problems note
+- circle of competence is about knowing your limit (p. 203)
+	- relate with mark twain quote #TODO 
+	- it’s more epistemological concept than I initially thought
+- you mix raisins and turds, you still get turds (p. 205)
+- mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
+	- relate with media notes
+	- relate with biases notes
+- get the no-brainers off the desk fast (p. 207)
+	- do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
+- edward tuft quote (p. 207)
+- it’s about *personal* opportunity costs, and since your value scale changes, you have to reevaluate your opportunity costs all the time (pp. 208-209)
+	- relate with value scales change notes
+	- relate with recalibration notes
+- the more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
+	- this is implied in personal opportunity costs argument, and also in value scales notes (particularly, how what you don’t know cannot be in your value scale note)
+	- relate with it-gets-easier notes
+	- relate with how nothing is evaluated independently by us memo (p. 18)
+	- relate with munger’s comment on li lu
+- do with what’s available (p. 210)
+	- similar in spirit with concentric circle (how children acquire languages) note
+		- that is, you have to widen your circle of competence (i think you can replace this with conception of reality) reflexively
+- comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
+- the goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
+- Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
+- ask: then what? (p. 213)
+- you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
+- parade-tiptoe problem (p. 215)
+	- in spirit this is spontaneous disorder phenomenon—but you can avoid this if you think through
+- on Gresham and pejoristic system (p. 216)
+- don’t fool yourself (p. 217)
+	- you truly communicate when trying to fool someone—because you must think really hard about what the counterpart is thinking
+		- inspired by 福本伸行’s カイジ (mentioned in コテンラジオ: ペリー編)
+- look at the corporate cemetery (p. 218)
+- opportunity cost filter + compared to what filter + then what filter (p. 219)
+	- you have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
+		- you have to figure out the multiverse—relate this with idea maze notes
+- checklists are no substitute for thinking, but powerful (p. 221)
+- always surprise the enemy (p. 221)
+	- relate with black swan notes and surprise notes
+	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
 - **return matters in comparison with other possible returns**
 	- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
@@ -106,190 +327,6 @@ date: 2024-08-15
 - the Noah rule and prediction (p. 80)
 	- relate with payoff notes
 - investment is most intelligent when it’s most businesslike – Ben Graham (p. 81)
-# Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
-## part i
-- prevention is primarily about avoiding ruin (p. 4)
-- relate #41 on relating ideas
-- repeat what works (p. 7)
-- independent thinking over imitation (p. 9)
-- on inversion (p. 10)
-- there’s never a shortage of human folly (p. 11)
-	- personal thought: you will find more new errors and you will increasingly get better at finding them
-		- partly because these follies are usually cross boundaries #revisit 
-		- relate with similar note on surprises and ability to detect them
-			- Buffett and Munger meets PG again
-- grand chess masters operate by exclusion, not by speed (p. 12)
-	- relate with Rockefeller’s emphasis on quality of information over speed
-- rochefoucauld quote on seeming clever (p. 14)
-	- relate with notes on nerds
-- samuel johnson quote on understanding (p. 15)
-- on ignorance removal
-	- we will be always ignorant
-		- relate with we will be always anti-rational note, and infinity hotel note (i.e., any notes with kaleidoscopic worldview)
-## part ii
-- on having low expectations (p. 17)
-- nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
-- Say no (p. 51)
-- On fretting on leveraged financial institutions. (p. 55) 
-	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
-		- this was mentioned in founders #380, 
-		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
-- Low expectations, humor, friends and family (p. 57)
-- Interest rate indepedence (p. 58) 
-	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
-- margin of safety is there to avoid ruin. on that one time out of 100. (pp. 58-59)
-	- relate with the same memos
-	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
-- Usually when the time is right the credit is tight. Have loaded gun. (p. 59)
-- Shakespeare quote on the black swan event (p. 61) 
-	- relate probability notes with black swan notes
-- Be wary of low probability events in financial arena than natural arena (p. 61) 
-	- because knowledge is subjective and created subjectively it’s more wild than nature. #revisit 
-- Work with people who understand the Lucretius problem (p. 61)
-- Margin of safety is related with the black swan (p. 62)
-- And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
-- Relate with give it time and distance yourself notes (p. 64)
-- Improving yourself >>> penalizing others. (p. 65) 
-	- relate with stupidity notes
-- Envy is simply negative-sum, rule it out (p. 66)
-- …
-- The best knows that they are playing their game (p. 74)
-- 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
-	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
-- Real knowledge is knowing one’s ignorance, Confucius (p. 77)
-- The shoe button complex (p. 77) 
-	- relate with how being successful in one area doesn’t translate to other areas automatically notes.
-- Planck knowledge >>> chauffeur knowledge (p. 78) 
-	- relate with imitation notes 
-- Beware the articulate incompetent (p. 78)… 
-## part iii
-- investment is business of capital allocation (p. 134)
-- on zero and negative interest rates (pp. 135-136)
-	- check the timeline of quotes
-- investment is about the return, when, and how sure you are  (p. 136)
-- what is smart at one price is dumb at another (p. 137)
-- outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
-- when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
-- the decision should be obvious (p. 138)
-- get rich slow (p. 139)
-- really good opportunities aren’t often and won’t last long (p. 139)
-- you get paid for being right (p. 140) 
-	- relate with naval
-- on bull market and sex (p. 141)
-- human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
-- on fear and greed as unpredictable diseases (p. 142)
-- horse and auto industry (p. 142)
-	- relate with other memo
-- you can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
-	- relate with knowledge and performance notes
-- there are mispricings (p. 143)
-	- relate with there is no objective mispricing memos and notes
-- deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
-	- what is deprival-superreaction tendency? #revisit 
-- when you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
-- See’s Candies (pp. 145-146)
-- constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
-	- this doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
-- Internet isn’t going to affect how people shave (p. 147)
-	- somehow reminded me of Death Stranding
-	- ask: what doesn’t change with AI? #revisit 
-	- ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
-- the law of least effort >>> change (p. 147)
-	- relate with loss aversion notes
-- the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
-	- relate with the first quote in /Buffett 
-	- this applies to anything (e.g., poker)
-- …
-- don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
-	- relate with naval’s quote and relate note on redefining the game
-- allocate your time according to your talent (p. 182)
-	- relate with DMU (diminishing marginal utility) notes #revisit 
-- just pick weak competitions (p. 183)
-- get in the right train, and why “idiots” can get rich (p. 184)
-	- relate with marc andreessen’s emphasis on being in the right business
-		- ask: am I in the right business? #revisit 
-- microeconomics >>> macroeconomics (p. 185)
-- buy good businesses run by good people in good places. macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
-- no rainbow without a cloud or a storm (p. 187)
-	- relate with being greedy when others are fearful
-- On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
-	- relate with quotes from /Holmes
-	- the statement here clearly shows Buffett’s view that the Portfolio Structure will reflect the underlying Plan Structure
-		- does Lachmann share the same view?
-		- can the Portfolio Structure change the Plan Structure not temporality or on surface but substantially?
-			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
-				- if so, what’s the implication for Buffett’s view? #revisit 
-- roughly right >>> precisely wrong (p. 189)
-- common sense >>> computer models (p. 189)
-- you shouldn’t need a spreadsheet to decide (p. 190)
-	- relate with decision should be obvious memo from (p. 138) above
-- people calculate too much and think too little (p. 190)
-	- relate with what counts often cannot be counted
-- it’s not a competency if you don’t know the edge of it (p. 192) #revisit 
-- on one or few factors. less is often more. (p. 192)
-- Sandy Gottesman (p. 193)
-- write down your investment decision, preferably in a paragraph (p. 193) #TODO 
-- investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
-	- the statement here implies that nothing is objectively mispriced #revisit 
-		- relate with there is no such thing as mispricing note and refine it to there is no such thing as objectively mispriced #TODO 
-- Mr. Market >>> PnL (p. 195)
-	- to be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
-		- relate with other memos and notes elsewhere—you want to use Mr. Market, never to be used
-- the playing field (the Plan Structure) >>> scoreboard (the Portfolio Structure) (p. 196)
-- not where the puck is, but where it’s going (p. 196)
-	- relate with price is fundamentally about future notes
-- risk is loss of purchasing power (p. 197)
-	- why does Buffett not invest in Bitcoin?
-- simple stuff is generally overlooked (p. 197)
-	- relate with simple stuff might not spread fast memo
-- questions to ask when investing (p. 197)
-- best time to get rick is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
-	- relate with cash is the gun to hunt rare fast-moving elephants memo
-## part iv
-- get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
-- when it’s too simple it might not spread fast. (p. 202)
-- narrow it down to the important and knowable. (p. 203)
-	- relate with solve important problems note
-- circle of competence is about knowing your limit (p. 203)
-	- relate with mark twain quote #TODO 
-	- it’s more epistemological concept than I initially thought
-- you mix raisins and turds, you still get turds (p. 205)
-- mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
-	- relate with media notes
-	- relate with biases notes
-- get the no-brainers off the desk fast (p. 207)
-	- do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
-- edward tuft quote (p. 207)
-- it’s about *personal* opportunity costs, and since your value scale changes, you have to reevaluate your opportunity costs all the time (pp. 208-209)
-	- relate with value scales change notes
-	- relate with recalibration notes
-- the more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
-	- this is implied in personal opportunity costs argument, and also in value scales notes (particularly, how what you don’t know cannot be in your value scale note)
-	- relate with it-gets-easier notes
-	- relate with how nothing is evaluated independently by us memo (p. 18)
-	- relate with munger’s comment on li lu
-- do with what’s available (p. 210)
-	- similar in spirit with concentric circle (how children acquire languages) note
-		- that is, you have to widen your circle of competence (i think you can replace this with conception of reality) reflexively
-- comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
-- the goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
-- Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
-- ask: then what? (p. 213)
-- you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
-- parade-tiptoe problem (p. 215)
-	- in spirit this is spontaneous disorder phenomenon—but you can avoid this if you think through
-- on Gresham and pejoristic system (p. 216)
-- don’t fool yourself (p. 217)
-	- you truly communicate when trying to fool someone—because you must think really hard about what the counterpart is thinking
-		- inspired by 福本伸行’s カイジ (mentioned in コテンラジオ: ペリー編)
-- look at the corporate cemetery (p. 218)
-- opportunity cost filter + compared to what filter + then what filter (p. 219)
-	- you have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
-		- you have to figure out the multiverse—relate this with idea maze notes
-- checklists are no substitute for thinking, but powerful (p. 221)
-- always surprise the enemy (p. 221)
-	- relate with black swan notes and surprise notes
-	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 # other sources
 - Buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
