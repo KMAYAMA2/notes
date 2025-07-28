@@ -106,7 +106,6 @@ date: 2024-08-15
 - the Noah rule and prediction (p. 80)
 	- relate with payoff notes
 - investment is most intelligent when it’s most businesslike – Ben Graham (p. 81)
-
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## part i
 - prevention is primarily about avoiding ruin (p. 4)
@@ -130,6 +129,29 @@ date: 2024-08-15
 ## part ii
 - on having low expectations (p. 17)
 - nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+- Say no (p. 51)
+- On fretting on leveraged financial institutions. (p. 55) 
+	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
+		- this was mentioned in founders #380, 
+		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
+- Low expectations, humor, friends and family (p. 57)
+- Interest rate indepedence (p. 58) 
+	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
+- …
+- Relate with give it time and distance yourself notes (p. 64)
+- Improving yourself >>> penalizing others. (p. 65) 
+	- relate with stupidity notes
+- Envy is simply negative-sum, rule it out (p. 66)
+- …
+- The best knows that they are playing their game (p. 74)
+- 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
+	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
+- Real knowledge is knowing one’s ignorance, Confucius (p. 77)
+- The shoe button complex (p. 77) 
+	- relate with how being successful in one area doesn’t translate to other areas automatically notes.
+- Planck knowledge >>> chauffeur knowledge (p. 78) 
+	- relate with imitation notes 
+- Beware the articulate incompetent (p. 78)… 
 ## part iii
 - investment is business of capital allocation (p. 134)
 - on zero and negative interest rates (pp. 135-136)
@@ -347,3 +369,4 @@ date: 2024-08-15
 		- Buffett with Belridge Oil, Intel, Disney, and Amazon.
 	- Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 
 		- e.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country), Coca Cola and fridge, Rockefeller and Ford.
+			- if you keep changing your game you wouldn’t notice these #revisit 
