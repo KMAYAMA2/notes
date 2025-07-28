@@ -137,7 +137,17 @@ date: 2024-08-15
 - Low expectations, humor, friends and family (p. 57)
 - Interest rate indepedence (p. 58) 
 	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
-- …
+- margin of safety is there to avoid ruin. on that one time out of 100. (pp. 58-59)
+	- relate with the same memos
+	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
+- Usually when the time is right the credit is tight. Have loaded gun. (p. 59)
+- Shakespeare quote on the black swan event (p. 61) 
+	- relate probability notes with black swan notes
+- Be wary of low probability events in financial arena than natural arena (p. 61) 
+	- because knowledge is subjective and created subjectively it’s more wild than nature. #revisit 
+- Work with people who understand the Lucretius problem (p. 61)
+- Margin of safety is related with the black swan (p. 62)
+- And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
 - Relate with give it time and distance yourself notes (p. 64)
 - Improving yourself >>> penalizing others. (p. 65) 
 	- relate with stupidity notes
