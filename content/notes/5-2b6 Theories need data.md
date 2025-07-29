@@ -9,6 +9,8 @@ date: 2025-06-19
 
 > “More is missed by not looking than not knowing.” – Thomas McCrae
 
+Not all theories need data—but every scientific theories (or any theories concerned with reality) need data. #revisit 
+
 Next:
 - [[5-2b7 The skeptical empiricist doubts both data and theory]]
 

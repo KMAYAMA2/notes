@@ -17,10 +17,15 @@ date: 2025-06-24
 
 > “You can observe a lot by just watching.” – Yogi Berra
 
+As Popper famously argued, you don’t just “observe” the world as it is, because your observation necessarily reflects your worldview. The essence of observation is self-reflection. #revisit 
+
 Related: #develop 
+- [[1-2g2f The virtual-reality rendering of their environment (i.e., creating knowledge about its niches) is the characteristic means by which human beings (and life in general) survive]]
+- [[1-2g2j1a Because we can only be with the virtual-reality, all our renderings will be inaccurate]]
 - [[4-1d3 The most effective communication is to listen]]
 - [[5-2b5 Theories precede data]]
 - [[5-2b6 Theories need data]]
 - [[5-2b7 The skeptical empiricist doubts both data and theory]]
+- [[10-2 Thick descripting myself — a configuration of ideas which is me]]
 - Observe others, and apply those insights to yourself:
 	- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
