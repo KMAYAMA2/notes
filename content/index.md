@@ -2,15 +2,13 @@
 title: About this project
 date: 2024-07-23
 ---
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |explore connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance, history, culture, linguistics (semiotics), productivity, etc—basically everything related to life.
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I’m [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |exploring connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance, history (biographies), culture, linguistics (semiotics), productivity, etc—basically everything related to life.
 
 For starters:
 - Check my **[Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
 - Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
 
-Although [[4-1a4b6a1 Future self is enough of an audience |future self]] is enough of an audience, I'm making these notes public because [[8-2d1b Forwardable insights can lead to network effects |forwardable insights]] can lead to [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth |network effects]]—I’m trying to [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’. |find like-minded people]] on [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |the internet]].
-
-Occasionally I share my micro insights on [X](https://twitter.com/kmayama2).
+I’m currently working on [[Warren Buffett]].
 
 The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
 
@@ -62,8 +60,6 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
 - **Life**
   - Use *[[3-1b2 Use the Fun Criterion to filter what problems to work on |the Fun Criterion]]*
   - Love bad news—[[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations. |always question to falsify your idea and theory.]] How fast you can invalidate matters as much as how fast you can build them.
-- **Longevity**
-  - [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |You have to realign the incentives of capitalist entities you are outsourcing your health]], or you have to take care of yourself
 
-It's important to use categories, but [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs. |the reality doesn't have categories.]] 'Academic subjects' are social constructs. Always prioritize solving [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT. |your own problems]].
-
+---
+Occasionally I share my micro insights on [X](https://twitter.com/kmayama2).
