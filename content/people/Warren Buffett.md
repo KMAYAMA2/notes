@@ -5,23 +5,27 @@ date: 2024-08-15
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## part i
 - prevention is primarily about avoiding ruin (p. 4)
+	- related: [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - relate #41 on relating ideas
 - repeat what works (p. 7)
 - independent thinking over imitation (p. 9)
 - on inversion (p. 10)
 - there’s never a shortage of human folly (p. 11)
 	- personal thought: you will find more new errors and you will increasingly get better at finding them
-		- partly because these follies are usually cross boundaries #revisit 
-		- relate with similar note on surprises and ability to detect them
-			- Buffett and Munger meets PG again
+		- partly because these follies are usually cross boundaries—hence relatively easy to be missed #revisit 
+		- Buffett and Munger meets PG again—relate with similar note on surprises and ability to detect them
+			- related: [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
+			- related: [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
 - grand chess masters operate by exclusion, not by speed (p. 12)
 	- relate with Rockefeller’s emphasis on quality of information over speed
 - rochefoucauld quote on seeming clever (p. 14)
-	- relate with notes on nerds
+	- related: [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 - samuel johnson quote on understanding (p. 15)
 - on ignorance removal
-	- we will be always ignorant
-		- relate with we will be always anti-rational note, and infinity hotel note (i.e., any notes with kaleidoscopic worldview)
+	- we will be always ignorant (i.e., anti-rational)
+		- related: [[1-2 We are fallible]]
+		- related: [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
+		- related: [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
 ## part ii
 - on having low expectations (p. 17)
 - nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
@@ -47,6 +51,7 @@ date: 2024-08-15
 	- focus on few variables, non-linear returns, extreme performance, big wave.
 - …..
 - Masterplan implies expectations (p. 37)
+- the Golden Rule >>> self-serving bias (p. 38)
 - …..
 - Say no (p. 51)
 - On fretting on leveraged financial institutions. (p. 55) 
@@ -119,6 +124,22 @@ date: 2024-08-15
 - On writing and orangutan theory (pp. 117-118)
 - Simplicity reflects clear thinking (p. 118) 
 	- and it’s rare
+- …..
+- the problem isn’t getting rich, it’s staying sane (p. 128)
+- You Only Have to Get Rich Once (p. 128)
+- First think about what happens when it goes wrong, instead of the upside (p. 130)
+- Always weigh (and compare) the consequences of being wrong (p. 131) #revisit 
+- When playing Russian roulette, the shot not going off should alarm the next (p. 131)
+- To finish first, first finish (p. 131)
+- The first and second laws of thermodynamics approach applies to investing (p. 132) 
+	- if it doesn’t work, say no thanks
+	- how about short? #revisit 
+- All I want to know is if there are any factors that can cause ruin, and if any never go there (p. 132)
+- Understand the downside five to ten years from now (p. 132) 
+	- relate with Amara’s law.
+- Fact check quote #1098 (p. 132)
+- Is the upside worth it? If not worth doing it, don’t (p. 132)
+- On Napoleon’s mother (p. 133)
 ## part iii
 - investment is business of capital allocation (p. 134)
 - on zero and negative interest rates (pp. 135-136)
