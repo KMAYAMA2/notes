@@ -28,6 +28,23 @@ date: 2024-08-15
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
 - Study history, Buffett likes financial history (pp. 19-20)
 - If you define all problems as a nail, you’ll only look for a hammer (p. 21)
+- Having all the tools is the antidote for being a-man-with-a-hammer syndrome (p. 21)
+- Ask why. Use Occam’s razor. (p. 23) 
+	- relate with minimum idea note.
+- Einstein’s razor. Munger’s razor. (p. 24) #revisit 
+- Get the key few factors right. Douglas Hofstadter’s quote. (p. 24)
+- Backups (redundancy), breakpoints (weakest links), critical mass (the more is different) (p. 25)
+- The Golden Rule again (p. 26)
+- Lord Peter Wimsey’s quote on quotes (p. 26)
+- Patience and slight difference in returns make for huge difference when compounded, so get both (p. 27)
+- Rousseau on real wisdom (p. 28) 
+	- relate with Sherlock
+- George Santayana: to understand is to know what to do (p. 28) 
+	- relate with leaning is about changing behavior memos and notes.
+- Wisdom is about how to use knowledge (p. 28) 
+	- relate with Naval.
+- Munger on extreme success (p. 29) 
+	- focus on few variables, non-linear returns, extreme performance, big wave.
 - …..
 - Masterplan implies expectations (p. 37)
 - …..
@@ -83,6 +100,13 @@ date: 2024-08-15
 	- elaborate #revisit
 - People see what’s been done than said, both in children and businesses (p. 87) 
 	- relate with concentric learning notes
+- Businesses are acquired to be held—not to be exited out for cash—the businesses generate cash. (p. 88) #revisit 
+	- it’s like holding its own version of SP500. #revisit 
+- A good spouse and a good business partner, you have to deserve both (p. 89)
+- Garrett Hardin’s quote on the benefit of having two-way debate (p. 90) 
+	- relate two-way debate note and observation note.
+- No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
+	- and if you’re still worried, correct it.
 - …..
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowing creation is about debate and reconfiguration.
