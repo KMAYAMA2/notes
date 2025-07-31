@@ -269,6 +269,32 @@ date: 2024-08-15
 	- relate with black swan notes and surprise notes
 	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
+### 1.
+- Investment is about cash (p. 1)
+- And return (p. 1) 
+	- relate return is about how much and when and surety, as well as comparable ones.
+### 2. 
+- Because it’s all about cash, the business specifics don’t matter (p. 2) 
+	- relate with money abstraction notes.
+- Work so the a range of possibilities (p. 3) 
+	- relate with evolution and could’ve been notes.
+- Intrinsic value approach is the only logical approach (p. 3) 
+### 3. 
+- Bond /= equity (p. 4) 
+	- relate with MES notes, also revisit Ayache’s argument on CBs.
+- Book value doesn’t matter, it’s per-share intrinsic value that matters (p. 4)
+- any investment (intrinsic value calculation) must be calculated using its excess in comparison with some other possible investment (p. 5) 
+- Div yield, PER, PBR, growth rates, etc per se don’t matter (p. 5)
+- Discounted-flows-of-cash is what matters. Volatility doesn’t matter. (p. 6)
+- Always subtract capex (p. 6) 
+	- relate with capital per se is not permanent note.
+- Earnings is arbitrary (p. 6) 
+	- there is no objective number.
+- Know what to measure, otherwise you might end up making up the number (p. 7)
+### 4. 
+- Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
+- Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
+### 5. business characteristics
 - **return matters in comparison with other possible returns**
 	- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
 - inverted: don’t invest in companies signaling DMU
@@ -277,7 +303,6 @@ date: 2024-08-15
 		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
 			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
-### 5. business characteristics
 #### c. the gruesome
 - sugar isn’t differentiated—unless someone does (p. 15)
 - in commoditized businesses, individually economic decision isn’t economic at all when considered collectively (p. 17)
