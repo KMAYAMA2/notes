@@ -1,3 +1,4 @@
+> 「之を知る者は之を好む者に如かず。之を好む者は之を楽しむ者に如かず。」– 孔子 (Confucius)
 
 Next:
 - [[3-1b2a Using the Fun Criterion is not synonymous with simply having fun]]

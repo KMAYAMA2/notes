@@ -1,6 +1,8 @@
 ---
 date: 2025-07-11
 ---
+There is no objective (or “natural”) price. 適正価格など存在しない.
+
 Relate with Lachmann #revisit 
 
 Related:

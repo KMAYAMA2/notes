@@ -16,7 +16,6 @@ Related:
 - [[3-1d2 The problem of what problems to solve includes the problem of deciding which tools-frameworks (e.g., tech stack, writing medium, criteria, objective, goals, exercise protocols) to use and improve upon]]
 - [[9-4c Someone who never writes has no fully formed ideas about anything nontrivial]]
 
-
 - [[3-1c3d1 Well-defined mini-projects can be recycled. Your future self won’t have to repeat himself for similar project.]]
 - [[7-1a2b For startups, growth is a constraint much like truth]]
 - [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
@@ -31,5 +30,7 @@ Additional high-level theories place more and more constraints on what the low-l
 
 In short: show up.
 	https://seths.blog/2010/12/the-first-rule-of-doing-work-that-matters/
+
+Ichiro used the same exact bat model throughout this career.
 
 #develop
