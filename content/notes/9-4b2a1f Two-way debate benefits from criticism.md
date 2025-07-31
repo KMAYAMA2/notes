@@ -15,3 +15,7 @@ Related:
 			- [[2-1a6c5 'Randomness' is the opportunity to reason abductively]]
 		- [[1-1a5a A real essay doesn’t take a position and then defend it (deductive). It starts with a question (abductive), in trying to figure something out.]]
 			- [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
+
+Counter-examples:
+- 趙高と胡亥: 馬鹿の語源 (no-man の排除)
+	- Counter-counter-example: 劉邦と張良

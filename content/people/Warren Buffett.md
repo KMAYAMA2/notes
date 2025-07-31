@@ -438,7 +438,9 @@ date: 2024-08-15
 		- stay in the game
 		- life gets you out of your weakest link (e.g., leverage)
 		- implication for market reform
-	- the world is driven by envy, not snger
+	- the world is driven by envy, not anger
+		- “the world is not driven by greed, but envy”
+			- relate with relativity note and social media notes #revisit 
 		- time is the best filter
 	- sol price’s membership model
 		- he wanted to avoid certain customers
