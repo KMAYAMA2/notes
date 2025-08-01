@@ -177,6 +177,27 @@ date: 2024-08-15
 - the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
 	- relate with the first quote in /Buffett 
 	- this applies to anything (e.g., poker)
+- You need the moat *and* the knight who can widen the moat. (p. 148)
+- Personal thought: having a moat challenges the basic economic assumption of competition (p. 149)
+- Pick (or be) the low-cost producer (p. 149)
+	- E.g., GEICO, The Nebraska Furniture Mart (p. 150)
+- Just take care of the customers (p. 151)
+	- E.g., ISCAR (p. 151)
+- Sam Walton’s quote on the customer (p. 151) 
+	- relate with consumer sovereignty notes.
+- Never abuse current clients by trying to get new ones. (p. 151) 
+	- relate with iteration notes, 
+	- the general rule here applies elsewhere in life
+- Eliminate what irritates the customer (p. 152) 
+	- this is inversion in play.
+- The Daily Racing Form, Reed-Elsevier (pp. 152-153)
+- Transportation and energy are essential (p. 153) 
+	- remember DS
+	- Berkshire’s energy businesses holding is composed such that all are recession resistant and uncorrelated and can withstand regulatory attack.
+- Moat of railroad companies is saturation (p. 154)
+- Homes, auto, and insurance are essential. (p. 154)
+- Have a special place on people’s mind then you can raise the price (p. 154) 
+	- relate with DMU notes and symbol (or association) notes
 - …..
 - don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
 	- relate with naval’s quote and relate note on redefining the game
