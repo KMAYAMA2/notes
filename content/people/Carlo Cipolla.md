@@ -1,7 +1,7 @@
 ---
 date: 2024-08-12
 ---
-That we should not deal with stupid people at all is well implied in [[Warren Buffett]] and [[Charlie Munger]]’s emphasis on avoiding lousy people at all cost. Deal with companies like you deal with people (companies are managed by people after all)—just leave them alone instead of shorting them. Their focus on the fundamental is also implied because people’s expectation can be stupid, and you don’t want to deal with that, either. #revisit 
+That we should not deal with stupid people at all is well implied in [[Warren Buffett]] and [[Charlie Munger]]’s emphasis on avoiding lousy people at all cost. Deal with companies like you deal with people (companies are managed by people after all)—just leave them alone instead of shorting them, engaging with them, trying to profit from such engagements. Their focus on the fundamental is also implied because people’s expectation can be stupid, and you don’t want to deal with that, either. #revisit 
 # The Basic Laws of Human Stupidity
 - The First Basic Law
 	- **Always and inevitably everyone underestimates the number of stupid individuals in circulation**
