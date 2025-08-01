@@ -11,7 +11,7 @@ date: 2025-07-18
 - my thoughts on lachmann (ch. vi)
 	- his focus on the Control Structure somewhat anticipated activists and their influences
 - my thoughts on lachmann (ch. vii)
-	- **the invisible hand doesn’t exist independently**—it exists because of humans and to the extent of their knowledge—and since knowledge is created *ex nihilo*, in reality **it is not *the invisible hand* at play but *invisible hands* then**  
+	- **the invisible hand doesn’t exist independently**—it exists because of humans and to the extent of their knowledge—and since knowledge is created subjectively *ex nihilo*, it’s not one hand but many and it literally changes hands 
 
 # How I found Lachmann
 ## 20250701
@@ -74,3 +74,7 @@ date: 2025-07-18
 	- We can discuss productivity in *marginal terms*, but only with conjunction in terms of *knowledge held by those who are related to the productivity at hand*.
 		- That is, the factor’s **marginal productivity doesn’t exist objectively**—it exists only to the extent of the knowledge held by the producer who uses that factor.
 			- This is why **MPP curves cannot be aggregated**—they **are subjective just like any other preferences**.
+# 20250726
+- there is no beginning or end because there is no commensurable unit (e.g., time)
+	- as Lachmann said, knowledge is created in time, but not a function of it
+		- relate with there’s no tracing the origin notes
