@@ -1,8 +1,32 @@
 ---
 date: 2025-07-22
 ---
-- sam walton (founders #354) ~7m
+- Sam Walton (founders #234) ~34m
+	- Hedgehogs watch their basket carefully (Mark Twain) (7m)
+		- in other words, focus
+	- He copied others’ ideas really well (13m)
+	- First it was women’s underwear business (32m)
+	- It took 10 years for him to take the discounting idea seriously (33m)
+	- Buck the system and create little anarchy. Shake things up. (52m)
+	- Constraints are your friends. Always swim upstream. Out of necessity creation. (52m)
+- sam walton (founders #354) 
 	- munger says to focus on one or few variables
 		- and sam walton is the example
 	- do not confuse the simple idea with the ordinary person
 		- relate with association note
+	- Determination >>> intellect
+	- Be the smartest at where you compete
+	- JCPenney, customer satisfaction.
+	- Undercapitalized meant many things were created out of necessity.
+	- Businesses were in the small towns.
+	- Actions express priority.
+	- Repeat what works (28m)
+	- He just copied the discounting idea. 
+		- Irwin Chase (Ann & Hope). Another guy did the same (K-Mart).
+	- Understand the incentives of the people you are trying to sell your product to 
+		- e.g., Dyson
+	- Walmart had the shortest number of characters.
+	- It had the lowest cost to sales ratio across the industries.
+	- David Glass.
+	- Always exceed the expectation of the customer.
+	- Walmart and IBM mainframes (1979). Instant communication. (57m)
