@@ -26,6 +26,9 @@ Related:
 
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 
+- On forming habits
+	- [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying]]
+
 Additional high-level theories place more and more constraints on what the low-level theories could be. And that’s how fine-tuning problem must be approached. The principle of the universality of computation and testability (or Constructor Theory) might provide an answer.
 
 In short: show up.
