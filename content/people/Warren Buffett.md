@@ -198,6 +198,71 @@ date: 2024-08-15
 - Homes, auto, and insurance are essential. (p. 154)
 - Have a special place on people’s mind then you can raise the price (p. 154) 
 	- relate with DMU notes and symbol (or association) notes
+- Pricing power implies essentially. Look at the pricing behavior of the product (not the stock). (p. 154)
+- Get the basics well. You don’t have to do extraordinary things to get extraordinary results, don’t get diverted and instead focus on what works. (p. 155)
+- You should’ve shorted horses instead of buying up autos. Ask: who loses? (p. 156)
+- Can you name any single American TV or radio manufacturer? (p. 156)
+- Growth in an industry doesn’t mean profitability because of competition (p. 157) 
+	- relate with tiptoe memo and notes (emergent disorder)
+- Munger on Facebook (lol) (p. 157)
+- Business ≠ industry (p. 158) 
+	- relate with individuals ≠ society memos and notes
+- Business ≠ franchise. Many operations are in between weak franchise and strong business. (p. 158)
+- Dead fish won’t swim how hard you try proverb (p. 159) 
+	- relate with Marc Andreessen memos and notes again
+- Permanent problem ≠ temporary setback. Differentiate the two. (p. 159)
+- Bad news—if you see one, usually there’s more (p. 159) 
+	- relate with sloppy one thing likely means sloppy elsewhere memos and notes, and anything else related (e.g., bad news is easy to detect and likely gets exaggerated notes)
+- Share of mind >>> share of market (p. 160)
+- You rarely get poor investing in utilities (p. 160)
+- Good business throws up one easy decision after another (p. 162)
+- In commoditized businesses, you can’t really differentiate yourself (p. 162)
+- Get attractive security in attractive industry (p. 162)
+- Tech is based on change; and change is the enemy of the investors (p. 163) #revisit 
+- Ask: can I compete and hurt a business with a billion dollars? (p. 164) 
+	- a business should be attack-prone
+- Andy grove and silver bullet question (p. 164)
+- I wish I didn’t know now what I didn’t know then quote (p. 165) 
+	- relate with what’s not worth doing memos and notes
+- Retailing is competitive (p. 165)
+- On retailing (e.g., Costco and Amazon) (p. 165)
+- Pay attention to mistakes of omission, and learn from them (p. 167) 
+	- relate with absence of evidence notes
+- Check the track record of Berkshire’s investments (p. 168) #TODO 
+- small mistakes are fine—it’s about payoff (p. 168)
+- acknowledging and analyzing errors >>> agonizing over errors (p. 169)
+- Ask: is this a good (or bad) business? Why? (p. 169)
+- Buffett’s quote on reality centered cast of mind (p. 169) 
+	- relate with Sherlock and Deutsch #revisit 
+- The company should be viewed as an unfolding movie, not a still snapshot (p. 171)
+- The story of an ailing horse, again. Ask: is the business for sale because it’s walking just fine? (p. 171)
+- Mar Twain: a mine is a hole in the ground owned by a liar. (p. 172)
+- Buffett and Keynes on business is success is about future, not past. And you also have to explain why the business was successful in the past. (pp. 172-173) 
+	- relate with tracing the origin notes and quote from Paul valery
+- Ask: what forces can stop the current ongoing success? (p. 173)
+- Ben Franklin: a small leak will sink a great ship (p. 173) 
+	- relate with small changes can go unnoticed until too late notes
+- ABCs of business decay: arrogance, bureaucracy, and complacency. “Whom the gods want to destroy, they send forty years of success” (p. 174)
+- Don’t employ unnecessary assistants. Parkinson’s law. (pp. 174-175)
+- Widen the moat, build enduring competitive advantage, delight customers, and fight cost (p. 175)
+- Don’t underestimate the ability of others to do the same exact thing you’re about to do (p. 175)
+- The tendency gets magnified with disliking bias of competitors. Be aware. (p. 176) 
+	- relate with biases notes
+- Andrew Carnegie: look out for the boy sweeping floors, not the rich man’s son (p. 176) 
+	- relate with outsider notes and others
+- Buffett comments on food inflation. Also if horses could’ve voted, they would’ve voted down tractors. (p. 176) 
+	- relate with Saifedean’s argument on food inflation, and also *Fiat Food*.
+- Schumpeter quote on innovation: it strikes not at the margins, but its very foundations and lives (p. 176) 
+	- relate with /econ notes (e.g., Rothbard) #revisit 
+- Businesses die. Sometimes better to just get out. Remember the Northern Pike Model (e.g., Walmart vs other chains). (pp. 176-177)
+- Stop digging. Fight wishful thinking, consistency bias, and loss to aversion bias. Stop wasting resources (e.g., time). Get out leaking vessels. (p. 177) 
+	- relate with biases notes
+- You don’t have to make it back the way you lost it (p. 178) 
+	- relate with money abstraction notes and method-independent notes (how doesn’t matter)
+- Businesses are bought for keeps (p. 178)
+- With stocks and bonds, if we find something more attractive, we sell (p. 178) 
+	- relate with opportunity cost notes
+- Not price but value is what matters with investment. (p. 178)
 - …..
 - don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
 	- relate with naval’s quote and relate note on redefining the game
@@ -294,6 +359,8 @@ date: 2024-08-15
 - Investment is about cash (p. 1)
 - And return (p. 1) 
 	- relate return is about how much and when and surety, as well as comparable ones.
+	- **return matters in comparison with other possible returns**
+		- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
 ### 2. 
 - Because it’s all about cash, the business specifics don’t matter (p. 2) 
 	- relate with money abstraction notes.
@@ -316,20 +383,42 @@ date: 2024-08-15
 - Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
 - Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
 ### 5. business characteristics
-- **return matters in comparison with other possible returns**
-	- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
 - inverted: don’t invest in companies signaling DMU
 - inverted: pricing power is essential in inflationary environment
 	- consumer franchise is the key to pricing power, not production cost
 		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
 			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
+#### a. really great
+- Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
+- Try to compete with that business in your mind (p. 11) 
+	- relate with argue better than against your own idea better than the opponent memos and notes.
+- Ask: does it have any close substitute? (p. 11) 
+	- relate with anything can be substituted notes.
+- The best protection against inflation is a great business (p. 11) 
+	- challenge this #revisit 
+- Businesses needing not much in tangible assets are hurt the least by inflation (p. 12)
+- See’s had minimized need for tangible assets (operating funds) because it was sold for cash and production cycle was short so didn’t have inventory issues (p. 12) 
+	- relate with iteration notes.
+- Reputation creates value for See’s (and not production cost) and is the source of goodwill (p. 13)
+- Ask Microsoft or Google (p. 13) 
+	- relate with infinite leverage memos and notes
+#### b. good
 #### c. the gruesome
-- sugar isn’t differentiated—unless someone does (p. 15)
+- sugar isn’t differentiated (p. 15)
+	- unless someone does it
+- Nothing fails like success (in commoditized businesses) (p. 16)
 - in commoditized businesses, individually economic decision isn’t economic at all when considered collectively (p. 17)
 	- only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in DMU environment (i.e., in no knowledge creation environment)
 		- if the division of capital relates to creating *different* production process, then *the more is different* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+- Get out leaking boat (p. 19) 
+	- relate with Marc Andreessen memos and notes. 
+	- Inversion would be: leave unpromising battlefield.
+- Turnaround seldom turn and usually takes longer (p. 19) 
+	- relate with it takes longer and costs more memos and notes
 #### d. other tough businesses
+- Tech is usually unpredictable, and only few will win big (p. 21) 
+	- relate with think probabilistically notes.
 - growth has its limits (p. 21)
 #### e. on accounting goodwill
 - Ch. 5-E is about the difference between a good business and a good purchase
@@ -366,6 +455,27 @@ date: 2024-08-15
 	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
 	- ask: is the current incentive structure “capricious”?
 	- ask: would rewarding XXX based on YYY’s performance capricious?
+### 12. mergers and acquisitions
+- Demonstrated consistent earning power >>> projection or turnaround (p. 48)
+- Again, always think about the alternatives (e.g., passive investment) (p. 49)
+- Again, per-share intrinsic value >>> reported number (p. 50) 
+	- it’s the same with fundamental >>> price quotations, or knowledge >>> looks, just that you have to guess for all of the former due to its subjective nature. #revisit 
+- Stick to what works. Focus. (p. 50) 
+	- here the smart contract is resistant. #revisit 
+- Often the acquisitions benefit everyone except the shareholders of the acquirers (p. 51) 
+	- relate with activists memos
+- Per-share progress >>> size (p. 51)
+- Why not buy in market? (p. 51)
+- In a trade what you give up is as important as what you get (p. 52)
+- Markup what’s been given up as well, if that thing is undervalued don’t markup arbitrarily, let alone marking up the target stock while leaving your issued shares at market price. (p. 52)
+- If not worth selling at all, then it’s not worth even a small part of it (p. 53) 
+	- relate with if not worth doing well it’s not worth doing at all memos and notes
+- The don’t-give-up-more-than-what-you-get rule applies for any transactions (p. 53)
+- Deals never fail in projections (p. 54) 
+	- relate with other notes (e.g., Sherlock, Deutsch)
+- Earnings simply don’t move smoothly. (p. 54)
+- The story of the man with an ailing horse (p. 55) 
+	- relate with independent thinking memos and notes
 ### 13. few mgmt issues
 - imitation has a limitation (p. 56)
 	- relate with singleton quote
