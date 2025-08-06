@@ -52,6 +52,8 @@ date: 2024-08-15
 - …..
 - Masterplan implies expectations (p. 37)
 - the Golden Rule >>> self-serving bias (p. 38)
+- Munger indirectly preaching the importance of having win-win relationships (p. 38) 
+	- win-win might materialize in time, and isn’t necessarily instant #revisit 
 - …..
 - Say no (p. 51)
 - On fretting on leveraged financial institutions. (p. 55) 
@@ -76,7 +78,43 @@ date: 2024-08-15
 - Improving yourself >>> penalizing others. (p. 65) 
 	- relate with stupidity notes
 - Envy is simply negative-sum, rule it out (p. 66)
-- …..
+- You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
+	- relate with the portfolio structure catching up to the plan structure memos and notes
+- People just don’t see how much money there is in being honest (p. 67)
+- Munger was at Salomon? (p. 67)
+- A great reputation is like virginity (p. 67) 
+	- relate with falsification notes
+- Sol Price: success in business comes from deciding which business you can intelligently do without (p. 68) 
+	- inversion at play
+	- relate with membership memos and Sol Price notes
+- Conduct Unbecoming an Officer (munger was at the military office as well?) (p. 69)
+- Teach with what you do, not what you say (p. 69) 
+	- relate with seeing the front notes
+- Peer pressure on the young is far more important (p. 70) 
+	- relate with concentric learning notes and culture notes
+- It pays to hang around with people better than you are because you’ll float upward a little bit. Bad company corrupts good character (p. 70) 
+	- relate with the five average notes
+- It’s nice to be important, but more important to be nice (p. 70) 
+	- relate with notes on being nice
+- You’ll meet a lot of people you initially think they are one-stops but they aren’t (p. 71) 
+	- relate with second order effect notes
+- Deliver what you would buy if you were in the other end (p. 71) 
+	- relate with other similar quotes and notes from munger
+- Success is getting what you want and happiness is wanting what you get (p. 71) #revisit 
+- Be lovable. You always get back more than you give away. If you don’t give any you want get any. (p. 71)
+- Ben Graham and the list of unattractive qualities in other people (p. 71) 
+	- inversion at play
+- Show up on time; don’t steal credit; don’t cut corners; avoid envy (p. 71)
+- Find, emulate, and associate with good people (and good businesses) (p. 72)
+- Remember Grant McFayden, he didn’t need a lawyer (p. 72)
+- Read Rules for Making Oneself a Disagreeable Companion, by Ben Franklin (pp. 72-73)
+- Passion is not the sufficient factor, but likely necessary for success (p. 73) 
+	- relate with Kobe Bryant quote and absence of evidence notes
+- There’s no substitute for strong interest (p. 73)
+- Munger’s three basic rules: don’t sell anything you wouldn’t buy yourself; don’t work for anyone you don’t respect and admire; work only with people you enjoy (p. 74) 
+	- relate with previous memo on deliver what you would buy if you were on the other side
+- Particularly avoid working directly under somebody you don’t admire and don’t want to be like. Maybe you have to keep doing it to keep eating for a while but don’t settle for it. You just go out and find somebody else. (p. 74)
+- Make yourself a person that you would want to hire. Trustworthiness is more important than brains. (p. 74)
 - The best knows that they are playing their game (p. 74)
 - 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
 	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
@@ -263,7 +301,14 @@ date: 2024-08-15
 - With stocks and bonds, if we find something more attractive, we sell (p. 178) 
 	- relate with opportunity cost notes
 - Not price but value is what matters with investment. (p. 178)
-- …..
+- Organization foolish in one way is likely foolish in other areas (p. 179) 
+	- relate with sloppy in one area memos and notes
+- We just find people who’ve batted .350 for 10-50 years. We don’t train them. (p. 179) 
+	- relate with the decision should be obvious memos and notes
+- You can’t put passion into someone, but it’s easy to take it away. Don’t do that. (p. 180)
+- Work with winners. Remember Eddie Bennett and Yankees. (p. 180)
+- Being good at one thing doesn’t mean you’ll be good at another (p. 181) 
+	- relate with sloppy in one area memos (as a counter?)
 - don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
 	- relate with naval’s quote and relate note on redefining the game
 - allocate your time according to your talent (p. 182)
