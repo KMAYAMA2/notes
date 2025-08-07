@@ -33,3 +33,4 @@
 	- Study Ben Franklin and Lee Kuan Yew #TODO 
 	- Ben Franklin went great with Washington
 	- They just kept leaning as they went course correcting (22m)
+	- If you have the money, give it away to kids, otherwise they will hate you for it (25m)

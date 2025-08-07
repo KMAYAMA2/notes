@@ -54,6 +54,30 @@ date: 2024-08-15
 - the Golden Rule >>> self-serving bias (p. 38)
 - Munger indirectly preaching the importance of having win-win relationships (p. 38) 
 	- win-win might materialize in time, and isn’t necessarily instant #revisit 
+- Who invented factor investing? A broker? (p. 39)
+- To quick profits, reply with quick no (p. 40)
+- Self-serving bias of others must be considered. Otherwise you are a fool. (p. 40)
+- Beware hammer-syndrome with creators of a tech (p. 41) 
+	- relate with don’t associate yourself with an idea or a tech notes
+- Again, whose bread I eat, his song I sing (p. 41) 
+	- Bevelin on investment letters
+- On “independent” board, board of directors (p. 41)
+- “Include me out” (p. 42)
+- Postpone yes, and say no sooner (p. 42)
+- Natural progression, the three I: Innovators, Imitators, Idiots (p. 43) 
+	- relate with Pierce and Everett
+	- also with what the wise do in the beginning the fools do in the end memos
+- On bubble. On boom and bust. People dance thinking they can leave right before midnight, but the problem is that the clock has no hands (p. 43)
+- An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
+	- always test and recalibrate your thesis (not limited to investment)
+- Bad ideas are born good. It’s easy to push a really good idea to wretched excess. (p. 44) 
+	- relate with environments change notes
+	- relate with check the implication from deviation between the price quotations (the portfolio structure) and the underlying business operation (the plan structure) memos
+	- relate with I was too ahead of my time type excuse memos and notes
+- The crazy greed, the crazy leverage, the crazy delusions. “The more it changes the more it’s the same thing.” (p. 44)
+- It’s not the bad idea but a good one carried to excess that do you in (p. 44) 
+	- relate with Mark Twain quote
+- On the 2007 housing crisis (pp. 44-45) #revisit 
 - …..
 - Say no (p. 51)
 - On fretting on leveraged financial institutions. (p. 55) 
