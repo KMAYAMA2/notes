@@ -78,7 +78,44 @@ date: 2024-08-15
 - It’s not the bad idea but a good one carried to excess that do you in (p. 44) 
 	- relate with Mark Twain quote
 - On the 2007 housing crisis (pp. 44-45) #revisit 
-- …..
+- Delusions produce bubbles (p. 45)
+- When you buy something for a sound reason, make sure the reason stays sound (p. 45) 
+	- relate with recalibration notes
+- If something can’t go on forever, it’ll end (p. 45) 
+	- relate with biases notes
+- Things take longer to for it to happen, and when it happens it happens faster than you think (p. 46) 
+	- relate with notes on change and similar memos
+- On new-form Gresham’s Law. Bad lending drives out good. (p. 46)
+- Nothing draws a crowd like a crowd. “Fools rush in where angels fear to trade.” (p. 46) 
+	- relate with imitation memos and notes #revisit 
+- The first chance you have to avoid a loss from a foolish loan is by refusing to make it; there’s no second chance (p. 46) 
+	- relate with wisdom is prevention memos and notes
+- It’s similar to Newton’s first law (p. 47) 
+	- relate with least effort bias notes (and consistency bias notes)
+- Beware, and work with people who are also aware, the ‘institutional imperative’ (p. 47)
+- ‘Everybody else is doing it’ is a red flag (p. 48)
+- Unusual managerial discipline is required to measure profitability over volume. (p. 48) 
+	- relate with notes on measure
+- “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
+	- relate with do-something bias notes
+- Mark Twain: “whenever you find yourself on the side of the majority, it is time to pause and reflect” (p. 48)
+- Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49) 
+	- relate with judgement notes
+	- relate with (or create) you need a consistent worldview of your own, and you must keep updating it by yourself 
+	- relate with knowledge is created individually notes #revisit 
+- If you don’t work hard at it, you will fall victim to the folly of the crowd, and there will always be folly of the crowd (p. 49) 
+	- relate with there’s always anti-rational memes notes
+	- relate with recalibration notes
+	- relate with stupidity notes (there are dumb people in every professional domains)
+- A public opinion poll is no substitute for thought. We want to think. (p. 49)
+- You will be right if your hypotheses are correct, if your facts are correct, and if your reasoning is correct. Nothing else. (p. 49) 
+	- relate with Sherlock
+- Trouble with people is they know so much that isn’t true (p. 50) 
+	- relate with Mark Twain quote
+- Everybody gets so much information they lose common sense quote (p. 50) 
+	- relate with social media notes
+- What’s not worth knowing is not worth knowing at all (p. 50) 
+	- relate with DMU notes #revisit
 - Say no (p. 51)
 - On fretting on leveraged financial institutions. (p. 55) 
 	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
