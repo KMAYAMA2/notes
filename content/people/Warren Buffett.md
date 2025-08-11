@@ -49,7 +49,30 @@ date: 2024-08-15
 	- relate with Naval.
 - Munger on extreme success (p. 29) 
 	- focus on few variables, non-linear returns, extreme performance, big wave.
-- …..
+- On bad Lollapalooza (p. 29)
+- On halo effect, and on basic need to be liked (p. 30) 
+	- relate with biases notes #revisit 
+- On using two-track analysis: rationality; and subconscious. “There’s always a motive.” (p. 31) 
+	- relate with anti-rational memes notes
+- CEOs and the directors dysfunction as corrective mechanism (p. 32) 
+	- relate with error-correction notes and biases notes
+- Owner-capitalism engenders true independence (win and win big, lose and lose big) (p. 33) 
+	- relate with the control structure memos
+- Three qualities Buffett values (p. 34) #revisit 
+- Coach’s incentive to get rid of a mediocre NFL QB /= board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
+- Be careful whom you appoint to power. The CEO does what he wants to do. Board setting strategy etc is baloney. (p. 35)
+- It’s practically useless to give advice to anyone (p. 35) 
+	- relate with knowledge is created individually notes
+- Be in with a management you are simpatico with (p. 36) 
+	- implication for activists, relate with stupidity notes
+- The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well. (p. 36) 
+	- relate with do the basics well memos, also relate with focus on the few variables memos
+- Understand human behavior if you’re going to run a business (p. 36)
+- You must continuously practice a multidisciplinary approach until fluent (p. 37) 
+	- relate with notes on practice and habit
+- The will to prepare >>> the will to win (p. 37)
+- Building arks >>> predicting rain (p. 37) 
+	- relate with payoff and ruin notes
 - Masterplan implies expectations (p. 37)
 - the Golden Rule >>> self-serving bias (p. 38)
 - Munger indirectly preaching the importance of having win-win relationships (p. 38) 
