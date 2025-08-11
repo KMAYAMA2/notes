@@ -1,7 +1,7 @@
 ---
 date: 2025-07-22
 ---
-- Sam Walton (founders #234) ~34m
+- Sam Walton (founders #234)
 	- Hedgehogs watch their basket carefully (Mark Twain) (7m)
 		- in other words, focus
 	- He copied others’ ideas really well (13m)
@@ -9,6 +9,27 @@ date: 2025-07-22
 	- It took 10 years for him to take the discounting idea seriously (33m)
 	- Buck the system and create little anarchy. Shake things up. (52m)
 	- Constraints are your friends. Always swim upstream. Out of necessity creation. (52m)
+	- he put the numbers himself
+		- just like how singleton signed every check himself
+	- michael jordan: successful people listen #revisit 
+		- relate with 劉邦
+	- he was never a great strategist, he thrived on change (1h1m)
+	- not for the short haul, but for building real business (1h6m)
+	- Pay attention to business and the customer; not to yacht etc (1h11m) 
+		- relate with Michael Jordan
+	- Be serious operator in it for the long haul, disciplined financial philosophy, growth in mind, have the longest view in the room (1h19m) 
+		- you just need one good business
+	- No schedule (1h23m)
+	- Don’t put artificial limit. If you put it it’ll spread. (1h26m) 
+		- relate with sloppy notes
+	- TAM (total adjustable market), you are inventing it (peloton CEO) (1h28m) #revisit 
+	- No excess people (1h28m)
+	- There’s no speed limit; he had no patience (1h30m)
+	- Cutting cost and being efficient is good for customer and helps you survive (1h40m)
+	- Controlling logistics pays (1h43m) 
+		- relate with UPS founder episode #revisit
+	- Think small, grow big (1h45m) 
+		- relate with compound
 - sam walton (founders #354) 
 	- munger says to focus on one or few variables
 		- and sam walton is the example
