@@ -234,6 +234,57 @@ date: 2024-08-15
 	- relate two-way debate note and observation note.
 - No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
 	- and if you’re still worried, correct it.
+- Queen Elizabeth I: “I like to know what the truth is so I can decide whether to believe it or not” (p. 92) 
+	- relate with denial memos and notes
+- Wishing is poison in business (p. 92)
+- Munger quote an adapting to reality as it is (p. 92) 
+	- relate with Sherlock notes 
+	- relate with recalibration notes
+- Avoid ‘thumb-sucking’ (p. 92)
+- Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
+	- relate with truth is about correspondence notes 
+	- relate with reality catches up with you memos and notes
+- If you have a problem, act now (pp. 92-93) 
+	- relate with problem-solving notes #revisit  
+	- relate with second-order thinking notes #revisit 
+- One’s objective should be get it right, get it quick, get it out, get it over. Admit you can’t know everything and state all the facts you do know clearly. (p. 93) 
+	- relate with time is scarce memos and notes
+	- relate with fallibility notes
+	- relate with information is incomplete memos and notes (e.g., Li Lu)
+	- relate with know what you know notes (e.g., Mark Twain) 
+	- relate with circle of competence memos (e.g., mono-linked chains) and notes 
+- Your problem won’t improve with age (p. 93) 
+	- relate with give it time notes
+- Persian Messenger Syndrome (e.g., CBS and Chairman Haley) (pp. 93-94) 
+	- relate with association notes 
+	- relate with bad news get exaggerated notes (as contrast)
+- Just tell me the bad news; the good news will take care of itself (p. 94) 
+	- relate with take care the downside memos and notes 
+	- relate with wisdom is about prevention memos and notes
+- If people know you as smart and informed then they’ll trust you and will tell you the truth early. Foster such environment. (p. 94)
+- Deprival-Superreaction Tendency and Inconsistency-Avoidance Tendency: we don’t like to lose what feels rewarding (pp. 94-95) 
+	- relate with biases notes
+	- for the latter relate 
+		- making it public memos and notes 
+		- iteration-habit notes (upside) 
+		- leverage (how time put in doesn’t matter) notes 
+- Ben Franklin and J.P. Morgan quote on our ability to make excuses (p. 95)
+	- relate with Sherlock notes
+- E.O. Wilson: old beliefs die hard even when demonstrably false (p. 96) 
+	- relate with let the ideas die in your place notes 
+		- relate with don’t be an idea notes
+- Self-justification (p. 97) 
+	- isn’t Leibniz’ 最善説 a form of self-justification? maybe he was partially correct in arguing for his form of multiverse #revisit 
+		- relate with explanation must be rooted in opportunity cost memos and notes #revisit 
+- Max Planck: science advances one funeral at a time (p. 97) 
+	- relate with let ideas die in your stead notes
+		- relate with don’t be an idea notes
+- If one’s incentive is for him to not change, then it’s tough to change him (p. 97) 
+	- this applies to the individual as well as to collective
+	- relate with people change notes
+- Hammer syndrome is incentive-caused bias, combined with other psychological biases including commitment and consistency biases (pp. 97-98) 
+	- what are the other biases?
+- Spend no time arguing with people whose idea you know to be stupid (p. 98)
 - …..
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowing creation is about debate and reconfiguration.
