@@ -246,7 +246,51 @@ date: 2024-08-15
 - On writing and orangutan theory (pp. 117-118)
 - Simplicity reflects clear thinking (p. 118) 
 	- and it’s rare
-- …..
+- Serpico Syndrome (p. 119)
+- Social-Proof Tendency: stop any bad behaviors before it spreads and foster and display all good behaviors (p. 119) 
+	- relate with biases notes
+- If the incentives are wrong, behavior will be wrong (p. 120)
+	- Xerox and Joe Wilson (p. 120)
+	- Federal Express and the night shift (pp. 120-121)
+- You get what you reward for (p. 121) 
+	- relate with you get what you pay for memos and notes (create one if none)
+- Always follow the incentives and there you’d find solutions and truth (p. 121) 
+	- relate with Sherlock notes and there’s always a motive memo
+- Rewards include nonmonetary items like sex, friendship, companionship, status, power, influence, ego (p. 121) 
+	- relate with monetary account doesn’t exhaust everything notes
+- Avoiding losses and what’s painful is also a reward (p. 122) 
+	- relate with counterfactual notes and what counts cannot be counted notes
+- Jean de La Bruyere quote on associating your incentives with that of others (p. 122) 
+	- this backfires when the system doesn’t prevent social-proof tendency (remember “independent” board) #revisit 
+- Upton Sinclair quote on understanding and incentives (p. 122) 
+	- relate with notes on understanding others #revisit 
+		- i.e., they won’t understand you if the incentive facilitates that
+- Tie incentives to performance and factors that contribute to the ultimate end—value (remember Soviet nail factories) (p. 122) 
+	- relate with know what you want memos and notes (create if none) 
+	- relate with you find what you want to want in market memos and notes (maybe management is about constantly refining what you want to achieve and recalibrating the team) 
+- Pay for what can be controlled (e.g., low finding cost) over uncontrollable (e.g., oil price) (p. 123) 
+	- relate with focus on few variable memos #revisit 
+- If a CEO bats .150 but Berkshire as a whole performs well, he still gets paid as a .150 hitter (p. 123) 
+	- make your incentives uncorrelated with others and only correlate with his own performance
+		- relate with uncorrected bets notes
+		- relate with bat boy anecdote (you cannot uncorrelated anything since everything is somewhat connected) #revisit 
+- Being a partner means in for both directions. To have both carrots and sticks. Remember Kiewit Corporation. (p. 124) 
+	- relate with Taleb, Spitz, and Ayache, also relate with volatility notes (options wouldn’t be as prevalent under free market?) #revisit 
+- Charles Frankel quote on a responsible system. Ask: who bears the consequences? Remember the Roman system for arc builder. (p. 124) 
+	- relate with Taleb, Spitz, Saifedean #revisit 
+- Don’t blame the tiger when he gets out of the cage and goes on a rampage. The cage has to be stronger and the keepers should know better than to leave the door unlocked. (p. 125) 
+	- relate with human nature notes and Everett notes (ask: human nature doesn’t really change?) #revisit 
+- Maimonides quote on observation (p. 125) #revisit 
+- Dread and avoid rewarding people for what can be easily faked (p. 125)
+- Achieving complete fairness is impossible. Tolerate a little unfairness to some to get a greater fairness. Remember the Navy anecdote. (pp. 125-126) 
+	- relate with similar exhaustion is impossible notes, and with free market fairness memos and notes (e.g., from Rothbard, Mises, Taleb, Saifedean) 
+	- relate with roundabout memos and notes #revisit 
+- Complete foolproof is impossible (p. 126) 
+	- relate with other exhaustion is impossible notes
+	- relate with trust memos and notes (trusting someone means going long vol with that person—theoretically you can trust anyone given enough time but practically you have to choose some people over others because our time is limited) #revisit 
+- Don’t complicate the system. Keep it simple. Remember the Dean of USC School of Music anecdote on “replacing” candy. (p. 126) 
+	- relate with other keep it simple memos and notes
+- Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
 - the problem isn’t getting rich, it’s staying sane (p. 128)
 - You Only Have to Get Rich Once (p. 128)
 - First think about what happens when it goes wrong, instead of the upside (p. 130)
