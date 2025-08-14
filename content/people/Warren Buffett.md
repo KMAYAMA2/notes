@@ -285,6 +285,30 @@ date: 2024-08-15
 - Hammer syndrome is incentive-caused bias, combined with other psychological biases including commitment and consistency biases (pp. 97-98) 
 	- what are the other biases?
 - Spend no time arguing with people whose idea you know to be stupid (p. 98)
+
+- George Soros: once we realize that imperfect understanding is the human condition, there’s no shame in being wrong, only in failing to correct our mistakes (p. 98)
+	- relate with error-correction notes
+- Study, and look for, counter-evidence. (p. 99) 
+	- relate with try to attack your business memos and notes #revisit 
+- H.L. Mencken quote. (p. 99) 
+	- relate with science advances one funeral at a time memos
+- Consider yourself a journalist. Assign a story. Assume it’s correct. But look for facts. And don’t be selective in choosing which facts to look at. Don’t let the hypothesis dictate which facts to look at. (pp. 99-100) 
+	- relate with data need theory notes #revisit
+- On negative evidence (p. 100)
+- Surround yourself with smart people who don’t always agree with you. Remember Lincoln. (p. 101)
+- Remove ignorance piece by piece. Scramble out of your mistakes. (p. 101) 
+	- relate with piecemeal error correction notes
+- On bridge. Information compounds. (p. 102) 
+	- relate with more is different notes
+- On master planning. What is needed is the kind of propensity to disbelieve by changing your previous conclusions. Mike Tyson quote. (p. 102) 
+	- relate with map and territory notes
+- “If the terrain and the map disagree, follow the terrain.” “One look is worth thousand words.” (p. 102)
+- Bion of Borysthenes’ quote on adapting to circumstances just as sailors do (p. 103) #revisit 
+- The greatest advantage is in not having a strategic plan (p. 103)
+- Big ideas pop up occasionally >>> a strategic plan (p. 103)
+- Carlyle (William Osler’s favorite quote): “the task of man is not to see what lies dimly in the distance, but to do with what’s clearly at hand” (p. 103)
+- On deprival-superreaction syndrome. It’s about loss aversion and our asymmetric reaction to gains and losses. (p. 103) 
+	- relate with biases notes
 - …..
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowing creation is about debate and reconfiguration.

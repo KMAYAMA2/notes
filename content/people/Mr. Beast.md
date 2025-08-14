@@ -1,0 +1,92 @@
+---
+date: 2025-08-14
+---
+
+- mr. beast (founders #366)—read [this](https://drive.google.com/file/d/1YaG9xpu-WQKBPUi8yQ4HaDYQLUSa7Y3J/view) ~22m
+	- **Sam Zemurray** (united fruit company) in *the fish that ate the whale*: if you know your business from a to z there is no problem you can’t solve (6m)
+	- **sam zell** and jay pritzker: simplicity as strategy, and on weakest link
+		- know every aspect of your business (8m)
+	- The more you know about why we do things and what we are trying to accomplish, the better off you will be.
+		- relate with know what you want memos
+	- **bob keerlin** (fastenal—#360) on having the common goal (9m)
+		- there will be drift and overcomplication (relate with similar memos elsewhere)
+			- read Creative Selection or listen to #281 ***working with steve jobs***
+				- it makes you easy to interface with
+	- hollywood would be unprofitable because it has no flexibility due to too long lead times to adapt to trends (12m)
+	- **paypal** prioritized speed over everything else except recruiting and hiring (14m)
+		- only be with A players—get rid of C players immediately
+		- is it like marriage?
+	- Another way to look at this is it’s a segment that “only MrBeast can do this.” (p. 7) (15m)
+		- relate with be the only notes
+		- **edwin land**: don’t do anything that someone else can do #revisit 
+			- if you can do something really hard, there won’t be any competition (17m) #revisit 
+				- no competition >>> weak competition
+	- **david ogilvy**: the good ones know more (17m) #revisit 
+		- “our videos are getting harder” (p. 10)
+			- relate with it gets easier memos and notes
+		- e.g.,
+			- **tarantino** and **spielberg** (18m)
+			- **bill gates in *hard drive*** (19m)
+			- **edwin land** with light (20m)
+			- **rockefeller** with accounting and the commission business
+			- **steve jobs** with silicon valley
+				- his work was related to graham bell’s work on the telephone #revisit 
+	- jeff bezos: people don’t have ideas—ideas have people
+	- read the book *the goal* (p. 11) (21m)
+		- discusses bottlenecks
+			- relate with the weakest link memos and notes
+			- when necessary, look them in the eye and tell them that they are the bottleneck, and explain why (22m)
+	- **larry ellison** (again) (23m)
+	- you have to follow up, that’s part of your job—the job is getting done
+		- relate with trust memos and notes (as contrast)
+	- cheat codes:
+		- **SAY THE NEGATIVES** (p. 12)
+			- relate with tell me the bad news memos
+				- only the good news can wait
+		- **don’t take anything at face value, always dig** (p. 16) (25m)
+		- **higher form of communication** (p. 17) (26m)
+			- irl, call, text—each has its own place, use them wise
+			- “Ideally grab them in real life if you can. The more complex what needs to be said is, the higher the form of the communication you should use. Call first then text if they don’t answer.”
+				- relate with words can’t exhaust notes
+				- relate with communication is not limited to linguistics and include non-verbal components notes
+			- “written communication also does not constitute communication unless they confirm they read it”
+				- relate with make it easy to read notes
+		- **own your mistakes**
+			- read *the unpublished* by david ogilvy
+			- bezos: “if you are not making any mistakes, you’re not taking enough risk” #revisit 
+				- also bezos: “the bigger the company gets, the more expensive the mistake should be because we are getting bigger as a company” #revisit 
+		- **USE CONSULTANTS** (p. 18) (29m)
+			- by which he means people who can get the job done (not McKinsey type consultants)
+			- “In every single freakin task assigned to you, always always always ask yourself first if you can find a consultant to help you.” 
+			- relate with outsource notes—and save keystrokes notes
+				- relate with be the best by being the only notes
+		- **NO DOES NOT MEAN NO** (19m) (30m)
+			- exhaust all avenues
+				- push through no
+			- viz., work with high agency people
+				- **james cameron** photocopying all the graduate thesis at the top film school in the country (for $100)
+	- random things you should know (p. 23)
+		- be honest >>> be nice to each other (32m)
+			- jony ive on steve jobs calling him vain (watch [this](https://www.youtube.com/watch?v=2oksetv3i90))
+				- focus means saying no to an idea which you know is great, because you’re focused on this other thing
+					- relate with work with the best on the best possible thing memos and notes #revisit 
+					- relate with opportunity cost memos and notes
+				- jobs called him vain because he was showing to-be-liked tendency
+					- relate with biases notes #revisit 
+				- hold work as the most important
+					- if the work is something that comes naturally, this is easy #revisit 
+	- the goal of our content (p. 25)
+		- to excite me (35m)
+		- “I have 0 issues throwing away a multi million dollar video if I don’t think it’s up to my standards and is good for the audience.”
+			- the same with **steve jobs** (*insanely simple*) and **anna wintour**
+			- relate with go for the best notes
+				- relate with you will be only remembered for your best work memos and notes (Naval)
+	- walt disney: “if we lose details, we lose everything” (36m)
+	- on 120m views video vs 45m views vides (pp. 26-29) (37m)
+	- You Should Watch Our Videos (p. 31)
+		- “A lot of very valuable knowledge comes with watching vast amounts of our videos.”
+			- quantity has a quality of its own
+				- relate with 量質転化 memos and notes
+				- relate with more is different memos and notes #revisit 
+			- **bernard arnault** (LVMH) interview on his 10k+ store visits and tens of thousands hours dedicated to retail (38m)
+				- = mr. beast’s 20~30k hours studying youtube
