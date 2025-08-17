@@ -309,7 +309,62 @@ date: 2024-08-15
 - Carlyle (William Osler’s favorite quote): “the task of man is not to see what lies dimly in the distance, but to do with what’s clearly at hand” (p. 103)
 - On deprival-superreaction syndrome. It’s about loss aversion and our asymmetric reaction to gains and losses. (p. 103) 
 	- relate with biases notes
-- …..
+- Deprival superreaction tendency is about loss aversion to both possessed reward and almost possessed reward (p. 104) 
+	- relate with ownership notes
+- Five positive interactions = one negative interaction (p. 104)
+- A man reacts with intense irrationally to even a small loss (p. 104) 
+	- relate with don’t lose memos and notes
+- Defenders of a territory >>> intruders of the same species (p. 105)
+- Never contend with a man who has nothing to lose, but more so with a man who has everything to lose (p. 105) 
+	- relate with negotiation and biases notes
+- Loss aversion is why we overvalue what we give over what we get. Think from counterparty’s point of view. Take a stand on only important things. (p. 105) 
+	- relate with 主語の転換 memos 
+	- relate with focus on the few important variables memos
+- On negotiation. Don’t get into one where you can’t afford to walk away from. Don’t bargain with people you love. (pp. 105-106)
+- Don’t throw good money after bad (p. 106) 
+	- relate with you don’t have to recover by the same way as you lost it memos
+- The stock doesn’t care what you paid or that you own it (p. 106) 
+	- develop implication for activists
+	- develop implication for ownership #revisit 
+- Fold early when the odds are against you (p. 106)
+- Decisions should be based on the present and where you want to be. Not where you’ve been. (p. 106) 
+	- relate with sunk cost and anchoring notes and 
+	- relate price is essentially about future notes #revisit 
+- Consistency and deprival is linked (p. 107)
+- The reciprocation tendency can work in the negative (p. 107)
+- Praise by name. Criticize by category. (p. 107)
+- “We don’t try to change people. We accept people the way they are.” Think about marriage. (p. 107) 
+	- relate with management memos #revisit 
+- Get in with a culture that’s already the right kind (p. 108) 
+	- relate with save keystrokes notes
+- A culture of trust with reality feedback >>> a culture of trust. Tell people but also to yourself the truth. (p. 108)
+- Chuck Huggins’ story (See’s). “Hire friendly people.” (p. 108) #revisit 
+- Appeal to interest (not exclusive to financial) and not to reason if you want to change conclusions (p. 109) 
+	- relate with deprival memos (e.g., losing status)
+- And explain why. Remember Carl Braun. Always communicate Who is to do What, When, Where and Why. (p. 110) 
+	- show them the process not just the result, relate with algo notes
+- And appeal to the fear of losing what they value (p. 110)
+- And (if it makes sense) use an authority figure, a friend, consistency bias for the better (p. 110)
+- Ben Franklin having someone lend a book to him tactic example (p. 111) 
+	- relate with /Franklin
+- Franklin tactic can work in reverse (p. 111)
+- Ben Franklin: “he that would live in peace and at ease must not speak all he knows nor judge all he sees” and what says that his opinion or solution is the correct one (p. 111) 
+	- don’t trigger defensive responses in others #revisit 
+- Henry Ford on secret to success is changing perspective. If you do this, you understand why they do what they do. (p. 111) #revisit
+	- relate with 主語の転換 memos 
+	- relate with Carl Braun quote memos
+	- relate with argue only when you can argue better than the opponent notes 
+- Goethe: misunderstanding and neglect is more often than trickery and malice (p. 112) 
+	- relate with Hanlon’s razor notes (elaborate how’s it’s rooted epistemologically, that is, perfect replication is impossible and no two minds share the same worldview and knowledge is created individually notes) #revisit 
+- Nietzsche: the value is not in what you get, but what you pay for it, in what it costs us. Fight only important battles. (p. 112) 
+	- relate with cost is multiversal notes 
+	- relate with value (or price) is about the opportunity cost notes (if any) #revisit 
+- If you start objecting to this and this and this, pretty soon people will pay less (or no) attention to you. Save bullets only when it matters. Worse yet, you will not be listened in other occasions too. Don’t shout. (p. 112) 
+	- relate with information is difference notes (elaborate what constitute noise)
+	- relate with stuff translate memos #revisit 
+- “Sometimes peace is better than being right. Sometimes you must know when to accept a loss and quit.” (p. 113) #revisit
+	- Roy T. Bennett: be selective in your battles. 
+	- Peace ≠ the absence of conflict. 
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowing creation is about debate and reconfiguration.
 - Medical maxim, first do no harm. (p. 114)

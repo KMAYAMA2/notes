@@ -8,7 +8,7 @@ date: 2025-08-14
 		- know every aspect of your business (8m)
 	- The more you know about why we do things and what we are trying to accomplish, the better off you will be.
 		- relate with know what you want memos
-	- **bob keerlin** (fastenal—#360) on having the common goal (9m)
+	- **robert (bob) kierlin** (fastenal—#360) on having the common goal (9m)
 		- there will be drift and overcomplication (relate with similar memos elsewhere)
 			- read Creative Selection or listen to #281 ***working with steve jobs***
 				- it makes you easy to interface with
@@ -31,7 +31,7 @@ date: 2025-08-14
 			- **rockefeller** with accounting and the commission business
 			- **steve jobs** with silicon valley
 				- his work was related to graham bell’s work on the telephone #revisit 
-	- jeff bezos: people don’t have ideas—ideas have people
+	- **jeff bezos**: people don’t have ideas—ideas have people
 	- read the book *the goal* (p. 11) (21m)
 		- discusses bottlenecks
 			- relate with the weakest link memos and notes
@@ -90,3 +90,18 @@ date: 2025-08-14
 				- relate with more is different memos and notes #revisit 
 			- **bernard arnault** (LVMH) interview on his 10k+ store visits and tens of thousands hours dedicated to retail (38m)
 				- = mr. beast’s 20~30k hours studying youtube
+		- put in the hours (quantity), and something that’s invisible to everyone becomes obvious to you
+			- watch all the videos
+				- what would be the equivalent that’s relevant to me? #revisit 
+	- Your Career (pp. 35-36)
+		- he pays for talent
+			- steve jobs: “it really pays to go after the best people in the world”
+				- you can’t overpay for talent
+		- **brad jacobs** *how to make a few billion dollars*
+			- overpay for talent, because it’s impossible to overpay for talent
+			- the best is not as twice as good, but 100 times good
+				- never forget the dynamic range of humans #revisit 
+		- “we do whenever the fk you want reviews”
+			- *becoming steve jobs*
+				- steve jobs: “I give you feedback all the time”
+		- **les schwab**: “whatever you do, you must do it with gusto—you must do it in volume—it is a case of repeat repeat repeat”
