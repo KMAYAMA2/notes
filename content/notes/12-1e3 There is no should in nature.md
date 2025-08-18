@@ -7,6 +7,9 @@ date: 2024-08-15
 
 Eliminate as many *shoulds* as possible from your own worldview.
 
+Next:
+[[12-1e4 Nothing is objectively and independently good]]
+
 **Related Note:**
 [[2-1b2b0.2 Focus on the 'what is' before deciding 'what to do' about it]]
 

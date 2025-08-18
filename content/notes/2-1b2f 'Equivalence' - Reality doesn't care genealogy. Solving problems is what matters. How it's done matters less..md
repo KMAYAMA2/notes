@@ -5,5 +5,6 @@ Related:
 - [[5-1b1a1c The relationship between knowledge in the abstract and technology (the physical mediator of such knowledge) is contingent]]
 - [[10-2d1 The laws of physics are not necessarily to be expressed with current notation. The relation is arbitrary.]]
 - [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
+- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 
 #MentalModelsNumeracy 
