@@ -23,7 +23,7 @@
 	- And these connections are not pre-configured.
 
 # Other resources
-- Munger (founders recollection episode from 20231130) ~22m
+- Munger (founders recollection episode from 20231130)
 	- Problems are inescapable, leads to wisdom is prevention, leads to go for great (e.g., people and businesses), leads to patience and temperament (5~8m)
 		- it’s all connected
 		- relate with Popper and Deutsch
@@ -32,5 +32,5 @@
 	- Keep it simple. People love over-complication.
 	- Study Ben Franklin and Lee Kuan Yew #TODO 
 	- Ben Franklin went great with Washington
-	- They just kept leaning as they went course correcting (22m)
+	- They just kept learning as they went course correcting (22m)
 	- If you have the money, give it away to kids, otherwise they will hate you for it (25m)

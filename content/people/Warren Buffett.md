@@ -3,36 +3,47 @@ date: 2024-08-15
 ---
 - “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
-## part i
+## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
 - prevention is primarily about avoiding ruin (p. 4)
-	- related: [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
-- relate #41 on relating ideas
-- repeat what works (p. 7)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- relate what you are reading to the basic (p. 5)
+	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
+- [[1-2f1b9 Repeat what works |repeat what works]] (p. 7)
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - independent thinking over imitation (p. 9)
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - on inversion (p. 10)
+	- [[RUL3 - Invert, always invert]]
 - there’s never a shortage of human folly (p. 11)
 	- personal thought: you will find more new errors and you will increasingly get better at finding them
-		- partly because these follies are usually cross boundaries—hence relatively easy to be missed #revisit 
+		- these follies are usually cross boundaries—relatively easy to be missed #revisit 
 		- Buffett and Munger meets PG again—relate with similar note on surprises and ability to detect them
-			- related: [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
-			- related: [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
+			- [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
+			- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
 - grand chess masters operate by exclusion, not by speed (p. 12)
 	- relate with Rockefeller’s emphasis on quality of information over speed
 - rochefoucauld quote on seeming clever (p. 14)
-	- related: [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
-- samuel johnson quote on understanding (p. 15)
+	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
+- samuel johnson: “I can give you an argument, but I can’t give you an understanding” (p. 15)
 - on ignorance removal
 	- we will be always ignorant (i.e., anti-rational)
-		- related: [[1-2 We are fallible]]
-		- related: [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
-		- related: [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
-## part ii
+		- [[1-2 We are fallible]]
+		- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
+		- [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
+## PART TWO: ON WHAT DOESN’T WORK AND WHAT DOES
 - on having low expectations (p. 17)
+	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+	- [[12-1e Nothing is necessary = Everything is contingent]]
+	- [[12-1e4 Nothing is objectively and independently good]]
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
+	- [[RUL3 - Make a conscious effort to avoid addictions. Ask “is this how I want to be spending my time”]]
 - Study history, Buffett likes financial history (pp. 19-20)
+	- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - If you define all problems as a nail, you’ll only look for a hammer (p. 21)
 - Having all the tools is the antidote for being a-man-with-a-hammer syndrome (p. 21)
+	- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
 - Ask why. Use Occam’s razor. (p. 23) 
 	- relate with minimum idea note.
 - Einstein’s razor. Munger’s razor. (p. 24) #revisit 
@@ -53,16 +64,16 @@ date: 2024-08-15
 - On halo effect, and on basic need to be liked (p. 30) 
 	- relate with biases notes #revisit 
 - On using two-track analysis: rationality; and subconscious. “There’s always a motive.” (p. 31) 
-	- relate with anti-rational memes notes
+	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 - CEOs and the directors dysfunction as corrective mechanism (p. 32) 
 	- relate with error-correction notes and biases notes
 - Owner-capitalism engenders true independence (win and win big, lose and lose big) (p. 33) 
 	- relate with the control structure memos
 - Three qualities Buffett values (p. 34) #revisit 
-- Coach’s incentive to get rid of a mediocre NFL QB /= board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
+- Coach’s incentive to get rid of a mediocre NFL QB ≠ board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
 - Be careful whom you appoint to power. The CEO does what he wants to do. Board setting strategy etc is baloney. (p. 35)
 - It’s practically useless to give advice to anyone (p. 35) 
-	- relate with knowledge is created individually notes
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 - Be in with a management you are simpatico with (p. 36) 
 	- implication for activists, relate with stupidity notes
 - The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well. (p. 36) 
@@ -113,14 +124,17 @@ date: 2024-08-15
 	- relate with imitation memos and notes #revisit 
 - The first chance you have to avoid a loss from a foolish loan is by refusing to make it; there’s no second chance (p. 46) 
 	- relate with wisdom is prevention memos and notes
-- It’s similar to Newton’s first law (p. 47) 
-	- relate with least effort bias notes (and consistency bias notes)
+- It’s similar to Newton’s first law (that of inertia) (p. 47) 
+	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+	- [[2-1a6c2 Establishing rituals is the key to creating positive inertia]]
+	- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
 - Beware, and work with people who are also aware, the ‘institutional imperative’ (p. 47)
 - ‘Everybody else is doing it’ is a red flag (p. 48)
 - Unusual managerial discipline is required to measure profitability over volume. (p. 48) 
-	- relate with notes on measure
+	- [[Know what to measure]]
+	- [[5-2a1 You get what you measure]]
 - “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
-	- relate with do-something bias notes
+	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 - Mark Twain: “whenever you find yourself on the side of the majority, it is time to pause and reflect” (p. 48)
 - Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49) 
 	- relate with judgement notes
@@ -134,7 +148,7 @@ date: 2024-08-15
 - You will be right if your hypotheses are correct, if your facts are correct, and if your reasoning is correct. Nothing else. (p. 49) 
 	- relate with Sherlock
 - Trouble with people is they know so much that isn’t true (p. 50) 
-	- relate with Mark Twain quote
+	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 - Everybody gets so much information they lose common sense quote (p. 50) 
 	- relate with social media notes
 - What’s not worth knowing is not worth knowing at all (p. 50) 
@@ -242,7 +256,7 @@ date: 2024-08-15
 	- relate with recalibration notes
 - Avoid ‘thumb-sucking’ (p. 92)
 - Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
-	- relate with truth is about correspondence notes 
+	- [[Truth is about correspondence with reality]] 
 	- relate with reality catches up with you memos and notes
 - If you have a problem, act now (pp. 92-93) 
 	- relate with problem-solving notes #revisit  
@@ -277,15 +291,15 @@ date: 2024-08-15
 	- isn’t Leibniz’ 最善説 a form of self-justification? maybe he was partially correct in arguing for his form of multiverse #revisit 
 		- relate with explanation must be rooted in opportunity cost memos and notes #revisit 
 - Max Planck: science advances one funeral at a time (p. 97) 
-	- relate with let ideas die in your stead notes
-		- relate with don’t be an idea notes
+	- [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
+		- [[3-1c3c3 Take ideas seriously, but not too seriously. Don’t be the idea.]]
+		- [[5-1b1a3 We are more than technology, because we create knowledge-technology. We are more than functions. Don’t be a function.]]
 - If one’s incentive is for him to not change, then it’s tough to change him (p. 97) 
 	- this applies to the individual as well as to collective
 	- relate with people change notes
 - Hammer syndrome is incentive-caused bias, combined with other psychological biases including commitment and consistency biases (pp. 97-98) 
 	- what are the other biases?
 - Spend no time arguing with people whose idea you know to be stupid (p. 98)
-
 - George Soros: once we realize that imperfect understanding is the human condition, there’s no shame in being wrong, only in failing to correct our mistakes (p. 98)
 	- relate with error-correction notes
 - Study, and look for, counter-evidence. (p. 99) 
@@ -323,6 +337,7 @@ date: 2024-08-15
 - On negotiation. Don’t get into one where you can’t afford to walk away from. Don’t bargain with people you love. (pp. 105-106)
 - Don’t throw good money after bad (p. 106) 
 	- relate with you don’t have to recover by the same way as you lost it memos
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 - The stock doesn’t care what you paid or that you own it (p. 106) 
 	- develop implication for activists
 	- develop implication for ownership #revisit 
@@ -368,7 +383,7 @@ date: 2024-08-15
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowing creation is about debate and reconfiguration.
 - Medical maxim, first do no harm. (p. 114)
-- Exactitude /= truth (p. 114)
+- Exactitude ≠ truth (p. 114)
 - Montaigne: “yes but is it true?” (p. 115)
 - Science is about not fooling yourself (p. 115)
 - Take ideas seriously and show how absurd that idea is (p. 116) 
@@ -436,7 +451,7 @@ date: 2024-08-15
 - Fact check quote #1098 (p. 132)
 - Is the upside worth it? If not worth doing it, don’t (p. 132)
 - On Napoleon’s mother (p. 133)
-## part iii
+## PART THREE: ON WHAT ELSE DOESN’T WORK AND WHAT DOES IN BUSINESS AND INVESTING
 - investment is business of capital allocation (p. 134)
 - on zero and negative interest rates (pp. 135-136)
 	- check the timeline of quotes
@@ -612,14 +627,20 @@ date: 2024-08-15
 - questions to ask when investing (p. 197)
 - best time to get rick is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
 	- relate with cash is the gun to hunt rare fast-moving elephants memo
-## part iv
+## PART FOUR: ON FILTERS AND RULES
 - get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
-- when it’s too simple it might not spread fast. (p. 202)
-- narrow it down to the important and knowable. (p. 203)
-	- relate with solve important problems note
-- circle of competence is about knowing your limit (p. 203)
-	- relate with mark twain quote #TODO 
-	- it’s more epistemological concept than I initially thought
+- When it’s too simple it might not spread fast. (p. 202)
+	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology #revisit 
+		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
+		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
+- Narrow it down to the important and knowable. (p. 203)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[2-1b3a1 Narrow it down so you can have a chance to build your own moat]]
+	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
+- Circle of competence is about knowing your limit (p. 203)
+	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+		- It’s more epistemological concept than I initially thought
 - you mix raisins and turds, you still get turds (p. 205)
 - mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
 	- relate with media notes
@@ -637,7 +658,7 @@ date: 2024-08-15
 	- relate with munger’s comment on li lu
 - do with what’s available (p. 210)
 	- similar in spirit with concentric circle (how children acquire languages) note
-		- that is, you have to widen your circle of competence (i think you can replace this with conception of reality) reflexively
+		- that is, you have to widen (or deepen, or clarify) your circle of competence (i think you can replace this with conception of reality) reflexively
 - comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
 - the goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
@@ -658,34 +679,38 @@ date: 2024-08-15
 	- relate with black swan notes and surprise notes
 	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
-### 1.
+### 1. What Investing in Financial Assets is All About
 - Investment is about cash (p. 1)
 - And return (p. 1) 
 	- relate return is about how much and when and surety, as well as comparable ones.
-	- **return matters in comparison with other possible returns**
-		- return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
-### 2. 
+	- **Return matters in comparison with other possible returns**
+		- Return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
+			- [[12-1e4 Nothing is objectively and independently good]]
+			- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+### 2. Valuation
 - Because it’s all about cash, the business specifics don’t matter (p. 2) 
-	- relate with money abstraction notes.
-- Work so the a range of possibilities (p. 3) 
+	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+- Work with a range of possibilities (p. 3) 
 	- relate with evolution and could’ve been notes.
 - Intrinsic value approach is the only logical approach (p. 3) 
-### 3. 
-- Bond /= equity (p. 4) 
-	- relate with MES notes, also revisit Ayache’s argument on CBs.
+### 3. The Value of a Business
+- Bond ≠ equity (p. 4) 
+	- [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
+	- revisit Ayache’s argument on CBs.
 - Book value doesn’t matter, it’s per-share intrinsic value that matters (p. 4)
 - any investment (intrinsic value calculation) must be calculated using its excess in comparison with some other possible investment (p. 5) 
 - Div yield, PER, PBR, growth rates, etc per se don’t matter (p. 5)
 - Discounted-flows-of-cash is what matters. Volatility doesn’t matter. (p. 6)
 - Always subtract capex (p. 6) 
-	- relate with capital per se is not permanent note.
+	- [[13-5d3 Capital per se is not permanent]]
 - Earnings is arbitrary (p. 6) 
 	- there is no objective number.
+	- [[1-1a2e11 Nothing objectively represents the represented]]
 - Know what to measure, otherwise you might end up making up the number (p. 7)
-### 4. 
+### 4. Return on Tangible Invested Capital Reflects the Cash Flow Generating Characteristics of the Business
 - Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
 - Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
-### 5. business characteristics
+### 5. Business Characteristics: The Great, the Good and the Gruesome
 - inverted: don’t invest in companies signaling DMU
 - inverted: pricing power is essential in inflationary environment
 	- consumer franchise is the key to pricing power, not production cost
@@ -697,12 +722,13 @@ date: 2024-08-15
 - Try to compete with that business in your mind (p. 11) 
 	- relate with argue better than against your own idea better than the opponent memos and notes.
 - Ask: does it have any close substitute? (p. 11) 
-	- relate with anything can be substituted notes.
+	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
 - The best protection against inflation is a great business (p. 11) 
 	- challenge this #revisit 
 - Businesses needing not much in tangible assets are hurt the least by inflation (p. 12)
 - See’s had minimized need for tangible assets (operating funds) because it was sold for cash and production cycle was short so didn’t have inventory issues (p. 12) 
-	- relate with iteration notes.
+	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - Reputation creates value for See’s (and not production cost) and is the source of goodwill (p. 13)
 - Ask Microsoft or Google (p. 13) 
 	- relate with infinite leverage memos and notes
@@ -721,7 +747,7 @@ date: 2024-08-15
 	- relate with it takes longer and costs more memos and notes
 #### d. other tough businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
-	- relate with think probabilistically notes.
+	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - growth has its limits (p. 21)
 #### e. on accounting goodwill
 - Ch. 5-E is about the difference between a good business and a good purchase
@@ -729,36 +755,37 @@ date: 2024-08-15
 	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets Lachmann
 	- but when you are buying the business as an investment, then relevant return is within the framework of Portfolio Strucure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
-### 6. past results
-- personal thought—housing bubbles in tokyo reminds me of ones which led to GFC (p. 27)
+### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous
 - relate the following with the network effect: survival of the fattest (p. 29)
 - have fun, then it will compound, then you widen the moat (p. 31)
-### 7. trustworthy mgmt
+### 7. The Importance of Trustworthy and Talented Management
 - personal thought: who’s allocating the capital for us? (p. 34)
 - personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
 	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
 		- is this where smart contracts can make a difference?
 			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
-### 9. corporate governance
+### The Importance of Clear Yardsticks to Judge Management Performance
+### 9. Corporate Governance
 - skin in the game (p. 39)
 - in buffett’s *owner-capitalism*, the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
 	- directors ≠ managers
 		- the former functions as a check on the latter (社長/CEO) power—on daily basis the latter decides company matters
-### 10. owners and mgmt
+### 10. Owners and Management
 - on “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
 - incentives work regardless of the scale
 - “hire well, manage little” code
 - follow the Golden Rule
-	- relate with relativity notes (e.g., imagine being in the other’s shoe note)
+	- imagine being in the other’s shoe
+	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
 - on managers’ mindset (p. 42)
 - on what counts, and not how it’s counted
-### 11. compensation
+### 11. Management Compensation: I Get What I Reward For
 - at Berkshire, mgmt (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
 - avoid capricious incentive structure (p. 44) #revisit 
 	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
 	- ask: is the current incentive structure “capricious”?
 	- ask: would rewarding XXX based on YYY’s performance capricious?
-### 12. mergers and acquisitions
+### 12. Mergers and Acquisitions: Dumb Acquisitions Cost Owners Far More than Most Other Things
 - Demonstrated consistent earning power >>> projection or turnaround (p. 48)
 - Again, always think about the alternatives (e.g., passive investment) (p. 49)
 - Again, per-share intrinsic value >>> reported number (p. 50) 
@@ -779,27 +806,31 @@ date: 2024-08-15
 - Earnings simply don’t move smoothly. (p. 54)
 - The story of the man with an ailing horse (p. 55) 
 	- relate with independent thinking memos and notes
-### 13. few mgmt issues
+### 13. A Few Management Issues
 - imitation has a limitation (p. 56)
 	- relate with singleton quote
 - no yo-yo approach—do what makes sense for the customers (p. 59)
 - three key questions (p. 59) #revisit 
-### 14. prevention
+### 14. How to Reduce Risk: Prevention is Better than Cure
 - keep it simple (p. 61)
 - do the basics well (p. 62)
 - a chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
-- if it’s not worth doing, it’s not worth doing well (p. 63)
-	- relate with then what filter memo and higher-order consequences notes
-- defining what you don’t know is essential in investing as well (p. 64)
+	- [[6-8 Train your weakest link]]
+- If it’s not worth doing, it’s not worth doing well (p. 63)
+	- relate with then what filter memo
+	- Only work on what matters
+		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+- Defining what you don’t know is essential in investing as well (p. 64)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - optimism is the enemy of rational buyer (p. 66)
-- simply being a contrarian is easy and doesn’t count (p. 67)
-	- relate with Deutsch quote on scientific mind
+- Simply being a contrarian is easy and doesn’t count (p. 67)
+	- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
 - when it’s raining gold, get a bucket (p. 67)
 - some things just take time—be patient (p. 69)
-- to finish first, you must first finish (p. 70)
-	- relate with avoid ruin notes
-- only cash can meet the payment (p. 71)
-	- relate with cash is the present good par excellence note
+- To finish first, you must first finish (p. 70)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- Only cash can meet the payment (p. 71)
+	- [[13-8a2.1 Money is the present good par excellence]]
 - cash is the gun to shoot rare fast-moving elephants (p. 71)
 - tight credit environment is the best opportunity for acquisitions—not when there’s easy money (p. 71)
 - CP (commercial paper) and MMF (money market fund) ≠ cash (p. 72)
@@ -827,25 +858,31 @@ date: 2024-08-15
 		- but how (and why) does the long-run kick in? does this have to happen necessarily? is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is change? maybe the rule of thumb is enough here? #revisit 
 			- maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
 				- related: [[13-5b2j There is no natural rate of interest in reality]]
-### 15. sometimes mistakes are made
-- the Noah rule and prediction (p. 80)
-	- relate with payoff notes
-- investment is most intelligent when it’s most businesslike – Ben Graham (p. 81)
+### 15. Sometimes Mistakes are Made
+- The Noah rule and prediction (p. 80)
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+	- [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
+- Ben Graham: investment is most intelligent when it’s most businesslike (p. 81)
 # other sources
-- Buffett (founders #101)
+- the tao of buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
 		- E.g., chewing gum (27:00~)
 		- Ask: what’s not going to change?
+			- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 	- public-opinion suck, don’t just build what people want
 		- Aim for specific customer segment
+			- [[RUL3 - Live in the future and build what seems interesting]]
+			- [[4-1a3b Go to specific places to get specific feedbacks]]
 		- Ask: what are rich and nerd doing?
-	- When you are sloppy in one area, you are probably sloppy elsewheere
+			- [[5-3c Knowledge is irreversible, and can only go from private to public]]
+			- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
+	- When you are sloppy in one area, you are probably sloppy elsewhere
 	- writing is the best help for thinking
-- bevelin on Buffett (founders #202)
+- bevelin on buffett (founders #202)
 	- Steve Jobs intensely studied Disney
 		- Only Disney was making money lucratively in animation business, and the recipe was hidden
-	- growth is easy to measure, durability isn’t (~27:00)
-- Buffett (founders #227)
+	- growth is easy to measure, durability isn’t (~27:00) #revisit 
+- the essays of buffett (founders #227)
 	- Bruce Lee: hack the unessential 
 	- Good business run by good manager is rare.
 	- It’s all about free cash flow.
@@ -859,7 +896,7 @@ date: 2024-08-15
 		- Cost can be controlled (James J. Hill)
 	- Buffett’s pitch (1:35:00)
 	- There would be no auto industry with horses
-- Buffett munger bevelin episode #286
+- buffett munger by bevelin episode (founders #286)
 	- relate (as well as create)
 		- The former can be as powerful as the latter
 			- also avoiding bad ones
@@ -884,13 +921,14 @@ date: 2024-08-15
 	- interest rate to asset price is what gravity is to apple (48m)
 	- brand matters
 	- learning is about changing your behavior, not memorization (53m)
-		- in other words, effect in the real world (relate with knowledge impacts reality note)
+		- in other words, effect in the real world
+			- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
 	- human nature never changes (55m)
 		- challenge this #revisit 
 	- customer is the boss—just cut out what irritates them (1h1m)
 	- play with good players—the story of eddie (1h5m)
 	- look for weak competition—competence is relative concept (1h6m)
-- on buffett and munger (#380) ~32m
+- 400 pages of buffett and munger (#380) ~1h7m
 	- yogi berra on observing (9m)
 	- cut envy
 	- deserve what you get
@@ -908,7 +946,7 @@ date: 2024-08-15
 		- Jeff Bezos story on Amazon’s stock price going down from $103 to $6
 	- share what’s important to you
 	- Variance in listed companies’ CEOs ≠ that of Olympic team. So if you find good ones stick with them, because they are rare.
-		- relate with knowledge is rare notes
+		- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
 	- Isadore Sharpe doubling down on ads when everyone was cutting it down because they saw it as a cost.
 	- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. Projects >>> plan. #revisit 
 	- Be easy to interface with (49m)

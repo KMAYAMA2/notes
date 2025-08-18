@@ -190,7 +190,7 @@
 		- Related: [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 - Know our limitations
 	- The best part of our knowledge is that which teaches us where knowledge leaves off and ignorance begins. Nothing more clearly separates a vulgar from a superior mind, than the confusion in the first between the little that it truly knows, on the one hand, and what it half knows and what it thinks it knows on the other. (Oliver Wendell Holmes)
-		- Related: [[3-1a4b2' Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+		- Related: [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 
 Related:
 - [[1-1a6 To live is to live like a detective]]
