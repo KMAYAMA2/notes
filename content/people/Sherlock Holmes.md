@@ -2,7 +2,7 @@
 - Martin Gardner on Sherlock Holmes
 	- Deductions were made from the hypothesis; then the theory was further tested against new evidence, revised if need be, until finally the truth emerged with a probability close to certainty. (Martin Gardner)
 		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
-		- Related: [[1-1a5b4.5 Our eyes produce clarity through a perpetual process of adjustment]]
+		- Related: [[1-1a5b4.4a Our eyes produce clarity through a perpetual process of adjustment]]
 - On multidisciplinary perspective
 	- One’s ideas must be as broad as Nature if they are to interpret Nature. (Holmes; A Study in Scarlet)
 		- Related: [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]

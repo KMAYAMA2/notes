@@ -1,0 +1,112 @@
+---
+date: 2025-08-19
+---
+
+- marc andreessen (founders #50)—see [this](https://a16z.com/the-pmarca-blog-archive-is-back-as-an-ebook/)
+	- enough reasons to start a start-up: no one tells you what to do, also success-failure feedback, create a not-yet-existent product, and build a culture (3m)
+	- Part 1: why not to do a startup 
+		- emotional turmoil
+		- ben horowitz (founders #41) was marc’s business partner
+			- you’ve got to row by yourself
+				- relate with buffett and munger’s no master plan notes
+		- you get to told no
+		- hiring is huge pain in the ass
+			- marc was Jim Clark’s Silicon Glaphics’ one of first dozen employees 
+		- you have to hire executives at some point
+		- work life balance
+		- culture is easy to go sideways
+		- stock market crush etc
+		- then deciding what to build
+	- Part 4: the only thing that matters (p. 25~) (11m)
+		- divergence in results
+		- divergence in the core three things
+			- team
+			- product
+			- market
+				- this correlates the most with success
+		- market needs to be filled, even MVPs will do (15m)
+			- just answer the phone
+			- team is easy to upgrade on the fly with big enough market
+		- andy rachleff (of benchmark capital)
+			- rachleff’s law of startup success (p. 28) #revisit 
+				- market matters most
+			- rachleff’s corollary of startup success (p. 30)
+				- “the only thing that matters is getting to product/market fit”
+					- to be in good market with products that satisfy that market
+					- you will be able to feel it when you have it (or not)
+				- BPMF and APMF
+					- during BPMF, just get PMF
+						- everything else doesn’t really matter until then
+	- Part 5: the moby dick theory of big companies (p. 33~) (20m)
+		- you are captain ahab and the big company is moby dick
+			- the latter doesn’t know what they are going to do themselves (how could outsiders predict them then)
+				- relate with stupidity notes
+				- relate with overcomplication-simplicity memos and notes
+		- decision making process at early 90’s IBM called “concurrence”
+		- don’t do startups that require deals with big companies to make them successful (24m)
+			- the risk of not closing the deal is too high
+			- the risk you don’t get that payment is too high
+			- the risk you have to wait is too high
+			- the risk they don’t address obvious things is too high
+		- the big companies don’t care about what startups are doing, they care more about what other big companies are doing (and less about customers)
+		- don’t get obsessed—don’t become captain ahab
+	- Part 7: why a startup’s initial business plan doesn’t matter that much (p. 49~) (26m)
+		- aggressively seek out big market, then PMF within that market, only then plan
+			- relate with world is complex and uncertain notes
+			- e.g., Microsoft, Oracle (Larry Ellison), Intel (Andy Grove switching focus from memory chips to CPU—listen to founders #8 intel trinity)
+		- Thomas Edison (in The Wizard of Menlo Park, by Randall Stross—or listen to founders #3)
+			- phonograph (the forerunner to Walkman, iPod, Podcast) in 1877
+				- echoes from dead voices
+			- even thomas edison couldn’t see the potential of his own invention at the time
+	- THE PMARCA GUIDE TO CAREER (p. 96~)
+		- Part 1: opportunity
+			- do not plan your career—you will change, the industries will change, the world will change
+				- career planning = career limiting
+			- focus on pursuing opportunities
+				- that which present to you
+					- usually unexpected
+					- and come and go quickly
+					- be opportunistic
+				- that which you go out and create
+					- life is way too short to not pursue what you’d really like to do
+			- the world is a very malleable place
+			- think of your career as a portfolio of jobs and roles and opportunities (41m)
+				- relate with risk per se doesn’t matter memos and notes (most of the notes were written in the context of counterfactuals—marc’s point here is rather that risk of one specific opportunity per se doesn’t matter) #revisit 
+				- “What you should automatically do instead is put it in context with all of the other risks you are likely to take throughout your entire career and decide whether this new opportunity Fts strategically into your portfolio”
+					- this makes sense because other times are special cases of other universes #revisit 
+			- aaron brown on hiring (p. 103)
+			- kinds of risks you should take and when
+				- just out of school: skills > salary
+				- when you have family: salary > skills
+					- caveat: it’s not black and white
+				- when dissatisfied with the field: skill transition skill > staying put unhappy (47m)
+					- just look around
+				- likewise with geography risk
+				- pay attention to opportunity cost at all times
+				- taleb: seize any opportunities—they are rare, much rarer than you think #revisit 
+					- relate with probability notes
+		- Part 2: skills and education (p. 107~) (50m)
+			- “graduating with a technical degree is like heading out into the real world armed with an assault rifle instead of a dull knife”
+			- “don’t worry about being a small fish in a big pond—you want to always be in the best pond possible, because that is how you will get exposed to the best people and the best opportunities in your field”
+				- relate with go for the best with the best people memos and notes
+			- be a double/triple/quadruple threat, inspired by scott adams (dilbert)
+				- relate with be good at multiple things notes
+				- relate with be the only instead of the best notes
+				- be good at:
+					- communication
+						- relate with algo notes
+						- relate with relativity notes
+					- management
+					- sales
+						- offer something they should want
+						- convince people that something is in their best interest to do even when they don’t realize it upfront
+							- relate with bob noyce notes
+					- finance
+					- international
+			- the risk of raising *the organization kid*
+				- “you have yet to make tough decisions, by yourself, in the absence of good information, and to live with the consequences of screwing up”
+					- this is what building a company is
+			- “If you’re going to be a high achiever, you’re going to be in lots of situations where you’re going to be quickly making decisions in the presence of incomplete or incorrect information, under intense time pressure, and often under intense political pressure. You’re going to screw up — frequently — and the screwups will have serious consequences, and you’ll feel incredibly stupid every time. It can’t faze you — you have to be able to just get right back up and keep on going. That may be the most valuable skill you can ever learn.”
+		- Part 3: where to go and why (p. 120~) #revisit 
+			- “Pick an industry where the founders of the industry — the founders of the important companies in the industry — are still alive and actively involved”
+			- “Once you have picked an industry, get right to the center of it as fast as you possibly can.”

@@ -85,6 +85,7 @@ date: 2024-08-15
 - Building arks >>> predicting rain (p. 37) 
 	- relate with payoff and ruin notes
 - Masterplan implies expectations (p. 37)
+	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - the Golden Rule >>> self-serving bias (p. 38)
 - Munger indirectly preaching the importance of having win-win relationships (p. 38) 
 	- win-win might materialize in time, and isn’t necessarily instant #revisit 
@@ -114,7 +115,7 @@ date: 2024-08-15
 - On the 2007 housing crisis (pp. 44-45) #revisit 
 - Delusions produce bubbles (p. 45)
 - When you buy something for a sound reason, make sure the reason stays sound (p. 45) 
-	- relate with recalibration notes
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - If something can’t go on forever, it’ll end (p. 45) 
 	- relate with biases notes
 - Things take longer to for it to happen, and when it happens it happens faster than you think (p. 46) 
@@ -253,10 +254,10 @@ date: 2024-08-15
 - Wishing is poison in business (p. 92)
 - Munger quote an adapting to reality as it is (p. 92) 
 	- relate with Sherlock notes 
-	- relate with recalibration notes
+	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 - Avoid ‘thumb-sucking’ (p. 92)
 - Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
-	- [[Truth is about correspondence with reality]] 
+	- [[1-1a5b4.5 Truth is about correspondence with reality]] #revisit 
 	- relate with reality catches up with you memos and notes
 - If you have a problem, act now (pp. 92-93) 
 	- relate with problem-solving notes #revisit  
@@ -315,7 +316,7 @@ date: 2024-08-15
 - On bridge. Information compounds. (p. 102) 
 	- relate with more is different notes
 - On master planning. What is needed is the kind of propensity to disbelieve by changing your previous conclusions. Mike Tyson quote. (p. 102) 
-	- relate with map and territory notes
+	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 - “If the terrain and the map disagree, follow the terrain.” “One look is worth thousand words.” (p. 102)
 - Bion of Borysthenes’ quote on adapting to circumstances just as sailors do (p. 103) #revisit 
 - The greatest advantage is in not having a strategic plan (p. 103)
@@ -327,7 +328,8 @@ date: 2024-08-15
 	- relate with ownership notes
 - Five positive interactions = one negative interaction (p. 104)
 - A man reacts with intense irrationally to even a small loss (p. 104) 
-	- relate with don’t lose memos and notes
+	- [[2-1b2b3 Don't invest what you can't afford to lose]]
+	- [[4-1e Emphasize what they’ll miss out on, rather than what they can get]]
 - Defenders of a territory >>> intruders of the same species (p. 105)
 - Never contend with a man who has nothing to lose, but more so with a man who has everything to lose (p. 105) 
 	- relate with negotiation and biases notes
@@ -625,7 +627,7 @@ date: 2024-08-15
 - simple stuff is generally overlooked (p. 197)
 	- relate with simple stuff might not spread fast memo
 - questions to ask when investing (p. 197)
-- best time to get rick is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
+- best time to get rich is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
 	- relate with cash is the gun to hunt rare fast-moving elephants memo
 ## PART FOUR: ON FILTERS AND RULES
 - get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
@@ -917,6 +919,7 @@ date: 2024-08-15
 		- he wanted to avoid certain customers
 	- no master plans
 		- keep reacting
+			- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
 	- communicate who when what why
 	- interest rate to asset price is what gravity is to apple (48m)
 	- brand matters

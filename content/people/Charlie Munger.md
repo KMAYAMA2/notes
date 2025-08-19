@@ -14,7 +14,7 @@
 	- [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
 		- [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying]]
 - “I think it’s a *huge* mistake not to absorb elementary worldly wisdom if you’re capable of doing it because it makes you better able to serve others, it makes you better able to serve yourself and it makes life more fun... I’m passionate about wisdom. I’m passionate about *accuracy* and some kinds of *curiosity*." (p. 15)
-	- [[Truth is about correspondence with reality]]
+	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 ## Part One: What Influences Our Thinking?
 - If you attempted to count the number of connections, one per second, in the mantle of our brain (the cerebral cortex), you would finish counting 32 million years later. But that is not the whole story. The way the brain is connected — its neuroanatomical pattern — is enormously intricate. Within this anatomy a remarkable set of dynamic events take place in hundredths of a second and the number of levels controlling these events, from molecules to behaviour, is quite large. Since it is the connections between neurons that cause our mental capacities, it is not the number of cells that is important but the number of potential connections between them. (pp. 20-21)
 	- The more is different. #revisit 
