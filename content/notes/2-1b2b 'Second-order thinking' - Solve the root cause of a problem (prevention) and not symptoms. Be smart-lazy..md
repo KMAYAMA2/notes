@@ -1,5 +1,7 @@
 > “For someone who is early in their career (and maybe even later), the single most important thing about a company is the alumni network you’re going to build. Think about who you will work with and what those people are going on to do.“ — [[Naval Ravikant]]
 
+> “I don’t want to be a great-problem-solver. I want to avoid problems—prevent them from happening and doing right from the beginning.” – [[Peter Bevelin]]
+
 Save keystrokes.
 
 Next:

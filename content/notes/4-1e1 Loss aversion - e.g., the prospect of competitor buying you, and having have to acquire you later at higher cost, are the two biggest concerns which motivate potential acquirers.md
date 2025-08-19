@@ -1,3 +1,5 @@
+A man reacts with intense irrationally to even a small loss.
+
 [[5-2 What counts cannot be counted]]
 [[5-2a2 What gets measured gets managed]]
 

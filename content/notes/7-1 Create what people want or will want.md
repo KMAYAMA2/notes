@@ -15,4 +15,4 @@ Next:
 - [[7-2 Long optionality, volatility, change]]
 
 Related:
-- [[Truth is about correspondence with reality]]
+- [[1-1a5b4.5 Truth is about correspondence with reality]]

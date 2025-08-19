@@ -4,7 +4,7 @@
 
 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.
 
-Remember: [[Truth is about correspondence with reality |truth is about correspondence with reality]].
+Remember: [[1-1a5b4.5 Truth is about correspondence with reality|truth is about correspondence with reality]].
 
 Next:
 - [[10-2g3d1.1 Humans create their own cause]]
