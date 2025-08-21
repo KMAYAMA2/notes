@@ -6,7 +6,7 @@
 		- Or with legacy media (incl govt) prone to distortion [Shadow-statistics]
 			- NYT distorted best selling data
 			- Google results are somewhat better but still manipulation-prone
-				- [[Know what to measure]]
+				- [[5-2a0 Know what to measure]]
 			- China's COVID death figures
 			- SF crime rate
 			- US inflation

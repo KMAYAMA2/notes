@@ -16,7 +16,7 @@ Related:
 	- [[1-1a5b4.3 build-launch-measure-learn and iterate - don't restart]]
 	- [[5-2a1 You get what you measure]]
 	- [[5-2a2 What gets measured gets managed]]
-	- [[Know what to measure]]
+	- [[5-2a0 Know what to measure]]
 	- [[There are things that cannot be measured]]
 
 - [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]

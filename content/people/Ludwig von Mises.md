@@ -152,7 +152,7 @@
 - Human action originates change. As far as there is human action there is no stability, but ceaseless alteration. The historical process is a sequence of changes. It is beyond the power of man to stop it and to bring about an age of stability in which all history comes to a standstill. It is man’s nature to strive after improvement, to beget new ideas, and to rearrange the conditions of his life according to these ideas. (p. 366)
 	- Relate: [[David Deutsch]] and [[Elie Ayache]] #Ayache
 - In the imaginary—and, of course, unrealizable—state of rigidity and stability there are no changes to be measured. In the actual world of permanent change there are no fixed points, objects, qualities or relations with regard to which changes could be measured. (p. 367)
-	- Related: [[Know what to measure|Know what to measure]]. #develop 
+	- Related: [[5-2a0 Know what to measure|5-2a0 Know what to measure]]. #develop 
 	- Related: [[There are things that cannot be measured]]. #develop 
 #### 5. The Root of the Stabilization Idea
 - The fact that rigidity in the monetary unit’s purchasing power is unthinkable and unrealizable does not impair the methods of economic calculation. What economic calculation requires is a monetary system whose functioning is not sabotaged by government interference. (p. 367)

@@ -7,7 +7,7 @@ Related:
 	- [[13-1a2a The action axiom implies success and failure]]
 		- [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]
 	- [[4-1a3 Each conversation has to end either a success or a failure, you have to zone-in when you are ‘friend-zoned’]]
-		- [[Know what to measure]]
+		- [[5-2a0 Know what to measure]]
 - On adaptation
 	- [[1-1a2e3 Cultures are evolution’s ultimate solution to the problem of providing adaptive flexibility]]
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]

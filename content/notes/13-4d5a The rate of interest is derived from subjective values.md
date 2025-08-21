@@ -1,7 +1,10 @@
 ---
 date: 2025-07-02
 ---
-Market interest is impartial just like market price. In free market, at least.
+The market interest is impartial just like market price—at least in the free market.
+
+Next:
+- [[13-4d5b There is no risk-free interest in the free market]]
 
 Related:
 - [[Prices are one but many]] #revisit 

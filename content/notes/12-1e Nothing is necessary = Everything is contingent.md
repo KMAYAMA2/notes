@@ -34,4 +34,4 @@ Next:
 - [[13-1a3c We will never attain objectivity]]
 - [[13-1a3.4 There are no objective or real costs that determine price]]
 - [[13-5b2j There is no natural rate of interest in reality]]
-- [[13-5b2k There is no such thing as mispricing]]
+- [[13-5b2k There is no such thing as mispricing, at least objectively]]

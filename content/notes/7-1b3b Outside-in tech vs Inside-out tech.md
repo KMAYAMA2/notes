@@ -18,7 +18,7 @@
 	- Blockchains are the only credible counterweight to these centralizing forces
 		- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
 
-- Disruptive tech are harder to spot than sustaining ones, more so because media works with big tech companies - e.g., [[Know what to measure]] Another reason why [[3-1c1d You must build your own media distribution to avoid distortion for yourself and others]] and to find crypto-native communities for quality information (e.g., Farcaster). Remember: [[3-1c1d1 Journalists distort our reality by 10,000x]].
+- Disruptive tech are harder to spot than sustaining ones, more so because media works with big tech companies - e.g., [[5-2a0 Know what to measure]] Another reason why [[3-1c1d You must build your own media distribution to avoid distortion for yourself and others]] and to find crypto-native communities for quality information (e.g., Farcaster). Remember: [[3-1c1d1 Journalists distort our reality by 10,000x]].
 	- iPhone was not sustaining tech because it disrupted the market for computers not just for phones (e.g., [[8-1c4a1 iPhone and texting (along with visual voicemail) boosted each other]])
 		- [[5-2 What counts cannot be counted]]
 			- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]

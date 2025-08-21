@@ -1,9 +1,11 @@
 ---
 date: 2025-07-11
 ---
-There is no objective (or “natural”) price. 適正価格など存在しない.
+But to the extent stocks represent companies, *deviations* can exist (e.g., see [[Warren Buffett]] and [[Charlie Munger]]). #revisit 
 
-Relate with Lachmann #revisit 
+Put differently, there is no objective (or “natural”) price. 適正価格など存在しない.
+
+Relate with [[Ludwig Lachmann]]. #revisit 
 
 Related:
 - [[11-1d There is no objective risk]]

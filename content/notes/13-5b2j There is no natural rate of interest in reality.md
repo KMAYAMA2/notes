@@ -6,7 +6,8 @@ Because we create knowledge—the Rothbardian assumption here (e.g., below) is t
 “Just as speculative errors in regard to commodity prices cause losses and impel further change to the “real” underlying price, so speculative errors will be self-correcting here too and lead the rate of interest to the height determined by underlying time preferences.” (pp. 448-449)
 
 Next:
-- [[13-5b2k There is no such thing as mispricing]]
+
+- [[13-5b2k There is no such thing as mispricing, at least objectively]]
 
 Related:
 - [[11-1d There is no objective risk]]

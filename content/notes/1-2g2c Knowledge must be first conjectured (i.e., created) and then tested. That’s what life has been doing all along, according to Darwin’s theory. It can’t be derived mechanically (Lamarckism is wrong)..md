@@ -4,5 +4,5 @@
 Crazy connections:
 [[3-1c Know what your problems are]]
 [[3-1c3d Problems should be well defined and should be actionable]]
-[[Know what to measure]]
+[[5-2a0 Know what to measure]]
 [[10-2g2c2 Human minds are capable of knowing what ideas mean]]

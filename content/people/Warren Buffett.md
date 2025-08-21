@@ -4,7 +4,7 @@ date: 2024-08-15
 - “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
-- prevention is primarily about avoiding ruin (p. 4)
+- Prevention is primarily about avoiding ruin (p. 4)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - relate what you are reading to the basic (p. 5)
 	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
@@ -132,7 +132,7 @@ date: 2024-08-15
 - Beware, and work with people who are also aware, the ‘institutional imperative’ (p. 47)
 - ‘Everybody else is doing it’ is a red flag (p. 48)
 - Unusual managerial discipline is required to measure profitability over volume. (p. 48) 
-	- [[Know what to measure]]
+	- [[5-2a0 Know what to measure]]
 	- [[5-2a1 You get what you measure]]
 - “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
@@ -604,6 +604,7 @@ date: 2024-08-15
 			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
 				- if so, what’s the implication for Buffett’s view? #revisit 
 - roughly right >>> precisely wrong (p. 189)
+	- relate with fallibilism notes
 - common sense >>> computer models (p. 189)
 - you shouldn’t need a spreadsheet to decide (p. 190)
 	- relate with decision should be obvious memo from (p. 138) above
@@ -684,31 +685,39 @@ date: 2024-08-15
 ### 1. What Investing in Financial Assets is All About
 - Investment is about cash (p. 1)
 - And return (p. 1) 
-	- relate return is about how much and when and surety, as well as comparable ones.
+	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 	- **Return matters in comparison with other possible returns**
-		- Return per se doesn’t matter—it’s all about opportunity cost and choosing the best option
+		- Return per se doesn’t matter—it’s all about opportunity cost and *choosing the best option*
 			- [[12-1e4 Nothing is objectively and independently good]]
+			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 			- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 ### 2. Valuation
 - Because it’s all about cash, the business specifics don’t matter (p. 2) 
 	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 - Work with a range of possibilities (p. 3) 
-	- relate with evolution and could’ve been notes.
+	- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
 - Intrinsic value approach is the only logical approach (p. 3) 
+	- [[13-5b2k There is no such thing as mispricing, at least objectively]] #revisit 
 ### 3. The Value of a Business
-- Bond ≠ equity (p. 4) 
+- Bond ≠ Equity (p. 4) 
 	- [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
-	- revisit Ayache’s argument on CBs.
+	- Revisit Ayache’s argument on CBs #revisit 
 - Book value doesn’t matter, it’s per-share intrinsic value that matters (p. 4)
-- any investment (intrinsic value calculation) must be calculated using its excess in comparison with some other possible investment (p. 5) 
-- Div yield, PER, PBR, growth rates, etc per se don’t matter (p. 5)
+	- See [[Henry Singleton]] #revisit 
+- Any investment (intrinsic value calculation) must be calculated using its excess in comparison with some other possible investment (p. 5)
+	- The street standard is to use “risk-free” interest rate
+		- [[13-4d5b There is no risk-free interest in the free market]]
+			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]] 
+- The likes of dividend yield, PER, PBR, growth rates *per se* don’t matter (p. 5)
 - Discounted-flows-of-cash is what matters. Volatility doesn’t matter. (p. 6)
 - Always subtract capex (p. 6) 
 	- [[13-5d3 Capital per se is not permanent]]
 - Earnings is arbitrary (p. 6) 
-	- there is no objective number.
+	- There is no objective number.
 	- [[1-1a2e11 Nothing objectively represents the represented]]
 - Know what to measure, otherwise you might end up making up the number (p. 7)
+	- [[5-2a0 Know what to measure]]
+	- [[5-2a2 What gets measured gets managed]]
 ### 4. Return on Tangible Invested Capital Reflects the Cash Flow Generating Characteristics of the Business
 - Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
 - Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
@@ -917,8 +926,8 @@ date: 2024-08-15
 		- time is the best filter
 	- sol price’s membership model
 		- he wanted to avoid certain customers
-	- no master plans
-		- keep reacting
+	- No master plans
+		- Keep reacting
 			- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
 	- communicate who when what why
 	- interest rate to asset price is what gravity is to apple (48m)

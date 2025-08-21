@@ -9,4 +9,4 @@ Related:
 	- [[13-1a3d Any improvement is subjective]]
 - On measure
 	- [[5-2 What counts cannot be counted]]
-	- [[Know what to measure]]
+	- [[5-2a0 Know what to measure]]
