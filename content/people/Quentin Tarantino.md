@@ -1,0 +1,37 @@
+---
+date: 2025-08-21
+---
+- quentin tarantino: *cinema speculation* (founders #344)
+	- his is recognizable (10m)
+		- relate with buffett memos on brand
+	- he was watching adult movies when he was like 7 or 8
+	- as he reads biographies he thinks in movies (19m)
+	- he spent a decade studying movies before his first script (29m)
+		- magnus carlsen winning the chess trivia 
+	- he had his own database of movies he watched in index cards
+	- you have to put more reps
+		- similar with napoleon on reading the works of alexandar the great over and over again (listen to founders #337)
+	- “how bad do you want it?”
+		- e.g., 14yo steve jobs and bill hewlett
+	- sam zell, charlie munger, quentin tarantino—they all practiced what they learned and knew (the key is that the latter very likely preceded the former) #revisit 
+	- an obsession >>> a job (37m)
+	- movie brats were film geeks-nerds
+	- david found podcast in 2010, but his first episode was back in 2016
+	- on spielberg’s jaws (1975)
+	- “film directors do not get better as they get older”
+	- he hated the play-it-safe-80s movies
+	- belief comes before ability (45m)
+		- relate with do it before ready memos and notes
+	- “approaching my cinema with a fearlessness of the eventual outcome”
+		- saying no to cutting ear-cutting-off scene in reservoir dogs
+		- saying to not casting off john travolta from pulp fiction
+	- a director = an entrepreneur
+		- a movie = a project = a miniature business
+		- robert friedland (founders #131)
+	- lessons:
+		- if you love your work, that will increase your enjoyment of your life
+		- importance of knowing your industry than anyone else
+		- passion and enthusiasm is infectious
+		- importance of building the historical database that you can then use and that can influence and benefit your work many years into the future
+	- on kevin thomas (who reviewed movies for the Los Angeles Times) approach vs other movie critics
+		- and on kevin thomas’ highlighting robert forster leading tarantino to cast him for the main jackie brown role years later

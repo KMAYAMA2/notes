@@ -1,0 +1,41 @@
+---
+date: 2025-08-22
+---
+
+- jeff bezos (founders #388) ~47m
+	- it’s all about the long term
+	- bezos (and jobs) studied akio morita (盛田昭夫) of sony—listen to founders #386
+	- the failure has to scale as the company gets bigger (10m)
+	- Amazon is basically a market of its own #revisit 
+	- sam walton: “there’s only one boss, and that is the customer—they can fire us anytime they want by spending their money elsewhere”
+	- three questions to ask in hiring meetings before making a decision:
+		- will you admire this person?
+		- will this person raise the average level of effectiveness of the group?
+		- along what dimensions might this person be a superstar?
+	- the platform allows us to launch new e-commerce businesses faster (24m)
+		- Amazon is a company that builds other companies #revisit 
+			- relate with it gets easier notes
+	- find your life’s work
+	- emphasis on introductions for new customers
+		- estee lauder in early days (founders #361)
+		- relate with CTA notes
+	- bezos connects everything to amazon #revisit 
+	- doubly blessed: market size unconstrained opportunity + the underlying foundational tech is improving day by day
+		- relate with build in anticipation of cost going down notes 
+	- concern yourself only with the controllables (32m)
+		- internet bubble popped—relate with buffett and jensen huang
+	- landrush metaphor and electricity metaphor #revisit 
+	- internet destroys the middle—get big fast
+	- amazon uses the tech not only to reduce costs but also to drive adoption and revenue, unlike physical retailers (36m)
+	- cost improvement → lower prices → growth → spreads fixed costs across more sales → reducing cost per unit → more price reductions… (37m) #revisit 
+	- selection, convenience, then lowering prices
+		- relate with focus on few variables memos and notes
+		- jim sinegal (bezos met him when he was in late 30s)
+			- the birth of amazon prime
+	- what is good for customers is good for shareholders #revisit 
+		- think about implication for activists
+	- ford: maximum service with minimum cost
+	- if you want to do anything special, you have to be willing to be misunderstood
+		- negative reviews are for the long-run #revisit 
+	- on the need for good judgement and why data may lead you to make the wrong decision (relate with the notes)
+		- the structure of unstructured decision processes
