@@ -6,28 +6,28 @@ date: 2024-08-15
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
 - Prevention is primarily about avoiding ruin (p. 4)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
-- relate what you are reading to the basic (p. 5)
+- Relate what you are reading to the basics (p. 5)
 	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
-- [[1-2f1b9 Repeat what works |repeat what works]] (p. 7)
+- [[1-2f1b9 Repeat what works |Repeat what works]] (p. 7)
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
-- independent thinking over imitation (p. 9)
+- Independent thinking over imitation (p. 9)
 	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
-- on inversion (p. 10)
+- On inversion (p. 10)
 	- [[RUL3 - Invert, always invert]]
-- there’s never a shortage of human folly (p. 11)
-	- personal thought: you will find more new errors and you will increasingly get better at finding them
-		- these follies are usually cross boundaries—relatively easy to be missed #revisit 
-		- Buffett and Munger meets PG again—relate with similar note on surprises and ability to detect them
+- There’s never a shortage of human folly (p. 11)
+	- Personal thought: you will find more new errors and you will increasingly get better at finding them
+		- These follies are usually cross boundaries—relatively easy to be missed #revisit 
+		- Buffett and Munger meets [[Paul Graham]]
 			- [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
 			- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
-- grand chess masters operate by exclusion, not by speed (p. 12)
-	- relate with Rockefeller’s emphasis on quality of information over speed
-- rochefoucauld quote on seeming clever (p. 14)
+- Grand chess masters operate by exclusion, not by speed (p. 12)
+	- Relate with Rockefeller’s emphasis on quality of information over speed #revisit 
+- Rochefoucauld quote on seeming clever (p. 14)
 	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
-- samuel johnson: “I can give you an argument, but I can’t give you an understanding” (p. 15)
-- on ignorance removal
-	- we will be always ignorant (i.e., anti-rational)
+- Samuel Johnson: “I can give you an argument, but I can’t give you an understanding” (p. 15)
+- On ignorance removal
+	- We will be always ignorant (i.e., anti-rational)
 		- [[1-2 We are fallible]]
 		- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
 		- [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
@@ -631,7 +631,7 @@ date: 2024-08-15
 - best time to get rich is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
 	- relate with cash is the gun to hunt rare fast-moving elephants memo
 ## PART FOUR: ON FILTERS AND RULES
-- get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
+- Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
 - When it’s too simple it might not spread fast. (p. 202)
 	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology #revisit 
 		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
@@ -643,29 +643,33 @@ date: 2024-08-15
 - Circle of competence is about knowing your limit (p. 203)
 	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
-		- It’s more epistemological concept than I initially thought
-- you mix raisins and turds, you still get turds (p. 205)
-- mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
-	- relate with media notes
-	- relate with biases notes
-- get the no-brainers off the desk fast (p. 207)
-	- do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
-- edward tuft quote (p. 207)
-- it’s about *personal* opportunity costs, and since your value scale changes, you have to reevaluate your opportunity costs all the time (pp. 208-209)
-	- relate with value scales change notes
-	- relate with recalibration notes
+		- The concept is epistemological
+- You mix raisins and turds, you still get turds (p. 205)
+- Mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
+	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
+	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
+	- [[5-2b Errors of omission are dangerous because you make them by default]]
+- Get the no-brainers off the desk fast (p. 207)
+	- Do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
+- Edward Tuft: “The idea is to find important problems that can be solved” (p. 207)
+- It’s about *personal* opportunity costs, and since your value scale changes what’s best for you also changes—you have to reevaluate your opportunity costs all the time (pp. 208-209)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[13-6a The same individual exhibits different scale of values at different times]]
 - the more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
 	- this is implied in personal opportunity costs argument, and also in value scales notes (particularly, how what you don’t know cannot be in your value scale note)
 	- relate with it-gets-easier notes
 	- relate with how nothing is evaluated independently by us memo (p. 18)
 	- relate with munger’s comment on li lu
-- do with what’s available (p. 210)
+- do with what’s available (p. 210
 	- similar in spirit with concentric circle (how children acquire languages) note
 		- that is, you have to widen (or deepen, or clarify) your circle of competence (i think you can replace this with conception of reality) reflexively
 - comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
-- the goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
+- The goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
-- ask: then what? (p. 213)
+	- [[5-2b Errors of omission are dangerous because you make them by default]]
+- Ask: then what? (p. 213)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
 - parade-tiptoe problem (p. 215)
 	- in spirit this is spontaneous disorder phenomenon—but you can avoid this if you think through
@@ -873,8 +877,8 @@ date: 2024-08-15
 - The Noah rule and prediction (p. 80)
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 	- [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
-- Ben Graham: investment is most intelligent when it’s most businesslike (p. 81)
-# other sources
+- Ben Graham: “Investment is most intelligent when it is most businesslike” (p. 81) #revisit 
+# Other sources
 - the tao of buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
 		- E.g., chewing gum (27:00~)
@@ -889,7 +893,7 @@ date: 2024-08-15
 			- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
 	- When you are sloppy in one area, you are probably sloppy elsewhere
 	- writing is the best help for thinking
-- bevelin on buffett (founders #202)
+- Bevelin on Buffett (founders #202)
 	- Steve Jobs intensely studied Disney
 		- Only Disney was making money lucratively in animation business, and the recipe was hidden
 	- growth is easy to measure, durability isn’t (~27:00) #revisit 
