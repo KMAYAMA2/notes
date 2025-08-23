@@ -660,10 +660,12 @@ date: 2024-08-15
 	- relate with it-gets-easier notes
 	- relate with how nothing is evaluated independently by us memo (p. 18)
 	- relate with munger’s comment on li lu
-- do with what’s available (p. 210
-	- similar in spirit with concentric circle (how children acquire languages) note
-		- that is, you have to widen (or deepen, or clarify) your circle of competence (i think you can replace this with conception of reality) reflexively
-- comparing new opportunities against what’s available is the same in spirit to asking at night how what you’ve learned that day relates to what you already know (p. 211)
+- Do with what’s available (p. 210)
+	- Similar in spirit with concentric circle (how children acquire languages):
+		- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+		- That is, you have to widen (or deepen, or clarify) your circle of competence (i.e., your conception of reality) gradually and reflexively
+			- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+- Comparing new opportunities against what’s available is the same in spirit to [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this. |asking at night how what you’ve learned that day relates to what you already know]] (p. 211)
 - The goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
@@ -671,17 +673,19 @@ date: 2024-08-15
 - Ask: then what? (p. 213)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
-- parade-tiptoe problem (p. 215)
-	- in spirit this is spontaneous disorder phenomenon—but you can avoid this if you think through
+- Parade-tiptoe problem (p. 215)
+	- In spirit this is a spontaneous disorder phenomenon—but you can avoid this one if you think it through
+		- [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]
 - on Gresham and pejoristic system (p. 216)
-- don’t fool yourself (p. 217)
-	- you truly communicate when trying to fool someone—because you must think really hard about what the counterpart is thinking
-		- inspired by 福本伸行’s カイジ (mentioned in コテンラジオ: ペリー編)
-- look at the corporate cemetery (p. 218)
+- Don’t fool yourself (p. 217)
+	- [[1-2h A good explanation makes it harder to fool yourself]]
+- Look at the corporate cemetery (p. 218)
+	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #revisit 
 - opportunity cost filter + compared to what filter + then what filter (p. 219)
 	- you have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
 		- you have to figure out the multiverse—relate this with idea maze notes
-- checklists are no substitute for thinking, but powerful (p. 221)
+- Checklists are no substitute for thinking, but powerful (p. 221)
 - always surprise the enemy (p. 221)
 	- relate with black swan notes and surprise notes
 	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
@@ -770,16 +774,20 @@ date: 2024-08-15
 	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets Lachmann
 	- but when you are buying the business as an investment, then relevant return is within the framework of Portfolio Strucure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
-### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous
-- relate the following with the network effect: survival of the fattest (p. 29)
-- have fun, then it will compound, then you widen the moat (p. 31)
+### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
+- Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
+	- [[5-1b1b1a2.1 Network effect means scaling increasingly]]
+- Have fun, then it will compound, then you widen the moat (p. 31)
+	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
 ### 7. The Importance of Trustworthy and Talented Management
 - personal thought: who’s allocating the capital for us? (p. 34)
 - personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
 	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
 		- is this where smart contracts can make a difference?
 			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
-### The Importance of Clear Yardsticks to Judge Management Performance
+### 8. The Importance of Clear Yardsticks to Judge Management Performance
 ### 9. Corporate Governance
 - skin in the game (p. 39)
 - in buffett’s *owner-capitalism*, the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
@@ -795,11 +803,11 @@ date: 2024-08-15
 - on managers’ mindset (p. 42)
 - on what counts, and not how it’s counted
 ### 11. Management Compensation: I Get What I Reward For
-- at Berkshire, mgmt (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
-- avoid capricious incentive structure (p. 44) #revisit 
-	- an option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
-	- ask: is the current incentive structure “capricious”?
-	- ask: would rewarding XXX based on YYY’s performance capricious?
+- At Berkshire, management (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
+- Avoid capricious incentive structure (p. 44)
+	- An option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
+	- Ask: is the current incentive structure “capricious”?
+	- Ask: would rewarding XXX based on the performance of YYY capricious? #revisit 
 ### 12. Mergers and Acquisitions: Dumb Acquisitions Cost Owners Far More than Most Other Things
 - Demonstrated consistent earning power >>> projection or turnaround (p. 48)
 - Again, always think about the alternatives (e.g., passive investment) (p. 49)
@@ -822,10 +830,10 @@ date: 2024-08-15
 - The story of the man with an ailing horse (p. 55) 
 	- relate with independent thinking memos and notes
 ### 13. A Few Management Issues
-- imitation has a limitation (p. 56)
-	- relate with singleton quote
-- no yo-yo approach—do what makes sense for the customers (p. 59)
-- three key questions (p. 59) #revisit 
+- [[10-2g1f Imitation = limitation (imitation has limitation) |Imitation has a limitation]] (p. 56)
+	- [[Henry Singleton]]: “If everyone’s doing them, there must be something wrong with them”
+- No yo-yo approach—do what makes sense for the customers, and never add the unneeded. (p. 59)
+- What needs to be reported is data that helps financially-literate readers answer three key questions: (1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? (3) How good a job are its managers doing, given the hand they have been dealt? (p. 59) 
 ### 14. How to Reduce Risk: Prevention is Better than Cure
 - keep it simple (p. 61)
 - do the basics well (p. 62)
