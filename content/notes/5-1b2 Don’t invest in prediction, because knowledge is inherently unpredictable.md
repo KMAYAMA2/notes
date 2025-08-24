@@ -1,5 +1,7 @@
 > “Everyone has a plan until they get punched in the face” – Mike Tyson
 
+> “I like to steer the boat each day rather than plan ahead way into the future.” – [[Henry Singleton]]
+
 No masterplans—this is how [[Warren Buffett |Buffett]] and [[Charlie Munger |Munger]] operated.
 
 Next:
@@ -10,6 +12,7 @@ Next:
 Related:
 - Keep reacting—adapt to reality as it is
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 - Multidisciplinary perspective is important, but equally important is the ability to adjust one’s perspective across time (“the kind of propensity to disbelieve by changing your previous conclusions”)
 	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 - Masterplan implies expectations

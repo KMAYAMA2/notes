@@ -2,6 +2,8 @@
 
 > “*Devils are in the execution.*” – [[Nassim Taleb]]
 
+Do it before ready. #revisit 
+
 Next:
 - [[2-1a4a Sometimes the best information is the least transmissible.]]
  

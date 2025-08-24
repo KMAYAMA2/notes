@@ -12,7 +12,7 @@ Related:
 - [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
 - [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
 - [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
-- [[5-1b2.3 Don’t be the turkey—the Black Swan is the Grey Swan depending on your perspective]]
+- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 - [[10-2g2c Indexes are physical because they merely ‘indicate’ and hence do not require culture. Symbols are cultural. Put differently, indexes are analog and symbols digital.]]
 - [[10-2g2e9a The contingent relation between the form and the abstract can be only realized by digital systems. Analog systems cannot do this.]]
 

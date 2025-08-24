@@ -9,6 +9,9 @@ Related:
 	- On virtual rendering
 		- [[1-2a We perceive nothing as what it really is, but only virtually]]
 		- [[1-2g2f The virtual-reality rendering of their environment (i.e., creating knowledge about its niches) is the characteristic means by which human beings (and life in general) survive]]
+- In other words, figure out the multiverse—and go for the best idea
+	- [[13-1a Humans have problems because we have to choose because we could be otherwise because of the multiverse]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 
 #TheTuringPrinciple 
 

@@ -1,3 +1,4 @@
+In other words, figure out the multiverse. [[Charlie Munger]] and [[Warren Buffett]] meet [[David Deutsch]].
 
 Next:
 - [[2-1c1 'Comparative advantage' - If others can do it, let them]]
@@ -14,13 +15,15 @@ Related:
 - [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
 - [[5-1b1a9 The Fun Criterion is an explanation]]
 
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+
+- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+
 - [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 
 - ***Know thyself:***
 	- [[RUL3 - List ⇒ Rank ⇒ Iterate]]
 	- [[1-2d You have to know your problem-situation (and your web of ideas) as best as you can to judge the merit of new explanations]]
-
-
 
 #MentalModelsMicroEcon 

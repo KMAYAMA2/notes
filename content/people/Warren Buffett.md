@@ -655,11 +655,15 @@ date: 2024-08-15
 - It’s about *personal* opportunity costs, and since your value scale changes what’s best for you also changes—you have to reevaluate your opportunity costs all the time (pp. 208-209)
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[13-6a The same individual exhibits different scale of values at different times]]
-- the more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
-	- this is implied in personal opportunity costs argument, and also in value scales notes (particularly, how what you don’t know cannot be in your value scale note)
-	- relate with it-gets-easier notes
-	- relate with how nothing is evaluated independently by us memo (p. 18)
-	- relate with munger’s comment on li lu
+- The more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
+	- This is implied in personal opportunity costs argument, and also in the context of value scales—particularly, how what you don’t know cannot be in your value scale
+		- [[13-9a1 A value scale consists of goods with which the individual is familiar—the good will not be on the value scale if the individual does not know about that good]]
+	- Put differently, it should get easier
+		- [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
+		- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+		- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
+	- [[12-1e4 Nothing is objectively and independently good]]—as discussed in p. 18
+	- If you want to manage money for [[Charlie Munger]] and [[Warren Buffett]], you have to be better than [[Li Lu]]  
 - Do with what’s available (p. 210)
 	- Similar in spirit with concentric circle (how children acquire languages):
 		- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
@@ -672,23 +676,38 @@ date: 2024-08-15
 	- [[5-2b Errors of omission are dangerous because you make them by default]]
 - Ask: then what? (p. 213)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-- you can’t do merely one thing—this is principle both in ecology and legislation (p. 214)
+- You can’t just do one thing and leave all other elements unchanged—this is principle both in ecology and legislation (p. 214)
+	- Put differently, you cannot unbundle everything:
+		- See, e.g., [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
 - Parade-tiptoe problem (p. 215)
 	- In spirit this is a spontaneous disorder phenomenon—but you can avoid this one if you think it through
 		- [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]
-- on Gresham and pejoristic system (p. 216)
+- Gresham’s Law is both an example of unwanted consequences and what Garrett Hardin calls a pejoristic system—a system which by its very nature makes matters worse (p. 216) #revisit 
 - Don’t fool yourself (p. 217)
 	- [[1-2h A good explanation makes it harder to fool yourself]]
 - Look at the corporate cemetery (p. 218)
 	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
 	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #revisit 
-- opportunity cost filter + compared to what filter + then what filter (p. 219)
-	- you have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
-		- you have to figure out the multiverse—relate this with idea maze notes
+- Opportunity cost filter + Compared to what filter + Then what filter (p. 219)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.]]
+	- [[12-1e4 Nothing is objectively and independently good]]
+	- You have to think in terms of available alternatives, and the possible consequences of each alternative #revisit 
+		- You have to figure out the multiverse
+			- [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
+			- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
 - Checklists are no substitute for thinking, but powerful (p. 221)
-- always surprise the enemy (p. 221)
-	- relate with black swan notes and surprise notes
-	- personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
+- Always surprise the enemy (p. 221)
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
+	- On surprises
+		- [[1-1c4 To be surprised is to be mistaken]]
+		- [[1-1c5 Surprises are the doors to revealing the inexplicit and the unconscious]]
+		- [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+	- You have to go beyond merely doing what the opponent doesn’t want
+		- You have to be “stupid” in the sense of being unpredictable, but not in the sense of harming yourself and others (which is the definition of stupid people by [[Carlo Cipolla]])—this is probably what differentiates merely being rational and being creative (and why they are often an obsessed fanatic). #revisit 
+			- [[Charlie Munger]] and [[Warren Buffett]] were likely obsessed with avoiding obvious mistakes and problems. #revisit 
+	- Personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
+		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
 ### 1. What Investing in Financial Assets is All About
 - Investment is about cash (p. 1)
