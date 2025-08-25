@@ -41,50 +41,66 @@ date: 2025-07-18
 - Both Singleton and Buffett had significant ownership stakes in their companies (13 percent for Singleton and 30-plus percent for Buffet). They thought like owners because they *were* owners. (p. 58)
 - Both Singleton and Buffett recognized the potential to invest insurance company “float” to create shareholder value. (p. 58) #revisit 
 ## Radical Rationality
+- The outsider CEOs believed that the value of financial projections was determined by the quality of the assumptions, *not* by the number of pages in the presentation, and many developed succinct, single-page analytical templates that focused employees on key variables. They ensured a focus on empirical data and prevented blind crowd following. (pp. 200-201)
+- The repurchases were not made to prop up stock prices or to offset option grants (two popular rationales for buybacks today) but rather because they offered attractive returns as investments in their own right. (p. 201)
+	- The same behavior but with different motives. 
+		- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking. |Performance cannot exhaust knowledge]].
+		- In a sense, Rothbardian praxeology is naive empiricism especially in its disregard for knowledge creation. #revisit
+- They did not delegate capital allocation decisions. (p. 202)
+	- That is the job of CEO #revisit 
+- These CEOs knew precisely what they were looking for, and so did their employees. They didn’t overanalyze or overmodel, and they didn’t look to outside consultants or bankers to confirm their thinking. (p. 204)
+- The outsider CEOs achieved extraordinary relative results by consistently zigging while their peers zagged: *they disdained dividends, made disciplined (occasionally large) acquisitions, used leverage selectively, bought back a lot of stock, minimized taxes, ran decentralized organizations, and focused on cash flow over reported net income*. (p. 207)
+- The right capital allocation decision varies depending on the situation at any given point in time. This is why Henry Singleton believed flexibility was so essential. These CEOs faced the inherent uncertainty of the business world with a patient, rational, pragmatic opportunism, not a detailed set of strategic plans. (pp. 207-208)
+	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable |No masterplans]]
+- Their unorthodox approach proved a robust source of competitive advantage across a wide variety of industries and market conditions. (p. 209)
 # Other sources
 - Henry Singleton: The Outsiders (Founders #94)
 	- Good business is good business—what it does matter less
 		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
-	- size can work against you—large increases your fragility
-		- nature abhors monopoly
-		- no prime customer
-		- don’t fall into mania of bigness
-		- instead of paying 15x PER for acquisition, tender your own shares (i.e., shrink)
-	- superpower is being able to think for yourself, and to trust that judgement
-		- if everyone’s doing it, they must be imitating—not thinking
-	- dividend gets you taxed twice
-	- ideology turns your brain into cabbage (Munger)
-		- assume no self and prioritize flexibility
-			- no masterplan
-			- no schedule
-			- work on the important problem at the moment, and always figure out what that is
-	- managing operation ≠ capital allocation
-	- my personal thought: japanese market is following trend in the US
-	- cash per se is not problem
-		- the problem is how it’s been used and why
-	- teledyne was decentralized conglomerate
-	1. capital allocation is the job
-	2. per share value >>> growth or size
-	3. cash flow >>> reported earnings
-	4. decentralization >>> politics
-	5. independent thinking
-	6. sometimes best investment is your own stock
-	7. patience is a virtue
-	- razor focus on few variables
-	- it’s unpredictable, so be flexible
+	- Size can work against you—large increases your fragility
+		- Nature abhors monopoly
+		- No prime customer
+		- Don’t fall into mania of bigness
+		- Instead of paying 15x PER for acquisition, tender your own shares (i.e., shrink) if that makes more sense
+	- **Superpower is being able to think for yourself, and to trust that judgement**
+		- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+		- If everyone’s doing it, they must be imitating—not thinking
+			- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+	- Dividend gets you taxed twice
+	- Munger: ideology turns your brain into cabbage
+		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self. |Assume no self]] and prioritize flexibility
+			- No masterplan
+			- [[1-1c6a2c Don't keep a schedule |No schedule]]
+			- Work on the most important problem at any given time, and always figure out what that is
+				- [[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
+	- Managing operation ≠ Capital allocation
+	- My personal thought: 
+		- Japanese equity market is following trends in the US
+		- Cash per se is not problem
+			- The problem is how it’s been used and why
+	- Teledyne was decentralized conglomerate
+	1. Capital allocation is the job
+	2. Per share value >>> Growth or size
+	3. Cash flow >>> Reported earnings
+	4. Decentralization >>> Politics
+	5. Independent thinking
+	6. Sometimes best investment is your own stock
+	7. Patience is a virtue
+	- Razor focus on few variables
+	- It’s unpredictable, so be flexible
 - henry singleton, by george roberts (founders #110)
-	- bob noyce #revisit 
-	- invest in yourself because no other people would care about you as much as you would yourself
-	- cap allocation = resource alloc
-		- the underlying principle should apply to personal life #revisit 
-	- first principle thinking
-		- cut noises (e.g., street consensus)
-		- study what worked—regardless of categories
-	- henry learned as he acquired, and it was recursive
+	- [[Bob Noyce]] #revisit 
+	- Invest in yourself because no other people would care about you as much as you would yourself
+	- Cap allocation = Resource allocation
+		- The underlying principle should apply to personal life #revisit
+			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+	- First principle thinking
+		- Cut noises (e.g., street consensus)
+		- Study what worked—regardless of categories
+	- Henry learned as he acquired, and it was recursive
 		- [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge]]
 		- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
-		- he traced and acquired almost the whole production line
-			- dynamically executed vertical integration, as it were
-	- he used an idea from GM’s chairman’s book #revisit 
-	- buyback as investment to yourselfChn4p3t5!
-	- 
+		- He traced and acquired almost the whole production line
+			- Dynamically executed [[5-1b1a7 Technology’s ‘function’ consists of many parts, and you have to have an explanation for how each contributes to the whole (i.e., ‘vertically-integrated’) |vertical integration]], as it were. #revisit 
+	- He used an idea from GM’s chairman’s book #revisit 
+	- Buyback as investment to yourself

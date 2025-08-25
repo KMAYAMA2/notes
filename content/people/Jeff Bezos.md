@@ -3,39 +3,112 @@ date: 2025-08-22
 ---
 
 - jeff bezos (founders #388) ~47m
-	- it’s all about the long term
-	- bezos (and jobs) studied akio morita (盛田昭夫) of sony—listen to founders #386
-	- the failure has to scale as the company gets bigger (10m)
-	- Amazon is basically a market of its own #revisit 
-	- sam walton: “there’s only one boss, and that is the customer—they can fire us anytime they want by spending their money elsewhere”
-	- three questions to ask in hiring meetings before making a decision:
-		- will you admire this person?
-		- will this person raise the average level of effectiveness of the group?
-		- along what dimensions might this person be a superstar?
-	- the platform allows us to launch new e-commerce businesses faster (24m)
-		- Amazon is a company that builds other companies #revisit 
-			- relate with it gets easier notes
-	- find your life’s work
-	- emphasis on introductions for new customers
-		- estee lauder in early days (founders #361)
-		- relate with CTA notes
-	- bezos connects everything to amazon #revisit 
-	- doubly blessed: market size unconstrained opportunity + the underlying foundational tech is improving day by day
-		- relate with build in anticipation of cost going down notes 
-	- concern yourself only with the controllables (32m)
-		- internet bubble popped—relate with buffett and jensen huang
-	- landrush metaphor and electricity metaphor #revisit 
-	- internet destroys the middle—get big fast
-	- amazon uses the tech not only to reduce costs but also to drive adoption and revenue, unlike physical retailers (36m)
-	- cost improvement → lower prices → growth → spreads fixed costs across more sales → reducing cost per unit → more price reductions… (37m) #revisit 
-	- selection, convenience, then lowering prices
-		- relate with focus on few variables memos and notes
-		- jim sinegal (bezos met him when he was in late 30s)
-			- the birth of amazon prime
-	- what is good for customers is good for shareholders #revisit 
-		- think about implication for activists
-	- ford: maximum service with minimum cost
-	- if you want to do anything special, you have to be willing to be misunderstood
-		- negative reviews are for the long-run #revisit 
-	- on the need for good judgement and why data may lead you to make the wrong decision (relate with the notes)
-		- the structure of unstructured decision processes
+	- ~2005
+		- it’s all about the long term
+		- bezos (and jobs) studied akio morita (盛田昭夫) of sony—listen to founders #386
+		- the failure has to scale as the company gets bigger (10m)
+		- Amazon is basically a market of its own #revisit 
+		- sam walton: “there’s only one boss, and that is the customer—they can fire us anytime they want by spending their money elsewhere”
+		- three questions to ask in hiring meetings before making a decision:
+			- will you admire this person?
+			- will this person raise the average level of effectiveness of the group?
+			- along what dimensions might this person be a superstar?
+		- the platform allows us to launch new e-commerce businesses faster (24m)
+			- Amazon is a company that builds other companies #revisit 
+				- relate with it gets easier notes
+		- find your life’s work
+		- emphasis on introductions for new customers
+			- estee lauder in early days (founders #361)
+			- relate with CTA notes
+		- bezos connects everything to amazon #revisit 
+		- doubly blessed: market size unconstrained opportunity + the underlying foundational tech is improving day by day
+			- relate with build in anticipation of cost going down notes 
+		- concern yourself only with the controllables (32m)
+			- internet bubble popped—relate with buffett and jensen huang
+		- landrush metaphor and electricity metaphor #revisit 
+		- internet destroys the middle—get big fast
+		- amazon uses the tech not only to reduce costs but also to drive adoption and revenue, unlike physical retailers (36m)
+		- cost improvement → lower prices → growth → spreads fixed costs across more sales → reducing cost per unit → more price reductions… (37m) #revisit 
+		- selection, convenience, then lowering prices
+			- relate with focus on few variables memos and notes
+			- jim sinegal (bezos met him when he was in late 30s)
+				- the birth of amazon prime
+					- bezos took jim sinegal (i.e., indirectly [[Sol Price]] and [[Sam Walton]]) seriously—that is, he took discounting seriously but with internet
+						- who would take this further, and with what? #revisit 
+		- what is good for customers is good for shareholders #revisit 
+			- think about implication for activists
+		- ford: maximum service with minimum cost
+		- if you want to do anything special, you have to be willing to be misunderstood
+			- negative reviews are for the long-run #revisit 
+		- on the need for good judgement and why data may lead you to make the wrong decision (relate with the notes)
+			- the structure of unstructured decision processes
+		- excessive attention by mgmt scientists to operating decisions may well cause org to pursue inappropriate courses of action more efficiently—you are going in the wrong direction faster
+			- relate with you get what you measure notes
+			- relate with velocity notes (if any)
+		- you cannot numerically estimate the effect that consistently lower prices will have on our business over 5 or 10 years or more—the virtuous circle leads over the long term to a much larger dollar amount of free cash flow
+			- relate with money is in the long-run
+		- math-based decisions command wide agreement <> judgement-based decisions are rightly debated and often controversial #revisit
+			- the former is 判断; the latter is 決断 #revisit 
+			- relate with judgement notes
+	- 2006
+		- on physical stores and differentiation
+		- on fba: the importance of building self-service platforms so more ideas get tried
+	- 2007
+		- missionaries > mercenaries
+		- on kindle: long-form reading > shorter attention spans (info snacking tools)
+	- 2008~
+		- if you chase instant gratification, you will find a crowd there (55m) #revisit 
+			- when you think in the long-run, you have massive advantage because you are going against human nature #revisit 
+		- working backwards from customer needs approach <> skills forward approach where existing skills and competencies are used to drive business opportunities
+			- relate with keep reacting > masterplan notes
+			- relate with don’t let the tech dictate your vision notes
+		- we will keep inventing for customers
+		- four characteristics of a business you should never sell:
+			- customers love it
+			- it can grow to a very large size
+			- it has strong returns on capital
+			- it is durable in time with the potential to endure for decades
+		- what connects amazon retail, fba, aws, and kindle
+			- customer obsession, eagerness to invent and pioneer, willingness to fail, the patience to think long term, and the taking of professional pride in operational excellence
+		- outsize returns often come from betting against conventional wisdom, and conventional wisdom is usually right—but you should take 10% success rate 100x payoff type of bet every time, in business you can only score 4 runs max but in business you can score 10,000+ runs (long-tail distribution)
+			- relate with payoff notes
+	- 2016~
+		- day 2 is stasis, followed by irrelevance, followed by excruciating, painful decline, followed by death—that is why it’s always day 1
+			- a starter pack of essentials for day 1 defense
+				- customer obsession
+				- skeptical view of proxies
+					- the process can become the proxy for the result you want—the process is not the thing
+						- relate with association notes
+				- the eager adoption of external trends
+					- fight them, then you’re probably fighting the future
+					- embrace them, and you’ll have a tailwind
+					- e.g., machine learning and artificial intelligence (2016)
+				- high velocity decision making
+					- great builders want to build—slow high quality decisions will leave unless you become comfortable making decisions faster with less information #revisit 
+						- you need both great mission and high velocity decision making environments
+							- relate with rockefeller memos on decision speed over quality memos and notes
+		- good inventors and designers deeply understand their customer
+			- anecdotes >>> the averages you’ll find on surveys
+		- a remarkable customer experience starts with heart, intuition, curiosity, play, guts, taste—you will not find any of it in a survey
+		- dee hock (visa): “making good judgements and acting wisely when one has complete date, facts, and information is not leadership. It’s not even management. It’s bookkeeping.”
+		- on one-way doors and two-way doors
+		- if you wait for 90%, you’re being too slow
+		- if you can course correct, being wrong won’t be that costly—but being slow is going to be expensive for sure #revisit 
+		- disagree and commit—so stuff gets built
+		- high standards are contagious—the opposite is also true #revisit 
+		- on wrong expectation on scope—the importance of teaching scope (1h11m)
+			- people mistakenly believe a high standard 6 page memo can be written in one or two days or even a few hours, when in reality it might take a week or more
+		- wandering is an essential counterbalance to efficiency—you need to employ both
+			- e.g., aws
+				- relate with steve jobs on build what people will want notes
+		- failures need to scale—otherwise you’re not going to be inventing at a size that can actually move the needle
+			- ask: can what you’re doing impact you in any meaningful way? #revisit 
+				- otherwise, you’re essentially stuck in stasis (day 2)
+			- e.g., fire phone, echo, alexa
+	- 2020
+		- differentiation is survival and the universe wants you to be typical—do no let it #revisit 
+			- relate with be the only notes
+		- from richard dawkins’ the blind watchmaker—equilibrium is death #revisit 
+		- “Being yourself is worth it, but don’t expect it to be easy or free. You’ll have to put energy into it continuously.”
+			- relate with recalibration notes
+		- “To all of you: be kind, be original, create more than you consume, and never, never, never let the universe smooth you into your surroundings. It remains Day 1.”
