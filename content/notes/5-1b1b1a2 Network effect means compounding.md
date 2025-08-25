@@ -1,3 +1,7 @@
+ヘーゲルの量質転化の法則あるいは毛沢東の矛盾論 (“量の蓄積が質を規定する”) #revisit 
+
+Reading compounds.
+
 [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
 	[[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
 

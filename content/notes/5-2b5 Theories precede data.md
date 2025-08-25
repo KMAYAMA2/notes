@@ -2,6 +2,8 @@
 
 > “It was invisible, buried in the mud. I only saw it because I was looking for it.” – [[Sherlock Holmes]]
 
+> “Chance favors the prepared mind” – Louis Pasteur
+
 *Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*
 
 Next:

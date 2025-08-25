@@ -1,7 +1,12 @@
 > “One’s ideas must be as broad as Nature if they are to interpret Nature.” – [[Sherlock Holmes]]
 
+> “The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well.” – [[Charlie Munger]]
+
+[[More is different]]. #revisit 
+
 Next:
 - [[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]
+- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - [[3-1a4 Explanatory means it will span across ‘boundaries’]]
 
 Related:
@@ -17,5 +22,9 @@ Related:
 
 - Using multidisciplinary mental models as reality checklist is an effective editing technology
 	- [[2-1 Mental models (着せ替え・持ち替え・言い換え)]]
+
+- Beware a-man-with-a-hammer syndrome
+	- [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
+	- [[9-4b2a1d1.2 You can let the tech decide, but ideas and visions often can shape the tech]]
 
 #categories 

@@ -1,5 +1,9 @@
 > “There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well.” – Charles Sanders Peirce
 
+> “The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well.” – [[Charlie Munger]]
+
+The simpler the better: [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.|relate to the basics; get the basics well; do the basics well]].
+
 Next:
 - *[[2-1a0aa Applied Occam's razor - 'If you can't program it, you don't understand it. If you can't write about it, you can't code it.']]* ([[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]])
 	- PG: Your writing should occasionally execute programs ([[9-4c2 'Programs should be written for people to read, and only incidentally for machines to execute.' 'Design to express algorithms, and only incidentally tell machines how to execute them.']])
@@ -9,6 +13,7 @@ Next:
 
 Related:
 - [[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
+- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 - [[4-1a4b3 If you write down ideas, you can have a conversation with each one of them individually, or with any configurations from them]]
 - [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
 - [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]]

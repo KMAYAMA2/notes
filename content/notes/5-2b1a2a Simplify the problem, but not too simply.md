@@ -1,3 +1,5 @@
+[[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+
 [[3-1c3d Problems should be well defined and should be actionable]]
 [[3-1c3e However, you will always be solving the problem of what problems to solve because of your unconscious. Don’t be a reductionist in approaching problems themselves.]]
 

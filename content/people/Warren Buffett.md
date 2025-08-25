@@ -7,6 +7,8 @@ date: 2024-08-15
 - Prevention is primarily about avoiding ruin (p. 4)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - Relate what you are reading to the basics (p. 5)
+	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
 - [[1-2f1b9 Repeat what works |Repeat what works]] (p. 7)
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
@@ -77,7 +79,9 @@ date: 2024-08-15
 - Be in with a management you are simpatico with (p. 36) 
 	- implication for activists, relate with stupidity notes
 - The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well. (p. 36) 
-	- relate with do the basics well memos, also relate with focus on the few variables memos
+	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- relate with focus on the few variables memos
 - Understand human behavior if you’re going to run a business (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
 	- relate with notes on practice and habit
@@ -513,6 +517,7 @@ date: 2024-08-15
 	- relate with DMU notes and symbol (or association) notes
 - Pricing power implies essentially. Look at the pricing behavior of the product (not the stock). (p. 154)
 - Get the basics well. You don’t have to do extraordinary things to get extraordinary results, don’t get diverted and instead focus on what works. (p. 155)
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - You should’ve shorted horses instead of buying up autos. Ask: who loses? (p. 156)
 - Can you name any single American TV or radio manufacturer? (p. 156)
 - Growth in an industry doesn’t mean profitability because of competition (p. 157) 
@@ -855,7 +860,8 @@ date: 2024-08-15
 - What needs to be reported is data that helps financially-literate readers answer three key questions: (1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? (3) How good a job are its managers doing, given the hand they have been dealt? (p. 59) 
 ### 14. How to Reduce Risk: Prevention is Better than Cure
 - keep it simple (p. 61)
-- do the basics well (p. 62)
+- Do the basics well (p. 62)
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - a chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
 	- [[6-8 Train your weakest link]]
 - If it’s not worth doing, it’s not worth doing well (p. 63)
@@ -905,6 +911,10 @@ date: 2024-08-15
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 	- [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
 - Ben Graham: “Investment is most intelligent when it is most businesslike” (p. 81) #revisit 
+
+# The Outsiders (see [[Henry Singleton]])
+## The Investor as CEO
+- 
 # Other sources
 - the tao of buffett (founders #101)
 	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)

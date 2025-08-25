@@ -29,3 +29,5 @@ Related: #develop
 - [[10-2 Thick descripting myself — a configuration of ideas which is me]]
 - Observe others, and apply those insights to yourself:
 	- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
+- The difference between observation and mere seeing is similar to one which exists between action and mere behavior—what differentiates both is intent and purposefulness via knowledge.
+	- [[13-2.2 Most “actions” are mere behavior]]
