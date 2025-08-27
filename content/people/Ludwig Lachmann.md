@@ -20,6 +20,44 @@ date: 2025-07-18
 	- But not everything will be quantified. #revisit 
 		- Similar in spirit with [[3-1a4b5 Anything can be priced in principle. But not everything will be. |how anything can be priced in principle, but how price cannot exhaust everything at any given time.]]
 ## Chapter I: The Order Of Capital
+- In equilibrium, where, by definition, all values are consistent with each other, the use of money value as a unit of measurement is not necessarily an illegitimate procedure. But in disequilibrium where no such consistency exists, it cannot be applied. (p. 14)
+- All capital resources are heterogeneous. The heterogeneity which matters is here, of course, not physical heterogeneity, but heterogeneity in use. The real economic significance of the heterogeneity of capital lies in the fact that each capital good can only be used for a limited number of purposes. We shall speak of the *multiple specificity* of capital goods. (p. 15)
+	- [[13-4d2 There is no objective value]]
+- For most purposes capital goods have to be used jointly. *Complementarity* is of the essence of capital use. For any given number of them only certain modes of complementarity are technically possible, and only a few of these are economically significant. (pp. 15-16)
+	- [[13-2a The supply of capital goods enforces narrower limits than knowledge]]
+- Unexpected change will make possible or compel changes in the use of capital goods. It is because of these facts that it is impossible to measure capital. Capital has no ‘natural’ measure, and value will be affected by every unexpected change. (p. 16)
+	- E.g., MVP doesn’t exist in reality—such conception ignores knowledge creation, the primary constituent of unexpected change.
+- The stock of capital does not present a picture of chaos; its arrangement is not arbitrary; there is some order in it. (p. 16)
+	- Hence the title of this chapter
+- We must regard the ‘stock of capital’ not as a homogeneous aggregate but as a structural pattern. The Theory of Capital is the morphology of the forms which this pattern assumes in a changing world. (p. 17)
+	- It’s about forms
+		- [[3-1c2f In tech, most of the value is in the ordering, in the useful configuration of zeroes and ones, which users click to pay for it]]
+		- [[6-3a2.1 How you achieve something matters as much as what you achieve]]
+- A theory of investment based on the assumption of a homogenous and quantifiable capital stock is bound to ignore important features of reality. Owning to its very character it can only deal with quantitative capital change, investment and disinvestment. It cannot deal with *changes in the composition of the stock*. (p. 19)
+	- [[5-2 What counts cannot be counted]]
+		- E.g., [[Murray Rothbard]]
+	- Another implication is that this morphology approach challenges the DMU assumption #revisit 
+		- E.g., [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
+		- It might be related to how [[More is different |more is different]] #revisit 
+- If we cling to the view that all capital is homogenous, the new capital competes with the old and reduces the profitability of the latter. (p. 19)
+- Once we allow for heterogeneity we must also allow for complementarity between old and new capital. The ‘inducement to invest’ will therefore often depend on the effect the new capital is expected to have on the earning capacity of old capital complementarity to it. In other words, investment decisions, as to their magnitude, and even more as to the concrete form they are likely to take, depend at each moment on the prevailing composition of the existing capital stock. (pp. 19-20)
+- A real understanding of the investment pattern is therefore impossible as long as we cling to the homogeneity hypothesis. (p. 20)
+- The main subject-matter of this book is *the Capital Structure*. When we turn our attention to the relationship between capital and interest we do it for the light that interest sheds on capital, not vice versa. (p. 20)
+	- [[Murray Rothbard |Rothbard]] was the opposite.
+- The chief problem of the theory of capital is to explain why capital resources are used in the way they are. (p. 21)
+	- [[1-1a5b4.5 Truth is about correspondence with reality]]
+- There are two broad answers. The first of which is rather trite, it is that capital goods must be used in such a way as to produce the goods and services consumers want at prices they are prepared to pay. But there is a second answer, it is that capital uses must ‘fit into each other’. The fact that capital goods which do not ‘earn their keep’ will be discarded warrants the belief that a tendency towards the integration of the capital structure really exists. (p. 21)
+	- [[6-3b2g No composability implies fragmentation]] #revisit 
+- All this has implications for the theory of investment. A number of investment opportunities actually owe their existence to the failure of past capital combinations to achieve the purposes for which they were designed. (p. 23)
+	- Investment is a form of error-corrections
+		- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
+		- [[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]
+		- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
+		- This might be why capitalism excels compared to other societal forms #revisit  
+	- This problem will be discussed also in Chapter III
+	- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
+	- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
+- 
 ## Chapter II: On Expectations
 ## Chapter III: Process Analysis And Capital Theory
 ## Chapter IV: The Meaning Of Capital Structure
