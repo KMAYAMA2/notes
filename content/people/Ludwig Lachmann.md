@@ -57,6 +57,14 @@ date: 2025-07-18
 	- This problem will be discussed also in Chapter III
 	- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
 	- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
+- The market compels the readjustment of those production plans which are inconsistent with either consumers’ plans or other production plans. (pp. 23-24)
+	- Sovereignty of the consumer is challenged here. Whereas Rothbard reduces every capital formation down to the demand of consumers, Lachman argues that some formations are dictated by the available configurations that capital can assume. The latter is ultimately about the available knowledge at that point in time (which makes capital heterogeneous).
+	- This will be discussed in Chapter IV
+- A morphological approach must supersede purely quantitative reasoning (p. 24)
+	- Put differently, Rothbardian sovereignty of the consumers makes sense only in the evenly rotating economy (ERE) framework. #revisit 
+	- Available knowledge at that point in time is also a part of reality, and must be accounted for. This is why building only what people want isn't enough. Knowledge is unpredictable. This is why you can build what people will want. #revisit
+		- [[7-1 Create what people want or will want]]
+- Capital = the (heterogenous) *stock of material resources* (p. 24)
 - 
 ## Chapter II: On Expectations
 ## Chapter III: Process Analysis And Capital Theory
