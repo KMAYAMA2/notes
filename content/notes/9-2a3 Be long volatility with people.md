@@ -16,3 +16,5 @@
 [[8-1c4 ‘Killer application’ is knowledge-technology-universality that begets reflexivity between app-platform-people by pushing people over the threshold]]
 [[5-1b1a Technology itself should be the kind that begets and benefits from volatility]]
 [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]
+
+[[7-2 Long optionality, volatility, change]]

@@ -65,11 +65,70 @@ date: 2025-07-18
 	- Available knowledge at that point in time is also a part of reality, and must be accounted for. This is why building only what people want isn't enough. Knowledge is unpredictable. This is why you can build what people will want. #revisit
 		- [[7-1 Create what people want or will want]]
 - Capital = the (heterogenous) *stock of material resources* (p. 24)
-- 
+- To us the question which matters is not which resources are man-made but which are man-used. Historical origin is no concern of ours. Our interest lies in the uses to which a resource is put. In this respect land is no different from other resources. (p. 24) #revisit 
+	- Compare this with [[Murray Rothbard |Rothbard]]
+	- [[1-2g2b5 The most significant universality is that of people. We are universal explainers, and possess the only kind of universality capable of transcending its parochial origins.]]
+	- [[13-1a3a2e3 Any prior money must necessarily trace its origin back to the original money]]
+- We are living in a world of unexpected change; hence capital combinations, and with them the capital structure, will be ever changing, will be dissolved and re-formed. In this activity we find the real function of the entrepreneur. (p. 26)
+- If the plan fails the capital combination will be dissolved and its constituent elements turned to other uses, each within the range permitted by its multiple specificity. (p. 27)
+- To assume that entrepreneurial conduct in revising plans at the end of successive periods is, in any objective sense, *determined* by past experience and thus *predictable*, would mean falling into a rigid determinism which is quite contrary to everyday experience. (p. 28)
+	- You must take into account our ability create knowledge *and* correct errors—in essence, knowledge creation is error-correction #revisit 
+- Men in society come to learn about each other’s needs and resources and modify their conduct in accordance with such knowledge. But the acquisition of this knowledge follows no definite pattern, certainly no time-pattern. Knowledge is not acquired merely as time goes by. (p. 28)
+	- [[2-2a 'Emergence' - Knowledge can be created out of nothing and is unpredictable]]
+	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+	- [[3-1c3c3a2 Time spent doesn't mean much]] #revisit 
+	- [[5-1b1a2d Knowledge is by definition unpredictable]]
+		- This why you often have to take a leap of faith in life #revisit 
+			- [[9-2a3 Be long volatility with people]]
+- A method of dynamic analysis which fails to allow for variable expectations due to subjective interpretation seems bound to degenerate into a series of economically irrelevant mathematical exercises. (p. 29)
+	- [[5-2b5 Theories precede data]]
+	- In Chapter II we start by establishing a few systematic generalizations about expectations
+- The formation of expectations is a moment in the process of the acquisition of knowledge and has to be studied as such. (p. 29) #revisit 
+	- [[7-1 Create what people want or will want]]
+- In Chapter VI we raise the question whether structural relationships exist in the sphere of property rights and claims as well as in that of physical capital resources, and if so, how the two spheres are interrelated. (p. 30)
+	- Viz., Chapter VI explores the relationships between the portfolio structure and plan structure
+- Capital owners, having delegated the power of specification to the entrepreneur, are ‘uncertainty-bearers’ in a sense in which workers are not. (p. 31)
+	- [[13-5b1 Without the capitalists, the income earned by the owners of land and labor fluctuates with consumer demand and is received at a much later date]]
+	- The whole relationship between manager-entrepreneurs and capitalist-entrepreneurs will be taken up for discussion towards the end of Chapter VI
+		- [[Warren Buffett]]: “I am a better investor because I am a businessman and a better businessman because I am an investor.”
+			- [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective)]]
+- Progress will not manifest itself in the capital sphere merely in the form of capital accumulation, i.e., purely quantitative growth. (p. 32)
+	- [[More is different]]
+- The ability to turn failure into success and to benefit from the discomfiture of others is the crucial test of true entrepreneurship. A progressive economy is not an economy in which no capital is ever lost, but an economy which can afford to lose capital because the productive opportunities revealed by the loss are vigorously exploited. (p. 32)
+	- In other words, capitalism progress via error-corrections
+		- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
+		- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]] #revisit 
+- All that matters is that new plans which take account of the change in environment should be made forthwith and old plans adjusted accordingly. If this is done as fast as the new knowledge becomes available there will be no hitch in the concatenation of processes, of plan and action, which we call progress. (pp. 32-33)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+- Some capital gains and losses are inevitable as durable capital goods, in the course of their long lives, have to be used for purposes other than those for which they were originally designed. Such capital losses have been frequent concomitants of economic progress in the history of almost all industrial countries, and have on the whole done much good and little harm. (p. 33)
+	- We learn from mistakes
+		- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+		- [[RUL3 - Invert, always invert]]
 ## Chapter II: On Expectations
+- In the world in which we are living change does not follow a convenient pattern. Many changes may happen simultaneously. Parts of our communications network may be ‘jammed’ and messages delayed. (p. 37)
+	- This theme will be taken up again in Chapter IV
+- In a market economy success depends largely on the degree of refinement of one’s instruments of interpretation. On the other hand, every act is a source of knowledge to others. (p. 38)
+	- That is, ability to form theories from available data
+		- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+		- [[5-2b6 Theories need data]]
+- The business man who forms an expectation is doing precisely what a scientist does when he formulates a working hypothesis. (pp. 38-39)
+	- [[1-1a5b2 Launch means criticism. It’s an equivalent to experimental testing in science.]]
+- 
 ## Chapter III: Process Analysis And Capital Theory
+- The theory of capital has to explain why capital goods are being used in the way they are. A theory which ignores regrouping ignores a highly significant aspect of reality. (p. 53)
+	- [[1-1a5b4.5 Truth is about correspondence with reality]]
+	- [[1-2 We are fallible]]
+	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
+- 
 ## Chapter IV: The Meaning Of Capital Structure
+- Physical homogeneity is not incompatible with functional difference (p. 74)
+	- [[13-4d2 There is no objective value]]
+	- [[13-7.1a Prices can reveal differences between goods that appear identical]]
+	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
+- We must analyze the consequences of capital regrouping for the economic system as a whole (p. 75)
+- 
 ## Chapter V: Capital Structure And Economic Progress
+Classicists and neoclassicists don’t consider the effect the configuration of capital goods have on those very capital goods
 ## Chapter VI: Capital Structure And Asset Structure
 ## Chapter VII: Capital in The Trade Cycle
 
