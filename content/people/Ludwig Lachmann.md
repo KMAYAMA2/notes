@@ -157,13 +157,28 @@ date: 2025-07-18
 - As soon as the price moves beyond the limits of the outer range (of ‘the Practical Range’), the inadequacy of the diagnosis on which the ranges were based becomes patent. A new situation has arisen which requires a new diagnosis and thus a new mental effort. (pp. 50-51)
 	- [[1-2e You literally MAKE a decision by creating the best explanation that you can from the web of ideas that you have at the moment (i.e., abduction-guessing)]]
 	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
-- 
+- By and large, price changes integrate a market economy by spreading new knowledge. **But not all price changes are equally significant** in this respect. 
+	- Price changes which bring about abduction is what matters—but this is also subjective. #revisit 
+- Their significance has to be assessed with respect to a ‘given’ structure of expectations which finds its expression in a system of ranges. Their practical effect will depend on how quickly the men in the market come to understand what has happened and revise their expectations. **To impede price change is therefore to withhold knowledge from the market**. (p. 51) #revisit 
+	- Relate with [[1-2f1b5 検証と反証には非対称性がある |Soros]]
+- It is possible to have ‘misleading’ price movements. (p. 51)
+	- As will be discussed in later chapters.
 ## Chapter III: Process Analysis And Capital Theory
+On *malinvested capital*
 - The theory of capital has to explain why capital goods are being used in the way they are. A theory which ignores regrouping ignores a highly significant aspect of reality. (p. 53)
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 	- [[1-2 We are fallible]]
 	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
-- 
+- Unfortunately the main trend of the traditional theory of capital treats capital as a homogeneous value magnitude expressed in money terms (p. 54)
+	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+		- [[13-5b2d Production processes in the evenly rotating economy are interchangeable, hence the analysis becomes scale-independent and substrate-independent]]
+- One cannot earn a profit on capital without ‘investing’ it, and that means to de-homogenize money capital. (p. 54)
+- The capital account within the precincts of which we reduce our capital resources to a common denominator is merely an institutional device for testing success or failure. (p. 54)
+	- [[5-2 What counts cannot be counted]]
+	- [[5-2a2.1 Know what you are measuring it with]]
+- The view which practically identifies progress with capital accumulation rests on at least three fallacies (p. 55)
+	- 
 ## Chapter IV: The Meaning Of Capital Structure
 - Physical homogeneity is not incompatible with functional difference (p. 74)
 	- [[13-4d2 There is no objective value]]

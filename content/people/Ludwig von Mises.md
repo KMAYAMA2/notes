@@ -178,7 +178,7 @@
 - Monetary calculation reaches its full perfection in capital accounting. It establishes the money prices of the available means and confronts this total with the changes brought about by action and by the operation of other factors. This confrontation shows what changes occurred in the state of the acting men’s affairs, and the magnitude of those changes; **it makes success and failure, profit and loss ascertainable**. (p. 375)
 	- Related: [[5-2a2 What gets measured gets managed]]. #develop
 		- But the fiat money is not a reliable unit of measure (see [[Saifedean Ammous]]’ discussion). #develop 
-			- [[Know what you are measuring it with]]. #develop 
+			- [[5-2a2.1 Know what you are measuring it with]]. #develop 
 	- Related: [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]] #develop 
 ## Part IV
 ### Chapter XIV. THE SCOPE AND METHOD OF CATALLACTICS
