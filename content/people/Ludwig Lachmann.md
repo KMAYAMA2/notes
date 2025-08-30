@@ -105,6 +105,12 @@ date: 2025-07-18
 		- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 		- [[RUL3 - Invert, always invert]]
 ## Chapter II: On Expectations
+- The *subjectivism of interpretation* <> The *subjectivism of want*
+	- The former yields provisional judgements to be confirmed by later experience, imperfect knowledge capable of being perfected. (p. 36)
+		- [[5-2b6 Theories need data]]
+		- The *subjectivism of expectations* is about interpretation of other beings capable of creating knowledge—they are inherently unpredictable hence our expectations of them will be necessarily imperfect. #revisit 
+	- The latter can provide us with no new knowledge: we either have a want or do not have it. (p. 36)
+		- [[13-4d4 Value is subjective]] #revisit 
 - In the world in which we are living change does not follow a convenient pattern. Many changes may happen simultaneously. Parts of our communications network may be ‘jammed’ and messages delayed. (p. 37)
 	- This theme will be taken up again in Chapter IV
 - In a market economy success depends largely on the degree of refinement of one’s instruments of interpretation. On the other hand, every act is a source of knowledge to others. (p. 38)
@@ -113,6 +119,44 @@ date: 2025-07-18
 		- [[5-2b6 Theories need data]]
 - The business man who forms an expectation is doing precisely what a scientist does when he formulates a working hypothesis. (pp. 38-39)
 	- [[1-1a5b2 Launch means criticism. It’s an equivalent to experimental testing in science.]]
+- Each expectation does not stand by itself but is the cumulative result of a series of former expectations which have been revised in the light of later experience, and these past revisions are the source of whatever present knowledge we have. (p. 39)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
+	- [[10-1b4f Digitization implies displacement and composability]]
+- The rationale of the method of *process analysis* is that it enables us to treat the *ex ante* ‘data’ of action as provisional hypotheses to be revised in the light of later experience (p. 39)
+	- Viz., *ex ante* is never purely evaluated *ex post* because the process is never ending #revisit 
+		- [[3-1a4b6 The importance of the monetarily accountable compared to the unaccountable increases indefinitely, although the former never exhausts the latter]]
+		- [[3-1c3c2d Any explanation, including the theory of physics, can be improved indefinitely]]
+		- [[10-2d The medium of expression, language, can also improve indefinitely]]
+		- [[12-1e0 Everything changes]]
+		- [[13-1a3a2g The specialization process continues indefinitely]]
+	- As will be discussed in Chapter III
+- Having stated our expectations at the start of a ‘period’, we test them at its end by comparing actual with expected results, attempting to infer therefrom whether our initial diagnosis of forces and their strength was correct. This process, like all verification of hypotheses, is indirect and therefore often inconclusive. Again, it requires interpretation and yields imperfect knowledge. We may have been right for the wrong reason. (p. 40)
+	- [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]
+		- [[5-2b7 The skeptical empiricist doubts both data and theory |The skeptical empiricism]] of [[Sherlock Holmes]] is grounded in the laws of physics.
+			- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+- Expectations are thus phases of a never-ending process, the process by which men acquire knowledge about each other’s needs and resources. (p. 40)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+- Three conclusions:
+	- All our past expectations form a continuous sequence (p. 40)
+	- There are problems of *consistency*, both interpersonal and intertemporal (p. 40)
+		- But those whose expectations are never successful are likely to be eliminated by the market process—the market also tends to evolve institutions which mitigate interpersonal and intertemporal inconsistency. (p. 41)
+			- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+			- [[9-1a1 People who converge upon the truth converge with each other]]
+			- [[13-6a3 Value scales converge with knowledge—put differently, value scales differentiate without knowledge]]
+			- As will be discussed in Chapter IV
+	- In revising our expectations we not only have the knowledge of past mistakes to learn from, but also their physical counterpart, *malinvested capital*—which is still capital that can be adapted to other uses. (p. 41)
+		- As will be discussed in Chapter III
+- The function of the capital market is to allocate scarce capital resources amongst a number of alternative uses. This is simple where these uses are known, not so simple where they are not known. (p. 44)
+- The need for a reserve stock will continue until the individual and specific needs are known. (p. 45)
+	- Relate with [[Murray Rothbard |Rothbard]] #revisit 
+- *‘Market’, in the true economic sense, means a process of exchange and allocation reflecting the transmission of knowledge*. (p. 45)
+- It does not simply mean that prices are quoted. The prices quoted may be what they are in order to prevent, and not to facilitate, dealings. Where this is the case we have a *market in suspense*, not a *market in operation*. (p. 45)
+	- [[1-2g1b What matters is the explanation, and not what you can see]]
+	- [[5-2 What counts cannot be counted]]
+- As soon as the price moves beyond the limits of the outer range (of ‘the Practical Range’), the inadequacy of the diagnosis on which the ranges were based becomes patent. A new situation has arisen which requires a new diagnosis and thus a new mental effort. (pp. 50-51)
+	- [[1-2e You literally MAKE a decision by creating the best explanation that you can from the web of ideas that you have at the moment (i.e., abduction-guessing)]]
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 - 
 ## Chapter III: Process Analysis And Capital Theory
 - The theory of capital has to explain why capital goods are being used in the way they are. A theory which ignores regrouping ignores a highly significant aspect of reality. (p. 53)

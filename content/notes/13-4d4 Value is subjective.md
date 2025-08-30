@@ -6,5 +6,6 @@ Next:
 Related:
 - There is no objective hierarchy amongst knowledge
 	- [[9-2b2 There is no objective hierarchy amongst knowledge; only cultural-subjective hierarchy exists because we are cultural being (知識・情報そのものに優劣はない)]]
-- Value is subjective because prices cannot be exhaustive
+- Value is subjective because prices cannot be exhaustive #revisit 
 	- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+- But [[1-1a5b4.5 Truth is about correspondence with reality |truth is about correspondence with reality]]—see [[Ludwig Lachmann |Lachmann’s]] distinction between the *subjectivism of interpretation* and the *subjectivism of want* #revisit 
