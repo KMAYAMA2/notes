@@ -177,8 +177,63 @@ On *malinvested capital*
 - The capital account within the precincts of which we reduce our capital resources to a common denominator is merely an institutional device for testing success or failure. (p. 54)
 	- [[5-2 What counts cannot be counted]]
 	- [[5-2a2.1 Know what you are measuring it with]]
+- It is true that what happens during the ‘financing stage’ of an enterprise is not entirely irrelevant to what happens later on: the ‘control structure’ may well influence later decisions, for instance about expansion or reconstruction. (p. 54)
+	- As will be discussed in Chapter VI
+	- Relate with [[Warren Buffett]]’s notes on leverage #revisit 
 - The view which practically identifies progress with capital accumulation rests on at least three fallacies (p. 55)
-	- 
+	- The division of labor and changes in technical knowledge are other forces engendering progress
+	- An increase in output is not the direct result of mere quantitative change, but of a concomitant change in the composition of capital
+		- As will be discussed in Chapter V
+		- [[More is different]]
+	- It completely disregards the facts of malinvestment
+- The instruments may be either more or less profitable than in their designed uses. The cause of the phenomenon is unexpected change. Durable capital goods are more likely to be affected than those more short-lived. (p. 56) 
+	- This relates with [[Warren Buffett]], in particular his combination of long-term holding and avoidance of tech companies. #revisit 
+- In the case of buildings, the fact that capital goods are not used in accordance with the plans originally made for them, is the mere result of the passage of time (p. 56)
+	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
+	- [[10-2d2e9e Evolution of 'other life-forms' must evoke the influence of human existence]] #revisit 
+- In modern industrial economies, rapid technical progress and the growing predominance of durable capital equipment have brought a very large proportion of capital resources within the scope of our phenomenon (p. 56)
+	- [[3-1d4a What matters is if your tools-frameworks are universal]]
+	- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+	- [[10-2g2c0a Universal systems retain the capacity to represent knowledge that is not yet created, thus can be useful in the future.]]
+- Equilibrium analysis can tell us whether courses of action are, or are not, consistent with each other. It cannot, except in rather special circumstances, explain how inconsistencies are removed. They require, in other words, downward-sloping demand curves, upward-sloping supply curves and a point of intersection between them. As we shall see, there is no reason to believe that such continuous functions can exist in the market for capital goods. (p. 57)
+- To trace the process of changing capital use we shall have to apply the method of Process Analysis to the use of capital resources—it is a causal-genetic method of studying economic change, tracing the effects of decisions made independently of each other by a number of individuals through time, and showing how the incompatibility of these decisions after a time necessitates their revision. (p. 58)
+- In equilibrium analysis our interest is confined to plans which are consistent with each other. Justification for this procedure is sought in the fact that inconsistent plans of individuals who stand in exchange relationships with each other cannot succeed, and that the resultant failures will necessitate continual revision of plans, until a consistent set of plans has been discovered. While the failure of each successive plan conveys significant additional knowledge to the individuals concerned, it does not affect the shape of the demand and supply curves. (p. 58)
+	- The assumption is that the curves are “there” #revisit 
+- In process analysis we take interpersonal inconsistency for granted and study its effects. The human mind is an instrument for reducing chaos to order—but beyond this sphere of manifestations of the individual mind no such agent exists. It is true of course that the market serves to produce interpersonal consistency, but it does so *indirectly* by modifying the conditions of action of the individuals. The market is no substitute for the decision-making unit. (p. 59) #revisit 
+	- Relate with notes on relevant biases #revisit 
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+- Only those able to adjust themselves to existing conditions would continue to act (p. 60)
+	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable |No masterplans]]
+	- Changing yourself is usually easier and the most effective #revisit 
+- In what follows we shall use the method of process analysis in order to elucidate the dynamic implications of decisions about the use of capital resources. (p. 60)
+- Depletion of the reserves is a sure mark of failure. The cash reserve is capital in the same way, and for the same reason, as spare parts are. While such money is ‘idle’, its idleness is a condition of successful action. Success and failure are likely to be recorded by changes in the cash reserve before being recorded anywhere else. (pp. 62-63)
+	- Relate with [[Warren Buffett]] and [[Henry Singleton]]
+- There is no reason why among the large number of probably inconsistent plans there should be at least one set of plans which would be consistent (p. 66)
+	- Viz., the curves are not “there”
+	- Lachmann is arguing that the curves are not continuous. It’s similar in spirit with [[Elie Ayache]] who argues that price changes don’t happen in time. Nothing remains the same for us across time because we create knowledge. And nothing is shared objectively because knowledge is created individually. #revisit 
+- Neglect of the heterogeneity of capital vitiates the theory of investment (p. 70)
+- What has thus far been said in this chapter throws some light on certain problems in the theory of money (p. 70)
+	- As will be discussed in Chapter VI
+- The size of each firm’s cash reserve depends not on its liquidity preference but largely on what happens during the process of exchange. In a dynamic world, while the exchange of assets that might lead to an optimum position is still going on, other changes will supervene which drastically modify the situation. (p. 71)
+	- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+- Attempts to reach an ‘optimum distribution’ of assets tend to be defeated by the unexpected gains and losses which accompanied the reshuffling of capital combinations, as a result of which some firms found themselves with less, others with more money than they had ‘preferred’. (p. 72)
+	- [[13-1a3.1a Praxeological analysis can supply some truths about time preferences, using ceteris paribus assumptions—i.e., by evoking the multiverse]]
+		- Viz., the change in the cash reserve per se doesn’t mean anything #revisit 
+	- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
+	- Relate with [[Warren Buffett]] and [[Eric Voskuil]] #revisit 
+	- The change in the cash reserve doesn’t reflect the change in preference for money per se—it loosely reflects the ability to recalibrate to the changing environment. #revisit 
+		- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+- The conclusions we have reached in this chapter:
+	- Unexpected change makes frequent plan revisions necessary (p. 72)
+	- The decision to reshuffle is subject to the same hazards as other plans: the reshuffle may fail (p. 72)
+		- [[1-2 We are fallible]]
+	- The regrouping plan will result in a shift of the money holdings, and such shifts must not be regarded as necessarily reflecting ‘shifts in liquidity preference’—some of these shifts are among the undesired consequences of plan revisions (p. 72)
+		- This is the case where created knowledge supersedes preference—the implication is that you have to recalibrate your knowledge because preference is knowledge-driven. #revisit
+			- [[13-6a3 Value scales converge with knowledge—put differently, value scales differentiate without knowledge]]
+- The view that all shifts in money holdings reflect shifts in liquidity preference presents just another case where the essential characteristics of a dynamic process are assumed away by static assumptions. (p. 72)
+	- Lachmann’s criticism here should apply to both Keynesian and [[Murray Rothbard |Rothbardian]] theories #revisit 
+- All unexpected change causes capital gains and losses. These, far more than ‘output’, ‘incomes’, or even profits, are the real motor of a dynamic market economy. They are mostly the result of failure of production plans; but often the result of the failure of regrouping plans to materialize in accordance with a predetermined pattern. (p. 73)
+	- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
 ## Chapter IV: The Meaning Of Capital Structure
 - Physical homogeneity is not incompatible with functional difference (p. 74)
 	- [[13-4d2 There is no objective value]]
@@ -189,6 +244,7 @@ On *malinvested capital*
 ## Chapter V: Capital Structure And Economic Progress
 Classicists and neoclassicists don’t consider the effect the configuration of capital goods have on those very capital goods
 ## Chapter VI: Capital Structure And Asset Structure
+
 ## Chapter VII: Capital in The Trade Cycle
 
 ## Personal thought:
