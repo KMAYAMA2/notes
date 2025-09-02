@@ -240,7 +240,43 @@ On *malinvested capital*
 	- [[13-7.1a Prices can reveal differences between goods that appear identical]]
 	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
 - We must analyze the consequences of capital regrouping for the economic system as a whole (p. 75)
-- 
+- Two types of capital complementarity: *plan complementarity* (of capital goods within the framework of one plan) and *structural complementarity* (of capital goods within the economic system) (p. 75)
+	- This chapter is concerned with the second
+- There also arises the complementarity of the Investment Portfolio which refers not to productive resources as such, but to the titles to their control, not to operating assets but to securities—where action has to be taken to safeguard the future control of productive resources without as yet making detailed plans for the future. (p. 76)
+	- As will be discussed in Chapter VI
+- The type of process analysis to which we are committed compels us to regard adjustment as essentially *discontinuous*—what matters to us is that once we have introduced the distinction between planned action and plan revision, factors may be complements in one *and* substitutes in another situation. (p. 77)
+	- On complementarity and substitutability #revisit 
+		- [[11-3.3a The law of returns—with the quantity of complementary factors held constant, there always exists some optimum amount of the varying factor]]
+		- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
+		- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
+		- [[13-9e The emergence of new types of goods will bring about price decrease for old substitutes because of the shift in demand schedules, under the assumptions of constant supply schedules]]
+		- [[13-9g The substitutive effect will be mixed with the complementary effect, and the nature of each particular case determines which effect will be the stronger]]
+- Factors are complements in so far as they fit into a production plan and participate in a productive process (p. 78)
+- Substitution, on the other hand, is a phenomenon of change, the need for which arises whenever something has gone wrong with a prior plan. Factor substitution is a concomitant of plan revision, and can therefore only take place intermittently between our “periods”. And substitutability essentially indicates the ease with which a factor can be turned into an element of a plan. (p. 78)
+- The central problem of this chapter: What do we mean by *capital structure*? (p. 78)
+	- We cannot accept a definition of capital structure in terms of the constant composition of capital combination (p. 80)
+- As the social world is inevitably a world of unexpected change, any concept of stability applicable to it must refer to *internal coherence* in the face of external change rather than to absence of the latter. (p. 79)
+- If equilibrium means nothing more than consistency of a complex of relationships, it can be extended to the world of change if by ‘dynamic equilibrium’ we mean consistency of plans. (p. 79)
+- There will have to be regrouping in the firm which starts the change as well as in those which are affected by it (p. 80)
+	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+	- [[2-1e Everything is connected in a complex way]]
+	- [[10-2g2c0e Synechism - the idea that everything is connected and nothing can be understood in isolation]]
+- In Chapter VII we shall speak of ‘intersectional maladjustments’ as a feature of industrial fluctuations. Without a concept of structure as the norm from which all maladjustments can be regarded as deviations such a notion evidently can make no sense. (p. 81)
+- Confronted with the dilemma that in the theory of capital we cannot do without a central concept, but can find no such concept as could stand up to unexpected change, it seems that we must go back to fundamentals. (p. 81)
+	- [[12-1e0 Everything changes]]
+- A structure is a complex of relationships which exhibit a coherent pattern. The relationships exist between *entities*. (p. 81)
+	- [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things |Meaning is often in relation to other things]] #revisit
+	- The notion of *intertemporal* or *dynamic* equilibrium
+- *Consistent* capital change <> *Inconsistent* capital change
+	- *Structural maladjustment* = Inconsistent capital change
+- Of consistent capital change, we may speak where coincident expectations about the quantities and qualities of goods which will pass from one person’s possession into another’s will in effect co-ordinate all these different plans into one single plan, although this “plan” will not exist in any one mind. (p. 83) #revisit 
+	- [[2-2a 'Emergence' - Knowledge can be created out of nothing and is unpredictable]] #revisit 
+	- [[5-1b1a2c0 No theory can exhaust reality]] #revisit 
+- Such forces do not operate in a vacuum—often they meet with obstacles and sometimes with counterforces tending to deflect them from their courses. Sheer stubborn ignorance and unwillingness to learn on the part of some producers or consumers may be such an obstacle. But a more frequent form of obstacle is to be found in institutional prohibitions of the full use of whatever knowledge is already available, for instance in certain forms of the Patent Law. (p. 83)
+- The complementarity of factors of production employed in primary producing and manufacturing countries and in international transport is the cumulative result of a continuous succession of substitutions. Thus continuous substitution serves to promote universal factor complementarity. (p. 84)
+	- Substitution → Complementarity #revisit 
+		- [[13-9g The substitutive effect will be mixed with the complementary effect, and the nature of each particular case determines which effect will be the stronger]]
+- Our next task is to assess the strength and describe the *modus operandi* of such forces—foremost among these forces is *the price system* (p. 84) 
 ## Chapter V: Capital Structure And Economic Progress
 Classicists and neoclassicists don’t consider the effect the configuration of capital goods have on those very capital goods
 ## Chapter VI: Capital Structure And Asset Structure

@@ -17,5 +17,5 @@ Next:
 Related:
 - [[1-1a5b4.5 Truth is about correspondence with reality]]
 - You must evoke others each with his own unique knowledge about the world. See [[Ludwig Lachmann |Lachmann]] for more.
-	- [[Murray Rothbard |Rothbard]] evokes others but he does it to justify his MVP framework—despite his subjectivism, he implicitly assumes homogenous knowledge among people when it comes to capital and MVP.   
+	- [[Murray Rothbard |Rothbard]] evokes others but he does it to justify his MVP framework—despite his subjectivism, he implicitly assumes homogenous knowledge among people when it comes to capital and MVP. He should’ve taken subjectivism more [[3-1c3c2 Take ideas seriously, to an extent that you will be comfortable ‘breaking rules’ if necessary |seriously]].
 		- [[13-5f1 You must evoke others to explain the interest rate]]
