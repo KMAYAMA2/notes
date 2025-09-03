@@ -1,3 +1,5 @@
+[[More is different]]
+
 Critical mass. Activation energy.
 [[8-1c4 ‘Killer application’ is knowledge-technology-universality that begets reflexivity between app-platform-people by pushing people over the threshold]]
 [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]

@@ -34,38 +34,47 @@ date: 2024-08-15
 		- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
 		- [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
 ## PART TWO: ON WHAT DOESN’T WORK AND WHAT DOES
-- on having low expectations (p. 17)
+- On having low expectations (p. 17)
 	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
-- nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+- Nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
 	- [[12-1e Nothing is necessary = Everything is contingent]]
 	- [[12-1e4 Nothing is objectively and independently good]]
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
 	- [[RUL3 - Make a conscious effort to avoid addictions. Ask “is this how I want to be spending my time”]]
-- Study history, Buffett likes financial history (pp. 19-20)
+- Study history—Buffett likes financial history (pp. 19-20)
 	- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - If you define all problems as a nail, you’ll only look for a hammer (p. 21)
+	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 - Having all the tools is the antidote for being a-man-with-a-hammer syndrome (p. 21)
 	- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
 - Ask why. Use Occam’s razor. (p. 23) 
-	- relate with minimum idea note.
+	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+		- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+		- [[3-1c2e0 There is no minimum idea]]
 - Einstein’s razor. Munger’s razor. (p. 24) #revisit 
 - Get the key few factors right. Douglas Hofstadter’s quote. (p. 24)
 - Backups (redundancy), breakpoints (weakest links), critical mass (the more is different) (p. 25)
+	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
+		- [[More is different]]
+	- [[6-8 Train your weakest link]]
 - The Golden Rule again (p. 26)
 - Lord Peter Wimsey’s quote on quotes (p. 26)
-- Patience and slight difference in returns make for huge difference when compounded, so get both (p. 27)
+- Patience and slight difference in returns make for the huge difference when compounded, so get both (p. 27)
 - Rousseau on real wisdom (p. 28) 
 	- relate with Sherlock
-- George Santayana: to understand is to know what to do (p. 28) 
-	- relate with leaning is about changing behavior memos and notes.
+- George Santayana: “To understand is to know what to do” (p. 28) 
+	- [[10-2g3d Behaviors can be replicators even when its meanings are not (properly) understood, because we can guess the meaning of memes. For rational memes, knowledge is THE replicator.]] #revisit 
+	- [[13-2.2 Most “actions” are mere behavior]]
+	- [[13-2.3 Learning is about changing your behavior]]
 - Wisdom is about how to use knowledge (p. 28) 
-	- relate with Naval.
+	- [[Naval Ravikant |Naval]] on what is wisdom: “Understanding the long-term consequences of your actions.”
 - Munger on extreme success (p. 29) 
 	- focus on few variables, non-linear returns, extreme performance, big wave.
 - On bad Lollapalooza (p. 29)
 - On halo effect, and on basic need to be liked (p. 30) 
 	- relate with biases notes #revisit 
-- On using two-track analysis: rationality; and subconscious. “There’s always a motive.” (p. 31) 
+- On using two-track analysis: rationality; and subconscious—“There’s always a motive.” (p. 31) 
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 - CEOs and the directors dysfunction as corrective mechanism (p. 32) 
 	- relate with error-correction notes and biases notes
@@ -342,8 +351,8 @@ date: 2024-08-15
 	- relate with focus on the few important variables memos
 - On negotiation. Don’t get into one where you can’t afford to walk away from. Don’t bargain with people you love. (pp. 105-106)
 - Don’t throw good money after bad (p. 106) 
-	- relate with you don’t have to recover by the same way as you lost it memos
-	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+	- You don’t have to recover by the same way as you lost it
+		- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 - The stock doesn’t care what you paid or that you own it (p. 106) 
 	- develop implication for activists
 	- develop implication for ownership #revisit 
@@ -387,16 +396,16 @@ date: 2024-08-15
 	- Roy T. Bennett: be selective in your battles. 
 	- Peace ≠ the absence of conflict. 
 - Try to formulate the opposing argument better than the opponents (p. 114) 
-	- relate with knowing creation is about debate and reconfiguration.
+	- relate with knowledge creation is about debate and reconfiguration
 - Medical maxim, first do no harm. (p. 114)
-- Exactitude ≠ truth (p. 114)
-- Montaigne: “yes but is it true?” (p. 115)
+- Exactitude ≠ Truth (p. 114)
+- Montaigne: “Yes, but is it true?” (p. 115)
 - Science is about not fooling yourself (p. 115)
 - Take ideas seriously and show how absurd that idea is (p. 116) 
 	- this is implied in extending the Portfolio Structure (price quotations) to the Plan Structure (the underlying businesses) #revisit 
 - On writing and orangutan theory (pp. 117-118)
-- Simplicity reflects clear thinking (p. 118) 
-	- and it’s rare
+- Simplicity reflects clear thinking—and it’s rare (p. 118)
+	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
 - Serpico Syndrome (p. 119)
 - Social-Proof Tendency: stop any bad behaviors before it spreads and foster and display all good behaviors (p. 119) 
 	- relate with biases notes
@@ -404,11 +413,12 @@ date: 2024-08-15
 	- Xerox and Joe Wilson (p. 120)
 	- Federal Express and the night shift (pp. 120-121)
 - You get what you reward for (p. 121) 
-	- relate with you get what you pay for memos and notes (create one if none)
+	- [[2-6 You get what you pay for]]
 - Always follow the incentives and there you’d find solutions and truth (p. 121) 
 	- relate with Sherlock notes and there’s always a motive memo
 - Rewards include nonmonetary items like sex, friendship, companionship, status, power, influence, ego (p. 121) 
-	- relate with monetary account doesn’t exhaust everything notes
+	- [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]
+	- [[13-8a2b Prices do not exhaust value scales, but value scales can be ascertained only through prices in money economy]]
 - Avoiding losses and what’s painful is also a reward (p. 122) 
 	- relate with counterfactual notes and what counts cannot be counted notes
 - Jean de La Bruyere quote on associating your incentives with that of others (p. 122) 
@@ -437,23 +447,26 @@ date: 2024-08-15
 	- relate with similar exhaustion is impossible notes, and with free market fairness memos and notes (e.g., from Rothbard, Mises, Taleb, Saifedean) 
 	- relate with roundabout memos and notes #revisit 
 - Complete foolproof is impossible (p. 126) 
-	- relate with other exhaustion is impossible notes
+	- [[1-1c6a2 Todo list can be never exhaustive]]
+	- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
 	- relate with trust memos and notes (trusting someone means going long vol with that person—theoretically you can trust anyone given enough time but practically you have to choose some people over others because our time is limited) #revisit 
 - Don’t complicate the system. Keep it simple. Remember the Dean of USC School of Music anecdote on “replacing” candy. (p. 126) 
 	- relate with other keep it simple memos and notes
 - Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
-- the problem isn’t getting rich, it’s staying sane (p. 128)
+- The problem isn’t getting rich, it’s staying sane (p. 128)
 - You Only Have to Get Rich Once (p. 128)
 - First think about what happens when it goes wrong, instead of the upside (p. 130)
 - Always weigh (and compare) the consequences of being wrong (p. 131) #revisit 
 - When playing Russian roulette, the shot not going off should alarm the next (p. 131)
-- To finish first, first finish (p. 131)
+- To finish first, you must first finish (p. 131)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - The first and second laws of thermodynamics approach applies to investing (p. 132) 
 	- if it doesn’t work, say no thanks
 	- how about short? #revisit 
-- All I want to know is if there are any factors that can cause ruin, and if any never go there (p. 132)
+- All I want to know is if there are any factors that can cause ruin, and if any, never go there (p. 132)
 - Understand the downside five to ten years from now (p. 132) 
-	- relate with Amara’s law.
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
 - Fact check quote #1098 (p. 132)
 - Is the upside worth it? If not worth doing it, don’t (p. 132)
 - On Napoleon’s mother (p. 133)
@@ -461,7 +474,8 @@ date: 2024-08-15
 - investment is business of capital allocation (p. 134)
 - on zero and negative interest rates (pp. 135-136)
 	- check the timeline of quotes
-- investment is about the return, when, and how sure you are  (p. 136)
+- Investment is about the return, when, and how sure you are  (p. 136)
+	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 - what is smart at one price is dumb at another (p. 137)
 - outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
 - when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
@@ -813,19 +827,20 @@ date: 2024-08-15
 			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
 ### 8. The Importance of Clear Yardsticks to Judge Management Performance
 ### 9. Corporate Governance
-- skin in the game (p. 39)
-- in buffett’s *owner-capitalism*, the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
-	- directors ≠ managers
-		- the former functions as a check on the latter (社長/CEO) power—on daily basis the latter decides company matters
+- Skin in the game (p. 39)
+	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+- In [[Ludwig Lachmann |Lachmann]]’s parlance, Buffett’s *owner-capitalism* can be construed as an argument for how the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
+	- Directors ≠ Managers
+		- The former functions as a check on the latter (社長/CEO)—on daily basis the latter decides company matters (i.e., the Plan Structure)
 ### 10. Owners and Management
 - on “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
-- incentives work regardless of the scale
-- “hire well, manage little” code
-- follow the Golden Rule
-	- imagine being in the other’s shoe
-	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
-- on managers’ mindset (p. 42)
-- on what counts, and not how it’s counted
+- Incentives work regardless of the scale (p. 41)
+- “Hire well, manage little” code (p. 41)
+- Follow the Golden Rule (p. 41)
+	- Imagine being in the other’s shoe
+		- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+- On managers’ mindset (p. 42)
+- On what counts, and not how it’s counted (p. 42)
 ### 11. Management Compensation: I Get What I Reward For
 - At Berkshire, management (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
 - Avoid capricious incentive structure (p. 44)
@@ -834,6 +849,7 @@ date: 2024-08-15
 	- Ask: would rewarding XXX based on the performance of YYY capricious? #revisit 
 ### 12. Mergers and Acquisitions: Dumb Acquisitions Cost Owners Far More than Most Other Things
 - Demonstrated consistent earning power >>> projection or turnaround (p. 48)
+	- [[5-2c2b The Lindy effect]]
 - Again, always think about the alternatives (e.g., passive investment) (p. 49)
 - Again, per-share intrinsic value >>> reported number (p. 50) 
 	- it’s the same with fundamental >>> price quotations, or knowledge >>> looks, just that you have to guess for all of the former due to its subjective nature. #revisit 
@@ -890,7 +906,8 @@ date: 2024-08-15
 - what the wise do in the beginning, fools do in the end (p. 74)
 	- relate with everything changes notes
 	- relate with imitation wouldn’t do memos and notes
-- “the other guy is doing it so we must as well” is the trouble (p. 75)
+- “The other guy is doing it so we must as well” is the trouble (p. 75)
+	- See [[Henry Singleton]]
 - profitability >>> volume and market share (p. 75)
 - slack (occasional) >>> producing bad businesses (p. 76)
 - identify businesses to which external surprises will have little effect (p. 77)
@@ -914,6 +931,19 @@ date: 2024-08-15
 
 # The Outsiders (see [[Henry Singleton]])
 ## The Investor as CEO
+- His contrarian insight was that companies with low capital needs and the ability to raise prices were actually best positioned to resist inflation’s corrosive effects. (p. 173)
+	- Via pricing power (whose key is consumer franchise—the brand)
+- Buffett’s exceptional results derived from an idiosyncratic approach in three critical and interrelated areas: capital generation, capital allocation, and management of operations. (p. 178)
+	- Viz., the Plan Structure, the Portfolio Structure, and the Control Structure
+- Buffett developed a distinctive approach to the insurance business, which bears interesting similarities to his broader approach to management and capital allocation. (p. 178)
+	- What specifically is this similarity which pervades all of Buffett’s approach? #revisit 
+- A willingness to avoid underwriting insurance when pricing was low, even if short-term profitability might suffer, and, conversely, a propensity to write extraordinarily large amounts of business when prices were attractive. (p. 179)
+	- Similar to [[Henry Singleton |Singleton]]’s approach to buybacks and acquisitions
+- Buffett: “Charlie and I have always preferred a lumpy 15 percent to a smooth 12 percent return.” (p. 179)
+- In both insurance and investing, Buffett believes the key to longterm success is “temperament,” a willingness to be “fearful when others are greedy and greedy when they are fearful.” (p. 181)
+- Buffett, by virtue of his prior experience evaluating investments in a wide variety of securities and industries, was a classic fox and had the advantage of choosing from a much wider menu of allocation options, including the purchase of private companies and publicly traded stocks. (pp. 181-182)
+	- Why he can *go for the best*
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - 
 # Other sources
 - the tao of buffett (founders #101)
