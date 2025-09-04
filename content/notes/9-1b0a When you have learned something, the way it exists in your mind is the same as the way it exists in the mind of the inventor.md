@@ -8,6 +8,8 @@
 
 A learned idea is equivalent to a new idea. Both have been created and criticized in the mind.
 
+But [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.” |it’s not exactly the same]].
+
 ***[[9-1b0b 'If I have seen further, it is by standing on the shoulders of giants.']]*** #BorrowedCreativity 
 	[[1-2e1 Be ambitious but leverage what you already know]]
 	[[2-1c1 'Comparative advantage' - If others can do it, let them]]

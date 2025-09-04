@@ -88,9 +88,9 @@ date: 2024-08-15
 - Be in with a management you are simpatico with (p. 36) 
 	- implication for activists, relate with stupidity notes
 - The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well. (p. 36) 
+	- [[2-1a0c1d1 Focus on the few variables]]
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
-	- relate with focus on the few variables memos
 - Understand human behavior if you’re going to run a business (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
 	- relate with notes on practice and habit
@@ -944,103 +944,135 @@ date: 2024-08-15
 - Buffett, by virtue of his prior experience evaluating investments in a wide variety of securities and industries, was a classic fox and had the advantage of choosing from a much wider menu of allocation options, including the purchase of private companies and publicly traded stocks. (pp. 181-182)
 	- Why he can *go for the best*
 		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-- 
+- A critical part of capital allocation, one that receives less attention than more glamorous activities like acquisitions, is deciding which businesses are no longer deserving of future investment due to low returns. The outsider CEOs were generally ruthless in closing or selling businesses with poor future prospects and concentrating their capital on business units whose returns met their internal targets. (pp. 182-183)
+	- Cut the bullshit fast. If wrong, admit it. Fold early. Then come up with better ideas.
+		- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
+		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+		- [[ロスは速攻切る。勝ちポジションは徐々に積み上げていく。損益に対して生じる非対称な行動心理を予め計算に入れておくこと。]]
+- Buffett: “We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort level he must feel with its economic characteristics before buying into it.” (p. 184)
+	- I.e., you will watch the basket
+		- [[2-1a0c1d1 Focus on the few variables]]
+- The two portfolio management tenets—a high degree of concentration and extremely long holding periods—combine to form a powerful and highly selective filter, one that very few companies pass through. (p. 185)
+	- The each is implied in the other. #revisit 
+	- The subsequent low turnover which is characteristic of Buffet doesn’t mean he offers less data points. #revisit 
+		- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+			- [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
+	- [[Nassim Taleb |Taleb]]’s comment on Soros vs [[Warren Buffett |Buffett]] is interesting given that Buffett also admits to himself that he doesn’t know a lot of things. #revisit 
+- The majority of Berkshire’s major public market investments originated in some sort of industry or company crisis that obscured the value of a strong underlying business. (p. 187)
+- Buffett: “We don’t try to do acquisitions, we wait for no-brainers.” (p. 190)
+	- [[RUL3 - Simplify the problem by deciding the “no-brainer” questions first]]
+- Buffett came to the CEO role without any relevant operating experience and consciously designed Berkshire to allow him to focus his time on capital allocation, while spending as little time as possible managing operations, where he felt he could add little value. (p. 190)
+	- [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
+	- [[2-1c1 'Comparative advantage' - If others can do it, let them]]
+	- [[2-1c1a1 Companies will outsource everything that isn’t their value proposition. To build successful B2B company, simply be the outsource.]]
+	- The process of picking a great operator and becoming one is not necessarily the same—Buffett does the former by sticking with the best who are already proven:
+		- [[1-1a5b4 'Release early and often, delegate everything you can, be open to the point of promiscuity']]—this is more for the latter (i.e., how to figure out the niche en route to becoming a great operator) #revisit 
+		- [[1-2f1b9 Repeat what works]]
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+- Buffett: “Hire well, manage little”
+	- Inverted: you don’t have to manage anything when you hire the best.
+- Berkshire’s many iconoclastic policies all share the objective of selecting for the best people and businesses and reducing the significant financial and human costs of churn, whether of managers, investors, or shareholders. (p. 194)
+	- Buffett’s way of always going for the best pervades his approaches to the Plan Structure (managers), the Portfolio Structure (investors), and the Control Structure (shareholders). #revisit  
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+- To Buffett and Munger, there is a compelling, Zen-like logic in choosing to associate with the best and in avoiding unnecessary change. (pp. 194-196)
+	- Because it’s tough to beat the best #revisit 
 # Other sources
-- the tao of buffett (founders #101)
-	- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
-		- E.g., chewing gum (27:00~)
-		- Ask: what’s not going to change?
-			- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
-	- public-opinion suck, don’t just build what people want
-		- Aim for specific customer segment
-			- [[RUL3 - Live in the future and build what seems interesting]]
-			- [[4-1a3b Go to specific places to get specific feedbacks]]
-		- Ask: what are rich and nerd doing?
-			- [[5-3c Knowledge is irreversible, and can only go from private to public]]
-			- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
-	- When you are sloppy in one area, you are probably sloppy elsewhere
-	- writing is the best help for thinking
-- Bevelin on Buffett (founders #202)
-	- Steve Jobs intensely studied Disney
-		- Only Disney was making money lucratively in animation business, and the recipe was hidden
-	- growth is easy to measure, durability isn’t (~27:00) #revisit 
-- the essays of buffett (founders #227)
-	- Bruce Lee: hack the unessential 
-	- Good business run by good manager is rare.
-	- It’s all about free cash flow.
-	- Watch the basket.
-		- Focus. Concentrate.
-			- And you will when you concentrate instead of diversifying.
-	- When dumb money acknowledges itself as such, it ceases to be dumb money.
-	- Avoid dragons. No need to slay them.
-	- Money provides margin of safety
-	- Fees never falter
-		- Cost can be controlled (James J. Hill)
-	- Buffett’s pitch (1:35:00)
-	- There would be no auto industry with horses
-- buffett munger by bevelin episode (founders #286)
-	- relate (as well as create)
-		- The former can be as powerful as the latter
-			- also avoiding bad ones
-	- reading lets you connect with other instances 
-	- you can’t change the behavior of others unless initiated by themselves spontaneously
-		- intense curiosity dives everything
-		- if the person is not interested, it wouldn’t work
-			- missionaries make the best product—not mercenaries
-	- cash is hedge
-		- stay in the game
-		- life gets you out of your weakest link (e.g., leverage)
-		- implication for market reform
-	- the world is driven by envy, not anger
-		- “the world is not driven by greed, but envy”
-			- relate with relativity note and social media notes #revisit 
-		- time is the best filter
-	- sol price’s membership model
-		- he wanted to avoid certain customers
-	- No master plans
-		- Keep reacting
-			- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
-	- communicate who when what why
-	- interest rate to asset price is what gravity is to apple (48m)
-	- brand matters
-	- learning is about changing your behavior, not memorization (53m)
-		- in other words, effect in the real world
-			- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
-	- human nature never changes (55m)
-		- challenge this #revisit 
-	- customer is the boss—just cut out what irritates them (1h1m)
-	- play with good players—the story of eddie (1h5m)
-	- look for weak competition—competence is relative concept (1h6m)
-- 400 pages of buffett and munger (#380) ~1h7m
-	- yogi berra on observing (9m)
-	- cut envy
-	- deserve what you get
-	- on adjacent opportunities
-		- geico saw how effective google ad was
-		- rockefeller looked up to jay gould, who saw opportunities in telco when operating in railway industry
-	- long-term is where the money is—and the world is extremely short-term focused (14m)
-	- read Titan which is on Rockefeller (21m) #TODO 
-		- rockefeller emphasized the quality of information over speed
-	- build business around what you do naturally
-	- you wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
-		- the same applies to American corporations and their histories (29m)
-	- not buying Belridge because munger didn’t have “enough” cash (32m)
-	- not paying attention to what other people think should apply to investment (i.e., to price quotations) (35m)
-		- Jeff Bezos story on Amazon’s stock price going down from $103 to $6
-	- share what’s important to you
-	- Variance in listed companies’ CEOs ≠ that of Olympic team. So if you find good ones stick with them, because they are rare.
-		- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
-	- Isadore Sharpe doubling down on ads when everyone was cutting it down because they saw it as a cost.
-	- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. Projects >>> plan. #revisit 
-	- Be easy to interface with (49m)
-	- Think about and focus on what counts for the business, and eliminate everything else.
-	- Specialization = focus = play your game (53m) 
-		- e.g., Todd Graves (chicken fingers guy)
-	- If you’re not sure if it’s your game, it likely isn’t. Know your circle of competence.
-	- On internet (59m) 
-		- Billy Durant (of GM)—he was in horse carrying business initially
-	- Learning is about changing your behavior. 
-		- Buffett with Belridge Oil, Intel, Disney, and Amazon.
-	- Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 
-		- e.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country), Coca Cola and fridge, Rockefeller and Ford.
-			- if you keep changing your game you wouldn’t notice these #revisit 
+## The tao of buffett (founders #101)
+- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
+	- E.g., chewing gum (27:00~)
+	- Ask: what’s not going to change?
+		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+- public-opinion suck, don’t just build what people want
+	- Aim for specific customer segment
+		- [[RUL3 - Live in the future and build what seems interesting]]
+		- [[4-1a3b Go to specific places to get specific feedbacks]]
+	- Ask: what are rich and nerd doing?
+		- [[5-3c Knowledge is irreversible, and can only go from private to public]]
+		- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
+- When you are sloppy in one area, you are probably sloppy elsewhere
+- writing is the best help for thinking
+## Bevelin on Buffett (founders #202)
+- Steve Jobs intensely studied Disney
+	- Only Disney was making money lucratively in animation business, and the recipe was hidden
+- growth is easy to measure, durability isn’t (~27:00) #revisit 
+## the essays of buffett (founders #227)
+- Bruce Lee: hack the unessential 
+- Good business run by good manager is rare.
+- It’s all about free cash flow.
+- Watch the basket.
+	- Focus. Concentrate.
+		- And you will when you concentrate instead of diversifying.
+- When dumb money acknowledges itself as such, it ceases to be dumb money.
+- Avoid dragons. No need to slay them.
+- Money provides margin of safety
+- Fees never falter
+	- Cost can be controlled (James J. Hill)
+- Buffett’s pitch (1:35:00)
+- There would be no auto industry with horses
+## buffett munger by bevelin episode (founders #286)
+- relate (as well as create)
+	- The former can be as powerful as the latter
+		- also avoiding bad ones
+- reading lets you connect with other instances 
+- you can’t change the behavior of others unless initiated by themselves spontaneously
+	- intense curiosity dives everything
+	- if the person is not interested, it wouldn’t work
+		- missionaries make the best product—not mercenaries
+- cash is hedge
+	- stay in the game
+	- life gets you out of your weakest link (e.g., leverage)
+	- implication for market reform
+- the world is driven by envy, not anger
+	- “the world is not driven by greed, but envy”
+		- relate with relativity note and social media notes #revisit 
+	- time is the best filter
+- sol price’s membership model
+	- he wanted to avoid certain customers
+- No master plans
+	- Keep reacting
+		- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+- communicate who when what why
+- interest rate to asset price is what gravity is to apple (48m)
+- brand matters
+- learning is about changing your behavior, not memorization (53m)
+	- in other words, effect in the real world
+		- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
+- human nature never changes (55m)
+	- challenge this #revisit 
+- customer is the boss—just cut out what irritates them (1h1m)
+- play with good players—the story of eddie (1h5m)
+- look for weak competition—competence is relative concept (1h6m)
+## 400 pages of buffett and munger (#380) ~1h7m
+- yogi berra on observing (9m)
+- cut envy
+- deserve what you get
+- on adjacent opportunities
+	- geico saw how effective google ad was
+	- rockefeller looked up to jay gould, who saw opportunities in telco when operating in railway industry
+- long-term is where the money is—and the world is extremely short-term focused (14m)
+- read Titan which is on Rockefeller (21m) #TODO 
+	- rockefeller emphasized the quality of information over speed
+- build business around what you do naturally
+- you wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
+	- the same applies to American corporations and their histories (29m)
+- not buying Belridge because munger didn’t have “enough” cash (32m)
+- not paying attention to what other people think should apply to investment (i.e., to price quotations) (35m)
+	- Jeff Bezos story on Amazon’s stock price going down from $103 to $6
+- share what’s important to you
+- Variance in listed companies’ CEOs ≠ that of Olympic team. So if you find good ones stick with them, because they are rare.
+	- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
+- Isadore Sharpe doubling down on ads when everyone was cutting it down because they saw it as a cost.
+- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. Projects >>> plan. #revisit 
+- Be easy to interface with (49m)
+- Think about and focus on what counts for the business, and eliminate everything else.
+- Specialization = focus = play your game (53m) 
+	- e.g., Todd Graves (chicken fingers guy)
+- If you’re not sure if it’s your game, it likely isn’t. Know your circle of competence.
+- On internet (59m) 
+	- Billy Durant (of GM)—he was in horse carrying business initially
+- Learning is about changing your behavior. 
+	- Buffett with Belridge Oil, Intel, Disney, and Amazon.
+- Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 
+	- e.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country), Coca Cola and fridge, Rockefeller and Ford.
+		- if you keep changing your game you wouldn’t notice these #revisit 

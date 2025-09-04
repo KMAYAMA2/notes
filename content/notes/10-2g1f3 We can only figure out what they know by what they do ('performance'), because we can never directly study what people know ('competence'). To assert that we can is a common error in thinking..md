@@ -1,5 +1,7 @@
 [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]
 
+[[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
+
 The Turing test is one such behavioristic mistake #Behaviorism
 - [[1-2g1b What matters is the explanation, and not what you can see]] 
 

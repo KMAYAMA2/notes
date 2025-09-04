@@ -1,4 +1,6 @@
+Relate with how game has to have specific time horizon for it to be game (e.g., see [[安田隆夫]])
 
+[[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 
 Next:
 - [[2-1b2a 'Seizing the middle' - 'Time is the friend of someone who is properly positioned and the enemy of someone poorly positioned.']]

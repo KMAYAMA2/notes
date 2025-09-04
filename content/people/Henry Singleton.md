@@ -54,53 +54,54 @@ date: 2025-07-18
 	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable |No masterplans]]
 - Their unorthodox approach proved a robust source of competitive advantage across a wide variety of industries and market conditions. (p. 209)
 # Other sources
-- Henry Singleton: The Outsiders (Founders #94)
-	- Good business is good business—what it does matter less
-		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
-	- Size can work against you—large increases your fragility
-		- Nature abhors monopoly
-		- No prime customer
-		- Don’t fall into mania of bigness
-		- Instead of paying 15x PER for acquisition, tender your own shares (i.e., shrink) if that makes more sense
-	- **Superpower is being able to think for yourself, and to trust that judgement**
-		- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
-		- If everyone’s doing it, they must be imitating—not thinking
-			- [[10-2g1f Imitation = limitation (imitation has limitation)]]
-	- Dividend gets you taxed twice
-	- Munger: ideology turns your brain into cabbage
-		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self. |Assume no self]] and prioritize flexibility
-			- No masterplan
-			- [[1-1c6a2c Don't keep a schedule |No schedule]]
-			- Work on the most important problem at any given time, and always figure out what that is
-				- [[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
-	- Managing operation ≠ Capital allocation
-	- My personal thought: 
-		- Japanese equity market is following trends in the US
-		- Cash per se is not problem
-			- The problem is how it’s been used and why
-	- Teledyne was decentralized conglomerate
-	1. Capital allocation is the job
-	2. Per share value >>> Growth or size
-	3. Cash flow >>> Reported earnings
-	4. Decentralization >>> Politics
-	5. Independent thinking
-	6. Sometimes best investment is your own stock
-	7. Patience is a virtue
-	- Razor focus on few variables
-	- It’s unpredictable, so be flexible
-- henry singleton, by george roberts (founders #110)
-	- [[Bob Noyce]] #revisit 
-	- Invest in yourself because no other people would care about you as much as you would yourself
-	- Cap allocation = Resource allocation
-		- The underlying principle should apply to personal life #revisit
-			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-	- First principle thinking
-		- Cut noises (e.g., street consensus)
-		- Study what worked—regardless of categories
-	- Henry learned as he acquired, and it was recursive
-		- [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge]]
-		- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
-		- He traced and acquired almost the whole production line
-			- Dynamically executed [[5-1b1a7 Technology’s ‘function’ consists of many parts, and you have to have an explanation for how each contributes to the whole (i.e., ‘vertically-integrated’) |vertical integration]], as it were. #revisit 
-	- He used an idea from GM’s chairman’s book #revisit 
-	- Buyback as investment to yourself
+## Henry Singleton: The Outsiders (Founders #94)
+- Good business is good business—what it does matter less
+	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+- Size can work against you—large increases your fragility
+	- Nature abhors monopoly
+	- No prime customer
+	- Don’t fall into mania of bigness
+	- Instead of paying 15x PER for acquisition, tender your own shares (i.e., shrink) if that makes more sense
+- **Superpower is being able to think for yourself, and to trust that judgement**
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- If everyone’s doing it, they must be imitating—not thinking
+		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+- Dividend gets you taxed twice
+- Munger: ideology turns your brain into cabbage
+	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self. |Assume no self]] and prioritize flexibility
+		- No masterplan
+		- [[1-1c6a2c Don't keep a schedule |No schedule]]
+		- Work on the most important problem at any given time, and always figure out what that is
+			- [[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
+- Managing operation ≠ Capital allocation
+- My personal thought: 
+	- Japanese equity market is following trends in the US
+	- Cash per se is not problem
+		- The problem is how it’s been used and why
+- Teledyne was decentralized conglomerate
+1. Capital allocation is the job
+2. Per share value >>> Growth or size
+3. Cash flow >>> Reported earnings
+4. Decentralization >>> Politics
+5. Independent thinking
+6. Sometimes best investment is your own stock
+7. Patience is a virtue
+- Razor focus on few variables
+	- [[2-1a0c1d1 Focus on the few variables]]
+- It’s unpredictable, so be flexible
+## henry singleton, by george roberts (founders #110)
+- [[Bob Noyce]] #revisit 
+- Invest in yourself because no other people would care about you as much as you would yourself
+- Cap allocation = Resource allocation
+	- The underlying principle should apply to personal life #revisit
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+- First principle thinking
+	- Cut noises (e.g., street consensus)
+	- Study what worked—regardless of categories
+- Henry learned as he acquired, and it was recursive
+	- [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge]]
+	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+	- He traced and acquired almost the whole production line
+		- Dynamically executed [[5-1b1a7 Technology’s ‘function’ consists of many parts, and you have to have an explanation for how each contributes to the whole (i.e., ‘vertically-integrated’) |vertical integration]], as it were. #revisit 
+- He used an idea from GM’s chairman’s book #revisit 
+- Buyback as investment to yourself

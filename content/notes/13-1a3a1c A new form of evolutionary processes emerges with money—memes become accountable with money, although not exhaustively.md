@@ -1,8 +1,10 @@
+And memecoins ironically pulled back memes. #revisit 
 
 Next:
 - [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
 
 Related:
+- [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
 - [[Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
 - On memes #develop 
 	- [[1-1b Memes are more powerful than genes because they can out-evolve them]]
