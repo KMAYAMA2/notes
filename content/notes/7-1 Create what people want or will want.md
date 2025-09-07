@@ -8,6 +8,8 @@ Because every prices emanate from the subjective preferences of consumers.
 
 Building what people want means finding out how much people know (and don’t know) since demand is shaped by available knowledge—to that extent you can (and should) *know how far ahead you are in terms of knowledge*. *I-was-too-ahead-of-my-time* type of excuse simply implies a lack of understanding in one’s part about knowledge status of others—which is a part of reality. You have to take into account the knowledge status of others.
 
+But if people’s expectations are stupid, as [[Warren Buffett |Buffett]] and Munger would argue, just don’t deal with them (this holds particularly for equities since there is loose correspondence between the plan structure and the portfolio structure in equities—see, e.g., [[Ludwig Lachmann |Lachmann]]). #revisit 
+
 And you can always educate other people—directly or indirectly through your product. This is what [[Bob Noyce]] did during his time with Intel.
 
 Next:
@@ -15,6 +17,7 @@ Next:
 - [[7-2 Long optionality, volatility, change]]
 
 Related:
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - [[1-1a5b4.5 Truth is about correspondence with reality]]
 - You must evoke others each with his own unique knowledge about the world. See [[Ludwig Lachmann |Lachmann]] for more.
 	- [[Murray Rothbard |Rothbard]] evokes others but he does it to justify his MVP framework—despite his subjectivism, he implicitly assumes homogenous knowledge among people when it comes to capital and MVP. He should’ve taken subjectivism more [[3-1c3c2 Take ideas seriously, to an extent that you will be comfortable ‘breaking rules’ if necessary |seriously]].

@@ -1,6 +1,7 @@
 ---
 date: 2025-09-05
 ---
+Also think about what the counterparty is focused on.
 
 Related:
 - On focus

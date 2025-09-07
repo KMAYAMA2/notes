@@ -6,3 +6,6 @@ Related:
 - On Buridan’s ass
 	- [[13-6a3 Value scales converge with knowledge—put differently, value scales differentiate without knowledge]]
 	- [[13-6c1 The action axiom meaningfully implies corresponding value scales only when the action is mediated via corresponding knowledge]]
+- Relate with [[Sherlock Holmes]] #revisit 
+	- [[1-2g1b What matters is the explanation, and not what you can see]]
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]

@@ -347,8 +347,8 @@ date: 2024-08-15
 - Never contend with a man who has nothing to lose, but more so with a man who has everything to lose (p. 105) 
 	- relate with negotiation and biases notes
 - Loss aversion is why we overvalue what we give over what we get. Think from counterparty’s point of view. Take a stand on only important things. (p. 105) 
-	- relate with 主語の転換 memos 
-	- relate with focus on the few important variables memos
+	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+	- [[2-1a0c1d1 Focus on the few variables]]
 - On negotiation. Don’t get into one where you can’t afford to walk away from. Don’t bargain with people you love. (pp. 105-106)
 - Don’t throw good money after bad (p. 106) 
 	- You don’t have to recover by the same way as you lost it

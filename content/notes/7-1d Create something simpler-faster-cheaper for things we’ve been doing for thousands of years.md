@@ -1,3 +1,5 @@
+Remember [[Sam Walton]] and [[Jeff Bezos]]
+
 [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
 
 [[7-1d1 Apply the newest technology to the oldest problems. The best source of arbitrage is between the newest tech papers and the oldest books.]]
