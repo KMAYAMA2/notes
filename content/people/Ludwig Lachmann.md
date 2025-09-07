@@ -385,9 +385,57 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 	- I.e., via created knowledge
 		- This is why [[Warren Buffett |Buffett]] and [[Charlie Munger |Munger]] stay away from tech companies—unless they have brand
 			- I think Berkshire’s stake in Google and Apple is an extension of their previous investment thesis for newspaper companies and See’s #revisit 
-- 
-
+- Capital gains and losses accompany the success and failure of production plans—consumption will be strongly stimulated by capital gains and discouraged by losses. (p. 123)
+	- Put differently, the Portfolio Structure and the Plan Structure influence each other.
+- Capital losses may give rise to a demand for capital to finance reconstruction (p. 123)
+	- The Portfolio Structure can influence the Plan Structure and the Control Structure.
+- For our purpose in this chapter capital gains and losses are of importance mainly in that they reflect within the portfolio structure the success or failure of production plans, and thus record within one sphere the events that have taken place, or are about to take place, within another sphere. (p. 123)
+	- That is, the Portfolio Structure can reflect the Plan Structure.
+- Relative preference for different classes of assets are not given to us as a ‘datum’, but merely reflect other economic processes and their interpretation by asset holders (p. 123) #revisit 
+	- It’s not preference, but knowledge (to the extent that they constitute expectations) that drives everything. #revisit 
+		- **In preferences, one’s want takes precedence** (“I want this”)
+		- **In expectations, the reality takes precedence** (“This and that will likely happen”)
+			- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+			- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+			- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+- Four conclusions (from this fragmentary survey of interrelationships in the capital sphere):
+	- The changes in the size of reserve assets (particularly of cash reserve) serve as primary criteria of success and failure. (p. 124)
+		- Relate with [[Henry Singleton |Singleton]] and [[Warren Buffett |Buffett]]’s emphasis on cash flow #revisit 
+	- Capital gains and losses are changes in asset values reflecting changes in other elements of the asset structure—revaluation of securities by the market plays a vital part in bringing the various constituents of the asset structure into consistency with each other. (p. 124)
+	- It is impossible to treat the demand for securities as though it were a demand for consumption goods. (p. 124)
+		- **All the consumer has to do is to bring a number of ‘urges’ into a logical and coherent order—a value scale.** (p. 125) #revisit 
+			- [[13-9a1 A value scale consists of goods with which the individual is familiar—the good will not be on the value scale if the individual does not know about that good]] 
+		- **The asset holder has to *interpret* and *apply* the facts he learns about in the light of his knowledge.** (p. 125) #revisit 
+			- [[1-1a5 We always reason abductively]]
+			- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- Replenishment of cash has to be accompanied by a reshuffle of other capital goods (p. 125)
+		- This fact has some important consequences for ‘cheap money’ and similar policies—as will be discussed in Chapter VII
+- In the modern world of large-scale enterprise the typical objects of reshuffling are as often as not whole subsidiary companies. (p. 126)
+	- E.g., a conglomerate
+	- This fact is of some significance in business fluctuations—as will be discussed in Chapter VII
+- If equity ownership has nothing to do with control and the making of decisions, the whole structural scheme we have presented would fall to the ground. (p. 127)
+- The manager and the capital owner are each active in his own distinct sphere, but their spheres of action are interrelated by virtue of mutual orientation. (p. 127)
+	- For either the other’s action is a datum of his own action. (p. 127)
+		- Lachmann uses ‘datum’ to mean something external to oneself and hence uncontrollable #revisit 
+- It is true that the modern shareholder rarely takes the trouble of opposing managerial decisions with which he happens to disagree at the company meeting. But this is so because he has a more effective way of voting against these decisions: He sells. (pp. 127-128)
+	- Viz., mutual checks are at work
+		- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]—because “the changes in the size of cash reserve serve as primary criteria of success and failure” #revisit 
+- Our main argument in this chapter has been based on a simple division of assets into operating assets and securities. But we saw in the case of the holding company controlling a number of subsidiaries that it is sometimes impossible to draw such a clear dividing line. In such cases it often becomes impossible to say when, for instance, a certain sale or purchase of securities involves a ‘managerial decision’ and when it does not. In the same way it becomes impossible to disentangle profits and capital gains. (p. 128)
+	- E.g., Berkshire Hathaway
+	- [[1-1a2e11 Nothing objectively represents the represented]] #revisit 
+- If by entrepreneurial decisions we mean decisions involving the making and revising of plans, there is no difference between changing a production plan and changing the composition of an investment portfolio. They are both exactly the same type of action. (p. 128)
+	- There is no substantial difference between businessmen and investors—an entrepreneur should embody both #revisit 
+		- [[Warren Buffett]]: “I am a better investor because I am a businessman and a better businessman because I am an investor.”
+- An entrepreneur = the capitalist-entrepreneur + the manager-entrepreneur
+	- The capitalist-entrepreneur’s decisions are of a ‘higher order’ since the manager-entrepreneur’s decisions presuppose and are consequent upon the decisions of the capitalist 
+		- This is to an extent—because someone like Buffett can fund himself #revisit 
+- All the decisions are specifying decisions (p. 129)
+	- Turning something into non-contingent form
 ## Chapter VII: Capital in The Trade Cycle
+- To be added
+### I
+### II
+### III
 
 ## Personal thought:
 - inspired by Lachmann (Ch. III)
