@@ -164,7 +164,7 @@ date: 2025-07-18
 - It is possible to have ‘misleading’ price movements. (p. 51)
 	- As will be discussed in later chapters.
 ## Chapter III: Process Analysis And Capital Theory
-On *malinvested capital*
+On *malinvested capital*, and that preferences do not determine the constituents of capital structure.
 - The theory of capital has to explain why capital goods are being used in the way they are. A theory which ignores regrouping ignores a highly significant aspect of reality. (p. 53)
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 	- [[1-2 We are fallible]]
@@ -240,7 +240,7 @@ On *malinvested capital*
 	- [[13-7.1a Prices can reveal differences between goods that appear identical]]
 	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
 - We must analyze the consequences of capital regrouping for the economic system as a whole (p. 75)
-- Two types of capital complementarity: *plan complementarity* (of capital goods within the framework of one plan) and *structural complementarity* (of capital goods within the economic system) (p. 75)
+- Two types of capital complementarity: ***plan complementarity*** (of capital goods within the framework of one plan) and ***structural complementarity*** (of capital goods within the economic system) (p. 75)
 	- This chapter is concerned with the second
 - There also arises the complementarity of the Investment Portfolio which refers not to productive resources as such, but to the titles to their control, not to operating assets but to securities—where action has to be taken to safeguard the future control of productive resources without as yet making detailed plans for the future. (p. 76)
 	- As will be discussed in Chapter VI
@@ -277,9 +277,115 @@ On *malinvested capital*
 	- Substitution → Complementarity #revisit 
 		- [[13-9g The substitutive effect will be mixed with the complementary effect, and the nature of each particular case determines which effect will be the stronger]]
 - Our next task is to assess the strength and describe the *modus operandi* of such forces—foremost among these forces is *the price system* (p. 84) 
+- Through price changes knowledge is transmitted from any corner of any market to the rest of the system (p. 84)
+	- As discussed in Chapter II
+- In reality the price system is not an ideal system—transmission is often delayed and sometimes faulty, the meaning of the messages received will lend itself to different (sometimes contrasting) interpretations. (p. 85)
+- Inflexible prices characterize a market situation in which the transmission of knowledge from buyers to sellers and vice versa is at least temporarily impeded. (p. 86)
+- In Chapter II we confined our analysis of the interaction of price change and expectations to a single market. We shall now extend it to price relationships between a number of markets. (p. 88)
+- The effect of inconsistent capital change on incomes and employment will be discussed in Chapter VII (p. 89)
+- History shows that whenever left sufficiently free from political interference to evolve its responses to challenges, the market economy has ‘grown’ the institutions necessary to deal with them—among these *forward markets* and the *Stock Exchange* call for our particular attention. (p. 90)
+- Forward markets tend to bring expectations into consistency with each other—they are on the side of the stabilizers. (p. 90) #revisit 
+	- [[3-1a4b6 The importance of the monetarily accountable compared to the unaccountable increases indefinitely, although the former never exhausts the latter]]
+	- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]] #revisit 
+- A critical discussion of the Keynesian view of the economic function of the Stock Exchange:
+	- All we can conclude from Keynes’ argument is not that the Stock Exchange cannot make yield expectations consistent, but that without forward trading it cannot do so. (p. 93)
+	- The Keynesian view ignores progress through exchange of knowledge because the ones know already all there is to be known whilst the others never learn anything. The view stands in clear and irreconcilable contrast to the view of the role of knowledge in society we have consistently endeavoured to set forth in this book. (p. 94)
+- Company directors who ignore the signals of the market do so at their peril, and that in the long run a market economy substitutes entrepreneurs who can read the signs of the times for those who cannot. (p. 94)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 ## Chapter V: Capital Structure And Economic Progress
 Classicists and neoclassicists don’t consider the effect the configuration of capital goods have on those very capital goods
+- The forces inherent in a market economy tend to operate towards consistent capital change and a coherent pattern of service streams flowing into and out of capital combinations; a *capital structure* is always in the process of being formed, a process continually interrupted by unexpected change (p. 97)
+	- As discussed in Chapter IV
+- In this chapter we are concerned with the changes which the capital structure undergoes as capital is accumulated—with the specific forms the capital structure assumes in an ‘expanding economy’ (p. 97)
+- 
+- We must see Boehm-Bawerk’s thesis in its proper setting (p. 104)
+- Like Adam Smith’s Division of Labour, the principle of roundabout production is (correctly interpreted) a theorem about economic progress (p. 104)
+- For Adam Smith the division of labour was the most important source of progress. The same principle can be applied to capital. As capital accumulates there takes place a ‘division of capital’, a specialization of individual capital items, which enables us to resist the law of diminishing returns. As capital becomes more plentiful its accumulation does not take the form of multiplication of existing items, but that of a change in the composition of capital combinations. (p. 105)
+	- Proper theory of capital must account for the relation among capital goods—capital goods per se are not exhaustive.
+		- [[More is different]]
+		- [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
+		- [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
+		- [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
+		- [[13-4d6 The economist must take account of all the interrelations in the economy and recognize that money costs are determined by final prices reflecting consumer demands and valuations]] #revisit 
+- Continuous investment will destroy the capital character of some resources for which the new capital is a substitute, while increasing the incomes from labour and capital resources complementary to it. (p. 107)
+- There is no *a priori* reason to expect that a sufficient number of exploitable indivisibilities will always present itself, but the history of industrial countries over the last 200 years goes to show that they usually do. (p. 107)
+- Boehm-Bawerk’s thesis thus clearly applies to those cases in which it is possible to invest capital, yet to escape diminishing returns. (p. 108)
+	- Just like Adam Smith’s division of labor escapes the Invisible Hand, here the division of capital escapes the diminishing returns. #revisit 
+		- [[11-3.1 'Equilibrium' - Anything innovative escapes the Invisible Hand]]
+		- [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]
+		- [[5-3b Knowledge creates new frontiers (and new markets)]]
+- A higher degree of the division of capital, as it accompanies the accumulation of capital, will thus be reflected in an increasing specialization of the processing function, in ‘vertical disintegration’ of the capital structure. (p. 109)
+	- Vertical integration doesn’t exhaust the relevant capital goods, as it can only integrate the pre-planned configuration of those capital goods. #revisit 
+		- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
+			- See [[Henry Singleton]]
+		- [[5-1b1a7 Technology’s ‘function’ consists of many parts, and you have to have an explanation for how each contributes to the whole (i.e., ‘vertically-integrated’)]]
+			- [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved]]
+- Time by itself is not productive, nor is human action necessarily more productive because it takes longer. (p. 110)
+	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+	- [[3-1c3c3a2 Time spent doesn't mean much]]
+- We conclude that the accumulation of capital renders possible a higher degree of the division of capital; that capital specialization as a rule takes the form of an increasing number of processing stages and a change in the composition of the raw material flow as well as of the capital combinations at each stage; that the changing pattern of this composition permits the use of new indivisible resources; that these indivisibilities account for increasing returns to capital; and that these increasing returns to the use of capital *are*, in essence, the ‘higher productivity of roundabout methods of production’. (p. 111)
 ## Chapter VI: Capital Structure And Asset Structure
+An *asset structure* = the Plan Structure + the Portfolio Structure + the Control Structure
+- The importance of capital goods lies not in their physical qualities but in the service streams to which they give rise. (p. 114)
+	- As discussed in Chapter IV
+- We came to see in the Stock Exchange, which is a market not for physical capital goods but for titles to them, an instrument for promoting consistent capital change. (p. 114)
+- We have to ask whether capital complementarity exists outside the sphere of physical capital goods, and how such forms of capital complementarity are related to the structure of physical capital hitherto studied is the main question to which this chapter is devoted (pp. 114-115)
+- Variations in the cash balance are our primary criterion of success or failure of the plan. In a world sufficiently dynamic to permit of unexpected change there must be at least one variable to register failure and success. (p. 115)
+	- [[1-1a2e11 Nothing objectively represents the represented]]
+- Money is largely a capital good ‘by proxy’ (p. 116)
+- Money and other assets ≠ Consumer goods and services 
+	- In the case of the latter our system of preferences is the ultimate datum behind which we cannot go (p. 116)
+		- [[13-9a3 Praxeology is concerned with preference as revealed through choice]] #revisit 
+	- In the case of assets relative preferences are the *explicandum* (p. 116)
+- We have to ask why at certain times certain people prefer one kind of asset to another—the composition of asset holdings and its changes make sense only as a response to change, expected and unexpected. (p. 117)
+- Monetary change is sometimes the concomitant, and sometimes the ulterior consequences of other asset changes, unexpected and, as often as not, undesired. (p. 117)
+	- I.e., ‘liquidity preference’ wouldn’t explain it (as discussed in Chapter III)
+- A Theory of Business Finance based on our knowledge of entrepreneurial action in response to change, expected and unexpected, is what we need. To set out at least the elements of such a theory, couched in terms of plan and process, is the main task of this chapter. (p. 117)
+- Since our interest is in assets *qua* instruments of action and the structural relationships between them as channels for the transmission of knowledge, our mode of classification is governed by the relevance of our classes to planning and action. (p. 117)
+	- Lachmann’s classification is centered around knowledge
+- *Operating assets* ≠ *Securities*
+	- In the same way as the technical exigencies of production planning reflect past experience and its interpretation in the form of expectations presently held, and are continuously changing as the latter are tested and present becomes past, asset preferences change and holdings are reshuffled as experience and new knowledge direct. (p. 118)
+		- I.e., asset preferences are driven by knowledge #revisit 
+	- To understand how the two spheres of action interact is to understand how a market economy works (p. 118)
+		- [[Warren Buffett]]: “I am a better investor because I am a businessman and a better businessman because I am an investor.”
+- Operating assets = *first-line assets* + *second-line assets* + *reserve assets*
+	- Reserve assets are held against unforeseen contingencies just like the cash reserve or reserve stocks, and are not meant to be brought into operation at a definite time (p. 118)
+		- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
+	- As we said above (p. 42), reserve assets are *supplementary*, not *complementary* to the first- and second-line assets. Whether they ever will become complementary to them depends on chance. (p. 118) #revisit 
+- Securities = *debt-titles* + *equities*
+	- Debt-titles embody the right to an income in terms of currency units
+	- Equities embody the right to participate in control and in residual income
+- The various modes the relationship between debt and equity may assume—its *control structure*—is of considerable importance in determining the response to success and failure. (p. 119)
+- There are three kinds of structure—and these three structures are not independent of each other
+	- The *Plan Structure* based on technical complementarity
+	- The *Control Structure* based on high or low gear of the company’s capital
+	- The *Portfolio Structure* based on people’s asset preference
+- ‘Asset preference’ is dependent of expectations regarding managerial competence and conduct in making and carrying out plans—it is very different from consumers’ preference, since a cigarette smoker in his choice is confined to what is available in the shops with no need to ponder the managerial efficiency of the makers of the various brands. (p. 120)
+	- The existence of flow-driven approach to investing implies that the relationship between the Plan Structure and the Portfolio Structure is not the one of necessity #revisit 
+		- But since you want to [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |avoid ruin]], and since the relationship has a loose correspondence (especially between incompetent companies and bankruptcy), you should avoid incompetent companies (see [[Carlo Cipolla]])
+	- If the consumer cannot find what he wants, he has to either give up, or become the producer #revisit 
+- We shall study the forces which ‘integrate’ our three structures into an over-all *asset structure*, i.e., the forces bringing the decisions which shape them into consistency with each other—this they do, and can only do, by transmitting knowledge. (p. 120)
+- What happens in conditions of expected success
+	- As long as success is achieved ‘according to plan’ the structural relationships remain undisturbed. Reserve assets neither increase nor decrease, operating cash balances and stocks are being replenished out of gross revenue. (p. 121)
+		- However, the amount which constitutes the reserve must be guessed #revisit 
+			- [[1-1a2e11 Nothing objectively represents the represented]]
+	- The picture is that of stationary conditions with a ‘steady income stream’ flowing year after year, giving no incentive to anybody to modify his conduct. (p. 121)
+		- You are getting what you paid for
+- What happens in conditions of unexpected success
+	- The surplus profits may be used for higher dividends or be ‘ploughed back’ or serve to pay off debts. (p. 121)
+		- There are actually five options. The other two include buyback and M&A. See [[Henry Singleton |The Outsiders]] (p. 110)
+- What happens in conditions of unexpected failure
+	- Sooner or later the need for a reshuffle of operating assets will present itself. (p. 122)
+- Both expansion following on success as well as reconstruction following failure cause the ‘demand for money’ to increase. (p. 122)
+	- In the case of former, you can take advantage of higher valuation to financing (e.g., see [[Henry Singleton]]’s financing approach to M&A when the valuation of his company’s stock was high)
+		- [[13-8a2.1 Money is the present good par excellence]]
+- A successful enterprise will not ordinarily experience great difficulty in finding new money capital for expansion, though the new capital may alter the control structure. (p. 122)
+	- By either tapping internal cash flow, issuing debt, or raising equity. See, again, [[Henry Singleton |The Outsiders]] (p. 110)
+- The value of the existing common stock of unsuccessful enterprise under financial reconstruction will have declined, not as a result of any decline in ‘asset preference’, but as the result of events outside the control of the asset holders. (p. 123)
+	- I.e., via created knowledge
+		- This is why [[Warren Buffett |Buffett]] and [[Charlie Munger |Munger]] stay away from tech companies—unless they have brand
+			- I think Berkshire’s stake in Google and Apple is an extension of their previous investment thesis for newspaper companies and See’s #revisit 
+- 
 
 ## Chapter VII: Capital in The Trade Cycle
 
