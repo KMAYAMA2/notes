@@ -6,6 +6,6 @@ Next:
 
 Related:
 - [[5-1b3 How much we can change is also unpredictable]]
+- [[7-1d1b Look for technology which haven’t gotten a lot of press yet because it’s really new from labs, or because people assume it’s “dead” although doesn’t explain why]]
 - [[7-1d1d You can use technology people assume is “dead”]]
 - [[RUL3 - Write out your goals. It’s amazing how few people do.]]
-- [[7-1d1b Look for technology which haven’t gotten a lot of press yet because it’s really new from labs, or because people assume it’s “dead” although doesn’t explain why]]

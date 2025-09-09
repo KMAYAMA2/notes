@@ -875,49 +875,60 @@ date: 2024-08-15
 - No yo-yo approach—do what makes sense for the customers, and never add the unneeded. (p. 59)
 - What needs to be reported is data that helps financially-literate readers answer three key questions: (1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? (3) How good a job are its managers doing, given the hand they have been dealt? (p. 59) 
 ### 14. How to Reduce Risk: Prevention is Better than Cure
-- keep it simple (p. 61)
+- Keep it simple (p. 61)
+	- [[2-1a0c1d1 Focus on the few variables]] #revisit 
 - Do the basics well (p. 62)
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
-- a chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
+- A chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
+	- [[2-1e Everything is connected in a complex way]]
 	- [[6-8 Train your weakest link]]
 - If it’s not worth doing, it’s not worth doing well (p. 63)
-	- relate with then what filter memo
+	- Relate with then what filter memo #TODO 
 	- Only work on what matters
 		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - Defining what you don’t know is essential in investing as well (p. 64)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
-- optimism is the enemy of rational buyer (p. 66)
+- Optimism is the enemy of rational buyer (p. 66)
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]] #revisit 
 - Simply being a contrarian is easy and doesn’t count (p. 67)
 	- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
-- when it’s raining gold, get a bucket (p. 67)
-- some things just take time—be patient (p. 69)
+- When it’s raining gold, get a bucket (p. 67)
+- Some things just take time—be patient (p. 69)
 - To finish first, you must first finish (p. 70)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - Only cash can meet the payment (p. 71)
 	- [[13-8a2.1 Money is the present good par excellence]]
-- cash is the gun to shoot rare fast-moving elephants (p. 71)
-- tight credit environment is the best opportunity for acquisitions—not when there’s easy money (p. 71)
-- CP (commercial paper) and MMF (money market fund) ≠ cash (p. 72)
-- each subsidiary should manage their own financing—if each was dependent on the (rich) parent company it will result in sloppy decisions (p. 72)
-	- replace subsidiary with child—the same still applies
-- what’s good for investor ≠ what’s good for broker (p. 73)
-	- relate with Li Lu’s comment on turnover and on trading in and out frequently
-- whose bread I eat, his song I sing (p. 74)
-- what the wise do in the beginning, fools do in the end (p. 74)
-	- relate with everything changes notes
-	- relate with imitation wouldn’t do memos and notes
+- Cash is the gun to shoot rare fast-moving elephants (p. 71)
+	- [[13-8a2.1 Money is the present good par excellence]]
+- Tight credit environment is the best opportunity for acquisitions—not when there’s easy money (p. 71)
+- CP (Commercial Paper) and MMF (Money Market Fund) ≠ Cash and Money (p. 72)
+- Each subsidiary should manage their own financing—if each was dependent on the (rich) parent company it will result in sloppy decisions (p. 72)
+	- Replace subsidiary with child—the same still applies
+- What’s good for investor ≠ What’s good for broker (p. 73)
+	- See [[Li Lu]]’s comment on turnover and on trading in and out frequently
+- “Whose bread I eat, his song I sing” (p. 74)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+- What the wise do in the beginning, fools do in the end (p. 74)
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+	- [[12-1e0 Everything changes]]
 - “The other guy is doing it so we must as well” is the trouble (p. 75)
 	- See [[Henry Singleton]]
-- profitability >>> volume and market share (p. 75)
-- slack (occasional) >>> producing bad businesses (p. 76)
-- identify businesses to which external surprises will have little effect (p. 77)
-- predictable long-term future >>> short-term uncertainties (p. 77)
+- Profitability >>> Volume and market share (p. 75)
+	- [[5-2a0 Know what to measure]]
+	- [[5-2a2 What gets measured gets managed]]
+- Slack (occasional) >>> Producing bad businesses (p. 76)
+	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+- Identify businesses to which external surprises will have little effect (p. 77) #revisit 
+	- [[5-2c2b The Lindy effect]]
+	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
+	- [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
+- Predictable long-term future >>> Short-term uncertainties (p. 77)
 	- remember that the latter is the general condition of the multiverse
-- ignore Mr. Market as necessary (p. 77)
+- Ignore Mr. Market as necessary (p. 77)
 - Mr. Market is there to serve me, never to guide me (p. 78)
-- operating results >>> price quotations (p. 78)
-	- this makes sense because any amount of money can do the job of money #revisit 
-	- also makes sense because here the emphasis is on the soundness of the Plan Structure
+- Operating results >>> Price quotations (p. 78)
+	- This makes sense because any amount of money can do the job of money #revisit 
+	- Also makes sense because here the emphasis is on the soundness of the Plan Structure
 - in the short-run the market is a voting machine wherein you only need money—in the long-run the market is a weighing machine (p. 78)
 	- personal thought: in the long-run, the Portfolio Structure will reflect the Plan Structure—just that you have to stay in the game. #revisit 
 		- but how (and why) does the long-run kick in? does this have to happen necessarily? is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is change? maybe the rule of thumb is enough here? #revisit 
