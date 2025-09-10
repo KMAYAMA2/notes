@@ -2,7 +2,7 @@
 
 > “I don’t want to be a great-problem-solver. I want to avoid problems—prevent them from happening and doing right from the beginning.” – [[Peter Bevelin]]
 
-Save keystrokes.
+Save keystrokes—always ask, *then what?*
 
 Next:
 - [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]

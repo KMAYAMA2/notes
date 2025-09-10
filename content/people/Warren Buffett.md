@@ -622,8 +622,8 @@ date: 2024-08-15
 		- can the Portfolio Structure change the Plan Structure not temporality or on surface but substantially?
 			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
 				- if so, what’s the implication for Buffett’s view? #revisit 
-- roughly right >>> precisely wrong (p. 189)
-	- relate with fallibilism notes
+- Roughly right >>> Precisely wrong (p. 189)
+	- [[1-2.0 It is better to be roughly right than precisely wrong]]
 - common sense >>> computer models (p. 189)
 - you shouldn’t need a spreadsheet to decide (p. 190)
 	- relate with decision should be obvious memo from (p. 138) above
@@ -730,6 +730,7 @@ date: 2024-08-15
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
 ### 1. What Investing in Financial Assets is All About
 - Investment is about cash (p. 1)
+	- [[13-8a2.1 Money is the present good par excellence]]
 - And return (p. 1) 
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 	- **Return matters in comparison with other possible returns**
@@ -857,7 +858,7 @@ date: 2024-08-15
 	- here the smart contract is resistant. #revisit 
 - Often the acquisitions benefit everyone except the shareholders of the acquirers (p. 51) 
 	- relate with activists memos
-- Per-share progress >>> size (p. 51)
+- Per-share progress >>> Size (p. 51)
 - Why not buy in market? (p. 51)
 - In a trade what you give up is as important as what you get (p. 52)
 - Markup what’s been given up as well, if that thing is undervalued don’t markup arbitrarily, let alone marking up the target stock while leaving your issued shares at market price. (p. 52)
@@ -883,8 +884,7 @@ date: 2024-08-15
 	- [[2-1e Everything is connected in a complex way]]
 	- [[6-8 Train your weakest link]]
 - If it’s not worth doing, it’s not worth doing well (p. 63)
-	- Relate with then what filter memo #TODO 
-	- Only work on what matters
+	- Only work on what matters—always ask, *then what?*
 		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - Defining what you don’t know is essential in investing as well (p. 64)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
@@ -923,17 +923,24 @@ date: 2024-08-15
 	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 	- [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
 - Predictable long-term future >>> Short-term uncertainties (p. 77)
-	- remember that the latter is the general condition of the multiverse
+	- Remember that the latter is the general condition of the multiverse
+		- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
+		- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
+		- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
 - Ignore Mr. Market as necessary (p. 77)
 - Mr. Market is there to serve me, never to guide me (p. 78)
 - Operating results >>> Price quotations (p. 78)
-	- This makes sense because any amount of money can do the job of money #revisit 
-	- Also makes sense because here the emphasis is on the soundness of the Plan Structure
-- in the short-run the market is a voting machine wherein you only need money—in the long-run the market is a weighing machine (p. 78)
-	- personal thought: in the long-run, the Portfolio Structure will reflect the Plan Structure—just that you have to stay in the game. #revisit 
-		- but how (and why) does the long-run kick in? does this have to happen necessarily? is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is change? maybe the rule of thumb is enough here? #revisit 
-			- maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
-				- related: [[13-5b2j There is no natural rate of interest in reality]]
+	- Because any amount of money can do the job of money #revisit 
+	- Because the soundness of the Plan Structure means the ability to generate cash
+		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+		- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
+- In the short-run the market is a voting machine wherein you only need money—in the long-run the market is a weighing machine (p. 78)
+	- In the long-run, the Portfolio Structure will reflect the Plan Structure, just that you have to stay in the game (see [[Ludwig Lachmann |Lachmann]]). #revisit 
+		- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
+	- But how (and why) does the long-run kick in? Does this happen necessarily? Is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is [[12-1e Nothing is necessary = Everything is contingent |change]]? Maybe the rule of thumb is enough here? #revisit 
+		- [[Ludwig Lachmann |Lachmann]] argues that this happens because humans transmit knowledge to each other throughout the market economy #revisit 
+		- Maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
+			- E.g., [[13-5b2j There is no natural rate of interest in reality]]
 ### 15. Sometimes Mistakes are Made
 - The Noah rule and prediction (p. 80)
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
