@@ -2,6 +2,8 @@
 
 Nothing is necessary means possible configurations are infinite. See [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 
+Don’t focus on what’s necessary. The contingency implies our [[1-2 We are fallible |fallibilism]]. #revisit 
+
 Next:
 - [[12-1e0 Everything changes]]
 - [[12-1e1 There are no permanent solutions in a dynamic system]]
