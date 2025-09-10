@@ -436,6 +436,15 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 ### I
 ### II
 ### III
+- In the realm of human action there is no such thing as an ‘adjustment mechanism’ (p. 153)
+	- Viz., the Invisible Hand exists because humans create *and transmit* knowledge #revisit 
+- A market economy has great resilience and can adapt itself to many needs, sudden as well as long foreseen. But this is not because of any automatic mechanism ‘built-in’ but because it serves in general to put the right man on the right spot. Successful adjustment to new conditions no less than whatever ‘stable progress’ there might exist, depend ultimately on the entrepreneurial qualities of mind and will which manifest themselves in response to challenge. (p. 153)
+- What is the principle governing capital regrouping on the morrow of the collapse of a strong boom? (p. 154)
+- The owners of a factory are unlikely to close it and let their plant lie idle merely because their liquid capital could earn a higher rate of interest elsewhere—here the Control Structure is of some importance (p. 156) #revisit 
+- In any case there will be enough resistance to all attempts to mobilize resources and disintegrate existing combinations to make the withdrawal of mobile factors a slow and precarious business. (p. 156)
+	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+- 
 
 ## Personal thought:
 - inspired by Lachmann (Ch. III)
