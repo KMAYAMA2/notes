@@ -696,8 +696,9 @@ date: 2024-08-15
 - Ask: then what? (p. 213)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - You can’t just do one thing and leave all other elements unchanged—this is principle both in ecology and legislation (p. 214)
+	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 	- Put differently, you cannot unbundle everything:
-		- See, e.g., [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+		- See, e.g., [[3-1a4b5 Anything can be priced in principle. But not everything will be.]] #revisit 
 - Parade-tiptoe problem (p. 215)
 	- In spirit this is a spontaneous disorder phenomenon—but you can avoid this one if you think it through
 		- [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]

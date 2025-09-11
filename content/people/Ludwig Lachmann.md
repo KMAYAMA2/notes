@@ -444,6 +444,22 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 - In any case there will be enough resistance to all attempts to mobilize resources and disintegrate existing combinations to make the withdrawal of mobile factors a slow and precarious business. (p. 156)
 	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
 	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+- The problem of surmounting intersectional maladjustment must not be viewed exclusively as falling within the narrow context of the firm and tis internal complementarities—it is impossible to have change and to maintain all existing relationships of complementarity. Those changes which are necessary to rectify the inconsistent capital changes of the boom must not be expected to leave incomes and asset values intact. (pp. 157-158)
+	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+	- See [[Warren Buffett]] and [[Charlie Munger]] (p. 214)
+- It follows that any policy designed merely to restore the *status quo* in terms of ‘macro-economic’ aggregate magnitudes, such as incomes and employment, is bound to fail. (p. 158)
+	- Because the same capital may give rise to service streams of very different kinds (as discussed in Chapter IV).
+		- And the general condition of the multiverse is [[12-1e0 Everything changes |change]]
+- What is needed is a policy which promotes the necessary readjustments. (p. 158) 
+	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]] #revisit 
+- It is clearly impossible to maintain all those asset values which were based on inconsistent plans—somebody has to take the consequences (p. 158)
+	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+- A policy endeavouring merely to ‘maintain effective demand’ by stimulating consumption will simply defeat the very purpose of readjustment by making it profitable for those who should deflect the flow of their services elsewhere. (p. 158)
+- The strong boom is the result of plans involving inconsistent capital change, and this inconsistency is the result of the fact that where prices are inflexible they convey misleading information about available resources. (p. 158)
+- As it is clearly impossible to have completely flexible prices in reality, or even an equal degree of flexibility throughout the economic system, investment decisions based on erroneous assumptions about the future availability of resources cannot easily be avoided. (pp. 158-159) #revisit 
+	- [[1-1a2e11 Nothing objectively represents the represented]]
+	- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+	- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]] #revisit 
 - 
 
 ## Personal thought:

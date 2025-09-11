@@ -1,3 +1,5 @@
+> “We learn how to consume by consuming and how to enjoy leisure by enjoying leisure” – Joseph Stiglitz
+
 Do it before ready. #revisit 
 
 Related:
