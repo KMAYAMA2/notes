@@ -457,9 +457,20 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 - A policy endeavouring merely to ‘maintain effective demand’ by stimulating consumption will simply defeat the very purpose of readjustment by making it profitable for those who should deflect the flow of their services elsewhere. (p. 158)
 - The strong boom is the result of plans involving inconsistent capital change, and this inconsistency is the result of the fact that where prices are inflexible they convey misleading information about available resources. (p. 158)
 - As it is clearly impossible to have completely flexible prices in reality, or even an equal degree of flexibility throughout the economic system, investment decisions based on erroneous assumptions about the future availability of resources cannot easily be avoided. (pp. 158-159) #revisit 
-	- [[1-1a2e11 Nothing objectively represents the represented]]
-	- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
-	- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]] #revisit 
+	- There is always some analog element in anything—nothing can be represented completely digitally
+		- [[1-1a2e11 Nothing objectively represents the represented]]
+		- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+		- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]] #revisit 
+- Even if all prices were completely flexible and sensitive to all present changes in demand and supply they would, in the absence of a fairly comprehensive system of forward markets, not necessarily reflect future scarcity of resources. (p. 159)
+	- Market cannot exhaust reality (e.g., see [[Elie Ayache]]’s argument on *slip*):
+		- [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]
+		- [[5-1b1a2c0 No theory can exhaust reality]]
+- The strong boom is thus an almost inevitable concomitant of an expanding industrial economy, and the system-wide regrouping of capital is its necessary consequence and corrective. (p. 159)
+	- Boom is inevitable because [[1-2 We are fallible |we are fallible]]—free market per se cannot do away with booms. **What matters is how we correct the errors**. 
+		- [[1-2a3 Errors will occur, but have to be solvable-correctable.]]
+		- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
+		- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
+		- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
 - 
 
 ## Personal thought:
