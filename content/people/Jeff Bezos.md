@@ -2,13 +2,14 @@
 date: 2025-08-22
 ---
 
-- jeff bezos (founders #388) ~47m
+- jeff bezos (founders #388)
 	- ~2005
 		- it’s all about the long term
 		- bezos (and jobs) studied akio morita (盛田昭夫) of sony—listen to founders #386
 		- the failure has to scale as the company gets bigger (10m)
 		- Amazon is basically a market of its own #revisit 
 		- sam walton: “there’s only one boss, and that is the customer—they can fire us anytime they want by spending their money elsewhere”
+			- [[7-1 Create what people want or will want]]
 		- three questions to ask in hiring meetings before making a decision:
 			- will you admire this person?
 			- will this person raise the average level of effectiveness of the group?

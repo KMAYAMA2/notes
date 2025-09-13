@@ -280,6 +280,10 @@ On *malinvested capital*, and that preferences do not determine the constituents
 - Through price changes knowledge is transmitted from any corner of any market to the rest of the system (p. 84)
 	- As discussed in Chapter II
 - In reality the price system is not an ideal system—transmission is often delayed and sometimes faulty, the meaning of the messages received will lend itself to different (sometimes contrasting) interpretations. (p. 85)
+	- Perfect signal cannot be achieved
+		- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+		- Also because perfect unbundling is impossible—as implied in the principle of ecology and legislation (see [[Warren Buffett |Buffett]] and [[Charlie Munger |Munger]]) #revisit 
+			- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]] #revisit 
 - Inflexible prices characterize a market situation in which the transmission of knowledge from buyers to sellers and vice versa is at least temporarily impeded. (p. 86)
 - In Chapter II we confined our analysis of the interaction of price change and expectations to a single market. We shall now extend it to price relationships between a number of markets. (p. 88)
 - The effect of inconsistent capital change on incomes and employment will be discussed in Chapter VII (p. 89)

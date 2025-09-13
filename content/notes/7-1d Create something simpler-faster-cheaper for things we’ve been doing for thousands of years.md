@@ -6,6 +6,7 @@ Next:
 - [[7-1e We ask ‘what is the rich doing’ because they are the ones who have the resource to experiment with to find ways to cheapen the means of production]]
 
 Related:
+- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 - [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
 
 Contradictory:

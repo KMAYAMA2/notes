@@ -1,16 +1,20 @@
-[[3-1c3c3 Take ideas seriously, but not too seriously. Don’t be the idea.]]
-[[9-4b2c You can host multiple memes both consequentially or simultaneously during your lifetime. A gene in contrast can be hosted only once per life-cycle.]]
-[[5-1b1a4 We can run multiple billion-dollar functions either sequentially or simultaneously. Or preferably both.]]
-[[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time]]
-[[11-4 Diversification can achieve what multiplicity does in the digital]]
+I guess the easiest way to do this is by simply [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people |going for the best]]. #revisit 
 
-[[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
-	[[12-1e Nothing is necessary = Everything is contingent]]
+Next:
+- [[2-1b2b5.1 Brian Armstrong's Rule of 70-20-10]]
 
-[[2-1b2b5.1 Brian Armstrong's Rule of 70-20-10]]
+Related:
+- [[3-1c3c3 Take ideas seriously, but not too seriously. Don’t be the idea.]]
+- [[5-1b1a4 We can run multiple billion-dollar functions either sequentially or simultaneously. Or preferably both.]]
+- [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time]]
+- [[9-4b2c You can host multiple memes both consequentially or simultaneously during your lifetime. A gene in contrast can be hosted only once per life-cycle.]]
+- [[11-4 Diversification can achieve what multiplicity does in the digital]]
+- [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated)]]
+	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
+		- [[12-1e Nothing is necessary = Everything is contingent]]
 
 But remember:
-	[[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 
 - Interest rates are common factor that drive the correlations up
 	- But there are other differentiating individual factors that counteract such common factor

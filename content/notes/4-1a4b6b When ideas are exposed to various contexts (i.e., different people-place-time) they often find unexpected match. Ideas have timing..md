@@ -10,9 +10,6 @@ Next:
 Related:
 - [[3-1c3c0 Ideas have timing]]
 - [[5-2b2a Use LATER folder, instead of reactively watching-reading-listening, and give them time]]
-
 - [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
-
 - [[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]
-
 - [[10-2f3a2 There can only be enough overlap of meanings between any entities (e.g., individual, group, society, theory, reality) — ‘ゆらぎ’]]

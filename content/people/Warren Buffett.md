@@ -119,6 +119,7 @@ date: 2024-08-15
 - An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
 	- always test and recalibrate your thesis (not limited to investment)
 - Bad ideas are born good. It’s easy to push a really good idea to wretched excess. (p. 44) 
+	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- relate with environments change notes
 	- relate with check the implication from deviation between the price quotations (the portfolio structure) and the underlying business operation (the plan structure) memos
 	- relate with I was too ahead of my time type excuse memos and notes
@@ -480,7 +481,10 @@ date: 2024-08-15
 - outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
 - when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
 - the decision should be obvious (p. 138)
-- get rich slow (p. 139)
+- Get rich slow (p. 139)
+	- Having low expectations and having no masterplans and changing expectations when the facts change—it’s all related
+		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - really good opportunities aren’t often and won’t last long (p. 139)
 - you get paid for being right (p. 140) 
 	- relate with naval
@@ -807,13 +811,22 @@ date: 2024-08-15
 #### d. other tough businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
-- growth has its limits (p. 21)
+	- But in the greater scheme of things, even if your expectations turn out to be wrong and end up doing worse than “the average” it’s not the end of the world—because as long as there’s progress going about you might end up *richer* in the real sense of the word. 
+		- To associate the former with being poorer assumes a zero-sum game in a static environment—unfortunately a prevalent assumption.
+			- Of course when you are wrong and the way you are wrong hurt you (i.e., if you take stupid [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |risk]]—*wrong wrongly*, as it were), you will be poorer both in nominal and real terms.
+		- What you have to understand is the non-linear impact from knowledge creation—a man can change the world and himself be very rich, but at the same time his invention can benefit the society as a whole (i.e., positive-sum)
+			- Just that such “benefit” cannot be quantified meaningfully, since knowledge creation literally changes the game.
+				- Probably the non-linearity has something to do with its game-changing nature. #revisit 
+- Growth has its limits (p. 21)
 #### e. on accounting goodwill
-- Ch. 5-E is about the difference between a good business and a good purchase
-	- it clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
-	- his emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
-		- Buffett meets Lachmann
-	- but when you are buying the business as an investment, then relevant return is within the framework of Portfolio Strucure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
+- On the difference between a good business and a good purchase
+	- It clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
+		- [[3-1c3c0 Ideas have timing]]
+		- [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
+		- [[12-1e4 Nothing is objectively and independently good]]
+	- His emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
+		- Buffett meets [[Ludwig Lachmann |Lachmann]]
+	- But when you are buying the business as an investment, then relevant return is within the framework of Portfolio Structure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
 ### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
 - Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
 	- [[5-1b1b1a2.1 Network effect means scaling increasingly]]
@@ -935,11 +948,13 @@ date: 2024-08-15
 	- Because the soundness of the Plan Structure means the ability to generate cash
 		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 		- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
-- In the short-run the market is a voting machine wherein you only need money—in the long-run the market is a weighing machine (p. 78)
+- In the short-run the market is a voting machine wherein you only need money—[[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term' |in the long-run the market is a weighing machine]] (p. 78)
 	- In the long-run, the Portfolio Structure will reflect the Plan Structure, just that you have to stay in the game (see [[Ludwig Lachmann |Lachmann]]). #revisit 
 		- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
-	- But how (and why) does the long-run kick in? Does this happen necessarily? Is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is [[12-1e Nothing is necessary = Everything is contingent |change]]? Maybe the rule of thumb is enough here? #revisit 
+	- But how (and why) does the long-run kick in? Does this happen necessarily? Is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is [[12-1e Nothing is necessary = Everything is contingent |change]]? Maybe [[1-2.0 It is better to be roughly right than precisely wrong |the rule of thumb]] is enough here? #revisit 
 		- [[Ludwig Lachmann |Lachmann]] argues that this happens because humans transmit knowledge to each other throughout the market economy #revisit 
+			- In the long-run, market is weighing machine because it does solve capital inconsistency
+				- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]] #revisit 
 		- Maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
 			- E.g., [[13-5b2j There is no natural rate of interest in reality]]
 ### 15. Sometimes Mistakes are Made

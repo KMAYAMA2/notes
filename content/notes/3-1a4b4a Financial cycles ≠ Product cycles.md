@@ -1,3 +1,5 @@
+See [[Warren Buffett]] and [[Ludwig Lachmann]]
+
 [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
 
 [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]

@@ -6,6 +6,8 @@ Because every prices emanate from the subjective preferences of consumers.
 
 > “[[RUL3 - Live in the future and build what seems interesting |Live in the future and build what seems interesting.]]” – [[Paul Graham]]
 
+> “There’s only one boss, and that is the customer—they can fire us anytime they want by spending their money elsewhere” – [[Sam Walton]]
+
 Building what people want means finding out how much people know (and don’t know) since demand is shaped by available knowledge—to that extent you can (and should) *know how far ahead you are in terms of knowledge*. *I-was-too-ahead-of-my-time* type of excuse simply implies a lack of understanding in one’s part about knowledge status of others—which is a part of reality. You have to take into account the knowledge status of others.
 
 But if people’s expectations are stupid, as [[Warren Buffett |Buffett]] and Munger would argue, just don’t deal with them (this holds particularly for equities since there is loose correspondence between the plan structure and the portfolio structure in equities—see, e.g., [[Ludwig Lachmann |Lachmann]]). #revisit 
@@ -19,6 +21,10 @@ Next:
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - [[1-1a5b4.5 Truth is about correspondence with reality]]
+- [[3-1c1d8 Sentiment (both macro and micro) is important and should be measured]]
+- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
+	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
+		- See [[Jeff Bezos]], [[Sam Walton]], [[安田隆夫]]
 - You must evoke others each with his own unique knowledge about the world. See [[Ludwig Lachmann |Lachmann]] for more.
 	- [[Murray Rothbard |Rothbard]] evokes others but he does it to justify his MVP framework—despite his subjectivism, he implicitly assumes homogenous knowledge among people when it comes to capital and MVP. He should’ve taken subjectivism more [[3-1c3c2 Take ideas seriously, to an extent that you will be comfortable ‘breaking rules’ if necessary |seriously]].
 		- [[13-5f1 You must evoke others to explain the interest rate]]
