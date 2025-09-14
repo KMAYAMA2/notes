@@ -436,7 +436,6 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 - All the decisions are specifying decisions (p. 129)
 	- Turning something into non-contingent form
 ## Chapter VII: Capital in The Trade Cycle
-- To be added
 ### I
 ### II
 ### III
@@ -475,18 +474,37 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 		- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
 		- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
 		- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
-- 
-
+- There is one price in particular which, owing to its strategic importance, we should attempt to make as flexible as possible: the rate of interest (p. 159)
+- Where a weak boom has ‘petered out’ before ‘hitting the ceiling’ capital regrouping is just as necessary. (p. 160)
+- Even in a weak boom, the new capital combinations will change the capital structure and the new products modify the market structure. Here again price inflexibility will for a time tend to hide the facts from the entrepreneurs, but the inconsistencies will show themselves in the end. This situation is best viewed in terms of Schumpeter’s model in which the ‘innovating’ new firms expand into ‘new economic space’ but also restrict the range of action of the older firms. (p. 160)
+	- See p. 156 as to why price inflexibility exists
+	- [[5-3b Knowledge creates new frontiers (and new markets)]]
+	- [[13-2a The supply of capital goods enforces narrower limits than knowledge]]
+- At the end of a weak boom, excess capacity (of the ‘real kind’) may make its appearance. The notion that in such a case we could simply restore the *status quo* by ‘maintaining incomes’ is just as futile as in the case of the recession following the strong boom. (pp. 160-161)
+	- This is why companies with high-turnover short-production-time product can be great hedge against inflation (e.g., [[Warren Buffett |Buffett]]’s purchase of See’s) as they are exposed to constant [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibration]] with reality #revisit
+- A budget deficit may help—but such a policy would have to be supplemented by strong pressure for the necessary capital regrouping to take place (p. 161)
+	- **Error-correction >>>>> Making errors** #revisit 
+		- [[1-2 We are fallible]]
+		- [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
+- Attempts to ‘stabilize’ prices will, by reducing consumers’ real incomes, simply make adjustment more difficult. The best remedy for the excess capacity mentioned is to make it unprofitable for the owners of such resources to maintain them. (p. 161) #revisit 
+	- Stabilize here means supporting the prices of inventories e.g., via intervention
+- The significance of capital regrouping transcends the phenomena of the strong boom. The Austrian theory, as most other models except Schumpeter’s, ignores the effects of innovation and technical progress. (p. 161)
+- Technical progress may cancel some of the effects of ever greater division of labour and specialization of capital by making some specialized skills and other specific characteristics redundant. In a world in which the forces of progress are manifold there are more, and not fewer, forces abroad which make the regrouping of capital an ineluctable task. (pp. 161-162)
+	- **Error-correction >>> Progress *per se*** #revisit 
+		- More precisely, error-correction is necessary for technical progress to occur *continuously*
+			- [[1-1c4b You always have to solve problems, including the problem of what problems to solve |Problems are inevitable]] #revisit 
+- Technical progress means unexpected change. Plans have to be revised, new capital combinations are formed, and old combinations disintegrate. Without the often painful pressure of the forces of change there would be no progress in the economy; without the steady action of the entrepreneurs in specifying the uses of capital and modifying such decisions, as the forces of change unfold, a civilized economy could not survive at all. (p. 162)
+	- [[5-1b1a2d Knowledge is by definition unpredictable]]
+	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
 ## Personal thought:
 - inspired by Lachmann (Ch. III)
 	- value is subjective because knowledge is created subjectively
 		- knowledge supersedes preferences
 			- and knowing the extent of other people’s knowledge forms a part of accurate and complete information, because other human beings are part of the reality with which your theory must be concerned
 - my thoughts on lachmann (ch. vi)
-	- his focus on the Control Structure somewhat anticipated activists and their influences
+	- his focus on the Control Structure somewhat anticipates activists and their influences
 - my thoughts on lachmann (ch. vii)
-	- **the invisible hand doesn’t exist independently**—it exists because of humans and to the extent of their knowledge—and since knowledge is created subjectively *ex nihilo*, it’s not one hand but many and it literally changes hands 
-
+	- **the invisible hand doesn’t exist independently**—it exists because of humans and to the extent of their knowledge—and since knowledge is created subjectively *ex nihilo*, and to the extent that the capital consistency is not achieved by any single mind, it’s not one hand but many and it literally changes hands 
 # Expectations and the Meaning of Institutions
 ## From Mises to Shackle
 - Mises: “Economics is not about things and tangible material objects; it is about men, their meanings and actions. Goods, commodities, and wealth and all the other notions of conduct are not elements of nature; they are elements of human meaning and conduct” (1949: 92)
