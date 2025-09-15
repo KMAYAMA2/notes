@@ -3,6 +3,8 @@ date: 2024-09-15
 ---
 > *「継続すること ── リズムを断ち切らないこと。長期的な作業にとってはそれが重要だ。いったんリズムが設定されてしまえば、あとはなんとでもなる。しかし弾み車が一定の速度で確実に回り始めるまでは、継続についてどんなに気をつかっても気をつかいすぎることはない。」* – 村上春樹
 
+Consistency requires change—継続にも変化が必要
+
 **Next:**
 - [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]] (休みだからといって手を抜いてはいけない)
 - [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]

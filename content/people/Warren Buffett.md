@@ -816,7 +816,7 @@ date: 2024-08-15
 			- Of course when you are wrong and the way you are wrong hurt you (i.e., if you take stupid [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |risk]]—*wrong wrongly*, as it were), you will be poorer both in nominal and real terms.
 		- What you have to understand is the non-linear impact from knowledge creation—a man can change the world and himself be very rich, but at the same time his invention can benefit the society as a whole (i.e., positive-sum)
 			- Just that such “benefit” cannot be quantified meaningfully, since knowledge creation literally changes the game.
-				- Probably the non-linearity has something to do with its game-changing nature. #revisit 
+				- Metrics to measure such non-linearity is probably better understood as our attempts to capture its game-changing nature. #revisit 
 - Growth has its limits (p. 21)
 #### e. on accounting goodwill
 - On the difference between a good business and a good purchase
@@ -969,12 +969,13 @@ date: 2024-08-15
 	- Via pricing power (whose key is consumer franchise—the brand)
 - Buffett’s exceptional results derived from an idiosyncratic approach in three critical and interrelated areas: capital generation, capital allocation, and management of operations. (p. 178)
 	- Viz., the Plan Structure, the Portfolio Structure, and the Control Structure
-- Buffett developed a distinctive approach to the insurance business, which bears interesting similarities to his broader approach to management and capital allocation. (p. 178)
+- **Buffett developed a distinctive approach to the insurance business, which bears interesting similarities to his broader approach to management and capital allocation.** (p. 178)
 	- What specifically is this similarity which pervades all of Buffett’s approach? #revisit 
 - A willingness to avoid underwriting insurance when pricing was low, even if short-term profitability might suffer, and, conversely, a propensity to write extraordinarily large amounts of business when prices were attractive. (p. 179)
 	- Similar to [[Henry Singleton |Singleton]]’s approach to buybacks and acquisitions
 - Buffett: “Charlie and I have always preferred a lumpy 15 percent to a smooth 12 percent return.” (p. 179)
-- In both insurance and investing, Buffett believes the key to longterm success is “temperament,” a willingness to be “fearful when others are greedy and greedy when they are fearful.” (p. 181)
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+- **In both insurance and investing, Buffett believes the key to longterm success is “temperament,” a willingness to be “fearful when others are greedy and greedy when they are fearful.”** (p. 181)
 - Buffett, by virtue of his prior experience evaluating investments in a wide variety of securities and industries, was a classic fox and had the advantage of choosing from a much wider menu of allocation options, including the purchase of private companies and publicly traded stocks. (pp. 181-182)
 	- Why he can *go for the best*
 		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

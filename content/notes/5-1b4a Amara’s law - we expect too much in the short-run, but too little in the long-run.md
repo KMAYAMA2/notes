@@ -1,3 +1,4 @@
+> 大功は緩にあり、機会は急にあり – 渡辺崋山
 
 Next:
 - [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]

@@ -1,26 +1,23 @@
-#LearnInPublic 
+What happens when you put yourself out there is unpredictable #LearnInPublic 
 
-[[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
-[[5-1b1a2 Some technology contains knowledge which can be universal. You can’t predict how people will use such technology.]]
+Next:
+- ***[[7-1b4b5 Any kind of expertise is valuable, and some people will take unexpected action to capture that value such that it will be serendipitous to you]]***
 
-[[9-2a3 Be long volatility with people]]
-	[[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
-
-[[9-4b2a1f Two-way debate benefits from criticism]]
-	[[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
-
-***[[7-1b4b5 Any kind of expertise is valuable, and some people will take unexpected action to capture that value such that it will be serendipitous to you]]***
-
-Ask: Are you an insurgent or an incumbent?
-	[[1-2f1b6 Volatility is good for insurgents (idiosyncratic disruptors) and bad for incumbents (legacy institutions)]]
-
-Related mental models #develop 
-	[[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
-	[[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
-
-Knowledge is created individually. It can't be taken.
-	[[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
-	[[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+Related:
+- [[5-1b1a2 Some technology contains knowledge which can be universal. You can’t predict how people will use such technology.]]
+- [[9-2a3 Be long volatility with people]]
+	- [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
+- [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
+- [[9-4b2a1f Two-way debate benefits from criticism]]
+	- [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
+- Ask: Are you an insurgent or an incumbent?
+	- [[1-2f1b6 Volatility is good for insurgents (idiosyncratic disruptors) and bad for incumbents (legacy institutions)]]
+- Related mental models #develop 
+	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+- Knowledge is created individually. It can't be taken.
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 
 ---
 - **[Why open source?]** 
@@ -38,10 +35,12 @@ Knowledge is created individually. It can't be taken.
     - Open source is about ideas of how to do things, and good writing is as good as good code
 	    - [[9-4c2 'Programs should be written for people to read, and only incidentally for machines to execute.' 'Design to express algorithms, and only incidentally tell machines how to execute them.']]
 		    - [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
-
 - Let others know. They know better. 
 	- Or more precisely, [[3-1c3c0 Ideas have timing]].
 		- [[2-1c1 'Comparative advantage' - If others can do it, let them]]
 			- And now you can own the consequences with blockchains 
 				- [[6-3b2c Composability with ownership means you can permeate across other possibilities]]
 					- And remember: [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+---
+E.g., 
+- タイで藤井風がバズる
