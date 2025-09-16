@@ -22,8 +22,6 @@ Related:
 Safeguard: 
 - *Use the test of time. Test whether you’re addressing the root cause of a problem, rather than merely treating a symptom, by asking yourself whether it will stand the test of time. Will this solution fix the problem permanently, or will the problem return in the future? If it seems like the latter, then chances are you’re only treating a symptom.*
 
-**Buffet is extreme long-term thinker* 
-
-
+**[[Warren Buffett |Buffet]] is an extreme long-term thinker**
 
 #MentalModelsGeneral 

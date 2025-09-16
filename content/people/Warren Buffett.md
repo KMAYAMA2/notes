@@ -470,6 +470,7 @@ date: 2024-08-15
 		- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
 - Fact check quote #1098 (p. 132)
 - Is the upside worth it? If not worth doing it, don’t (p. 132)
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - On Napoleon’s mother (p. 133)
 ## PART THREE: ON WHAT ELSE DOESN’T WORK AND WHAT DOES IN BUSINESS AND INVESTING
 - investment is business of capital allocation (p. 134)
@@ -559,7 +560,7 @@ date: 2024-08-15
 	- a business should be attack-prone
 - Andy grove and silver bullet question (p. 164)
 - I wish I didn’t know now what I didn’t know then quote (p. 165) 
-	- relate with what’s not worth doing memos and notes
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - Retailing is competitive (p. 165)
 - On retailing (e.g., Costco and Amazon) (p. 165)
 - Pay attention to mistakes of omission, and learn from them (p. 167) 
@@ -863,27 +864,40 @@ date: 2024-08-15
 	- Ask: is the current incentive structure “capricious”?
 	- Ask: would rewarding XXX based on the performance of YYY capricious? #revisit 
 ### 12. Mergers and Acquisitions: Dumb Acquisitions Cost Owners Far More than Most Other Things
-- Demonstrated consistent earning power >>> projection or turnaround (p. 48)
+- Demonstrated consistent earning power >>> Projection or turnaround (p. 48)
 	- [[5-2c2b The Lindy effect]]
-- Again, always think about the alternatives (e.g., passive investment) (p. 49)
-- Again, per-share intrinsic value >>> reported number (p. 50) 
-	- it’s the same with fundamental >>> price quotations, or knowledge >>> looks, just that you have to guess for all of the former due to its subjective nature. #revisit 
+- Again, always think about the alternatives (e.g., what you’d get instead if you’d opted for passive investment) (p. 49)
+- Per-share intrinsic value >>> Reported number (p. 50)
+	- You have to guess the former due to its subjective nature—reported number is [[1-1a2e11 Nothing objectively represents the represented |open to interpretations]] #revisit
+		- Fundamental >>> Price quotations
+			- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+		- Knowledge >>> Looks
+			- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - Stick to what works. Focus. (p. 50) 
-	- here the smart contract is resistant. #revisit 
+	- [[1-2f1b9 Repeat what works]]
+		- The smart contracts are by design resistant—but they cannot [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |adapt]]. #revisit 
 - Often the acquisitions benefit everyone except the shareholders of the acquirers (p. 51) 
-	- relate with activists memos
+	- Relate with activists #TODO 
 - Per-share progress >>> Size (p. 51)
-- Why not buy in market? (p. 51)
+	- See [[Henry Singleton]]
+- Why do you have to pay premium for acquisitions? Why not buy in market? (p. 51)
 - In a trade what you give up is as important as what you get (p. 52)
-- Markup what’s been given up as well, if that thing is undervalued don’t markup arbitrarily, let alone marking up the target stock while leaving your issued shares at market price. (p. 52)
-- If not worth selling at all, then it’s not worth even a small part of it (p. 53) 
-	- relate with if not worth doing well it’s not worth doing at all memos and notes
+	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
+	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+- In more than fifty years of board memberships never have I heard the investment bankers (or management) discuss the true value of what is being *given* (p. 52)
+	- Markup what’s been given up as well—don’t leave your issued shares at market price while marking up the target stock
+		- [[2-1a1a1a 'Self-preservation' - Don't trigger your biological defaults (defense mode)]]
+- If you wouldn’t sell 100% of your business on the same basis you are being asked to sell part of it, why is it smart to sell a portion? (p. 53) 
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - The don’t-give-up-more-than-what-you-get rule applies for any transactions (p. 53)
 - Deals never fail in projections (p. 54) 
-	- relate with other notes (e.g., Sherlock, Deutsch)
-- Earnings simply don’t move smoothly. (p. 54)
-- The story of the man with an ailing horse (p. 55) 
-	- relate with independent thinking memos and notes
+	- Mike Tyson: “Everyone has [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable |a plan]] until they get punched in the face”
+- Earnings simply don’t move smoothly (p. 54)
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+- Why do potential buyers even look at projections prepared by sellers? Remember the man with an ailing horse (p. 55) 
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.” |Independent thinking]] >>> Imitations
+		- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
+		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
 ### 13. A Few Management Issues
 - [[10-2g1f Imitation = limitation (imitation has limitation) |Imitation has a limitation]] (p. 56)
 	- [[Henry Singleton]]: “If everyone’s doing them, there must be something wrong with them”
@@ -900,6 +914,7 @@ date: 2024-08-15
 - If it’s not worth doing, it’s not worth doing well (p. 63)
 	- Only work on what matters—always ask, *then what?*
 		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+		- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - Defining what you don’t know is essential in investing as well (p. 64)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - Optimism is the enemy of rational buyer (p. 66)
@@ -1012,102 +1027,130 @@ date: 2024-08-15
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - To Buffett and Munger, there is a compelling, Zen-like logic in choosing to associate with the best and in avoiding unnecessary change. (pp. 194-196)
 	- Because it’s tough to beat the best #revisit 
-# Other sources
-## The tao of buffett (founders #101)
-- aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
+# Other Sources
+## The Tao of Buffett (Founders #101)
+- Aim businesses that’s predictable in 10-15 years (different inversion of Amara’s law)
 	- E.g., chewing gum (27:00~)
-	- Ask: what’s not going to change?
+	- Ask: what’s *not* going to change?
 		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
-- public-opinion suck, don’t just build what people want
+		- [[5-2c2b The Lindy effect]]
+- Public opinions suck, don’t just build what people want
 	- Aim for specific customer segment
-		- [[RUL3 - Live in the future and build what seems interesting]]
 		- [[4-1a3b Go to specific places to get specific feedbacks]]
+		- [[RUL3 - Live in the future and build what seems interesting]]
 	- Ask: what are rich and nerd doing?
 		- [[5-3c Knowledge is irreversible, and can only go from private to public]]
 		- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
-- When you are sloppy in one area, you are probably sloppy elsewhere
-- writing is the best help for thinking
-## Bevelin on Buffett (founders #202)
+	- Look for the edge
+		- [[1-1a5a2 Good writing happens at the edge of explicit-inexplicit or explicit-unconscious — that is, via surprises.]] #revisit 
+- When you are sloppy in one area, you are probably sloppy elsewhere #revisit 
+- Writing is the best help for thinking
+	- [[9-4c Someone who never writes has no fully formed ideas about anything nontrivial]]
+## Bevelin on Buffett (Founders #202)
 - Steve Jobs intensely studied Disney
 	- Only Disney was making money lucratively in animation business, and the recipe was hidden
-- growth is easy to measure, durability isn’t (~27:00) #revisit 
-## the essays of buffett (founders #227)
-- Bruce Lee: hack the unessential 
-- Good business run by good manager is rare.
+- Growth is easy to measure, durability isn’t (~27:00) #revisit 
+	- [[5-2a0 Know what to measure]]
+## The Essays of Buffett (Founders #227)
+- Bruce Lee: “It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is.” 
+- A good business run by a good manager is rare.
 - It’s all about free cash flow.
 - Watch the basket.
 	- Focus. Concentrate.
 		- And you will when you concentrate instead of diversifying.
+			- [[2-1a0c1d1 Focus on the few variables]]
 - When dumb money acknowledges itself as such, it ceases to be dumb money.
+	- Confucius: “Real knowledge is knowing one’s [[3-1a4b1.2 Define and stay within your circle of competence |ignorance]]”
+	- Buffett: “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
 - Avoid dragons. No need to slay them.
-- Money provides margin of safety
+- Money provides margin of safety.
+	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
 - Fees never falter
-	- Cost can be controlled (James J. Hill)
+	- Cost can be controlled (e.g., see [[James J. Hill]])
 - Buffett’s pitch (1:35:00)
 - There would be no auto industry with horses
-## buffett munger by bevelin episode (founders #286)
-- relate (as well as create)
+## Bevelin on Buffett and Munger (Founders #286)
+- Relate (as well as create)
 	- The former can be as powerful as the latter
-		- also avoiding bad ones
-- reading lets you connect with other instances 
-- you can’t change the behavior of others unless initiated by themselves spontaneously
-	- intense curiosity dives everything
-	- if the person is not interested, it wouldn’t work
-		- missionaries make the best product—not mercenaries
-- cash is hedge
-	- stay in the game
-	- life gets you out of your weakest link (e.g., leverage)
-	- implication for market reform
-- the world is driven by envy, not anger
-	- “the world is not driven by greed, but envy”
+		- Avoiding bullshit also as effective 
+- Reading lets you connect with other instances
+	- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
+- You can’t change the behavior of others unless initiated by themselves spontaneously
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+	- Intense curiosity drives everything
+		- [[2-1a0c1c Purpose (and curiosity) beats for-profit]]
+	- If the person is not interested, it wouldn’t work
+		- Missionaries make the best product—not mercenaries
+			- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]
+- Cash is hedge
+	- Stay in the game
+	- Life gets you out of your weakest link (e.g., leverage)
+	- Implication for market reform
+- The world is driven by envy, not anger
+	- Munger: “The world is not driven by greed, but envy”
 		- relate with relativity note and social media notes #revisit 
-	- time is the best filter
-- sol price’s membership model
-	- he wanted to avoid certain customers
-- No master plans
+	- Time is the best filter
+		- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
+- [[Sol Price]]’s membership model
+	- He wanted to avoid certain customers
+		- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+		- [[4-1a3b Go to specific places to get specific feedbacks]]
+		- [[4-1a5a If you properly set up the conversation you only need a handful of conversations for insights (e.g., via client slicing and segmentation)]]
+- No masterplans
 	- Keep reacting
 		- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
-- communicate who when what why
-- interest rate to asset price is what gravity is to apple (48m)
-- brand matters
-- learning is about changing your behavior, not memorization (53m)
-	- in other words, effect in the real world
+- Communicate *who* should do *what* *when* and *why*
+- Interest rate to asset prices is what gravity is to apple (48m)
+- Brand matters
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+- Learning is about changing your behavior, not memorization (53m)
+	- In other words, effect in the real world
 		- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
-- human nature never changes (55m)
-	- challenge this #revisit 
-- customer is the boss—just cut out what irritates them (1h1m)
-- play with good players—the story of eddie (1h5m)
-- look for weak competition—competence is relative concept (1h6m)
-## 400 pages of buffett and munger (#380) ~1h7m
-- yogi berra on observing (9m)
-- cut envy
-- deserve what you get
-- on adjacent opportunities
-	- geico saw how effective google ad was
-	- rockefeller looked up to jay gould, who saw opportunities in telco when operating in railway industry
-- long-term is where the money is—and the world is extremely short-term focused (14m)
-- read Titan which is on Rockefeller (21m) #TODO 
-	- rockefeller emphasized the quality of information over speed
-- build business around what you do naturally
-- you wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
-	- the same applies to American corporations and their histories (29m)
-- not buying Belridge because munger didn’t have “enough” cash (32m)
-- not paying attention to what other people think should apply to investment (i.e., to price quotations) (35m)
-	- Jeff Bezos story on Amazon’s stock price going down from $103 to $6
-- share what’s important to you
-- Variance in listed companies’ CEOs ≠ that of Olympic team. So if you find good ones stick with them, because they are rare.
-	- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
+- Human nature never changes (55m)
+	- Challenge this #revisit 
+- Customer is the boss—just cut out what irritates them (1h1m)
+	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+- Play with good players—the story of Eddie and Yankees (1h5m)
+- Look for weak competition—competence is relative concept (1h6m)
+	- [[12-1e4 Nothing is objectively and independently good]]
+## 400 pages of Buffett and Munger (Founders #380) ~1h7m
+- Yogi Berra on [[2-1aa Observe |observing]] (9m)
+- Cut envy
+- Deserve what you get
+- On adjacent opportunities
+	- [[9-1a2 Most fairly good ideas are adjacent to even better ones]]
+		- Geico saw how effective Google ad was
+		- Rockefeller looked up to Jay Gould who’d seen opportunities in telco when operating in railway industry
+- Long-term is where the money is—and the world is extremely short-term focused (14m)
+	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+- Read *Titan* (a book on Rockefeller) (21m) #TODO 
+	- Rockefeller emphasized the quality of information over speed
+- Build business around what you do naturally
+- You wouldn’t know if a guy who hits .300 is good or not unless there’s some background knowledge
+	- The same applies to American corporations and their histories (29m)
+- Not buying Belridge because Munger didn’t have “enough” cash (32m)
+- Not paying attention to what other people think should apply to investment (i.e., to price quotations) (35m)
+	- Jeff Bezos’ story on Amazon’s stock price going down from $103 to $6
+- Share what’s important to you
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
+- Variance in listed companies’ CEOs ≠ that of Olympic team
+	- If you find good ones, stick with them, because they are rare.
+		- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
 - Isadore Sharpe doubling down on ads when everyone was cutting it down because they saw it as a cost.
-- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. Projects >>> plan. #revisit 
+- You teach something, then they will come directly to you to offer something. Be individual opportunities driven, just like Napoleon was. 
+	- Projects >>> Plan #revisit 
 - Be easy to interface with (49m)
 - Think about and focus on what counts for the business, and eliminate everything else.
-- Specialization = focus = play your game (53m) 
-	- e.g., Todd Graves (chicken fingers guy)
-- If you’re not sure if it’s your game, it likely isn’t. Know your circle of competence.
+- Specialization = Focus = Play your game (53m) 
+	- e.g., Todd Graves (CEO of Raising Cane's Chicken Fingers)
+- If you’re not sure if it’s your game, it likely isn’t. [[3-1a4b1.2 Define and stay within your circle of competence |Know your circle of competence]].
 - On internet (59m) 
-	- Billy Durant (of GM)—he was in horse carrying business initially
+	- Billy Durant of GM was initially in horse carrying business
 - Learning is about changing your behavior. 
 	- Buffett with Belridge Oil, Intel, Disney, and Amazon.
 - Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 
-	- e.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country), Coca Cola and fridge, Rockefeller and Ford.
-		- if you keep changing your game you wouldn’t notice these #revisit 
+	- E.g., marginal MLB players’ compensation went up because of TV (because the stadium got bigger with TV—spectator size went from 40k to the whole country); Coca Cola and fridge; Rockefeller and Ford.
+		- If you keep changing your game you wouldn’t notice these #revisit 
+			- [[3-1d6b Consistent style makes it easier to see whether you are making a progress or not]]
+			- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]

@@ -1,11 +1,11 @@
 ---
 date: 2025-07-18
 ---
-- James J. Hill (#371)
-	- he called vertical integration rational integration
-	- back then railroads were analogous to internet
-	- the government was paying by the miles
-		- what happened was bunch of inefficient rail routs being built
-	- james, on the other hand, was obsessed with straight (i.e., efficient) rails
-	- he had monopoly but because it lowered prices
-	- he was micromanaging, because he had his own stake in the company
+- James J. Hill (Founders #371)
+	- He called vertical integration *rational integration*
+	- Back then railroads were analogous to internet
+	- The government was paying by the miles
+		- What happened was bunch of inefficient rail routs being built
+	- James, on the other hand, was obsessed with straight (i.e., efficient) rails
+	- He had monopoly but because it lowered prices
+	- He was micromanaging, because he had his own stake in the company

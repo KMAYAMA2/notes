@@ -8,6 +8,7 @@
 
 Next:
 - [[2-1b2b1a Get your incentives right from the beginning]]
+- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 
 Related:
