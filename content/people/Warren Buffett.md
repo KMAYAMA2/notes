@@ -781,7 +781,7 @@ date: 2024-08-15
 		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
 			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
-#### a. really great
+#### A. The Great
 - Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
 - Try to compete with that business in your mind (p. 11) 
 	- relate with argue better than against your own idea better than the opponent memos and notes.
@@ -796,8 +796,8 @@ date: 2024-08-15
 - Reputation creates value for See’s (and not production cost) and is the source of goodwill (p. 13)
 - Ask Microsoft or Google (p. 13) 
 	- relate with infinite leverage memos and notes
-#### b. good
-#### c. the gruesome
+#### B. The Good
+#### C. The Gruesome
 - sugar isn’t differentiated (p. 15)
 	- unless someone does it
 - Nothing fails like success (in commoditized businesses) (p. 16)
@@ -809,7 +809,7 @@ date: 2024-08-15
 	- Inversion would be: leave unpromising battlefield.
 - Turnaround seldom turn and usually takes longer (p. 19) 
 	- relate with it takes longer and costs more memos and notes
-#### d. other tough businesses
+#### D. Other Tough Businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 	- But in the greater scheme of things, even if your expectations turn out to be wrong and end up doing worse than “the average” it’s not the end of the world—because as long as there’s progress going about you might end up *richer* in the real sense of the word. 
@@ -819,7 +819,7 @@ date: 2024-08-15
 			- Just that such “benefit” cannot be quantified meaningfully, since knowledge creation literally changes the game.
 				- Metrics to measure such non-linearity is probably better understood as our attempts to capture its game-changing nature. #revisit 
 - Growth has its limits (p. 21)
-#### e. on accounting goodwill
+#### E. On Accounting Goodwill
 - On the difference between a good business and a good purchase
 	- It clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
 		- [[3-1c3c0 Ideas have timing]]
@@ -828,6 +828,7 @@ date: 2024-08-15
 	- His emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets [[Ludwig Lachmann |Lachmann]]
 	- But when you are buying the business as an investment, then relevant return is within the framework of Portfolio Structure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
+#### F. The Key Factors for Success (or Harm) and their Predictability
 ### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
 - Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
 	- [[5-1b1b1a2.1 Network effect means scaling increasingly]]
@@ -836,11 +837,16 @@ date: 2024-08-15
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
 ### 7. The Importance of Trustworthy and Talented Management
-- personal thought: who’s allocating the capital for us? (p. 34)
-- personal thought: the Portfolio Structure must account for the management ability in managing the Plan Structure (i.e., capital allocation skill—the management’s skill in managing the Plan Structure includes their ability to manage the Portfolio Structure). (p. 34) #revisit 
-	- inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structure? #revisit 
-		- is this where smart contracts can make a difference?
-			- can you integrate smart contracts into Bitcoin (e.g., OP_CAT)? #revisit 
+- Ask: who’s allocating the capital? (p. 34)
+- In [[Ludwig Lachmann |Lachmann]]’s parlance, the Portfolio Structure must account for the portfolio companies’ management ability in managing the Plan Structure (and often the Plan Structure itself includes capital allocation as in the case for Berkshire with Buffett). (p. 34) #revisit 
+	- Inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structures? Put simply, are holding companies (e.g., Berkshire) desirable? #revisit 
+		- Without holding companies, one cannot delegate capital allocation responsibility—to that extent it is not necessarily the case that the Portfolio Structure strictly corresponds with portfolio companies’ Plan Structures. Getting rid of holding companies is similar to getting rid of derivatives (see [[Elie Ayache]]).
+			- [[1-1a2e11 Nothing objectively represents the represented]]
+		- Is this where smart contracts can make a difference—because each code is [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation |dedicated to a function]]? #revisit 
+			- But smart contracts can be as complex as one desires—similar to open sourced AIs
+				- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
+			- If smart contracts can be integrated into Bitcoin (e.g., OP_CAT), what are the implications? #revisit 
+				- Or what does it mean to own ETH? #revisit 
 ### 8. The Importance of Clear Yardsticks to Judge Management Performance
 ### 9. Corporate Governance
 - Skin in the game (p. 39)
@@ -849,14 +855,26 @@ date: 2024-08-15
 	- Directors ≠ Managers
 		- The former functions as a check on the latter (社長/CEO)—on daily basis the latter decides company matters (i.e., the Plan Structure)
 ### 10. Owners and Management
-- on “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
+- Common goals and a shared destiny make for a happy business “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
 - Incentives work regardless of the scale (p. 41)
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
 - “Hire well, manage little” code (p. 41)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- Go for the best, then you will have less problems
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Follow the Golden Rule (p. 41)
 	- Imagine being in the other’s shoe
 		- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
-- On managers’ mindset (p. 42)
-- On what counts, and not how it’s counted (p. 42)
+- Most managers are happiest when they are left alone to run their businesses (p. 42)
+	- Berkshire has its own mini free market, as it were #revisit 
+- This approach produces an occasional major mistake that might have been minimized through close operating controls—but it also eliminates large layers of costs and dramatically speeds decision-making. Because everyone has a great deal to do, a very great deal gets done. (p. 42)
+	- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+- Run your business as if you own 100% of it, as if it’s the only asset you will ever have, as if you can’t sell it for at least a century. (p. 42)
+- Managers should not let any of their decisions be affected even slightly by accounting considerations. (p. 42)
+	- What counts >>> How it’s counted
+		- [[5-2 What counts cannot be counted]]
 ### 11. Management Compensation: I Get What I Reward For
 - At Berkshire, management (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
 - Avoid capricious incentive structure (p. 44)

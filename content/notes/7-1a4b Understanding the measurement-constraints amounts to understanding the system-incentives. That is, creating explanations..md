@@ -1,3 +1,4 @@
+[[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 [[3-1c3c2a1 How do we find constraints (i.e., detect bullshit)]]
 
 [[10-2g2c0e Synechism - the idea that everything is connected and nothing can be understood in isolation]]
