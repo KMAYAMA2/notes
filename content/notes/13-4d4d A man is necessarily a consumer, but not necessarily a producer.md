@@ -6,6 +6,9 @@ Consumers only have to think about themselves—but entrepreneurs (which include
 
 “There is, in fact, *never any need to worry about the maintenance of consumer spending*.” – [[Murray Rothbard]] (p. 403)
 
+Next:
+- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
+
 Related:
 - The interest rate is not the cause
 	- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]

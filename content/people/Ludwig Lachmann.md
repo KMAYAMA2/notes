@@ -369,6 +369,7 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 		- But since you want to [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |avoid ruin]], and since the relationship has a loose correspondence (especially between incompetent companies and bankruptcy), you should avoid incompetent companies (see [[Carlo Cipolla]])
 	- If the consumer cannot find what he wants, he has to either give up, or become the producer #revisit 
 - We shall study the forces which ‘integrate’ our three structures into an over-all *asset structure*, i.e., the forces bringing the decisions which shape them into consistency with each other—this they do, and can only do, by transmitting knowledge. (p. 120)
+	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 - What happens in conditions of expected success
 	- As long as success is achieved ‘according to plan’ the structural relationships remain undisturbed. Reserve assets neither increase nor decrease, operating cash balances and stocks are being replenished out of gross revenue. (p. 121)
 		- However, the amount which constitutes the reserve must be guessed #revisit 
@@ -412,6 +413,7 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 		- **The asset holder has to *interpret* and *apply* the facts he learns about in the light of his knowledge.** (p. 125) #revisit 
 			- [[1-1a5 We always reason abductively]]
 			- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+			- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 	- Replenishment of cash has to be accompanied by a reshuffle of other capital goods (p. 125)
 		- This fact has some important consequences for ‘cheap money’ and similar policies—as will be discussed in Chapter VII
 - In the modern world of large-scale enterprise the typical objects of reshuffling are as often as not whole subsidiary companies. (p. 126)

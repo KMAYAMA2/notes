@@ -8,3 +8,4 @@
 
 [[RUL3 - Finish what you start, because the best work often happens in what was meant to be the final stage]]
 
+[[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]

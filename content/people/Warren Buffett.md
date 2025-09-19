@@ -456,7 +456,8 @@ date: 2024-08-15
 - Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
 - The problem isn’t getting rich, it’s staying sane (p. 128)
 - You Only Have to Get Rich Once (p. 128)
-- First think about what happens when it goes wrong, instead of the upside (p. 130)
+- Think first about what happens when it goes wrong, instead of the upside (p. 130)
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - Always weigh (and compare) the consequences of being wrong (p. 131) #revisit 
 - When playing Russian roulette, the shot not going off should alarm the next (p. 131)
 - To finish first, you must first finish (p. 131)
@@ -478,7 +479,7 @@ date: 2024-08-15
 	- check the timeline of quotes
 - Investment is about the return, when, and how sure you are  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
-- what is smart at one price is dumb at another (p. 137)
+- [[3-1a4b2b What is smart at one price is dumb at another |What is smart at one price is dumb at another]] (p. 137)
 - outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
 - when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
 - the decision should be obvious (p. 138)
@@ -775,59 +776,74 @@ date: 2024-08-15
 - Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
 - Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
 ### 5. Business Characteristics: The Great, the Good and the Gruesome
-- inverted: don’t invest in companies signaling DMU
-- inverted: pricing power is essential in inflationary environment
-	- consumer franchise is the key to pricing power, not production cost
-		- a business can be killed by poor management—a franchise can withstand poor management (p. 15)
-		- **cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better**
-			- since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective
+- Don’t invest in companies signaling DMU (see., e.g., 5-C)
+- Inverted: pricing power is essential in inflationary environment (i.e., in our times)
+	- Consumer franchise is *the* key to pricing power, not production cost
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+		- A business can be killed by poor management—a franchise can withstand poor management (p. 15)
+		- Being the low cost producer can protect you during [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change. |downturns]]—but in itself doesn’t offer any further upside
+			- [[12-1e Nothing is necessary = Everything is contingent |Of course]], it can translate into being the brand (e.g., see [[Jeff Bezos]] and [[Sam Walton]]) #revisit 
+		- **Cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better** #revisit 
+			- Since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective #revisit 
 #### A. The Great
 - Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
+	- [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
+	- **The best is being the low cost producer *and* have the brand**
+		- Elaborate the relation between the two (e.g., see [[Jeff Bezos]])
 - Try to compete with that business in your mind (p. 11) 
-	- relate with argue better than against your own idea better than the opponent memos and notes.
+	- Relate with argue-against-your-own-idea-better-than-the-opponent memos and notes.
+	- Relate with let-the-ideas-die-in-your-stead notes
 - Ask: does it have any close substitute? (p. 11) 
 	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
 	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
 - The best protection against inflation is a great business (p. 11) 
-	- challenge this #revisit 
+	- Challenge this, especially in light of Bitcoin #revisit 
 - Businesses needing not much in tangible assets are hurt the least by inflation (p. 12)
 - See’s had minimized need for tangible assets (operating funds) because it was sold for cash and production cycle was short so didn’t have inventory issues (p. 12) 
 	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
-- Reputation creates value for See’s (and not production cost) and is the source of goodwill (p. 13)
-- Ask Microsoft or Google (p. 13) 
-	- relate with infinite leverage memos and notes
+		- Also see [[Ludwig Lachmann |Lachmann]] (pp. 160-161)
+- Reputation creates value for See’s (and not production cost) and is the source of Goodwill (p. 13)
+	- Viz., the source of Goodwill (premium) comes from the upside potential which comes from the brand (and less from being the low cost producer—although it does provide [[2-1b2g 'Margin of safety' - Be redundant and resourceful |margin of safety]] during downturns, which is [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |much needed in times of crisis]] and may explain the premium as well) #revisit 
+	- Ask Microsoft or Google (p. 13) 
+		- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
+		- Relate with infinite leverage memos and notes
 #### B. The Good
 #### C. The Gruesome
-- sugar isn’t differentiated (p. 15)
-	- unless someone does it
-- Nothing fails like success (in commoditized businesses) (p. 16)
-- in commoditized businesses, individually economic decision isn’t economic at all when considered collectively (p. 17)
-	- only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in DMU environment (i.e., in no knowledge creation environment)
-		- if the division of capital relates to creating *different* production process, then *the more is different* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
-- Get out leaking boat (p. 19) 
-	- relate with Marc Andreessen memos and notes. 
-	- Inversion would be: leave unpromising battlefield.
+- Sugar isn’t differentiated (p. 15)
+	- *Unless someone does it* #revisit 
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+- Nothing fails like success in commoditized businesses (p. 16)
+- In commoditized businesses, an economic decision which makes sense individually isn’t economic at all when considered collectively (p. 17)
+	- Only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand |DMU]] environment (i.e., in no knowledge creation environment)
+		- If the division of capital (see [[Ludwig Lachmann |Lachmann]]) relates to creating *different* production processes, then *[[More is different |the more is different]]* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+- Get out leaking boat (p. 19)
+	- Leave unpromising battlefield
+		- [[2-1b3 Play different games. Avoid competition.]]
+		- [[2-1b4 Not fighting can win you the battle]]
+	- See [[Marc Andreessen]]
 - Turnaround seldom turn and usually takes longer (p. 19) 
-	- relate with it takes longer and costs more memos and notes
+	- Relate with other it-takes-longer-and-costs-more-than-you-think memos and notes #revisit 
 #### D. Other Tough Businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
-	- But in the greater scheme of things, even if your expectations turn out to be wrong and end up doing worse than “the average” it’s not the end of the world—because as long as there’s progress going about you might end up *richer* in the real sense of the word. 
+	- But in the greater scheme of things, even if your expectations turn out to be wrong and you end up doing worse than “the average” it’s not the end of the world—because as long as there’s progress going about you might end up *richer* in the real sense of the word. 
 		- To associate the former with being poorer assumes a zero-sum game in a static environment—unfortunately a prevalent assumption.
 			- Of course when you are wrong and the way you are wrong hurt you (i.e., if you take stupid [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |risk]]—*wrong wrongly*, as it were), you will be poorer both in nominal and real terms.
-		- What you have to understand is the non-linear impact from knowledge creation—a man can change the world and himself be very rich, but at the same time his invention can benefit the society as a whole (i.e., positive-sum)
+		- Instead what you have to understand is the non-linear impact from knowledge creation: a man can [[8-2b2a 'Technologies that change society are technologies that change interactions between people' |change the world]] and himself [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it) |be very rich]], but at the same time his invention can benefit the society as a whole—the game is positive-sum where there is knowledge creation.
 			- Just that such “benefit” cannot be quantified meaningfully, since knowledge creation literally changes the game.
-				- Metrics to measure such non-linearity is probably better understood as our attempts to capture its game-changing nature. #revisit 
-- Growth has its limits (p. 21)
-#### E. On Accounting Goodwill
+				- Metrics to measure such non-linearity is probably better understood as our attempts to capture its game-changing nature (e.g., see [[Elie Ayache]]). #revisit 
+- Growth has its limits (p. 21) #revisit 
+#### E. On Accounting Goodwill #revisit 
 - On the difference between a good business and a good purchase
 	- It clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
+		- [[3-1a4b2b What is smart at one price is dumb at another]]
 		- [[3-1c3c0 Ideas have timing]]
 		- [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
 		- [[12-1e4 Nothing is objectively and independently good]]
+		- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 	- His emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets [[Ludwig Lachmann |Lachmann]]
-	- But when you are buying the business as an investment, then relevant return is within the framework of Portfolio Structure—here, what matters is how much you actually paid for the expected returns—amortizing Goodwill is like pretending you only partially paid for the business each year
+	- But when you are buying the business as an investment, then relevant return is within the framework of your own Portfolio Structure—here, what matters is how much you actually paid for the expected returns—since you will be paying for the Goodwill, amortizing Goodwill is like pretending you only partially paid for the business each year #revisit 
 #### F. The Key Factors for Success (or Harm) and their Predictability
 ### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
 - Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
@@ -1016,7 +1032,7 @@ date: 2024-08-15
 	- Cut the bullshit fast. If wrong, admit it. Fold early. Then come up with better ideas.
 		- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
 		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
-		- [[ロスは速攻切る。勝ちポジションは徐々に積み上げていく。損益に対して生じる非対称な行動心理を予め計算に入れておくこと。]]
+		- [[9-2a3b0.1 ロスは速攻切る。勝ちポジションは徐々に積み上げていく。損益に対して生じる非対称な行動心理を予め計算に入れておくこと。]]
 - Buffett: “We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort level he must feel with its economic characteristics before buying into it.” (p. 184)
 	- I.e., you will watch the basket
 		- [[2-1a0c1d1 Focus on the few variables]]
