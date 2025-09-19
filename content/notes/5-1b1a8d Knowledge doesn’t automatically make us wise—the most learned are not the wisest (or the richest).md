@@ -6,6 +6,7 @@ date: 2025-06-21
 Put differently, knowledge cannot do without judgement. #revisit 
 
 Related:
+- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
 - But you need knowledge proper—the ones which correspond with the reality #revisit 
 	- [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
 	- [[1-2g2r0 The Turing principle implies 梵我一如]]

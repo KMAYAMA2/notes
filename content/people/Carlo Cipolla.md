@@ -4,6 +4,8 @@ date: 2024-08-12
 That we should not deal with stupid people at all is well implied in [[Warren Buffett]] and [[Charlie Munger]]’s emphasis on avoiding lousy people at all cost. Deal with companies like you deal with people (companies are managed by people after all)—just leave them alone instead of shorting them, engaging with them, trying to profit from such engagements. Their focus on the fundamental is also implied because people’s expectation can be stupid, and you don’t want to deal with that (as elaborated [[7-1 Create what people want or will want |here]]), either. #revisit 
 
 I think we must add another category called *creators* or *[[Become A Problem-Solving Artist |artists]]* along with rational people, the bandits, the hermits, and stupid people. Only creators and stupid people are unpredictable.
+
+As an aside, in the evenly rotating economy (as expounded by [[Ludwig von Mises |Mises]] and [[Murray Rothbard |Rothbard]]), there is no category (not just creators but also rational people, the bandits, the hermits, and stupid people) despite variance in knowledge status among individuals because there’s no knowledge creation (e.g., see [[13–5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations |this]] note). #develop 
 # The Basic Laws of Human Stupidity
 - The First Basic Law
 	- **Always and inevitably everyone underestimates the number of stupid individuals in circulation**

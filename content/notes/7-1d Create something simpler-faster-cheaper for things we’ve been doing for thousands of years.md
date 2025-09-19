@@ -4,9 +4,11 @@ Next:
 - [[7-1d0 People who find ways to drive down the costs and simplify the product made the biggest difference (Ford)]]
 - [[7-1d1 Apply the newest technology to the oldest problems. The best source of arbitrage is between the newest tech papers and the oldest books.]]
 - [[7-1e We ask ‘what is the rich doing’ because they are the ones who have the resource to experiment with to find ways to cheapen the means of production]]
+	- [[7-1f Developing in anticipation of development cost cheapening is a form of investment]]
 
 Related:
 - [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
+	- [[13-1a3a1a1 Only monetary income (or loss) can be observed and measured ex post—never psychic income (or loss)]]
 - [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
 
 Contradictory:

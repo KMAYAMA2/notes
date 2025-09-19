@@ -1,5 +1,7 @@
 > “I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to be paid for my judgement.” – [[Naval Ravikant]]
 
+Relate with infinite leverage memos and notes—that there is no infinite leverage, that growth has its limits. #TODO 
+
 Next:
 - [[3-1c3c3c Tech is for technology as well as for technique (技術)]]
 

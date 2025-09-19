@@ -25,6 +25,7 @@
 			- “No one person invents anything. Everyone is part of a culture and part of each other’s creativity, ideas, earlier attempts and the general world of knowledge in which they live. Every invention is built up over time, bit by bit. Language is no exception.”
 				- In other words, culture invents things—but wasn’t Everett claiming in ***DM*** that the only individuals learn? #revisit 
 					- Maybe culture is how individual learning gets transferred and used—the unpredictability, the inevitability of implicit-ness slipping through a grasp of individual ‘inventors’? #revisit 
+						- [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
 ###### 0. Intro
 - Conversations are ‘underdeterminant’
 	- That is, language can only say less than what is intended to be communicated and leaves the unspoken assumptions to be figured out by the listener

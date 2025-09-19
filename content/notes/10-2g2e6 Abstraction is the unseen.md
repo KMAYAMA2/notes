@@ -7,3 +7,5 @@
 [[10-2g2e7 Abstraction is universal, precisely because they are in the abstract (i.e., itself not contingently constrained by its own physicality)]]
 
 [[1-1a4c1 Emergence is another beginning of infinity. Knowledge is based on and consists of emergent phenomena.]]
+
+#unseen 

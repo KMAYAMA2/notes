@@ -3,12 +3,13 @@ date: 2025-06-26
 ---
 [[2-1b Seeing the unseen (面影・うつろい) |Seeing the unseen]] via the ERE (evenly rotating economy).
 
-“The idea of the evenly rotating economy is indispensable in analyzing the real economy; through hypothesizing a world where all change has worked itself out, we can analyze the directions of actual change.” (p. 329)
+“The idea of the evenly rotating economy is indispensable in analyzing the real economy; through hypothesizing a world where all change has worked itself out, we can analyze the directions of actual change.” – [[Murray Rothbard]] (p. 329)
 
-“Costs of production, are at the mercy of final price, and not the other way around. It is ironic that it is precisely in the ERE that this causative phenomenon should be the clearest. In the real world of uncertainty it is more difficult to see this, because factors are paid in *advance* of the sale of the product, since the capitalist-entrepreneurs speculatively advance money to the factors in the *expectation* of being able to recoup their money with a surplus for interest and profit after sale to the consumers.” (p. 355)
+“Costs of production, are at the mercy of final price, and not the other way around. It is ironic that it is precisely in the ERE that this causative phenomenon should be the clearest. In the real world of uncertainty it is more difficult to see this, because factors are paid in *advance* of the sale of the product, since the capitalist-entrepreneurs speculatively advance money to the factors in the *expectation* of being able to recoup their money with a surplus for interest and profit after sale to the consumers.” – [[Murray Rothbard]] (p. 355)
 
 Related:
 - [[2-1a0b 'Thought experiment' - Don't limit yourself to binary thinking. Explore at least three possible solutions.]]
+- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 - [[13-3a The use of the mathematical concept of function in a science of human action is inappropriate—because it disregards time and knowledge creation (i.e., the multiverse)]]
 - [[13-4d6 The economist must take account of all the interrelations in the economy and recognize that money costs are determined by final prices reflecting consumer demands and valuations]]
 - Data (as in experiences) needs theory (as in though experiment such as the ERE)

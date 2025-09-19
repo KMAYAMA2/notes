@@ -1,6 +1,6 @@
 > “The more you know the better off you are as an investor” – Li Lu
 
-Maybe it gets easier because when you have more of something that thing can turn into something different ([[More is different |more is different]]). 
+Maybe it gets easier because when you have more of something that thing can turn into something different ([[11-3.4a More is different|more is different]]). 
 
 Next:
 - A key challenge when building networks is overcoming the “bootstrap” or “cold start” problem: attracting users and contributors before enough of them are participating to make the network intrinsically useful.

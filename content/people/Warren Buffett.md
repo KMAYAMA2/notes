@@ -56,7 +56,7 @@ date: 2024-08-15
 - Backups (redundancy), breakpoints (weakest links), critical mass (the more is different) (p. 25)
 	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
-		- [[More is different]]
+		- [[11-3.4a More is different]]
 	- [[6-8 Train your weakest link]]
 - The Golden Rule again (p. 26)
 - Lord Peter Wimsey’s quote on quotes (p. 26)
@@ -783,13 +783,12 @@ date: 2024-08-15
 		- A business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- Being the low cost producer can protect you during [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change. |downturns]]—but in itself doesn’t offer any further upside
 			- [[12-1e Nothing is necessary = Everything is contingent |Of course]], it can translate into being the brand (e.g., see [[Jeff Bezos]] and [[Sam Walton]]) #revisit 
-		- **Cost becomes irrelevant only in the ERE—in reality cost does matter because most people don’t know better** #revisit 
-			- Since cost is about opportunity costs, it’s rooted in individual knowledge—and that is subjective #revisit 
-#### A. The Great
+
+#### A. The Great #revisit 
 - Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
 	- [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
 	- **The best is being the low cost producer *and* have the brand**
-		- Elaborate the relation between the two (e.g., see [[Jeff Bezos]])
+		- Elaborate the relation between the two (e.g., see [[Jeff Bezos]]) #TODO 
 - Try to compete with that business in your mind (p. 11) 
 	- Relate with argue-against-your-own-idea-better-than-the-opponent memos and notes.
 	- Relate with let-the-ideas-die-in-your-stead notes
@@ -801,12 +800,12 @@ date: 2024-08-15
 - Businesses needing not much in tangible assets are hurt the least by inflation (p. 12)
 - See’s had minimized need for tangible assets (operating funds) because it was sold for cash and production cycle was short so didn’t have inventory issues (p. 12) 
 	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
-		- Also see [[Ludwig Lachmann |Lachmann]] (pp. 160-161)
+		- Also see [[Ludwig Lachmann |Lachmann]] (pp. 160-161 in particular)
 - Reputation creates value for See’s (and not production cost) and is the source of Goodwill (p. 13)
 	- Viz., the source of Goodwill (premium) comes from the upside potential which comes from the brand (and less from being the low cost producer—although it does provide [[2-1b2g 'Margin of safety' - Be redundant and resourceful |margin of safety]] during downturns, which is [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |much needed in times of crisis]] and may explain the premium as well) #revisit 
 	- Ask Microsoft or Google (p. 13) 
 		- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
-		- Relate with infinite leverage memos and notes
+		- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
 #### B. The Good
 #### C. The Gruesome
 - Sugar isn’t differentiated (p. 15)
@@ -815,7 +814,7 @@ date: 2024-08-15
 - Nothing fails like success in commoditized businesses (p. 16)
 - In commoditized businesses, an economic decision which makes sense individually isn’t economic at all when considered collectively (p. 17)
 	- Only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand |DMU]] environment (i.e., in no knowledge creation environment)
-		- If the division of capital (see [[Ludwig Lachmann |Lachmann]]) relates to creating *different* production processes, then *[[More is different |the more is different]]* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+		- If the division of capital (see [[Ludwig Lachmann |Lachmann]]) relates to creating *different* production processes, then *[[11-3.4a More is different|the more is different]]* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
 - Get out leaking boat (p. 19)
 	- Leave unpromising battlefield
 		- [[2-1b3 Play different games. Avoid competition.]]
@@ -823,6 +822,7 @@ date: 2024-08-15
 	- See [[Marc Andreessen]]
 - Turnaround seldom turn and usually takes longer (p. 19) 
 	- Relate with other it-takes-longer-and-costs-more-than-you-think memos and notes #revisit 
+		- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
 #### D. Other Tough Businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]

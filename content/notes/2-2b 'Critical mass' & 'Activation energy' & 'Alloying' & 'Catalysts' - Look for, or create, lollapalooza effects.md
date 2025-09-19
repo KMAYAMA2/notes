@@ -1,4 +1,4 @@
-[[More is different]]
+[[11-3.4a More is different]]
 
 Critical mass. Activation energy.
 [[8-1c4 ‘Killer application’ is knowledge-technology-universality that begets reflexivity between app-platform-people by pushing people over the threshold]]

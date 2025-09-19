@@ -13,6 +13,7 @@ Related:
 		- [[9-2b3e3 There is no universal knowledge]]
 - [[8-2b2b Key moment is when people (e.g., devs) don't have to worry about the infrastructure (e.g., platform risks including high take rates)]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 
 #develop 
 #MentalModelsMicroEcon 

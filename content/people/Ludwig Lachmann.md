@@ -38,7 +38,7 @@ date: 2025-07-18
 		- E.g., [[Murray Rothbard]]
 	- Another implication is that this morphology approach challenges the DMU assumption #revisit 
 		- E.g., [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
-		- It might be related to how [[More is different |more is different]] #revisit 
+		- It might be related to how [[11-3.4a More is different|more is different]] #revisit 
 - If we cling to the view that all capital is homogenous, the new capital competes with the old and reduces the profitability of the latter. (p. 19)
 - Once we allow for heterogeneity we must also allow for complementarity between old and new capital. The ‘inducement to invest’ will therefore often depend on the effect the new capital is expected to have on the earning capacity of old capital complementarity to it. In other words, investment decisions, as to their magnitude, and even more as to the concrete form they are likely to take, depend at each moment on the prevailing composition of the existing capital stock. (pp. 19-20)
 - A real understanding of the investment pattern is therefore impossible as long as we cling to the homogeneity hypothesis. (p. 20)
@@ -93,7 +93,7 @@ date: 2025-07-18
 		- [[Warren Buffett]]: “I am a better investor because I am a businessman and a better businessman because I am an investor.”
 			- [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective)]]
 - Progress will not manifest itself in the capital sphere merely in the form of capital accumulation, i.e., purely quantitative growth. (p. 32)
-	- [[More is different]]
+	- [[11-3.4a More is different]]
 - The ability to turn failure into success and to benefit from the discomfiture of others is the crucial test of true entrepreneurship. A progressive economy is not an economy in which no capital is ever lost, but an economy which can afford to lose capital because the productive opportunities revealed by the loss are vigorously exploited. (p. 32)
 	- In other words, capitalism progress via error-corrections
 		- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
@@ -184,7 +184,7 @@ On *malinvested capital*, and that preferences do not determine the constituents
 	- The division of labor and changes in technical knowledge are other forces engendering progress
 	- An increase in output is not the direct result of mere quantitative change, but of a concomitant change in the composition of capital
 		- As will be discussed in Chapter V
-		- [[More is different]]
+		- [[11-3.4a More is different]]
 	- It completely disregards the facts of malinvestment
 - The instruments may be either more or less profitable than in their designed uses. The cause of the phenomenon is unexpected change. Durable capital goods are more likely to be affected than those more short-lived. (p. 56) 
 	- This relates with [[Warren Buffett]], in particular his combination of long-term holding and avoidance of tech companies. #revisit 
@@ -306,7 +306,7 @@ Classicists and neoclassicists don’t consider the effect the configuration of 
 - Like Adam Smith’s Division of Labour, the principle of roundabout production is (correctly interpreted) a theorem about economic progress (p. 104)
 - For Adam Smith the division of labour was the most important source of progress. The same principle can be applied to capital. As capital accumulates there takes place a ‘division of capital’, a specialization of individual capital items, which enables us to resist the law of diminishing returns. As capital becomes more plentiful its accumulation does not take the form of multiplication of existing items, but that of a change in the composition of capital combinations. (p. 105)
 	- Proper theory of capital must account for the relation among capital goods—capital goods per se are not exhaustive.
-		- [[More is different]]
+		- [[11-3.4a More is different]]
 		- [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 		- [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things]]
 		- [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]

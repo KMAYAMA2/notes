@@ -2,7 +2,7 @@
 
 > “The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well.” – [[Charlie Munger]]
 
-[[More is different]]. #revisit 
+[[11-3.4a More is different]]. #revisit 
 
 Next:
 - [[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]

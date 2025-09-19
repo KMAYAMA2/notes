@@ -15,6 +15,9 @@ Related:
 - [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
 - [[5-1b1a9 The Fun Criterion is an explanation]]
 
+- **[[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]**
+
+- **[[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]**
 - [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
