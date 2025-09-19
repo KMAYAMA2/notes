@@ -3,6 +3,8 @@ date: 2025-07-09
 ---
 But if everyone is the same, then there is no division of labor. In short, there may be no such thing as *natural* rate of interest in any meaningful sense—in reality, equilibrium doesn’t exist for interest, either. #revisit 
 
+Maybe “only when everyone *stays* the same” might be more precise (as implied [[Carlo Cipolla |elsewhere]]). #develop  
+
 Next:
 - [[13-5b2j There is no natural rate of interest in reality]]
 
