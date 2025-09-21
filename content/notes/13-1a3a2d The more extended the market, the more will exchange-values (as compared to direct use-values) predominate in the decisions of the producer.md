@@ -7,3 +7,4 @@ Next:
 
 Related:
 - [[7-1 Create what people want or will want]]
+- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
