@@ -11,6 +11,7 @@ Related:
 - [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 - [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 - [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+	- [[5-1b4a0.1 New is overvalued relative to great]]
 - [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
 - Some cautionary notes in praxeological terms: #revisit 
 	- [[13-1a3a4a The actual market prices are the only ones that ever exist]]

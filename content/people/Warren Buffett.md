@@ -474,20 +474,25 @@ date: 2024-08-15
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - On Napoleon’s mother (p. 133)
 ## PART THREE: ON WHAT ELSE DOESN’T WORK AND WHAT DOES IN BUSINESS AND INVESTING
-- investment is business of capital allocation (p. 134)
-- on zero and negative interest rates (pp. 135-136)
-	- check the timeline of quotes
+- Investment is business of capital allocation (p. 134)
+	- [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective)]]
+	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
+- On zero and negative interest rates (pp. 135-136)
+	- check the timeline of quotes #revisit 
 - Investment is about the return, when, and how sure you are  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 - [[3-1a4b2b What is smart at one price is dumb at another |What is smart at one price is dumb at another]] (p. 137)
-- outstanding business at sensible price >>> mediocre business at bargain price (p. 137)
-- when it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
-- the decision should be obvious (p. 138)
+- Outstanding business at sensible price >>> Mediocre business at bargain price (p. 137)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[3-1a4b2 Price can only convey so much]]
+- When it’s cheap you’ll be able to tell just like you can tell if someone is fat or old without knowing the specific number (p. 138) #revisit 
+- [[1-1c6a3.0 The decision should be obvious |The decision should be obvious]] (p. 138)
 - Get rich slow (p. 139)
 	- Having low expectations and having no masterplans and changing expectations when the facts change—it’s all related
 		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - really good opportunities aren’t often and won’t last long (p. 139)
+	- [[13-8a2.1 Money is the present good par excellence]] #revisit 
 - you get paid for being right (p. 140) 
 	- relate with naval
 - on bull market and sex (p. 141)
@@ -506,21 +511,24 @@ date: 2024-08-15
 - constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
 	- this doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
 - Internet isn’t going to affect how people shave (p. 147)
-	- somehow reminded me of Death Stranding
-	- ask: what doesn’t change with AI? #revisit 
-	- ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
+	- [[5-2c2b The Lindy effect]]
+		- Ask: what doesn’t change with AI? #revisit 
+		- Ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
 - the law of least effort >>> change (p. 147)
 	- relate with loss aversion notes
 - the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
 	- relate with the first quote in /Buffett 
 	- this applies to anything (e.g., poker)
 - You need the moat *and* the knight who can widen the moat. (p. 148)
+	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 - Personal thought: having a moat challenges the basic economic assumption of competition (p. 149)
 - Pick (or be) the low-cost producer (p. 149)
+	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
+	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 	- E.g., GEICO, The Nebraska Furniture Mart (p. 150)
 - Just take care of the customers (p. 151)
 	- E.g., ISCAR (p. 151)
-- Sam Walton’s quote on the customer (p. 151) 
+- [[Sam Walton]]’s quote on the customer (p. 151) 
 	- relate with consumer sovereignty notes.
 - Never abuse current clients by trying to get new ones. (p. 151) 
 	- relate with iteration notes, 
@@ -535,8 +543,9 @@ date: 2024-08-15
 - Homes, auto, and insurance are essential. (p. 154)
 - Have a special place on people’s mind then you can raise the price (p. 154) 
 	- relate with DMU notes and symbol (or association) notes
-- Pricing power implies essentially. Look at the pricing behavior of the product (not the stock). (p. 154)
+- Pricing power implies essentiality. Look at the pricing behavior of the product (not the stock). (p. 154) #revisit 
 - Get the basics well. You don’t have to do extraordinary things to get extraordinary results, don’t get diverted and instead focus on what works. (p. 155)
+	- [[1-2f1b9 Repeat what works]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - You should’ve shorted horses instead of buying up autos. Ask: who loses? (p. 156)
 - Can you name any single American TV or radio manufacturer? (p. 156)
@@ -574,7 +583,7 @@ date: 2024-08-15
 	- relate with Sherlock and Deutsch #revisit 
 - The company should be viewed as an unfolding movie, not a still snapshot (p. 171)
 - The story of an ailing horse, again. Ask: is the business for sale because it’s walking just fine? (p. 171)
-- Mar Twain: a mine is a hole in the ground owned by a liar. (p. 172)
+- Mark Twain: a mine is a hole in the ground owned by a liar. (p. 172)
 - Buffett and Keynes on business is success is about future, not past. And you also have to explain why the business was successful in the past. (pp. 172-173) 
 	- relate with tracing the origin notes and quote from Paul valery
 - Ask: what forces can stop the current ongoing success? (p. 173)
@@ -596,8 +605,12 @@ date: 2024-08-15
 - Stop digging. Fight wishful thinking, consistency bias, and loss to aversion bias. Stop wasting resources (e.g., time). Get out leaking vessels. (p. 177) 
 	- relate with biases notes
 - You don’t have to make it back the way you lost it (p. 178) 
-	- relate with money abstraction notes and method-independent notes (how doesn’t matter)
+	- Relate with money abstraction notes and method-independent notes (how doesn’t matter)
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+		- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 - Businesses are bought for keeps (p. 178)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
 - With stocks and bonds, if we find something more attractive, we sell (p. 178) 
 	- relate with opportunity cost notes
 - Not price but value is what matters with investment. (p. 178)
@@ -791,7 +804,11 @@ date: 2024-08-15
 		- Elaborate the relation between the two (e.g., see [[Jeff Bezos]]) #TODO 
 - Try to compete with that business in your mind (p. 11) 
 	- Relate with argue-against-your-own-idea-better-than-the-opponent memos and notes.
+		- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+		- [[10-2g1j A good explanation explain more than what they were originally designed to]]
 	- Relate with let-the-ideas-die-in-your-stead notes
+		- [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
 - Ask: does it have any close substitute? (p. 11) 
 	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
 	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
@@ -803,7 +820,7 @@ date: 2024-08-15
 		- Also see [[Ludwig Lachmann |Lachmann]] (pp. 160-161 in particular)
 - Reputation creates value for See’s (and not production cost) and is the source of Goodwill (p. 13)
 	- Viz., the source of Goodwill (premium) comes from the upside potential which comes from the brand (and less from being the low cost producer—although it does provide [[2-1b2g 'Margin of safety' - Be redundant and resourceful |margin of safety]] during downturns, which is [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |much needed in times of crisis]] and may explain the premium as well) #revisit 
-	- Ask Microsoft or Google (p. 13) 
+	- Ask Microsoft or Google (p. 13)
 		- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
 		- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
 #### B. The Good
