@@ -1,4 +1,4 @@
-
+And such opportunities should be rare. #revisit 
 
 Next:
 - [[1-1c6a3.0 The decision should be obvious]]

@@ -1,6 +1,7 @@
 
 Next:
 - [[2-1b3a 'Circle of competence' & 'Niches' - Build a moat. Thrive in where you can.]]
+- [[2-1b3.1 Pick weak competitions]]
 - [[2-1b4 Not fighting can win you the battle]]
 
 Related:

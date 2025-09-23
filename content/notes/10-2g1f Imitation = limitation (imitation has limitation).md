@@ -9,6 +9,7 @@ Next:
 	- [[1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated.]]
 
 Related:
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - [[2-1a6c0 If you don't create an explanation, you will be enmeshed in the situation (analog). You have to transcend your situation-culture-parochiality by explanations (digital). Explanation is the way to universality.]]
 - **[[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]**
 - **[[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]**

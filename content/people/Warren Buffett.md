@@ -1,20 +1,26 @@
 ---
 date: 2024-08-15
 ---
-- “[[11-1d There is no objective risk |Risk]] comes from not knowing what you are doing”
+
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
+### Mistakes are a fact of life
+### Don’t bother about mistakes that don’t actually matter
+### Avoiding problems is better than being forced to solve them
 - Prevention is primarily about avoiding ruin (p. 4)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - Relate what you are reading to the basics (p. 5)
 	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
+### If we understand what works and not, we know what to do
 - [[1-2f1b9 Repeat what works |Repeat what works]] (p. 7)
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+### It is better to try to be consistently not stupid than to be very intelligent
 - Independent thinking over imitation (p. 9)
 	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+### If we know what doesn’t work we don’t go there
 - On inversion (p. 10)
 	- [[RUL3 - Invert, always invert]]
 - There’s never a shortage of human folly (p. 11)
@@ -25,24 +31,31 @@ date: 2024-08-15
 			- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
 - Grand chess masters operate by exclusion, not by speed (p. 12)
 	- Relate with Rockefeller’s emphasis on quality of information over speed #revisit 
-- Rochefoucauld quote on seeming clever (p. 14)
+	### Thinking backwards is a great tool for solving problems1231q
+### Keep it simple and make it easy for yourself
+- Francois de La Rochefoucauld: “The desire to appear clever often prevents one from being so” (p. 14)
 	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 - Samuel Johnson: “I can give you an argument, but I can’t give you an understanding” (p. 15)
+### The secret is ignorance removal
 - On ignorance removal
 	- We will be always ignorant (i.e., anti-rational)
 		- [[1-2 We are fallible]]
 		- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]] (kaleidoscopic worldview)
 		- [[10-2g3e We are, and will be, transitioning from anti-rational memes to rational memes]]
 ## PART TWO: ON WHAT DOESN’T WORK AND WHAT DOES
+### Find and marry a lousy person
 - On having low expectations (p. 17)
 	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - Nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
 	- [[12-1e Nothing is necessary = Everything is contingent]]
 	- [[12-1e4 Nothing is objectively and independently good]]
+### Turn your body and mind into a wreck
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
 	- [[RUL3 - Make a conscious effort to avoid addictions. Ask “is this how I want to be spending my time”]]
+### Only learn from your own terrible experiences
 - Study history—Buffett likes financial history (pp. 19-20)
 	- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+### Use a hammer as your only tool and approach every complex problem as if it was a nail
 - If you define all problems as a nail, you’ll only look for a hammer (p. 21)
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 - Having all the tools is the antidote for being a-man-with-a-hammer syndrome (p. 21)
@@ -51,18 +64,22 @@ date: 2024-08-15
 	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 		- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
 		- [[3-1c2e0 There is no minimum idea]]
-- Einstein’s razor. Munger’s razor. (p. 24) #revisit 
-- Get the key few factors right. Douglas Hofstadter’s quote. (p. 24)
+- Einstein’s razor and Munger’s razor. (p. 24) #revisit 
+	- Einstein: “Simplify to the essence of the matter, but not further”
+	- Buffett: “If I call Charlie and describe a problem, he gets to the essence of it immediately”
+	- Douglas Hofstadter: “Being able to reliably ‘sniff’ what counts in a complex situation and to reliably put one’s finger on it (and, conversely, to ignore what doesn’t count) is the trick of thinking well”
+- [[2-1a0c1d1 Focus on the few variables |Get the key few factors right]] (p. 24)
 - Backups (redundancy), breakpoints (weakest links), critical mass (the more is different) (p. 25)
 	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 		- [[11-3.4a More is different]]
 	- [[6-8 Train your weakest link]]
-- The Golden Rule again (p. 26)
-- Lord Peter Wimsey’s quote on quotes (p. 26)
+- The Golden Rule—good behavior by each party begets good behavior in return (p. 26)
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+- Lord Peter Wimsey: “I always have a quotation for everything—it saves original thinking” (p. 26)
 - Patience and slight difference in returns make for the huge difference when compounded, so get both (p. 27)
-- Rousseau on real wisdom (p. 28) 
-	- relate with Sherlock
+- Rousseau on wisdom: “Real wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know” (p. 28) 
+	- Also see [[Sherlock Holmes]]
 - George Santayana: “To understand is to know what to do” (p. 28) 
 	- [[10-2g3d Behaviors can be replicators even when its meanings are not (properly) understood, because we can guess the meaning of memes. For rational memes, knowledge is THE replicator.]] #revisit 
 	- [[13-2.2 Most “actions” are mere behavior]]
@@ -70,18 +87,18 @@ date: 2024-08-15
 - Wisdom is about how to use knowledge (p. 28) 
 	- [[Naval Ravikant |Naval]] on what is wisdom: “Understanding the long-term consequences of your actions.”
 - Munger on extreme success (p. 29) 
-	- focus on few variables, non-linear returns, extreme performance, big wave.
+	- [[2-1a0c1d1 Focus on the few variables |Focus on few variables]], non-linear returns, extreme performance, big wave.
 - On bad Lollapalooza (p. 29)
 - On halo effect, and on basic need to be liked (p. 30) 
-	- relate with biases notes #revisit 
+	- Relate with biases notes #revisit 
 - On using two-track analysis: rationality; and subconscious—“There’s always a motive.” (p. 31) 
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 - CEOs and the directors dysfunction as corrective mechanism (p. 32) 
-	- relate with error-correction notes and biases notes
+	- Relate with error-correction notes and biases notes
 - Owner-capitalism engenders true independence (win and win big, lose and lose big) (p. 33) 
-	- relate with the control structure memos
+	- Relate with the control structure memos
 - Three qualities Buffett values (p. 34) #revisit 
-- Coach’s incentive to get rid of a mediocre NFL QB ≠ board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
+- Coach’s incentive to get rid of a mediocre NFL QB ≠ Board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
 - Be careful whom you appoint to power. The CEO does what he wants to do. Board setting strategy etc is baloney. (p. 35)
 - It’s practically useless to give advice to anyone (p. 35) 
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
@@ -93,45 +110,56 @@ date: 2024-08-15
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - Understand human behavior if you’re going to run a business (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
-	- relate with notes on practice and habit
-- The will to prepare >>> the will to win (p. 37)
-- Building arks >>> predicting rain (p. 37) 
-	- relate with payoff and ruin notes
+	- Relate with notes on practice and habit
+- The will to prepare >>> The will to win (p. 37)
+- Building arks >>> Predicting rain (p. 37) 
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+### Go through life with unreasonable expectations
 - Masterplan implies expectations (p. 37)
 	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
-- the Golden Rule >>> self-serving bias (p. 38)
+### Only take care of your own interest
+- The Golden Rule >>> Self-serving bias (p. 38)
 - Munger indirectly preaching the importance of having win-win relationships (p. 38) 
 	- win-win might materialize in time, and isn’t necessarily instant #revisit 
+### Blindly trust and follow the recommendations of advisors and salesmen
 - Who invented factor investing? A broker? (p. 39)
 - To quick profits, reply with quick no (p. 40)
 - Self-serving bias of others must be considered. Otherwise you are a fool. (p. 40)
 - Beware hammer-syndrome with creators of a tech (p. 41) 
-	- relate with don’t associate yourself with an idea or a tech notes
+	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 - Again, whose bread I eat, his song I sing (p. 41) 
-	- Bevelin on investment letters
+	- John Train: “The man who discovers how to turn lead into gold isn’t going to give you the secret fro $100 a year”
+		- E.g., investment newsletters
 - On “independent” board, board of directors (p. 41)
-- “Include me out” (p. 42)
+### Mindlessly imitate the latest fads and fashions
+- Sam Goldwyn: “Include me out” (p. 42)
 - Postpone yes, and say no sooner (p. 42)
+	- [[1-1c6a3 Say yes only when both your heart and head say so]]
+	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
 - Natural progression, the three I: Innovators, Imitators, Idiots (p. 43) 
-	- relate with Pierce and Everett
-	- also with what the wise do in the beginning the fools do in the end memos
+	- See [[Daniel Everett]] and Charles Sanders Peirce
+	- *What the wise man does in the beginning, the fool does in the end*
+		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - On bubble. On boom and bust. People dance thinking they can leave right before midnight, but the problem is that the clock has no hands (p. 43)
 - An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
-	- always test and recalibrate your thesis (not limited to investment)
+	- Always test and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibrate]] your thesis (not limited to investment)
 - Bad ideas are born good. It’s easy to push a really good idea to wretched excess. (p. 44) 
 	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
-	- relate with environments change notes
-	- relate with check the implication from deviation between the price quotations (the portfolio structure) and the underlying business operation (the plan structure) memos
-	- relate with I was too ahead of my time type excuse memos and notes
-- The crazy greed, the crazy leverage, the crazy delusions. “The more it changes the more it’s the same thing.” (p. 44)
-- It’s not the bad idea but a good one carried to excess that do you in (p. 44) 
-	- relate with Mark Twain quote
+	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
+	- [[7-1 Create what people want or will want]]
+	- [[12-1e0 Everything changes]]
+	- Relate with check the implication from deviation between the price quotations (the Portfolio Structure) and the underlying business operation (the Plan Structure) memos
+- The crazy greed, the crazy leverage, the crazy delusions—human behavior stays the same, only the objects of the folly changes (p. 44)
+- It’s not the bad idea but the good one carried to excess that do you in (p. 44) 
+	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']] #revisit 
 - On the 2007 housing crisis (pp. 44-45) #revisit 
 - Delusions produce bubbles (p. 45)
 - When you buy something for a sound reason, make sure the reason stays sound (p. 45) 
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - If something can’t go on forever, it’ll end (p. 45) 
-	- relate with biases notes
+	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+	- Relate with biases notes
 - Things take longer to for it to happen, and when it happens it happens faster than you think (p. 46) 
 	- relate with notes on change and similar memos
 - On new-form Gresham’s Law. Bad lending drives out good. (p. 46)
@@ -168,11 +196,17 @@ date: 2024-08-15
 	- relate with social media notes
 - What’s not worth knowing is not worth knowing at all (p. 50) 
 	- relate with DMU notes #revisit
+### Overly care about what other people think about you
+
+### Let other people set your agenda in life
 - Say no (p. 51)
+### Live above your means
+### Go heavily into debt
 - On fretting on leveraged financial institutions. (p. 55) 
 	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
 		- this was mentioned in founders #380, 
 		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
+### Go down and stay down when bad things happen
 - Low expectations, humor, friends and family (p. 57)
 - Interest rate independent (p. 58) 
 	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
@@ -187,10 +221,14 @@ date: 2024-08-15
 - Work with people who understand the Lucretius problem (p. 61)
 - Margin of safety is related with the black swan (p. 62)
 - And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
+### When in trouble feel sorry for yourself
+### Get even and take revenge even if you hurt yourself
 - Relate with give it time and distance yourself notes (p. 64)
-- Improving yourself >>> penalizing others. (p. 65) 
-	- relate with stupidity notes
+### Be envious
+- Improving yourself >>> Penalizing others. (p. 65) 
+	- See [[Carlo Cipolla]]
 - Envy is simply negative-sum, rule it out (p. 66)
+### Be unreliable and unethical
 - You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
 	- relate with the portfolio structure catching up to the plan structure memos and notes
 - People just don’t see how much money there is in being honest (p. 67)
@@ -207,6 +245,7 @@ date: 2024-08-15
 	- relate with concentric learning notes and culture notes
 - It pays to hang around with people better than you are because you’ll float upward a little bit. Bad company corrupts good character (p. 70) 
 	- relate with the five average notes
+### Be a jerk and treat people really badly
 - It’s nice to be important, but more important to be nice (p. 70) 
 	- relate with notes on being nice
 - You’ll meet a lot of people you initially think they are one-stops but they aren’t (p. 71) 
@@ -221,6 +260,7 @@ date: 2024-08-15
 - Find, emulate, and associate with good people (and good businesses) (p. 72)
 - Remember Grant McFayden, he didn’t need a lawyer (p. 72)
 - Read Rules for Making Oneself a Disagreeable Companion, by Ben Franklin (pp. 72-73)
+### Have a job that makes you feel miserable
 - Passion is not the sufficient factor, but likely necessary for success (p. 73) 
 	- relate with Kobe Bryant quote and absence of evidence notes
 - There’s no substitute for strong interest (p. 73)
@@ -228,7 +268,9 @@ date: 2024-08-15
 	- relate with previous memo on deliver what you would buy if you were on the other side
 - Particularly avoid working directly under somebody you don’t admire and don’t want to be like. Maybe you have to keep doing it to keep eating for a while but don’t settle for it. You just go out and find somebody else. (p. 74)
 - Make yourself a person that you would want to hire. Trustworthiness is more important than brains. (p. 74)
+### Work with something that goes against your nature and talent
 - The best knows that they are playing their game (p. 74)
+### Believe you know everything about everything
 - 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
 	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
 - Real knowledge is knowing one’s ignorance, Confucius (p. 77)
@@ -240,6 +282,7 @@ date: 2024-08-15
 - also beware the twaddler (p. 78) 
 	- relate with humans can do stupid things note.
 - it’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
+### Associate with assholes
 - Relate stupid people notes and pigs (p. 81) 
 - Buffett version of surround yourself with better people (p. 81) 
 	- relate with similar notes
@@ -263,6 +306,7 @@ date: 2024-08-15
 	- relate two-way debate note and observation note.
 - No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
 	- and if you’re still worried, correct it.
+### Distort your problems so they fit your wishes
 - Queen Elizabeth I: “I like to know what the truth is so I can decide whether to believe it or not” (p. 92) 
 	- relate with denial memos and notes
 - Wishing is poison in business (p. 92)
@@ -291,6 +335,7 @@ date: 2024-08-15
 	- relate with take care the downside memos and notes 
 	- relate with wisdom is about prevention memos and notes
 - If people know you as smart and informed then they’ll trust you and will tell you the truth early. Foster such environment. (p. 94)
+### Stick to, justify and rationalize your actions no matter how dumb they are
 - Deprival-Superreaction Tendency and Inconsistency-Avoidance Tendency: we don’t like to lose what feels rewarding (pp. 94-95) 
 	- relate with biases notes
 	- for the latter relate 
@@ -396,6 +441,7 @@ date: 2024-08-15
 - “Sometimes peace is better than being right. Sometimes you must know when to accept a loss and quit.” (p. 113) #revisit
 	- Roy T. Bennett: be selective in your battles. 
 	- Peace ≠ the absence of conflict. 
+### Be an extreme ideologue
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowledge creation is about debate and reconfiguration
 - Medical maxim, first do no harm. (p. 114)
@@ -407,6 +453,7 @@ date: 2024-08-15
 - On writing and orangutan theory (pp. 117-118)
 - Simplicity reflects clear thinking—and it’s rare (p. 118)
 	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
+### Make it easy for people to cheat, steal and behave badly 
 - Serpico Syndrome (p. 119)
 - Social-Proof Tendency: stop any bad behaviors before it spreads and foster and display all good behaviors (p. 119) 
 	- relate with biases notes
@@ -454,8 +501,10 @@ date: 2024-08-15
 - Don’t complicate the system. Keep it simple. Remember the Dean of USC School of Music anecdote on “replacing” candy. (p. 126) 
 	- relate with other keep it simple memos and notes
 - Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
+### Risk what you have and need, to get what you don’t need
 - The problem isn’t getting rich, it’s staying sane (p. 128)
 - You Only Have to Get Rich Once (p. 128)
+### Only look at the sunny upside
 - Think first about what happens when it goes wrong, instead of the upside (p. 130)
 	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - Always weigh (and compare) the consequences of being wrong (p. 131) #revisit 
@@ -474,13 +523,17 @@ date: 2024-08-15
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - On Napoleon’s mother (p. 133)
 ## PART THREE: ON WHAT ELSE DOESN’T WORK AND WHAT DOES IN BUSINESS AND INVESTING
+### Invest your money in overpriced assets—preferably businesses without any competitive advantages or future and with lousy and crooked management
+### If you are a businessman think like an investor and if you’re an investor think like a businessman
 - Investment is business of capital allocation (p. 134)
 	- [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective)]]
 	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
+### Investing is about where to allocate your capital
 - On zero and negative interest rates (pp. 135-136)
 	- check the timeline of quotes #revisit 
 - Investment is about the return, when, and how sure you are  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
+### Buy “wrongly” cheap productive assets you understand
 - [[3-1a4b2b What is smart at one price is dumb at another |What is smart at one price is dumb at another]] (p. 137)
 - Outstanding business at sensible price >>> Mediocre business at bargain price (p. 137)
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
@@ -495,9 +548,13 @@ date: 2024-08-15
 	- [[13-8a2.1 Money is the present good par excellence]] #revisit 
 - you get paid for being right (p. 140) 
 	- relate with naval
+### Things are often cheapest when people are fearful and pessimistic
 - on bull market and sex (p. 141)
 - human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
 - on fear and greed as unpredictable diseases (p. 142)
+- Buffett: “Be fearful when others are greedy and be greedy only when others are fearful—the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs” #revisit 
+	- [[12-1e4 Nothing is objectively and independently good]]
+### Be opportunistic and adapt and change when the facts and circumstances change
 - horse and auto industry (p. 142)
 	- relate with other memo
 - you can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
@@ -507,34 +564,51 @@ date: 2024-08-15
 - deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
 	- what is deprival-superreaction tendency? #revisit 
 - when you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
-- See’s Candies (pp. 145-146)
-- constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
-	- this doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
+### Stick to businesses where you can assess that their economics is good and getting better
+- E.g., See’s Candies (pp. 145-146)
+- Constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
+	- This doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
 - Internet isn’t going to affect how people shave (p. 147)
 	- [[5-2c2b The Lindy effect]]
 		- Ask: what doesn’t change with AI? #revisit 
 		- Ask: what doesn’t change with crypto (e.g., Bitcoin and ETH)? #revisit 
-- the law of least effort >>> change (p. 147)
-	- relate with loss aversion notes
-- the meaning of understanding a business. Risk is from not understanding what you’re doing. (pp. 147-148)
-	- relate with the first quote in /Buffett 
-	- this applies to anything (e.g., poker)
+- The law of least effort >>> Change (p. 147)
+	- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
+		- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+- Buffett: “[[11-1d There is no objective risk |Risk]] comes from not understanding what you’re doing.” (pp. 147-148)
+	- This is the meaning of *understanding a business* #revisit  
+	- This applies to anything (e.g., poker)
+### Buy assets protected with a durable competitive advantage run by able and honest people
 - You need the moat *and* the knight who can widen the moat. (p. 148)
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+### Understand why it has a moat—the key factors and their performance
 - Personal thought: having a moat challenges the basic economic assumption of competition (p. 149)
+	- [[2-1b3 Play different games. Avoid competition.]]
+	- [[11-3.1 'Equilibrium' - Anything innovative escapes the Invisible Hand]]
+		- Specifically, it challenges the notion of [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person |DMU]] #revisit 
 - Pick (or be) the low-cost producer (p. 149)
 	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 	- E.g., GEICO, The Nebraska Furniture Mart (p. 150)
 - Just take care of the customers (p. 151)
 	- E.g., ISCAR (p. 151)
-- [[Sam Walton]]’s quote on the customer (p. 151) 
-	- relate with consumer sovereignty notes.
+	- See [[Jeff Bezos]]
+- [[Sam Walton]]: “There’s only one boss—the customer—and he or she can fire everybody in the company from the chairman down, simply by spending his or her money elsewhere” (p. 151) 
+	- Consumer sovereignty #revisit 
+		- [[13-5e The capitalists are constrained by the aggregated time-preference schedules just as sellers of any other present goods are constrained by the aggregated demand schedules of the consumers]]
 - Never abuse current clients by trying to get new ones. (p. 151) 
-	- relate with iteration notes, 
-	- the general rule here applies elsewhere in life
+	- Remember where you came from
+		- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+		- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
+		- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+	- The general rule here applies elsewhere in life
+		- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
+	- Only a handful of Web2 companies can “abuse” the clients (e.g., via high take rates), because you have to establish the brand first #revisit 
+		- [[8-1c4d1 Web3 writing differs particularly from Web2 writing, because of the incentive structure]]
 - Eliminate what irritates the customer (p. 152) 
-	- this is inversion in play.
+	- Always [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |invert]]
+### One test of the strength of a moat is essentiality and pricing power
 - The Daily Racing Form, Reed-Elsevier (pp. 152-153)
 - Transportation and energy are essential (p. 153) 
 	- remember DS
@@ -622,18 +696,28 @@ date: 2024-08-15
 - Work with winners. Remember Eddie Bennett and Yankees. (p. 180)
 - Being good at one thing doesn’t mean you’ll be good at another (p. 181) 
 	- relate with sloppy in one area memos (as a counter?)
+### Go in a field, in which you have no interest, not any competence or talent for, no edge in and where the competition is huge
 - don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
 	- relate with naval’s quote and relate note on redefining the game
-- allocate your time according to your talent (p. 182)
-	- relate with DMU (diminishing marginal utility) notes #revisit 
-- just pick weak competitions (p. 183)
-- get in the right train, and why “idiots” can get rich (p. 184)
-	- relate with marc andreessen’s emphasis on being in the right business
-		- ask: am I in the right business? #revisit 
-- microeconomics >>> macroeconomics (p. 185)
-- buy good businesses run by good people in good places. macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
+- Allocate your time according to your talent (p. 182)
+	- Or have fun because the DMU framework cannot capture *the-more-is-different* nature of knowledge #revisit 
+		- [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
+		- [[2-1a7b Work in a field you have both a natural aptitude for and deep interest in. It should become increasingly interesting as you learn more about it.]]
+		- [[11-3.4a More is different]]
+		- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
+- Just [[2-1b3.1 Pick weak competitions |pick weak competitions]] (p. 183)
+- Get in the right train, and why “idiots” can get rich (p. 184)
+	- See [[Marc Andreessen]]’s emphasis on being in the right market over team and product
+		- Ask: am I in the right business? #revisit 
+### Think about where the business is going to be in the future—not macro factors
+- Microeconomics >>> Macroeconomics (p. 185)
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[3-1c1a Prioritize performance-oriented media (i.e., news-you-can-use, including tutorials and fitness-diet-sleep scoreboard which you have control) over consumption-oriented media]]
+	- [[QUE5 - Anything fundamental changed vs superficial-uncontrollable metrics]]
+- Buy good businesses run by good people in good places. Macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
 - no rainbow without a cloud or a storm (p. 187)
 	- relate with being greedy when others are fearful
+### Common sense is better than advanced math and computer models (pp. 190-192 has a summary)
 - On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
 	- relate with quotes from /Holmes
 	- the statement here clearly shows Buffett’s view that the Portfolio Structure will reflect the underlying Plan Structure
@@ -669,11 +753,16 @@ date: 2024-08-15
 - best time to get rich is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
 	- relate with cash is the gun to hunt rare fast-moving elephants memo
 ## PART FOUR: ON FILTERS AND RULES
+### The right filters conserve thought and simplify life
+### Never lose sight of what you’re trying to achieve or avoid
+### The TUNE OUT “FOLLY” filter
 - Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
+	- Remember how chess grandmasters operate
 - When it’s too simple it might not spread fast. (p. 202)
 	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology #revisit 
 		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
+### The IMPORTANT AND KNOWABLE filter
 - Narrow it down to the important and knowable. (p. 203)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- [[2-1b3a1 Narrow it down so you can have a chance to build your own moat]]
@@ -682,7 +771,11 @@ date: 2024-08-15
 	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 		- The concept is epistemological
-- You mix raisins and turds, you still get turds (p. 205)
+### The CIRCLE OF COMPETENCE filter
+### The TOO TOUGH filter
+- Avoid competitions, and if it’s losing ship, get out (p. 205)
+- On acquisitions
+	- Munger: “When you mix raisins and turds, you’ve still got turds” (p. 205)
 - Mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
 	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
@@ -690,6 +783,7 @@ date: 2024-08-15
 - Get the no-brainers off the desk fast (p. 207)
 	- Do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
 - Edward Tuft: “The idea is to find important problems that can be solved” (p. 207)
+### The OPPORTUNITY COST filter
 - It’s about *personal* opportunity costs, and since your value scale changes what’s best for you also changes—you have to reevaluate your opportunity costs all the time (pp. 208-209)
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[13-6a The same individual exhibits different scale of values at different times]]
@@ -712,6 +806,7 @@ date: 2024-08-15
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
 	- [[5-2b Errors of omission are dangerous because you make them by default]]
+### The “AND THEN WHAT” filter
 - Ask: then what? (p. 213)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - You can’t just do one thing and leave all other elements unchanged—this is principle both in ecology and legislation (p. 214)
@@ -724,6 +819,7 @@ date: 2024-08-15
 - Gresham’s Law is both an example of unwanted consequences and what Garrett Hardin calls a pejoristic system—a system which by its very nature makes matters worse (p. 216) #revisit 
 - Don’t fool yourself (p. 217)
 	- [[1-2h A good explanation makes it harder to fool yourself]]
+### The “COMPARED TO WHAT?” filter
 - Look at the corporate cemetery (p. 218)
 	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
 	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #revisit 
@@ -735,6 +831,7 @@ date: 2024-08-15
 		- You have to figure out the multiverse
 			- [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 			- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
+### Checklists help—assuming we are competent enough to pick the key factors and evaluate them
 - Checklists are no substitute for thinking, but powerful (p. 221)
 - Always surprise the enemy (p. 221)
 	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
@@ -747,41 +844,93 @@ date: 2024-08-15
 			- [[Charlie Munger]] and [[Warren Buffett]] were likely obsessed with avoiding obvious mistakes and problems. #revisit 
 	- Personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+### Have some avoid-rules
+### Learning never stops
 # A Few Lessons for Investors and Managers from Warren Buffett – Peter Bevelin
 ### 1. What Investing in Financial Assets is All About
+#### Laying out cash today in order to get more cash back in the future
 - Investment is about cash (p. 1)
 	- [[13-8a2.1 Money is the present good par excellence]]
 - And return (p. 1) 
-	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
-	- **Return matters in comparison with other possible returns**
-		- Return per se doesn’t matter—it’s all about opportunity cost and *choosing the best option*
-			- [[12-1e4 Nothing is objectively and independently good]]
-			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-			- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+#### What return I will get on my cash depends on the price I pay, how much cash I get back, and when I get it back
+#### This return can then be compared with the expected return from other available opportunities
+- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
+- **Return matters in comparison with other possible returns**
+	- Return per se doesn’t matter—it’s all about opportunity cost and *choosing the best option*
+		- [[12-1e4 Nothing is objectively and independently good]]
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+		- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+#### Since my return depends on the price I pay compared to what it’s worth, I should never pay more than what I get back in value
+- What is “investing” if it is not the act of seeking value at least sufficient to justify the amount paid? (p. 1)
+- Personal thought: the key to Buffett’s success is that he has comprehensive explanation as to why his method works—and he sticks to it 
+	- [[5-2a0 Know what to measure]]
+		- [[13-4d2 There is no objective value]]
+			- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+			- [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]]
+#### To do that I need to be able to figure out what a financial asset is worth—how else can I know what kind of return I can expect at a given price?
 ### 2. Valuation
+#### Follow the cash—it’s the only thing I can spend
+- [[13-8a2.1 Money is the present good par excellence]]
+- John Burr Williams (in *The Theory of Investment Value*): “The value of any stock, bond or business today is determined by the cash inflows and outflows—discounted at an appropriate interest rate—that can be expected to occur during the remaining life of the asset” #revisit 
+	- Land is valuable to the extent that people see it as such—that is, land is [[13-4d1 A good is valued not for itself, but for its service in satisfying the wants of acting individual |a good]]
+		- Challenge, e.g., [[13-5b3b A landowner’s pre-income demand for money is practically inelastic unlike a laborer’s—the land will be rent out regardless of the height of interest |this]] note #TODO 
+	- [[13-4d5b There is no risk-free interest in the free market]]
+		- That is, even the discounting component is subjective
+			- [[13-4d4 Value is subjective]] through and through #revisit 
+#### So valued, all financial assets become economic equals
 - Because it’s all about cash, the business specifics don’t matter (p. 2) 
 	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+#### It doesn’t matter where the cash comes from —it all spends the same
+- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+#### The financial asset that has the highest value compared to its price is the one that gives you the highest return
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+#### Since the future is unknown, value is naturally a rough estimate, not a precise figure
+- When you take Popper seriously, you will find Buffett #revisit 
+	- [[1-2.0 It is better to be roughly right than precisely wrong]]
+		- [[1-2 We are fallible]]
+	- [[1-2g1a1 Popper, Turing, Everett, Dawkins (then Deutsch himself) gave a better explanation as to why the prevailing theories were true after all (unfortunately, they have found themselves constantly on the defensive against obsolete theories)]]
+	- [[1-2g2u The explanation (the theory of knowledge) must involve quantum physics, the Turing principle (the theory of computation), and, as Popper himself stressed, the theory of evolution.]]
+	- [[9-1c When you take Popperian epistemology seriously, you take people (including children) seriously]]
+#### And fancy computers don’t help
+- When you take Turing, [[David Deutsch |Deutsch]], and [[Daniel Everett |Everett]] seriously, you will find Buffett #revisit 
+	- [[1-2g2b3 Computational universality is about computers inside our physical world being related to each other under the universal laws of physics to which we (thereby) have access (because human brains are computers)]]
+	- [[1-2g2b4 The universality of computation is a property of hardware and rather uncontroversial. The universality of explanation is a property of software and rather controversial.]]
+	- [[1-2g2b6 Universal computers would be dependent on universal explainers]]
+	- [[1-2g2i0 Life is computation in the sense of assuming other object (i.e., genes assuming its surrounding environment)]]
+	- [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
+	- [[10-2g1f2a4 The mind ≠ A computer]]
+	- [[10-2g2c1d Computation is nothing more than an aid to communication]]
+	- [[10-2g2c1e What makes humans unique is not computational ability]]
+#### A rough approximation is enough
 - Work with a range of possibilities (p. 3) 
 	- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
 - Intrinsic value approach is the only logical approach (p. 3) 
 	- [[13-5b2k There is no such thing as mispricing, at least objectively]] #revisit 
 ### 3. The Value of a Business
+#### A business is similar to a bond but there are some important differences
 - Bond ≠ Equity (p. 4) 
-	- [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
-	- Revisit Ayache’s argument on CBs #revisit 
+	- E.g., the quality of management affects the bond coupon only rarely
+		- [[13-5b2e There is no substantial difference between debt and equity, at least in the evenly rotating economy]]
+		- Revisit Ayache’s argument on CBs #revisit 
+#### Book value is almost unrelated to value
 - Book value doesn’t matter, it’s per-share intrinsic value that matters (p. 4)
 	- See [[Henry Singleton]] #revisit 
 - Any investment (intrinsic value calculation) must be calculated using its excess in comparison with some other possible investment (p. 5)
 	- The street standard is to use “risk-free” interest rate
 		- [[13-4d5b There is no risk-free interest in the free market]]
 			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]] 
+#### And so are a lot of other yardsticks
 - The likes of dividend yield, PER, PBR, growth rates *per se* don’t matter (p. 5)
 - Discounted-flows-of-cash is what matters. Volatility doesn’t matter. (p. 6)
+#### Cash flow from a business or “owner earnings” is after capital expenditures
+#### The tooth fairy doesn’t pay for capital expenditures
 - Always subtract capex (p. 6) 
 	- [[13-5d3 Capital per se is not permanent]]
+#### Watchout for optimistic accounting and “accounting maneuvers”
 - Earnings is arbitrary (p. 6) 
 	- There is no objective number.
 	- [[1-1a2e11 Nothing objectively represents the represented]]
+#### Watch out for managers who seduce you with fancy predictions
 - Know what to measure, otherwise you might end up making up the number (p. 7)
 	- [[5-2a0 Know what to measure]]
 	- [[5-2a2 What gets measured gets managed]]
@@ -870,6 +1019,11 @@ date: 2024-08-15
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
 ### 7. The Importance of Trustworthy and Talented Management
+#### Stick to proven management with a lot of integrity, talent and passion
+#### Culture counts
+#### Existing cultures are hard to change so avoid situations where you have to change people
+#### One doesn’t need an MBA to be talented
+#### What management does with the cash is very important
 - Ask: who’s allocating the capital? (p. 34)
 - In [[Ludwig Lachmann |Lachmann]]’s parlance, the Portfolio Structure must account for the portfolio companies’ management ability in managing the Plan Structure (and often the Plan Structure itself includes capital allocation as in the case for Berkshire with Buffett). (p. 34) #revisit 
 	- Inverted: can the Control Structure be made such that the Portfolio Structure directly corresponds to the Plan Structures? Put simply, are holding companies (e.g., Berkshire) desirable? #revisit 
@@ -880,7 +1034,23 @@ date: 2024-08-15
 				- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 			- If smart contracts can be integrated into Bitcoin (e.g., OP_CAT), what are the implications? #revisit 
 				- Or what does it mean to own ETH? #revisit 
+#### Focus on the three questions that truly count
+- First, does the company have the right CEO? Second, is he (or she) overreaching in terms of compensation? Third, are proposed acquisitions more likely to create or destroy per-share value? (p. 35)
 ### 8. The Importance of Clear Yardsticks to Judge Management Performance
+#### Don’t automatically be impressed by higher earnings
+- [[1-1a2e11 Nothing objectively represents the represented]]
+#### When things don’t work some change the yardstick
+- [[5-2a0 Know what to measure]]
+#### Beware of those who explain away bad results by using “except for”
+- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+#### Or blaming it on their long-term focus
+- On the short-run long-run #revisit 
+	- [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
+	- [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+	- [[5-1b4c1c Align your short-term reward with your long-term vision]]
+	- [[7-1a2a2 Get ahead in the short-run, then in the long-run]]
 ### 9. Corporate Governance
 - Skin in the game (p. 39)
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
@@ -896,11 +1066,13 @@ date: 2024-08-15
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- Go for the best, then you will have less problems
 		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-- Follow the Golden Rule (p. 41)
-	- Imagine being in the other’s shoe
-		- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+#### Just follow the Golden Rule (p. 41)
+- Imagine being in the other’s shoe
+	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
+#### And how can I hold someone responsible if I tell them what to do?
 - Most managers are happiest when they are left alone to run their businesses (p. 42)
 	- Berkshire has its own mini free market, as it were #revisit 
+#### Often I get a better management result through decentralization and non-control
 - This approach produces an occasional major mistake that might have been minimized through close operating controls—but it also eliminates large layers of costs and dramatically speeds decision-making. Because everyone has a great deal to do, a very great deal gets done. (p. 42)
 	- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
