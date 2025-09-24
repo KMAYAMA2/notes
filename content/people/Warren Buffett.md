@@ -31,7 +31,7 @@ date: 2024-08-15
 			- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
 - Grand chess masters operate by exclusion, not by speed (p. 12)
 	- Relate with Rockefeller’s emphasis on quality of information over speed #revisit 
-	### Thinking backwards is a great tool for solving problems1231q
+### Thinking backwards is a great tool for solving problems
 ### Keep it simple and make it easy for yourself
 - Francois de La Rochefoucauld: “The desire to appear clever often prevents one from being so” (p. 14)
 	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
@@ -53,7 +53,7 @@ date: 2024-08-15
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
 	- [[RUL3 - Make a conscious effort to avoid addictions. Ask “is this how I want to be spending my time”]]
 ### Only learn from your own terrible experiences
-- Study history—Buffett likes financial history (pp. 19-20)
+- Study history. Buffett likes financial history. (pp. 19-20)
 	- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 ### Use a hammer as your only tool and approach every complex problem as if it was a nail
 - If you define all problems as a nail, you’ll only look for a hammer (p. 21)
@@ -121,17 +121,31 @@ date: 2024-08-15
 ### Only take care of your own interest
 - The Golden Rule >>> Self-serving bias (p. 38)
 - Munger indirectly preaching the importance of having win-win relationships (p. 38) 
-	- win-win might materialize in time, and isn’t necessarily instant #revisit 
+	- [[2-1c3 'Win and help win' always outcompete]]
+	- Not every win-win relationship materialize instantly—it might take some time #revisit
+		- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+		- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+		- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
+		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- [[13-1a3a1a Everyone benefits a psychic profit at the time of exchange (ex ante), but not everyone will benefit from the exchange (ex post)]] #revisit 
 ### Blindly trust and follow the recommendations of advisors and salesmen
-- Who invented factor investing? A broker? (p. 39)
+- Ask: *who invented xxx?; who is pushing xxx?* (p. 39)
+	- E.g., factor investing and brokerage firms #revisit 
+		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+		- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 - To quick profits, reply with quick no (p. 40)
+	- [[2-1a6.1 Remember that most people will pretend to operate in your interest while operating in their own]]
+	- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 - Self-serving bias of others must be considered. Otherwise you are a fool. (p. 40)
 - Beware hammer-syndrome with creators of a tech (p. 41) 
 	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 - Again, whose bread I eat, his song I sing (p. 41) 
-	- John Train: “The man who discovers how to turn lead into gold isn’t going to give you the secret fro $100 a year”
+	- John Train: “The man who discovers how to turn lead into gold isn’t going to give you the secret for $100 a year”
 		- E.g., investment newsletters
-- On “independent” board, board of directors (p. 41)
+- On the “independent” board members (p. 41)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-6 You get what you pay for]]
 ### Mindlessly imitate the latest fads and fashions
 - Sam Goldwyn: “Include me out” (p. 42)
 - Postpone yes, and say no sooner (p. 42)
@@ -200,6 +214,7 @@ date: 2024-08-15
 
 ### Let other people set your agenda in life
 - Say no (p. 51)
+	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 ### Live above your means
 ### Go heavily into debt
 - On fretting on leveraged financial institutions. (p. 55) 
@@ -228,6 +243,7 @@ date: 2024-08-15
 - Improving yourself >>> Penalizing others. (p. 65) 
 	- See [[Carlo Cipolla]]
 - Envy is simply negative-sum, rule it out (p. 66)
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 ### Be unreliable and unethical
 - You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
 	- relate with the portfolio structure catching up to the plan structure memos and notes
@@ -270,6 +286,7 @@ date: 2024-08-15
 - Make yourself a person that you would want to hire. Trustworthiness is more important than brains. (p. 74)
 ### Work with something that goes against your nature and talent
 - The best knows that they are playing their game (p. 74)
+	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 ### Believe you know everything about everything
 - 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
 	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
@@ -503,7 +520,8 @@ date: 2024-08-15
 - Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
 ### Risk what you have and need, to get what you don’t need
 - The problem isn’t getting rich, it’s staying sane (p. 128)
-- You Only Have to Get Rich Once (p. 128)
+	- [[2-1b2b3 Don't invest what you can't afford to lose]]
+- *You Only Have to Get Rich Once* (p. 128)
 ### Only look at the sunny upside
 - Think first about what happens when it goes wrong, instead of the upside (p. 130)
 	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
@@ -697,8 +715,11 @@ date: 2024-08-15
 - Being good at one thing doesn’t mean you’ll be good at another (p. 181) 
 	- relate with sloppy in one area memos (as a counter?)
 ### Go in a field, in which you have no interest, not any competence or talent for, no edge in and where the competition is huge
-- don’t do things you know you can’t do. stick with what you’re good at. know your game and that of others—play the former, and not the latter. (pp. 182-183)
-	- relate with naval’s quote and relate note on redefining the game
+- Don’t do things you know you can’t do. Stick with what you’re good at. Know your game and that of others—play the former, and not the latter. (pp. 182-183)
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[5-1b1b2b Don't try to be the best. Be the only.]]
+		- See [[Marc Andreessen]] and [[Naval Ravikant |Naval]]—changing the game is literally game-changing #revisit 
 - Allocate your time according to your talent (p. 182)
 	- Or have fun because the DMU framework cannot capture *the-more-is-different* nature of knowledge #revisit 
 		- [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
@@ -708,7 +729,7 @@ date: 2024-08-15
 - Just [[2-1b3.1 Pick weak competitions |pick weak competitions]] (p. 183)
 - Get in the right train, and why “idiots” can get rich (p. 184)
 	- See [[Marc Andreessen]]’s emphasis on being in the right market over team and product
-		- Ask: am I in the right business? #revisit 
+		- Ask: *am I in the right business, industry, market?* #revisit 
 ### Think about where the business is going to be in the future—not macro factors
 - Microeconomics >>> Macroeconomics (p. 185)
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
