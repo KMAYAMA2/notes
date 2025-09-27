@@ -280,7 +280,7 @@ date: 2024-08-15
 - Passion is not the sufficient factor, but likely necessary for success (p. 73) 
 	- relate with Kobe Bryant quote and absence of evidence notes
 - There’s no substitute for strong interest (p. 73)
-- Munger’s three basic rules: don’t sell anything you wouldn’t buy yourself; don’t work for anyone you don’t respect and admire; work only with people you enjoy (p. 74) 
+- Munger’s three basic rules: [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy. |don’t sell anything you wouldn’t buy yourself; don’t work for anyone you don’t respect and admire; work only with people you enjoy]] (p. 74) 
 	- relate with previous memo on deliver what you would buy if you were on the other side
 - Particularly avoid working directly under somebody you don’t admire and don’t want to be like. Maybe you have to keep doing it to keep eating for a while but don’t settle for it. You just go out and find somebody else. (p. 74)
 - Make yourself a person that you would want to hire. Trustworthiness is more important than brains. (p. 74)
@@ -289,12 +289,14 @@ date: 2024-08-15
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 ### Believe you know everything about everything
 - 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
-	- the size of the circle doesn’t matter, and this is the true sense when Munger (or Buffett) says “it’s not competency if you don’t know the edge of it” (find related memos and notes). #revisit 
-- Real knowledge is knowing one’s ignorance, Confucius (p. 77)
+	- Munger: “It’s not competency if you don’t know the edge of it”
+		- The size of [[3-1a4b1.2 Define and stay within your circle of competence |your circle]] doesn’t matter
+			- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+- Confucius: “Real knowledge is to know the extent of one’s ignorance” (p. 77)
 - The shoe button complex (p. 77) 
 	- relate with how being successful in one area doesn’t translate to other areas automatically notes.
-- Planck knowledge >>> chauffeur knowledge (p. 78) 
-	- relate with imitation notes 
+- Planck knowledge >>> Chauffeur knowledge (p. 78) 
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - Beware the articulate incompetent (p. 78)
 - also beware the twaddler (p. 78) 
 	- relate with humans can do stupid things note.
@@ -536,6 +538,7 @@ date: 2024-08-15
 - Understand the downside five to ten years from now (p. 132) 
 	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 		- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - Fact check quote #1098 (p. 132)
 - Is the upside worth it? If not worth doing it, don’t (p. 132)
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
@@ -549,7 +552,7 @@ date: 2024-08-15
 ### Investing is about where to allocate your capital
 - On zero and negative interest rates (pp. 135-136)
 	- check the timeline of quotes #revisit 
-- Investment is about the return, when, and how sure you are  (p. 136)
+- Investment is about the return, when, and *how sure **you are***  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 ### Buy “wrongly” cheap productive assets you understand
 - [[3-1a4b2b What is smart at one price is dumb at another |What is smart at one price is dumb at another]] (p. 137)
@@ -562,10 +565,11 @@ date: 2024-08-15
 	- Having low expectations and having no masterplans and changing expectations when the facts change—it’s all related
 		- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
-- really good opportunities aren’t often and won’t last long (p. 139)
+- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long |Really good opportunities aren’t often and won’t last long]] (p. 139)
 	- [[13-8a2.1 Money is the present good par excellence]] #revisit 
-- you get paid for being right (p. 140) 
-	- relate with naval
+- You get paid for being right (p. 140) 
+	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+	- See [[Naval Ravikant]]
 ### Things are often cheapest when people are fearful and pessimistic
 - on bull market and sex (p. 141)
 - human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
@@ -575,13 +579,19 @@ date: 2024-08-15
 ### Be opportunistic and adapt and change when the facts and circumstances change
 - horse and auto industry (p. 142)
 	- relate with other memo
-- you can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
+- You can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
 	- relate with knowledge and performance notes
-- there are mispricings (p. 143)
-	- relate with there is no objective mispricing memos and notes
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+- There are mispricings (p. 143)
+	- [[13-5b2k There is no such thing as mispricing, at least objectively]]
 - deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
 	- what is deprival-superreaction tendency? #revisit 
-- when you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
+- When you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[2-1b2b4 Look for value-added risk reducing trades]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+		- [[5-2c Be impatient about the things you most want to do]]
 ### Stick to businesses where you can assess that their economics is good and getting better
 - E.g., See’s Candies (pp. 145-146)
 - Constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
@@ -604,7 +614,7 @@ date: 2024-08-15
 - Personal thought: having a moat challenges the basic economic assumption of competition (p. 149)
 	- [[2-1b3 Play different games. Avoid competition.]]
 	- [[11-3.1 'Equilibrium' - Anything innovative escapes the Invisible Hand]]
-		- Specifically, it challenges the notion of [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person |DMU]] #revisit 
+		- Specifically, it challenges the fundamentality of the notion of [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person |DMU]] #revisit 
 - Pick (or be) the low-cost producer (p. 149)
 	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
@@ -775,6 +785,8 @@ date: 2024-08-15
 	- relate with cash is the gun to hunt rare fast-moving elephants memo
 ## PART FOUR: ON FILTERS AND RULES
 ### The right filters conserve thought and simplify life
+- [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]] #revisit 
+- [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]] #revisit 
 ### Never lose sight of what you’re trying to achieve or avoid
 ### The TUNE OUT “FOLLY” filter
 - Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)

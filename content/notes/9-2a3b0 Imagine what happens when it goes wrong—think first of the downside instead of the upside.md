@@ -8,5 +8,6 @@ Next:
 Related:
 - [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
 - [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 - [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
 - [[5-2c2b2 When you are long bullshit, you are short volatility and time]]

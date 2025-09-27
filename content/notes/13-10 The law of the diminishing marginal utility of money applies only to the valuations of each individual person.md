@@ -2,7 +2,7 @@ The key assumption here is that only a shift *along* the time preference schedul
 
 “Here, one element, a man’s money stock, is varied and **his value scale is otherwise assumed to remain constant**. **It is not his *money* stock that is relevant to his time preferences, but the *real* value of his money stock**. In the ERE, of course, where the purchasing power of the money unit remains unchanged, the two are identical. *Ceteris paribus*, **an increase in his real income—real additions to his money stock—will lower the time-preference rate on his schedule**.” – [[Murray Rothbard]] (p. 444)
 
-Taken further, the law of DMU only applies to money and not to capital since [[11-3.4a More is different |more-is-different]] effect affects the latter, specifically via specialization and division of capital, as discussed by [[Ludwig Lachmann]].
+Taken further, the law of DMU only applies to money and not to capital since [[11-3.4a More is different |more-is-different]] effect affects the latter, specifically via specialization and division of capital, as discussed by [[Ludwig Lachmann]]. In short, the law of DMU is not that fundamental. #revisit 
 
 Next:
 - [[13-10a Time preference per se doesn’t explain anything]]

@@ -22,7 +22,7 @@ Related:
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]
 - [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
-- [[QUE5 - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 
 Safeguard: 
 - *Use the test of time. Test whether you’re addressing the root cause of a problem, rather than merely treating a symptom, by asking yourself whether it will stand the test of time. Will this solution fix the problem permanently, or will the problem return in the future? If it seems like the latter, then chances are you’re only treating a symptom.*

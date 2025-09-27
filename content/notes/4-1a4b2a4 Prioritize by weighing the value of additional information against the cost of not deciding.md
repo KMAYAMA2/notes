@@ -5,7 +5,7 @@ More information isn’t necessarily better—what is not worth knowing is not w
 Related:
 - [[5-2b6 Theories need data]]
 - [[5-1b1a8c 決断 ≠ 判断 (the former precedes the latter — why you start out with some end-state of the world you’d like to achieve and live in)]]
-- [[Don't get started]]
+- [[4-1a4b2e Don't get started]]
 - Replace additional information with additional money
 	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
 	- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
