@@ -1,6 +1,8 @@
 ---
 date: 2025-09-05
 ---
+> “Real wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know” – Rousseau
+
 Also think about what the counterparty is focused on.
 
 Related:
@@ -15,3 +17,7 @@ Related:
 	- [[5-2a1 You get what you measure]]
 	- [[5-2a2 What gets measured gets managed]]
 	- [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
+- Do what’s your best at
+	- [[2-1c1a1 Companies will outsource everything that isn’t their value proposition. To build successful B2B company, simply be the outsource.]]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]

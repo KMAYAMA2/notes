@@ -575,7 +575,7 @@ An *asset structure* = the Plan Structure + the Portfolio Structure + the Contro
 		- The more is different *to the extent that **more** creates knowledge*.
 		- This means that MPP curves *change* rather than *shift*.
 			- The latter assumes constant environment but since knowledge is unpredictable, what happens in reality is the former.
-				- This clearly shows how knowledge creation is not a function of time (Lachmann), which is also related with how **there’s no beginning or end *in our perception of reality***, which further relates to why we always adjust to the facts of reality.
+				- This clearly shows how [[2-3b0 Knowledge creation is not a function of time |knowledge creation is not a function of time]] (Lachmann), which is also related with how **there’s no beginning or end *in our perception of reality***, which further relates to why we always adjust to the facts of reality.
 					- The book doesn’t have to be read *in order*, you can discover the meaning as you read (which means, you can read the way you like)—in fact, this is how we go about life (including scientific discoveries).
 	- If there’s no additional saving, then profit must be made out of other people’s losses (by other people’s mistakes).
 		- Facilitated via market

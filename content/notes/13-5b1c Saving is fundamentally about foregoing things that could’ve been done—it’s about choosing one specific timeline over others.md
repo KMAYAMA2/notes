@@ -8,6 +8,8 @@ Related:
 	- [[13-1a Humans have problems because we have to choose because we could be otherwise because of the multiverse]]
 	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 	- [[13-4 Time is scarce because action involves choosing one thing over others]]
+		- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+		- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
 	- [[13-4b The multiverse implies the scarcity of time in each universe]]
 - Saving in money is nonspecific
 	- [[3-1a4b5.1 Money can be anything—but money will not be everything]]

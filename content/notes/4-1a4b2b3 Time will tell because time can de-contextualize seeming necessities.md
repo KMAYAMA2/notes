@@ -16,5 +16,6 @@ Related:
 	- [[4-1a4b6 You write to forget. And when your mind forget something, it’ll have a space for another configuration of ideas]]
 - [[5-1 When you are long truth you are long volatility and time]]
 - [[5-1b4b3 Time beats timing]]
+- [[5-2b2a Use LATER folder, instead of reactively watching-reading-listening, and give them time]]
 - [[10-2g5 Every invention is built up over time within culture]]
 - [[12-1e Nothing is necessary = Everything is contingent]]

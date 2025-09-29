@@ -1,6 +1,8 @@
 ---
 date: 2024-10-20
 ---
+[[5-3c Knowledge is irreversible, and can only go from private to public]]
+
 [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 
 [[10-2g2 Culture invents symbols, and the core of language is the symbol]]

@@ -8,5 +8,7 @@ Related:
 - [[7-1a2 You can also make their problem as your problem by using growth as a guidance.]]
 - [[7-1b3 You can solve problems others will have but don’t have yet]]
 - [[7-1e We ask ‘what is the rich doing’ because they are the ones who have the resource to experiment with to find ways to cheapen the means of production]]
+- Do not impede free market force
+	- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 
 #develop 

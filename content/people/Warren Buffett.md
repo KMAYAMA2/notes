@@ -69,7 +69,7 @@ date: 2024-08-15
 	- Buffett: “If I call Charlie and describe a problem, he gets to the essence of it immediately”
 	- Douglas Hofstadter: “Being able to reliably ‘sniff’ what counts in a complex situation and to reliably put one’s finger on it (and, conversely, to ignore what doesn’t count) is the trick of thinking well”
 - [[2-1a0c1d1 Focus on the few variables |Get the key few factors right]] (p. 24)
-- Backups (redundancy), breakpoints (weakest links), critical mass (the more is different) (p. 25)
+- On backups (redundancy), breakpoints (weakest links), and critical mass (the more is different) (p. 25)
 	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
 	- [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 		- [[11-3.4a More is different]]
@@ -77,9 +77,11 @@ date: 2024-08-15
 - The Golden Rule—good behavior by each party begets good behavior in return (p. 26)
 	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 - Lord Peter Wimsey: “I always have a quotation for everything—it saves original thinking” (p. 26)
+	- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
 - Patience and slight difference in returns make for the huge difference when compounded, so get both (p. 27)
 - Rousseau on wisdom: “Real wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know” (p. 28) 
 	- Also see [[Sherlock Holmes]]
+	- [[2-1a0c1d1 Focus on the few variables]]
 - George Santayana: “To understand is to know what to do” (p. 28) 
 	- [[10-2g3d Behaviors can be replicators even when its meanings are not (properly) understood, because we can guess the meaning of memes. For rational memes, knowledge is THE replicator.]] #revisit 
 	- [[13-2.2 Most “actions” are mere behavior]]
@@ -87,7 +89,12 @@ date: 2024-08-15
 - Wisdom is about how to use knowledge (p. 28) 
 	- [[Naval Ravikant |Naval]] on what is wisdom: “Understanding the long-term consequences of your actions.”
 - Munger on extreme success (p. 29) 
-	- [[2-1a0c1d1 Focus on the few variables |Focus on few variables]], non-linear returns, extreme performance, big wave.
+	- [[2-1a0c1d1 Focus on the few variables |Focus on few variables]], [[5-3b Knowledge creates new frontiers (and new markets) |non-linear]] returns, extreme performance, big wave
+		- When you are focused on few variables you are less constrained by norms, and you might create [[5-1b1b2b Don't try to be the best. Be the only. |new game]] wherein it’s relatively easy to achieve extreme performance 
+			- Do this in new tech space—big wave means [[8-1 The frontier |the frontier]]
+				- See [[Marc Andreessen]] #revisit 
+				- [[7-1b4 You can solve problems that just became solvable]]
+			- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 - On bad Lollapalooza (p. 29)
 - On halo effect, and on basic need to be liked (p. 30) 
 	- Relate with biases notes #revisit 
@@ -108,6 +115,7 @@ date: 2024-08-15
 	- [[2-1a0c1d1 Focus on the few variables]]
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - Understand human behavior if you’re going to run a business (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
 	- Relate with notes on practice and habit
@@ -150,6 +158,7 @@ date: 2024-08-15
 - Sam Goldwyn: “Include me out” (p. 42)
 - Postpone yes, and say no sooner (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
+	- [[1-1c6a3.0 The decision should be obvious]]
 	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
 - Natural progression, the three I: Innovators, Imitators, Idiots (p. 43) 
 	- See [[Daniel Everett]] and Charles Sanders Peirce
@@ -158,12 +167,12 @@ date: 2024-08-15
 - On bubble. On boom and bust. People dance thinking they can leave right before midnight, but the problem is that the clock has no hands (p. 43)
 - An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
 	- Always test and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibrate]] your thesis (not limited to investment)
-- Bad ideas are born good. It’s easy to push a really good idea to wretched excess. (p. 44) 
+- Bad ideas are born good. [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess |It’s easy to push a really good idea to wretched excess]]. (p. 44) 
 	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 	- [[7-1 Create what people want or will want]]
 	- [[12-1e0 Everything changes]]
-	- Relate with check the implication from deviation between the price quotations (the Portfolio Structure) and the underlying business operation (the Plan Structure) memos
+	- Relate with check the implication from deviation between the price quotations (the Portfolio Structure) and the underlying business operation (the Plan Structure) memos #TODO 
 - The crazy greed, the crazy leverage, the crazy delusions—human behavior stays the same, only the objects of the folly changes (p. 44)
 - It’s not the bad idea but the good one carried to excess that do you in (p. 44) 
 	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']] #revisit 
@@ -174,8 +183,9 @@ date: 2024-08-15
 - If something can’t go on forever, it’ll end (p. 45) 
 	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
 	- Relate with biases notes
-- Things take longer to for it to happen, and when it happens it happens faster than you think (p. 46) 
+- Things take longer for it to happen, and when it happens it happens faster than you think (p. 46) 
 	- relate with notes on change and similar memos
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 - On new-form Gresham’s Law. Bad lending drives out good. (p. 46)
 - Nothing draws a crowd like a crowd. “Fools rush in where angels fear to trade.” (p. 46) 
 	- relate with imitation memos and notes #revisit 
@@ -186,6 +196,10 @@ date: 2024-08-15
 	- [[2-1a6c2 Establishing rituals is the key to creating positive inertia]]
 	- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
 - Beware, and work with people who are also aware, the ‘institutional imperative’ (p. 47)
+	- [[1-1c6a1a Pay attention to what can’t be said (e.g., taboos)]]
+	- [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
+	- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
+	- [[RUL3 - It’s useful to ask why about things that seem wrong, and especially ones that seem wrong but somehow funny.]]
 - ‘Everybody else is doing it’ is a red flag (p. 48)
 - Unusual managerial discipline is required to measure profitability over volume. (p. 48) 
 	- [[5-2a0 Know what to measure]]
@@ -209,6 +223,9 @@ date: 2024-08-15
 - Everybody gets so much information they lose common sense quote (p. 50) 
 	- relate with social media notes
 - What’s not worth knowing is not worth knowing at all (p. 50) 
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
+	- [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]
 	- relate with DMU notes #revisit
 ### Overly care about what other people think about you
 
@@ -251,9 +268,12 @@ date: 2024-08-15
 - Munger was at Salomon? (p. 67)
 - A great reputation is like virginity (p. 67) 
 	- relate with falsification notes
-- Sol Price: success in business comes from deciding which business you can intelligently do without (p. 68) 
-	- inversion at play
-	- relate with membership memos and Sol Price notes
+- [[Sol Price]]: “Success in business came from deciding which business you could intelligently do without” (p. 68) 
+	- [[1-2f1b9 Repeat what works]]
+	- [[RUL3 - Invert, always invert]]
+	- See how [[Sol Price]] came up with the idea of membership business model
+		- [[4-1a3b Go to specific places to get specific feedbacks]]
+		- [[4-1a5a If you properly set up the conversation you only need a handful of conversations for insights (e.g., via client slicing and segmentation)]]
 - Conduct Unbecoming an Officer (munger was at the military office as well?) (p. 69)
 - Teach with what you do, not what you say (p. 69) 
 	- relate with seeing the front notes
@@ -289,8 +309,8 @@ date: 2024-08-15
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 ### Believe you know everything about everything
 - 130 IQ guy who thinks he’s 125 >>> 180 IQ guy who thinks he’s 200 (p. 76) 
-	- Munger: “It’s not competency if you don’t know the edge of it”
-		- The size of [[3-1a4b1.2 Define and stay within your circle of competence |your circle]] doesn’t matter
+	- Munger: “It’s not competency if you don’t know the edge of it” #revisit 
+		- The size of [[3-1a4b1.2 Define and stay within your circle of competence |your circle]] *per se* doesn’t matter (similar to Buffett’s emphasis on profitability over size) #revisit 
 			- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 - Confucius: “Real knowledge is to know the extent of one’s ignorance” (p. 77)
 - The shoe button complex (p. 77) 
@@ -298,6 +318,7 @@ date: 2024-08-15
 - Planck knowledge >>> Chauffeur knowledge (p. 78) 
 	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - Beware the articulate incompetent (p. 78)
+	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
 - also beware the twaddler (p. 78) 
 	- relate with humans can do stupid things note.
 - it’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
@@ -345,8 +366,11 @@ date: 2024-08-15
 	- relate with information is incomplete memos and notes (e.g., Li Lu)
 	- relate with know what you know notes (e.g., Mark Twain) 
 	- relate with circle of competence memos (e.g., mono-linked chains) and notes 
-- Your problem won’t improve with age (p. 93) 
-	- relate with give it time notes
+- Your problem won’t improve with age (p. 93)
+	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+	- [[2-3b0 Knowledge creation is not a function of time]]
+	- [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]]
+	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
 - Persian Messenger Syndrome (e.g., CBS and Chairman Haley) (pp. 93-94) 
 	- relate with association notes 
 	- relate with bad news get exaggerated notes (as contrast)
@@ -402,8 +426,9 @@ date: 2024-08-15
 - Carlyle (William Osler’s favorite quote): “the task of man is not to see what lies dimly in the distance, but to do with what’s clearly at hand” (p. 103)
 - On deprival-superreaction syndrome. It’s about loss aversion and our asymmetric reaction to gains and losses. (p. 103) 
 	- relate with biases notes
-- Deprival superreaction tendency is about loss aversion to both possessed reward and almost possessed reward (p. 104) 
-	- relate with ownership notes
+- Deprival superreaction tendency is about loss aversion to both possessed reward and almost possessed reward (p. 104)
+	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+	- [[6-3z A world without ownership is a world with less creativity and human flourishing]] #revisit 
 - Five positive interactions = one negative interaction (p. 104)
 - A man reacts with intense irrationally to even a small loss (p. 104) 
 	- [[2-1b2b3 Don't invest what you can't afford to lose]]
@@ -513,6 +538,7 @@ date: 2024-08-15
 - Achieving complete fairness is impossible. Tolerate a little unfairness to some to get a greater fairness. Remember the Navy anecdote. (pp. 125-126) 
 	- relate with similar exhaustion is impossible notes, and with free market fairness memos and notes (e.g., from Rothbard, Mises, Taleb, Saifedean) 
 	- relate with roundabout memos and notes #revisit 
+	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
 - Complete foolproof is impossible (p. 126) 
 	- [[1-1c6a2 Todo list can be never exhaustive]]
 	- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
@@ -529,6 +555,9 @@ date: 2024-08-15
 	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - Always weigh (and compare) the consequences of being wrong (p. 131) #revisit 
 - When playing Russian roulette, the shot not going off should alarm the next (p. 131)
+	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
+	- [[3-1a4 Explanatory means it will span across ‘boundaries’]]
+	- [[3-1a4a1 The whole must be evoked in explaining the parts]]
 - To finish first, you must first finish (p. 131)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - The first and second laws of thermodynamics approach applies to investing (p. 132) 
@@ -585,8 +614,8 @@ date: 2024-08-15
 	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - There are mispricings (p. 143)
 	- [[13-5b2k There is no such thing as mispricing, at least objectively]]
-- deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
-	- what is deprival-superreaction tendency? #revisit 
+- Deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
+	- See p. 104 explains what deprival-superreaction tendency is 
 - When you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 	- [[2-1b2b4 Look for value-added risk reducing trades]]
@@ -605,8 +634,10 @@ date: 2024-08-15
 		- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
 		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
 - Buffett: “[[11-1d There is no objective risk |Risk]] comes from not understanding what you’re doing.” (pp. 147-148)
-	- This is the meaning of *understanding a business* #revisit  
-	- This applies to anything (e.g., poker)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+		- This applies to anything (e.g., poker)
+		- This is the meaning of *understanding a business* #revisit  
+			- But [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer |the circle can be widened]]
 ### Buy assets protected with a durable competitive advantage run by able and honest people
 - You need the moat *and* the knight who can widen the moat. (p. 148)
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
@@ -758,12 +789,14 @@ date: 2024-08-15
 				- if so, what’s the implication for Buffett’s view? #revisit 
 - Roughly right >>> Precisely wrong (p. 189)
 	- [[1-2.0 It is better to be roughly right than precisely wrong]]
-- common sense >>> computer models (p. 189)
-- you shouldn’t need a spreadsheet to decide (p. 190)
-	- relate with decision should be obvious memo from (p. 138) above
+- Common sense >>> Computer models (p. 189)
+- You shouldn’t need a spreadsheet to decide (p. 190)
+	- [[1-1c6a3.0 The decision should be obvious]]
 - people calculate too much and think too little (p. 190)
+	- [[5-2 What counts cannot be counted]]
 	- relate with what counts often cannot be counted
-- it’s not a competency if you don’t know the edge of it (p. 192) #revisit 
+- It’s not competency if you don’t know the edge of it (p. 192)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - on one or few factors. less is often more. (p. 192)
 - Sandy Gottesman (p. 193)
 - write down your investment decision, preferably in a paragraph (p. 193) #TODO 
@@ -978,7 +1011,6 @@ date: 2024-08-15
 		- A business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- Being the low cost producer can protect you during [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change. |downturns]]—but in itself doesn’t offer any further upside
 			- [[12-1e Nothing is necessary = Everything is contingent |Of course]], it can translate into being the brand (e.g., see [[Jeff Bezos]] and [[Sam Walton]]) #revisit 
-
 #### A. The Great #revisit 
 - Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
 	- [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
@@ -1294,7 +1326,7 @@ date: 2024-08-15
 	- Aim for specific customer segment
 		- [[4-1a3b Go to specific places to get specific feedbacks]]
 		- [[RUL3 - Live in the future and build what seems interesting]]
-	- Ask: what are rich and nerd doing?
+	- Ask: what are rich and nerds doing?
 		- [[5-3c Knowledge is irreversible, and can only go from private to public]]
 		- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
 	- Look for the edge
@@ -1306,6 +1338,7 @@ date: 2024-08-15
 - Steve Jobs intensely studied Disney
 	- Only Disney was making money lucratively in animation business, and the recipe was hidden
 - Growth is easy to measure, durability isn’t (~27:00) #revisit 
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
 	- [[5-2a0 Know what to measure]]
 ## The Essays of Buffett (Founders #227)
 - Bruce Lee: “It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is.” 

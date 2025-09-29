@@ -30,5 +30,6 @@ date: 2024-10-07
 		- Qubit is more constrained than bit, but that doesn't mean it can't be constrained any further #develop 
 			- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
 				- [[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground]]
+- **[[2-1e Everything is connected in a complex way]]**
 - [[10-2g3d1.1 Humans create their own cause]]
 

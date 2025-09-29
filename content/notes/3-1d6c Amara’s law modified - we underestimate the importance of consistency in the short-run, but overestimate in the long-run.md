@@ -11,7 +11,9 @@ Consistency requires change—継続にも変化が必要
 
 **Related:**
 - [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 - [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
 - [[9-4b3e3d リトライの操作を迅速にすること・させること]]
+- [[12-1e Nothing is necessary = Everything is contingent]]
 
 

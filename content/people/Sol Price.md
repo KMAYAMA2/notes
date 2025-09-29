@@ -6,7 +6,7 @@ date: 2025-07-22
 	- when you see people driving long distance to save some money, that’s usually a good sign
 	- he didn’t know anything about retail business, but that was the edge
 		- knowledge is created not by imitation, but by reconfiguration—this is probably why noobs can do better
-	- membership was established initially to circumvent the fair trade laws
+	- membership was established initially to circumvent the fair trade laws, and also to avoid certain customers (maybe that was [[Sam Walton]])
 		- costco now makes money on membership fees
 	- he started fedmart then price club
 	- makro in amsterdam
