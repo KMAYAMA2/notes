@@ -354,6 +354,7 @@ date: 2024-08-15
 	- relate with Sherlock notes 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 - Avoid ‘thumb-sucking’ (p. 92)
+	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
 - Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]] #revisit 
 	- relate with reality catches up with you memos and notes
@@ -761,6 +762,7 @@ date: 2024-08-15
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 		- See [[Marc Andreessen]] and [[Naval Ravikant |Naval]]—changing the game is literally game-changing #revisit 
+			- By knowing your game, the game is changed for *you*. #revisit  
 - Allocate your time according to your talent (p. 182)
 	- Or have fun because the DMU framework cannot capture *the-more-is-different* nature of knowledge #revisit 
 		- [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
@@ -1052,8 +1054,8 @@ date: 2024-08-15
 		- [[2-1b4 Not fighting can win you the battle]]
 	- See [[Marc Andreessen]]
 - Turnaround seldom turn and usually takes longer (p. 19) 
-	- Relate with other it-takes-longer-and-costs-more-than-you-think memos and notes #revisit 
-		- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 #### D. Other Tough Businesses
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]

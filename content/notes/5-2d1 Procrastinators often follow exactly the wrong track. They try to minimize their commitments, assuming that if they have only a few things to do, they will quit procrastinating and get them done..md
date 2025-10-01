@@ -1,4 +1,4 @@
-But this goes contrary to the basic nature of the procrastinator and destroys his most important source of motivation.
+But this goes contrary to the basic nature of the procrastinator and destroys his most important source of motivation. [[RUL3 - Invert, always invert |Invert]] human psychology.
 
 Next:
 - [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]
