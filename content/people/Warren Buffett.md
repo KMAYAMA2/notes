@@ -206,7 +206,7 @@ date: 2024-08-15
 	- [[5-2a1 You get what you measure]]
 - “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
-- Mark Twain: “whenever you find yourself on the side of the majority, it is time to pause and reflect” (p. 48)
+- Mark Twain: “Whenever you find yourself on the side of the majority, it is time to pause and reflect” (p. 48)
 - Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49) 
 	- relate with judgement notes
 	- relate with (or create) you need a consistent worldview of your own, and you must keep updating it by yourself 
