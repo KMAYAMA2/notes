@@ -2,6 +2,10 @@
 
 Relate with infinite leverage memos and notes—that there is no infinite leverage, that growth has its limits. #TODO 
 
+[[Henry Ford]] built his wealth via mass-production.
+
+Milan became the fashion capital of Italy due to its production capacity, in contrast to Florence whose focus was on handmade items.
+
 Next:
 - [[3-1c3c3c Tech is for technology as well as for technique (技術)]]
 

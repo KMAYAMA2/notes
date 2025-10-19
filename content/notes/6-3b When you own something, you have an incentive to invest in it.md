@@ -1,7 +1,7 @@
 ---
 date: 2024-08-03
 ---
-#own 
+Owners usually care more than employees #own 
 
 [[6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself |Why are we outsourcing our health?]] We don’t even own our bodies anymore?
 
