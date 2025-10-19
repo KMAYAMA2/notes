@@ -8,6 +8,8 @@ date: 2024-10-16
 [[1-1c6a1c The absence of evidence is not the evidence of absence]]
 [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 
+[[12-1e4 Nothing is objectively and independently good]]
+
 [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 
 [[RUL3 - List ⇒ Rank ⇒ Iterate]]
