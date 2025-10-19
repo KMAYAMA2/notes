@@ -33,3 +33,4 @@ Related:
 - [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
 	- E.g., Status, 威信財
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]

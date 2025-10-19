@@ -34,6 +34,8 @@ date: 2024-08-15
 ### Thinking backwards is a great tool for solving problems
 ### Keep it simple and make it easy for yourself
 - Francois de La Rochefoucauld: “The desire to appear clever often prevents one from being so” (p. 14)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 - Samuel Johnson: “I can give you an argument, but I can’t give you an understanding” (p. 15)
 ### The secret is ignorance removal
@@ -47,6 +49,7 @@ date: 2024-08-15
 - On having low expectations (p. 17)
 	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - Nothing is objectively and independently good for us—it is just better in light of something else (p. 18)
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 	- [[12-1e Nothing is necessary = Everything is contingent]]
 	- [[12-1e4 Nothing is objectively and independently good]]
 ### Turn your body and mind into a wreck
@@ -79,6 +82,9 @@ date: 2024-08-15
 - Lord Peter Wimsey: “I always have a quotation for everything—it saves original thinking” (p. 26)
 	- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
 - Patience and slight difference in returns make for the huge difference when compounded, so get both (p. 27)
+	- [[2-1a1a4b Compounding is usually too slow to notice, making it easier to discount both how much progress and catastrophe are achievable]]
+	- [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded.]]
+		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - Rousseau on wisdom: “Real wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know” (p. 28) 
 	- Also see [[Sherlock Holmes]]
 	- [[2-1a0c1d1 Focus on the few variables]]
@@ -96,9 +102,11 @@ date: 2024-08-15
 				- [[7-1b4 You can solve problems that just became solvable]]
 			- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 - On bad Lollapalooza (p. 29)
+	- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
 - On halo effect, and on basic need to be liked (p. 30) 
+	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 	- Relate with biases notes #revisit 
-- On using two-track analysis: rationality; and subconscious—“There’s always a motive.” (p. 31) 
+- On using two-track analysis: rationality and subconscious—“There’s always a motive.” (p. 31) 
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 - CEOs and the directors dysfunction as corrective mechanism (p. 32) 
 	- Relate with error-correction notes and biases notes
@@ -160,13 +168,15 @@ date: 2024-08-15
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 	- [[1-1c6a3.0 The decision should be obvious]]
 	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
-- Natural progression, the three I: Innovators, Imitators, Idiots (p. 43) 
+- Natural progression—the three I: Innovators, Imitators, Idiots (p. 43) 
 	- See [[Daniel Everett]] and Charles Sanders Peirce
 	- *What the wise man does in the beginning, the fool does in the end*
 		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - On bubble. On boom and bust. People dance thinking they can leave right before midnight, but the problem is that the clock has no hands (p. 43)
 - An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
 	- Always test and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibrate]] your thesis (not limited to investment)
+	- [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
+		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Bad ideas are born good. [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess |It’s easy to push a really good idea to wretched excess]]. (p. 44) 
 	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
@@ -182,7 +192,9 @@ date: 2024-08-15
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - If something can’t go on forever, it’ll end (p. 45) 
 	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
-	- Relate with biases notes
+	- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
+	- [[12-1e0 Everything changes]]
 - Things take longer for it to happen, and when it happens it happens faster than you think (p. 46) 
 	- relate with notes on change and similar memos
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
@@ -823,14 +835,14 @@ date: 2024-08-15
 - [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]] #revisit 
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]] #revisit 
 ### Never lose sight of what you’re trying to achieve or avoid
-### The TUNE OUT “FOLLY” filter
+### The *tune out “folly”* filter
 - Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
 	- Remember how chess grandmasters operate
 - When it’s too simple it might not spread fast. (p. 202)
 	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology #revisit 
 		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
-### The IMPORTANT AND KNOWABLE filter
+### The *important and knowable* filter
 - Narrow it down to the important and knowable. (p. 203)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- [[2-1b3a1 Narrow it down so you can have a chance to build your own moat]]
@@ -839,8 +851,8 @@ date: 2024-08-15
 	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 		- The concept is epistemological
-### The CIRCLE OF COMPETENCE filter
-### The TOO TOUGH filter
+### The *circle of competence* filter
+### The *too tough* filter
 - Avoid competitions, and if it’s losing ship, get out (p. 205)
 - On acquisitions
 	- Munger: “When you mix raisins and turds, you’ve still got turds” (p. 205)
@@ -851,7 +863,7 @@ date: 2024-08-15
 - Get the no-brainers off the desk fast (p. 207)
 	- Do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
 - Edward Tuft: “The idea is to find important problems that can be solved” (p. 207)
-### The OPPORTUNITY COST filter
+### The *opportunity cost* filter
 - It’s about *personal* opportunity costs, and since your value scale changes what’s best for you also changes—you have to reevaluate your opportunity costs all the time (pp. 208-209)
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[13-6a The same individual exhibits different scale of values at different times]]
@@ -874,7 +886,7 @@ date: 2024-08-15
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
 	- [[5-2b Errors of omission are dangerous because you make them by default]]
-### The “AND THEN WHAT” filter
+### The *”and then what”* filter
 - Ask: then what? (p. 213)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - You can’t just do one thing and leave all other elements unchanged—this is principle both in ecology and legislation (p. 214)
@@ -885,12 +897,15 @@ date: 2024-08-15
 	- In spirit this is a spontaneous disorder phenomenon—but you can avoid this one if you think it through
 		- [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]
 - Gresham’s Law is both an example of unwanted consequences and what Garrett Hardin calls a pejoristic system—a system which by its very nature makes matters worse (p. 216) #revisit 
+	- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
+		- [[6-3b3g Federated (protocol) networks have a tendency, a fundamental by-product of their architecture, to evolve into corporate networks because network effects ensure that small advantages compound to create big winners]] #revisit 
 - Don’t fool yourself (p. 217)
 	- [[1-2h A good explanation makes it harder to fool yourself]]
-### The “COMPARED TO WHAT?” filter
+### The *”compared to what?”* filter
 - Look at the corporate cemetery (p. 218)
 	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
-	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #revisit 
+	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]] #revisit
+		- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 - Opportunity cost filter + Compared to what filter + Then what filter (p. 219)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.]]
@@ -908,7 +923,7 @@ date: 2024-08-15
 		- [[1-1c5 Surprises are the doors to revealing the inexplicit and the unconscious]]
 		- [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
 	- You have to go beyond merely doing what the opponent doesn’t want
-		- You have to be “stupid” in the sense of being unpredictable, but not in the sense of harming yourself and others (which is the definition of stupid people by [[Carlo Cipolla]])—this is probably what differentiates merely being rational and being creative (and why they are often an obsessed fanatic). #revisit 
+		- You have to be “stupid” in the sense of being unpredictable, but not in the sense of harming yourself and others (which is the definition of stupid people by [[Carlo Cipolla]])—this is probably what differentiates merely being rational and being creative (and why creator is often an obsessed fanatic). #revisit 
 			- [[Charlie Munger]] and [[Warren Buffett]] were likely obsessed with avoiding obvious mistakes and problems. #revisit 
 	- Personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
