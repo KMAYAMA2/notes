@@ -282,6 +282,7 @@ date: 2024-08-15
 	- relate with falsification notes
 - [[Sol Price]]: “Success in business came from deciding which business you could intelligently do without” (p. 68) 
 	- [[1-2f1b9 Repeat what works]]
+	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
 	- [[RUL3 - Invert, always invert]]
 	- See how [[Sol Price]] came up with the idea of membership business model
 		- [[4-1a3b Go to specific places to get specific feedbacks]]
@@ -563,6 +564,7 @@ date: 2024-08-15
 - The problem isn’t getting rich, it’s staying sane (p. 128)
 	- [[2-1b2b3 Don't invest what you can't afford to lose]]
 - *You Only Have to Get Rich Once* (p. 128)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 ### Only look at the sunny upside
 - Think first about what happens when it goes wrong, instead of the upside (p. 130)
 	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
@@ -839,7 +841,8 @@ date: 2024-08-15
 - Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
 	- Remember how chess grandmasters operate
 - When it’s too simple it might not spread fast. (p. 202)
-	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology #revisit 
+	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology (what most people call human nature) #revisit 
+		- [[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans]]
 		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
 ### The *important and knowable* filter
@@ -854,8 +857,12 @@ date: 2024-08-15
 ### The *circle of competence* filter
 ### The *too tough* filter
 - Avoid competitions, and if it’s losing ship, get out (p. 205)
+	- [[2-1b3 Play different games. Avoid competition.]]
+	- [[2-1b4 Not fighting can win you the battle]]
 - On acquisitions
 	- Munger: “When you mix raisins and turds, you’ve still got turds” (p. 205)
+		- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+		- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 - Mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
 	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
@@ -868,9 +875,9 @@ date: 2024-08-15
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[13-6a The same individual exhibits different scale of values at different times]]
 - The more you know, the higher the bar—but remember to stay within your circle of competence (p. 209)
-	- This is implied in personal opportunity costs argument, and also in the context of value scales—particularly, how what you don’t know cannot be in your value scale
+	- This is implied in personal opportunity costs argument, and also in the context of value scales—because what you don’t know cannot be in your value scale
 		- [[13-9a1 A value scale consists of goods with which the individual is familiar—the good will not be on the value scale if the individual does not know about that good]]
-	- Put differently, it should get easier
+	- Put differently, it should get easier ([[Warren Buffett]] meets [[Paul Graham]])
 		- [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
 		- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
 		- [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds.]]
@@ -882,7 +889,7 @@ date: 2024-08-15
 		- That is, you have to widen (or deepen, or clarify) your circle of competence (i.e., your conception of reality) gradually and reflexively
 			- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 - Comparing new opportunities against what’s available is the same in spirit to [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this. |asking at night how what you’ve learned that day relates to what you already know]] (p. 211)
-- The goal is to make the best choice at that point in time, and not the best choice ever, because the world is in flux (p. 211)
+- The goal is to make the best choice at that point in time, and not the best choice ever, because the world—including yourself—is in flux (p. 211)
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
 	- [[5-2b Errors of omission are dangerous because you make them by default]]

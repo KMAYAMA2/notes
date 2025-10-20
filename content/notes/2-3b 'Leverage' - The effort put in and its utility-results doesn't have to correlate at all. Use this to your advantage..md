@@ -10,6 +10,6 @@ Related:
 - [[3-1c3c3a2 Time spent doesn't mean much]]
 
 Contradictory?
-- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
+- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]] #revisit 
 
 #MentalModelsPhysicsAndChem 

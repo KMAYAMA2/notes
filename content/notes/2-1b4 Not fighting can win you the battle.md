@@ -1,5 +1,8 @@
-[[5-3 Don’t fight. Transcend.]]
-[[5-2 What counts cannot be counted]]
+
+Related:
+- [[5-2 What counts cannot be counted]]
+- [[5-3 Don’t fight. Transcend.]]
+- [[13-4 Time is scarce because action involves choosing one thing over others]]
 
 - The US was the least devastated by WWs
 	- Led to its dominance during 20c
