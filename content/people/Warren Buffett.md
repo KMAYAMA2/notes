@@ -624,13 +624,13 @@ date: 2024-08-15
 - horse and auto industry (p. 142)
 	- relate with other memo
 - You can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
-	- relate with knowledge and performance notes
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
 	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 - There are mispricings (p. 143)
 	- [[13-5b2k There is no such thing as mispricing, at least objectively]]
 - Deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
-	- See p. 104 explains what deprival-superreaction tendency is 
+	- See p. 104 as it explains what deprival-superreaction tendency is 
 - When you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 	- [[2-1b2b4 Look for value-added risk reducing trades]]
@@ -640,6 +640,7 @@ date: 2024-08-15
 - E.g., See’s Candies (pp. 145-146)
 - Constantly changing means being exposed to errors constantly. Berkshire avoids them when investing. (p. 146)
 	- This doesn’t mean Berkshire is against changes—just that they look for something rather predictable when they invest
+		- See the *important and knowable* filter below (p. 203)
 - Internet isn’t going to affect how people shave (p. 147)
 	- [[5-2c2b The Lindy effect]]
 		- Ask: what doesn’t change with AI? #revisit 
@@ -653,6 +654,7 @@ date: 2024-08-15
 		- This applies to anything (e.g., poker)
 		- This is the meaning of *understanding a business* #revisit  
 			- But [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer |the circle can be widened]]
+		- [[5-1b1b2b Don't try to be the best. Be the only.]]
 ### Buy assets protected with a durable competitive advantage run by able and honest people
 - You need the moat *and* the knight who can widen the moat. (p. 148)
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
@@ -667,7 +669,7 @@ date: 2024-08-15
 	- E.g., GEICO, The Nebraska Furniture Mart (p. 150)
 - Just take care of the customers (p. 151)
 	- E.g., ISCAR (p. 151)
-	- See [[Jeff Bezos]]
+	- See [[Jeff Bezos]] (or [[安田隆夫]])
 - [[Sam Walton]]: “There’s only one boss—the customer—and he or she can fire everybody in the company from the chairman down, simply by spending his or her money elsewhere” (p. 151) 
 	- Consumer sovereignty #revisit 
 		- [[13-5e The capitalists are constrained by the aggregated time-preference schedules just as sellers of any other present goods are constrained by the aggregated demand schedules of the consumers]]
@@ -753,7 +755,7 @@ date: 2024-08-15
 - Stop digging. Fight wishful thinking, consistency bias, and loss to aversion bias. Stop wasting resources (e.g., time). Get out leaking vessels. (p. 177) 
 	- relate with biases notes
 - You don’t have to make it back the way you lost it (p. 178) 
-	- Relate with money abstraction notes and method-independent notes (how doesn’t matter)
+	- Relate with money abstraction notes and method-independent notes (often times *how* doesn’t matter)
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 		- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
@@ -776,9 +778,9 @@ date: 2024-08-15
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 		- See [[Marc Andreessen]] and [[Naval Ravikant |Naval]]—changing the game is literally game-changing #revisit 
-			- By knowing your game, the game is changed for *you*. #revisit  
+			- By knowing your game, the game is changed for *you*—put differently, you can be the game (“game the system”). #revisit  
 - Allocate your time according to your talent (p. 182)
-	- Or have fun because the DMU framework cannot capture *the-more-is-different* nature of knowledge #revisit 
+	- **Or have fun because the DMU framework cannot capture *the-more-is-different* nature of knowledge** #revisit 
 		- [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
 		- [[2-1a7b Work in a field you have both a natural aptitude for and deep interest in. It should become increasingly interesting as you learn more about it.]]
 		- [[11-3.4a More is different]]

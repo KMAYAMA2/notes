@@ -19,5 +19,8 @@ In praxeological terms:
 - [[13-8a2b Prices do not exhaust value scales, but value scales can be ascertained only through prices in money economy]]
 - [[13-8a2c Value scales are ascertainable from the real actions, not vice versa—because value scales cannot be exhausted]]
 
+Luck-Skill dichotomy doesn’t exist, at least objectively—it’s open to interpretations: #revisit 
+- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]] 
+
 #MentalModels 
 #develop 

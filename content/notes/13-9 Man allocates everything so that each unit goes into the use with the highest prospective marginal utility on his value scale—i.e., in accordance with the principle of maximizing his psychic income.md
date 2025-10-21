@@ -21,3 +21,8 @@ Related:
 - Man maximizes his psychic income, and not monetary income per se
 	- [[13-1a3a1a Everyone benefits a psychic profit at the time of exchange (ex ante), but not everyone will benefit from the exchange (ex post)]]
 	- [[13-1a3a1a1 Only monetary income (or loss) can be observed and measured ex post—never psychic income (or loss)]]
+- His psychic income cannot be diversified—go for the best combination (e.g., in portfolio) #revisit 
+	- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+	- [[3-1c2f In tech, most of the value is in the ordering, in the useful configuration of zeroes and ones, which users click to pay for it]]
+	- [[11-3.4a More is different]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

@@ -8,4 +8,7 @@ Related:
 - [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
 - [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 
+Contradictory?
+- [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content']]
+
 #MentalModelsNumeracy 

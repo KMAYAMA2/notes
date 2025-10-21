@@ -18,6 +18,7 @@ date: 2024-07-31
         - **Magnetic Luck**: Chance IV comes to you, unsought, [[5-1b1b3 Productize yourself (as an embodiment of reality) |because of who you are and how you behave]]. 
 
 Related:
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - [[5-2b5 Theories precede data]]
 
 Contradictory? #develop :
