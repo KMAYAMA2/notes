@@ -1,4 +1,6 @@
-Reading biographies >>> study “history” #revisit 
+> “Not trying to be all things to all people is so important because if you try to be all things to all people, you’re not anything to anybody.” – Todd Graves
+
+Reading biographies >>> studying “history” #revisit 
 
 - [[2-1a2 See clearly - 解像度を高める]]
 

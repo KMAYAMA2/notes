@@ -1,3 +1,4 @@
+> “You must expect failure after failure after failure before you succeed.” – Edwin Land
 
 Next:
 - [[2-1a0c1a 'Influence of stress' - 'In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training']]

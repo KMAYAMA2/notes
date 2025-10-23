@@ -6,6 +6,8 @@
 
 > “I wanted to project myself forward to age 80 and say, “Okay, now I’m looking back on my life. I want to have minimized the number of regrets I have.” . . . I knew that when I was 80 I was not going to regret having tried Amazon. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not ever having tried. I knew that that would haunt me every day, and so, when I thought about it that way it was an incredibly easy decision.” – Jeff Bezos
 
+反面教師
+
 Next:
 - [[2-1b2b1a Get your incentives right from the beginning]]
 - [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]

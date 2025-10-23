@@ -1,3 +1,4 @@
+> “Don’t do anything that someone else can do.” – Edwin Land
 
 Next:
 - [[2-1c1a Even if you are better at everything that doesn't mean you should do everything by yourself]]

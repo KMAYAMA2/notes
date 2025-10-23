@@ -3,9 +3,16 @@ date: 2025-09-05
 ---
 > “Real wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know” – Rousseau
 
+> “I can laser focus on all these items being great” – Todd Graves
+
+Limit the amount of details to perfect and then make every detail perfect.
+
+Focus means quality and speed.
+
 Also think about what the counterparty is focused on.
 
 Related:
+- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - On focus
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 	- [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]

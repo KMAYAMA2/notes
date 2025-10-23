@@ -1,3 +1,5 @@
+[[5-1b1b2b Don't try to be the best. Be the only.]]
+
 [[7-1d3 The most valuable advantage in business is technical one]]
 [[5-1b1b3 Productize yourself (as an embodiment of reality)]]
 [[3-1b1b Problems encountered during projects are valuable. The harder they are the better.]]

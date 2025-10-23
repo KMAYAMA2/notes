@@ -367,6 +367,7 @@ date: 2024-08-15
 	- relate with Sherlock notes 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 - Avoid ‘thumb-sucking’ (p. 92)
+	- Sometimes you don’t have any opportunity cost because you didn’t have any other choice—do with what’s available, and don’t dwell on it. #revisit 
 	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
 - Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]] #revisit 
@@ -934,6 +935,7 @@ date: 2024-08-15
 	- You have to go beyond merely doing what the opponent doesn’t want
 		- You have to be “stupid” in the sense of being unpredictable, but not in the sense of harming yourself and others (which is the definition of stupid people by [[Carlo Cipolla]])—this is probably what differentiates merely being rational and being creative (and why creator is often an obsessed fanatic). #revisit 
 			- [[Charlie Munger]] and [[Warren Buffett]] were likely obsessed with avoiding obvious mistakes and problems. #revisit 
+				- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
 	- Personal thought: war, history, and ideas evolve by reconfiguration—you will lose if you associate yourself too strongly with specific configuration #revisit 
 		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 ### Have some avoid-rules

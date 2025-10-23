@@ -1,3 +1,5 @@
+> “Don't do anything that someone else can do. Don't undertake a project unless it is manifestly important and nearly impossible.” – Edwin Land
+
 Don’t let others solve your ***important*** problems.
 Solve your own problem. Mind your own business.
 

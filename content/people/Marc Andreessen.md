@@ -109,4 +109,6 @@ date: 2025-08-19
 			- “If you’re going to be a high achiever, you’re going to be in lots of situations where you’re going to be quickly making decisions in the presence of incomplete or incorrect information, under intense time pressure, and often under intense political pressure. You’re going to screw up — frequently — and the screwups will have serious consequences, and you’ll feel incredibly stupid every time. It can’t faze you — you have to be able to just get right back up and keep on going. That may be the most valuable skill you can ever learn.”
 		- Part 3: where to go and why (p. 120~) #revisit 
 			- “Pick an industry where the founders of the industry — the founders of the important companies in the industry — are still alive and actively involved”
+				- this makes all the more sense because founders care
+					- in contrast, it’s easy to [[2-1b3.1 Pick weak competitions |compete]] against non-founders because they don’t care as much
 			- “Once you have picked an industry, get right to the center of it as fast as you possibly can.”
