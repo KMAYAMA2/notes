@@ -1,6 +1,7 @@
 
 Next:
 - [[9-4b2a1c The moment you write about any societal problem in depth you'll find yourself writing a history of that problem]]
+- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
 
 Related:
 - [[1-2f1a2 Skepticism is how you stay being critical even when you don’t have the vocabulary to articulate your own imperfection and incompleteness because proper categories and anti-theses aren’t fully developed yet]]

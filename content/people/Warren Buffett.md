@@ -846,8 +846,9 @@ date: 2024-08-15
 ### The *tune out “folly”* filter
 - Get rid of the nonsense fast. if you know it’s nonsensical then don’t even think about it. (p. 201)
 	- Remember how chess grandmasters operate
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - When it’s too simple it might not spread fast. (p. 202)
-	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology (what most people call human nature) #revisit 
+	- I think the method of Buffett and Munger doesn’t spread easily because it’s against human psychology (what most people would call “human nature”) #revisit 
 		- [[1-1a2a There is no human nature if by this we mean a kind of a priori knowledge common to all and only to humans]]
 		- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
@@ -865,17 +866,22 @@ date: 2024-08-15
 - Avoid competitions, and if it’s losing ship, get out (p. 205)
 	- [[2-1b3 Play different games. Avoid competition.]]
 	- [[2-1b4 Not fighting can win you the battle]]
+	- See [[Marc Andreessen]]
 - On acquisitions
 	- Munger: “When you mix raisins and turds, you’ve still got turds” (p. 205)
 		- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 		- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 - Mistakes are forgotten and successes are exaggerated—revisit past decisions (p. 206)
+	- Keep your Hall of Shame (see, p. 212 below)
 	- [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
 	- [[5-2b Errors of omission are dangerous because you make them by default]]
 - Get the no-brainers off the desk fast (p. 207)
 	- Do this both in big picture stuff as well as when facing a problem (i.e., approach no-brainer parts first)
+		- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+		- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
 - Edward Tuft: “The idea is to find important problems that can be solved” (p. 207)
+	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
 ### The *opportunity cost* filter
 - It’s about *personal* opportunity costs, and since your value scale changes what’s best for you also changes—you have to reevaluate your opportunity costs all the time (pp. 208-209)
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
@@ -904,6 +910,7 @@ date: 2024-08-15
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - You can’t just do one thing and leave all other elements unchanged—this is principle both in ecology and legislation (p. 214)
 	- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
+	- [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 	- Put differently, you cannot unbundle everything:
 		- See, e.g., [[3-1a4b5 Anything can be priced in principle. But not everything will be.]] #revisit 
 - Parade-tiptoe problem (p. 215)
@@ -1116,8 +1123,11 @@ date: 2024-08-15
 	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
 ### 7. The Importance of Trustworthy and Talented Management
 #### Stick to proven management with a lot of integrity, talent and passion
-#### Culture counts
+- [[1-2f1b9 Repeat what works]]
+#### Culture counts #revisit 
+- [[1-1a2e5 Cultures nurture minds]]
 #### Existing cultures are hard to change so avoid situations where you have to change people
+- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 #### One doesn’t need an MBA to be talented
 #### What management does with the cash is very important
 - Ask: who’s allocating the capital? (p. 34)
@@ -1128,10 +1138,14 @@ date: 2024-08-15
 		- Is this where smart contracts can make a difference—because each code is [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation |dedicated to a function]]? #revisit 
 			- But smart contracts can be as complex as one desires—similar to open sourced AIs
 				- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
+			- The possibility for upgrades are always there #revisit 
+				- And the discussion around upgrades happen outside the relevant code
+					- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
 			- If smart contracts can be integrated into Bitcoin (e.g., OP_CAT), what are the implications? #revisit 
 				- Or what does it mean to own ETH? #revisit 
 #### Focus on the three questions that truly count
 - First, does the company have the right CEO? Second, is he (or she) overreaching in terms of compensation? Third, are proposed acquisitions more likely to create or destroy per-share value? (p. 35)
+	- [[2-1a0c1d1 Focus on the few variables]]
 ### 8. The Importance of Clear Yardsticks to Judge Management Performance
 #### Don’t automatically be impressed by higher earnings
 - [[1-1a2e11 Nothing objectively represents the represented]]
@@ -1140,13 +1154,16 @@ date: 2024-08-15
 #### Beware of those who explain away bad results by using “except for”
 - [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 #### Or blaming it on their long-term focus
-- On the short-run long-run #revisit 
+- On the short-run and long-run #revisit 
 	- [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
+	- [[3-1a4 Explanatory means it will span across ‘boundaries’]]
 	- [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 	- [[5-1b4c1c Align your short-term reward with your long-term vision]]
 	- [[7-1a2a2 Get ahead in the short-run, then in the long-run]]
+	- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]]
+		- [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality]]
 ### 9. Corporate Governance
 - Skin in the game (p. 39)
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
