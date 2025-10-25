@@ -273,6 +273,7 @@ date: 2024-08-15
 	- See [[Carlo Cipolla]]
 - Envy is simply negative-sum, rule it out (p. 66)
 	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+	- [[2-1c4 100x-ing the pie ＞ slicing extra few %]]
 ### Be unreliable and unethical
 - You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
 	- relate with the portfolio structure catching up to the plan structure memos and notes
@@ -326,15 +327,17 @@ date: 2024-08-15
 		- The size of [[3-1a4b1.2 Define and stay within your circle of competence |your circle]] *per se* doesn’t matter (similar to Buffett’s emphasis on profitability over size) #revisit 
 			- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
 - Confucius: “Real knowledge is to know the extent of one’s ignorance” (p. 77)
+	- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
 - The shoe button complex (p. 77) 
-	- relate with how being successful in one area doesn’t translate to other areas automatically notes.
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - Planck knowledge >>> Chauffeur knowledge (p. 78) 
 	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - Beware the articulate incompetent (p. 78)
 	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
-- also beware the twaddler (p. 78) 
-	- relate with humans can do stupid things note.
-- it’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
+- Also beware the twaddler—full of empty talk, rubbish and nonsense (p. 78) 
+	- [[9-4b3e4 Write each sentence like you are talking to a friend]]
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- It’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
 ### Associate with assholes
 - Relate stupid people notes and pigs (p. 81) 
 - Buffett version of surround yourself with better people (p. 81) 

@@ -1,3 +1,5 @@
+> “Real knowledge is to know the extent of one’s ignorance” – Confucius
+
 Better business comes from knowing yourself better.
 
 [[Paul Graham]] elaborates the concept further than [[Warren Buffett]] and [[Charlie Munger]].
