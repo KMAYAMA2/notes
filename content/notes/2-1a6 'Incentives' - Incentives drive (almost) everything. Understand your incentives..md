@@ -6,6 +6,9 @@ Next:
 - [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
 
 Related:
+- Incentives work regardless of the scale
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
 - [[2-6 You get what you pay for]]
 - [[5-2a1 You get what you measure]]
 - [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]

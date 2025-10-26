@@ -1,4 +1,9 @@
-[[6-3b4c Building true communities is the best way to go viral]]
+
+Previous: 
+- [[6-3b4c Building true communities is the best way to go viral]]
+
+Related:
+- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 
 - Farcaster
 - Gaming industries

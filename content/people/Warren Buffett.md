@@ -124,10 +124,11 @@ date: 2024-08-15
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
-- Understand human behavior if you’re going to run a business (p. 36)
+- **Understand human behavior if you’re going to run a business** (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
 	- Relate with notes on practice and habit
 - The will to prepare >>> The will to win (p. 37)
+	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
 - Building arks >>> Predicting rain (p. 37) 
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
@@ -164,6 +165,7 @@ date: 2024-08-15
 	- [[2-6 You get what you pay for]]
 ### Mindlessly imitate the latest fads and fashions
 - Sam Goldwyn: “Include me out” (p. 42)
+	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 - Postpone yes, and say no sooner (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 	- [[1-1c6a3.0 The decision should be obvious]]
@@ -218,7 +220,7 @@ date: 2024-08-15
 	- [[5-2a1 You get what you measure]]
 - “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
-- Mark Twain: “Whenever you find yourself on the side of the majority, it is time to pause and reflect” (p. 48)
+- Mark Twain: [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect” |“Whenever you find yourself on the side of the majority, it is time to pause and reflect”]] (p. 48)
 - Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49) 
 	- relate with judgement notes
 	- relate with (or create) you need a consistent worldview of your own, and you must keep updating it by yourself 
@@ -354,7 +356,8 @@ date: 2024-08-15
 - Culture, not rule books, determines organizations (p. 87) 
 	- elaborate #revisit
 - People see what’s been done than said, both in children and businesses (p. 87) 
-	- relate with concentric learning notes
+	- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+		- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 - Businesses are acquired to be held—not to be exited out for cash—the businesses generate cash. (p. 88) #revisit 
 	- it’s like holding its own version of SP500. #revisit 
 - A good spouse and a good business partner, you have to deserve both (p. 89)
@@ -374,11 +377,12 @@ date: 2024-08-15
 	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
 - Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]] #revisit 
-	- relate with reality catches up with you memos and notes
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
 - If you have a problem, act now (pp. 92-93) 
 	- relate with problem-solving notes #revisit  
 	- relate with second-order thinking notes #revisit 
-- One’s objective should be get it right, get it quick, get it out, get it over. Admit you can’t know everything and state all the facts you do know clearly. (p. 93) 
+- One’s objective should be: get it right, get it quick, get it out, get it over. Admit you can’t know everything and state all the facts you do know clearly. (p. 93) 
 	- relate with time is scarce memos and notes
 	- relate with fallibility notes
 	- relate with information is incomplete memos and notes (e.g., Li Lu)
@@ -390,12 +394,14 @@ date: 2024-08-15
 	- [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]]
 	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
 - Persian Messenger Syndrome (e.g., CBS and Chairman Haley) (pp. 93-94) 
-	- relate with association notes 
-	- relate with bad news get exaggerated notes (as contrast)
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]] 
+	- [[3-1c1d3 Social media makes news sentiment negative]]
 - Just tell me the bad news; the good news will take care of itself (p. 94) 
-	- relate with take care the downside memos and notes 
-	- relate with wisdom is about prevention memos and notes
-- If people know you as smart and informed then they’ll trust you and will tell you the truth early. Foster such environment. (p. 94)
+	- Wisdom is about prevention
+		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+		- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+- If people know you as smart and informed then they’ll trust you and will tell you the truth early—foster such environment. (p. 94)
+	- [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying]]
 ### Stick to, justify and rationalize your actions no matter how dumb they are
 - Deprival-Superreaction Tendency and Inconsistency-Avoidance Tendency: we don’t like to lose what feels rewarding (pp. 94-95) 
 	- relate with biases notes
@@ -495,7 +501,7 @@ date: 2024-08-15
 - Goethe: misunderstanding and neglect is more often than trickery and malice (p. 112) 
 	- relate with Hanlon’s razor notes (elaborate how’s it’s rooted epistemologically, that is, perfect replication is impossible and no two minds share the same worldview and knowledge is created individually notes) #revisit 
 - Nietzsche: the value is not in what you get, but what you pay for it, in what it costs us. Fight only important battles. (p. 112) 
-	- relate with cost is multiversal notes 
+	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 	- relate with value (or price) is about the opportunity cost notes (if any) #revisit 
 - If you start objecting to this and this and this, pretty soon people will pay less (or no) attention to you. Save bullets only when it matters. Worse yet, you will not be listened in other occasions too. Don’t shout. (p. 112) 
 	- relate with information is difference notes (elaborate what constitute noise)
@@ -507,11 +513,15 @@ date: 2024-08-15
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- relate with knowledge creation is about debate and reconfiguration
 - Medical maxim, first do no harm. (p. 114)
+	- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
 - Exactitude ≠ Truth (p. 114)
+	- [[1-2.0 It is better to be roughly right than precisely wrong]]
 - Montaigne: “Yes, but is it true?” (p. 115)
+	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 - Science is about not fooling yourself (p. 115)
 - Take ideas seriously and show how absurd that idea is (p. 116) 
-	- this is implied in extending the Portfolio Structure (price quotations) to the Plan Structure (the underlying businesses) #revisit 
+	- This is implied when both Buffett and Munger emphasize the importance of extending the Portfolio Structure (price quotations) to the Plan Structure (the underlying businesses) #revisit 
+		- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 - On writing and orangutan theory (pp. 117-118)
 - Simplicity reflects clear thinking—and it’s rare (p. 118)
 	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
@@ -586,9 +596,9 @@ date: 2024-08-15
 - Understand the downside five to ten years from now (p. 132) 
 	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 		- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
-	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]] #revisit 
 - Fact check quote #1098 (p. 132)
-- Is the upside worth it? If not worth doing it, don’t (p. 132)
+- Is the upside worth it? If not worth doing it, don’t do it (p. 132)
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - On Napoleon’s mother (p. 133)
 ## PART THREE: ON WHAT ELSE DOESN’T WORK AND WHAT DOES IN BUSINESS AND INVESTING
@@ -599,7 +609,7 @@ date: 2024-08-15
 	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
 ### Investing is about where to allocate your capital
 - On zero and negative interest rates (pp. 135-136)
-	- check the timeline of quotes #revisit 
+	- Check the timeline of quotes #TODO  
 - Investment is about the return, when, and *how sure **you are***  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 ### Buy “wrongly” cheap productive assets you understand
@@ -621,8 +631,9 @@ date: 2024-08-15
 ### Things are often cheapest when people are fearful and pessimistic
 - on bull market and sex (p. 141)
 - human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
-- on fear and greed as unpredictable diseases (p. 142)
+- Fear and greed are unpredictable diseases (p. 142) #revisit 
 - Buffett: “Be fearful when others are greedy and be greedy only when others are fearful—the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs” #revisit 
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- [[12-1e4 Nothing is objectively and independently good]]
 ### Be opportunistic and adapt and change when the facts and circumstances change
 - horse and auto industry (p. 142)
@@ -684,8 +695,10 @@ date: 2024-08-15
 		- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
 	- The general rule here applies elsewhere in life
 		- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
-	- Only a handful of Web2 companies can “abuse” the clients (e.g., via high take rates), because you have to establish the brand first #revisit 
-		- [[8-1c4d1 Web3 writing differs particularly from Web2 writing, because of the incentive structure]]
+	- Only a handful of Web2 companies can “abuse” the clients (e.g., via high take rates)—you have to establish the brand first #revisit
+		- The strength of Alphabet (Google), Amazon, Apple, Meta, and Microsoft comes from the brand
+			- Betting on essentiality and pricing power is now on the side of the majority due to index investing—remember that [[3-1a4b2b What is smart at one price is dumb at another |what is smart at one price is dumb at another]] #revisit 
+		- Elaborate, e.g., my note on [[8-1c4d1 Web3 writing differs particularly from Web2 writing, because of the incentive structure |Web3 writing]] #TODO 
 - Eliminate what irritates the customer (p. 152) 
 	- Always [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |invert]]
 ### One test of the strength of a moat is essentiality and pricing power
@@ -798,9 +811,9 @@ date: 2024-08-15
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 	- [[3-1c1a Prioritize performance-oriented media (i.e., news-you-can-use, including tutorials and fitness-diet-sleep scoreboard which you have control) over consumption-oriented media]]
 	- [[QUE5 - Anything fundamental changed vs superficial-uncontrollable metrics]]
-- Buy good businesses run by good people in good places. Macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
-- no rainbow without a cloud or a storm (p. 187)
-	- relate with being greedy when others are fearful
+- Buy good businesses run by good people in good positions. Macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
+- No rainbow without a cloud or a storm (p. 187)
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 ### Common sense is better than advanced math and computer models (pp. 190-192 has a summary)
 - On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
 	- relate with quotes from /Holmes
@@ -814,20 +827,18 @@ date: 2024-08-15
 - Common sense >>> Computer models (p. 189)
 - You shouldn’t need a spreadsheet to decide (p. 190)
 	- [[1-1c6a3.0 The decision should be obvious]]
-- people calculate too much and think too little (p. 190)
+- People calculate too much and think too little (p. 190)
 	- [[5-2 What counts cannot be counted]]
-	- relate with what counts often cannot be counted
 - It’s not competency if you don’t know the edge of it (p. 192)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - on one or few factors. less is often more. (p. 192)
 - Sandy Gottesman (p. 193)
 - write down your investment decision, preferably in a paragraph (p. 193) #TODO 
-- investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
-	- the statement here implies that nothing is objectively mispriced #revisit 
-		- relate with there is no such thing as mispricing note and refine it to there is no such thing as objectively mispriced #TODO 
+- Investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
+	- The statement here—particularly the use of the word gamble—implies that [[13-5b2k There is no such thing as mispricing, at least objectively |nothing is mispriced objectively]]
 - Mr. Market >>> PnL (p. 195)
-	- to be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
-		- relate with other memos and notes elsewhere—you want to use Mr. Market, never to be used
+	- To be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
+		- [[2-1a7a6 Mr. Market is there to serve me, never to guide me |You want to use Mr. Market—never to be used]]
 - the playing field (the Plan Structure) >>> scoreboard (the Portfolio Structure) (p. 196)
 - not where the puck is, but where it’s going (p. 196)
 	- relate with price is fundamentally about future notes
@@ -1124,6 +1135,7 @@ date: 2024-08-15
 ### 7. The Importance of Trustworthy and Talented Management
 #### Stick to proven management with a lot of integrity, talent and passion
 - [[1-2f1b9 Repeat what works]]
+- [[2-1a7b Work in a field you have both a natural aptitude for and deep interest in. It should become increasingly interesting as you learn more about it.]]
 #### Culture counts #revisit 
 - [[1-1a2e5 Cultures nurture minds]]
 #### Existing cultures are hard to change so avoid situations where you have to change people
@@ -1139,7 +1151,7 @@ date: 2024-08-15
 			- But smart contracts can be as complex as one desires—similar to open sourced AIs
 				- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 			- The possibility for upgrades are always there #revisit 
-				- And the discussion around upgrades happen outside the relevant code
+				- And the discussion around upgrades happens outside the relevant code base
 					- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
 			- If smart contracts can be integrated into Bitcoin (e.g., OP_CAT), what are the implications? #revisit 
 				- Or what does it mean to own ETH? #revisit 
@@ -1172,7 +1184,9 @@ date: 2024-08-15
 		- The former functions as a check on the latter (社長/CEO)—on daily basis the latter decides company matters (i.e., the Plan Structure)
 ### 10. Owners and Management
 - Common goals and a shared destiny make for a happy business “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
+	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]] #revisit 
 - Incentives work regardless of the scale (p. 41)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
 	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
 - “Hire well, manage little” code (p. 41)
@@ -1187,6 +1201,8 @@ date: 2024-08-15
 	- Berkshire has its own mini free market, as it were #revisit 
 #### Often I get a better management result through decentralization and non-control
 - This approach produces an occasional major mistake that might have been minimized through close operating controls—but it also eliminates large layers of costs and dramatically speeds decision-making. Because everyone has a great deal to do, a very great deal gets done. (p. 42)
+	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
+		- Remember the Navy anecdote (from pp. 125-126)
 	- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 - Run your business as if you own 100% of it, as if it’s the only asset you will ever have, as if you can’t sell it for at least a century. (p. 42)
@@ -1293,7 +1309,7 @@ date: 2024-08-15
 		- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
 		- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
 - Ignore Mr. Market as necessary (p. 77)
-- Mr. Market is there to serve me, never to guide me (p. 78)
+- [[2-1a7a6 Mr. Market is there to serve me, never to guide me |Mr. Market is there to serve me, never to guide me]] (p. 78)
 - Operating results >>> Price quotations (p. 78)
 	- Because any amount of money can do the job of money #revisit 
 	- Because the soundness of the Plan Structure means the ability to generate cash

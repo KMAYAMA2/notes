@@ -12,5 +12,8 @@ Related:
 - [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 - [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
 
+- [[RUL3 - Invert, always invert]]
+
+
 没個性・無私・カタリスト
 #MentalModels 
