@@ -831,7 +831,7 @@ date: 2024-08-15
 	- [[5-2 What counts cannot be counted]]
 - It’s not competency if you don’t know the edge of it (p. 192)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
-- on one or few factors. less is often more. (p. 192)
+- on one or few factors. less is often more. (p. 192) #revisit 
 - Sandy Gottesman (p. 193)
 - write down your investment decision, preferably in a paragraph (p. 193) #TODO 
 - Investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
@@ -839,7 +839,8 @@ date: 2024-08-15
 - Mr. Market >>> PnL (p. 195)
 	- To be more precise, when your measurement criteria is PnL, then Mr. Market might dictate you #revisit 
 		- [[2-1a7a6 Mr. Market is there to serve me, never to guide me |You want to use Mr. Market—never to be used]]
-- the playing field (the Plan Structure) >>> scoreboard (the Portfolio Structure) (p. 196)
+- The playing field (the Plan Structure) >>> Scoreboard (the Portfolio Structure) (p. 196)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 - not where the puck is, but where it’s going (p. 196)
 	- relate with price is fundamentally about future notes
 - risk is loss of purchasing power (p. 197)
@@ -847,8 +848,11 @@ date: 2024-08-15
 - simple stuff is generally overlooked (p. 197)
 	- relate with simple stuff might not spread fast memo
 - questions to ask when investing (p. 197)
-- best time to get rich is in a crisis. independent thinking, financial preparation, and mental preparation. it doesn’t take brains (although you need the right basic ideas)—it takes temperament. (p. 198)
-	- relate with cash is the gun to hunt rare fast-moving elephants memo
+- Best time to get rich is in a crisis. You need independent thinking, financial preparation, and mental preparation. It doesn’t take brains (although you need [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well. |the right basic ideas]])—it takes temperament. (p. 198)
+	- See also p. 71
+		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+		- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+		- [[13-8a2.1 Money is the present good par excellence]]
 ## PART FOUR: ON FILTERS AND RULES
 ### The right filters conserve thought and simplify life
 - [[3-1d6 Constraints in the form of consistent style leave space for creativity and progress]] #revisit 

@@ -3,6 +3,8 @@ Next:
 - [[2-1a7a6 Mr. Market is there to serve me, never to guide me]]
 
 Related:
+- [[5-2a1 You get what you measure]]
+
 - [[3-1a4b4a Financial cycles ≠ Product cycles]]
 	- [[2-1a7a1 (1) Increase your productivity; (2) Don't let your income increase faster than your productivity; (3) Don't let your debt increase faster than your income]]
 
