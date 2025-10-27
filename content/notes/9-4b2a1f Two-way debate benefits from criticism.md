@@ -1,5 +1,7 @@
 
 Related:
+- Knowledge creation is about reconfiguration #revisit 
+	- [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - [[4-1a4b3 If you write down ideas, you can have a conversation with each one of them individually, or with any configurations from them]]
 - [[4-1a5c When you have your Second Brain, you can have a conversation with it]]
 - *Two-way debate makes you realize the relation within your value structures*

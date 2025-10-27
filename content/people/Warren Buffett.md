@@ -105,20 +105,25 @@ date: 2024-08-15
 	- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
 - On halo effect, and on basic need to be liked (p. 30) 
 	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
-	- Relate with biases notes #revisit 
+	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 - On using two-track analysis: rationality and subconscious—“There’s always a motive.” (p. 31) 
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 - CEOs and the directors dysfunction as corrective mechanism (p. 32) 
-	- Relate with error-correction notes and biases notes
+	- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
+	- [[2-6 You get what you pay for]]
+	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 - Owner-capitalism engenders true independence (win and win big, lose and lose big) (p. 33) 
-	- Relate with the control structure memos
+	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]
+	- Relate with other memos on the control structure (e.g., Buffett p. 40, *The Outsiders* p. 178 and p. 194)
 - Three qualities Buffett values (p. 34) #revisit 
+	- What are those?
 - Coach’s incentive to get rid of a mediocre NFL QB ≠ Board’s incentive to get rid of a mediocre S&P 500 CEO (p. 35)
 - Be careful whom you appoint to power. The CEO does what he wants to do. Board setting strategy etc is baloney. (p. 35)
 - It’s practically useless to give advice to anyone (p. 35) 
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 - Be in with a management you are simpatico with (p. 36) 
-	- implication for activists, relate with stupidity notes
+	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]
+	- Think about the implication for activists
 - The more basic knowledge you have the less new knowledge you have to get. You just have to know a few things and know them very well. (p. 36) 
 	- [[2-1a0c1d1 Focus on the few variables]]
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
@@ -126,7 +131,9 @@ date: 2024-08-15
 	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - **Understand human behavior if you’re going to run a business** (p. 36)
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
-	- Relate with notes on practice and habit
+	- [[2-1a0c1b You do not rise to the level of your goals. You fall to the level of your systems.]]
+	- [[5-1b4b2 Hanlon's razor applied - See things as results of habits]]
+	- [[5-2b0 You are what you do repeatedly]]
 - The will to prepare >>> The will to win (p. 37)
 	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
 - Building arks >>> Predicting rain (p. 37) 
@@ -511,7 +518,10 @@ date: 2024-08-15
 	- Peace ≠ the absence of conflict. 
 ### Be an extreme ideologue
 - Try to formulate the opposing argument better than the opponents (p. 114) 
-	- relate with knowledge creation is about debate and reconfiguration
+	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
+	- [[9-4b2a1f Two-way debate benefits from criticism]]
+	- Also see p. 164 and p. 221
 - Medical maxim, first do no harm. (p. 114)
 	- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
 - Exactitude ≠ Truth (p. 114)
@@ -519,11 +529,19 @@ date: 2024-08-15
 - Montaigne: “Yes, but is it true?” (p. 115)
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
 - Science is about not fooling yourself (p. 115)
+	- [[1-2h A good explanation makes it harder to fool yourself]]
 - Take ideas seriously and show how absurd that idea is (p. 116) 
 	- This is implied when both Buffett and Munger emphasize the importance of extending the Portfolio Structure (price quotations) to the Plan Structure (the underlying businesses) #revisit 
 		- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 - On writing and orangutan theory (pp. 117-118)
+	- [[1-2g3.1 It’s explanations all the way down]]
+	- [[5-2b1b Writing down makes it easier for your conscious to see the unconscious]]
+	- [[9-4b2 Writing is creative destructions happening on paper]]
+	- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 - Simplicity reflects clear thinking—and it’s rare (p. 118)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
 ### Make it easy for people to cheat, steal and behave badly 
 - Serpico Syndrome (p. 119)
@@ -567,12 +585,15 @@ date: 2024-08-15
 	- relate with similar exhaustion is impossible notes, and with free market fairness memos and notes (e.g., from Rothbard, Mises, Taleb, Saifedean) 
 	- relate with roundabout memos and notes #revisit 
 	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
-- Complete foolproof is impossible (p. 126) 
+- Complete fool-proof is impossible (p. 126) 
 	- [[1-1c6a2 Todo list can be never exhaustive]]
 	- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
 	- relate with trust memos and notes (trusting someone means going long vol with that person—theoretically you can trust anyone given enough time but practically you have to choose some people over others because our time is limited) #revisit 
 - Don’t complicate the system. Keep it simple. Remember the Dean of USC School of Music anecdote on “replacing” candy. (p. 126) 
-	- relate with other keep it simple memos and notes
+	- Keep it simple and use common sense
+		- [[2-1a0c1d1 Focus on the few variables]]
+		- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Complicated system begets people who game the system. And often these gamers don’t understand the system as a whole (e.g., its purpose and meaning). Complicated system often goes out of control. (p. 126)
 ### Risk what you have and need, to get what you don’t need
 - The problem isn’t getting rich, it’s staying sane (p. 128)
@@ -589,15 +610,24 @@ date: 2024-08-15
 	- [[3-1a4a1 The whole must be evoked in explaining the parts]]
 - To finish first, you must first finish (p. 131)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
-- The first and second laws of thermodynamics approach applies to investing (p. 132) 
-	- if it doesn’t work, say no thanks
-	- how about short? #revisit 
+- The first and second laws of thermodynamics oriented approach to perpetual motion machines applies to investing (p. 132) 
+	- **If it doesn’t work, just say no thanks**
+		- [[1-1c6a3 Say yes only when both your heart and head say so]]
+		- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+		- [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+			- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+			- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
+		- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+			- [[9-2a3b0.2 Understand the downside 5 to 10 years from now]]
+	- How about short? #revisit 
+		- E.g., see my notes on [[Carlo Cipolla]]
 - All I want to know is if there are any factors that can cause ruin, and if any, never go there (p. 132)
-- Understand the downside five to ten years from now (p. 132) 
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[9-2a3b0.2 Understand the downside 5 to 10 years from now |Understand the downside five to ten years from now]] (p. 132) #revisit 
 	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
-		- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
+	- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
 	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]] #revisit 
-- Fact check quote #1098 (p. 132)
+- Fact check quote #1098 (p. 132) #TODO 
 - Is the upside worth it? If not worth doing it, don’t do it (p. 132)
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - On Napoleon’s mother (p. 133)

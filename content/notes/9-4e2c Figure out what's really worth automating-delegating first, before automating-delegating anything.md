@@ -3,6 +3,9 @@
 Next:
 - [[9-4e2d Idea (1min) ⇒ Mockup (1d+) ⇒ Prototype (7d+) ⇒ Program (2-4w) ⇒ Product (3-6m) ⇒ Business (6-12m) ⇒ Profits (1y+)]]
 
+Contradictory?
+- [[3-1b1b1 No learning without doing; specifically, no learning without cultural doing]] #develop 
+
 Related:
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 

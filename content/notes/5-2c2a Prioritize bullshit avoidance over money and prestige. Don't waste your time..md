@@ -10,10 +10,12 @@ Related:
 - [[1-2f1a1 Scientists evaluate theories with excess reasonable doubt]]
 - [[3-1c3c2a Any ideas have the potential to be MORE universal (if not universal), and constraints are to be removed sooner or later because knowledge is irreversible]]
 - [[3-1c3c2b Getting rid of your own misconceived notions alone can take you far enough]]
+- **[[5-1b1b2b Don't try to be the best. Be the only.]]**
 - [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
 - [[5-1b4c4b To truly have fun, you have to get rid of your own misconceptions]]
 - [[5-2c2b2 When you are long bullshit, you are short volatility and time]]
 - [[6-2 The cost effectiveness of anything addictive decreases over time. When you engage with them, you will either waste your time or money, very likely both.]]
+- **[[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]**
 
 - [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
 

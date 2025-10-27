@@ -5,19 +5,19 @@ date: 2025-09-05
 
 > “I can laser focus on all these items being great” – Todd Graves
 
-Limit the amount of details to perfect and then make every detail perfect.
-
-Focus means quality and speed.
+Limit the amount of details to perfect and then make every detail perfect—focus means quality and speed.
 
 Also think about what the counterparty is focused on.
 
 Related:
 - [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - On focus
+	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 	- [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
 	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
 - Keep it simple
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 - On measure
 	- [[5-2a0 Know what to measure]]

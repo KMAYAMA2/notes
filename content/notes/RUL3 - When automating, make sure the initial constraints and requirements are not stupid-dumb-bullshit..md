@@ -1,5 +1,4 @@
-But you can’t achieve zero stupidity. Just less enough is enough.
-- Remember: [[1-2 We are fallible]]
+But you can’t achieve complete stupidity-proof—[[1-2 We are fallible |we are fallible]]
 
 Related:
 - Keep it simple

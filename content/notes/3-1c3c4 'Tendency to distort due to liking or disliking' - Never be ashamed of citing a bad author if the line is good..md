@@ -6,6 +6,7 @@ Next:
 - [[3-1c3c4a Person who finds profound new theories often holds onto beliefs that contradict them]]
 - [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess]]
 - [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
+- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 
 Related:
 - [[6-3b2f Composability implies compounding]]
@@ -16,6 +17,9 @@ Related:
 		- [[9-4b3c Your epistemology has to be digital, that is, error-correctable]]
 
 - [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
+
+- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
 
 ---
 - [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
