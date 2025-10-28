@@ -639,7 +639,10 @@ date: 2024-08-15
 	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
 ### Investing is about where to allocate your capital
 - On zero and negative interest rates (pp. 135-136)
-	- Check the timeline of quotes #TODO  
+	- Check the timeline of quotes #1119~1121 #TODO  
+		- If various asset prices go up due to lowered interest rate, be aware of the consequences
+			- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+			- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 - Investment is about the return, when, and *how sure **you are***  (p. 136)
 	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
 ### Buy “wrongly” cheap productive assets you understand
@@ -659,15 +662,23 @@ date: 2024-08-15
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 	- See [[Naval Ravikant]]
 ### Things are often cheapest when people are fearful and pessimistic
-- on bull market and sex (p. 141)
-- human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
+- Barton Biggs: “A bull market is like sex. It feels best just before it ends.” (p. 141)
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
+- Human behavior (of others) allows for success if you are able to detach yourself emotionally (p. 141)
+	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
 - Fear and greed are unpredictable diseases (p. 142) #revisit 
+	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
 - Buffett: “Be fearful when others are greedy and be greedy only when others are fearful—the less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs” #revisit 
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- [[12-1e4 Nothing is objectively and independently good]]
 ### Be opportunistic and adapt and change when the facts and circumstances change
-- horse and auto industry (p. 142)
-	- relate with other memo
+- **“If horses had controlled investment decisions, there would have been no auto industry”** (p. 142) #revisit 
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+		- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+		- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+			- **[[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]**
+	- Elaborate the implication for how the government will likely react to Bitcoin, Ethereum, and Zcash #TODO 
+	- Also see p. 156
 - You can’t differentiate luck and shrewd decision (assuming there’s a difference). And there’s a background of preparation behind it, which is also not visible ('p. 143)
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 	- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
@@ -763,6 +774,7 @@ date: 2024-08-15
 - In commoditized businesses, you can’t really differentiate yourself (p. 162)
 - Get attractive security in attractive industry (p. 162)
 - Tech is based on change; and change is the enemy of the investors (p. 163) #revisit 
+	- [[2-1b2e0 The less guessing layers the better]]
 - Ask: can I compete and hurt a business with a billion dollars? (p. 164) 
 	- a business should be attack-prone
 - Andy grove and silver bullet question (p. 164)
@@ -837,11 +849,16 @@ date: 2024-08-15
 	- See [[Marc Andreessen]]’s emphasis on being in the right market over team and product
 		- Ask: *am I in the right business, industry, market?* #revisit 
 ### Think about where the business is going to be in the future—not macro factors
+I personally think “microeconomics” in the context used here can be construed as referring to individual tech (e.g., quantum computation), and “macroeconomics” as referring to the interaction with (and between) such technologies—predicting the latter is [[5-1b1a2 Some technology contains knowledge which can be universal. You can’t predict how people will use such technology. |impossible]], whereas with the former you can [[7-1b4 You can solve problems that just became solvable |start from the individual tech]] if you know where to look. It seems [[Paul Graham]] and [[Naval Ravikant]] elaborated this point better than Buffett and Munger. #revisit 
 - Microeconomics >>> Macroeconomics (p. 185)
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 	- [[3-1c1a Prioritize performance-oriented media (i.e., news-you-can-use, including tutorials and fitness-diet-sleep scoreboard which you have control) over consumption-oriented media]]
 	- [[QUE5 - Anything fundamental changed vs superficial-uncontrollable metrics]]
-- Buy good businesses run by good people in good positions. Macro headlines don’t matter—does macro headline affect your decision on marriage? (p. 186)
+- Buffett: “We want to buy good businesses that are run by good people in good places. It’s like getting married. If you’re getting married tomorrow, you’re not going to worry about a headline today. You’ve just got to be sure you’re marrying the right person.” (p. 186)
+	- [[1-1c6a3.0 The decision should be obvious]]
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+- Munger: “The trouble with making all these macroeconomic predictions is that people start to think they know something. It’s much better to just say you’re ignorant.” (p. 186)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - No rainbow without a cloud or a storm (p. 187)
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 ### Common sense is better than advanced math and computer models (pp. 190-192 has a summary)
@@ -855,15 +872,26 @@ date: 2024-08-15
 - Roughly right >>> Precisely wrong (p. 189)
 	- [[1-2.0 It is better to be roughly right than precisely wrong]]
 - Common sense >>> Computer models (p. 189)
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - You shouldn’t need a spreadsheet to decide (p. 190)
 	- [[1-1c6a3.0 The decision should be obvious]]
 - People calculate too much and think too little (p. 190)
 	- [[5-2 What counts cannot be counted]]
 - It’s not competency if you don’t know the edge of it (p. 192)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
-- on one or few factors. less is often more. (p. 192) #revisit 
-- Sandy Gottesman (p. 193)
-- write down your investment decision, preferably in a paragraph (p. 193) #TODO 
+- [[2-1a0c1d2 Less is often more |Less is often more]]—look for good businesses where one or a few key factors are critical (p. 192) 
+	- [[2-1a0c1d1 Focus on the few variables]]
+- Buffett: “When Charlie and I buy stocks—which we think of as small portions of businesses—our analysis is very similar to that which we use in buying entire businesses. We first have to decide whether we can sensibly estimate an earnings range for five years out or more. If the answer is yes, we will buy the stock (or business) if it sells at a reasonable price in relation to the bottom boundary of our estimate. If, however, we lack the ability to estimate future earnings—which is usually the case—we simply move on to other prospects.” (p. 193)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[2-1b2e0 The less guessing layers the better]]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
+- Sandy Gottesman: “What do you own and why do you own it?” (p. 193)
+	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+- Write down your investment decision, preferably in a paragraph (p. 193) #TODO 
+	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 - Investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
 	- The statement here—particularly the use of the word gamble—implies that [[13-5b2k There is no such thing as mispricing, at least objectively |nothing is mispriced objectively]]
 - Mr. Market >>> PnL (p. 195)
@@ -871,12 +899,26 @@ date: 2024-08-15
 		- [[2-1a7a6 Mr. Market is there to serve me, never to guide me |You want to use Mr. Market—never to be used]]
 - The playing field (the Plan Structure) >>> Scoreboard (the Portfolio Structure) (p. 196)
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
-- not where the puck is, but where it’s going (p. 196)
-	- relate with price is fundamentally about future notes
-- risk is loss of purchasing power (p. 197)
-	- why does Buffett not invest in Bitcoin?
-- simple stuff is generally overlooked (p. 197)
-	- relate with simple stuff might not spread fast memo
+- Wayne Gretzky: “Go to where the puck is going to be, not to where it is” (p. 196)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[13-1a3a2e7 Values (and also prices—to the extent that value scales can be ascertained only through them) are not concerned with the past]]
+	- [[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]
+	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
+	- [[13-8a3 Money must evoke the past, but the demand for money lies in the future]]
+	- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']] #develop 
+- Buffett: “Risk is loss of purchasing power. Volatility declines over a long enough timeframe. It is individuals that make investments risky.” (p. 197)
+	- [[11-1d There is no objective risk]]
+	- [[12-1e4 Nothing is objectively and independently good]]
+		- [[6-3a2.1 How you achieve something matters as much as what you achieve]]
+	- Why does Buffett not invest in Bitcoin? #revisit 
+- Buffett: “There is a certain natural tendency to overlook anything simple and important” (p. 197)
+	- I believe this is due to the [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution') |combination]] of
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+			- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+		- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+	- Also see p. 126 and p. 202 (and also p. 119)
+		- [[2-1a0c1d1 Focus on the few variables]]
+		- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - questions to ask when investing (p. 197)
 - Best time to get rich is in a crisis. You need independent thinking, financial preparation, and mental preparation. It doesn’t take brains (although you need [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well. |the right basic ideas]])—it takes temperament. (p. 198)
 	- See also p. 71
@@ -981,6 +1023,9 @@ date: 2024-08-15
 			- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
 ### Checklists help—assuming we are competent enough to pick the key factors and evaluate them
 - Checklists are no substitute for thinking, but powerful (p. 221)
+	- [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
+		- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
+		- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 - Always surprise the enemy (p. 221)
 	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 	- On surprises

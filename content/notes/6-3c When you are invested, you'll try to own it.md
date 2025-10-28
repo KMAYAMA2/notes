@@ -11,3 +11,5 @@ Especially when the ownership itself becomes the problem:
 				- We are invested in things because we are cultural beings, but you can either own that or ignore it
 					- [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
 						- [[1-1a2e7d1 To live = To live culturally = To live economically]]
+- Be careful
+	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]

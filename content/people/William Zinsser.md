@@ -77,7 +77,7 @@ date: 2024-07-27
 	- [[9-4b3e3 The easier something is to read, the more deeply readers will engage with your ideas. Keep the friction low. |Short paragraphs are more inviting]]
 - [[7-1a Create something you would want for yourself, and never for some imaginary audience |Write for yourself]]—people write better and with more enjoyment if they write about what they care about.
 	- Write about your hobbies. Write about your work.
-- **[[You are both what you write and how you write]]**
+- **[[9-2b1.5 You are both what you write and how you write]]**
 	- With the internet, our first encounter with someone is more online than in real life—your writing often defines their first impression of you.
 		- “My four articles of faith: clarity, simplicity, brevity, and humanity.”
 			- Write like you talk because that’s warm

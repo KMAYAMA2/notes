@@ -9,6 +9,9 @@ Limit the amount of details to perfect and then make every detail perfect—focu
 
 Also think about what the counterparty is focused on.
 
+Next:
+- [[2-1a0c1d2 Less is often more]]
+
 Related:
 - [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - On focus
