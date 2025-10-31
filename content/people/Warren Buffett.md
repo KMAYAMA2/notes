@@ -862,13 +862,22 @@ I personally think “microeconomics” in the context used here can be construe
 - No rainbow without a cloud or a storm (p. 187)
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 ### Common sense is better than advanced math and computer models (pp. 190-192 has a summary)
-- On dot-com bubble and on changing expectations given the available facts, and why thinking like businessmen helps because often what’s been speculated is absurd. (pp. 188-189)
-	- relate with quotes from /Holmes
-	- the statement here clearly shows Buffett’s view that the Portfolio Structure will reflect the underlying Plan Structure
-		- does Lachmann share the same view?
-		- can the Portfolio Structure change the Plan Structure not temporality or on surface but substantially?
-			- I think it does and that’s what happens in case of malinvestment caused by fiat money printing by the government
-				- if so, what’s the implication for Buffett’s view? #revisit 
+- On the Internet mania
+	- Buffet: “When we buy a stock, we always think in terms of buying the whole enterprise because it enables us to think as businessmen rather than stock speculators… Any time you get involved in things where if you trace out the mathematics of it, you bump into absurdities, then you better change your expectations somewhat.” (p. 188)
+		- Think about the absurd consequences that would follow if what they expect should be true
+			- Buffett here meets [[Sherlock Holmes]]
+				- [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
+				- [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
+			- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+			- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+			- [[RUL3 - Invert, always invert]]
+		- Buffett and [[Ludwig Lachmann |Lachmann]] both essentially argue that the Portfolio Structure will reflect the underlying Plan Structure (see, e.g., [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things. |this note]] on [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |the triad]])
+			- But I think it can also work the other way—the Portfolio Structure can affect the Plan Structure, not temporarily or on surface, but substantially #revisit 
+				- The prime example: boom-and-bust cycle induced by malinvestment infused with fiat money printed by the government
+					- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
+					- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+				- If so, what’s the implication for Buffett’s view? #revisit 
+					- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Roughly right >>> Precisely wrong (p. 189)
 	- [[1-2.0 It is better to be roughly right than precisely wrong]]
 - Common sense >>> Computer models (p. 189)
@@ -891,6 +900,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Write down your investment decision, preferably in a paragraph (p. 193) #TODO 
 	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
 	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 	- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 - Investing is about finding a mispriced gamble, and you have to know enough to decide if it’s mispriced (p. 194)
 	- The statement here—particularly the use of the word gamble—implies that [[13-5b2k There is no such thing as mispricing, at least objectively |nothing is mispriced objectively]]
@@ -919,10 +929,25 @@ I personally think “microeconomics” in the context used here can be construe
 	- Also see p. 126 and p. 202 (and also p. 119)
 		- [[2-1a0c1d1 Focus on the few variables]]
 		- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
-- questions to ask when investing (p. 197)
-- Best time to get rich is in a crisis. You need independent thinking, financial preparation, and mental preparation. It doesn’t take brains (although you need [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well. |the right basic ideas]])—it takes temperament. (p. 198)
+- **Questions to ask when investing**—assuming its management is able and trustworthy: Can I understand it—figure out its economic future and estimate an earnings range?; What are the key factors in this type of business and how predictable are they?; Is it an essential business to customers now and in the future?; Or is the need likely to go away or can what the business offer be copied or replaced by other sources?; Has it earned high returns on tangible capital?; Is it going to produce more money over time?; Does it have a moat—a sustainable competitive advantage and defense against threats? (pp. 197-198)
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]] #revisit 
+- Even if the economics are great, the investment can still be bad if the price is too high (p. 198)
+	- [[3-1a4b2b What is smart at one price is dumb at another]]
+- **What can cause you to decline the opportunity**: I have no idea where the business will be in the future—how it will look like, it isn’t essential and can easily be replaced and it involves rapid and constant change where it’s extremely hard to know how the winners will be; I have no clue as to what the key factors to look at are; I can’t even roughly guess their future earning power or return on capital; I can’t judge why customers use this kind of product or why they should buy them from this company rather from someone else; their return on capital is lousy; I don’t see how they are protected from its many competitors; I have no idea what their competitors will be offering in the future or even how they will look like in the future; neither do I have any idea what differentiates the business from their competitors or how to spot competitive advantage in this type of business; and even if I could—I can’t judge if their moat will last or not (p. 198)  
+- Buffett: “If you can’t recognize the moat, it doesn’t mean there isn’t one there. It may be you can’t recognize it and then you go onto the next one.” (p. 198)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[13-4d4 Value is subjective]]
+- If you buy businesses for less than what they are worth, you’re going to make money. If you know which businesses you can and cannot value, you’re going to make money. (p. 198)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[3-1a4b2b What is smart at one price is dumb at another]]
+	- [[12-1e4 Nothing is objectively and independently good]]
+- The best time to get rich is in a crisis. You need independent thinking, financial preparation, and mental preparation. If you can detach yourself temperamentally from the crowd—you get very rich. It doesn’t take brains (although you need [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well. |the right basic ideas]])—it takes temperament. (p. 198)
 	- See also p. 71
+		- [[2-1a0c1a 'Influence of stress' - 'In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training']]
+		- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+		- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
 		- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
 		- [[13-8a2.1 Money is the present good par excellence]]
 ## PART FOUR: ON FILTERS AND RULES

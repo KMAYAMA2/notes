@@ -6,4 +6,4 @@ Next:
 Related:
 - [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 	- [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
-
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

@@ -1,6 +1,6 @@
 See [[Warren Buffett]] and [[Ludwig Lachmann]]
 
-In Lachmann’s parlance, the Portfolio Structure ≠ the Plan Structure
+In Lachmann’s parlance, the Portfolio Structure ≠ the Plan Structure. But this doesn’t mean they operate independently.
 
 Related:
 - [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
@@ -8,9 +8,13 @@ Related:
 - [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 - [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
 
-- [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
+- On the triad
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+	- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
+
 
 - [[3-1a4b2 Price can only convey so much]]
+- [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
 
 - [[12-1f 言葉と物事の関係性が一対である必要性はない (e.g., 二項同体)]]
 

@@ -9,6 +9,7 @@ Related:
 - [[RUL3 - List ⇒ Rank ⇒ Iterate]]
 
 Don't keep reminding yourself why you shouldn't wait. Just don't wait:
+- [[13-2.3 Learning is about changing your behavior]]
 - [[QUE5 - Ask “am I working on what I most want to work on” because per-project procrastination is far worse than daily procrastination]]
 - But also [[4-1a4b2e Don't get started |don’t get started]] #revisit 
 

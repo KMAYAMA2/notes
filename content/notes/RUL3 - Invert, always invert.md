@@ -4,6 +4,8 @@
 
 > “All I want to know is where I’m going to die so I’ll never go there.” – [[Charlie Munger]]
 
+> “The common question that gets asked in business is, ‘why?’ That’s a good question, but an equally valid question is, ‘why not?’” – [[Jeff Bezos]]
+
 Study weaknesses and mistakes.
 
 Since you cannot predict the future, Mungerian inversion inverts the inverted—primarily human follies. The usual inversion, on the other hand, inverts the positive (i.e., desired end) instead of the negative (i.e., unwanted consequences).

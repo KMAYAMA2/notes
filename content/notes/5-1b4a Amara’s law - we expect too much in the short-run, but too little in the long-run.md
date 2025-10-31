@@ -16,4 +16,6 @@ Related:
 - [[7-1d1d You can use technology people assume is “dead”]]
 - [[12-1e0 Everything changes]]
 	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]] #develop 
 - [[RUL3 - Write out your goals. It’s amazing how few people do.]]
+- [[AN3C - Don’t write the essay readers expect - one learns nothing from what one expects - be surprising.]]

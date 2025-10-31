@@ -1,3 +1,5 @@
+> “If a thing can’t go on forever, it will eventually stop”
+
 For example, a glass of water does not contain an infinite number of smaller drops of water because dividing a molecule into two drops makes no sense
 
 Counter-examples: 
