@@ -170,7 +170,7 @@ date: 2024-08-15
 - On the “independent” board members (p. 41)
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 	- [[2-6 You get what you pay for]]
-### Mindlessly imitate the latest fads and fashions
+### Mindlessly imitate the latest fads and fashions #TODO 
 - Sam Goldwyn: “Include me out” (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 - Postpone yes, and say no sooner (p. 42)
@@ -254,12 +254,12 @@ date: 2024-08-15
 - Say no (p. 51)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 ### Live above your means
-### Go heavily into debt
+### Go heavily into debt #TODO 
 - On fretting on leveraged financial institutions. (p. 55) 
 	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
 		- this was mentioned in founders #380, 
 		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
-### Go down and stay down when bad things happen
+### Go down and stay down when bad things happen #TODO 
 - Low expectations, humor, friends and family (p. 57)
 - Interest rate independent (p. 58) 
 	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
@@ -275,7 +275,7 @@ date: 2024-08-15
 - Margin of safety is related with the black swan (p. 62)
 - And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
 ### When in trouble feel sorry for yourself
-### Get even and take revenge even if you hurt yourself
+### Get even and take revenge even if you hurt yourself #TODO 
 - Relate with give it time and distance yourself notes (p. 64)
 ### Be envious
 - Improving yourself >>> Penalizing others. (p. 65) 
@@ -283,7 +283,7 @@ date: 2024-08-15
 - Envy is simply negative-sum, rule it out (p. 66)
 	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 	- [[2-1c4 100x-ing the pie ＞ slicing extra few %]]
-### Be unreliable and unethical
+### Be unreliable and unethical #TODO 
 - You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
 	- relate with the portfolio structure catching up to the plan structure memos and notes
 - People just don’t see how much money there is in being honest (p. 67)
@@ -304,7 +304,7 @@ date: 2024-08-15
 	- relate with concentric learning notes and culture notes
 - It pays to hang around with people better than you are because you’ll float upward a little bit. Bad company corrupts good character (p. 70) 
 	- relate with the five average notes
-### Be a jerk and treat people really badly
+### Be a jerk and treat people really badly #TODO 
 - It’s nice to be important, but more important to be nice (p. 70) 
 	- relate with notes on being nice
 - You’ll meet a lot of people you initially think they are one-stops but they aren’t (p. 71) 
@@ -319,7 +319,7 @@ date: 2024-08-15
 - Find, emulate, and associate with good people (and good businesses) (p. 72)
 - Remember Grant McFayden, he didn’t need a lawyer (p. 72)
 - Read Rules for Making Oneself a Disagreeable Companion, by Ben Franklin (pp. 72-73)
-### Have a job that makes you feel miserable
+### Have a job that makes you feel miserable #TODO 
 - Passion is not the sufficient factor, but likely necessary for success (p. 73) 
 	- relate with Kobe Bryant quote and absence of evidence notes
 - There’s no substitute for strong interest (p. 73)
@@ -347,7 +347,7 @@ date: 2024-08-15
 	- [[9-4b3e4 Write each sentence like you are talking to a friend]]
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - It’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
-### Associate with assholes
+### Associate with assholes #TODO 
 - Relate stupid people notes and pigs (p. 81) 
 - Buffett version of surround yourself with better people (p. 81) 
 	- relate with similar notes
@@ -372,7 +372,7 @@ date: 2024-08-15
 	- relate two-way debate note and observation note.
 - No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
 	- and if you’re still worried, correct it.
-### Distort your problems so they fit your wishes
+### Distort your problems so they fit your wishes #TODO 
 - Queen Elizabeth I: “I like to know what the truth is so I can decide whether to believe it or not” (p. 92) 
 	- relate with denial memos and notes
 - Wishing is poison in business (p. 92)
@@ -409,7 +409,7 @@ date: 2024-08-15
 		- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - If people know you as smart and informed then they’ll trust you and will tell you the truth early—foster such environment. (p. 94)
 	- [[5-1b4c1b You can easily replace the self-discipline with the four laws of habit formation - (1) make it obvious, (2) make it attractive, (3) make it easy, and (4) make it satisfying]]
-### Stick to, justify and rationalize your actions no matter how dumb they are
+### Stick to, justify and rationalize your actions no matter how dumb they are #TODO 
 - Deprival-Superreaction Tendency and Inconsistency-Avoidance Tendency: we don’t like to lose what feels rewarding (pp. 94-95) 
 	- relate with biases notes
 	- for the latter relate 
@@ -486,18 +486,22 @@ date: 2024-08-15
 - Praise by name. Criticize by category. (p. 107)
 - “We don’t try to change people. We accept people the way they are.” Think about marriage. (p. 107) 
 	- relate with management memos #revisit 
-- Get in with a culture that’s already the right kind (p. 108) 
-	- relate with save keystrokes notes
-- A culture of trust with reality feedback >>> a culture of trust. Tell people but also to yourself the truth. (p. 108)
+- Get in with a culture that’s already the right kind (p. 108)
+	- [[1-2f1b9 Repeat what works]]
+	- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
+- A culture of trust with reality feedback >>> A culture of trust. Tell people but also to yourself the truth. (p. 108)
 - Chuck Huggins’ story (See’s). “Hire friendly people.” (p. 108) #revisit 
+	- [[1-2f1b9 Repeat what works]]
 - Appeal to interest (not exclusive to financial) and not to reason if you want to change conclusions (p. 109) 
 	- relate with deprival memos (e.g., losing status)
 - And explain why. Remember Carl Braun. Always communicate Who is to do What, When, Where and Why. (p. 110) 
 	- show them the process not just the result, relate with algo notes
 - And appeal to the fear of losing what they value (p. 110)
 - And (if it makes sense) use an authority figure, a friend, consistency bias for the better (p. 110)
-- Ben Franklin having someone lend a book to him tactic example (p. 111) 
-	- relate with /Franklin
+- On Ben Franklin’s tactic of having someone lend a book to him (p. 111) 
+	- See [[Benjamin Franklin]]
+		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
+		- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
 - Franklin tactic can work in reverse (p. 111)
 - Ben Franklin: “he that would live in peace and at ease must not speak all he knows nor judge all he sees” and what says that his opinion or solution is the correct one (p. 111) 
 	- don’t trigger defensive responses in others #revisit 
@@ -543,7 +547,7 @@ date: 2024-08-15
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
-### Make it easy for people to cheat, steal and behave badly 
+### Make it easy for people to cheat, steal and behave badly #TODO 
 - Serpico Syndrome (p. 119)
 - Social-Proof Tendency: stop any bad behaviors before it spreads and foster and display all good behaviors (p. 119) 
 	- relate with biases notes
@@ -742,7 +746,7 @@ date: 2024-08-15
 		- Elaborate, e.g., my note on [[8-1c4d1 Web3 writing differs particularly from Web2 writing, because of the incentive structure |Web3 writing]] #TODO 
 - Eliminate what irritates the customer (p. 152) 
 	- Always [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |invert]]
-### One test of the strength of a moat is essentiality and pricing power
+### One test of the strength of a moat is essentiality and pricing power #TODO 
 - The Daily Racing Form, Reed-Elsevier (pp. 152-153)
 - Transportation and energy are essential (p. 153) 
 	- Berkshire’s energy businesses holding is composed such that all are recession resistant and uncorrelated and can withstand regulatory attack
@@ -778,28 +782,37 @@ date: 2024-08-15
 	- [[3-1c1b0 You are what you consume (read)]]
 	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
 	- See p. 154
-- You rarely get poor investing in utilities (p. 160)
+- You rarely get poor investment with utilities (p. 160)
 - Good business throws up one easy decision after another (p. 162)
 - In commoditized businesses, you can’t really differentiate yourself (p. 162)
+	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 - Get attractive security in attractive industry (p. 162)
 - Tech is based on change; and change is the enemy of the investors (p. 163) #revisit 
 	- If Buffett and Munger weren’t betting on tech, then they were betting on human psychology of others—they took Mark Twain’s [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect” |quote on majority]] very seriously
 		- Tech space tends to beget more [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things. |folly]] given human psychology #revisit 
 	- [[2-1b2e0 The less guessing layers the better]]
 	- See also p. 186
-- Ask: Can I compete and hurt a business with a billion dollars? (p. 164) 
+- Ask: *Can I compete and hurt a business with a billion dollars?* (p. 164) 
 	- See also p. 114 and p. 221
-- Andy grove and silver bullet question (p. 164)
+		- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
+		- [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+- Andy Grove and the silver bullet (p. 164)
+	- Buffett: “When I’d interview managers, I’d ask what their business nightmare is… If you had a silver bullet and you could put it through the head of one competitor, which competitor and why? You will find who the best guy is in the industry.”
+		- [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - I wish I didn’t know now what I didn’t know then quote (p. 165) 
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 - Retailing is competitive (p. 165)
 - On retailing (e.g., Costco and Amazon) (p. 165)
 - Pay attention to mistakes of omission, and learn from them (p. 167) 
-	- relate with absence of evidence notes
+	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+	- [[5-2b Errors of omission are dangerous because you make them by default]] (see also p. 206 and p. 212)
+	- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
 - Check the track record of Berkshire’s investments (p. 168) #TODO 
-- small mistakes are fine—it’s about payoff (p. 168)
+- Small mistakes are fine—it’s about payoff (p. 168)
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 - acknowledging and analyzing errors >>> agonizing over errors (p. 169)
-- Ask: is this a good (or bad) business? Why? (p. 169)
+- Ask: *Is this a good (or bad) business? Why?* (p. 169)
 - Buffett’s quote on reality centered cast of mind (p. 169) 
 	- relate with Sherlock and Deutsch #revisit 
 - The company should be viewed as an unfolding movie, not a still snapshot (p. 171)
@@ -807,15 +820,20 @@ date: 2024-08-15
 - Mark Twain: a mine is a hole in the ground owned by a liar. (p. 172)
 - Buffett and Keynes on business is success is about future, not past. And you also have to explain why the business was successful in the past. (pp. 172-173) 
 	- relate with tracing the origin notes and quote from Paul valery
-- Ask: what forces can stop the current ongoing success? (p. 173)
+- Ask: *What forces can stop the current ongoing success?* (p. 173)
 - Ben Franklin: a small leak will sink a great ship (p. 173) 
 	- relate with small changes can go unnoticed until too late notes
+	- [[1-1a5b5 Shipping perfection means you are too late - you have to find a balance of finding the right moment and being fixable]]
 - ABCs of business decay: arrogance, bureaucracy, and complacency. “Whom the gods want to destroy, they send forty years of success” (p. 174)
 - Don’t employ unnecessary assistants. Parkinson’s law. (pp. 174-175)
 - Widen the moat, build enduring competitive advantage, delight customers, and fight cost (p. 175)
+	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 - Don’t underestimate the ability of others to do the same exact thing you’re about to do (p. 175)
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 - The tendency gets magnified with disliking bias of competitors. Be aware. (p. 176) 
-	- relate with biases notes
+	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 - Andrew Carnegie: look out for the boy sweeping floors, not the rich man’s son (p. 176) 
 	- relate with outsider notes and others
 - Buffett comments on food inflation. Also if horses could’ve voted, they would’ve voted down tractors. (p. 176) 
@@ -1185,8 +1203,24 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[5-2a0 Know what to measure]]
 	- [[5-2a2 What gets measured gets managed]]
 ### 4. Return on Tangible Invested Capital Reflects the Cash Flow Generating Characteristics of the Business
+#### The higher return a business earns on the capital that is invested in the business, the more cash it is producing and the more value is being created
+#### The fewer tangible assets needed to operate the business, the more cash is created per invested dollar—at a given return
 - Goodwill is that excess mentioned in (p. 5) capitalized (pp. 8-9)
+#### That is true even if the business doesn’t grow at all because in a more capital intensive business the cash flows are reduced in order to make investments just to keep the same unit volume and competitive position
+- In the case of a low-return business requiring incremental funds, growth hurts the investor (p. 9)
+	- [[5-2a0 Know what to measure]]
+	- Elaborate how it relates with other notes on growth #revisit 
+		- [[3-1c3d2b Chasing growth ⇒ Keep redefining the problems to be solved]]
+		- [[7-1a2b For startups, growth is a constraint much like truth]]
+		- [[7-1a4a Growth in revenue and in user base are not the same thing.]]
+		- [[7-1a5 Startups work on technology because great ideas made viable by newest tech (itself a new technology) is the best source of rapid change and growth]]
+		- [[7-1a5a Finding some distribution arbitrage in your time and place is also a great source for growth]]
+#### Over time it is hard for my invested money to earn a much better return than the underlying business returns on its invested capital
+#### If my return over time is a function of the return on invested capital, then what determines this return?
+#### Return on invested capital is mainly determined by three variables: (1) Sales—how many units of products will be sold at what price? (2) Operating costs—how much does it cost to make these products (or deliver the service) and conduct the business? (3) Invested capital—how much capital is needed to conduct the business?
 - Return on invested capital depends on sales, cost, and the amount of capital required (p. 9)
+	- [[6-3a2.1 How you achieve something matters as much as what you achieve]]
+#### Sales, costs, and capital needs depend largely on business characteristics, demand, competition from similar or substituting products, advantages against competition and their sustainability, cost and capital efficiency, and operational effectiveness in execution
 ### 5. Business Characteristics: The Great, the Good and the Gruesome
 - Don’t invest in companies signaling DMU (see., e.g., 5-C)
 - Inverted: pricing power is essential in inflationary environment (i.e., in our times)
