@@ -19,6 +19,11 @@ Related:
 	- [[13-1a3a4 The equilibrium price cannot be realized, except in the evenly rotating economy (ERE)]]
 	- [[13-1a3a4b The long run of the evenly rotating economy (ERE) is not real at all, but a very useful theoretical construct that enables the economist to point out the direction in which the market is moving at any given time]]
 	- [[13-5b2c There is no time inconsistency in the evenly rotating economy (ERE)]]
+- Study as many things as you can
+	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+		- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
+- **[[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]**
 - [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
 - [[13-1a3a2d3 Value scales are unified individually—they become more transparent, more measurable, and more comparable to the individual—with money, although never exhaustively]]
 - [[13-1a3a2e2 The introduction of money creates the money market wherein everything can be exchanged for anything in the economy]]
@@ -27,3 +32,8 @@ Related:
 	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 	- [[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move]]
 	- [[10-2g2e1 Our best explanation invokes abstractions including causation and the laws of physics]]
+- Similarity with the interoperability law in physics
+	- **[[5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent)]]**
+	- [[5-1b1a1c2 The interoperability law connects physics and information]]
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]

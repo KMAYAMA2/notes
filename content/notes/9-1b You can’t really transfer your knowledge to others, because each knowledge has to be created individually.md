@@ -10,6 +10,9 @@ Next:
 Related:
 - [[9-1d2b Dismissing some people as irrational presupposes the bucket theory of mind. Everyone’s mind is active. Do not assume you can ‘transfer’ your knowledge to others.]]
 - [[10-2g3f Anti-rational memes contain knowledge, and each individual has to discover them]]
+- The free market coordinates the individual curiosity with that of others—similar to how it coordinates [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |the triad]] (think about what happens when there’s an intervention) #revisit 
+	- [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
+	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 
 Crazy connection:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]

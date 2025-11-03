@@ -89,7 +89,7 @@
 			- According to the standard Austrian economics, artificially low interest rates lead to malinvestments in projects that are too “roundabout” relative to the amount of genuine saving.
 		- “Amplified by the fact that people discount the immediate future at a steeper rate than more distant periods, we arrive at the perverse result that managers squeeze as much out of their firms as they can in the present—their immediacy is magnified—while neglecting the capital expenditures necessary to keep the firm growing (and even maintain it).” (pp.307-308)
 			- According to Spitznagel, the capital stock is actually degraded; it becomes less roundabout.
-		- Related: [[Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
+		- Related: [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
 	- “Because of their misdiagnosis of the problem, the Keynesian “solution” is all the worse—they recommend either government deficit spending or “unconventional” monetary policy that will convince the public that higher price inflation is down the road.” (p.308)
 	- “Mises considered economics to be “deadly serious.” To him it was no mere intellectual exercise; rather “the very future of mankind—of civilization” rested upon an understanding of these economic principles.”
 - **The Day of Reckoning Comes to Nibelungenland**

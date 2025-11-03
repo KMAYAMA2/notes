@@ -1,5 +1,7 @@
 In other words, other life-forms can never think of Black Swan events. 
 
+This also explains what constitutes the brand (e.g., see [[Warren Buffett]]).
+
 Next:
 - [[2-1a6b1 Animals can extrapolate—but can never realize its contingencies]]. 
 - [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]

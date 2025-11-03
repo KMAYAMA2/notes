@@ -745,13 +745,18 @@ date: 2024-08-15
 ### One test of the strength of a moat is essentiality and pricing power
 - The Daily Racing Form, Reed-Elsevier (pp. 152-153)
 - Transportation and energy are essential (p. 153) 
-	- remember DS
-	- Berkshire’s energy businesses holding is composed such that all are recession resistant and uncorrelated and can withstand regulatory attack.
+	- Berkshire’s energy businesses holding is composed such that all are recession resistant and uncorrelated and can withstand regulatory attack
+		- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+		- [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated)]]
 - Moat of railroad companies is saturation (p. 154)
-- Homes, auto, and insurance are essential. (p. 154)
-- Have a special place on people’s mind then you can raise the price (p. 154) 
-	- relate with DMU notes and symbol (or association) notes
+- Homes, auto, and insurance are essential (p. 154)
+- Have a special place on people’s mind then you can raise the price (p. 154)
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- DMU is not that fundamental
+		- [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]
+		- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
 - Pricing power implies essentiality. Look at the pricing behavior of the product (not the stock). (p. 154) #revisit 
+	- E.g., electricity, Disney Land tickets
 - Get the basics well. You don’t have to do extraordinary things to get extraordinary results, don’t get diverted and instead focus on what works. (p. 155)
 	- [[1-2f1b9 Repeat what works]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
@@ -768,15 +773,22 @@ date: 2024-08-15
 - Permanent problem ≠ temporary setback. Differentiate the two. (p. 159)
 - Bad news—if you see one, usually there’s more (p. 159) 
 	- relate with sloppy one thing likely means sloppy elsewhere memos and notes, and anything else related (e.g., bad news is easy to detect and likely gets exaggerated notes)
-- Share of mind >>> share of market (p. 160)
+- Share of mind >>> Share of market (p. 160) #revisit 
+	- [[3-1c1b You are what you think and you think what you see, and you see what you think]]
+	- [[3-1c1b0 You are what you consume (read)]]
+	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
+	- See p. 154
 - You rarely get poor investing in utilities (p. 160)
 - Good business throws up one easy decision after another (p. 162)
 - In commoditized businesses, you can’t really differentiate yourself (p. 162)
 - Get attractive security in attractive industry (p. 162)
 - Tech is based on change; and change is the enemy of the investors (p. 163) #revisit 
+	- If Buffett and Munger weren’t betting on tech, then they were betting on human psychology of others—they took Mark Twain’s [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect” |quote on majority]] very seriously
+		- Tech space tends to beget more [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things. |folly]] given human psychology #revisit 
 	- [[2-1b2e0 The less guessing layers the better]]
-- Ask: can I compete and hurt a business with a billion dollars? (p. 164) 
-	- a business should be attack-prone
+	- See also p. 186
+- Ask: Can I compete and hurt a business with a billion dollars? (p. 164) 
+	- See also p. 114 and p. 221
 - Andy grove and silver bullet question (p. 164)
 - I wish I didn’t know now what I didn’t know then quote (p. 165) 
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
@@ -811,26 +823,45 @@ date: 2024-08-15
 - Schumpeter quote on innovation: it strikes not at the margins, but its very foundations and lives (p. 176) 
 	- relate with /econ notes (e.g., Rothbard) #revisit 
 - Businesses die. Sometimes better to just get out. Remember the Northern Pike Model (e.g., Walmart vs other chains). (pp. 176-177)
+	- [[2-1b3.1 Pick weak competitions]]
+	- [[2-1b4 Not fighting can win you the battle]]
 - Stop digging. Fight wishful thinking, consistency bias, and loss to aversion bias. Stop wasting resources (e.g., time). Get out leaking vessels. (p. 177) 
 	- relate with biases notes
 - You don’t have to make it back the way you lost it (p. 178) 
-	- Relate with money abstraction notes and method-independent notes (often times *how* doesn’t matter)
+	- Often times *how* doesn’t matter
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 		- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+		- [[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it]]
 		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Businesses are bought for keeps (p. 178)
 	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
 - With stocks and bonds, if we find something more attractive, we sell (p. 178) 
-	- relate with opportunity cost notes
-- Not price but value is what matters with investment. (p. 178)
+	- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
+- Value—not price—is what matters with investment (p. 178)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 - Organization foolish in one way is likely foolish in other areas (p. 179) 
-	- relate with sloppy in one area memos and notes
+	- See also p. 159
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - We just find people who’ve batted .350 for 10-50 years. We don’t train them. (p. 179) 
-	- relate with the decision should be obvious memos and notes
+	- [[1-1c6a3.0 The decision should be obvious]]
+	- [[1-2f1b9 Repeat what works]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - You can’t put passion into someone, but it’s easy to take it away. Don’t do that. (p. 180)
+	- [[2-1a0c1c Purpose (and curiosity) beats for-profit]]
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+	- [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
 - Work with winners. Remember Eddie Bennett and Yankees. (p. 180)
-- Being good at one thing doesn’t mean you’ll be good at another (p. 181) 
-	- relate with sloppy in one area memos (as a counter?)
+	- [[1-2f1b9 Repeat what works]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+	- Get out if it’s losing ship (see p. 205 and also [[Marc Andreessen]])
+- Being good at one thing doesn’t mean you’ll be good at another (p. 181)
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+	- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+	- See also p. 159 and memos from *The Tao of Buffett*
 ### Go in a field, in which you have no interest, not any competence or talent for, no edge in and where the competition is huge
 - Don’t do things you know you can’t do. Stick with what you’re good at. Know your game and that of others—play the former, and not the latter. (pp. 182-183)
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]

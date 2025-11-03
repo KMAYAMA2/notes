@@ -3,7 +3,9 @@ Previous:
 - [[6-3b4c Building true communities is the best way to go viral]]
 
 Related:
+- [[2-1a0c1c Purpose (and curiosity) beats for-profit]]
 - [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+- [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
 
 - Farcaster
 - Gaming industries

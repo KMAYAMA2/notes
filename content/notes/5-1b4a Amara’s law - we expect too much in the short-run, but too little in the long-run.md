@@ -1,6 +1,11 @@
 > 大功は緩にあり、機会は急にあり – 渡辺崋山
 
+Explain why this is the case #TODO 
+
 Turnaround seldom turn and usually takes longer. It takes longer and costs more than you think. But when it happens it happens faster than you think.
+
+Previous:
+- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 
 Next:
 - [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
@@ -11,6 +16,7 @@ Related:
 - [[2-1a0c1 'Failure comes from a failure to imagine failure']]
 - **[[2-3b0 Knowledge creation is not a function of time]]**
 - [[5-1b3 How much we can change is also unpredictable]]
+- [[5-1b4c1c Align your short-term reward with your long-term vision]]
 - [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - [[7-1d1b Look for technology which haven’t gotten a lot of press yet because it’s really new from labs, or because people assume it’s “dead” although doesn’t explain why]]
 - [[7-1d1d You can use technology people assume is “dead”]]

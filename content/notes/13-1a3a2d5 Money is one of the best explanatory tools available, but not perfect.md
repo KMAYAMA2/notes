@@ -1,5 +1,8 @@
 #revisit 
 
+Next:
+- [[13-1a3a2d6 There is no perfect money]]
+
 Related:
   - Money is one of the best tools available to account for success and failure, but not perfect
 	  - [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]

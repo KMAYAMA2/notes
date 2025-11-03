@@ -1,10 +1,13 @@
-[[2-1c3 'Win and help win' always outcompete]]
 
-[[7-1b3d New stars rise along with the new platform]]
-	[[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]] and scale from there
+- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 
-[[2-1c3 'Win and help win' always outcompete]]
-	[[7-1a2a1 絶対に勝てるところから勝っていく]]
+- [[2-1c3 'Win and help win' always outcompete]]
+
+- [[7-1b3d New stars rise along with the new platform]]
+	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]] and scale from there
+
+- [[2-1c3 'Win and help win' always outcompete]]
+	- [[7-1a2a1 絶対に勝てるところから勝っていく]]
 
 [[4-1a4b2b2 History repeats and reverses]]
 - Z-cash, digital nomadism vs the States

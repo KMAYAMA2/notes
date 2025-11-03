@@ -1,7 +1,9 @@
 #reflexivity 
 
-[[3-1c1b0 You are what you consume (read)]]
+Next:
+- [[3-1c1b0 You are what you consume (read)]]
 
+Related:
 Richard Hamming: *"Great thoughts only on Friday afternoons"*
 - “What will be the role of computers in all of AT&T?”, “How will computers change science?”, “What will be the impact of computers on science and how can I change it?”, “How is it going to change Bell Labs?”
 	- *"I thought hard about where was my field going, where were the opportunities, and what were the important things to do. Let me go there so there is a chance I can do important things."* ([[7-1b4f Let the tech decide where to go (both intellectually and physically)]])
@@ -14,14 +16,14 @@ Richard Hamming: *"Great thoughts only on Friday afternoons"*
 
 Bill Gates still created time and space (twice a year) to seclude himself for a week and do nothing but read articles (his record is 112) and books, study technology, and think about the bigger picture even during the busiest and most frenetic time in the company’s history.
 
-[[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
-	[[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
-		[[6-4 Proper epistemology should lead to a proper state of mind]]
+- [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
+	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
+		- [[6-4 Proper epistemology should lead to a proper state of mind]]
 
-***[[3-1c1c You must build your own media for yourself]]***
+- ***[[3-1c1c You must build your own media for yourself]]***
 
 You are what you read. You think like who you follow. 
-	[[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 
 You can’t think well without writing well, and you can’t write well without reading well. You have to be good at reading, and read good things.
 
@@ -32,3 +34,4 @@ You can’t think well without writing well, and you can’t write well without 
 			- [[3-1d6a1 Staying consistent is rather difficult with information abundance. What we need is purpose-intention.]]
 				- [[5-2d When you are purpose-goal-oriented, you'll be problem-project-oriented, because you will face problems in the process of achieving the former and will break them down into mini-problems]]
 
+[[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]

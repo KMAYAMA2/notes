@@ -5,7 +5,7 @@ Next:
 
 Related:
 - [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
-- [[Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
+- [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
 - On memes #develop 
 	- [[1-1b Memes are more powerful than genes because they can out-evolve them]]
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
