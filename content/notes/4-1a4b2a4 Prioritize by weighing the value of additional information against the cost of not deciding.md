@@ -11,3 +11,8 @@ Related:
 	- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]
 - 一見で十分なときもある #develop 
 	- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+
+Contradictory?
+- DMU is not that fundamental
+	- [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand]]
+	- [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person]]

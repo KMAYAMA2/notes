@@ -10,4 +10,5 @@ Related:
 - [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 - [[3-1c1b You are what you think and you think what you see, and you see what you think]]
 - [[5-2b0 You are what you do repeatedly]]
+- [[7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you]]
 - [[10-2g4 Cultures and languages are reflexive]]

@@ -256,16 +256,19 @@ date: 2024-08-15
 ### Live above your means
 ### Go heavily into debt #TODO 
 - On fretting on leveraged financial institutions. (p. 55) 
-	- relate with how being conservative can make look Berkshire losing money 99 times out of 100, but in the crucial one time Berkshire is designed to survive
-		- this was mentioned in founders #380, 
-		- as discussed elsewhere, it’s the weakest link which gets hit (e.g., see pp. 54-55).
+	- Being conservative can make Berkshire look like losing money 99 times out of 100, but in the crucial 1 time Berkshire is designed to survive
+		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+		- Also see my *400 pages of Buffett and Munger* (Founders #380) memos below
+		- It’s [[6-8 Train your weakest link |the weakest link]] which gets hit (e.g., see pp. 54-55)
 ### Go down and stay down when bad things happen #TODO 
 - Low expectations, humor, friends and family (p. 57)
 - Interest rate independent (p. 58) 
 	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
-- margin of safety is there to avoid ruin. on that one time out of 100. (pp. 58-59)
+- margin of safety is there to avoid ruin—on that 1 time out of 100 (pp. 58-59)
 	- relate with the same memos
 	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
+	- See also pp. 54-55 above
 - Usually when the time is right the credit is tight. Have loaded gun. (p. 59)
 - Shakespeare quote on the black swan event (p. 61) 
 	- relate probability notes with black swan notes
@@ -284,12 +287,22 @@ date: 2024-08-15
 	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 	- [[2-1c4 100x-ing the pie ＞ slicing extra few %]]
 ### Be unreliable and unethical #TODO 
-- You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67) 
-	- relate with the portfolio structure catching up to the plan structure memos and notes
+- You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+	- In [[Ludwig Lachmann |Lachmann]]’s parlance, you cannot escape the free market force coordinating [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things. |the triad]] 
 - People just don’t see how much money there is in being honest (p. 67)
-- Munger was at Salomon? (p. 67)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[2-1b2d1 Consistency builds trust]]
+	- [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]]
+- Munger was on the board of directors of Salomon (p. 67) #revisit 
 - A great reputation is like virginity (p. 67) 
-	- relate with falsification notes
+	- Relatable falsification notes
+		- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+		- [[1-2f1b5 検証と反証には非対称性がある]]
+		- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+		- [[9-2a3b0.1 ロスは速攻切る。勝ちポジションは徐々に積み上げていく。損益に対して生じる非対称な行動心理を予め計算に入れておくこと。]]
+		- [[9-2a3b0.2 Understand the downside 5 to 10 years from now]]
 - [[Sol Price]]: “Success in business came from deciding which business you could intelligently do without” (p. 68) 
 	- [[1-2f1b9 Repeat what works]]
 	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
@@ -297,13 +310,24 @@ date: 2024-08-15
 	- See how [[Sol Price]] came up with the idea of membership business model
 		- [[4-1a3b Go to specific places to get specific feedbacks]]
 		- [[4-1a5a If you properly set up the conversation you only need a handful of conversations for insights (e.g., via client slicing and segmentation)]]
-- Conduct Unbecoming an Officer (munger was at the military office as well?) (p. 69)
+- Conduct Unbecoming an Officer (Munger was at the military office as well?) (p. 69)
 - Teach with what you do, not what you say (p. 69) 
-	- relate with seeing the front notes
+	- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+	- [[3-1b1b1 No learning without doing; specifically, no learning without cultural doing]]
+	- [[5-2c1 You perceive yourself by what you do repeatedly, just as you judge others by their routine behaviors.]]
+	- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
+	- [[10-1b1 It is the body that learns - '考えるな. 感じろ.']]
+	- [[10-1b1a Experts develop higher proportion of unconscious knowledge than beginners]]
 - Peer pressure on the young is far more important (p. 70) 
-	- relate with concentric learning notes and culture notes
+	- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+		- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 - It pays to hang around with people better than you are because you’ll float upward a little bit. Bad company corrupts good character (p. 70) 
-	- relate with the five average notes
+	- [[1-1a5b2.1 Be very mindful of where you 'experiment'; one of the most important decisions you can make is who you get feedbacks from (as well as ask questions of)]]
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+	- [[2-1a1a3c Belong where your desired habits are the norm]]
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+	- [[7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you]]
+	- [[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain]]
 ### Be a jerk and treat people really badly #TODO 
 - It’s nice to be important, but more important to be nice (p. 70) 
 	- relate with notes on being nice
@@ -319,14 +343,26 @@ date: 2024-08-15
 - Find, emulate, and associate with good people (and good businesses) (p. 72)
 - Remember Grant McFayden, he didn’t need a lawyer (p. 72)
 - Read Rules for Making Oneself a Disagreeable Companion, by Ben Franklin (pp. 72-73)
-### Have a job that makes you feel miserable #TODO 
+### Have a job that makes you feel miserable
 - Passion is not the sufficient factor, but likely necessary for success (p. 73) 
-	- relate with Kobe Bryant quote and absence of evidence notes
+	- [Kobe Bryant](https://davidsnotes.substack.com/p/kobe-bryant): “It was easy to size other players up in the NBA. I found that a lot of guys played for financial stability. Once they got that financial stability the passion, the work ethic, and the obsessiveness was gone. Once I saw that I thought, *This is going to be like taking candy from a baby. No wonder Michael Jordan wins all these fucking championships*.” #revisit 
+		- [[5-1b4c2 No wonder why someone who is having fun is genuinely great at what they do. Because you have to have fun to achieve great things.]]
 - There’s no substitute for strong interest (p. 73)
+	- [[2-1a0c1c Purpose (and curiosity) beats for-profit]]
+	- [[2-1a3.2 Curiosity begets both network effects and feedback loops]]
+	- [[2-1a7 'Curiosity instinct' - Curiosity alone can drive humans into ideas without any (at least obvious) financial incentives]]
+	- [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge]]
+	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]
+	- [[RUL3 - “Always produce” is a good heuristic for finding the work you love]]
 - Munger’s three basic rules: [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy. |don’t sell anything you wouldn’t buy yourself; don’t work for anyone you don’t respect and admire; work only with people you enjoy]] (p. 74) 
-	- relate with previous memo on deliver what you would buy if you were on the other side
+	- Take the Golden Rule seriously
 - Particularly avoid working directly under somebody you don’t admire and don’t want to be like. Maybe you have to keep doing it to keep eating for a while but don’t settle for it. You just go out and find somebody else. (p. 74)
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Make yourself a person that you would want to hire. Trustworthiness is more important than brains. (p. 74)
+	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
+	- Follow the Golden Rule (also see p. 26, p. 38, p. 85, p. 41)
 ### Work with something that goes against your nature and talent
 - The best knows that they are playing their game (p. 74)
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
