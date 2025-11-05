@@ -248,6 +248,7 @@ date: 2024-08-15
 	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
 	- [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]
 	- relate with DMU notes #revisit
+		- but [[2-1e Everything is connected in a complex way]]
 ### Overly care about what other people think about you
 
 ### Let other people set your agenda in life
@@ -280,13 +281,14 @@ date: 2024-08-15
 ### When in trouble feel sorry for yourself
 ### Get even and take revenge even if you hurt yourself #TODO 
 - Relate with give it time and distance yourself notes (p. 64)
+	- don’t be [[Carlo Cipolla |stupid]]
 ### Be envious
 - Improving yourself >>> Penalizing others. (p. 65) 
 	- See [[Carlo Cipolla]]
 - Envy is simply negative-sum, rule it out (p. 66)
 	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 	- [[2-1c4 100x-ing the pie ＞ slicing extra few %]]
-### Be unreliable and unethical #TODO 
+### Be unreliable and unethical
 - You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve (p. 67)
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
@@ -310,12 +312,17 @@ date: 2024-08-15
 	- See how [[Sol Price]] came up with the idea of membership business model
 		- [[4-1a3b Go to specific places to get specific feedbacks]]
 		- [[4-1a5a If you properly set up the conversation you only need a handful of conversations for insights (e.g., via client slicing and segmentation)]]
-- Conduct Unbecoming an Officer (Munger was at the military office as well?) (p. 69)
-- Teach with what you do, not what you say (p. 69) 
+- Conduct Unbecoming an Officer (p. 69)
+	- Munger: “If you rise high in a corporation or elsewhere in life, you have a duty to be an exemplar—you have a duty to take less than you deserve, to set an example.”
+	- Munger: “The best method for training your children is to be the proper example.”
+- Buffett: “You teach with what you do, not what you say.” (p. 69) 
+	- [[1-1a5b3 Ship at least every month. Scope down until you have no excuse not to ship. Being output-project-oriented means being payoff-oriented.]]
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
 	- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
 	- [[3-1b1b1 No learning without doing; specifically, no learning without cultural doing]]
 	- [[5-2c1 You perceive yourself by what you do repeatedly, just as you judge others by their routine behaviors.]]
 	- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
+	- [[9-2a1.1 Idea is direction. Execution is speed.]] #revisit 
 	- [[10-1b1 It is the body that learns - '考えるな. 感じろ.']]
 	- [[10-1b1a Experts develop higher proportion of unconscious knowledge than beginners]]
 - Peer pressure on the young is far more important (p. 70) 
@@ -328,21 +335,45 @@ date: 2024-08-15
 	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 	- [[7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you]]
 	- [[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain]]
-### Be a jerk and treat people really badly #TODO 
+### Be a jerk and treat people really badly
 - It’s nice to be important, but more important to be nice (p. 70) 
-	- relate with notes on being nice
+	- [[5-1a4.2 You can be nicer via error-correction]]
+- Buffett: “Be a nice person… Look around at the people you like. If you like traits of other people, doesn’t it follow that other people would like you if you have those same traits?”
+	- [[9-4b2a1d0.3 The essence of analysis is articulation - 分析の本質は分節]]
+	- [[10-1b4f Digitization implies displacement and composability]]
 - You’ll meet a lot of people you initially think they are one-stops but they aren’t (p. 71) 
-	- relate with second order effect notes
-- Deliver what you would buy if you were in the other end (p. 71) 
-	- relate with other similar quotes and notes from munger
+	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+	- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
+	- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+	- [[5-1b3 How much we can change is also unpredictable]]
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+	- [[9-2a3 Be long volatility with people]]
+- Deliver what you would buy if you were on the other side (p. 71) 
+	- Follow the Golden Rule (also see p. 26, p. 38, p. 74, p. 85, p. 41)
 - Success is getting what you want and happiness is wanting what you get (p. 71) #revisit 
+	- Naval: “It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire”
+		- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+		- [[3-1b0 Think forward, but also think in reverse via inversion]]
+		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
+		- [[5-2a0 Know what to measure]]
+		- [[12-1e2 There is no objective happiness]]
+		- [[12-1e4 Nothing is objectively and independently good]]
+		- [[RUL3 - Invert, always invert]]
 - Be lovable. You always get back more than you give away. If you don’t give any you want get any. (p. 71)
-- Ben Graham and the list of unattractive qualities in other people (p. 71) 
-	- inversion at play
-- Show up on time; don’t steal credit; don’t cut corners; avoid envy (p. 71)
+	- [[2-1c3 'Win and help win' always outcompete]]
+	- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
+	- [[2-6 You get what you pay for]]
+	- [[RUL3 Look for an ongoing trade of knowledge. Can I learn from him. Can I teach him something.]]
+- Buffett: “Ben Graham made a list of the qualities he admired in other people; and he made a list also of the qualities that he found unattractive in other people. Anybody can **show up on time**; they cannot **claim credit for ideas that are not their own**; they cannot **[[1-2g1b2 Don’t pay as much attention to people’s conclusions as to the reasoning that led them to their conclusions |cut corners]]**; they can **avoid envy**. All of those things are doable and they make an enormous difference in how you function, not only in your job, but in society, subsequently.” (p. 71) #revisit 
+	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+	- [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
 - Find, emulate, and associate with good people (and good businesses) (p. 72)
-- Remember Grant McFayden, he didn’t need a lawyer (p. 72)
-- Read Rules for Making Oneself a Disagreeable Companion, by Ben Franklin (pp. 72-73)
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+	- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
+- Remember Grant McFayden, “who fixes problems promptly and is nice, hardly generates any legal work at all” (p. 72)
+- Read *Rules for Making Oneself a Disagreeable Companion*, by [[Benjamin Franklin |Ben Franklin]] (pp. 72-73)
 ### Have a job that makes you feel miserable
 - Passion is not the sufficient factor, but likely necessary for success (p. 73) 
 	- [Kobe Bryant](https://davidsnotes.substack.com/p/kobe-bryant): “It was easy to size other players up in the NBA. I found that a lot of guys played for financial stability. Once they got that financial stability the passion, the work ethic, and the obsessiveness was gone. Once I saw that I thought, *This is going to be like taking candy from a baby. No wonder Michael Jordan wins all these fucking championships*.” #revisit 

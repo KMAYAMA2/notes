@@ -31,4 +31,5 @@ date: 2025-08-08
 	- mediocrity is always invisible until passion shows up and exposes it (26m)
 	- the Golden Rule 2.0: how to turn adversaries into allies—*he that has once has done you a Kindness will be more ready to do another, than he whom you yourself have obliged.* #revisit 
 		- The Ben Franklin Effect—Ben Franklin discovered that a person who has done someone a favor is more likely to do that person another favor than they would be had they received a favor. This simple technique can be used to gain your favor or create a sense of indebt to others.
-			- relate biases notes
+			- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
+				- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]

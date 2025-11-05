@@ -104,6 +104,7 @@ date: 2024-08-12
 	- “Memory and identity are burdens from the past preventing us from living freely in the present.”
 	- **It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire**.
 		- Play stupid games, win stupid prizes.
+			- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 	- “There are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |unlimited]] external problems. The only way to actually get peace on the inside is by giving up this idea of problems.”
 - Envy Is the Enemy of Happiness
 	- Whenever the word *[[12-1e3 There is no should in nature |should]]* creeps up in your mind, it’s guilt or social programming.

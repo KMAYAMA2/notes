@@ -12,3 +12,6 @@ E.g., ‘normal’ people won’t vote on Polymarket
 [[1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts']]
 
 [[1-2g3.1 It’s explanations all the way down]]
+
+[[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
+- You won’t envy someone you admire #develop 

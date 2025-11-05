@@ -14,6 +14,7 @@ Next:
 
 Related:
 - [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+- [[2-1b2d1 Consistency builds trust]]
 - **[[2-3b0 Knowledge creation is not a function of time]]**
 - [[5-1b3 How much we can change is also unpredictable]]
 - [[5-1b4c1c Align your short-term reward with your long-term vision]]

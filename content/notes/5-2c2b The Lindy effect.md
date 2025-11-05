@@ -12,7 +12,7 @@ Related:
 
 Contradictory:
 - [[5-2c2c The probability of extinction is effectively independent of its age (Van Valen)]]
-- [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
+- [[5-1a4.1 The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 
 #develop 
 #MentalModels 

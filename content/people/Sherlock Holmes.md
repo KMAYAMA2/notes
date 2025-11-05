@@ -39,7 +39,7 @@
 		- Related: [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
 		- Related: [[1-1a5a1 The process of argument starts in the middle, and doesn’t start with axioms and end with the conclusion]]
 - Being nice is hardly the evidence of innocence
-	- Related: [[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
+	- Related: [[5-1a4.1 The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
 - Start with collecting facts and follow them where they lead
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
 		- Related: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]

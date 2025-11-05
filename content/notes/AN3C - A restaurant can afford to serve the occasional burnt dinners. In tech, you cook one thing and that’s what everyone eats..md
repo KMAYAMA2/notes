@@ -6,4 +6,4 @@ Contradictory (e.g., one tweet can do it all for restos):
 
 Crazy connection:
 [[5-1a Be nice]]
-[[The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]
+[[5-1a4.1 The world is becoming ever more transparent and unpredictable. You have to be nice, but you can’t be nice to everybody all the time unless you really are nice to begin with.]]

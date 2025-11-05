@@ -17,3 +17,5 @@ Structured procrastination #develop
 
 **But remember:**
 [[3-1b1 Occasionally revisit the problem itself. Occasionally check in on long-term.]]
+
+[[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]

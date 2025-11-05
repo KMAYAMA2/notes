@@ -1,1 +1,0 @@
-But being nice is hardly the evidence of innocence
