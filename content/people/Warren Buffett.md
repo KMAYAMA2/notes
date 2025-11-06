@@ -206,12 +206,24 @@ date: 2024-08-15
 	- [[12-1e0 Everything changes]]
 - Things take longer for it to happen, and when it happens it happens faster than you think (p. 46) 
 	- relate with notes on change and similar memos
+	- takes longer 
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 - On new-form Gresham’s Law. Bad lending drives out good. (p. 46)
-- Nothing draws a crowd like a crowd. “Fools rush in where angels fear to trade.” (p. 46) 
-	- relate with imitation memos and notes #revisit 
-- The first chance you have to avoid a loss from a foolish loan is by refusing to make it; there’s no second chance (p. 46) 
-	- relate with wisdom is prevention memos and notes
+- P. T. Barnum: “Nothing draws a crowd like a crowd” (p. 46)
+	- [[5-1b1b1a2.1 Network effect means scaling increasingly]] #revisit 
+- Ray DeVoe: “Fools rush in where angels fear to trade” (p. 46) 
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[3-1a4b2b What is smart at one price is dumb at another]]
+	- [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess]]
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- The first chance you have to avoid a loss from a foolish loan is by refusing to make it—there’s no second chance (p. 46)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+	- [[2-1b2b2.1 Life is a multiplicative game—take advantage of network effects but avoid the risk of ruin]]
 - It’s similar to Newton’s first law (that of inertia) (p. 47) 
 	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
 	- [[2-1a6c2 Establishing rituals is the key to creating positive inertia]]
@@ -255,13 +267,24 @@ date: 2024-08-15
 - Say no (p. 51)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 ### Live above your means
-### Go heavily into debt #TODO 
-- On fretting on leveraged financial institutions. (p. 55) 
-	- Being conservative can make Berkshire look like losing money 99 times out of 100, but in the crucial 1 time Berkshire is designed to survive
-		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
-		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
-		- Also see my *400 pages of Buffett and Munger* (Founders #380) memos below
-		- It’s [[6-8 Train your weakest link |the weakest link]] which gets hit (e.g., see pp. 54-55)
+### Go heavily into debt
+- Buffett: "Frequently, in the financial markets, the weak link is borrowed money" (p. 55)
+	- It’s [[6-8 Train your weakest link |the weakest link]] which gets hit
+- Munger: “Where you have complexity, by nature you can have fraud and mistakes. If you want accurate numbers from financial companies, you’re in the wrong world.” (p. 55)
+	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[5-2a0 Know what to measure]]
+	- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
+- Munger: “We fret way earlier than other people. We’ve left a lot of money on the table through early fretting. It’s the way we are.” (p. 55)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- Munger: “One of the very interesting thing about Berkshire Hathaway is how chicken it is, how cautious, how low is its leverage” (p. 56)
+- Buffett: “We basically never borrow money… We only use borrowed money in our utility business” (p. 56) #revisit 
+- Buffett: “Why be exposed to ruin and disgrace and embarrassment for some extra return that’s not meaningful” (p. 56)
+- On fretting on leveraged financial institutions—being conservative can make Berkshire look like losing money 99 times out of 100, but in the crucial 1 time Berkshire is designed to survive (also see my *400 pages of Buffett and Munger*—from Founders episode #380—memos below)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 ### Go down and stay down when bad things happen #TODO 
 - Low expectations, humor, friends and family (p. 57)
 - Interest rate independent (p. 58) 
@@ -270,7 +293,10 @@ date: 2024-08-15
 	- relate with the same memos
 	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
 	- See also pp. 54-55 above
-- Usually when the time is right the credit is tight. Have loaded gun. (p. 59)
+- Usually when the time is right the credit is tight—have loaded gun (p. 59)
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[13-8a2.1 Money is the present good par excellence]]
 - Shakespeare quote on the black swan event (p. 61) 
 	- relate probability notes with black swan notes
 - Be wary of low probability events in financial arena than natural arena (p. 61) 
@@ -279,9 +305,14 @@ date: 2024-08-15
 - Margin of safety is related with the black swan (p. 62)
 - And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
 ### When in trouble feel sorry for yourself
-### Get even and take revenge even if you hurt yourself #TODO 
-- Relate with give it time and distance yourself notes (p. 64)
-	- don’t be [[Carlo Cipolla |stupid]]
+### Get even and take revenge even if you hurt yourself
+- Munger: “Disraeli learned to give up vengeance as a motivation for action, but he did retain some outlet for resentment by putting the names of people who wronged him on pieces of paper in a drawer. Then, from time to time, he reviewed these names and took pleasure in noting the way the world had taken his enemies down without his assistance.”
+	- [[2-1c3 'Win and help win' always outcompete]]
+	- [[2-6 You get what you pay for]]
+- Buffett: “Tom gave me one of the best pieces of advice I’ve ever received. He said, *Warren, you can always tell someone to go to hell tomorrow*.” (p. 64)
+	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
+	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
+- Don’t be [[Carlo Cipolla |stupid]]
 ### Be envious
 - Improving yourself >>> Penalizing others. (p. 65) 
 	- See [[Carlo Cipolla]]

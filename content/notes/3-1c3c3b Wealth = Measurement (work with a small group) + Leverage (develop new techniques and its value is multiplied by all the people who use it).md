@@ -1,6 +1,6 @@
 > “I would love to be paid purely for my judgement, not for any work. I want a robot, capital, or computer to do the work, but I want to be paid for my judgement.” – [[Naval Ravikant]]
 
-Relate with infinite leverage memos and notes—that there is no infinite leverage, that growth has its limits. #TODO 
+Relate with infinite leverage memos and notes—that there is no infinite leverage, that growth has its limits (e.g., see [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]) #TODO 
 
 [[Henry Ford]] built his wealth via mass-production.
 

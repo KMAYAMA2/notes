@@ -17,3 +17,14 @@ Related:
 - **[[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]**
 - [[9-4b2d1 Explanatory knowledge creation ≠ Biological knowledge (the former, specifically scientific knowledge, is more composable, and thus more universal)]]
 - [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+- On imitation
+	- [[1-2g1d We are universal explainers. We can transcend our biological limitations.]]
+	- [[1-2g2j3 Life itself is iconic (imitation-copying)]]
+	- [[10-1b4a Learning is imitation and testing]]
+- Think for yourself
+	- [[3-1a4b2b What is smart at one price is dumb at another]]
+	- [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess]]
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]

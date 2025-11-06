@@ -17,7 +17,7 @@ Related:
 	- [[5-2a1 You get what you measure]]
 	- [[5-2a2 What gets measured gets managed]]
 	- [[5-2a0 Know what to measure]]
-	- [[There are things that cannot be measured]]
+	- [[5-2a0.1 There are things that cannot be measured]]
 
 - [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 - [[RUL3 - Always be ready to face the ultimate choice. Know what's important for you. Eliminate ambiguity.]]

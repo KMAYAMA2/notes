@@ -134,7 +134,7 @@
 - Even the classical economists were slow to free themselves from this error. With them value was something objective, i.e., a phenomenon of the external world and a quality inherent in things and therefore measurable. They utterly failed to comprehend the purely human and voluntaristic character of value judgments. (pp. 360-361)
 	- E.g., see [[Saifedean Ammous |Ammous]]’ *Principles of Economics* Chapter 2.
 - It is not only a task of economic science to discard the errors concerning measurability in the field of action. It is no less a task of economic policy. For the failures of present-day economic policies are to some extent due to the lamentable confusion brought about by the idea that there is something fixed and therefore measurable in interhuman relations. (p. 361)
-	- Related: [[There are things that cannot be measured]]. #develop 
+	- Related: [[5-2a0.1 There are things that cannot be measured]]. #develop 
 #### 4. Stabilization
 - The urge toward action, i.e., improvement of the conditions of life, is inborn in man. Man himself changes from moment to moment and his valuations, volitions, and acts change with him. In the realm of action there is nothing perpetual but change. There is no fixed point in this ceaseless fluctuation other than the eternal aprioristic categories of action. (p. 361)
 - The goal assigned to the policy of stabilization is the preservation of the immutability of this money expenditure. This would be all right if the housewife and her imaginary basket were constant elements, if the basket were always to contain the same goods and the same quantity of each and if the role which this assortment of goods plays in the family’s life were not to change. But we are living in a world in which none of these conditions is realized. (pp. 362-363)
@@ -153,7 +153,7 @@
 	- Relate: [[David Deutsch]] and [[Elie Ayache]] #Ayache
 - In the imaginary—and, of course, unrealizable—state of rigidity and stability there are no changes to be measured. In the actual world of permanent change there are no fixed points, objects, qualities or relations with regard to which changes could be measured. (p. 367)
 	- Related: [[5-2a0 Know what to measure|5-2a0 Know what to measure]]. #develop 
-	- Related: [[There are things that cannot be measured]]. #develop 
+	- Related: [[5-2a0.1 There are things that cannot be measured]]. #develop 
 #### 5. The Root of the Stabilization Idea
 - The fact that rigidity in the monetary unit’s purchasing power is unthinkable and unrealizable does not impair the methods of economic calculation. What economic calculation requires is a monetary system whose functioning is not sabotaged by government interference. (p. 367)
 - Changes in the relation between the supply of and the demand for the precious metals and the resulting alterations in purchasing power went on so slowly that the entrepreneur’s economic calculation could disregard them without going too far afield. (pp. 367-368)

@@ -1,6 +1,8 @@
 ---
 date: 2024-09-14
 ---
+> “One of the things you will find, which is interesting and people don’t think of it enough, with most businesses and with most individuals, life tends to snap you at your weakest link. So it isn’t the strongest link you’re looking for among the individuals in the room. It isn’t even the average strength of the chain. It’s the weakest link that causes the problem.” – [[Warren Buffett]]
+
 Jerzy Gregorek says it’s usually one organ that causes all the others to fail. 
 
 And he relates this to joints. Your weightlifting performance (e.g., squat) can improve a lot, for example, by addressing the mobility of ankles—just by few degrees.

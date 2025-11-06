@@ -10,7 +10,7 @@ Related:
 - [[4-1a4b6a0a Knowledge ≠ Money]] (But not necessarily) #develop 
 - [[5-2 What counts cannot be counted]]
 - [[5-2a2 What gets measured gets managed]]
-- [[There are things that cannot be measured]]
+- [[5-2a0.1 There are things that cannot be measured]]
 	- [[13-1a3a1a1 Only monetary income (or loss) can be observed and measured ex post—never psychic income (or loss)]]
 	- [[13-1a3a2d4 The purchasing power of money in terms of all other commodities is continually changing, and there is no way to measure such changes]]
 - [[RUL3 - Any system should be measured by how much it can help with whatever its output.]]
