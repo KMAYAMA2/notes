@@ -3,5 +3,5 @@
 [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 [[9-4b2f The most important source of variation in explanatory theories is creativity. More ‘jumps’ via creativity allows qualitatively different types of ‘mutations’.]]
 [[4-1a4b6b1 Ideas and its contexts applied are arbitrary]]
-[[Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected.]]
+[[9-4b2b0 Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected.]]
 [[10-2g1b1 Scientific discourses are less fallible because the fundamental theories of physics are exceedingly hard to vary]]

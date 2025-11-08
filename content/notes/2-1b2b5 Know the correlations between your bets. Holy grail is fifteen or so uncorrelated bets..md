@@ -6,12 +6,16 @@ Next:
 Related:
 - [[3-1c3c3 Take ideas seriously, but not too seriously. Don’t be the idea.]]
 - [[5-1b1a4 We can run multiple billion-dollar functions either sequentially or simultaneously. Or preferably both.]]
-- [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time]]
+- **[[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time]]**
 - [[9-4b2c You can host multiple memes both consequentially or simultaneously during your lifetime. A gene in contrast can be hosted only once per life-cycle.]]
 - [[11-4 Diversification can achieve what multiplicity does in the digital]]
 - [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated)]]
 	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 		- [[12-1e Nothing is necessary = Everything is contingent]]
+
+If you know what you’re doing, you’ll be less susceptible to the environment:
+- [[2-1e Everything is connected in a complex way]]
+- [[3-1a4b1.2 Define and stay within your circle of competence]]
 
 But remember:
 - [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]

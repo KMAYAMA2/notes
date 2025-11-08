@@ -848,7 +848,7 @@
         - In memes such information is called _knowledge_
             - The selection of surviving _cultures_ is somewhat analogous to species selection
             - However, memes also evolve by different mechanisms
-                - Genes are random, but [[Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected. |memes are subject to conscious variation and selection]]
+                - Genes are random, but [[9-4b2b0 Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected.|memes are subject to conscious variation and selection]]
                     - Memes can be rejected intentionally _by_ their host
                     - Conscious selection uses a qualitatively different method from biological evolution
                         - **Human minds are capable of knowing what ideas mean**

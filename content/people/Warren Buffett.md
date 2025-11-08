@@ -54,6 +54,7 @@ date: 2024-08-15
 	- [[12-1e4 Nothing is objectively and independently good]]
 ### Turn your body and mind into a wreck
 - Overfear and overavoidance of addiction can never hurt you (p. 19)
+	- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
 	- [[RUL3 - Make a conscious effort to avoid addictions. Ask “is this how I want to be spending my time”]]
 ### Only learn from your own terrible experiences
 - Study history. Buffett likes financial history. (pp. 19-20)
@@ -240,12 +241,16 @@ date: 2024-08-15
 - “We tell them to go out and play golf. We sure as hell don’t want to make any dumb loans.” (p. 48) 
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 - Mark Twain: [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect” |“Whenever you find yourself on the side of the majority, it is time to pause and reflect”]] (p. 48)
-- Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49) 
+- Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49)
+	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- [[1-2g3.1 It’s explanations all the way down]]
+	- [[1-1a3 We repeatedly update our theories, including theories about how the mind works, and keep making sense of the world]]
 	- relate with judgement notes
 	- relate with (or create) you need a consistent worldview of your own, and you must keep updating it by yourself 
-	- relate with knowledge is created individually notes #revisit 
 - If you don’t work hard at it, you will fall victim to the folly of the crowd, and there will always be folly of the crowd (p. 49) 
-	- relate with there’s always anti-rational memes notes
+	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
 	- relate with recalibration notes
 	- relate with stupidity notes (there are dumb people in every professional domains)
 - A public opinion poll is no substitute for thought. We want to think. (p. 49)
@@ -285,25 +290,91 @@ date: 2024-08-15
 - On fretting on leveraged financial institutions—being conservative can make Berkshire look like losing money 99 times out of 100, but in the crucial 1 time Berkshire is designed to survive (also see my *400 pages of Buffett and Munger*—from Founders episode #380—memos below)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
-### Go down and stay down when bad things happen #TODO 
-- Low expectations, humor, friends and family (p. 57)
-- Interest rate independent (p. 58) 
-	- because interest is subjective phenomena and how Berkshire operates has nothing to do with natural rate of interest... #revisit 
-- margin of safety is there to avoid ruin—on that 1 time out of 100 (pp. 58-59)
-	- relate with the same memos
-	- relate with Ray Dalio’s uncorrelated bet and Berkshire’s diverse businesses holding
+### Go down and stay down when bad things happen
+- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]] (p. 57)
+- Munger: “What works best for me in coping with all disappointment is what I call the Jewish method: humor. The three things I have found helping in coping with its challenges are: (1) Have low expectations. (2) Have a sense of humor. (3) Surround yourself with the love of friends and family. Above all live with change and adapt to it.” (p. 57)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
+	- [[9-2c Mark Twain - “Humor is a way to show you’re smart without bragging.”]]
+	- [[10-2g3d1.2 There is no objective history—the past can be recreated and reinterpreted]]
+- Munger: “I have found that life is easier to handle if you employ just one simple mental trick. **Just assume something will be really tough and you think, ‘Can I bear it if that happens?’ If you reach the conclusion yes, you just smile and go on.**” (p. 57) #revisit 
+	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+- Margin of safety is there to avoid ruin—on that 1 time out of 100 (pp. 58-59)
 	- See also pp. 54-55 above
+	- Munger: “We try to run our affairs so that no matter what happens, we’ll never have to ‘go back to go.’” (p. 58)
+		- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- Munger: “We try to operate so that really extreme interest rates in either direction wouldn’t be too bad for us” (p. 58)
+		- Interest rate independence
+			- Interest is about subjective phenomena of others—to which Berkshire’s operation has nothing to do with (its focus is on the fundamental) #revisit 
+				- [[2-1a0c1d1 Focus on the few variables]]
+				- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+				- [[13-4d5a The rate of interest is derived from subjective values]]
+				- [[13-5b2j There is no natural rate of interest in reality]]
+				- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
+				- [[13-5f1 You must evoke others to explain the interest rate]]
+	- Buffett: “We concentrate on conservatively financed businesses with strong competitive strengths, run by able and honest people. If we buy into these companies at sensible prices, losses should be rare.” (p. 58)
+		- [[1-1c6a3.0 The decision should be obvious]]
+		- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+		- [[3-1a4b2b What is smart at one price is dumb at another]]
+	- Buffett: “We think about worst cases all the time and add on a margin of safety… always leaving some extra room for things” (p. 58)
+		- [[1-2 We are fallible]]
+	- Munger: “Systems need duplicative safety features—backup system one, backup system two, and so on” (p. 58)
+		- Be redundant
+			- [[1-1a2f You are redundant if you are flexible and (close to being) universal - that is, composable and interoperable]]
+			- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+			- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+			- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+	- Buffett: “Charlie and I believe in operating with many redundant layers of liquidity, and we avoid any sort of obligation that could drain our cash in a material way. **That reduces our returns in 99 years out of 100. But we will survive in the 100th while many others fail.** And we will sleep well in all 100.” (p. 59)
+		- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
+	- Also see p. 153 for how Berkshire’s diverse businesses holding is composed 
+		- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+		- [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated)]]
+- Munger: “Have maximum financial flexibility to face both hazards and opportunities” (p. 59)
+	- **[[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]**
 - Usually when the time is right the credit is tight—have loaded gun (p. 59)
 	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- [[13-8a2.1 Money is the present good par excellence]]
-- Shakespeare quote on the black swan event (p. 61) 
-	- relate probability notes with black swan notes
-- Be wary of low probability events in financial arena than natural arena (p. 61) 
-	- because knowledge is subjective and created subjectively it’s more wild than nature. #revisit 
+- Munger: “The risk from having some over-conservatism is just about zero” (p. 60)
+	- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
+- Shakespeare: “There are more things in heaven and earth, Horatio, than are dreamt of” (p. 61) 
+	- [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
+	- [[1-2g2s7c Very unlikely event certainly happens somewhere in the multiverse]]
+	- [[2-3a 'First principles thinking' - If it's not forbidden by the laws of physics, it is possible]]
+	- [[5-1b2.1 Don’t invest in prediction, because the Black Swan is inherently unpredictable]]
+- Buffett: “**People tend to underestimate low probability events when they haven’t happened recently, and overestimate them when they have**… We **think about low probabilities events all the time**. We think more about big events in the financial arena than the natural arena. Financial markets have vulnerabilities that we try to think of and build in ways to protect us against them—and even some capabilities where we might profit in a huge way.” (p. 61)
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
+		- [[2-1a1a6 'Tendency to overgeneralize from small samples']]
+		- [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
+		- [[5-1b4a0.1 New is overvalued relative to great]]
+	- Humans use symbols and [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually |can create knowledge]] (why [[9-4b2b The evolution of ideas (memes) is somewhat intentional, whereas that of genes are random AND cannot be rejected |memes evolve faster than genes]])—hence the financial arena is often more wild than nature #revisit
+		- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+		- [[10-2g2e5 Abstractions exist and affect physical objects. Knowledge makes enormous difference in the world.]]
+		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+			- [[10-2g3 Symbols are shaped by social values, social knowledge, and social structures]]
+			- [[10-2g3b Not all symbols contain knowledge]]
+			- [[10-2g3d Behaviors can be replicators even when its meanings are not (properly) understood, because we can guess the meaning of memes. For rational memes, knowledge is THE replicator.]]
+			- [[10-2g3f Anti-rational memes contain knowledge, and each individual has to discover them]]
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+		- [[5-2c2b0.2 You need resilience against volatility (i.e., Stoic robustness)]]
+		- [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality]]
 - Work with people who understand the Lucretius problem (p. 61)
-- Margin of safety is related with the black swan (p. 62)
+	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+	- [[2-1a5a Evolution doesn't care about lifetime of each individual gene-meme carrier (its sample is beyond your own experience and any human lifetime)]]
+	- [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+	- [[5-1b1a2d Knowledge is by definition unpredictable]]
+	- [[AN3C - There is no way a training could prepare a man for combat]]
+- Margin of safety is related with the Black Swan (p. 62)
+	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+	- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+	- [[5-1b2.1 Don’t invest in prediction, because the Black Swan is inherently unpredictable]]
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 - And again, watch out for the weakest link (e.g., customers and suppliers) because if they go down it might hurt you (p. 62)
+	- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+	- [[6-8 Train your weakest link]]
+		- See also p. 25, p. 55, and p. 62
 ### When in trouble feel sorry for yourself
 ### Get even and take revenge even if you hurt yourself
 - Munger: “Disraeli learned to give up vengeance as a motivation for action, but he did retain some outlet for resentment by putting the names of people who wronged him on pieces of paper in a drawer. Then, from time to time, he reviewed these names and took pleasure in noting the way the world had taken his enemies down without his assistance.”

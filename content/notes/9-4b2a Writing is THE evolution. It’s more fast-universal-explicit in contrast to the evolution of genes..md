@@ -5,4 +5,4 @@
 [[9-4b2a2 Memes can be transmitted from anyone to anyone]]
 [[9-4b2b The evolution of ideas (memes) is somewhat intentional, whereas that of genes are random AND cannot be rejected]]
 
-[[Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected.]]
+[[9-4b2b0 Memes are subject to conscious variation and selection, and can be rejected intentionally, whereas genes are random and can’t be rejected.]]

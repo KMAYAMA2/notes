@@ -8,3 +8,7 @@ Next:
 
 Related:
 - [[1-2g2a The problem of ‘fine-tuning’ should be approached by being honest with what knowledge is, and not anthropocentrically]]
+- **[[5-1b1a8a When using probability, we need an explanation for why that probability applies, because knowledge is unpredictable]]** #revisit 
+
+Contradictory?
+- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
