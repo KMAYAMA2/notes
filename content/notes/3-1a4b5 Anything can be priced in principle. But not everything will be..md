@@ -30,6 +30,11 @@ Related:
 	- Put differently, no pricing model can price everything because there's always something that *slips*. #Ayache 
 		- [[10-2d The medium of expression, language, can also improve indefinitely]]
 		- [[1-2g2t3d2 Knowledge-creation must also imply access to previously inaccessible universes, owning to its unlimited improvability]]
+		- [[1-2g2j1d Cantgotu environments - you will always be proven wrong because no program will render it; you can never prove that you were there]]
+		- [[5-1b1a2c0.1 Perfect replication is impossible]]
+		- [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]
+		- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+		- [[5-1b2.1 Don’t invest in prediction, because the Black Swan is inherently unpredictable]]
 
 - [[5-2a3 People fight over tangibles]]
 	- [[12-1a2a2 資本は資本の一元性を好み、商品は商品の多様性を好む]]

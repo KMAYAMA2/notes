@@ -553,18 +553,41 @@ date: 2024-08-15
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - It’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
 ### Associate with assholes #TODO 
-- Relate stupid people notes and pigs (p. 81) 
-- Buffett version of surround yourself with better people (p. 81) 
-	- relate with similar notes
-- When you have doubts about a person, you can pass. There are many other nice ones to interface with (p. 82)
+- “Don’t fight with a pig, you’ll just get dirty and the pig likes it” (p. 81)
+- Munger: “Our basic rule has always been that we don’t deal with assholes” (p. 81)
+	- See [[Carlo Cipolla]]
+- Buffett: “You will move in the direction of the crowed that you associate with… You want to associate with first-class people.” (p. 81) 
+	- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+- Munger: “When you have doubts about a person, you can pass. There’s enough nice people to interface with.” (p. 82)
+	- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+		- [[5-1a4.2 You can be nicer via error-correction]]
+		- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
+	- [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+- Munger: “Good character is very efficient. If you can trust people, your systems can be way simpler. There’s enormous efficiency in good character and dis-efficiency in bad character.” (p. 83)
+	- Trust means scalability #revisit 
 - On trust (p. 83) 
-	- no matter how many contracts you sign, the bad actors will find ways
-		- relate with black swan
-	- relate this with Bitcoin and smart contract notes. #revisit 
+	- No matter how many contracts you sign, the bad actors will always find ways
+		- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+		- [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
+		- See [[Carlo Cipolla]]
+- Munger: “If everybody distrusts everybody and tries to protect himself with contracts and procedure, you don’t have the best human culture, you have the worst.” (p. 83)
+	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
+		- [[8-2b2 The most efficient business is one with trust, or one completely without]]—to be more precise, blockchains minimize the trust needed in the network, but that doesn’t mean we don’t need trust #revisit 
 - On decentralization and no second guessing (p. 84)
-- Leave them alone, and treat them they you would like to be treated if the role is reversed, the Golden Rule again (p. 85) #revisit 
-- Lack of oversight means we miss some things but overall it is a benefit (pp. 86-87) 
-	- relate with long term thinking memos and notes.
+	- [[2-1b2e0 The less guessing layers the better]]
+- Leave them alone, and treat them with how you would like to be treated if the role is reversed—the Golden Rule again (p. 85) #revisit 
+- Lack of oversight means we miss some things but overall it is a benefit (pp. 86-87)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
+	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+	- [[3-1b1 Occasionally revisit the problem itself. Occasionally check in on long-term.]]
+	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
 - Culture, not rule books, determines organizations (p. 87) 
 	- elaborate #revisit
 - People see what’s been done than said, both in children and businesses (p. 87) 
