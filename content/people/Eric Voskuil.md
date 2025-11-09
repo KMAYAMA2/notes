@@ -307,9 +307,9 @@ The table in [Credit Expansion Fallacy] is adjusted as follows:
 - As shown in [Credit Expansion Fallacy], Bitcoin cannot limit credit expansion.
 - Using credit is an irrational approach, since Bitcoin is not credit.
 - Base Money scenario:
-	- $527,016 / ((1 + .072)^10) → ==$263,508==
+	- 527,016 ÷ ((1 + .072)10) → 263,508
 - Black Market Money scenario:
-	- $263,508 x .28 → ==$73,782==
+	- 263,508 x .28 → 73,782
 		- This is assuming 100% of black market activity in Bitcoin.  
 - This estimate does not consider the [Stability Property] of Bitcoin. It is possible that trade would be forced into monetary substitutes before the currently-implied future adoption can be reached.
 ## Scarcity Fallacy 
