@@ -1,6 +1,8 @@
-This is where [[Warren Buffett]] and [[Charlie Munger]] meet [[Marc Andreessen]]
+This is where [[Warren Buffett]] and [[Charlie Munger]] meet [[Marc Andreessen]]—get out leaking boat fast and avoid parade-tiptoe problems.
 
 Related:
+- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
 - [[5-2 What counts cannot be counted]]
 - [[5-3 Don’t fight. Transcend.]]
 - [[13-4 Time is scarce because action involves choosing one thing over others]]

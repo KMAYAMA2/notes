@@ -171,7 +171,7 @@ date: 2024-08-15
 - On the “independent” board members (p. 41)
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 	- [[2-6 You get what you pay for]]
-### Mindlessly imitate the latest fads and fashions #TODO 
+### Mindlessly imitate the latest fads and fashions
 - Sam Goldwyn: “Include me out” (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 - Postpone yes, and say no sooner (p. 42)
@@ -182,20 +182,29 @@ date: 2024-08-15
 	- See [[Daniel Everett]] and Charles Sanders Peirce
 	- *What the wise man does in the beginning, the fool does in the end*
 		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
-- On bubble. On boom and bust. People dance thinking they can leave right before midnight, but the problem is that the clock has no hands (p. 43)
+- Buffett on bubbles: “The giddy participants all plan to leave just seconds before midnight. There’s a problem, though: They are dancing in a room in which the clocks have no hands.” (p. 43)
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
 - An originally sound premise turns to focused solely on the price action (p. 43) #revisit 
 	- Always test and [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibrate]] your thesis (not limited to investment)
 	- [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - Bad ideas are born good. [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess |It’s easy to push a really good idea to wretched excess]]. (p. 44) 
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 	- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 	- [[7-1 Create what people want or will want]]
 	- [[12-1e0 Everything changes]]
-	- Relate with check the implication from deviation between the price quotations (the Portfolio Structure) and the underlying business operation (the Plan Structure) memos #TODO 
+	- [[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]
 - The crazy greed, the crazy leverage, the crazy delusions—human behavior stays the same, only the objects of the folly changes (p. 44)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - It’s not the bad idea but the good one carried to excess that do you in (p. 44) 
-	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']] #revisit 
+	- [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess]]
+		- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+		- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']] #revisit 
 - On the 2007 housing crisis (pp. 44-45) #revisit 
 - Delusions produce bubbles (p. 45)
 - When you buy something for a sound reason, make sure the reason stays sound (p. 45) 
@@ -205,11 +214,24 @@ date: 2024-08-15
 	- [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
 	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 	- [[12-1e0 Everything changes]]
-- Things take longer for it to happen, and when it happens it happens faster than you think (p. 46) 
-	- relate with notes on change and similar memos
-	- takes longer 
+- Things take longer for it to happen, and when it happens it happens faster than you think (p. 46) #revisit 
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
-- On new-form Gresham’s Law. Bad lending drives out good. (p. 46)
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]—it takes longer and costs more than you think
+- Munger on new-form Gresham’s Law: “There’s a lot of new-form Gresham’s Law out there where the bad practice drives out the good. If you run a nice conservative bank and some other guy has a bank and does a lot of very aggressive things that appear to work, and he reports higher and higher profits—the pressure to join the crowed on the guy at the lagging bank is huge.” (p. 46)
+	- Bad lenders drive out the good ones
+		- [[2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')]]
+			- [[6-3b3g Federated (protocol) networks have a tendency, a fundamental by-product of their architecture, to evolve into corporate networks because network effects ensure that small advantages compound to create big winners]]
+		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+			- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+			- [[13-8a2.1 Money is the present good par excellence]]
+	- [[2-1b4 Not fighting can win you the battle]]
+		- Get out leaking boat fast—see p. 205 and p. 19
+		- Avoid parade-tiptoe situation—see p. 215
+	- [[2-1e Everything is connected in a complex way]]
+		- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+	- See also p. 216
+	- On original Gresham’s Law, see [[Saifedean Ammous]] pp. 47-48
+		- The law contributed to the British pound’s downfall relative to USD)
 - P. T. Barnum: “Nothing draws a crowd like a crowd” (p. 46)
 	- [[5-1b1b1a2.1 Network effect means scaling increasingly]] #revisit 
 - Ray DeVoe: “Fools rush in where angels fear to trade” (p. 46) 
@@ -225,16 +247,21 @@ date: 2024-08-15
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
 	- [[2-1b2b2.1 Life is a multiplicative game—take advantage of network effects but avoid the risk of ruin]]
-- It’s similar to Newton’s first law (that of inertia) (p. 47) 
+- Buffett: “As if governed by Newton’s First Law of Motion, an institution will resist any change in its current direction… Just as work expands to fill available time, corporate projects or acquisitions will materialize to soak up available funds.”
+	- [[2-1a0a1 Don't waste time unnecessarily complicating things]]
+	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
 	- [[2-1a6c2 Establishing rituals is the key to creating positive inertia]]
 	- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- Incentives (i.e., *the institutional imperative*) partly explains why things take longer and costs more #revisit 
 - Beware, and work with people who are also aware, the ‘institutional imperative’ (p. 47)
 	- [[1-1c6a1a Pay attention to what can’t be said (e.g., taboos)]]
 	- [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
 	- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 	- [[RUL3 - It’s useful to ask why about things that seem wrong, and especially ones that seem wrong but somehow funny.]]
 - ‘Everybody else is doing it’ is a red flag (p. 48)
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - Unusual managerial discipline is required to measure profitability over volume. (p. 48) 
 	- [[5-2a0 Know what to measure]]
 	- [[5-2a1 You get what you measure]]
@@ -242,30 +269,39 @@ date: 2024-08-15
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 - Mark Twain: [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect” |“Whenever you find yourself on the side of the majority, it is time to pause and reflect”]] (p. 48)
 - Temperament is about an emotional stability and an inner peace about your judgements and it comes from ability to think for yourself (p. 49)
-	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
-	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
-	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
-	- [[1-2g3.1 It’s explanations all the way down]]
-	- [[1-1a3 We repeatedly update our theories, including theories about how the mind works, and keep making sense of the world]]
-	- relate with judgement notes
-	- relate with (or create) you need a consistent worldview of your own, and you must keep updating it by yourself 
+	- And you have to keep at it
+		- [[1-1a4 We don’t just take in ‘new things’ into our mind; at the same time, we recalibrate the framework with which such new inputs can be processed.]]
+		- [[1-1a4a If you don’t recalibrate your framework, ‘contradictions’ will surely pile up]]
+		- [[1-2g3.1 It’s explanations all the way down]]
+		- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
+		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+		- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 - If you don’t work hard at it, you will fall victim to the folly of the crowd, and there will always be folly of the crowd (p. 49) 
+	- [[1-1a4a If you don’t recalibrate your framework, ‘contradictions’ will surely pile up]]
 	- [[1-1c2a There is no escape we are and will be shaped by anti-rational memes]]
-	- relate with recalibration notes
-	- relate with stupidity notes (there are dumb people in every professional domains)
+	- [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
+	- Remember the second basic law of human stupidity—[[Carlo Cipolla |there are dumb people in every professional domains]] #revisit 
+		- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+		- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]] #revisit 
 - A public opinion poll is no substitute for thought. We want to think. (p. 49)
 - You will be right if your hypotheses are correct, if your facts are correct, and if your reasoning is correct. Nothing else. (p. 49) 
-	- relate with Sherlock
-- Trouble with people is they know so much that isn’t true (p. 50) 
+	- See [[Sherlock Holmes]] #revisit #TODO 
+- Trouble with people is they know so much that isn’t true (p. 50)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
-- Everybody gets so much information they lose common sense quote (p. 50) 
-	- relate with social media notes
+- Everybody gets so much information they lose common sense quote (p. 50) #revisit 
+	- [[2-1a0c1d2 Less is often more]]
+	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- [[3-1c1d3 Social media makes news sentiment negative]]
+	- [[3-1c1d4 We are bombarded with ‘unlikely’ events on our social media feed]]
+	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
 - What’s not worth knowing is not worth knowing at all (p. 50) 
 	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
 	- [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]
-	- relate with DMU notes #revisit
-		- but [[2-1e Everything is connected in a complex way]]
+	- Or just follow [[5-1b1b2 Flow to the most interesting, because the Fun Criterion doesn’t distinguish what’s fun via categories. Fun just means fun. |the Fun Criterion]] because [[2-1e Everything is connected in a complex way |everything is connected in a complex way]] #revisit 
 ### Overly care about what other people think about you
 
 ### Let other people set your agenda in life
@@ -936,7 +972,7 @@ date: 2024-08-15
 - You should’ve shorted horses instead of buying up autos. Ask: who loses? (p. 156)
 - Can you name any single American TV or radio manufacturer? (p. 156)
 - Growth in an industry doesn’t mean profitability because of competition (p. 157) 
-	- relate with tiptoe memo and notes (emergent disorder)
+	- Avoid parade-tiptoe problems—see p. 46 and p. 215
 - Munger on Facebook (lol) (p. 157)
 - Business ≠ industry (p. 158) 
 	- relate with individuals ≠ society memos and notes

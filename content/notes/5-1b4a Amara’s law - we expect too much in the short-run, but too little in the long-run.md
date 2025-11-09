@@ -26,3 +26,6 @@ Related:
 - [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]] #develop 
 - [[RUL3 - Write out your goals. It’s amazing how few people do.]]
 - [[AN3C - Don’t write the essay readers expect - one learns nothing from what one expects - be surprising.]]
+
+Counter-measure
+- [[2-1a0c1d1 Focus on the few variables]]

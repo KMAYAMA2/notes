@@ -31,3 +31,8 @@ Related:
 	- [[2-1c1a1 Companies will outsource everything that isn’t their value proposition. To build successful B2B company, simply be the outsource.]]
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 	- [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
+- The smaller the group the better because the larger groups search for consensus and the larger it is the worse the quality of feedback—I think this partly explains [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run |Amara’s law]]
+	- [[1-1a5b2.1 Be very mindful of where you 'experiment'; one of the most important decisions you can make is who you get feedbacks from (as well as ask questions of)]]
+	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
+	- [[4-1a3b Go to specific places to get specific feedbacks]]
+	- [[RUL3 - Live in the future and build what seems interesting]]

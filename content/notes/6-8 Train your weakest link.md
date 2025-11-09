@@ -19,6 +19,7 @@ Fix your weakest link.
 - [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
 - [[3-1a4b1.2 Define and stay within your circle of competence]]
 	- [[2-1a0c1d1 Focus on the few variables]]
+- [[3-1d7a 'Bottlenecks' - Don't hate them. Rather, use them creatively.]] #revisit 
 - [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
 - [[9-4b2a1d0.3 The essence of analysis is articulation - 分析の本質は分節]]
 - [[11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve!]]

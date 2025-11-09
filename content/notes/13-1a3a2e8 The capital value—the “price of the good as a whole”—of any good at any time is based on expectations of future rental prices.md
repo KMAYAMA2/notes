@@ -4,7 +4,8 @@
 “For nondurable goods, the problem of the separate sale of the service of the good and of the good itself does not arise. Personal services are never sold as a whole, since, on the free market, slave contracts are not enforceable. Personal services, then, are always sold in their individual units.” – [[Murray Rothbard]]
 
 Related:
-- Always invert the market price: ask what is implied for the Plan Structure, and if the price makes sense #revisit 
+- Always invert the market price: ask what is implied for the Plan Structure, and if the price makes sense—because the free market coordinates the triad #revisit 
+	- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
 	- [[3-1a4b2b What is smart at one price is dumb at another]]
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - [[13-1a3a1h The market tends to establish and maintain as high a quality of forecasting as is humanly possible to achieve]]
