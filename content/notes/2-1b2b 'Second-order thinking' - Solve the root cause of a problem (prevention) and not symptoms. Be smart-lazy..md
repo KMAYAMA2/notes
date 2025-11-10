@@ -6,7 +6,7 @@
 
 Save keystrokes—always ask, *then what?*
 
-Problems are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |inevitable]], but if you are careful you can have way less problems than others.
+Problems are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |inevitable]] (see [[David Deutsch]]), but if you are careful you can have way less problems than others—wisdom is about prevention (see [[Charlie Munger]] and [[Warren Buffett]]).
 
 Next:
 - [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]

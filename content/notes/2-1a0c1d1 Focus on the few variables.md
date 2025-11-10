@@ -36,3 +36,7 @@ Related:
 	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
 	- [[4-1a3b Go to specific places to get specific feedbacks]]
 	- [[RUL3 - Live in the future and build what seems interesting]]
+- Wisdom is about prevention—*’hire well, manage little’* lets you focus on what matters
+	- [[2-1a3.3 負もフィードバックする (Feedback loops work both ways)]]
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[4-1a3b Go to specific places to get specific feedbacks]]

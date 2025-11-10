@@ -574,9 +574,11 @@ date: 2024-08-15
 - Munger: “If everybody distrusts everybody and tries to protect himself with contracts and procedure, you don’t have the best human culture, you have the worst.” (p. 83)
 	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
 		- [[8-2b2 The most efficient business is one with trust, or one completely without]]—to be more precise, blockchains minimize the trust needed in the network, but that doesn’t mean we don’t need trust #revisit 
-- On decentralization and no second guessing (p. 84)
+- Leave them alone, and treat them with how you would like to be treated if the role is reversed—no second guessing (p. 84) 
 	- [[2-1b2e0 The less guessing layers the better]]
-- Leave them alone, and treat them with how you would like to be treated if the role is reversed—the Golden Rule again (p. 85) #revisit 
+	- The Golden Rule again (see also p. 26, p. 38, p. 71, p. 74, and p. 41)
+- Munger: “We have decentralization just short of abdication in handling our subsidiaries” (p. 84)
+	- [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]] #develop 
 - Lack of oversight means we miss some things but overall it is a benefit (pp. 86-87)
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 	- [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
@@ -588,16 +590,58 @@ date: 2024-08-15
 	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
-- Culture, not rule books, determines organizations (p. 87) 
-	- elaborate #revisit
+- Buffett: “Culture, more than rule books, determines how an organization behaves. **If you have a good culture, you can make the rules pretty simple.** It has to be consistent, lived, be followed, and rewarded when followed and punished when not. It’s much easier to inherit a culture, and it’s easier in small firms.” (p. 87) 
+	- [[1-1a2e4 Cultures precede languages]]
+	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
+	- [[10-1b1 It is the body that learns - '考えるな. 感じろ.']]
+	- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]—em*body* #revisit 
+	- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
 - People see what’s been done than said, both in children and businesses (p. 87) 
 	- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
 		- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
-- Businesses are acquired to be held—not to be exited out for cash—the businesses generate cash. (p. 88) #revisit 
-	- it’s like holding its own version of SP500. #revisit 
-- A good spouse and a good business partner, you have to deserve both (p. 89)
-- Garrett Hardin’s quote on the benefit of having two-way debate (p. 90) 
-	- relate two-way debate note and observation note.
+- Businesses are acquired to be held—not to be exited out for cash—because the businesses generate the cash (p. 88) #revisit 
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- Buffett: “We find it meaningful when an owner cares about whom he sells to. We like to do business with someone who loves his company, not just the money that a sale will bring him (though we certainly understand why he likes that as well). When this emotional attachment exists, it signals that important qualities will likely be found within the business: honest accounting, pride of product, respect for customers, and a loyal group of associates having a strong sense of direction. The reverse is apt to be true.” (p. 88) #revisit 
+	- [[2-1a0c1i Every polity will be publicly traded eventually just like companies and coins]]
+	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[3-1a4b7 The monetary account will increasingly explain the world—especially as it pertains to the human actions—though never exhaustively]]
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- **[[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]]** #develop 
+	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+	- [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]
+	- [[13-9a0 “The price is the first and most obvious indication of the nature of the alternatives” – Philip Wicksteed]]
+- Munger: “The right way to get a good spouse is to deserve one. The same goes for getting a good business partner… If you just behave yourself correctly, it’s amazing how well it works.” (p. 89)
+	- [[1-2f1b5 検証と反証には非対称性がある]]
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+	- [[2-1b2d1 Consistency builds trust]]
+	- [[5-1a4.2 You can be nicer via error-correction]]
+	- Also see p. 67 and p. 69 #revisit 
+- You have to enjoy it and have fun—otherwise it won’t last (p. 89)
+	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+	- [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]
+- Garrett Hardin: “It would be an enormous error to assume that our picture of the world is built only on logic. No matter how hard-headed one tries to be, one’s thinking is shaped by the biases of all-encompassing worldviews derived from assumptions of which one is barely (if at all) conscious. (One’s opponent often sees these assumptions more clearly. Since the relation is mutual, it is obvious that we need each another as critics, if nothing else.)” (p. 90) #revisit 
+	- [[1-1a1b1 Joel Gold - The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe]]
+	- [[1-1a2e6a The dark matter of mind is multilayered, differentially manifested, and variously derived from the experiences of living]]
+	- [[1-1a2e8 'Seeing' really occurs after going through (or together with) emicization]]
+	- [[1-2f1a3 To be scientific is to be critical]]
+	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+	- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+	- [[4-1d3 The most effective communication is to listen]]
+	- [[5-1b1a2c Contingency cannot be exhaustively accounted for, because that amounts to predicting minds and knowledge]]
+	- [[5-2b1b Writing down makes it easier for your conscious to see the unconscious]]
+	- [[5-2b7 The skeptical empiricist doubts both data and theory]]
+	- [[7-1a6a Successful founders see different problems]]
+	- [[9-1b0c Reality doesn't differentiate reading-thinking-writing-playing-doing-investing-building]]
+	- [[9-4b2a1f Two-way debate benefits from criticism]]
+	- [[10-2 Thick descripting myself — a configuration of ideas which is me]]
+	- [[10-2a I am a set of ideas including conscious and unconscious]]
 - No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
 	- and if you’re still worried, correct it.
 ### Distort your problems so they fit your wishes #TODO 

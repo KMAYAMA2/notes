@@ -2,6 +2,9 @@
 
 Reading biographies >>> studying “history” #revisit 
 
+Not every opinion matters—relate this note to voting #TODO 
+- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+
 - [[2-1a2 See clearly - 解像度を高める]]
 
 - [[7-1a1a Don't solve imaginary problems]]

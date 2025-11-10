@@ -2,9 +2,11 @@
 [[10-2 Thick descripting myself — a configuration of ideas which is me]]
 [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 
-[[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+Next:
+- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 
-[[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+[[5-1a4.2 You can be nicer via error-correction]]
 
 [[9-1b1a It almost never happens that two minds hold precisely the same idea]]
 

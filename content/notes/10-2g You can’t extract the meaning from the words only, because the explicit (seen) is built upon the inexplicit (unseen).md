@@ -5,3 +5,5 @@
 [[10-2h Explicating the inexplicit amounts to knowledge, and knowledge is unpredictable, and never derived mechanically]]
 
 [[1-2g1b1 Predicting the same outcome doesn’t mean they have the same explanation]]
+
+[[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]

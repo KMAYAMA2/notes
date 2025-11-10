@@ -3,6 +3,7 @@ Related:
 - Knowledge creation is about reconfiguration #revisit 
 	- [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge]]
 - [[4-1a4b3 If you write down ideas, you can have a conversation with each one of them individually, or with any configurations from them]]
+	- [[9-1b0c Reality doesn't differentiate reading-thinking-writing-playing-doing-investing-building]]-speaking
 - [[4-1a5c When you have your Second Brain, you can have a conversation with it]]
 - *Two-way debate makes you realize the relation within your value structures*
 	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
