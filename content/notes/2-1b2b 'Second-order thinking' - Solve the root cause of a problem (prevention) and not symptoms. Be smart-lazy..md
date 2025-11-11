@@ -4,6 +4,8 @@
 
 > “Hire well, manage little” – [[Warren Buffett]] and [[Charlie Munger]]
 
+> “Wise people step on big and growing troubles early” – [[Charlie Munger]]
+
 Save keystrokes—always ask, *then what?*
 
 Problems are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |inevitable]] (see [[David Deutsch]]), but if you are careful you can have way less problems than others—wisdom is about prevention (see [[Charlie Munger]] and [[Warren Buffett]]).
@@ -17,6 +19,7 @@ Next:
 
 Related: 
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]—**solve it while you can**
 - **[[3-1b0 Think forward, but also think in reverse via inversion]]** #FutureSelf 
 - [[3-1c3d3 When problems are so well defined, your future self might be able to solve new problems by reusing and recombining them]]
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]

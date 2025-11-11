@@ -3,6 +3,15 @@ Next:
 - [[7-1b4a Start with technology. Technology is knowledge. Use them as objective constraints.]]
 - [[7-1b5 You can solve problems that just got created]]
 
+Contradictory?
+- Often it’s better to solve them while you can
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[12-1e0 Everything changes]]
+- But sometimes you can let it age
+	- [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]]
+	- [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
+
 Related:
 - [[2-1c1 'Comparative advantage' - If others can do it, let them]]
 - [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]

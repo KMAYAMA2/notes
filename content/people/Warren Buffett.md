@@ -552,7 +552,7 @@ date: 2024-08-15
 	- [[9-4b3e4 Write each sentence like you are talking to a friend]]
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - It’s not really that people get pushed out until their aptitude fails to qualify for whatever the new position; he simply has to study what’s required for capital allocation (p. 79)
-### Associate with assholes #TODO 
+### Associate with assholes
 - “Don’t fight with a pig, you’ll just get dirty and the pig likes it” (p. 81)
 - Munger: “Our basic rule has always been that we don’t deal with assholes” (p. 81)
 	- See [[Carlo Cipolla]]
@@ -606,6 +606,8 @@ date: 2024-08-15
 - Businesses are acquired to be held—not to be exited out for cash—because the businesses generate the cash (p. 88) #revisit 
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- Munger: “I think we attract a better class of businesses in Berkshire because we aren’t buying things to resell” (p. 88)
+	- [[2-1b2d 'Trust' - The most effective business is one with trust. Build one.]]
 - Buffett: “We find it meaningful when an owner cares about whom he sells to. We like to do business with someone who loves his company, not just the money that a sale will bring him (though we certainly understand why he likes that as well). When this emotional attachment exists, it signals that important qualities will likely be found within the business: honest accounting, pride of product, respect for customers, and a loyal group of associates having a strong sense of direction. The reverse is apt to be true.” (p. 88) #revisit 
 	- [[2-1a0c1i Every polity will be publicly traded eventually just like companies and coins]]
 	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
@@ -642,26 +644,59 @@ date: 2024-08-15
 	- [[9-4b2a1f Two-way debate benefits from criticism]]
 	- [[10-2 Thick descripting myself — a configuration of ideas which is me]]
 	- [[10-2a I am a set of ideas including conscious and unconscious]]
-- No worries, have fun, know that terrible things do happen but stay optimistic >>> stresses (p. 91) 
-	- and if you’re still worried, correct it.
+- Buffett: “If it’s going to keep me awake at night, I am not going to go there. We really don’t worry. If we were worried about something in business, we’d correct it.” (p. 91)
+	- [[1-2f1b3 Merely dropping a theory because it doesn't work is behaviorism and is not error-correction. It's analog reasoning in disguise. You need explanation.]]
+	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+- Munger: “I don’t think it’s terribly constructive to spend your time worrying about things you can’t fix. I’m all for, as long as when you’re managing your money, recognize that terrible things can happen. In the rest of your life, you can be a foolish optimist.”
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[5-1b4a1 Don’t be a depressive realist or a blissfully unaware. Be a rational optimist.]]
+- Buffett: “I’ve been very fortunate in that I have no stress whatsoever… I tap dance on the way to work. I do believe in working at something you enjoy.” (p. 91)
+	- [[5-1b4c2 No wonder why someone who is having fun is genuinely great at what they do. Because you have to have fun to achieve great things.]]
 ### Distort your problems so they fit your wishes #TODO 
 - Queen Elizabeth I: “I like to know what the truth is so I can decide whether to believe it or not” (p. 92) 
-	- relate with denial memos and notes
+	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+	- [[5-1 When you are long truth you are long volatility and time]]
 - Wishing is poison in business (p. 92)
-- Munger quote an adapting to reality as it is (p. 92) 
-	- relate with Sherlock notes 
+	- [[5-1b1a2c2 Constructor Theory is all about knowledge of how to correct errors (primarily of our parochiality-physicality) and thus optimism]]
+	- [[5-1b4a1 Don’t be a depressive realist or a blissfully unaware. Be a rational optimist.]]
+- Munger: “Part of enjoying life is just seeing and facing it like it is and adapt to the reality as it is whether you like it or not” (p. 92) 
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[1-1a5b4.5 Truth is about correspondence with reality]]
-- Avoid ‘thumb-sucking’ (p. 92)
-	- Sometimes you don’t have any opportunity cost because you didn’t have any other choice—do with what’s available, and don’t dwell on it. #revisit 
-	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
-- Alex Haley quote on reality dealing with you if you don’t deal with it (p. 92) 
+	- [[1-2g2r0 The Turing principle implies 梵我一如]]
+	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+	- [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality]]
+- Buffett: “It doesn’t go away just because they don’t want to think about it” (p. 92)
+	- Avoid ‘thumb-sucking’
+		- [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
+		- [[1-1a4a If you don’t recalibrate your framework, ‘contradictions’ will surely pile up]]
+		- **[[1-1a4b1 You either have to ignore them as irrelevant or consider them as problems to be solved]]**
+		- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+		- **[[2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.]]**
+		- [[7-1b1 You can solve problems others are conscious of]]
+		- [[7-1b2 You can solve problems others have inexplicitly or unconsciously]]
+- Alex Haley: “If you don’t deal with reality, then reality will deal with you” (p. 92) 
 	- [[1-1a5b4.5 Truth is about correspondence with reality]] #revisit 
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 	- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
-- If you have a problem, act now (pp. 92-93) 
-	- relate with problem-solving notes #revisit  
-	- relate with second-order thinking notes #revisit 
-- One’s objective should be: get it right, get it quick, get it out, get it over. Admit you can’t know everything and state all the facts you do know clearly. (p. 93) 
+- Buffett: “When a problem exists, whether in personnel or in business operations, the time to act is now. Our inability to quantify or time the risk does not mean we should ignore it… You have to build the ark before the rains come.” (pp. 92-93) #revisit 
+	- [[1-1c4b You always have to solve problems, including the problem of what problems to solve]]
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+	- [[1-1c6c You ‘actualize’ yourself when you solve both the problem and the problem-situation via better explanations]]
+	- [[1-2f1b3a2 Don't just complain but solve!]]
+	- [[2-1a4c We don't know how we create knowledge yet, but that doesn't mean we can't]] #revisit 
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+	- [[3-1a1 It’s either you are solving problems or not]]
+	- [[3-1c3 Write down anything with intent to use them in the future, because you won’t be able to do away with solving problems]]
+	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+	- [[Become A Problem-Solving Artist]] #revisit
+- Munger: “If you won’t attack a problem while it’s solvable and wait until it’s unfixable, you can argue that you’re so damn foolish that you deserve the problem” (p. 93) #revisit 
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
+	- [[7-1b4 You can solve problems that just became solvable]]
+- Buffett: “When you have a problem, get it right, get it fast, get it out and get it over... It does take some delays at the time, you have to gather the information and make sure it is right. State clearly that you do not know all the facts. Then promptly state the facts you do know. One’s objective should be to get it right, get it quick, get it out, and get it over.” (p. 93) 
 	- relate with time is scarce memos and notes
 	- relate with fallibility notes
 	- relate with information is incomplete memos and notes (e.g., Li Lu)

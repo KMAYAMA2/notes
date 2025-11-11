@@ -2,7 +2,10 @@
 [[1-2g2s7c Very unlikely event certainly happens somewhere in the multiverse]]
 [[5-1b1a2d Knowledge is by definition unpredictable]]
 
-[[2-1a0d Don't confuse the Grey Swans with the Black Swans]]
+[[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+
+Next:
+- [[2-1a0d Don't confuse the Grey Swans with the Black Swans]]
 
 *Admiral James Stockdale: "You must never confuse faith that you will prevail in the end—which you can never afford to lose—with the discipline to confront the most brutal facts of your current reality, whatever they might be.”*
 
