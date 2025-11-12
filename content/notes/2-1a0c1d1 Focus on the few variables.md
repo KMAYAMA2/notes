@@ -16,6 +16,7 @@ Related:
 - [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - On focus
 	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
+	- [[2-1b3a1 Narrow it down so you can have a chance to build your own moat]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 	- [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
 	- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
@@ -40,3 +41,7 @@ Related:
 	- [[2-1a3.3 負もフィードバックする (Feedback loops work both ways)]]
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- [[4-1a3b Go to specific places to get specific feedbacks]]
+- Problems >>> Opinions
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]
+	- [[3-1c1d You must build your own media distribution to avoid distortion for yourself and others]]

@@ -1,5 +1,6 @@
 Related:
 - [[2-1a0c1d1 Focus on the few variables]]
+- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 - [[3-1d4a What matters is if your tools-frameworks are universal]]
 - [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
 - [[7-1a1a1 Imaginary problems lead to ‘investment’ and ‘work’ - don't indulge with them]]

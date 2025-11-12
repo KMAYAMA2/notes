@@ -653,7 +653,7 @@ date: 2024-08-15
 	- [[5-1b4a1 Don’t be a depressive realist or a blissfully unaware. Be a rational optimist.]]
 - Buffett: “I’ve been very fortunate in that I have no stress whatsoever… I tap dance on the way to work. I do believe in working at something you enjoy.” (p. 91)
 	- [[5-1b4c2 No wonder why someone who is having fun is genuinely great at what they do. Because you have to have fun to achieve great things.]]
-### Distort your problems so they fit your wishes #TODO 
+### Distort your problems so they fit your wishes
 - Queen Elizabeth I: “I like to know what the truth is so I can decide whether to believe it or not” (p. 92) 
 	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
 	- [[5-1 When you are long truth you are long volatility and time]]
@@ -697,11 +697,45 @@ date: 2024-08-15
 	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
 	- [[7-1b4 You can solve problems that just became solvable]]
 - Buffett: “When you have a problem, get it right, get it fast, get it out and get it over... It does take some delays at the time, you have to gather the information and make sure it is right. State clearly that you do not know all the facts. Then promptly state the facts you do know. One’s objective should be to get it right, get it quick, get it out, and get it over.” (p. 93) 
-	- relate with time is scarce memos and notes
-	- relate with fallibility notes
-	- relate with information is incomplete memos and notes (e.g., Li Lu)
-	- relate with know what you know notes (e.g., Mark Twain) 
-	- relate with circle of competence memos (e.g., mono-linked chains) and notes 
+	- Time is scarce—use them wisely #revisit 
+		- [[1-1a5b5 Shipping perfection means you are too late - you have to find a balance of finding the right moment and being fixable]]
+		- [[1-1c6a3.0 The decision should be obvious]]
+		- [[1-2.0 It is better to be roughly right than precisely wrong]]
+		- [[2-1a0a1 Don't waste time unnecessarily complicating things]]
+		- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+		- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+		- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+		- [[4-1a4b2e Don't get started]] #revisit 
+		- [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]
+		- [[5-2b5 Theories precede data]]
+		- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+		- [[13-4 Time is scarce because action involves choosing one thing over others]]
+		- [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
+	- Solve them while you can
+		- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]] #revisit 
+		- [[3-1a1 It’s either you are solving problems or not]]
+		- [[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]
+	- We are fallible
+		- [[1-2 We are fallible]]
+		- [[2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.]]
+		- [[13-1a3c We will never attain objectivity]]
+		- [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
+	- Complete information is impossible, but that doesn’t mean you shouldn’t try
+		- [[1-2g2r0 The Turing principle implies 梵我一如]]
+		- [[3-1d6a1 Staying consistent is rather difficult with information abundance. What we need is purpose-intention.]]
+		- [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
+		- [[4-1b Uncover as much information as possible]]
+		- [[5-1b1a2c0 No theory can exhaust reality]]
+		- [[5-1b1a2c0.1 Perfect replication is impossible]]
+		- [[5-2b6 Theories need data]]
+	- Know what you know (and what you don’t)
+		- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+		- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+		- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+		- [[3-1a4b1.2 Define and stay within your circle of competence]]
+		- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
+		- [[5-2b1b Writing down makes it easier for your conscious to see the unconscious]]
+		- [[6-8 Train your weakest link]]
 - Your problem won’t improve with age (p. 93)
 	- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
 	- [[2-3b0 Knowledge creation is not a function of time]]
@@ -743,18 +777,22 @@ date: 2024-08-15
 - Spend no time arguing with people whose idea you know to be stupid (p. 98)
 - George Soros: once we realize that imperfect understanding is the human condition, there’s no shame in being wrong, only in failing to correct our mistakes (p. 98)
 	- relate with error-correction notes
+	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
 - Study, and look for, counter-evidence. (p. 99) 
 	- relate with try to attack your business memos and notes #revisit 
 - H.L. Mencken quote. (p. 99) 
 	- relate with science advances one funeral at a time memos
 - Consider yourself a journalist. Assign a story. Assume it’s correct. But look for facts. And don’t be selective in choosing which facts to look at. Don’t let the hypothesis dictate which facts to look at. (pp. 99-100) 
 	- relate with data need theory notes #revisit
+	- this is basically the same as inverting the fundamental from the share price
 - On negative evidence (p. 100)
 - Surround yourself with smart people who don’t always agree with you. Remember Lincoln. (p. 101)
 - Remove ignorance piece by piece. Scramble out of your mistakes. (p. 101) 
 	- relate with piecemeal error correction notes
+	- [[1-2f1b2 Composability allows incremental piecemeal error-correction]]
 - On bridge. Information compounds. (p. 102) 
 	- relate with more is different notes
+	- [[11-3.4a More is different]]
 - On master planning. What is needed is the kind of propensity to disbelieve by changing your previous conclusions. Mike Tyson quote. (p. 102) 
 	- [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
 - “If the terrain and the map disagree, follow the terrain.” “One look is worth thousand words.” (p. 102)
@@ -768,6 +806,7 @@ date: 2024-08-15
 	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]] #revisit 
 - Five positive interactions = one negative interaction (p. 104)
+	- it’s similar to multiplicative system (i.e., it’s math)
 - A man reacts with intense irrationally to even a small loss (p. 104) 
 	- [[2-1b2b3 Don't invest what you can't afford to lose]]
 	- [[4-1e Emphasize what they’ll miss out on, rather than what they can get]]
@@ -810,7 +849,7 @@ date: 2024-08-15
 		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
 		- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
 - Franklin tactic can work in reverse (p. 111)
-- Ben Franklin: “he that would live in peace and at ease must not speak all he knows nor judge all he sees” and what says that his opinion or solution is the correct one (p. 111) 
+- Ben Franklin: “He that would live in peace and at ease must not speak all he knows nor judge all he sees” and what says that his opinion or solution is the correct one (p. 111) 
 	- don’t trigger defensive responses in others #revisit 
 - Henry Ford on secret to success is changing perspective. If you do this, you understand why they do what they do. (p. 111) #revisit
 	- relate with 主語の転換 memos 
@@ -818,15 +857,19 @@ date: 2024-08-15
 	- relate with argue only when you can argue better than the opponent notes 
 - Goethe: misunderstanding and neglect is more often than trickery and malice (p. 112) 
 	- relate with Hanlon’s razor notes (elaborate how’s it’s rooted epistemologically, that is, perfect replication is impossible and no two minds share the same worldview and knowledge is created individually notes) #revisit 
+	- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
 - Nietzsche: the value is not in what you get, but what you pay for it, in what it costs us. Fight only important battles. (p. 112) 
 	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 	- relate with value (or price) is about the opportunity cost notes (if any) #revisit 
 - If you start objecting to this and this and this, pretty soon people will pay less (or no) attention to you. Save bullets only when it matters. Worse yet, you will not be listened in other occasions too. Don’t shout. (p. 112) 
 	- relate with information is difference notes (elaborate what constitute noise)
+	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 	- relate with stuff translate memos #revisit 
 - “Sometimes peace is better than being right. Sometimes you must know when to accept a loss and quit.” (p. 113) #revisit
 	- Roy T. Bennett: be selective in your battles. 
 	- Peace ≠ the absence of conflict. 
+	- [[2-1b4 Not fighting can win you the battle]]
 ### Be an extreme ideologue
 - Try to formulate the opposing argument better than the opponents (p. 114) 
 	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
@@ -857,7 +900,7 @@ date: 2024-08-15
 ### Make it easy for people to cheat, steal and behave badly #TODO 
 - Serpico Syndrome (p. 119)
 - Social-Proof Tendency: stop any bad behaviors before it spreads and foster and display all good behaviors (p. 119) 
-	- relate with biases notes
+	- relate with biases notes and brandolini’s law and act immediately notes
 - If the incentives are wrong, behavior will be wrong (p. 120)
 	- Xerox and Joe Wilson (p. 120)
 	- Federal Express and the night shift (pp. 120-121)
@@ -878,12 +921,16 @@ date: 2024-08-15
 - Tie incentives to performance and factors that contribute to the ultimate end—value (remember Soviet nail factories) (p. 122) 
 	- relate with know what you want memos and notes (create if none) 
 	- relate with you find what you want to want in market memos and notes (maybe management is about constantly refining what you want to achieve and recalibrating the team) 
-- Pay for what can be controlled (e.g., low finding cost) over uncontrollable (e.g., oil price) (p. 123) 
-	- relate with focus on few variable memos #revisit 
+- Pay for what can be controlled (e.g., low finding cost) over uncontrollable (e.g., oil price) (p. 123)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[2-6 You get what you pay for]] #revisit 
+		- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+		- [[5-2a1 You get what you measure]]
 - If a CEO bats .150 but Berkshire as a whole performs well, he still gets paid as a .150 hitter (p. 123) 
 	- make your incentives uncorrelated with others and only correlate with his own performance
 		- relate with uncorrected bets notes
-		- relate with bat boy anecdote (you cannot uncorrelated anything since everything is somewhat connected) #revisit 
+		- relate with bat boy anecdote (you cannot make anything truly uncorrelated since everything is somewhat connected) #revisit 
 - Being a partner means in for both directions. To have both carrots and sticks. Remember Kiewit Corporation. (p. 124) 
 	- relate with Taleb, Spitz, and Ayache, also relate with volatility notes (options wouldn’t be as prevalent under free market?) #revisit 
 - Charles Frankel quote on a responsible system. Ask: who bears the consequences? Remember the Roman system for arc builder. (p. 124) 
@@ -1091,6 +1138,8 @@ date: 2024-08-15
 	- See p. 154
 - You rarely get poor investment with utilities (p. 160)
 - Good business throws up one easy decision after another (p. 162)
+	- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+	- [[1-1c6a3.0 The decision should be obvious]]
 - In commoditized businesses, you can’t really differentiate yourself (p. 162)
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
 - Get attractive security in attractive industry (p. 162)
@@ -1119,6 +1168,11 @@ date: 2024-08-15
 - Small mistakes are fine—it’s about payoff (p. 168)
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 - acknowledging and analyzing errors >>> agonizing over errors (p. 169)
+	- [[3-1c3c3 Take ideas seriously, but not too seriously. Don’t be the idea.]]
+	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
+	- [[1-2f3 Other epistemologies are analog because they keep both new and old theories based on ‘degrees of truth’ or ‘probabilistic truth]]
+		- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+		- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
 - Ask: *Is this a good (or bad) business? Why?* (p. 169)
 - Buffett’s quote on reality centered cast of mind (p. 169) 
 	- relate with Sherlock and Deutsch #revisit 
@@ -1128,9 +1182,14 @@ date: 2024-08-15
 - Buffett and Keynes on business is success is about future, not past. And you also have to explain why the business was successful in the past. (pp. 172-173) 
 	- relate with tracing the origin notes and quote from Paul valery
 - Ask: *What forces can stop the current ongoing success?* (p. 173)
+	- relate with silver bullet memos
 - Ben Franklin: a small leak will sink a great ship (p. 173) 
 	- relate with small changes can go unnoticed until too late notes
 	- [[1-1a5b5 Shipping perfection means you are too late - you have to find a balance of finding the right moment and being fixable]]
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[2-1a1a4b Compounding is usually too slow to notice, making it easier to discount both how much progress and catastrophe are achievable]]
+	- [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]]
+	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
 - ABCs of business decay: arrogance, bureaucracy, and complacency. “Whom the gods want to destroy, they send forty years of success” (p. 174)
 - Don’t employ unnecessary assistants. Parkinson’s law. (pp. 174-175)
 - Widen the moat, build enduring competitive advantage, delight customers, and fight cost (p. 175)

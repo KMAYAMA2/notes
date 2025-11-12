@@ -12,6 +12,7 @@ Next:
 Related:
 - [[1-1a1 We don’t necessarily have to think hierarchically (i.e., in files and folders)]]
 - [[5-1b1b1 Become good at multiple things rather than being super good at one specific thing (the former is both easier and effective)]]
+- [[6-8 Train your weakest link]]
 
 - The best and most practical wisdom is elementary academic wisdom - think in a multidisciplinary manner
 	- [[7-2b The more of a noob you are locally, the less of a noob you are globally]]

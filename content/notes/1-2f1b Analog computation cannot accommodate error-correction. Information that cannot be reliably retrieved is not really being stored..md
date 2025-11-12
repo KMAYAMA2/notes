@@ -9,3 +9,4 @@
 
 [[Jensen Huang - from retrieval only to retrieval plus generation]]
 [[3-1c3b1 You don’t take notes to know where the knowledge came from (justification), but to use it in the future, to solve problems.]]
+[[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]]

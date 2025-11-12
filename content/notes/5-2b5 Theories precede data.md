@@ -20,4 +20,5 @@ Related:
 
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]
+- **[[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]**
 - [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
