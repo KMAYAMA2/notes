@@ -1595,7 +1595,8 @@ I personally think “microeconomics” in the context used here can be construe
 		- A business can be killed by poor management—a franchise can withstand poor management (p. 15)
 		- Being the low cost producer can protect you during [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change. |downturns]]—but in itself doesn’t offer any further upside
 			- [[12-1e Nothing is necessary = Everything is contingent |Of course]], it can translate into being the brand (e.g., see [[Jeff Bezos]] and [[Sam Walton]]) #revisit 
-#### A. The Great #revisit 
+#### A. THE REALLY GREAT BUSINESS: High returns, a sustainable competitive advantage and obstacles that make it tough for new companies to enter #revisit 
+##### Moats can [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer |widen]] or shrink (p. 10)
 - Being the low cost producer or having the brand can function as barrier to entry for others (p. 11)
 	- [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
 	- **The best is being the low cost producer *and* have the brand**
@@ -1607,38 +1608,77 @@ I personally think “microeconomics” in the context used here can be construe
 		- [[10-2g1j A good explanation explain more than what they were originally designed to]]
 	- Relate with let-the-ideas-die-in-your-stead notes
 		- [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]]
+##### A great business has pricing power or the power to raise prices without losing business to a competitor
 - Ask: does it have any close substitute? (p. 11) 
 	- [[13-9a All goods are somewhat substitutable for one another thanks to money]]
 	- [[13-9b1 The closeness of the substitution does not exist objectively, but only subjectively in the minds of consumers]]
-- The best protection against inflation is a great business (p. 11) 
-	- Challenge this, especially in light of Bitcoin #revisit 
+##### The best protection against inflation is a great business (p. 11) 
+- Challenge this, especially in light of Bitcoin #revisit 
 - Businesses needing not much in tangible assets are hurt the least by inflation (p. 12)
+##### The dream business—”sweet” returns
 - See’s had minimized need for tangible assets (operating funds) because it was sold for cash and production cycle was short so didn’t have inventory issues (p. 12) 
 	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 		- Also see [[Ludwig Lachmann |Lachmann]] (pp. 160-161 in particular)
+##### Customer goodwill creates economic goodwill
 - Reputation creates value for See’s (and not production cost) and is the source of Goodwill (p. 13)
 	- Viz., the source of Goodwill (premium) comes from the upside potential which comes from the brand (and less from being the low cost producer—although it does provide [[2-1b2g 'Margin of safety' - Be redundant and resourceful |margin of safety]] during downturns, which is [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost |much needed in times of crisis]] and may explain the premium as well) #revisit 
-	- Ask Microsoft or Google (p. 13)
-		- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
-		- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
-#### B. The Good
-#### C. The Gruesome
+##### A company like See’s is a rarity
+- Ask Microsoft or Google (p. 13)
+	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
+	- [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+#### B. THE GOOD BUSINESS: Earn good returns on tangible invested capital
+##### High capital intensity requires high profit margins to achieve a decent return (p. 14)
+#### C. THE GRUESOME: Require-a-lot-of-capital-at-a-low-return-business
+##### A depressing industry equation—undifferentiated products, easy to enter, many competitors and over-capacity
+##### In many industries, differentiation can’t be made meaningful
 - Sugar isn’t differentiated (p. 15)
 	- *Unless someone does it* #revisit 
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+##### Some make money but only if they are the low-cost operator (p. 15)
+##### Or find a protected niche (p. 15)
+##### Or when supply is tight (p. 15)
+##### But [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run |it may take time]]
+##### And [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long |it usually doesn’t last long]] (p. 16)
 - Nothing fails like success in commoditized businesses (p. 16)
+##### But in some industries, tightness in supply can last a long time
+##### Berkshire’s unfortunate experience with the textile industry
+##### And whatever improvement Berkshire did, competitors did
+##### I see the immediate but illusory benefits of the cost reductions. I don’t see competitive actions and that all the benefits go to the customer
 - In commoditized businesses, an economic decision which makes sense individually isn’t economic at all when considered collectively (p. 17)
 	- Only consumers enjoy the benefits of the product—but remember that the capital were better invested elsewhere—ultimately, no one really benefits in [[11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand |DMU]] environment (i.e., in no knowledge creation environment)
 		- If the division of capital (see [[Ludwig Lachmann |Lachmann]]) relates to creating *different* production processes, then *[[11-3.4a More is different|the more is different]]* might be true in significant sense—the more connection and configuration might indeed imply *new* knowledge #revisit
+##### An important lesson
+- React with great caution to suggestions that our poor businesses can be restored to satisfactory profitability by major capex (p. 17)
+##### An important truth
+- In a business selling a commodity-type product, it’s impossible to be a lot smarter than your dumbest competitor (p. 17)
+	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+##### But what if I buy a gruesome business at a real bargain?
+##### Don’t confuse “cheap” with a good deal (p. 18)
+- [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
+##### In some businesses, not even brilliant management helps
 - Get out leaking boat (p. 19)
 	- Leave unpromising battlefield
 		- [[2-1b3 Play different games. Avoid competition.]]
 		- [[2-1b4 Not fighting can win you the battle]]
 	- See [[Marc Andreessen]]
-- Turnaround seldom turn and usually takes longer (p. 19) 
+##### Turnarounds seldom turn or take longer than I expect (p. 19) 
+- The same energies and talent a re much better employed in a good business purchased at a fair price than in a poor business purchased at a bargain price (p. 19)
 	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
+	- [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
 	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
-#### D. Other Tough Businesses
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+##### But separate a general and permanent problem from an isolated and correctable problem and temporary setback—assuming it’s a great or good business (p. 19)
+- Overall, however, we’ve done better by avoiding dragons than by slaying them (p. 19)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+##### All earnings are not created equal—Restricted earnings must often be discounted heavily in capital intensive businesses
+- Path-dependency must be accounted for (p. 19)
+	- [[6-3a2.1 How you achieve something matters as much as what you achieve]]
+#### D. OTHER TOUGH BUSINESSES
+##### I-have-to-be-smart-every-day-business (p. 20)
+##### Fast changing industries can also be troublesome—even if I understand their products, it may be close to impossible to judge future competitive position and what can go wrong over time (p. 20)
+##### And this includes technology—a few will make money but many will lose and it’s hard to see who does what in advance
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]
 	- But in the greater scheme of things, even if your expectations turn out to be wrong and you end up doing worse than “the average” it’s not the end of the world—because as long as there’s progress going about you might end up *richer* in the real sense of the word. 
@@ -1647,8 +1687,9 @@ I personally think “microeconomics” in the context used here can be construe
 		- Instead what you have to understand is the non-linear impact from knowledge creation: a man can [[8-2b2a 'Technologies that change society are technologies that change interactions between people' |change the world]] and himself [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it) |be very rich]], but at the same time his invention can benefit the society as a whole—the game is positive-sum where there is knowledge creation.
 			- Just that such “benefit” cannot be quantified meaningfully, since knowledge creation literally changes the game.
 				- Metrics to measure such non-linearity is probably better understood as our attempts to capture its game-changing nature (e.g., see [[Elie Ayache]]). #revisit 
-- Growth has its limits (p. 21) #revisit 
-#### E. On Accounting Goodwill #revisit 
+##### And growth has its limits—no trees grow to the sky (p. 21)
+- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+#### E. THE CORRECT WAY TO LOOK AT ACCOUNTING GOODWILL #revisit 
 - On the difference between a good business and a good purchase
 	- It clearly states how a company with good Plan Structure doesn’t necessarily mean a good one to have in your Portfolio Structure #revisit 
 		- [[3-1a4b2b What is smart at one price is dumb at another]]
@@ -1659,7 +1700,17 @@ I personally think “microeconomics” in the context used here can be construe
 	- His emphasis to exclude Goodwill when evaluating the business makes sense especially in light of Lachmann’s framework—because only then can the analysis clearly captures the soundness of the company’s Plan Structure #revisit 
 		- Buffett meets [[Ludwig Lachmann |Lachmann]]
 	- But when you are buying the business as an investment, then relevant return is within the framework of your own Portfolio Structure—here, what matters is how much you actually paid for the expected returns—since you will be paying for the Goodwill, amortizing Goodwill is like pretending you only partially paid for the business each year #revisit 
-#### F. The Key Factors for Success (or Harm) and their Predictability
+##### When you evaluate the attractiveness of a business look at the return on net tangible assets (p. 22)
+##### Goodwill should not be amortized, but written off when necessary (p. 22)
+
+#### F. WHAT ARE THE KEY FACTORS FOR SUCCESS OR HARM AND HOW PREDICTABLE ARE THEY?
+##### Let’s translate the analysis into a simple question: Does the business have something people need or want now and in the future (demand), that no one else has (competitive advantage) or can copy, take away or get now and in the future (sustainable) and can these advantages be translated into business value?
+- Investors should remember that their scorecard is not computed using Olympic-diving methods: Degrees-of-difficulty doesn’t count (p. 23)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+- The truly big investment idea can usually be explained in a short paragraph (p. 23)
+##### Distinguish what matters from what doesn’t—Try to figure out the key factors that make the business succeed or fail
 ### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
 - Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
 	- [[5-1b1b1a2.1 Network effect means scaling increasingly]]
