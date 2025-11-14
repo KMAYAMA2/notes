@@ -17,12 +17,15 @@ Related:
 
 - **[[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]**
 
-- **[[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]**
-- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 
+[[Warren Buffett |Buffett]] would argue:
+- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+- [[1-1c6a3.0 The decision should be obvious]]
 - [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+- [[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]
+- **[[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]**
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 
 - ***Know thyself:***

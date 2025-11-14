@@ -1176,7 +1176,8 @@ date: 2024-08-15
 - Ask: *Is this a good (or bad) business? Why?* (p. 169)
 - Buffett’s quote on reality centered cast of mind (p. 169) 
 	- relate with Sherlock and Deutsch #revisit 
-- The company should be viewed as an unfolding movie, not a still snapshot (p. 171)
+- The company should be viewed as an unfolding movie, not as a still photograph (p. 171)
+	- See also p. 27
 - The story of an ailing horse, again. Ask: is the business for sale because it’s walking just fine? (p. 171)
 - Mark Twain: a mine is a hole in the ground owned by a liar. (p. 172)
 - Buffett and Keynes on business is success is about future, not past. And you also have to explain why the business was successful in the past. (pp. 172-173) 
@@ -1712,12 +1713,101 @@ I personally think “microeconomics” in the context used here can be construe
 - The truly big investment idea can usually be explained in a short paragraph (p. 23)
 ##### Distinguish what matters from what doesn’t—Try to figure out the key factors that make the business succeed or fail
 ### 6. Past Results as a Guide: Sometimes Useful and Sometimes Dangerous #revisit 
+#### What is “normal” cash flow? How representative is past information? Why was the past the way it was? What factors were responsible for generating past cash flows? Are they present today? What forces can change them?
+#### The past is useful if it gives me any clues to the future (p. 26)
+- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
+#### But it doesn’t tell me about the future and the value depends on the future (P. 26)
+- [[13-8a3 Money must evoke the past, but the demand for money lies in the future]] #revisit 
+- [[RUL3 - Live in the future and build what seems interesting]]
+#### How a business should be viewed
+- The company should be viewed as an unfolding movie, not as a still photograph (p. 27)
+	- See also p. 171
+	- [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]] #revisit 
+	- [[12-1e0 Everything changes]]
+#### What worked before may not work in the future
+- When change is great, yesterday’s assumptions can be retained only at great cost (p. 27)
+	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+#### What would happen if my key assumption disappeared from the equation?
+#### Conditions, environments and circumstances change—industry conditions and technologies change, customers change their behavior and tastes, good times turn to bad times, competition gets tougher and the quality of management deteriorates
+- [[12-1e0 Everything changes]]
+#### Sometimes the past can be very misleading—the 2008 housing crisis
+- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
+- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
+- [[5-2b5 Theories precede data]]
+#### Good times, boom or temporary tailwinds (or lousy competition) can fool me that business or management performance is better than it really is (or vice versa during the opposite) (p. 28)
+- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+- [[5-2a0 Know what to measure]]
+#### How do the business and management perform during turbulent or bad times? I can only evaluate real management performance, their character and business characteristics when “the tide goes out”
+- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+#### Don’t think I’m smart when I may be lucky
+- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
+#### Is it just raining or is the business or management really that good?
+- Avoid the error of the preening duck that quacks boastfully after a torrential rainstorm (p. 28)
+#### Vanishing competitive advantage—the world changes and so do competitors—and sometimes very quickly—environments and business conditions may be permanently changed—the moat disappears or management quality deteriorates
+- Horace: “Many shall be restored that now are fallen and many shall fall that are now in honor” (p. 29)
+#### The World Book—changing technology
+#### Newspapers—less useful for advertisers and lost pricing power
 - Advertisers preferred the paper with the most circulation, and readers tended to want the paper with the most ads and news pages—Survival of the Fattest (p. 29)
 	- [[5-1b1b1a2.1 Network effect means scaling increasingly]]
-- Have fun, then it will compound, then you widen the moat (p. 31)
-	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+- Now… almost all newspaper owners realize that they are constantly losing ground in the battle for eyeballs. Simply put, if cable and satellite broadcasting, as well as the internet, had come along first, newspapers as we know them probably would never have existed (pp. 29-30)
+	- The analogy (I think) applies to Bitcoin and Zcash #revisit 
+#### Valuations must change when expectations change (p. 30)
+- A seemingly modest shift in assumptions reduce the property’s valuation to 10 times after-tax earnings (p. 30)
+	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+#### The Dexter Case—high labor content, products that can easily be shipped in and increased competition from low-wage countries (pp. 30-31)
+- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+- [[2-1b4 Not fighting can win you the battle]]
+- [[2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.]]
+- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+- **[[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]**
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+#### But even a great business change over time but not the reason why people buy their products or use their services (p. 31)
+- Put differently, build a brand
+	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+#### There are always opportunities to improve a business
+- Experience indicates that the best business returns are usually achieved by companies that are doing something quite similar today to what they were doing five or ten years ago. That is no argument for managerial complacency. Businesses always have opportunities to improve service, product lines, manufacturing techniques, and the like. (p. 31)
+	- [[1-2f1b9 Repeat what works]]
+	- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
+	- Put differently, strive to be the low-cost operator
+		- See also p. 10, p. 13, p. 15, and p. 149
+		- See [[Jeff Bezos]] and [[Sam Walton]]
+- Our managers have produced extraordinary results by doing rather ordinary things—but doing them exceptionally well. Our managers protect their franchises, they control costs, they search for new products and markets that build on their existing strengths and they don’t get diverted. They work exceptionally hard at the details of their businesses, and it shows. (p. 31)
+	- [[1-2e1 Be ambitious but leverage what you already know]]
+	- [[1-2f1b9 Repeat what works]]
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
+	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
-	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
+	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
+#### And improvements include preserving and widening the moat (p. 31)
+- If we are delighting customers, eliminating unnecessary costs and improving our products and services, we gain strength. (p. 31)
+	- See p. 151, and [[Sam Walton]] and [[Jeff Bezos]]
+- On a daily basis, the effects of our actions are imperceptible; cumulatively their consequences are enormous. When our long-term competitive position improves as a result of these almost unnoticeable actions, we describe the phenomenon as “widening the moat.” (p. 31)
+	- Have fun, then it will compound, then you widen the moat #revisit 
+		- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+		- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+		- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+		- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+			- [[1-1c6b You are having fun when your whole being is engaged in solving a problem]]
+			- [[5-1a4 Getting rid of your misconceived notions amounts to being nice (or moral)]]
+			- [[5-1b4c4b To truly have fun, you have to get rid of your own misconceptions]]
+#### Has the competitive advantage been made stronger and more durable? (p. 32)
+- When short-term and long-term conflict, widening the moat *must* take precedence. No amount of subsequent brilliance will overcome the damage that would’ve been inflicted if otherwise. (p. 32)
+	- [[Benjamin Franklin |Ben Franklin]]: “An ounce of prevention is worth a pound of cure”
+		- But sometimes no amount of cure will overcome the mistakes of the past (p. 32)
+			- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]] #revisit 
+			- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+			- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+			- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+			- [[2-1b2d1 Consistency builds trust]]
+				- [[1-2f1b5 検証と反証には非対称性がある]]
+			- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
+			- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]] #revisit 
+			- [[5-1b4c1c Align your short-term reward with your long-term vision]] #revisit 
+			- See also p. 67, and p. 104
 ### 7. The Importance of Trustworthy and Talented Management
 #### Stick to proven management with a lot of integrity, talent and passion
 - [[1-2f1b9 Repeat what works]]
