@@ -2,6 +2,8 @@
 
 Do it before ready. #revisit 
 
+To think like an owner, you have to [[6-3z A world without ownership is a world with less creativity and human flourishing |be the owner]] #revisit 
+
 Related:
 - [[1-1a1b The mind includes inexplicit as well as unconscious]]
 - [[1-1a2 Our mind is flexible]]

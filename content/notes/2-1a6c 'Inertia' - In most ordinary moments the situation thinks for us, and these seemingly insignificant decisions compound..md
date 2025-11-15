@@ -8,6 +8,7 @@ Next:
 
 Related:
 - [[2-1a1a8 'Tendency to overestimate consistency of behavior' - Behavior of others are often not innate-intentional but situational]]
+- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 - [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]
 - [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
 - [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]

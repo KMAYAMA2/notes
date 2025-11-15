@@ -807,6 +807,7 @@ date: 2024-08-15
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]] #revisit 
 - Five positive interactions = one negative interaction (p. 104)
 	- it’s similar to multiplicative system (i.e., it’s math)
+	- also see p. 67 and p. 32
 - A man reacts with intense irrationally to even a small loss (p. 104) 
 	- [[2-1b2b3 Don't invest what you can't afford to lose]]
 	- [[4-1e Emphasize what they’ll miss out on, rather than what they can get]]
@@ -1806,6 +1807,7 @@ I personally think “microeconomics” in the context used here can be construe
 				- [[1-2f1b5 検証と反証には非対称性がある]]
 			- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 			- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]] #revisit 
+			- [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]]
 			- [[5-1b4c1c Align your short-term reward with your long-term vision]] #revisit 
 			- See also p. 67, and p. 104
 ### 7. The Importance of Trustworthy and Talented Management
@@ -1853,11 +1855,36 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]]
 		- [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality]]
 ### 9. Corporate Governance
-- Skin in the game (p. 39)
+#### The Board’s most important job is to pick the right person to run the business and evaluate their performance
+#### And intervene when managers do things contrary to the interest of the owners
+#### Key criteria for choosing directors
+- Board members be owner-oriented, business-savvy, interested and truly independent. The rarest of these qualities is business savvy. (p. 38)
+	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]]
+		- See also p. 78, and p. 118
+#### It is not prominence or diversity that counts but business judgement
+- “The questions I instead get would sound ridiculous to someone seeking candidates for a football team or a military command. At Berkshire, we are in the specialized activity of running a business well, and therefore we seek *business* judgement.” (p. 39)
+	- [[5-2a1 You get what you measure]]
+#### True independence
+- “We will select directors who have huge and true ownership interests (that is, stock that they or their family have *purchased*, not been given by Berkshire or received via options), expecting those interests to influence their actions to a degree that dwarfs other considerations such as prestige and board fees.” (p. 39) #revisit 
+	- [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-1b2b1a Get your incentives right from the beginning]]
+	- [[6-3b When you own something, you have an incentive to invest in it]]
+	- [[6-3c When you are invested, you'll try to own it]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
-- In [[Ludwig Lachmann |Lachmann]]’s parlance, Buffett’s *owner-capitalism* can be construed as an argument for how the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) (p. 40) #revisit 
-	- Directors ≠ Managers
-		- The former functions as a check on the latter (社長/CEO)—on daily basis the latter decides company matters (i.e., the Plan Structure)
+- “Most of our directors have a major portion of their net worth invested in the company. We eat our own cooking. The bottom line for our directors: You win, they win big; you lose, they lose big.” (pp. 39-40)
+	- *Skin in the game*
+		- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+			- Inverted: ***to think like an owner, you have to be the owner*** #revisit 
+	- In [[Ludwig Lachmann |Lachmann]]’s parlance, Buffett’s *owner-capitalism* can be construed as an argument for how the Control Structure (directors—取締役) should be aligned with the Portfolio Structure (owners—株主) #revisit 
+		- Directors ≠ Managers
+			- The former functions as a check on the latter (社長/CEO)—on daily basis the latter decides company matters (i.e., the Plan Structure)
+#### They may look independent when they are not (p. 40)
+- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+#### A board may be a legal creation but it is a social animal (p. 40)
+- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 ### 10. Owners and Management
 - Common goals and a shared destiny make for a happy business “marriage” between owners (the Portfolio Structure) and managers (the Plan Structure) (p. 41)
 	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]] #revisit 
