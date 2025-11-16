@@ -7,6 +7,8 @@ Not every opinion matters—relate this note to voting #TODO
 
 - [[2-1a2 See clearly - 解像度を高める]]
 
+- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+
 - [[7-1a1a Don't solve imaginary problems]]
 	- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]]
 

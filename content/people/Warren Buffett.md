@@ -1913,11 +1913,41 @@ I personally think “microeconomics” in the context used here can be construe
 	- What counts >>> How it’s counted
 		- [[5-2 What counts cannot be counted]]
 ### 11. Management Compensation: I Get What I Reward For
+- Ask: *Is the current incentive structure “capricious”?*
+	- Ask: *Would rewarding XXX based on the performance of YYY capricious?* #revisit 
+#### Management and owners should have the same interest
 - At Berkshire, management (i.e., Buffett and Munger) has the same interest as owners (shareholders). (p. 43)
-- Avoid capricious incentive structure (p. 44)
-	- An option holder has no downside risk, hence will not be a part of good incentive structure (p. 46)
-	- Ask: is the current incentive structure “capricious”?
-	- Ask: would rewarding XXX based on the performance of YYY capricious? #revisit 
+#### Work with people who make money with owners and not off them (p. 43)
+- [[2-1c3 'Win and help win' always outcompete]]
+#### There should be no rights without responsibilities and no carrots without sticks (p. 43)
+#### The people who make the decisions should be accountable for he consequences and face both the downside as well as the upside (p. 43)
+- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]] #revisit 
+#### Make sure incentives are tied to the same variables that determine value for owners (p. 44)
+- [[5-2a0 Know what to measure]]
+#### And tied to the result of the area the manager is responsible for and can impact
+- Avoid capricious incentive systems (p. 44)
+#### The rewards can be large (p. 44)
+#### There are many ways to structure a good incentive system
+- “Whatever the compensation arrangement, I try to keep it both simple and fair” (p. 45)
+	- [[2-1a0c1d1 Focus on the few variables]]
+- At Scott Fetzer
+	- The product of Berkshire’s money’s-not-free approach is definitely visible at Scott Fetzer. It pays Ralph Schey—and pays him well—to send to Omaha any cash he can’t advantageously use in his business. (p. 45)
+		- Make managers think like owners
+			- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+			- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+			- [[13-8a2.1 Money is the present good par excellence]]
+- At H. H. Brown
+	- A number of key manager are paid an annual salary of $7,800, to which is added a designated percentage of the profits of the company after these are reduced by a charge for capital employed. These managers therefore truly stand in the shoes of owners. (p. 45)
+		- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]] (see [[Henry Singleton]])
+- At GEICO
+	- Goals are (1) Tailored to the economics of the specific operating business; (2) Simple in character so that the degree to which they are being realized can be easily measured; (3) Directly related to the daily activities of plan participants. (p. 46)
+		- [[5-2a0 Know what to measure]]—in [[Ludwig Lachmann |Lachmann]]’s parlance, you align the Plan Structure and the Portfolio Structure when you tie the manager’s incentive to that of owners #revisit 
+			- The force coordinating [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |the triad]] doesn’t function well [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy |with fiat]], but that doesn’t mean you can [[5-2c2b3 'When you punt something into the future, the future eventually arrives' |escape]] that force (see [[Ludwig von Mises]] and [[Mark Spitznagel]])
+				- Let the free market solve its problems [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long |early]]—otherwise it’ll be worse and too late ([[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]])
+#### Options don’t mean alignment of interests and especially not ill-designed ones—and may even lead to more risk taking
+- An option holder has no downside risk (unlike owners), hence will not be a part of good incentive systems (p. 46)
+	- [[5-1b4c1c Align your short-term reward with your long-term vision]]
+#### Options can be appropriate under some circumstances if they are structured right (p. 47)
 ### 12. Mergers and Acquisitions: Dumb Acquisitions Cost Owners Far More than Most Other Things
 - Demonstrated consistent earning power >>> Projection or turnaround (p. 48)
 	- [[5-2c2b The Lindy effect]]
