@@ -1,6 +1,8 @@
 ---
 date: 2025-08-18
 ---
+> 経霜楓葉丹
+
 It is just better (or worse) in light of something else.
 
 Related:

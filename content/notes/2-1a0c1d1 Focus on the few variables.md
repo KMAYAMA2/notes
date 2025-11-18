@@ -5,6 +5,8 @@ date: 2025-09-05
 
 > “I can laser focus on all these items being great” – Todd Graves
 
+> “Not trying to be all things to all people is so important because if you try to be all things to all people, you’re not anything to anybody.” – Todd Graves
+
 Limit the amount of details to perfect and then make every detail perfect—focus means quality and speed.
 
 Also think about what the counterparty is focused on.

@@ -10,4 +10,7 @@ Next:
 - [[10-2e7 The common-sense concept of cause and effect makes sense because 'variants' do exist somewhere in the multiverse. Nothing necessitates causes to precede their effects.]] 
 
 Related:
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+	- [[10-2g3d1.1 Humans create their own cause]]
 - [[AN3C - Piraha doesn’t differentiate the future and the past]]

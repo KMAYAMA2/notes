@@ -1,3 +1,4 @@
+Or simply summon your private board of directors
 
 Next:
 - [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]

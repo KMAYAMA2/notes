@@ -1984,10 +1984,60 @@ I personally think “microeconomics” in the context used here can be construe
 		- [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
 ### 13. A Few Management Issues
-- [[10-2g1f Imitation = limitation (imitation has limitation) |Imitation has a limitation]] (p. 56)
+#### A. Be Honest and Trustworthy and Select People You Can Trust
+##### Don’t hire and work with people who have  to be told to be honest, nice and trustworthy. Hire and work with talented, honest, nice and trustworthy people.
+- David Ogilvy: “If each of us hires people who are smaller than we are, we shall become a company of dwarfs. But, if each of us hires people who are bigger than we are, we shall become a company of giants.” (p. 56)
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+	- [[7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you]]
+##### Protect the reputation
+- “We can afford to lose money—even a lot of money. But we can’t afford to lose reputation—even a shred of reputation.” (p. 56)
+	- [[1-2f1b5 検証と反証には非対称性がある]]
+	- [[5-2a0 Know what to measure]]
+- [[10-2g1f Imitation = limitation (imitation has limitation) |Imitation has a limitation]] (pp. 56-57)
 	- [[Henry Singleton]]: “If everyone’s doing them, there must be something wrong with them”
-- No yo-yo approach—do what makes sense for the customers, and never add the unneeded. (p. 59)
-- What needs to be reported is data that helps financially-literate readers answer three key questions: (1) Approximately how much is this company worth? (2) What is the likelihood that it can meet its future obligations? (3) How good a job are its managers doing, given the hand they have been dealt? (p. 59) 
+		- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+##### When in doubt, remember Warren Buffett’s rule of thumb
+- I want employees to ask themselves whether they are willing to have any contemplated act appear the next day on the front page of their local paper—to be read by their spouses, children and friends—with the reporting done by an informed and critical reporter (p. 57)
+	- Check *Berkshire Hathaway Code of Business Conduct and Ethics* #TODO 
+		- Remember [[Balaji Srinivasan |Balaji]]’s private board of directors
+			- [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+- There’s plenty of money to be made in the center of the court. If it’s questionable whether some action is close to the line, just assume it’s outside and forget it. (p. 57)
+	- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+#### B. Management and Cost Efficiency
+##### There is no connection between high corporate costs and good performance
+- Our experience has been that the manager of an already high-cost operation frequently is uncommonly resourceful in finding new ways to add to overhead, while the manager of a tightly-run operation usually continues to find additional methods to curtail costs, even when his costs are already well below those of his competitors. (pp. 57-58)
+- Size seems to make many organizations slow-thinking, resistant to change and smug (p. 58) #revisit 
+	- Churchill: “We shape our buildings, and afterwards our buildings shape us”
+- We would rather suffer the visible costs of a few bad decisions than incur the many invisible costs that come from decisions made too slowly—or not at all—because of a stifling bureaucracy (p. 58)
+	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
+		- [[13-4 Time is scarce because action involves choosing one thing over others]]
+- A compact organization lets all of us spend our time managing the business rather than managing each other (p. 58)
+	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]] #revisit 
+##### Be careful to avoid overstaffing when times are good—it may also have imitating and dangerous consequences
+- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+##### Good or bad times—be cost-efficient and do what makes sense
+- No yo-yo approach—do what makes sense for the customers and employees at all times, and never add the unneeded (pp. 58-59)
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+##### Do what makes sense—not how it is reported
+#### C. Communication
+##### With owners
+- What needs to be reported is data that helps financially-literate readers answer three key questions: (1) **Approximately how much is this company worth?** (2) What **is the likelihood that it can meet its future obligations?** and (3) **How good a job are its managers doing, given the hand they have been dealt?** (p. 59)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.]]
+- Full reporting means giving you the information that we would wish you to give to us if our positions were reversed (p. 59)
+	- I.e., respect the Golden Rule
+		- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]] #revisit 
+			- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+- Accounting is but an aid to business thinking, never a substitute for it (p. 59)
+	- [[1-1a2e11 Nothing objectively represents the represented]]
+- The CEO who misleads others in public may eventually mislead himself in private (p. 60)
+	- [[5-2c1 You perceive yourself by what you do repeatedly, just as you judge others by their routine behaviors.]] #revisit 
+		- [[2-1a1a3c Belong where your desired habits are the norm]]
+##### On rumors
+- Don’t comment in any way (p. 60)
+	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 ### 14. How to Reduce Risk: Prevention is Better than Cure
 - Keep it simple (p. 61)
 	- [[2-1a0c1d1 Focus on the few variables]] #revisit 

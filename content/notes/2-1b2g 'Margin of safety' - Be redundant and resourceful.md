@@ -7,6 +7,7 @@ Related:
 - [[5-1b2.1 Don’t invest in prediction, because the Black Swan is inherently unpredictable]]
 - [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
 - [[6-3b2a Interoperability implies compounding]]
+- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - [[13-8a2.1 Money is the present good par excellence]]
 
 #MentalModelsSystems 

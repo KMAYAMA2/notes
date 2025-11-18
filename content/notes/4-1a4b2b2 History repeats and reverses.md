@@ -1,3 +1,4 @@
+> “History is a gallery of pictures in which there are few originals and many copies” – Alexis de Tocqueville
 
 Next:
 - [[4-1a4b2b2a Rules and leaders emerge from informal governance but they are a product of inscrutable social dynamics rather than thoughtful design]]

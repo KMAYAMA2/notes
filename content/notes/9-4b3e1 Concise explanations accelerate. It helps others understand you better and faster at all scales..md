@@ -6,6 +6,8 @@ Next:
 	- [[QUE5 - How to get ahead of 95% of writers - write your first draft, then ask for each sentence “Is this the way I’d say this if I were talking to a friend”]]
 
 Related:
+- [[2-1a0c1d1 Focus on the few variables]]
+- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 - [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them]]
 - [[5-1 When you are long truth you are long volatility and time]]
 - [[5-1b1b You should beget and benefit from volatility (learning)]]

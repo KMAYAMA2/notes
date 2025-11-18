@@ -1,1 +1,5 @@
-[[7-1d1c You can be at the edge of the newest technology]]
+
+E.g., Zcash
+
+Previous: 
+- [[7-1d1c You can be at the edge of the newest technology]]
