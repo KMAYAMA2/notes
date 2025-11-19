@@ -16,3 +16,6 @@
 	- [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]
 - *However, you need some form of constraints to see the problem:*
 	- [[1-1a2e7b You need some form of constraints to see anything]]
+
+- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
+	- [[3-1a4c Market and non-market categorization is arbitrary]]

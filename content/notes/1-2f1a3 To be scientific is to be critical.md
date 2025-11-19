@@ -6,7 +6,7 @@ Next:
 - [[1-2f1a3a Peirce - science without special equipment is philosophy]]
 
 Related:
-- [[2-1aa Observe]]
+- [[2-1z Observe]]
 - [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
 - [[5-2b7 The skeptical empiricist doubts both data and theory]]
 - [[10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.]]

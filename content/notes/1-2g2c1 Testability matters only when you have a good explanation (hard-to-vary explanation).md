@@ -20,6 +20,7 @@ Related:
 		    - [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
 - [[1-2g2s7a Knowing probability doesn't mean you can predict it]]
 	- [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]
+- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
 - [[10-2g2e9b DNA is digital system which evolves by discrete changes. If it were analog, evolution couldn’t have happened.]]
 
 #develop 

@@ -33,7 +33,7 @@
 		- Related: [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]]
 	- To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it. (Thomas McCrae; The Method of Zadig)
 		- Related: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
-		- Related: [[2-1aa Observe]]
+		- Related: [[2-1z Observe]]
 - Never jump to conclusions and try to collect facts as open-minded as possible
 	- We approached the case...with an absolutely blank mind, which is always an advantage. We had formed no theories. We were there simply to observe and to draw inferences from our observations. (Holmes; The Cardboard Box)
 		- Related: [[1-1a4b You can’t cope with the reality solely via induction or deduction]]
@@ -43,12 +43,12 @@
 - Start with collecting facts and follow them where they lead
 	- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom)
 		- Related: [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
-		- Related: [[2-1aa Observe]]
+		- Related: [[2-1z Observe]]
 		- Related: [[5-2b6 Theories need data]
 	- For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay)
 		- Related: [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 		- Related: [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
-		- Related: [[2-1aa Observe]]
+		- Related: [[2-1z Observe]]
 - Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use
 	- A hypothesis is...the obligatory starting point of all experimental reasoning. Without it no investigation would be possible, and one would learn nothing: one could only pile up barren observations. To experiment without a preconceived idea is to wonder aimlessly. (Claude Bernard)
 		- Related: [[5-2b5 Theories precede data]]
@@ -90,10 +90,10 @@
 - Know where to look
 	- Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell)
 		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
-		- Related: [[2-1aa Observe]]
+		- Related: [[2-1z Observe]]
 	- “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes)
 		- Related: [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
-		- Related: [[2-1aa Observe]]
+		- Related: [[2-1z Observe]]
 	- It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze)
 		- Related: [[5-2b5 Theories precede data]]
 	- The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles)

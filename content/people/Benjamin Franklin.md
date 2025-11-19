@@ -1,7 +1,7 @@
 ---
 date: 2025-08-08
 ---
-
+> “Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.”
 # [rules for making oneself a disagreeable companion](https://founders.archives.gov/documents/Franklin/01-04-02-0021)
 - “Thus you will be sure to please yourself. The polite Man aims at pleasing others, but you shall go beyond him even in that. A Man can be present only in one Company, but may at the same time be absent in twenty. He can please only where he is, you whereever you are not.”
 	- relate with leverage notes

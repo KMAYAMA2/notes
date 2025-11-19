@@ -3,5 +3,5 @@ Next:
 - [[10-2b I cannot be fully explicated]]
 
 Related:
-- [[2-1aa Observe]]
+- [[2-1z Observe]]
 - [[10-1b Culture is set of ideas which affect behavior including unconscious ones like skills, expectations, and emotional preferences.]]

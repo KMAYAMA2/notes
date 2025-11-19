@@ -13,11 +13,12 @@
 Next:
 - [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.]]
 - [[2-1a1 'The map is not territory' - Find many maps as possible, across globe-time-fields, and try to bring your map closer to the territory as possible (i.e., reality)]]
-- [[2-1aa Observe]]
+- [[2-1aa Privacy is the absence of information leakage]]
 - [[2-1b Seeing the unseen (面影・うつろい)]]
 
 Related:
 - [[1-2g2t3f Contingency can be only realized when you evoke the multiverse]]
+- [[2-1z Observe]]
 - [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 - [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
 - [[10-2g2e9b1 Evolution couldn't have happened without the multiverse]]

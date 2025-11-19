@@ -2,6 +2,9 @@
 
 Truth makes you harder to fool yourself.
 
+Next:
+- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+
 Related:
 - [[5-1 When you are long truth you are long volatility and time]]
 - [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]

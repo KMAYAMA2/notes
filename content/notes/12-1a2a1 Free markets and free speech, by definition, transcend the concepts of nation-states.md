@@ -2,6 +2,8 @@ Remember what happened to USSR after Gorbachev introduced *glasnost* (free speec
 
 Using [[Ludwig Lachmann]]’s parlance, it can be said that the free market coordinates the *triad*—the Plan Structure, the Portfolio Structure, and the Control Structure.
 
+In terms of money, *unstoppable private money* is better than *stoppable public money*. And a corollary of [the law of cryptocurrency isomorphism](https://juraj.bednar.io/en/blog-en/2022/10/24/the-law-of-cryptocurrency-isomorphism/) is the fact that regulators can’t just ban certain cryptocurrencies—if any regulator wants to pass a law against anonymous cryptocurrencies, they are clueless about the law of cryptocurrency isomorphism, which is above both the laws and the constitution—sort of like the law of conservation of energy. *[[5-1b1a2c0.1 Perfect replication is impossible |The slip]]* is inevitable.
+
 Next:
 - ***[[12-1a2a2 資本は資本の一元性を好み、商品は商品の多様性を好む]]***
 
@@ -17,6 +19,7 @@ Related:
 	- E.g., physical borders and quotas (both are arbitrary social constructs) #contingency 
 		- [[12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex]]
 - [[5-3c Knowledge is irreversible, and can only go from private to public]] #revisit 
+- [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
 
 The West now: #develop 
 - Left is against free speech

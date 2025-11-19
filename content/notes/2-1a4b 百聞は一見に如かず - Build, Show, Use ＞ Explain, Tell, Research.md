@@ -8,7 +8,7 @@ Next:
 Related:
 - [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge]]
 - **[[2-1a4 'Language instinct' - Language can't exhaust mind]]**
-- [[2-1aa Observe]]
+- [[2-1z Observe]]
 - 一見で十分なときもある
 	- [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
 - [[7-1b3a Don’t argue. Build. Their incomprehension is your moat.]]

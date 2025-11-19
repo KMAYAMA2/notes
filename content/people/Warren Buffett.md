@@ -2039,13 +2039,27 @@ I personally think “microeconomics” in the context used here can be construe
 - Don’t comment in any way (p. 60)
 	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 ### 14. How to Reduce Risk: Prevention is Better than Cure
+#### A. EASY DOES IT
+##### One of the best ways to avoid trouble is to keep it simple
 - Keep it simple (p. 61)
-	- [[2-1a0c1d1 Focus on the few variables]] #revisit 
-- Do the basics well (p. 62)
+	- [[2-1a0c1d1 Focus on the few variables]]
+		- [[5-2a0 Know what to measure]]
+- In investing it is not necessary to do extraordinary things to get extraordinary results. This statement holds true in business management as well. What a manager must do is handle the basics well and not get diverted. Establish the right goals and never forget what you set out to do. (p. 62)
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
-- A chain is no stronger than its weakest link—look for mono-linked chains (p. 62)
+##### Stay with simple propositions
+- If only one variable is key to a decision, and the variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90% A chain is no stronger than its weakest link—look for mono-linked chains (p. 62) #revisit 
 	- [[2-1e Everything is connected in a complex way]]
 	- [[6-8 Train your weakest link]]
+- Why search for a needle buried in a haystack when one is sitting in plain sight? (p. 62)
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+		- [[3-1c3c3a2 Time spent doesn't mean much]]
+##### And I only need a handful of ideas
+- An investor needs to do very few things right as long as he or she avoids big mistakes (p. 62)
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
+
+TBD
 - If it’s not worth doing, it’s not worth doing well (p. 63)
 	- Only work on what matters—always ask, *then what?*
 		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
@@ -2295,7 +2309,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Look for weak competition—competence is relative concept (1h6m)
 	- [[12-1e4 Nothing is objectively and independently good]]
 ## 400 pages of Buffett and Munger (Founders #380) ~1h7m
-- Yogi Berra on [[2-1aa Observe |observing]] (9m)
+- Yogi Berra on [[2-1z Observe|observing]] (9m)
 - Cut envy
 - Deserve what you get
 - On adjacent opportunities

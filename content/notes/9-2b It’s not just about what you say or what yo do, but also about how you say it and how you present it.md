@@ -1,4 +1,4 @@
-
+> "We kill people based on metadata." – Michael Hayden (former CIA & NSA director)
 
 Next:
 - ***[[9-2b1 情報媒体が情報自体よりも情報力を持つこともある]]***

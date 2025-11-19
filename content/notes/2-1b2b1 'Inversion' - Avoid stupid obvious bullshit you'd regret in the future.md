@@ -4,7 +4,7 @@
 
 > “I think being successful is just about not making mistakes. It’s not about having correct judgement. It’s about avoiding incorrect judgements.” – [[Naval Ravikant]]
 
-> “I wanted to project myself forward to age 80 and say, “Okay, now I’m looking back on my life. I want to have minimized the number of regrets I have.” . . . I knew that when I was 80 I was not going to regret having tried Amazon. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not ever having tried. I knew that that would haunt me every day, and so, when I thought about it that way it was an incredibly easy decision.” – Jeff Bezos
+> “I wanted to project myself forward to age 80 and say, “Okay, now I’m looking back on my life. I want to have minimized the number of regrets I have.” . . . I knew that when I was 80 I was not going to regret having tried Amazon. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not ever having tried. I knew that that would haunt me every day, and so, when I thought about it that way it was an incredibly easy decision.” – [[Jeff Bezos]]
 
 反面教師
 
@@ -17,6 +17,7 @@ Related:
 - [[2-1b2c 'Compounding' - Permeate across the timeline]]
 - [[4-1a4b6a1 Future self is enough of an audience]]
 - [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+- [[5-2c2b The Lindy effect]]
 - [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
 - On inversion
 	- [[3-1b0 Think forward, but also think in reverse via inversion]]
@@ -30,5 +31,8 @@ Related:
 			- The difference between pro and amateur tennis players
 
 *"Sometimes the cost of being wise is that other people treat you like a fool. And no wonder: fools can’t see what wise people do. Wise people see life in all its breadth: work, health, family, friends, faith, and community. They don’t fixate on one part to the exclusion of others. They instead know how to harmonize life’s various parts, and pursue each in proportion to the whole. They know that achieving harmony in that way is what makes life meaningful, admirable, and beautiful."*
+
+Contradictory?
+- [[2-1b4 Not fighting can win you the battle]]
 
 #MentalModelsGeneral 

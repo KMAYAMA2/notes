@@ -11,7 +11,7 @@ Digital concepts like crypto taking over the political discourse is a great exam
 New framework means new players, and [[7-1b3d New stars rise along with the new platform |new stars emerge along with the new platform]]. [[12-1a Turning constants into variables increases volatility |Turning constants (nation states) into variables will increase volatility]], so be prepared!
 
 ---
-Related mental model: [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework. |creative destruction]]
+Related mental model: [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.|creative destruction]]
 
 Next: [[12-1a2b1 Left-right consensus is anarchy |Left-right consensus is anarchy]]
 
