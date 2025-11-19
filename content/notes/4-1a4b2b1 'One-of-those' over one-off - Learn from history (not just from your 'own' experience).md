@@ -12,6 +12,8 @@ Next:
 
 Related:
 - [[2-1a5a Evolution doesn't care about lifetime of each individual gene-meme carrier (its sample is beyond your own experience and any human lifetime)]]
+	- [[2-1c1 'Comparative advantage' - If others can do it, let them]]
+	- [[3-1c3c5 Best of all is when you can say they would’ve found this had they taken their own ideas seriously]] #revisit 
 - [[4-1a4b2b0 Your algo is your principles]]
 - [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded.]]
 	- [[AN3C - Recombination is 1,000x more effective than random mutation]]

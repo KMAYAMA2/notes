@@ -2108,11 +2108,56 @@ I personally think “microeconomics” in the context used here can be construe
 		- Maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
 			- E.g., [[13-5b2j There is no natural rate of interest in reality]]
 ### 15. Sometimes Mistakes are Made
-- The Noah rule and prediction (p. 80)
+#### Do post mortems on my dumb decisions
+- Agonizing over errors is a mistake. But acknowledging and analyzing them can be useful. (p. 79)
+	- [[1-2f1a Error-correction is the beginning of infinity. All jumps to universality occur in digital systems.]]
+	- [[2-1a0c2 Failing is inevitable, but do not fail epistemologically]]
+#### Then learn from them but it is better to learn from others’ mistakes
+- Managers who have learned much from personal experience in the past usually are destined to learn much from personal experience in the future. (p. 79)
+	- [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+#### Accept and adapt to the world as it really is (p. 79)
+- [[1-2g2r0 The Turing principle implies 梵我一如]]
+#### No amount of wishful thinking will make reality go away however painful it is
+- Comte: “The intellect should be the servant of the heart, but not its slave” (p. 80)
+	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+#### But I don’t want to think about distant problems or prevent future threats #revisit 
+#### But don’t suck my thumb when I should act
+- The Noah rule and prediction—predicting rain doesn’t count; building ark does (p. 80)
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
 	- [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]
+	- [[13-2.3 Learning is about changing your behavior]]
+#### Attack growing problems early
+- Solve them while you can (p. 80)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+		- Also see p. 93
+- You do not adequately protect yourself by being half awake while others are sleeping (p. 80) #revisit 
+	- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
+	- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
+#### Prevention is always better than cure
+- The time to have considered—and improved—the reliability of New Orleans’ levees was *before* Katrina (p. 80)
+	- [[5-1b2.3 Don’t be the turkey—the Black Swan might be a Grey Swan depending on your perspective]]
+#### When I make a mistake in my original purchase, or the business, its competitive position or management permanently deteriorates, get out
+- The most important thing to do when you find yourself in a hole is to stop digging (p. 80)
+	- [[2-1b4 Not fighting can win you the battle]]
+#### Adapt and change my view when the facts and circumstances change (p. 80)
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+	- Buffett meets [[Sherlock Holmes |Sherlock]]
+#### Admit I was wrong and change course—it is never a good idea to catch “get-evenitis”—I don’t have to make it back the way I lost it (p. 81)
+- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+	- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
+#### Decisions should be based on the present and where I want to be. Not where I’ve been.
+- We don’t back into decisions (p. 81) #revisit 
+	- [[RUL3 - Invert, always invert]]
+	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+	- [[4-1a4b2b0 Your algo is your principles]]
+#### A Final word—Think like a businessman
 - Ben Graham: “Investment is most intelligent when it is most businesslike” (p. 81) #revisit 
-
+	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+##### Confucius: “In all things success depends on previous preparation, and without such previous preparation there is sure to be failure” (p. 81)
+- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+- [[5-2b5 Theories precede data]]
+- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
 # The Outsiders (see [[Henry Singleton]])
 ## The Investor as CEO
 - His contrarian insight was that companies with low capital needs and the ability to raise prices were actually best positioned to resist inflation’s corrosive effects. (p. 173)

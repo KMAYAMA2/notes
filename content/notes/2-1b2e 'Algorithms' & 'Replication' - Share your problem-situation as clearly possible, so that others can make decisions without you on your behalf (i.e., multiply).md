@@ -23,6 +23,10 @@ Related:
 - On copy-pasting behaviors (inverted)—you can't imitate your way to greatness because you can only copy the effect, not the cause
 	- [[9-1b0 Knowledge (both explicit and inexplicit) is created individually. You don’t say “I took it from him.” You can’t blame “he took it from me.”]]
 	- [[10-2g1f1 Natural selection can only operate on phenotypes (physical attributes) and not on genotypes (the knowledge bearing entity). The same (or similar) phenotypes doesn’t mean they share the same genotype.]]
+- And follow through #revisit 
+	- [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]]
+	- [[3-1d Consistency requires consistent constraints]]
+	- [[4-1a4b2b0 Your algo is your principles]]
 
 ---
 - *It's an inversion of:*

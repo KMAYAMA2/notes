@@ -4,6 +4,8 @@
 
 > “Chance favors the prepared mind” – Louis Pasteur
 
+> “In all things success depends on previous preparation, and without such previous preparation there is sure to be failure” – Confucius
+
 *Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*
 
 Next:
@@ -22,3 +24,6 @@ Related:
 - [[1-2g2s7b You can’t justify the predicted value of the probability inductively, because theory (i.e., the laws of physics) provides the probability, not the experiment]]
 - **[[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]**
 - [[5-1b4c4 Pay attention to your ‘taboos’ - If there is something you fear unconsciously, you have to face it]]
+
+- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+- [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]]
