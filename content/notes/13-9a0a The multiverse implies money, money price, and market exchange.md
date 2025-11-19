@@ -9,12 +9,20 @@ There are infinite fungible instances of yourself across the multiverse—fungib
 
 Put differently, the topology of mind and money is probably the same—**humans replicated themselves in money**, as it were. And both were implied in the multiverse.
 
+And if what makes money—*moneyness*—consists of its medium-ness and fungibility, then not all money is equal in terms of its moneyness.
+
+Internet money beats physical money like gold and cash due to its transportability (and is protected against debasement from money printing). But with Bitcoin, we paid for portability with fungibility—because Bitcoin is not fungible. And because of its non-fungibility it’s traceable. And traceable means, depending on the existence of adversarial actor, can nullify that Bitcoin’s medium-ness as well.
+
+Fungible Bitcoin is the shielded Zcash. Digital-native money is shielded Zcash. And shielded Zcash is resistant to adversarial quantum attacks—it is as if the multiverse is urging us to replicate create money true to its nature. Money has to be multiversal in spirit—to achieve everything, the currency of the future must be able to be anything.
+
 Next: 
 - **The physical reality creates life, mind, and money via the Turing principle—as such the multiverse is implied in life, mind, and money**. #revisit 
 
 Related
 - On money
 - On money price
+- On purchasing power #revisit 
+	- [[13-1a3a2d4 The purchasing power of money in terms of all other commodities is continually changing, and there is no way to measure such changes]]
 - On market
 - On exchange
 - On being implied in the multiverse
