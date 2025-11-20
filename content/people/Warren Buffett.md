@@ -2058,14 +2058,49 @@ I personally think “microeconomics” in the context used here can be construe
 - An investor needs to do very few things right as long as he or she avoids big mistakes (p. 62)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
+##### It is better to just try to avoid the really dumb things—what really can hurt me—than try to be very smart (p. 63)
+- [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
+- [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
+##### Make it easy for myself—don’t swim against the tide
+- We concentrated on identifying one-foot hurdles that we could step over rather than acquiring any ability to clear seven-footers (p. 63)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+- We’ll now settle for one good idea a year (p. 63)
+##### Study harm so I know what to avoid
+- “All I want to know is where I’m going to die so I’ll never go there” (p. 63)
+	- [[RUL3 - Invert, always invert]]
+##### Deal with what has a real impact
+- “It is useless for us to make purchases that are inconsequential in relation to Berkshire’s capital”
+	- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all |If something is not worth doing at all, it’s not worth doing well]] (p. 63)
+		- Only work on what matters—always ask, *then what?*
+			- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+- We continue to need “elephants” in order for us to use Berkshire’s flood of incoming cash. We must therefore ignore the pursuit of mice. (p. 64)
+	- [[2-1e Everything is connected in a complex way]]
+	- [[3-1a4a1 The whole must be evoked in explaining the parts]]
+	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
+	- [[12-1e4 Nothing is objectively and independently good]]
+#### B. MINIMIZE THE CHANCE THA I MAKE A BAD DEAL: Know where I have an edge and buy with a safety margin
+##### Buy a great or good business I can understand, which is cheap (p. 64)
+- Even an experienced and intelligent analyst can easily go wrong in estimating future “coupons.” At Berkshire, we attempt to deal with this problem in two ways.
+##### 1. Stick to what I understand and where I have a talent and forget about things I don’t
+- What counts for most people in investing is not how much they know, but rather how realistically they define what they don’t know (p. 64)
+	- Defining what you don’t know is essential in investing as well
+		- [[3-1a4b1.1 Mark Twain - 'It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so.']]
+		- [[3-1a4b1.2 Define and stay within your circle of competence]]
+##### Do I understand the company’s product, the nature of its competition and what can go wrong over time?
+##### How can I estimate a range of values for something I don’t understand? How do I know if I buy cheap if I can’t value the asset? 
+##### Know what I can do and can’t do and know what I know and don’t know—those that don’t do this are dangerous
+- If we have a strength, it is in recognizing when we are operating well within our circle of competence and when we are approaching the perimeter (p. 64)
+	- [[1-1a5a3 Knowledge is about knowing the edge]]
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+##### Am I smart enough to know what I don’t know?
+- You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital. (p. 64)
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+##### 2. Buy with a safety margin—get more value than I’m paying
+
 
 TBD
-- If it’s not worth doing, it’s not worth doing well (p. 63)
-	- Only work on what matters—always ask, *then what?*
-		- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-		- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
-- Defining what you don’t know is essential in investing as well (p. 64)
-	- [[3-1a4b1.2 Define and stay within your circle of competence]]
+
 - Optimism is the enemy of rational buyer (p. 66)
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]] #revisit 
 - Simply being a contrarian is easy and doesn’t count (p. 67)

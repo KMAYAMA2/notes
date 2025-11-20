@@ -1,5 +1,8 @@
 > “Industry is best at the intersection of science and art.” – Edwin Land
 
+Next:
+- [[1-1a5a3 Knowledge is about knowing the edge]]
+
 Related:
 - [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 - [[9-4c Someone who never writes has no fully formed ideas about anything nontrivial]]
