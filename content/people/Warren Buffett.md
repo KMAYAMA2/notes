@@ -2079,7 +2079,7 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[3-1a4a1 The whole must be evoked in explaining the parts]]
 	- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
 	- [[12-1e4 Nothing is objectively and independently good]]
-#### B. MINIMIZE THE CHANCE THA I MAKE A BAD DEAL: Know where I have an edge and buy with a safety margin
+#### B. MINIMIZE THE CHANCE THAT I MAKE A BAD DEAL: Know where I have an edge and buy with a safety margin
 ##### Buy a great or good business I can understand, which is cheap (p. 64)
 - Even an experienced and intelligent analyst can easily go wrong in estimating future “coupons.” At Berkshire, we attempt to deal with this problem in two ways.
 ##### 1. Stick to what I understand and where I have a talent and forget about things I don’t
@@ -2096,16 +2096,74 @@ I personally think “microeconomics” in the context used here can be construe
 ##### Am I smart enough to know what I don’t know?
 - You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital. (p. 64)
 	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
-##### 2. Buy with a safety margin—get more value than I’m paying
-
-
-TBD
-
+##### 2. Buy with a safety margin—get more value than I’m paying (p. 65)
+- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+- [[3-1a4b2b What is smart at one price is dumb at another]]
+- [[12-1e4 Nothing is objectively and independently good]]
+##### Surprises and accidents happen—unexpectedly and randomly
+- Keep your estimates conservative and to focus on industries where business surprises are unlikely to wreak havoc on owners (p. 65)
+	- [[2-1a0c 'Denial' - Accept the existence of Black Swans]]
+	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
+	- See also pp. 152-181 on essentiality #revisit 
+##### What may “kill me” is often what I least expect (p. 65)
+##### How can I lose here? How hurt can I be? First focus on what I can lose before looking at what I can make—and if I can’t judge what can go wrong—stay away!
+- Focus on exposure, rather than on experience (p. 65)
+	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+	- See also p. 128
+##### Is the gain/loss ratio favorable and consequential? Do I gain a lot if I’m right and lose little if I’m wrong? (p. 65)
+- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+##### How bad are the consequences if I’m wrong? (p. 65)
+- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[2-1b2b2.1 Life is a multiplicative game—take advantage of network effects but avoid the risk of ruin]]
+- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+##### Some guidelines on how to win in insurance, which applies to other areas as well (p. 66)
+- The winners [[2-1b2b1.2 Anything worth doing is worth doing to excess |unfailingly stick]] to three key principles:
+	1. *Accept only those risks that you can properly evaluate, evaluate all relevant factors including remote loss scenarios, and ignore market-share considerations and be sanguine about losing business to competitors that are offering foolish prices or policy conditions*
+		- [[3-1a4b1.2 Define and stay within your circle of competence]]
+		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+		- [[5-2a0 Know what to measure]]
+	2. *Limit the business so that it won’t suffer no aggregation of losses from a single event or from related events that will threaten their solvency—ceaselessly search for possible correlations among seemingly-unrelated risks*
+		- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+		- [[2-1e Everything is connected in a complex way]]
+	3. *Avoid business involving moral risk—avoid bad people at all cost*
+		- Read [[Carlo Cipolla]]
+- “We would never issue a policy that lacked a cap”
+	- [[1-1a5b3.1 What counts is the payoff from success—and not how often you are right]]
+	- [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+#### C. CONDITIONS AND ENVIRONMENT WHERE I HAVE THE LARGEST CHANCE OF FINDING A GOOD DEAL—AND A WARNING DURING GOOD TIMES
+##### Euphoria is my enemy (p. 66)
+##### Assets are often cheapest when it looks darkest
 - Optimism is the enemy of rational buyer (p. 66)
+	- [[3-1a4b2b What is smart at one price is dumb at another]]
+	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]] #revisit 
-- Simply being a contrarian is easy and doesn’t count (p. 67)
+- Tomorrow is *always* uncertain (p. 66)
+	- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
+	- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
+	- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
+- Fear is the foe of the faddist, but the friend of the fundamentalist (p. 67)
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+	- [[10-1b4e Developing a taste means transitioning from being obsessed with where it came from (analog) to focusing on what it is and what it can do (digital)]] #revisit 
+- “Investors should remember that excitement and expenses are their enemies. And **if they insist on trying to time their participation in equities, they should try be fearful when others are greedy and greedy when others are fearful**.” (p. 67) #revisit 
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- Simply being a contrarian is as easy as a follow-the crowd strategy and doesn’t count—what’s required is thinking (p. 67)
 	- [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
-- When it’s raining gold, get a bucket (p. 67)
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+	- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
+	- [[10-1b4c ミメシス is analog-indexical, パロディア is digital-iconical, アナロギア is digital-symbolical]] #revisit 
+- Big opportunities come infrequently. When it’s raining gold, reach for a bucket, not a thimble. (p. 67)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+	- Also see p. 144
+##### The most common beginning of disaster is often a false sense of security (p. 67)
+##### Good times and optimism can sometimes be my worst enemy
+- Speculation is most dangerous when it looks easiest (p. 67) #revisit 
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]] #revisit 
+
+TBD…
+
 - Some things just take time—be patient (p. 69)
 - To finish first, you must first finish (p. 70)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]

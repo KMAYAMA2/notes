@@ -16,3 +16,4 @@ Related:
 - [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 - [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 
+- [[5-1b1a2c0 No theory can exhaust reality]]
