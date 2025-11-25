@@ -4,6 +4,8 @@ The laws of physics implied that something like money will be demanded, and it w
 
 “**The desire to keep a cash balance stems from fundamental *uncertainty*** as to the right time for making purchases, whether of capital or of consumers’ goods. Also important are a basic *uncertainty* about the individual’s own future value scale and the desire to keep cash on hand to satisfy any changes that might occur. Uncertainty, indeed, is a fundamental feature of all human action, and uncertainty about changing prices and changing value scales are aspects of this basic uncertainty.”
 
+This is why [[Warren Buffett |Buffett]] invests in companies whose future is ([[12-1e4 Nothing is objectively and independently good |relatively speaking]]) predictable #revisit 
+
 Next:
 - [[13-8a2a Money allows you to deal with change per se, since there is no substantive difference between changes in values scales of others and that of himself in the future]]
 - [[13-8a2.1 Money is the present good par excellence]]

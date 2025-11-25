@@ -11,6 +11,7 @@ Related:
 - On unobserved universes
 	- [[13-1a3.1 The concept of cost must evoke the multiverse]]
 		- [[13-1a3.0 Return is about how much, when you expect to get it, how sure you are—in comparison with other possible returns]]
+- [[1-1a4d Nothing can be explained only in terms of itself]]
 - [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
 - [[3-1a4b2b What is smart at one price is dumb at another]]
 - [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]

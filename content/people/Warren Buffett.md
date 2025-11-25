@@ -2175,11 +2175,44 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[2-1e Everything is connected in a complex way]]
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- The quote is from 2001, but still applies to 2025 (relate with Michael Burry) #TODO 
+##### I don’t know how much risk I am being exposed to until “the tide goes out” (p. 68)
+- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]] #develop 
+##### We all think we are invulnerable but don’t fly too close to the sun
+- The giddy participants all plan to leave just seconds before midnight. There’s a problem, though: They are dancing in a room in which the clocks have no hands. (p. 68)
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- See also p. 43
+##### I believe I’m making money—until I shake my head
+- “You never touched me,” says the fellow, to which his adversary replies: “Just wait until you try to shake your head” (p. 69)
+	- [[13-8a2.1 Money is the present good par excellence]] #develop 
+##### Every generation has to get his own head chopped off in its own way—throughout history there have always been bubbles and busts—yet they take us by surprise every time
+- The less the prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs (p. 69)
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- [[12-1e4 Nothing is objectively and independently good]]
+	- See also p. 142
+##### Patience is a virtue and it helps keep me out of trouble
+[[Naval Ravikant |Naval]] takes this further when he says one needs to *be patient with the results* as well (because we’re dealing with complex systems and many [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas |people]]) #develop 
+- Markets can—and will—change in unexpected ways and at unexpected times. We’ll try to resist the temptation to do something marginal simply because we are long on cash. There’s no use running if you’re on the wrong road. (p. 69)
+	- [[3-1c1d0.1 'Velocity' - 'If you don’t know where you want to go, any road will take you there.']]
+	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+	- [[5-1 When you are long truth you are long volatility and time]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- [[12-1e0 Everything changes]]
+	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+- Be very patient. Some things just take time—you can’t produce a baby in one month by getting nine women pregnant. (p. 69)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- Adopt the same attitude one might find appropriate in looking for a spouse: It pays to be active, interested and open-minded, but it does not pay to be in a hurry. (p. 69)
+	- Remember [[Jeff Bezos]]’ one-way and two-way doors analogy #revisit 
+	- [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+##### Inactivity can sometimes be very intelligent (p. 69)
+- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+- [[5-1b1d1 Not investing is also a form of investing]]
+#### D. BE CONSERVATIVE WITH DEBT: Financial strength gives me staying power and more options
+##### I can get in a lot of trouble with leverage
 
+TBD
 
-TBD…
-
-- Some things just take time—be patient (p. 69)
 - To finish first, you must first finish (p. 70)
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
 - Only cash can meet the payment (p. 71)
