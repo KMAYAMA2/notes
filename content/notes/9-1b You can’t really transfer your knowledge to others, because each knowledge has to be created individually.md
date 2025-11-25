@@ -8,6 +8,7 @@ Next:
 - [[9-1c When you take Popperian epistemology seriously, you take people (including children) seriously]]
 
 Related:
+- [[1-2h A good explanation makes it harder to fool yourself]]
 - [[9-1d2b Dismissing some people as irrational presupposes the bucket theory of mind. Everyone’s mind is active. Do not assume you can ‘transfer’ your knowledge to others.]]
 - [[10-2g3f Anti-rational memes contain knowledge, and each individual has to discover them]]
 - The free market coordinates the individual curiosity with that of others—similar to how it coordinates [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |the triad]] (think about what happens when there’s an intervention) #revisit 

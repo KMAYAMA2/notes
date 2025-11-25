@@ -2161,6 +2161,21 @@ I personally think “microeconomics” in the context used here can be construe
 ##### Good times and optimism can sometimes be my worst enemy
 - Speculation is most dangerous when it looks easiest (p. 67) #revisit 
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]] #revisit 
+##### After a long period of good times and good experiences I feel falsely secure and confident and forget about risk and danger (p. 67)
+- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+##### I become overly optimistic and overconfident, relax my standards and forget history, and the fact that most industries and corporate performance move in cycles (some more than others) (p. 67)
+- [[3-1a4b4a Financial cycles ≠ Product cycles]] #revisit 
+##### Borrowers who shouldn’t have borrowed were being financed by lenders who shouldn’t have lent (p. 67)
+##### I never see the good times ending—until it’s too late
+- Scarlett O’Hara: “I’ll think about it tomorrow” (p. 68)
+	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+##### Believing the risk is low when the danger is greatest
+- When stocks are rising, there are a scarcity of targets to sue, and both questionable accounting and management chicanery often go undetected. But that’s just when *exposure* is likely to be exploding. When stocks fall, these sins surface, hammering investors with losses that can run into the hundreds of billions. (p. 68)
+	- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+	- [[2-1e Everything is connected in a complex way]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- The quote is from 2001, but still applies to 2025 (relate with Michael Burry) #TODO 
+
 
 TBD…
 

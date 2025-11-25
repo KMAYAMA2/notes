@@ -28,3 +28,5 @@ Related:
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+- Index is easier than symbols
+	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
