@@ -19,3 +19,5 @@ Related:
 
 - [[10-2g3d1.1 Humans create their own cause]]
 - [[10-2g3d1.2 There is no objective history—the past can be recreated and reinterpreted]]
+
+- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
