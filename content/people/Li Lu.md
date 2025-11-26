@@ -36,7 +36,8 @@ date: 2025-07-18
 	- only 5% are value investors
 		- other 95% likes trading in and out
 			- why value investing is persistently low percent of asset management business?—because *assets find these people*
-				- this is counter-point to **make what people want**
+				- this is counter-point to **make what people want** #develop 
+					- see my pieces on [[Carlo Cipolla]]
 				- common sense is the least common commodity
 	- “most of the time you’re going to spend as a value investor is really to be an academic, to be a researcher, to be a journalist actually, to basically be have insatiable curiosity to really, and try to figure out how just about everything works”
 	- “the more you know the better off you are as an investor”

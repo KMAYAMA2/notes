@@ -2210,21 +2210,87 @@ I personally think “microeconomics” in the context used here can be construe
 - [[5-1b1d1 Not investing is also a form of investing]]
 #### D. BE CONSERVATIVE WITH DEBT: Financial strength gives me staying power and more options
 ##### I can get in a lot of trouble with leverage
+- When we borrow, we attempt to structure our loans on a long-term fixed-rate basis (p. 70)
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+- Polonius (slightly restated): “Neither a short-term borrower nor a long-term lender be” (p. 70)
+	- How does this statement fare with the Golden Rule? #revisit 
+- The conservatism has penalized our results but it is the only behavior that leaves us comfortable (p. 70)
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+- Leverage is addictive (p. 70)
+	- [[6-2 The cost effectiveness of anything addictive decreases over time. When you engage with them, you will either waste your time or money, very likely both.]]
+##### Leverage often produces a zero—even for smart people (p. 70)
+- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+##### To finish first, I must first finish (p. 70)
+##### Make sure I can handle even the worst conditions
+- We adhere to policies that will allow us to achieve acceptable long-term results under extraordinarily adverse conditions, rather than optimal results under a normal range of conditions (p. 70)
+	- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+- The roads of business are riddled with potholes; a plan that requires dodging them all is a plan for disaster (p. 71)
+	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+##### Having ready cash reserves helps me to sleep well
+- Only cash can meet the payment (p. 71)
+	- [[13-8a2.1 Money is the present good par excellence]]
+- Credit is like oxygen—when either is abundant, its presence goes unnoticed; when either is missing, that’s *all* that is noticed (p. 71)
+	- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+##### Never count on the kindness of strangers
+- We will always arrange our affairs so that any requirements for cash we may conceivably have will be dwarfed by our own liquidity. Moreover, that liquidity will be constantly refreshed by a gusher of earnings from our many and diverse businesses. (p. 71)
+	- This is how the Control Structure and the Plan Structure are designed to complement each other within Buffett’s *owner-capitalism* (see also p. 33 and pp. 39-40)—to withstand in adverse times #revisit 
+- Having loads of liquidity lets us sleep well (p. 71)
+	- [[3-1d Consistency requires consistent constraints]] #develop 
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- See also p. 56 and p. 59
+##### Having plenty of cash around also gives me opportunities—especially in times of turmoil or when others are scared
+- Cash is the loaded gun to shoot rare fast-moving elephants (p. 71)
+	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
+	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- [[13-8a2.1 Money is the present good par excellence]]
+- Tight credit environment is the best opportunity for acquisitions—not when there’s cheap money which will cause assets to be bid to the sky (p. 71)
+	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+- We will be equipped both financially and emotionally to play offense while others scramble for survival (pp. 71-72)
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+##### In order for cash to be “ready” it must be safe
+- CP (Commercial Paper) and MMF (Money Market Fund) ≠ Cash and Money (p. 72)
+	- Study September 2008 and apply the lessons to USDC/USDT research #TODO 
+- Ray DeVoe: “More money has been lost reaching for yield than at the point of a gun” (p. 72)
+	- [[2-6 You get what you pay for]]
+##### Don’t risk what I have and need to gain something I don’t need or to avoid something that doesn’t matter (p. 72)
+- See also p. 128
+##### Lending money to subsidiaries
+- “Every tub on its own bottom” philosophy (p. 72)
+	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+- Each subsidiary should manage its own financing—if each was dependent on the (rich) parent company it will result in sloppy decisions (p. 72)
+	- Replace subsidiary with child—the same still applies #revisit 
+#### E. DISTRUST BIASED ADVICE
+##### All investment advice that glitters is not gold
+- In the securities business, whatever can be sold will be sold (p. 72)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+		- [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
+##### What seems to be too good to be true often is
+- People who expect to earn 10% annually from equities during this century are implicitly forecasting a level of about 24,000,000 on the Dow by 2100 (p. 73)
+	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+	- [[3-1c1d0.1 'Velocity' - 'If you don’t know where you want to go, any road will take you there.']]
+	- [[RUL3 - Write out your goals. It’s amazing how few people do.]]
+- Beware the glib helper who fills your head with fantasies while he fills his pockets with fees. (p. 73)
+##### Don’t listen to people who offer me free money
+- When someone with experience proposes a deal to someone with money, too often the fellow with money ends up with the experience, and the fellow with experience ends up with the money. (p. 73)
+##### Or offer complex investment techniques
+- What witch doctor has ever achieved fame and fortune by simply advising “Take two aspirins”? (p. 73)
+	- See also p. 39
+	- [[QUE5 - Who has the right answer but I ignore because they’re inarticulate. Who do I listen to who is in essence just good marketing.]] #develop 
+		- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+		- [[2-1a0a1 Don't waste time unnecessarily complicating things]]
+		- [[2-1a0c1d1 Focus on the few variables]]
+		- [[3-1c1d4 We are bombarded with ‘unlikely’ events on our social media feed]]
+		- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
+##### What is good for the broker may not be good for me
+- One of the ironies of the stock market is the emphasis on activity—brokers, using terms such as “marketability” and “liquidity”, sing the praises of companies with high share turnover. (p. 73)
+	- [[2-1a0c1d1 Focus on the few variables]]
+	- [[5-2a0 Know what to measure]]
+	- See [[Li Lu]]’s comment on turnover and on trading in and out frequently
+##### Consultants are afraid of offending the hand that feeds them
 
 TBD
 
-- To finish first, you must first finish (p. 70)
-	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
-- Only cash can meet the payment (p. 71)
-	- [[13-8a2.1 Money is the present good par excellence]]
-- Cash is the gun to shoot rare fast-moving elephants (p. 71)
-	- [[13-8a2.1 Money is the present good par excellence]]
-- Tight credit environment is the best opportunity for acquisitions—not when there’s easy money (p. 71)
-- CP (Commercial Paper) and MMF (Money Market Fund) ≠ Cash and Money (p. 72)
-- Each subsidiary should manage their own financing—if each was dependent on the (rich) parent company it will result in sloppy decisions (p. 72)
-	- Replace subsidiary with child—the same still applies
-- What’s good for investor ≠ What’s good for broker (p. 73)
-	- See [[Li Lu]]’s comment on turnover and on trading in and out frequently
 - “Whose bread I eat, his song I sing” (p. 74)
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 - What the wise do in the beginning, fools do in the end (p. 74)

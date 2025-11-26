@@ -1,3 +1,4 @@
+> “If you want to shoot rare, fast-moving elephants, you should always carry a loaded gun” – [[Warren Buffett]]
 
 Next:
 - [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
