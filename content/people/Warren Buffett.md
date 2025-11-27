@@ -753,6 +753,7 @@ date: 2024-08-15
 ### Stick to, justify and rationalize your actions no matter how dumb they are #TODO 
 - Deprival-Superreaction Tendency and Inconsistency-Avoidance Tendency: we don’t like to lose what feels rewarding (pp. 94-95) 
 	- relate with biases notes
+		- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
 	- for the latter relate 
 		- making it public memos and notes 
 		- iteration-habit notes (upside) 
@@ -802,8 +803,10 @@ date: 2024-08-15
 - Carlyle (William Osler’s favorite quote): “the task of man is not to see what lies dimly in the distance, but to do with what’s clearly at hand” (p. 103)
 - On deprival-superreaction syndrome. It’s about loss aversion and our asymmetric reaction to gains and losses. (p. 103) 
 	- relate with biases notes
+		- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
 - Deprival superreaction tendency is about loss aversion to both possessed reward and almost possessed reward (p. 104)
 	- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+	- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]] #revisit 
 - Five positive interactions = one negative interaction (p. 104)
 	- it’s similar to multiplicative system (i.e., it’s math)
@@ -841,6 +844,8 @@ date: 2024-08-15
 	- [[1-2f1b9 Repeat what works]]
 - Appeal to interest (not exclusive to financial) and not to reason if you want to change conclusions (p. 109) 
 	- relate with deprival memos (e.g., losing status)
+		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+		- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
 - And explain why. Remember Carl Braun. Always communicate Who is to do What, When, Where and Why. (p. 110) 
 	- show them the process not just the result, relate with algo notes
 - And appeal to the fear of losing what they value (p. 110)
@@ -1045,7 +1050,8 @@ date: 2024-08-15
 - There are mispricings (p. 143)
 	- [[13-5b2k There is no such thing as mispricing, at least objectively]]
 - Deprival-superreaction tendency—Belridge Oil example (pp. 143-144)
-	- See p. 104 as it explains what deprival-superreaction tendency is 
+	- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
+		- See also p. 104 as it explains what deprival-superreaction tendency is
 - When you see something with (almost) no downside risk with upside potential, go at it with little more courage (p. 144)
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 	- [[2-1b2b4 Look for value-added risk reducing trades]]
@@ -1194,6 +1200,7 @@ date: 2024-08-15
 	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
 - ABCs of business decay: arrogance, bureaucracy, and complacency. “Whom the gods want to destroy, they send forty years of success” (p. 174)
 - Don’t employ unnecessary assistants. Parkinson’s law. (pp. 174-175)
+	- relate with p. 74
 - Widen the moat, build enduring competitive advantage, delight customers, and fight cost (p. 175)
 	- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
@@ -2288,19 +2295,73 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[5-2a0 Know what to measure]]
 	- See [[Li Lu]]’s comment on turnover and on trading in and out frequently
 ##### Consultants are afraid of offending the hand that feeds them
+- A compensation consultant: “There are two classes of clients you don’t want to offend—actual and potential” (p. 73)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- [[2-1b2b1a Get your incentives right from the beginning]]
+##### Even independent accountants are dependent
+- “Whose bread I eat, his song I sing” (p. 74)
+	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+#### F. AVOID MINDLESS IMITATOIN AND DON’T BE CAUGHT UP IN THE LATEST FADS AND FASHIONS
+See also pp. 42-50
+##### Don’t fall into the managerial trap of “the institutional imperative”
+- The tendency of executives to mindlessly imitate the behavior of their peers, no matter how foolish it may be to do so (p. 74)
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+		- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
+##### The same happens in the market
+- *What the wise do in the beginning, fools do in the end* (p. 74)
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+	- [[12-1e0 Everything changes]]
+##### Smart managers don’t always make rational decisions
+1. As if governed by Newton’s First Law of Motion, an institution will resist any change in its current direction
+	- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+	- [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+2. Just as work expands to fill available time, corporate projects or acquisitions will materialize to soak up available funds
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- Apply [[Tim Ferriss]]’ Parkinson’s Law application for increasing productivity #revisit 
+3. Any business craving of the leader, however foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops
+4. The behavior of peer companies, whether they are expanding, acquiring, setting executive compensation or whatever, will be mindlessly imitated
+- Invest in companies who are alert to the problem of “imperative” (p. 74)
+##### “I’d rather be wrong in a group than right by myself”
+- If an unconventional decision works out well, they get a pat on the back and, if it works out poorly, they get a pink slip (p. 74)
+	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
+- We are willing to *look* foolish as long as we don’t feel we have *acted* foolishly (p. 75)
+	- Similar to how [[Carlo Cipolla |creators]] appear to others #revisit 
+#### G. IMITATION DRIVEN BY THE FEAR OF LOSING BUSINESS: An example from the insurance world
+- “The other guy is doing it so we must as well” spells trouble in any business (p. 75)
+	- See [[Henry Singleton]]
+		- [[2-1a0c1d1 Focus on the few variables]]
+		- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+		- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
+		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
+- A sound insurance operation requires four disciplines—many insurers pass the first three and flunk the fourth:
+	1. An understanding of *all* exposures that might cause a policy to incur losses
+		- [[2-1e Everything is connected in a complex way]]
+		- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
+	2. A conservative evaluation of the likelihood of any exposure actually causing a loss and the probable cost if it does
+		- His approach in insurance business operation mirrors that of his investment philosophy (or his approach to life in general)—no wonder his insurance businesses were his main source of cash streams #revisit 
+			- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]]
+			- [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+	3. The setting of a premium that will deliver a profit, on average, after both prospective loss costs and operating expenses are covered
+	4. **The willingness to walk away if the appropriate premium can’t be obtained**
+		- [[1-1c6a4 You can only say 'no' when you have your 'yes']]
+##### Most managers hate to lose business (p. 75)
+- [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
+- [[4-1e2 Deprival-Superreaction Tendency—loss aversion to both possessed reward and almost possessed reward]]
+##### Don’t worship volume over profitability
+- “No” must be an important part of any underwriter’s vocabulary (p. 75)
+	- [[1-1c6a4 You can only say 'no' when you have your 'yes']]
+- We set no volume goals in our insurance business generally, as virtually any volume can be achieved if profitability standards are ignored (p. 75)
+	- Profitability >>> Volume (or market share)
+		- Also see [[Henry Singleton]] and on his obsession with *per share value* (not growth or size)
+			- [[5-2a0 Know what to measure]]
+			- [[5-2a2 What gets measured gets managed]]
+			- [[7-1a2c Startup = Growth]] #revisit 
+			- [[7-1a4a Growth in revenue and in user base are not the same thing.]] #revisit 
+##### If business makes sense, do it, if not walk away
 
 TBD
 
-- “Whose bread I eat, his song I sing” (p. 74)
-	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
-- What the wise do in the beginning, fools do in the end (p. 74)
-	- [[10-2g1f Imitation = limitation (imitation has limitation)]]
-	- [[12-1e0 Everything changes]]
-- “The other guy is doing it so we must as well” is the trouble (p. 75)
-	- See [[Henry Singleton]]
-- Profitability >>> Volume and market share (p. 75)
-	- [[5-2a0 Know what to measure]]
-	- [[5-2a2 What gets measured gets managed]]
 - Slack (occasional) >>> Producing bad businesses (p. 76)
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 - Identify businesses to which external surprises will have little effect (p. 77) #revisit 

@@ -13,9 +13,12 @@ Next:
 - [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
 
 Related:
+- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 - [[2-1a0c1 'Failure comes from a failure to imagine failure']]
 - [[2-1b2d1 Consistency builds trust]]
 - **[[2-3b0 Knowledge creation is not a function of time]]**
+- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 - [[5-1b3 How much we can change is also unpredictable]]
 - [[5-1b4c1c Align your short-term reward with your long-term vision]]
 - [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
