@@ -29,8 +29,10 @@ Related:
 - Inverted
 	- [[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]
 		- E.g., Las Vegas exists because most of us can't price correctly
+- But in the long-run, stupid won’t prevail ([[David Deutsch]]’s emphasis on error-correction meets [[Warren Buffett]]’s emphasis on temperament here) #revisit :
+	- [[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]
+	- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 - [[3-1a4b2b What is smart at one price is dumb at another]]
 - [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
 	- E.g., Status, 威信財
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
-- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]

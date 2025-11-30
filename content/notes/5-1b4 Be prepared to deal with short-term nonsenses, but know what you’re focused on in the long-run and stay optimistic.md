@@ -5,6 +5,7 @@ Next:
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]
 
 Related:
+- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 - [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 - [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term']]
 - [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]

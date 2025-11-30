@@ -2359,34 +2359,69 @@ See also pp. 42-50
 			- [[7-1a2c Startup = Growth]] #revisit 
 			- [[7-1a4a Growth in revenue and in user base are not the same thing.]] #revisit 
 ##### If business makes sense, do it, if not walk away
-
-TBD
-
+- “A fool and his money are soon invited everywhere”—we reject more than 98% of the business we are offered (p. 76)
+	- [[1-1c6a4 You can only say 'no' when you have your 'yes']]
+##### The fear of missing out—FOMO (p. 76)
+- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run |Turnaround seldom turns]]
+##### No layoffs
 - Slack (occasional) >>> Producing bad businesses (p. 76)
 	- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
-- Identify businesses to which external surprises will have little effect (p. 77) #revisit 
+	- [[5-2a0 Know what to measure]]
+#### H. PAY NO ATTENTION TO ECONOMIC FORECASTING
+- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+- [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
+- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
+- Identify businesses to which external surprises will have little effect on our long-term results (p. 77) #revisit 
 	- [[5-2c2b The Lindy effect]]
 	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 	- [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
-- Predictable long-term future >>> Short-term uncertainties (p. 77)
-	- Remember that the latter is the general condition of the multiverse
-		- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
-		- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
-		- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
+##### So what should I do?
+- We try to *price*, rather than *time*, purchases. In our view, it is folly to forego buying shares in an outstanding business whose long-term future is predictable, because of short-term worries about an economy or a stock market that we know to be unpredictable. Why scrap an informed decision because of an uninformed guess? (p. 77) #revisit 
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
+		- If anything, *[[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful” |be fearful when others are greedy and be greedy only when others are fearful]]*
+	- Predictable long-term future >>> Short-term uncertainties
+		- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+		- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
+		- Remember that the latter is the general condition of the multiverse
+			- [[13-1a1 The uncertainty of the future must be true because the contrary would completely negate the possibility of action]]
+			- [[13-1a2 The omnipresence of uncertainty introduces the ever-present possibility of error in human action]]
+			- [[13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self]]
+#### I. HAVE THE RIGHT MENTAL ATTITUDE TOWARD MARKET FLUCTUATIONS
+##### Evaluate the facts that count and be disciplined
+- An investor will succeed by coupling good business judgement with an ability to insulate his thoughts and behavior from the super-contagious emotions that swirl about the marketplace (p. 77)
+	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]
+#### Mr. Market has some emotional problems
+##### He doesn’t mind being ignored
 - Ignore Mr. Market as necessary (p. 77)
-- [[2-1a7a6 Mr. Market is there to serve me, never to guide me |Mr. Market is there to serve me, never to guide me]] (p. 78)
-- Operating results >>> Price quotations (p. 78)
-	- Because any amount of money can do the job of money #revisit 
-	- Because the soundness of the Plan Structure means the ability to generate cash
-		- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
-		- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
-- In the short-run the market is a voting machine wherein you only need money—[[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term' |in the long-run the market is a weighing machine]] (p. 78)
+##### But never forget—[[2-1a7a6 Mr. Market is there to serve me, never to guide me |he is there to serve me, not to guide me]] 
+- It is his pocketbook, not his wisdom, that you will find useful—you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence (p. 78)
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- Charlie and I let our marketable equities tell us by their operating results—not by their daily, or even yearly, price quotations—whether our investments are successful. The market may ignore business success for a while, but eventually will confirm it. (p. 78)
+	- Operating results >>> Price quotations
+		- Because any amount of money can do the job of money #revisit 
+		- Because the soundness of the Plan Structure means the ability to generate cash
+			- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
+			- [[13-2a The supply of capital goods enforces narrower limits than knowledge]] #revisit 
+		- Challenge the following: #TODO 
+			- [[7-1a2c Startup = Growth]]
+				- [[5-2a2 What gets measured gets managed]]—e.g., [State of Crypto](https://stateofcrypto.a16zcrypto.com/) by a16z
+				- [[7-1a4a Growth in revenue and in user base are not the same thing.]]
+- In the short-run the market is a voting machine wherein you only need money (and not intelligence or emotional stability)—but [[2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term' |in the long-run the market is a weighing machine]] (p. 78)
+	- In the long-run, it *is* about temperament
+		- See p. 49, p. 198, and p. 181
 	- In the long-run, the Portfolio Structure will reflect the Plan Structure, just that you have to stay in the game (see [[Ludwig Lachmann |Lachmann]]). #revisit 
+		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 		- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 	- But how (and why) does the long-run kick in? Does this happen necessarily? Is focusing on what’s necessary somewhat meaningless given the general condition of the multiverse is [[12-1e Nothing is necessary = Everything is contingent |change]]? Maybe [[1-2.0 It is better to be roughly right than precisely wrong |the rule of thumb]] is enough here? #revisit 
-		- [[Ludwig Lachmann |Lachmann]] argues that this happens because humans transmit knowledge to each other throughout the market economy #revisit 
+		- [[Ludwig Lachmann |Lachmann]] argues that this happens because humans [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented. |transmit knowledge]] to each other throughout the market economy #revisit 
 			- In the long-run, market is weighing machine because it does solve capital inconsistency
-				- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]] #revisit 
+				- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+				- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
+				- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 		- Maybe the ABCT does offer why this happens necessarily—but doesn’t ABCT have its own problems? #revisit     
 			- E.g., [[13-5b2j There is no natural rate of interest in reality]]
 ### 15. Sometimes Mistakes are Made
@@ -2452,7 +2487,7 @@ TBD
 	- Similar to [[Henry Singleton |Singleton]]’s approach to buybacks and acquisitions
 - Buffett: “Charlie and I have always preferred a lumpy 15 percent to a smooth 12 percent return.” (p. 179)
 	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
-- **In both insurance and investing, Buffett believes the key to longterm success is “temperament,” a willingness to be “fearful when others are greedy and greedy when they are fearful.”** (p. 181)
+- **In both insurance and investing, Buffett believes the key to long-term success is “temperament,” a willingness to be “fearful when others are greedy and greedy when they are fearful.”** (p. 181)
 - Buffett, by virtue of his prior experience evaluating investments in a wide variety of securities and industries, was a classic fox and had the advantage of choosing from a much wider menu of allocation options, including the purchase of private companies and publicly traded stocks. (pp. 181-182)
 	- Why he can *go for the best*
 		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

@@ -10,5 +10,6 @@ Next:
 Related:
 - [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
 - [[5-1 When you are long truth you are long volatility and time]]
+- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 - [[5-2c2b0.3 The way you become resistant to volatility is not by being robust or antifragile per se but by being one with the reality]]
 - [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]

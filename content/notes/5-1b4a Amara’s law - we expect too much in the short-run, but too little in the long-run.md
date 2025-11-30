@@ -2,7 +2,7 @@
 
 Explain why this is the case #TODO 
 
-Turnaround seldom turn and usually takes longer. It takes longer and costs more than you think. But when it happens it happens faster than you think.
+Turnarounds seldom turn and usually takes longer. It takes longer and costs more than you think. But when it happens it happens faster than you think.
 
 Previous:
 - [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
