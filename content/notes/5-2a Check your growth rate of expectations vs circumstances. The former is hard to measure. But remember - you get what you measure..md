@@ -2,6 +2,8 @@ Have low expectations, and no have masterplans, and change your expectations whe
 
 Get rich slow, and the same principle applies to businesses as well.
 
+The opposite also applies in the sense that if the environment is changing, you have to adapt your expectations. [[Li Lu]] elaborates why societal and political reforms must recalibrate to new tech and scientific discoveries (which explains the difference between Civilization 2.0 and 3.0). [[Charlie Munger |Munger]] and [[Warren Buffett |Buffett]] essentially argues the same, but with more emphasis on psychology of the individual.
+
 Next:
 - [[5-2a0 Know what to measure]]
 - [[5-2a1 You get what you measure]]
@@ -21,3 +23,8 @@ Related:
 - [[13-1a3a2e6 Money prices of the past influence current expectations, but today’s demand also influences the present price—and the influence of the latter can dwarf that of the former]]
 - **[[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]**
 - [[RUL3 - Any system should be measured by how much it can help with whatever its output.]]
+- Human psychology doesn’t change, but only to an extent
+	- [[5-2c2b The Lindy effect]]
+		- [[12-1e Nothing is necessary = Everything is contingent]]
+- Civilization 2.0 mentality vs Civilization 3.0 mentality
+	- [[2-1c4 100x-ing the pie ＞ slicing extra few %]]

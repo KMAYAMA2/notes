@@ -14,3 +14,9 @@ Related:
 - [[7-1a2a1.1 'Scale' - Anything that scaled started small, at the edge, at the frontier, as an avant-garde]]
 - [[7-1a6b Successful founders apply new technology to solve problems at edge cases]]
 - [[7-1d1c You can be at the edge of the newest technology]]
+- When you know your edge, you can recognize where you need others
+	- [[2-1c3 'Win and help win' always outcompete]]
+	- [[5-1b1a2c0 No theory can exhaust reality]] #develop 
+		- This is why you need others (and money)
+			- [[9-4b2a1f Two-way debate benefits from criticism]]
+			- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]

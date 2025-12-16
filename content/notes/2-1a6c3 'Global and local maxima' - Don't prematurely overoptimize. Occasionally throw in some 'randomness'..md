@@ -1,10 +1,19 @@
+Often times you are not the best at what you do, and that can turn out for the better.
+
+Go out and see the world.
+
+Previous:
+- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 
 Next:
 - [[2-1a6c4 'Randomness' - The appearance of 'randomness' is subjective]]
 
 Related:
+- [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]
 - [[4-1c1 Don’t prematurely zoom in during conversation, because he might not be self-conscious of the real problems]]
+- [[5-1b1b2b Don't try to be the best. Be the only.]]
 - [[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]
+- [[7-2b The more of a noob you are locally, the less of a noob you are globally]]
 - [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]
 - [[RUL3 - Avoid premature optimization]]
 
