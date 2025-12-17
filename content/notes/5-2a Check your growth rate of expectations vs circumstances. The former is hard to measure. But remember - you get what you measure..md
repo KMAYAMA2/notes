@@ -12,7 +12,6 @@ Next:
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - [[2-1a0c1a 'Influence of stress' - 'In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training']]
-- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 - [[3-1a0 Use categories, but don't be categorized]]
 - [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 - [[5-1b1d1 Not investing is also a form of investing]]
@@ -23,6 +22,9 @@ Related:
 - [[13-1a3a2e6 Money prices of the past influence current expectations, but today’s demand also influences the present price—and the influence of the latter can dwarf that of the former]]
 - **[[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]**
 - [[RUL3 - Any system should be measured by how much it can help with whatever its output.]]
+- Get rich slow when applied to businesses
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+		- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 - Human psychology doesn’t change, but only to an extent
 	- [[5-2c2b The Lindy effect]]
 		- [[12-1e Nothing is necessary = Everything is contingent]]

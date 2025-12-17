@@ -5,6 +5,7 @@ Next:
 - [[5-3d Innovation is invention catching on. Innovation itself is technology, and technology is knowledge. Innovation is knowledge becoming public.]]
 
 Related:
+- [[3-1c3c2a Any ideas have the potential to be MORE universal (if not universal), and constraints are to be removed sooner or later because knowledge is irreversible]]
 - [[7-1a2 You can also make their problem as your problem by using growth as a guidance.]]
 - [[7-1b3 You can solve problems others will have but don’t have yet]]
 - [[7-1e We ask ‘what is the rich doing’ because they are the ones who have the resource to experiment with to find ways to cheapen the means of production]]

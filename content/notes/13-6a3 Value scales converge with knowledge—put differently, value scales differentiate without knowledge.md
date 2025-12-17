@@ -1,4 +1,6 @@
-**The individual differentiates due to the indifference—a lack of preference, which in turn is due to a lack of knowledge**. Put differently, **the individual converges across the multiverse through knowledge**.
+Knowledge informs preferences.
+
+**The individual differentiates due to the indifference—a lack of preference, which in turn is due to a lack of knowledge**. Put differently, **the individual converges across the multiverse through knowledge**. 
 
 Related:
 - On convergence:
