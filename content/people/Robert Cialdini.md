@@ -1,0 +1,29 @@
+---
+date: 2025-12-21
+---
+# Cialdini according to [[Michael Burry]]
+- Cialdini describes “Fixed Action Patterns” deeply embedded in the human mind. In short, they are:
+	- **Scarcity**: The more limited something is, the more people value it – regardless of its true value
+		- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
+	- **Reciprocation**: If someone does us a favor, or gives us something, we feel obligated to reciprocate their generosity somehow
+		- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
+	- **Social Proof**: We tend to mimic the behavior of the crowds around us, especially in the presence of uncertainty
+		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- **Liking**: It is easier for us to be persuaded by the opinions of those whom we like or find attractive
+		- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
+	- **Authority**: The opinions of anyone viewed as an “authority” carry a lot of weight, even in areas where the authority has no expertise
+	- **Consistency/Commitment**: Once we’ve arrived at a conclusion or made a choice, we often stick by it
+		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
+	- **Unity**: When we identify closely with a given group, we revert to tribalistic behavior and favor those in our group while disfavoring those not in it
+- These shortcuts can cause harmful or perverse outcomes however, and this is partly enabled by the information explosion
+	- E.g., the NFT craze—the Scarcity principle took hold 
+		- <> [[Eric Voskuil]] #revisit 
+- The modern world has inundated us with endless streams and unimaginable amounts of information, and it seems as though we cannot handle this without **more** use of these shortcuts.
+- In this way, **more information has not led to a more knowledgeable population making wiser decisions**. Instead, information overload triggers Fixed Action Patterns and other cognitive biases. The result: **the more information available to us, the more we will fall back on shortcuts.**
+	- <> [[5-2a0 Know what to measure]]
+		- <> [[4-1a3b Go to specific places to get specific feedbacks]] <> [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
+- [[Charlie Munger |Munger]] grouped these biases under the banner “The Psychology of Misjudgment.” A famous 1995 speech that Munger gave at Harvard is a must read for investors. #revisit 
+- As investors, we might do well to learn to recognize and to fear the places where these shortcuts seem to pile up in a cheery consensus, while taking advantage of the rare moments when these shortcuts pile up in a gloomy manner, thereby allowing us to buy great businesses at super cheap levels.
+	- <> [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- This is the essence of Ben Graham’s “Mr. Market” analogy, and the information explosion has only made Mr. Market more extreme over the years.
+	- <> [[2-1a7a6 Mr. Market is there to serve me, never to guide me]]
