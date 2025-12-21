@@ -1,5 +1,7 @@
 > “You must expect failure after failure after failure before you succeed.” – Edwin Land
 
+> “Progress is a nice word. But change is its motivator. And change has its enemies. Only those who dare to fail greatly can ever achieve greatly” – JFK
+
 Next:
 - [[2-1a0c1a 'Influence of stress' - 'In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training']]
 - [[2-1a0c2 Failing is inevitable, but do not fail epistemologically ]]

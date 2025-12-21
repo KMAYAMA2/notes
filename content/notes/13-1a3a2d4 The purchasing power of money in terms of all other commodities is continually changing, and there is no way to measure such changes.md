@@ -5,6 +5,7 @@ Next:
 
 Related:
 1.  Objective *power* doesn’t exist
+	- [[1-1a2e11 Nothing objectively represents the represented]]
 	- [[13-4d2 There is no objective value]]
 	- [[13-4d4 Value is subjective]]
 2.  Market conditions are always changing
