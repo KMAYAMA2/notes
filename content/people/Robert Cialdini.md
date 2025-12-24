@@ -9,6 +9,8 @@ date: 2025-12-21
 		- [[2-5 'Reciprocity' - You never know who you touch. You never know how or when you’ll have an impact, or how important your example can be to someone else.]]
 	- **Social Proof**: We tend to mimic the behavior of the crowds around us, especially in the presence of uncertainty
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+			- <> [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+			- <> [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- **Liking**: It is easier for us to be persuaded by the opinions of those whom we like or find attractive
 		- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 	- **Authority**: The opinions of anyone viewed as an “authority” carry a lot of weight, even in areas where the authority has no expertise

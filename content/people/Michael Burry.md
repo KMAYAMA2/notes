@@ -8,10 +8,10 @@ date: 2025-12-21
 	- <> [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this.]]
 - The individual investor should consider how much he/she really understands about the business behind the investment.
 - As if having more information available to us has made us **less analytical, less thoughtful, and yet more opinionated.**
-	- the more doesn’t necessarily mean better <> [[2-1a0c1d2 Less is often more]]
+	- The more doesn’t necessarily mean better <> [[2-1a0c1d2 Less is often more]]
 - Many recall the pre-Internet age and suggest people are **less knowledgeable** than before the boom.
-	- ==don’t outsource too much?== #revisit 
+	- ==Don’t outsource too much?== #revisit 
 		- [[2-1c1a1 Companies will outsource everything that isn’t their value proposition. To build successful B2B company, simply be the outsource.]] <> [[5-1b1b2b Don't try to be the best. Be the only.]]
 		- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
 		- [[4-1a4b8c When you outsource your thinking, you can reap the benefits of multitasking without any downsides.]]
-			- only if you do the work at meta-level #revisit 
+			- Only if you do the work at meta-level (i.e., if you outsource everything, no one really needs you) #revisit 
