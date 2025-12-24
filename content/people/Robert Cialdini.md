@@ -13,6 +13,8 @@ date: 2025-12-21
 			- <> [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- **Liking**: It is easier for us to be persuaded by the opinions of those whom we like or find attractive
 		- [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
+			- <> [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+			- <> [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
 	- **Authority**: The opinions of anyone viewed as an “authority” carry a lot of weight, even in areas where the authority has no expertise
 	- **Consistency/Commitment**: Once we’ve arrived at a conclusion or made a choice, we often stick by it
 		- [[2-4a 'Commitment & Consistency bias' - To change your behavior, make changing your belief difficult]]
@@ -28,4 +30,5 @@ date: 2025-12-21
 - As investors, we might do well to learn to recognize and to fear the places where these shortcuts seem to pile up in a cheery consensus, while taking advantage of the rare moments when these shortcuts pile up in a gloomy manner, thereby allowing us to buy great businesses at super cheap levels.
 	- <> [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 - This is the essence of Ben Graham’s “Mr. Market” analogy, and the information explosion has only made Mr. Market more extreme over the years.
+	- <> [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 	- <> [[2-1a7a6 Mr. Market is there to serve me, never to guide me]]
