@@ -17,5 +17,7 @@ Related:
 	- (*情報の歴史を読む p. 274*)
 - But know when it’s enough
 	- [[4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding]]
+- I think stock market bubbles are easily formed nowadays since those who invest live comfortable lives (at least from physical labor standpoint) are separated from physical production processes #revisit   
+	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 
 #MentalModelsMilitaryAndWar

@@ -13,6 +13,9 @@ Related:
 	- [[5-2c2b0 The truer and deeper the idea is, the more likely it will survive criticism, change in society, and withstand unpredictable consequences brought about by itself]]
 		- [[12-1e Nothing is necessary = Everything is contingent]]
 
+I guess the same applies with thinkers—pick and stick with thinkers like you do with stocks (10-15 at best?), and don’t be like the ones dealing with 100-200 names simultaneously:
+- [[2-1a0c1d1 Focus on the few variables]]
+
 If you know what you’re doing, you’ll be less susceptible to the environment:
 - [[2-1e Everything is connected in a complex way]]
 - [[3-1a4b1.2 Define and stay within your circle of competence]]

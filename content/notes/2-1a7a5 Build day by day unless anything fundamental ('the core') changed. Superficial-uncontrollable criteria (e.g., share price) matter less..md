@@ -1,3 +1,4 @@
+Remember the triad between the Plan Structure, the Portfolio Structure, and the Control Structure (e.g., see [[Ludwig Lachmann]] and [[Warren Buffett]])
 
 Next:
 - [[2-1a7a6 Mr. Market is there to serve me, never to guide me]]
