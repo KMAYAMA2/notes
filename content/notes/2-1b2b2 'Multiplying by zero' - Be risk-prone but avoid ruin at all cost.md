@@ -16,6 +16,7 @@ Related:
 - [[2-1b2c 'Compounding' - Permeate across the timeline]]
 - [[2-3c 'Surface area' - Manage your exposure to volatilities]]
 - [[9-2a3b Don’t pick up anything which has certain downside. Avoid bullshit.]]
+- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 - [[9-3 Increase surface area of luck]]
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
 - **[[RUL3 - Invert, always invert]]**

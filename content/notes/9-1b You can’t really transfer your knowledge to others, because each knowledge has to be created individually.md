@@ -1,4 +1,4 @@
-This is why you have to believe in yourself. We are all alone.
+This is why you have to believe in (and think for) yourself. We are all alone.
 
 孤独の本質
 
