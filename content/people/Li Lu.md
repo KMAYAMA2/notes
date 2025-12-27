@@ -2,6 +2,74 @@
 date: 2025-07-18
 ---
 
+# A Discussion of Modernization (2014)
+## Chapter 1—Old Problems and the New History
+- The waning of the East and the dominance of the West during the past 200 or more years has consistently been a core concern for world elites from various walks of life both in China and the West, but to this day a consensus has yet to be achieved.
+- Written historical records cover less than one percent of mankind’s entire evolutionary history, which is clearly insufficient for tracing and interpreting the entire course of human evolution. Moreover, traditional historiography itself has biases and limitations.
+	- <> language cannot exhaust everything
+	- <> one cannot get away from one’s constraints
+- Traditional historiography has been fundamentally transformed over the past several decades, as a series of breakthroughs in scientific disciplines have provided completely new tools which enable us to understand a much longer span of history
+	- tech influences our understanding of the past <> knowing the past is as impossible as predicting the future
+- In 2012, biologist E.O. Wilson formally suggested a complete theory of human origins, which he published in his work *The Social Conquest of Earth*. This was one of the greatest developments in the study of human evolution since Darwin
+- Milankovitch cycles
+- The new historiography is a methodology which constructs a new interdisciplinary interpretation of humankind’s long history by utilizing cutting edge scientific developments in various fields. Its great breakthrough is its ability to study much earlier periods in history without the limitation of only using written records.
+	- <> multidisciplinary
+- Ian Morris provided the best answers in his 2010 work *Why the West Rules for Now*, and its 2013 companion work *The Measure of Civilization*
+- My work in investments over the past twenty-odd years has added an occupational need to predict China’s future, and during this time, I have been able to accumulate some knowledge and ideas
+	- <> study and own, then study further (reflexive)
+- This series will start by primarily looking at the results of Jared Diamond and Ian Morris’ studies and integrating them with some of my personal views and interpretations.
+	- Ch. 2~
+- Next, from a Chinese perspective, I will analyze quantitative charts complied by Professor Morris’s team covering some 16,000 years of human evolutionary history, describe the major stages of human development, and point out the rules of this development with a focus on the genesis of modernization.
+- Then I will focus on the nature of modernization and China’s path to modernization, and predict the future of China. The contents of this section will consist predominantly of my own humble opinions.
+- Finally, I will touch on the impact of China’s modernization on the West and explore the common future of the human race.
+## Chapter 2
+## Chapter 3
+## Chapter 4
+## Chapter 5
+## Chapter 6
+## Chapter 7
+## Chapter 8
+## Chapter 9
+## Chapter 10
+## Chapter 11
+## Chapter 12
+## Chapter 13
+## Chapter 14
+## Chapter 15
+- The first constraint is the Iron Law of Civilization 3.0. Once a robust international market has been formed, no nation will be able to leave it. Any nation that does so will fall behind, and the longer it stays away, the more quickly it will fall behind, until it is finally forced to rejoin.
+	- <> challenge this
+- The second constraint is due to the fact that in the age of nuclear weapons, major powers all possess nuclear strike capabilities that can destroy each other many times over, and in the process destroy all the living things on earth. Thus in this era relations between the great powers are guided by the principle of mutually assured destruction (MAD). Under such a mechanism, an all-out war with no bottom line is unlikely between major national powers.
+- The third constraint comes from the unique challenges posed by the age of Civilization 3.0 to the entire human race.
+	- E.g., climate change
+		- This will require the joint efforts of all countries
+			- I don’t think so—free market should be able to resolve this #revisit 
+- Today, competition between countries mainly takes place in the economic arena. The most important competitions are often invisible, and they are over the levels of science and technology, the attractiveness of institutions, market capacities and educational levels. The most successful countries will be the ones that can maximize the potential of their citizens and attract the most talented people from around the world. But where there is competition there will be winners and losers, and there will be conflicts.
+- China’s current economic and political systems are transitional ones. In the coming decades, China will more likely implement a fully free market economy and develop a political system with Chinese characteristics, one which combines Keju with constitutional democracy.
+- From China’s vantage point, the next few decades will be the best period for comprehensive modernization.
+- Because science and technology are the foremost economic drivers of Civilization 3.0, the leading status of the US in the global economy will remain unchanged for many years to come. Although China may eventually have the world’s largest economic output, the U.S. will still lead in GDP per capita and S&T development. China’s manufacturing capability and market depth all complement those of the US. #revisit 
+## Chapter 16
+- Future developments in science and technology will turn differences between people into personal preferences and choices
+	- <> preference notes
+- The ultimate questions which religion must answer are those of a fundamental world view: where do humans come from? what is their inherent nature? what is the raison d’être of human existence? where do people go after they die? Science will provide increasingly good answers to these, and may even one day take the place of religion in answering them
+	- <> where science slips, religion comes in for rescue, as it were #develop 
+- The commonality in all religions which will survive is empathy between people, particularly compassion
+- The Iron Law of Civilization 3.0 will create a single global common market, and as a result, it will be necessary to manage the challenges of a common global economy
+	- <> fragmentation memos and notes
+- A new global state is not only a possibility, but a necessity
+	- <> challenge this
+- Another long term challenge involves resources. All of today’s civilization is based on a foundation of electricity. All of Civilization 3.0 is based on the use of fossil fuels, and the reason why S&T 3.0 is so powerful is because fossil fuels have a much higher energy conversion rate than photosynthesis. Fossil fuels were also originally formed through photosynthesis, but they were stored underground for hundreds millions of years as organic debris and underwent chemical reactions. Their very high energy density per unit is a result of millions or even hundreds of millions of years of accumulation and concentration. They are a precious legacy given to humanity by the earth after being stored up for hundreds of millions of years.
+	- <> Deutsch would likely argue that Li Lu’s contention here is, if he were to use Li Lu’s own words, not S&T enough
+- The global common market of Civilization 3.0 will also deepen our common interests, and the challenges shared by all humanity will have to be dealt with jointly. Hence a global government will be the inevitable result.
+	- I don’t think this is inevitable
+- E.g., 中華統一 and EU
+- Within a few decades the intelligent computing power of silicon-based materials will be comparable or even superior to that of a human brain
+	- only if you look at the hardware—we are still yet to figure out the software
+- From a population of twenty thousand over a hundred thousand years ago, the human population has grown to 7 billion today, which is already an enormous change. 
+	- specifically, 350,000x
+- We can imagine that if life expectancy can be infinitely increased, then within hundreds or thousands of years, the earth’s capacity will at some point reach a state of saturation. At that time, people will have to leave the earth to seek living space on other planets, just as they left Africa some 60,000 years ago.
+- As (Ian) Morris says, history is indeed created “by lazy, greedy, frightened people looking for easier, more profitable, and safer ways to do things.” All animals are like this, but we differ from all other animals because of the extraordinary tools we use. The powerful creativity and spirit of enterprise unleashed by human brains and the extraordinary spiritual power expressed through art allowed us to embark on a very long journey from the time of our earliest ancestors in Africa.
+	- <> humans do stupid things
+
 # [2019 piece on practicing value investing](https://www.longriverinv.com/thought/the-practice-of-value-investing-by-li-lu)
 
 **“The Practice of Value Investing”, BY LI LU**
