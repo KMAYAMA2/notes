@@ -86,10 +86,12 @@ date: 2025-12-21
 
 ## [Journal: July 28, 2000](https://web.archive.org/web/20000815100732/http://moneycentral.msn.com/articles/invest/stratlab/5696.asp?Strategy=3)—a first round
 ### Why I'm open to tech
-- Buffett has indeed been quoted claiming that most technology does not fall within his circle of competence. But to my knowledge he does not claim that there is anything inherently wrong with investing in technology. Rather, there is something about his process of evaluation that prevents technology companies from falling into his particular circle.
+- Buffett has indeed been quoted claiming that most technology does not fall within his circle of competence. But to my knowledge he does not claim that there is anything inherently wrong with investing in technology. Rather, there is something about his process of evaluation that prevents technology companies from falling into his particular circle. #revisit 
 - One lesson that I have derived from Buffett is to overstate the importance of the long-term cash-generating power of the business above all other characteristics
-- Another lesson is that companies generating exceptional and predictable returns on capital can exceed traditional value-range price-to-earnings ratios quite significantly and still be values
+	- <> [[2-1a0c1d1 Focus on the few variables]]
+- Another lesson is that companies generating exceptional and predictable returns on capital can exceed traditional value-range price-to-earnings ratios quite significantly and still be values #method 
 - With few exceptions, technology companies are no more complex than real estate investment trusts, banks, or insurance companies, to name more traditional value investments. This is not to say that there is no complexity, but rather just that most investments are complex. It takes thought and time to understand them.
+	- <> [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]] #develop 
 ### It's all about price and value
 - Every public company regardless of size or category is available to me as a potential investment. Price and value are the central criteria. You will see that over the next six months.
 ## [Journal: August 1, 2000](https://web.archive.org/web/20000815100402/http://moneycentral.msn.com/articles/invest/stratlab/5702.asp?Strategy=3)
@@ -106,7 +108,7 @@ date: 2025-12-21
 	- <> NVIDIA with TSMC likely addressed the issue #revisit 
 ### Let's look at debt
 ### Examining cash flow
-## [Journal: August 3, 2000](https://web.archive.org/web/20000815100006/http://moneycentral.msn.com/articles/invest/stratlab/5707.asp?Strategy=3)
+## [Journal: August 3, 2000](https://web.archive.org/web/20000815100006/http://moneycentral.msn.com/articles/invest/stratlab/5707.asp?Strategy=3)—a growth company discussed
 - Buy 200 shares of **Caterpillar** (CAT) at the open.
 - Buy 400 shares of **Healtheon/WebMD** (HLTH) at the open.
 ### This cool Cat is one hot stock
@@ -118,14 +120,33 @@ date: 2025-12-21
 …
 ## [Journal: August 7, 2000](https://web.archive.org/web/20000815095527/http://moneycentral.msn.com/articles/invest/stratlab/5725.asp?Strategy=3)
 - Buy 350 shares of **Carnival** (CCL) at the market.
+### You've got more time than you think
+- Although you may trade frequently, the wind should be at your back. If all else fails, a long-term hold should pull you through. And **the only consistent, prevailing wind in the investment world is that of the present value of future cash flows**.
+	- <> [[13-1a3a1i The market’s encouragement of successful forecasters fosters a relation of final equilibrium between present capital value and actual future rents]] #revisit 
+- I don't run a mutual fund—I need control over what sort of investor becomes a client
+- Increasing firm assets is of little direct benefit to an individual client
+	- <> [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]] #revisit 
+		- The wordage of *capital consumption* cannot be more adequate here #revisit 
+- The competitive advantage therefore rests with those investors who can go where inefficiency reigns and risk is uncoupled from reward
+- Health care will continue to improve, and many people should live a lot longer than they or their financial planners think. As a result, it hardly seems imprudent for people older than me to consider the longer, safer road to investment success.
+	- [[2-1b2 Play in different time horizon. That is, in the long-run.]] <> [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]] #revisit 
+### Cruising with Carnival
+- CCL
+	- …
+### Carnival still best of breed
 …
 ## [Journal: August 8, 2000](https://web.archive.org/web/20000815095353/http://moneycentral.msn.com/articles/invest/stratlab/5729.asp?Strategy=3)
 - Buy 1,000 shares of **Huttig Building Products** (HBP) at the market.
 ### Off to a slow start
 - As it is, I'm editing my 2,500+ word analyses down to 1,000 words to fit in this medium
 ### Building a portfolio with Huttig
-- I'm buying an ugly stock in an unglamorous business
-- Spun off from **Crane** (CR) last year, is a leading distributor of building products such as doors, windows and trim
+- HBP
+	- I'm buying an ugly stock in an unglamorous business
+	- Spun off from **Crane** (CR) last year, is a leading distributor of building products such as doors, windows and trim
+	- I first obtained this stock during the spinoff, as I was a Crane shareholder
+### Synergistic savings
+…
+### Odds and ends
 …
 ## [Journal: August 9, 2000](https://web.archive.org/web/20000815095207/http://moneycentral.msn.com/articles/invest/stratlab/5733.asp?Strategy=3)
 - Buy 200 shares of **Axent Technologies** (AXNT) at the market
@@ -135,7 +156,20 @@ date: 2025-12-21
 	- 100 ÷ 115 → 13% loss
 - Combining these guidelines allows me to put the odds a bit more on my side. I look at it as an extra kick to help out my fundamental analysis. This is not how most value investors operate, but it is something that has contributed to my success.
 ### A worthy exception
-…
+- AXNT
+	- Will be acquired by **Symantec**
+	- Axent now trades way up off its lows, with no immediate support
+		- But Symantec is bouncing along at about 8 months of support in the high $40s, and I'm listening to the arbitrageurs
+	- With about five months until the close of the deal, a 2.3% spread gives an annualized return on par with Treasury bills
+	- The tiny spread also indicates that the new post-acquisition Symantec will be worth at least the current share price of Symantec
+	- Assuming today's prices, the market capitalization of the new Symantec will approach $4.05 billion. This, for $1 billion in revenues growing 27% for at least several years. Accretion to cash flow should begin by the end of fiscal 2001. Intuitively, there's value here, but let's explore it some more.
+### The real deal
+- AXNT
+	- The deal gives Symantec's Chief Executive Officer John Thompson a potent arsenal in his quest to make Symantec a one-stop e-security shop
+	- Symantec's free cash flow runs higher than its net income, as does Axent's. Both are accumulating cash on the balance sheet; combined, the companies have nearly $650 million in cash and no debt. Accounting for lower overall gross margins thanks to increased service revenue and taking management's guidance for operating expenses, we can expect about $200 million in free cash flow for the year ending March 31, 2001.
+		- Hence, today's stock prices imply an enterprise trading at about 17 times free cash flow . . . Symantec appears to trade at nearly a 50% discount from where its growing intrinsic value now sits
+			- How is this derived? #revisit 
+	- I am choosing to buy Symantec through Axent. I have confidence the deal will go through, and hence I'd like to claim the spread.
 ## [Journal: August 10, 2000](https://web.archive.org/web/20000815095053/http://moneycentral.msn.com/articles/invest/stratlab/5735.asp?Strategy=3)
 - Buy 500 shares of **Huttig Building Products** (HBP) at a limit of 4 1/2.
 - Buy 100 shares of **Healtheon/WebMD** (HLTH) at a limit of 12 5/16.
@@ -149,15 +183,51 @@ date: 2025-12-21
 ### Loading up on favorites
 - Today's trades are a near repeat of yesterday
 - Let's review the events of the week
-…
-## [Journal: August 14, 2000](https://web.archive.org/web/20000815073010/http://moneycentral.msn.com/articles/invest/stratlab/5741.asp?Strategy=3)
+	- Did you see whom **Active Power** (ACPW), the week's high-flying IPO in the power generation sector, touted as a technology partner? **Caterpillar** (CAT).
+		- Good news will take care of itself <> [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
+### No bombs on the earnings front
+- Healtheon/WebMD
+	- Reported a great quarter—the bottom line is losses are shrinking as revenues grow
+- **Clayton Homes**
+	- Reported numbers in line with estimates, giving the company its second-best results ever as its competitors report losses
+- **Senior Housing Properties**
+	- Also reported earnings, which should turn out to be the worst-case quarter for the company, as the bankrupt lessees are no longer making minimal payments
+	- Starting at the beginning of the current quarter, Senior Housing began realizing direct operating cash flows from the properties vacated by the bankrupt lessees. What the latest results do show is that funds from operations clearly cover the dividend.
+- Three earnings reports from companies under stress and no total bombs. I'll take that.
+- I'll have new picks on Monday.
+## [Journal: August 14, 2000](https://web.archive.org/web/20000815073010/http://moneycentral.msn.com/articles/invest/stratlab/5741.asp?Strategy=3)—another growth company discussed
 - Buy 200 shares of **Pixar Animation Studios** (PIXR) at a limit of 33 3/4.
 ### To infinity and beyond with Pixar
-…
+- PIXR
+	- Pixar's next feature film will not be released until November 2001
+		- For Wall Street, this is a timeliness issue
+	- Not for me. As I discussed back in my Aug. 3 entry, even for a growth company, only a tiny fraction of the intrinsic value of a company results from the next three years. Heck only a fraction of today's intrinsic value depends on the next 10 years. The key is longevity—will Pixar be around and making money 10 years from now . . . and beyond? Certainly.
+		- <> [[2-1b2 Play in different time horizon. That is, in the long-run.]]
+			- How does this translate to valuating free market money? #TODO  
+### Animated cash flows
+- PIXR
+	- Generating cash at such a rate that it is building its new Emeryville digs out of cash flow—with no financing—and still laying down cash on the balance sheet.
+	- Jobs is a fan of cash flow and cash strength because he thinks it helps him negotiate with Disney. "Hey, if you don't want a piece, we'll just finance it ourselves..." Whatever the reason, I like cash too. #revisit 
+		- <> [[13-8a2.1 Money is the present good par excellence]]
+	- To believe in Pixar as an investment, one has to believe in the evergreen nature of its creations. Pixar's full product life cycle, managed correctly, can be extremely long. And as Pixar releases more films, more life cycles are put into play, overlapping and creating smoother and larger earnings streams.
+		- <> [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
+			- <> [[2-1b3a 'Circle of competence' & 'Niches' - Build a moat. Thrive in where you can.]]
+			- <> [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]] #revisit 
+	- Pixar is guiding us to earnings of $1.30 this year, but it is likely we'll see earnings exceeding $1.35. History tells us Pixar's free cash flow runs quite a bit higher than its net income. That's how cash on the balance sheet jumps $17 million in one quarter despite net income less than half that. As an enterprise less its cash, the price of Pixar is currently trading at about 21 times accounting earnings, but only about 14 times free cash flow.
+		- Because the free cash flow runs quite a bit higher than its net income
+		- How are these numbers derived? #revisit 
+### Concessions from Disney?
+- PIXR
+	- Currently Pixar only gets 50% of the gross revenues of its product after Disney deducts the costs of its distribution and marketing
+	- Pixar will be in a position to restructure a new agreement with tremendous implications for Pixar's bottom line
+	- An additional concession of 20% of profits after distribution costs should result in roughly a 40% boost to Pixar's operating income from a given film. Knowing this, we can estimate that in 2005, we should see a big boost to Pixar's income and at the minimum rejuvenation of its growth rate. Pixar's cash earnings over the next 10 years alone could approximate $30-$40/share in present value.
+	- Of course, this is very rough because we do not know what the new Disney contract will bring. But I like it when my margin of safety does not require a calculator.
+		- <> [[1-1c6a3.0 The decision should be obvious]]
 ## [Journal: August 15, 2000](https://web.archive.org/web/20000815073003/http://moneycentral.msn.com/articles/invest/stratlab/5747.asp?Strategy=3)
 - Buy 400 shares of **Deswell Industries** (DSWL) at a limit of 13.75
 ### Deswell Industries—solid gold
-- A contract manufacturer of metal and plastic products as well as electronics
+- DSWL
+	- A contract manufacturer of metal and plastic products as well as electronics
 …
 ## [Journal: March 2, 2001](https://web.archive.org/web/20010628172616/http://moneycentral.msn.com/articles/invest/stratlab/6354.asp?Strategy=2)—a second round
 - I'm a hedge fund manager by trade and a value investor by heart
@@ -171,7 +241,12 @@ date: 2025-12-21
 - My philosophy is a variation on the idea that, as in life, **sometimes things can look so down that any news will be interpreted as good news** #revisit 
 	- <> [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 - Unlike last round, where I took time to write a long essay on each new idea—and hence took nearly a month to fully invest the portfolio, I will move quickly to start new positions when the timing is right and fill in more details on a given position with subsequent journal entries.
-…
+## [Journal: March 9, 2001](https://web.archive.org/web/20010628183049/http://moneycentral.msn.com/articles/invest/stratlab/6437.asp?Strategy=2)
+
+## [Journal: March 16, 2001](https://web.archive.org/web/20010628181655/http://moneycentral.msn.com/articles/invest/stratlab/6504.asp?Strategy=2)
+
+## [Journal: March 28, 2001](https://web.archive.org/web/20010628175652/http://moneycentral.msn.com/articles/invest/stratlab/6597.asp?Strategy=2)
+
 ## [Journal: March 29, 2001](https://web.archive.org/web/20010805201757/http://moneycentral.msn.com/articles/invest/stratlab/6608.asp?Strategy=2)
 - Place order to sell position in **London Pacific Group** (LDP) at the market.
 - Place order to sell position in **Spherion** (SFN) at the market.
@@ -189,18 +264,112 @@ date: 2025-12-21
 		- Net net value (net working capital less all liabilities) is north of $6 #method  
 		- They will earn over a buck a share this year
 			- Viz., Burry PE ratios of 6? #revisit 
-…
 ### Undoing some mistakes
 - Investment managers are bound to be wrong many, many times in their lives. This is a business of managing emotion as much as managing money, and taking one’s lumps is the surest path to a more erudite view. #revisit 
 - **DiamondCluster** (DTPI) and **London Pacific Group** (LDP) were very big timing mistakes
-- The fact of the matter is I should always wait for my rules to kick in – and that includes waiting for falling knives to lay motionless on the floor before trying to pick them up. I violated these rules, and now I’ve lost two fingers to a couple of very sharp blades.
+- The fact of the matter is I should always wait for my rules to kick in—and that includes waiting for falling knives to lay motionless on the floor before trying to pick them up. I violated these rules, and now I’ve lost two fingers to a couple of very sharp blades.
 - I am selling London Pacific Group at the market open because of something I call the “5 to 3” effect. Illiquid stocks falling beneath 5 often fall much further because of margin calls that kick in in the 3-5 price range. Forced selling in illiquid stocks is a recipe for price risk, so I have found it prudent to get out of stocks as they cross below 5. It is a very rare case that I pay attention to absolute share prices, but this is one of them. #method 
 - DiamondCluster is about to lose significant European business—at current prices, however, this pessimism is largely discounted
 	- The value five years or so out should be greater than it is now, and the company has become an attractive acquisition target with a load of cash on the balance sheet
 	- The earnings power in good times is roughly about 33% of the current share price net of cash, with no debt and a resilient business model #revisit 
+### An event play, sans the event
+
+## [Journal: April 2, 2001](https://web.archive.org/web/20010628183128/http://moneycentral.msn.com/articles/invest/stratlab/6699.asp?Strategy=2)
+
+## [Journal: April 12, 2001](https://web.archive.org/web/20011122210326/http://moneycentral.msn.com/articles/invest/stratlab/6782.asp?Strategy=2)
+- Sell entire position in **DiamondCluster International** (DTPI) at the open.
+- Sell entire position in **Criimi Mae** (CMM) at the open.
+- Sell short 75 shares of **Kohl's** (KSS) at the market.
+### Preparing for more bad news
+- A significant worsening in the commercial real estate market could undo the former (CMM)
+- On the latter (DTPI), I am just taking advantage of a mindless bear-market rally in tech. Also, I expect that DiamondCluster stock will not hold up well in the face of as-yet unannounced news of significant weakening in Europe.
+	- For DTPI, see also 20010329 journal
+- KSS
+	- Same-store sales growth is cited widely as far and above the best in the industry. OK. But this growth overstates true organic growth. Sales per square foot has been tracking in the very low single digits. The company is turning to debt to finance the expansion, and Kohl's has been priced much too high for a while now.
+	- Also, Kohl's has the same options-compensation problem that I have discussed previously with regard to technology stocks. Last year, nearly $270 million in options compensation was handed to employees, which largely dilutes much of last year's income.
+
+## [Journal: April 13, 2001](https://web.archive.org/web/20010820154033/http://moneycentral.msn.com/articles/invest/stratlab/6797.asp?Strategy=2)
+
+## [Journal: April 17, 2001](https://web.archive.org/web/20010820152918/http://moneycentral.msn.com/articles/invest/stratlab/6802.asp?Strategy=2)
+- Don't be distracted. Cisco is in far worse shape than even the dismal forecast it presents.
+## [Journal: April 18, 2001](https://web.archive.org/web/20010628181752/http://moneycentral.msn.com/articles/invest/stratlab/6807.asp?Strategy=2)
+- Hold all positions. Intel is much more difficult to tear apart than Cisco Systems, but I'll try.
+## [Journal: April 25, 2001](https://web.archive.org/web/20010628180301/http://moneycentral.msn.com/articles/invest/stratlab/6863.asp?Strategy=2)
+## [Journal: April 27, 2001](https://web.archive.org/web/20010628182040/http://moneycentral.msn.com/articles/invest/stratlab/6908.asp?Strategy=2)
+## [Journal: May 9, 2001](https://web.archive.org/web/20010820160212/http://moneycentral.msn.com/articles/invest/stratlab/6967.asp?Strategy=2)
+## [Journal: May 23, 2001](https://web.archive.org/web/20010625235523/http://moneycentral.msn.com/articles/invest/stratlab/7093.asp?Strategy=2)
+## [Journal: May 30, 2001](https://web.archive.org/web/20010625234104/http://moneycentral.msn.com/articles/invest/stratlab/7120.asp?Strategy=2)
+## [Journal: June 13, 2001](https://web.archive.org/web/20010615131150/http://moneycentral.msn.com/articles/invest/stratlab/7259.asp?Strategy=2)
+- Place order to sell 500 shares of **American Physicians Capital** (ACAP) at a limit of 20.40.
+- Place order to buy 900 shares of **Cascade Corp.** (CAE) at 9.00 limit.
+- Increase the limit buy price on **Wellsford Real Properties** (WRP) to 16.45; change order to 600 shares.
+### A nickel between me and break-even
+- WRP
+	- Wellsford just bought back 24% of its shares at a huge discount to intrinsic value. Hence, intrinsic value per share just jumped at least $3 per share. The shares moved up to reflect this accretive action by management, but now they’re soft again. It’s not often that I’ll raise my initial buy price on a stock (usually, I let missed opportunities be), but in this case 18.50 now is cheaper than 16.45 was back before the buyback
+- ACAP
+	- I took advantage of a no-brainer price when I took such a large position, but at this price I’ll scale it back to a still large but more average-sized position. I continue to be quite bullish on American Physicians, with the biggest risk being a dumb acquisition by management.
+### Back to basics
+- Will MoneyCentral give me a third chance?
+- As I did last round, I’ll try to recover by going back to basics
+- CAE
+	- This illiquid stock, which was transferred from the hands of long-term owners to arbitrageurs during the bidding process, was unceremoniously dumped by those arbitrageurs when the deal fell apart #method 
+	- With a trio of bidders willing to pay over $16 a share just a few months ago, there is a margin of safety here
+## [Journal: June 20, 2001](https://web.archive.org/web/20010701071345/http://moneycentral.msn.com/articles/invest/stratlab/7296.asp?Strategy=2)
+- Sell the entire position in **IBP Inc.** (IBP) at the market
+### Taking the easy trade
 …
+## [Journal: June 22, 2001](https://web.archive.org/web/20010626235250/http://moneycentral.msn.com/articles/invest/stratlab/7331.asp?Strategy=2)
+- Sell the entire **Grubb & Ellis** (GBE) position at a 6.25 limit, good until cancelled.
+### How to get even
+- The goal of breakeven is often much more aggressive than one’s initial investment assumption. In an attempt to get back to breakeven, most investors simply ratchet up the risks they take. Of course this usually just ratchets up the losses – and increases the required return back to even. Talk about a death spiral.
+	- <> [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+- As investors, we must continually guard against the missteps that might lead to losses—and react rationally if we find ourselves down. Acting like a fool after the fact will only compound the error.
+### Portfolio updates
+- SNH
+	- …
+- HBP
+	- …
+- ACAP
+	- …
+- GBE
+	- …
+- GTSI
+	- …
+- With my previous sale of **IBP**, I have only five positions left
+- I am being patient for the end-of-quarter selling that often occurs in downtrodden names as institutions rush to window dress their portfolios #method 
+## [Journal: June 29, 2001](https://web.archive.org/web/20010710123135/http://moneycentral.msn.com/articles/invest/stratlab/7398.asp?Strategy=2)
+- Sell all share of **American Physicians Capital** (ACAP) at 22 limit, good until cancelled.
+- Sell all shares of **Grubb & Ellis** (GBE) at 6 limit, good until cancelled.
+- Sell all shares of **GTSI** (GTSI) at 6.25 limit, good until cancelled.
+- Sell all shares of **Senior Housing** (SNH) at the market.
+### Trading on the spike
+- My job is take advantage of market inefficiency. 
+- The end of quarter presents greater than usual pockets of inefficiency. These quirks in the market can be used to great advantage, especially by individual investors. #method 
+- One quirk is the Russell 2000 rebalancing, which often causes a lot of stocks going in and out of the index to act very funny. The ones entering the index have a better-than-even chance of jumping in the last minutes of the quarter as indexers rush to add these positions. #method 
+- ACAP
+	- …
+- GBE
+	- …
+- GTSI
+	- …
+- It is far from certain that such spikes will occur. But if they do, I need to be able to react in real time even though I’m entering these orders more than a day early. Hence, I’m entering the orders in advance of any knowledge of a spike. Again, the reason I’m willing to sell into such spikes, if they occur, is that spikes are spikes. What goes up on a temporary imbalance comes down when the imbalance resolves. #method 
+- Individual investors should never underestimate the advantages they have over institutions. Individual investors are often invisible to the market and don’t move stocks when moving in and out of positions. That’s a very large advantage.
+- SNH
+	- …
+
+## [Journal: July 13, 2001](https://web.archive.org/web/20010801214736/http://moneycentral.msn.com/articles/invest/stratlab/7547.asp?Strategy=2)
+- Place an order to buy 2000 shares of **La Quinta Properties** (LQI) at 4.55, good until canceled.
+- Place an order to sell 500 shares of **American Physicians Capital** (ACAP) at 20, good until canceled.
+### There’s value in lodging
+- The hedge fund I manage took in significant new investment on July 1
+- HBP
+	- …
+- LQI
+	- …
 …
-## [Journal: Oct. 18, 2001](https://web.archive.org/web/20011120205239/http://moneycentral.msn.com/articles/invest/stratlab/8030.asp?Strategy=2)
+## [Journal: August 10, 2001](https://web.archive.org/web/20010822222054/http://moneycentral.msn.com/articles/invest/stratlab/7670.asp?Strategy=2)
+
+## [Journal: Oct. 18, 2001](https://web.archive.org/web/20011120205239/http://moneycentral.msn.com/articles/invest/stratlab/8030.asp?Strategy=2)—a second round concluded
 - No last-day heroics here.
 ### It’s been a rocky round
 - Most indices are down double digits during the period, but many formerly popular stocks fell much harder than that, to the detriment of many, many individual investors and fund managers.
@@ -210,19 +379,60 @@ date: 2025-12-21
 - Don’t worry about indexes. Worry about your stocks.
 ### Brace for yet another new paradigm
 …
+## [Journal: Dec. 14, 2001](https://web.archive.org/web/20030313094156/http://moneycentral.msn.com/articles/invest/stratlab/8645.asp?Strategy=2)
+- Don’t worry about missing a rally. Worry about losing your money.
+### Why I’m all cash – for now
 …
-…
+## [Journal: Dec. 28, 2001](https://web.archive.org/web/20030114021825/http://moneycentral.msn.com/articles/invest/stratlab/8700.asp?Strategy=2)
+## [Journal: Feb. 8, 2002](https://web.archive.org/web/20030429214945/http://moneycentral.msn.com/articles/invest/stratlab/8940.asp?Strategy=2)
+## [Journal: Feb. 15, 2002](https://web.archive.org/web/20030114025100/http://moneycentral.msn.com/articles/invest/stratlab/9016.asp?Strategy=2)
+## [Journal: Feb. 18, 2002](https://web.archive.org/web/20030429224747/http://moneycentral.msn.com/articles/invest/stratlab/9038.asp?Strategy=2)
+## [Journal: Feb. 21, 2002](https://web.archive.org/web/20030314053110/http://moneycentral.msn.com/articles/invest/stratlab/9050.asp?Strategy=2)
+## [Journal: Feb. 25, 2002](https://web.archive.org/web/20030114023127/http://moneycentral.msn.com/articles/invest/stratlab/9070.asp?Strategy=2)
+## [Journal: March 12, 2002](https://web.archive.org/web/20030114023209/http://moneycentral.msn.com/articles/invest/stratlab/9192.asp?Strategy=2)
+## [Journal: April 25, 2002](https://web.archive.org/web/20021115004134/http://moneycentral.msn.com/articles/invest/stratlab/9538.asp?Strategy=2)
+## [Journal: June 17, 2002](https://web.archive.org/web/20030314050912/http://moneycentral.msn.com/articles/invest/stratlab/9835.asp?Strategy=2)
+## [Journal: June 28, 2002](https://web.archive.org/web/20030114021222/http://moneycentral.msn.com/articles/invest/stratlab/9888.asp?Strategy=2)
+## [Journal: July 15, 2002](https://web.archive.org/web/20021115005508/http://moneycentral.msn.com/articles/invest/stratlab/9996.asp?Strategy=2)
+- Place an order to sell position in **Kindred Healthcare** (KIND) at the open.
+- Place an order to short 400 shares of **Federal Agricultural Mortgage Corp**. (AGM) at the open.
+### Are you vulnerable to skyrocketing insurance costs?
+- KIND
+	- Insurance costs across many industries have skyrocketed, and Kindred appears vulnerable on this front. Essentially, the catalyst that I expected appears to be playing out. That is, on the legislative front, Kindred is getting some good news.
+	- But the business is still vulnerable to the type of insurance problem that has been hitting many lower margin businesses across the nation. This effectively negates any positive effects on the legislative front.
+	- Recently, Five Star (FVE) stock plummeted after announcing big losses because of insurance costs. It would pay to examine your portfolio for potential victims of the nationwide insurance price hikes.
+## [Journal: Aug. 7, 2002](https://web.archive.org/web/20030114023314/http://moneycentral.msn.com/articles/invest/stratlab/10241.asp?Strategy=2)
+- Place an order to buy 2,000 shares of **E * Trade** (ET) at 3.10 limit.
+- Place an order to buy 1,000 shares of **Liberty Media** (L) at 7 limit.
+- Place an order to buy 300 shares of **Reuters** (RTRSY) at 23.50 limit.
+- Place an order to cover short in **Magma Design Automation** (LAVA) at 10 or lower.
+### Just tinkering
+- I will bolster a few current positions—all of these positions are trading significantly less than half long-term value, as might be calculated using any of a number of valuation methodologies
+- I will cover LAVA short at 10 or lower. I originally shorted it at roughly 30 with a target cover price of about 9. I've ramped up the short as the stock has fallen, and it is now in the 9's. That's good enough.
+## [Journal: Sept. 5, 2002](https://web.archive.org/web/20021223115534/http://moneycentral.msn.com/articles/invest/stratlab/10379.asp?Strategy=2)
+- Place order to buy 3,000 shares of **Gemstar-TV Guide** (GMSTE) at 3.90 or lower.
+- Place order to buy 2,000 shares of **National Service Industries** (NSI) at 6.70 or lower.
+### There’s good value in Gemstar and NSI
+- Whichever way the stock market is going, both overvalued and undervalued stocks abound.
+- GMSTE
+	- The current stock price amounts to a mid-single digit multiple on free cash flow generation, and there is no net debt.
+	- Under pressure as Gemstar has failed to file its 10Q on time and as a result is subject to delisting. **Many portfolio managers cannot hold bulletin board stocks**, and therefore the stock has been under pressure.
+- NSI
+	- It is in the midst of a cyclical trough, thanks to the problems affecting the travel industry. When the cycle turns, it is likely we will find National Service earning in excess of $2 a share. The current price of $6.50 or so is therefore much too cheap.
 
 # ANNUAL AND QUARTERLY LETTERS
-## 2000 Annual Letter (20010108)
+## 2000 Annual Letter (20010108)—concomitant with 1st round of Strategy Lab 
+
 …
-## 2001 1Q Letter (20010403)
+## 2001 1Q Letter (20010403)—concomitant with 2nd round of Strategy Lab 
 …
-## 2001 2Q Letter (20010703)
+## 2001 2Q Letter (20010703)—concomitant with 2nd round of Strategy Lab
 …
-## 2001 3Q Letter (20011002)
+## 2001 3Q Letter (20011002)—concomitant with 2nd round of Strategy Lab
 …
-## 2001 Annual Letter (20020106)
+## 2001 Annual Letter (20020106)—concomitant with 2nd round of Strategy Lab
+There was “significant new investment” on July 1 (as per 20010713 journal)
+There should be Avanti related comments (as per 20251216 Substack piece on GameStop)
 …
 ## 2003 2Q Letter
 ## 2004 1Q Letter
@@ -233,7 +443,7 @@ date: 2025-12-21
 ## 2006 3Q Letter (20061005)
 …
 ## 2007 3Q Letter
-## 2008 1Q Letter (200)
+## 2008 1Q Letter
 …
 
 # LECTURE, SPEECH, PODCAST
