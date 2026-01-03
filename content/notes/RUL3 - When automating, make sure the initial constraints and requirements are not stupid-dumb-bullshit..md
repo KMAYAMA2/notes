@@ -1,3 +1,5 @@
+> “It is not daily increase but daily decrease, hack away the unessential. The closer to the source, the less wastage there is.” – Bruce Lee
+
 But you can’t achieve complete stupidity-proof—[[1-2 We are fallible |we are fallible]]
 
 "Daniel Kahneman revealed an unexpected way we can improve our judgment: replacing decisions with rules. It turns out that rules can help us automate our behavior to put us in a position to achieve success and accomplish our goals." #develop 

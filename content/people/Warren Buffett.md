@@ -1,7 +1,7 @@
 ---
 date: 2024-08-15
 ---
-
+In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) and generates cash, and he invests them elsewhere (Portfolio), and he has other companies to which he is the owner (Control). Buffett himself embodied *owner-capitalism* par excellence (e.g., see p. 33). #revisit 
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
 ### Mistakes are a fact of life
@@ -131,6 +131,7 @@ date: 2024-08-15
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 	- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
 - **Understand human behavior if you’re going to run a business** (p. 36)
+	- I think Buffett would’ve been a better team manager than Steve Cohen—Mets was constantly overpaying premium far ahead into the future without understanding human motives
 - You must continuously practice a multidisciplinary approach until fluent (p. 37) 
 	- [[2-1a0c1b You do not rise to the level of your goals. You fall to the level of your systems.]]
 	- [[5-1b4b2 Hanlon's razor applied - See things as results of habits]]
@@ -174,6 +175,7 @@ date: 2024-08-15
 ### Mindlessly imitate the latest fads and fashions
 - Sam Goldwyn: “Include me out” (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
+	- [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
 - Postpone yes, and say no sooner (p. 42)
 	- [[1-1c6a3 Say yes only when both your heart and head say so]]
 	- [[1-1c6a3.0 The decision should be obvious]]
@@ -836,6 +838,9 @@ date: 2024-08-15
 - Praise by name. Criticize by category. (p. 107)
 - “We don’t try to change people. We accept people the way they are.” Think about marriage. (p. 107) 
 	- relate with management memos #revisit 
+	- <> [[1-2f1b9 Repeat what works]]
+	- <> [[2-3b0 Knowledge creation is not a function of time]]
+	- <> [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 - Get in with a culture that’s already the right kind (p. 108)
 	- [[1-2f1b9 Repeat what works]]
 	- [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
@@ -1281,6 +1286,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Buffett: “We want to buy good businesses that are run by good people in good places. It’s like getting married. If you’re getting married tomorrow, you’re not going to worry about a headline today. You’ve just got to be sure you’re marrying the right person.” (p. 186)
 	- [[1-1c6a3.0 The decision should be obvious]]
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
+	- <> [[Li Lu]]: “The macro is what we must accept; the micro is where we can and should make a difference” 
 - Munger: “The trouble with making all these macroeconomic predictions is that people start to think they know something. It’s much better to just say you’re ignorant.” (p. 186)
 	- [[3-1a4b1.2 Define and stay within your circle of competence]]
 - No rainbow without a cloud or a storm (p. 187)

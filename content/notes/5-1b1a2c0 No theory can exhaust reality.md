@@ -1,11 +1,12 @@
-- [[7-1d2a4 Tech innovation can (and did) drive pragmatic changes in regulation]]
-	- Similar to how networks and derivatives are infinite #develop 
 
----
 Next:
 - [[5-1b1a2c0.1 Perfect replication is impossible]]
 
----
+Related:
+- There is no substantial difference between social sciences and science proper (whatever that means)
+	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+- [[7-1d2a4 Tech innovation can (and did) drive pragmatic changes in regulation]]
+	- Similar to how networks and derivatives are infinite #develop 
 - There will be newer L1s that integrate L2s existing on different chains
 	- The sphere of interoperability expands endlessly, as it were ([[1-2g3 The sphere of comprehensibility expands infinitely]])
 		- No one chain can solve everything 

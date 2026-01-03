@@ -1,5 +1,8 @@
-[[12-1d Flexible media will surface contingency]]
 
+Next:
+- [[12-1d Flexible media will surface contingency]]
+
+Related:
 - E.g., visually limit order booking sentiment and opinions (providing market-depth to opinions)
 	- Possible with open state blockchain
 		- Not possible with Twitter
@@ -24,3 +27,6 @@
 - [[5-1b1a2c0.2 Analogue information (e.g., tones of voice, EQ) cannot be perfectly-exhaustively represented by digital systems (e.g., universal writing systems)]] #develop 
 - [[3-1a4b4 Not everything are priced yet]], [[3-1a4b5 Anything can be priced in principle. But not everything will be.]]
 	- [[2-1a0c1i Every polity will be publicly traded eventually just like companies and coins]]
+
+It’s easier to replicate the best (if they are available)
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

@@ -1,3 +1,5 @@
+> “Insecure people don’t stage comebacks, since they don’t leave the scene” – Atif Aslam
+
 *“Morning, boys. How’s the water?”*
 *“What the hell is water?”*
 
@@ -34,3 +36,8 @@ Have multiple [[2-1 Mental models (着せ替え・持ち替え・言い換え)]]
 
 ---
 例えば、ソロスを理解するには松岡正剛による説明が一番分かりやすかった。これは、松岡正剛がパースを理解しているからである。そして、それを理解するための予備知識としてのポッパー理解・エベレット理解・ドイチェ理解が備わっていたからである。
+
+---
+Investors can just not participate in speculation, to eventual speculators’ demise. 
+- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]

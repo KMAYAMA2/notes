@@ -3,6 +3,11 @@
 
 Next:
 - ***[[4-1a4b2b0 Your algo is your principles]]***
+	- Rules >>> “Decisions” #revisit 
+		- [[1-1c6a3.0 The decision should be obvious]]
+		- [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
+		- [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
+		- [[RUL3 - The transparency principle - make your decision-making process as visible and open to scrutiny as possible]]
 - ***[[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]***
 	- [[4-1a4b6a1 Future self is enough of an audience]]
 	- [[3-1c3d1 Well-defined mini-projects can be recycled. Your future self won’t have to repeat himself for similar project.]]

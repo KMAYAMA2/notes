@@ -204,6 +204,8 @@
 - The fabric of reality must be _layered_ for easy-access
 - Deutsch: “The laws of physics, in addition to mandating their own comprehensibility through the Turing principle, ensure that **the corresponding evolutionary processes, such as life and thought, are neither too time-consuming nor require too many resources of any other kind to occur in reality**”
 	- The Deutsch-Turing principle (universal in an even stronger sense than the Turing principle): Not only are universal virtual-reality generators possible, it is possible to build them so that they do not require impracticably large resources to render simple aspects of reality
+		- [[1-1a4b2 Problems arise only when you reason via abduction]]
+			- In the sense that abduction is faster than pure reason #revisit 
 - _Tractable-intractable_
 	- E.g., _factorization_ is intractable
 		- ↔ In the quantum theory of computation, factorization is a very tractable task

@@ -5,11 +5,13 @@ The capitalists—in supplying present goods for future goods—are constrained 
 
 Put differently, capitalists do not *necessarily* influence people’s time-preference schedules; rather, they operate within them—coordinating present and future goods in response to existing preferences. In a free market, they serve as intermediaries, not influencers.
 
-“In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market.”
+In short, consumers are sovereign—the political problem of sovereignty would’ve been already solved in the free market. #revisit 
 
-“***The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption***. *The time preferences of the individuals on the market determine simultaneously and by themselves both the market equilibrium interest rate and the proportions between consumption and savings (individual and aggregate)*.” (p. 400)
+“In the aggregate, the interaction of the time preferences and hence the supply-demand schedules of individuals on the time market determine the pure rate of interest on the market.” – [[Murray Rothbard]]
 
-“**The *time market’s components* are savings as supply of present goods for future goods, and *producers’ demand* (i.e., landowners and laborers) and *consumers’ demand* (i.e., borrowing consumers) for present goods**.” (pp. 417-418)
+“***The aggregate time-market schedules (determined by time preferences) determine the aggregate social proportions between (gross) savings and consumption***. *The time preferences of the individuals on the market determine simultaneously and by themselves both the market equilibrium interest rate and the proportions between consumption and savings (individual and aggregate)*.” – [[Murray Rothbard]] (p. 400)
+
+“**The *time market’s components* are savings as supply of present goods for future goods, and *producers’ demand* (i.e., landowners and laborers) and *consumers’ demand* (i.e., borrowing consumers) for present goods**.” – [[Murray Rothbard]] (pp. 417-418)
 
 Next:
 - [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]

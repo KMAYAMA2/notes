@@ -1,6 +1,10 @@
 ---
 date: 2025-07-18
 ---
+I think [[Ludwig Lachmann]] integrated economics and business management when he expounded on the Plan Structure and the Control Structure, and I think Henry Ford represents that thesis.
+
+Implication: the nation-state can TOB your stake, but so was Ford, and so is Musk.
+
 - henry ford (#9)
 	- it was assembly company first
 		- because that form of company was their version of MVP

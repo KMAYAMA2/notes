@@ -1,6 +1,11 @@
 Knowledge informs preferences.
 
+Or in [[Warren Buffett |Buffett]]’s (along with [[Li Lu]] and [[Michael Burry]]) parlance, knowledge precedes temperament. #develop 
+
 **The individual differentiates due to the indifference—a lack of preference, which in turn is due to a lack of knowledge**. Put differently, **the individual converges across the multiverse through knowledge**. 
+
+Next:
+- [[13-6a4 Knowledge informs preferences. Knowledge precedes temperament.]]
 
 Related:
 - On convergence:

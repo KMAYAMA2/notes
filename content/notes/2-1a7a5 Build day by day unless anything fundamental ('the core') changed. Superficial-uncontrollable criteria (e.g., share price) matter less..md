@@ -1,5 +1,7 @@
 Remember the triad between the Plan Structure, the Portfolio Structure, and the Control Structure (e.g., see [[Ludwig Lachmann]] and [[Warren Buffett]])
 
+When you are short you might get a recall or get squeezed, and that’s not something you can control. But its uncontrollability has its degrees, and I guess you *can* short opportunistically to the extent of your knowledge (e.g., see [[Michael Burry]]). The temperament is important, but wisdom is about prevention, and in that sense ***knowledge precedes temperament*** (IYKYK). #develop 
+
 Next:
 - [[2-1a7a6 Mr. Market is there to serve me, never to guide me]]
 

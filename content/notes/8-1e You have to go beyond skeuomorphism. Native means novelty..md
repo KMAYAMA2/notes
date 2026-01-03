@@ -1,6 +1,6 @@
 Native means novelty #develop 
 
-
+E.g., Waymo—運転席がそもそも不要—what’s the implication for automobiles’ design going forward?
 
 Previous:
 - [[8-1b Look for places where we’ve taken an offline experience and put it online (physical ⇒ intermediate) but haven’t fundamentally innovated yet (⇒ internet-native)]]

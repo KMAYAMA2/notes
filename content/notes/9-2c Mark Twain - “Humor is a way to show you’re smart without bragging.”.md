@@ -1,6 +1,8 @@
-[[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
 
-[[RUL3 - It’s useful to ask why about things that seem wrong, and especially ones that seem wrong but somehow funny.]]
+Related:
+- [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
+- [[RUL3 - It’s useful to ask why about things that seem wrong, and especially ones that seem wrong but somehow funny.]]
+- I thinks humor (お笑い) has something to do with *surprises* #revisit 
 
 - ギリシャの編集方法
 	1. ミメシス

@@ -62,6 +62,7 @@ date: 2024-07-27
 	- Use precise verbs
 		- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room. |Get specific]] in expression
 - Avoid using adjectives as decoration—they will have proper power only if used sparsely
+	- [[2-1a0c1d2 Less is often more]]
 - “Humor is best achieved by understatement, and there’s nothing subtle about an exclamation point.”
 	- Don’t notify the reader that you are making a joke or being ironic—exclamation points are naive.
 	- Also avoid over-explaining—readers can figure out what follows your “surprisingly,” ”predictably,” and “of course.” It makes your writing unsurprising and predictable.

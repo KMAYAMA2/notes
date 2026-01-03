@@ -1,3 +1,5 @@
+> “Pay peanuts and you get monkeys” – [[David Ogilvy]]
+
 Related:
 - [[2-1a1a2 'Bias from incentives' - Explicate your culture-incentive as much as possible]]
 - [[2-1c3 'Win and help win' always outcompete]]

@@ -14,6 +14,8 @@ Related:
 - The free market coordinates the individual curiosity with that of others—similar to how it coordinates [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states |the triad]] (think about what happens when there’s an intervention) #revisit 
 	- [[11-2 Capital market aligns financial incentives with curiosity. More precisely, capital market constrains curiosity with financial incentives.]]
 	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
+- You cannot delegate understanding—and subsequently, you cannot delegate investment proper, either
+	- [[2-1b2e1 Understanding comes from copying the information-knowledge as information-knowledge medium; not from copying the substrate]] ← Challenge this note #challenge
 
 Crazy connection:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]

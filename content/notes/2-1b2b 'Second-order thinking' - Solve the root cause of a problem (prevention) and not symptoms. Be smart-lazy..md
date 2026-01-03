@@ -26,6 +26,9 @@ Related:
 - [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
 - [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+- Save time relentlessly (this is where [[Warren Buffett]] and [[Charlie Munger]] meet [[Naval Ravikant]] intellectually)
+	- [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]
+	- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
 
 Safeguard: 
 - *Use the test of time. Test whether you’re addressing the root cause of a problem, rather than merely treating a symptom, by asking yourself whether it will stand the test of time. Will this solution fix the problem permanently, or will the problem return in the future? If it seems like the latter, then chances are you’re only treating a symptom.*

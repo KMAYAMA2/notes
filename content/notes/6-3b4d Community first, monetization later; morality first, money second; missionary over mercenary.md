@@ -1,3 +1,4 @@
+When one is passionate about something, what he’s measuring won’t be easily swayed by market—this is why missionaries are better than mercenaries, and why they tend to have the temperament essential to success as entrepreneurs. [[Warren Buffett]], [[Li Lu]], [[Naval Ravikant]], [[Paul Graham]], [[Balaji Srinivasan]], and [[David Deutsch]]—although they express this idea differently, they all emphasize how one should take certain ideas very seriously.
 
 Previous: 
 - [[6-3b4c Building true communities is the best way to go viral]]

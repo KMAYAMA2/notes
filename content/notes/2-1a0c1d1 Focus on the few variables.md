@@ -11,6 +11,8 @@ Limit the amount of details to perfect and then make every detail perfect—focu
 
 Also think about what the counterparty is focused on.
 
+As implied in [[Warren Buffett |Buffett]]’s emphasis on essentiality, make something critical—survival over livelihood (inspired by 盛田昭夫) #revisit 
+
 Next:
 - [[2-1a0c1d2 Less is often more]]
 

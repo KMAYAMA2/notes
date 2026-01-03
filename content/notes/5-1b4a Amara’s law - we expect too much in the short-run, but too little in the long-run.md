@@ -1,6 +1,6 @@
 > 大功は緩にあり、機会は急にあり – 渡辺崋山
 
-Explain why this is the case #TODO 
+I think our [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow |tendency to minimize energy output]] combined with the fact that [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things. |we can use symbols]] explains why this is the case. #revisit 
 
 Turnarounds seldom turn and usually takes longer. It takes longer and costs more than you think. But when it happens it happens faster than you think.
 

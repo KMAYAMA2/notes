@@ -1,6 +1,8 @@
-[[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]
+Next:
+- [[7-1b3c Some technologies will be structurally overlooked by corporate networks. Barriers to entry doesn't necessarily correlate to its importance.]]
 
-- A lower bar for the fomer means the insiders will take them less seriously
+Related:
+- A lower bar for the former means the insiders will take them less seriously
 	- Barriers to entry doesn't necessarily correlate to its importance!
 		- [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
 - Native thinking (reads *novelty*) > Skeuomorphic thinking (reads *more of the same*)
@@ -24,3 +26,9 @@
 			- [[2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch]]
 		- [[7-1d3 The most valuable advantage in business is technical one]]
 			- Again, *surprise is as much a force as in wars*
+- [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.]]
+- [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
+	- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
+
+---
+E.g., Nym

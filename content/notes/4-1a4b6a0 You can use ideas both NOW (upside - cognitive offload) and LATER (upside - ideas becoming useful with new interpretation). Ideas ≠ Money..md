@@ -1,4 +1,4 @@
-In the sense that right purchase now allows you to have more money later (e.g., see [[Warren Buffett |Buffett]], the same still applies to money. #revisit 
+In the sense that right purchase now allows you to have more money later (e.g., see [[Warren Buffett |Buffett]]), the same still applies to money. #revisit 
 
 Next:
 - [[4-1a4b6a0a Knowledge ≠ Money]]

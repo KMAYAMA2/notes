@@ -2,6 +2,8 @@
 
 > “If falsehood, like truth, had only one face, we would be in better shape. For we would take as certain the opposite of what the liar said. But the reverse of truth has a hundred thousand shapes and a limitless field.” – Montaigne
 
+> “Markets can remain irrational longer than you can remain solvent.” – John Maynard Keynes #revisit 
+
 Humans do stupid things because we can guess and create meanings. Other life-forms don't have that ability to create knowledge actively. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.
 
 In [[Ludwig Lachmann |Lachmann]]’s parlance, the Portfolio Structure exists apart from the Plan Structure (and the Control Structure) because humans use symbols—the two [[1-1a2e11 Nothing objectively represents the represented |necessarily deviate]] from each other. But free market forces coordinate the triad, because [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented. |we communicate knowledge]]. In showing how the representer represents the represented in free market, Lachmann is taking [[Daniel Everett |Everett]] and Peirce further. #symbols 
@@ -33,6 +35,10 @@ Related:
 	- [[1-2g2t3d Because creation (and growth) of knowledge is in essence error-correction, and because being wrong is way easier than being right, knowledge-creating-bearing entities will become more alike (and thrive) across the multiverse]]
 	- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 - [[3-1a4b2b What is smart at one price is dumb at another]]
+- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 - [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
 	- E.g., Status, 威信財
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- E.g., *Christkind*
+		- クリスマスの独り歩き (symbolic) #develop 
+			- 偶像崇拝禁止 is topologically similar to forbidding derivatives #develop 

@@ -1,3 +1,6 @@
+Karma
+
+明日やろうは馬鹿野郎
 
 Related:
 - And when it happens it happens faster than you think—why better to solve problems ASAP

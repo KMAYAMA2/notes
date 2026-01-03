@@ -9,6 +9,8 @@
 - [[2-1c3 'Win and help win' always outcompete]]
 	- [[7-1a2a1 絶対に勝てるところから勝っていく]]
 
+- [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.]]
+
 [[4-1a4b2b2 History repeats and reverses]]
 - Z-cash, digital nomadism vs the States
 	- Puritans vs EU

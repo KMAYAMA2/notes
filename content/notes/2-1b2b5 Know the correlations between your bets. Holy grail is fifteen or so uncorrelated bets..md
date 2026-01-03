@@ -16,6 +16,9 @@ Related:
 I guess the same applies with thinkers—pick and stick with thinkers like you do with stocks (10-15 at best?), and don’t be like the ones dealing with 100-200 names simultaneously:
 - [[2-1a0c1d1 Focus on the few variables]]
 
+And it also applies to TODOs:
+- [[5-2d1 Procrastinators often follow exactly the wrong track. They try to minimize their commitments, assuming that if they have only a few things to do, they will quit procrastinating and get them done.]]
+
 If you know what you’re doing, you’ll be less susceptible to the environment:
 - [[2-1e Everything is connected in a complex way]]
 - [[3-1a4b1.2 Define and stay within your circle of competence]]

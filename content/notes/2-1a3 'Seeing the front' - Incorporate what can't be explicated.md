@@ -2,6 +2,8 @@
 
 > “To observe correctly and decide wrongly is sure to happen to the best of us, but to observe carelessly happens only when we permit it.” – Thomas McCrae
 
+Founders (and investors) are not necessarily theoretical.
+
 Next:
 - [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - [[2-1a4 'Language instinct' - Language can't exhaust mind]]

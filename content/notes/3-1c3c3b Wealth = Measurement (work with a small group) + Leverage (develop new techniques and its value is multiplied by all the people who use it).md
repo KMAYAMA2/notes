@@ -6,6 +6,8 @@ Relate with infinite leverage memos and notes—that there is no infinite levera
 
 Milan became the fashion capital of Italy due to its production capacity, in contrast to Florence whose focus was on handmade items.
 
+Digital product is easier to mass-produce than physical product. But be it digital or physical, you need the brand—prioritize avoiding commoditized businesses.
+
 Next:
 - [[3-1c3c3c Tech is for technology as well as for technique (技術)]]
 

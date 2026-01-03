@@ -1,3 +1,6 @@
+１人で作った作品の方が刺さる
+
+Related:
 - [[4-1d0.1 The Pinocchio Effect - Liars use more words than truth tellers and use far more third-person pronouns]]
 	- Avoid the anonymous “we” and “they,” because they mask personal responsibility
 		- [[1-1a5b2.1 Be very mindful of where you 'experiment'; one of the most important decisions you can make is who you get feedbacks from (as well as ask questions of)]]
@@ -8,3 +11,8 @@
 		- [[9-2b3d Everett on George Berkeley's critique of the very notions of abstraction and generalization - There is no mind of any kind, only bodies and the world in which they move]]
 			- [[2-1a1a6 'Tendency to overgeneralize from small samples']]
 
+- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+
+- [[13-2.3 Learning is about changing your behavior]]
+	- 細分化した目標を一つずつクリアしていくためには[[2-1a2 See clearly - 解像度を高める |高い解像度]]が必要
+		- And that comes from knowing better (i.e., knowledge)

@@ -5,6 +5,8 @@ date: 2025-11-21
 
 > “Real knowledge is to know the extent of one’s ignorance” – Confucius
 
+***How bad do you want it?***
+
 Related:
 - [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 - [[2-1b3a 'Circle of competence' & 'Niches' - Build a moat. Thrive in where you can.]]

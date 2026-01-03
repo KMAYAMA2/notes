@@ -4,6 +4,9 @@ Originally, this note was titled: *But everything can be priced*.
 
 Viz., it cannot be unbundled. #develop 
 
+You *can* put price tag on freedom, and [[Warren Buffett |Buffett]] repeatedly emphasizes *one test of the strength of a moat is essentiality and pricing power*.
+- [[5-1b1a1e Innovation and science can feed each other. We tend to treat them separately, but both are attempts to solve problems.]] #revisit 
+
 Next:
 - [[3-1a4b5.1 Money can be anything—but money will not be everything]]
 - [[3-1a4b6 The importance of the monetarily accountable compared to the unaccountable increases indefinitely, although the former never exhausts the latter]]

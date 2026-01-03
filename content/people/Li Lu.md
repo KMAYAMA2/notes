@@ -131,12 +131,21 @@ About 400 years ago, another type of system slowly came into being:  the modern
 **These kinds of returns will attract more and more people to the stock market, in turn attracting more and more companies to list.  This is the wondrous way in which the stock market works to mobilise all elements of society, even if it was never the original intention.**  Therefore, from the very start, the stock market had two types of participant:  investors and speculators.  Investors forecast companies’ future performance, while speculators forecast other market participants’ short-term behaviour. 
 - ==the stock market itself is an emergent phenomenon==
 - if you care about others’ positioning, you’re a speculator
+	- my musings on buffett vs soros
+		- buffett is more *grounded*, as it were, because his is about the whole market structure (i.e., the Control-Plan-Portfolio triad)
+		- soros is about likely more about positioning and focused on ecosystem around portfolio structure (i.e., investors)
+			- he was more granular, as it were
+		- in decision-making parlance, it might be fair to characterize
+			- buffett was super effective with one-door type decisions
+			- soros was super effective utilizing two-door type decisions
+		- but both corrected themselves through recalibration with the market
 
 **What is the difference between these two groups?  Is there any difference in their results?**
 
 If you invest in a company in a sustainably growing economy, your company’s profits and your investment return will also grow sustainably.  **If you speculate on other people’s short-term trading behaviour, there can only be one result in the end:  gains and losses must equal because this is a zero-sum game.  If you add up the gains and losses of all speculators in the market, they will sum to zero.**  This is the biggest difference between investing and speculating.  I’m not denying that there are some speculators whose chances of winning are higher and who can go on winning for longer; equally there are some who will always be the sucker at the table and never strike it rich.  If you give it enough time though, when you add the winners and losers together, the net result will be zero.  The reason is that **speculating on short-term behaviour in the market adds nothing to the economy nor to corporate earnings growth**.  Some people say they use a mixed model of “80% investment, 20% speculation”.  If they do 70-80% of their work correctly, then such participants’ returns will reflect the compound growth of the modern economy.  However, the remaining portion will be caught up with all the other speculators and their result will be the same – zero. 
 - knowledge about positioning is not positive-sum (since positioning is speculation and since speculation is zero-sum)?
 - ==<> do what matters==
+	- <> [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 
 Now that you know this result, will you choose to be an investor or a speculator?  This is a personal choice and there is no right or wrong answer.  **The only difference is the impact you will have on society**.  Investors will help all parts of society enter modernity’s virtuous cycle – the stage in which it enjoys continuous compound growth.  If you are interested and would like to learn more about this, you can refer to my monograph, “Discussions on Modernisation”. #revisit 
 
@@ -466,6 +475,7 @@ Whoever would have thought when China began its Reform and Opening 40 years ago 
 <> representation
 - As economies transition into stages 2.5 and beyond, the distinction becomes obsolete and even misleading
 	- <> ==virtual-reality rendering== notes
+	- <> [[virtual]]
 - NVIDIA has not manufactured a single semiconductor wafer itself. All production has been outsourced to TSMC.
 ##### 3. The Role of Government
 - In transitioning from an agricultural to a modern science-technological economy, governments worldwide have evolved from command-andcontrol roles to collaborative, consultative, supportive, and service-oriented roles. This transformation aligns with the scale and complexity of modern economic systems.
@@ -544,6 +554,7 @@ Whoever would have thought when China began its Reform and Opening 40 years ago 
 	- <> accept the reality as is
 	- <> build what matters and ignore what doesn’t matter
 		- and remember that there is no substantial difference between building and investing
+	- <> Buffett: “We want to buy good businesses that are run by good people in good places. It’s like getting married. If you’re getting married tomorrow, you’re not going to worry about a headline today. You’ve just got to be sure you’re marrying the right person.”
 - The global economy continued to grow—Brazil and Argentina were once among the leading global economies but are now hard to find on that list. This is because, as they stagnated, other countries and the global economy continued to grow rapidly, causing their share in the global economy to continually slide.
 	- <> you must evoke the whole to explain the parts
 - As global investors, you need to invest in the most dynamic economies you believe in, but also pay attention to your actual needs so you can maintain your purchasing power where you consume. For global investors like Himalaya Capital, our goal is to select the most dynamic, creative, and competitive companies within the world's most vibrant economies, own their shares, and thus achieve the goal of maintaining and increasing wealth globally. However, for individual investors, you need to maintain your purchasing power in the economy where you are willing and need to consume, as that is your real wealth. For example, many Chinese investors' main purchasing needs are in China, and they may not need purchasing power in Europe or South America.
@@ -569,8 +580,9 @@ Whoever would have thought when China began its Reform and Opening 40 years ago 
 	- Lack of competition is an important reason for mispricing. #revisit 
 6. Wealth is the proportion of purchasing power in the economy. The goal of value investing is to hold shares of the most dynamic companies in the most vibrant economies to preserve and grow wealth.
 	- Even if the global economic pie shrinks at times, you can preserve your wealth by maintaining your proportion of purchasing power. Then, when the economy begins to grow again and the pie enlarges, you can preserve and continue to increase your wealth.
-		- share + return (but share matters more than return) >>> only paying attention to return
-			- <> ==the whole must be evoked to explain the parts==
+		- **Share + Return (share matters more than return) >>> Only paying attention to return**
+			- <> [[3-1a4a1 The whole must be evoked in explaining the parts]]
+			- <> [[13-1a3a2d4 The purchasing power of money in terms of all other commodities is continually changing, and there is no way to measure such changes]]
 - The macro environment is what we must accept, and the micro environment is where we can and should make a significant difference. Engaging in value investing allows us to breathe in sync with the times and grow alongside it.
 	- <> recalibrate <> accept the reality as is (otherwise reality will get in)
 # 2024 Q&A
