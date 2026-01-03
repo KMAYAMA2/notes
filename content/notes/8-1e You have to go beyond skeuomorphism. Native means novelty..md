@@ -14,4 +14,4 @@ Related:
 - [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 - [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
 - [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
-
+- E.g., limit orderbook and limit-orderbook-based-algo will be relic of the past #revisit 

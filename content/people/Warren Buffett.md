@@ -1108,7 +1108,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 		- [[5-2c2b3 'When you punt something into the future, the future eventually arrives']]
 	- Only a handful of Web2 companies can “abuse” the clients (e.g., via high take rates)—you have to establish the brand first #revisit
 		- The strength of Alphabet (Google), Amazon, Apple, Meta, and Microsoft comes from the brand
-			- Betting on essentiality and pricing power is now on the side of the majority due to index investing—remember that [[3-1a4b2b What is smart at one price is dumb at another |what is smart at one price is dumb at another]] #revisit 
+			- Betting on essentiality and pricing power is now on the side of the majority due to index investing (e.g., Apple and Meta via SPX)—remember that [[3-1a4b2b What is smart at one price is dumb at another |what is smart at one price is dumb at another]] #revisit 
 		- Elaborate, e.g., my note on [[8-1c4d1 Web3 writing differs particularly from Web2 writing, because of the incentive structure |Web3 writing]] #TODO 
 - Eliminate what irritates the customer (p. 152) 
 	- Always [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future |invert]]
@@ -1229,7 +1229,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- Often times *how* doesn’t matter
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 		- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
-		- [[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it]]
+		- [[9-2b It’s not just about what you say or what you do, but also about how you say it and how you present it]]
 		- [[13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general]]
 			- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - Businesses are bought for keeps (p. 178)
@@ -2658,3 +2658,15 @@ See also pp. 42-50
 		- If you keep changing your game you wouldn’t notice these #revisit 
 			- [[3-1d6b Consistent style makes it easier to see whether you are making a progress or not]]
 			- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+
+
+# Buffett’s Farewell
+- My advice: Don’t beat yourself up over past mistakes—learn at least a little from them and move on. It is never too late to improve. Get the right heroes and copy them. You can start with **Tom Murphy**; he was the best.
+- Remember Alfred Nobel, later of Nobel Prize fame, who—reportedly—read his own obituary that was mistakenly printed when his brother died and a newspaper got mixed up. He was horrified at what he read and realized he should change his behavior
+	- <> [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]
+- Don’t count on a newsroom mix-up: Decide what you would like your obituary to say and live the life to deserve it
+- Greatness does not come about through accumulating great amounts of money, great amounts of publicity or great power in government. When you help someone in any of thousands of ways, you help the world. Kindness is costless but also priceless. Whether you are religious or not, it’s hard to beat The Golden Rule as a guide to behavior.
+	- <> [[2-1c3 'Win and help win' always outcompete]]
+- Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better.
+	- <> [[2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet]]
+	- <> [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]

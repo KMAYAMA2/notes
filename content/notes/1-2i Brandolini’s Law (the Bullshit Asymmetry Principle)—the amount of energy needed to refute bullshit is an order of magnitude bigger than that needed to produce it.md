@@ -1,7 +1,9 @@
 ---
 date: 2025-11-20
 ---
+> “Culture, more than rule books, determines how an organization behaves. **If you have a good culture, you can make the rules pretty simple.** It has to be consistent, lived, be followed, and rewarded when followed and punished when not. It’s much easier to inherit a culture, and it’s easier in small firms.” – [[Warren Buffett]]
 
+Great culture must understand Brandolini’s Law and fight it. #revisit 
 
 Related:
 - Why error-correction occurs *en masse* (i.e., market crash)
@@ -21,5 +23,7 @@ Related:
 	- [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 	- [[3-1c3a2 情報の起源に触れることは物理的に不可能]]
+- Why smaller group’s consensus tends to be closer to truth than larger one
+	- [[2-1a0c1d1 Focus on the few variables]]
 - [[5-3e Matt Ridley - 'Knowledge is both a public good and a temporarily private one. Knowledge is expensive to produce, but can sometimes pay for itself.']]
 - [[10-2g1f Imitation = limitation (imitation has limitation)]]

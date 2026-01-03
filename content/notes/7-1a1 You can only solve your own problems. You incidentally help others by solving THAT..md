@@ -4,3 +4,4 @@ Next:
 
 Related:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]
+- [[Become A Problem-Solving Artist]]

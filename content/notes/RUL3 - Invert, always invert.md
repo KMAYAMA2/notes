@@ -20,3 +20,5 @@ Related:
 - [[5-2a2 What gets measured gets managed]]
 - [[5-2c2a0 Avoiding bullshit takes you far enough. Maybe the extra bit comes from really knowing about yourself.]]
 - [[10-2g3d1.1 Humans create their own cause]]
+- Sometimes it makes sense to be the house #develop 
+	- E.g., CBB (@Cbb0fe on X) on sniping and arb—acting as onchain HFTs + pseudo-broker (*broker 2.0*)

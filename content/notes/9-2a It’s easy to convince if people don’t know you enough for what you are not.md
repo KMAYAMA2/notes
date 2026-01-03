@@ -6,7 +6,7 @@
 	[[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
 
 [[9-2a1 It doesn’t matter where you came from (or where you are); what matters is what you can do and where you are going]]
-[[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it]]
+[[9-2b It’s not just about what you say or what you do, but also about how you say it and how you present it]]
 
 [[AN3C - People hide their flaws]]
 

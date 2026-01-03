@@ -1,10 +1,11 @@
 > “If a thing can’t go on forever, it will eventually stop”
 
-For example, a glass of water does not contain an infinite number of smaller drops of water because dividing a molecule into two drops makes no sense
+For example, a glass of water does not contain an infinite number of smaller drops of water because dividing a molecule into two drops makes no sense.
 
-Growth has its limits (e.g., see [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]])
+Growth has its limits (e.g., see [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it) |Wealth = Measurement + Leverage]]) because we need market to [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented. |communicate]] *efficiently*, and market needs redundancy (e.g., see [[Murray Rothbard |Rothbard]]—specifically, pp. 606-616). Here [[Murray Rothbard |Rothbard]] meets [[Daniel Everett]] and [[Scott Aaronson]]. #develop 
 
-Counter-examples: 
+Counter-examples? 
+- [[Li Lu]]’s Iron Law of Civilization 3.0 #challenge 
 - [[10-2g1h The best explanation of anything eventually involves universality, and therefore infinity. The reach of explanations cannot be limited by fiat.]]
 	- [[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive']] #develop
 

@@ -32,4 +32,5 @@ date: 2024-10-07
 				- [[10-1b4.1 Peirce - One needs 'interpretant' for language to get off the ground]]
 - **[[2-1e Everything is connected in a complex way]]**
 - [[10-2g3d1.1 Humans create their own cause]]
-
+- [[Elie Ayache |Ayache]]’s claim that there is no substantial distinction between underlying and its derivatives, is topologically the same with Eigenlayer’s similar claim on L1-L2, as well as with my view on protocol-interface-intents distinction (e.g., Maya Protocol-Zashi-NEAR Intents) #revisit 
+	- [[3-1c2g Often times what matters is not what's used in the system, but what it does and can do]]

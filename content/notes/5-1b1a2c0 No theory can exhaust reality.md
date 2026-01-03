@@ -3,7 +3,7 @@ Next:
 - [[5-1b1a2c0.1 Perfect replication is impossible]]
 
 Related:
-- There is no substantial difference between social sciences and science proper (whatever that means)
+- There is no substantial difference between social sciences (社会科学) and science proper (自然科学—whatever that means)
 	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 - [[7-1d2a4 Tech innovation can (and did) drive pragmatic changes in regulation]]
 	- Similar to how networks and derivatives are infinite #develop 

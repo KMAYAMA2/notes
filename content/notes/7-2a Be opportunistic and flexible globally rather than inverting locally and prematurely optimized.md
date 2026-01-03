@@ -1,5 +1,5 @@
 
-Develop implications for asset allocation (e.g., see [[Warren Buffett]] p. 59) #TODO 
+Develop implications for asset allocation (e.g., see [[Warren Buffett]] p. 59) #TODO #method 
 
 Next:
 - [[7-2b The more of a noob you are locally, the less of a noob you are globally]]

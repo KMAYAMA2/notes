@@ -8,6 +8,8 @@ Related:
 - [[11-3.4a More is different]]
 	- When the thing becomes qualitatively different, some parts which were necessary due to quantitative reasons will become obsolete and will become dispensable. #revisit 
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
+- But not too less
+	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
 - Think for yourself
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]

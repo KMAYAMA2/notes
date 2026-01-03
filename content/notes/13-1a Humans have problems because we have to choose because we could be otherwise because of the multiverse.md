@@ -8,3 +8,6 @@ Next:
 Related:
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]
 - [[13-6e Praxeology is concerned with the fact that humans solve problems—regardless of how]]
+- [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
+
+#counterfactual

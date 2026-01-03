@@ -1,6 +1,31 @@
 ---
 date: 2025-12-21
 ---
+
+# Burry inspired memos
+- Downside first <> margin of safety
+- Vertical integration and difficulty around integrating tech parts (unpredictable)
+- ==burry has been betting against interventions==
+	- viz., he’s been betting for free market force
+		- and in that context, short sell (or any equivalent forms of short) can make sense
+- He took Buffett seriously then found MBS then CDS
+	- Take social justice seriously (then fisherman) then finance then Burry
+- the concept of competitors are not functioning—or more precisely, less visible—when every companies’ stock price is up #revisit 
+	- in contrast to gold standard economy, where such shares are easily visible
+		- <> ==what gets measured gets managed==
+		- <> ==know what to measure==
+- What doesn’t have stock options, and doesn’t buyback arbitrarily, but with free cash flow? 
+	- HYPE?
+- From the last third section of [tokenization piece burry tweeted about](https://thepaypers.com/crypto-web3-and-cbdc/interviews/beyond-crypto-how-tokenization-is-quietly-rewiring-markets)
+	- Iron-law of market: one will take all, then investing every network will payoff?
+	- State-chain?
+- ==don’t fight physics <> reality is one, be one with it== 
+- on consensus
+	- ==LLMs = 「民意」==
+	- ==Truth ≠ 「民意」 ==
+	- Consensus = 「民意」
+		- ==<> other consensus memos and notes <> majority==
+
 # SUBSTACK
 ## The Psychology of Investing in the Information Age
 - Excitedly “cramming” all at once will only mean long-term memory is **not** attained for the content one’s prefrontal cortex so urgently consumed. Worse, that same prefrontal cortex becomes overloaded with information that cannot be properly processed. This produces cognitive fatigue, affecting the rest of your day in negative ways. Yes, **cramming for one thing makes one dumber** for other things.
@@ -464,6 +489,7 @@ There should be Avanti related comments (as per 20251216 Substack piece on GameS
 - **(18:31–18:55)** ==Burry’s Palantir trade: it’s a bet the stock “goes way, way down” over a two-year horizon==. Lewis asks what he sees that the market doesn’t.
 - **(20:25–20:45)** **A “billionaires-to-revenue” ratio greater than 1, which he’d never seen**—he sees this as a cute but telling sign: ==enormous insider wealth vs. modest revenue and questionable real profitability==.
 	- Echoes his compensation thesis elsewhere #revisit 
+		- [[Michael Burry]] meets [[Li Lu]] here, since the latter’s emphasis on share echoes directly the former’s critique of how stock compensation shifts wealth from shareholders to employees #revisit 
 - **(20:45–21:16)** He argues that ==stock-based compensation essentially eats all “income”== — the company issues massive equity to compensate staff and then spends cash to buy back stock to offset dilution. ==GAAP treatment understates the true economic cost==.
 	- <> [[5-2a0 Know what to measure]]
 	- <> [[5-2a1 You get what you measure]]

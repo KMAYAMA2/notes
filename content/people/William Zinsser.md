@@ -74,7 +74,7 @@ date: 2024-07-27
 	>“*Life is infinitely stranger than anything which the mind of man could invent. We would not dare to conceive the things which are really mere commonplaces of existence. If we could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and and peep in at the queer things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events, working through generations, and leading to the most outre results, it would make all fiction with its conventionalities and foreseen conclusions most stale and unprofitable*” – Arthur Conan Doyle
 - [[9-1 Be truthful |Be truthful]]—the reader can sense it if otherwise, and that’s not a risk worth taking
 - “Surprisingly often a difficult problem in a sentence can be solved by simply getting rid of it.”
-- “Keep your paragraphs short. [[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it |Writing is visual]]—it catches the eye before it has a chance to catch the brain.”
+- “Keep your paragraphs short. [[9-2b It’s not just about what you say or what you do, but also about how you say it and how you present it|Writing is visual]]—it catches the eye before it has a chance to catch the brain.”
 	- [[9-4b3e3 The easier something is to read, the more deeply readers will engage with your ideas. Keep the friction low. |Short paragraphs are more inviting]]
 - [[7-1a Create something you would want for yourself, and never for some imaginary audience |Write for yourself]]—people write better and with more enjoyment if they write about what they care about.
 	- Write about your hobbies. Write about your work.

@@ -19,8 +19,6 @@ Related:
 - [[3-1c3d1 Well-defined mini-projects can be recycled. Your future self won’t have to repeat himself for similar project.]]
 - [[7-1a2b For startups, growth is a constraint much like truth]]
 - [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
-- [[New explanations are to be judged by how many more problems they solved and introduced. It has to be consistent with your web of ideas, or they have to solve more than introduced. You have to know your web of ideas.]]
-- [[New theory is constrained in terms of what they can say, since it must either be consistent with existing theories, or contradict them but address the problems thereby raised. In short, new theories have to solve more problems than existent ones.]]
 - [[10-2g1b1 Scientific discourses are less fallible because the fundamental theories of physics are exceedingly hard to vary]]
 - [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 
@@ -34,6 +32,6 @@ Additional high-level theories place more and more constraints on what the low-l
 In short: show up.
 	https://seths.blog/2010/12/the-first-rule-of-doing-work-that-matters/
 
-Ichiro used the same exact bat model throughout this career.
+Ichiro’s bat was from the same exact model throughout this career.
 
 #develop

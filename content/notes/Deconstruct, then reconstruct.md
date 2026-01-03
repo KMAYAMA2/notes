@@ -11,6 +11,6 @@ date: 2024-07-27
 
 [[10-1c4 Think about your problem as a set of outcomes produced by a machine then customize, because thinking in terms of machine implies composability, and composable system is fixable]]
 
-[[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it]]
+[[9-2b It’s not just about what you say or what you do, but also about how you say it and how you present it]]
 
 [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content']]

@@ -2,8 +2,9 @@
 
 Reading biographies >>> studying “history” #revisit 
 
-Not every opinion matters—relate this note to voting #TODO 
-- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+Related:
+- Not every opinion matters—relate this note to voting #TODO 
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 
 - [[2-1a2 See clearly - 解像度を高める]]
 
@@ -30,3 +31,7 @@ Not every opinion matters—relate this note to voting #TODO
 - If people are there because they share the same problem, integrating their feedbacks amounts to [[7-1b4b4b Permeate both across other possibilities in this universe and across multiversal timelines]] (particularly the former) #develop 
 	- Find existing communities aligned with your problems and gain early endorsements, rather than pursuing solo viral growth tactics
 		- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+
+- Being nobody as implied by [[Todd Graves]]’ quote—indistinguishable ≠ Being nobody as in having [[2-1aa Privacy is the absence of information leakage |privacy]] (anonymous)—unidentifiable #develop 
+	- <> [[5-1b1b2b Don't try to be the best. Be the only.]] #develop 
+		- You can be the only yet nobody, only with the latter concept of nobody #develop 

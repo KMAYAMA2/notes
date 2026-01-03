@@ -1,3 +1,5 @@
+Be in for 20 years—but only get in *the right train*—and to do that, have great goals like Mars, AGI, iPhone (see [[Marc Andreessen]]).
+
 Related:
 - [[3-1c2a Your mind, including the unconscious, has to know the problems you explicitly have]]
 - [[3-1c3d3 When problems are so well defined, your future self might be able to solve new problems by reusing and recombining them]]

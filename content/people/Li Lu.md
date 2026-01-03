@@ -1,7 +1,37 @@
 ---
 date: 2025-07-18
 ---
-
+# Li Lu inspired memos
+- 2018 piece
+	- p. 3 → is being obsessed with scarcity argument (e.g., BTC) equivalent to living the relic of the past?
+	- p. 5 → ==Jared Diamond’s theory is to an extent applicable to Agrarian Civilization==
+		- if you argue otherwise (which seems to be the case with Deutsch) you’re being anachronistic #revisit 
+	- p. 6 -> Columbus discovered America in 1492, and America became independent in 1776. Almost took 300 years. Can the modern technology accelerate such processes in the future?
+	- p. 6 → ==Maybe Rothbard is an Agrarian Economist?== If the quality is different between agrarian market and modernized market, then proper economic theories must differentiate and explain each respectively <> nothing explains anything exhaustively <> ==分析 (および説明) の本質は分節==
+	- p. 7 → imagine you were there, not knowing which will prevail: fascism, communism, and liberalism
+		- or 幕末 (added this memo 20251216—inspired by イクサガミ)
+	- p. 8 → Does soft power need hard power? History and politics as PoW equivalent.
+- 2024 piece
+	- p. 6 → virtual and real economies distinction is misleading
+		- <> ==we never experience reality as is== (Li Lu meets Deutsch yet again)
+	- p. 12 → Info is in difference, but computational difference something like the difference between solving and verifying NP problem is what matters
+	- p. 13: ==otherwise people will leave to where there’s sustainable growth <> Gresham’s Law==
+	- p. 14: network effects <> everything is connected <> start where you can <> widen circle of competence
+	- p. 18 → if the governments lift the capital outflow ban, then what happens to *internet money*?
+		- ==is the crypto play essentially about being against central control (and thereby about freedom), and not essentially about growth?==
+	- p. 23 → have fun, start from what you’re curious about (because there you tend to get competent and knowledgeable), then widen the knowledge base, and if there’s better “lake” out there go fish in there, but until you know enough about the lake don’t start fishing
+		- ==<> circle of competence <> go for the best <> have fun==
+- miscellaneous
+	- ==there is a difference between investors and speculators==
+		- to argue this (as Buffett would do), one has to understand Lachmann’s argument (unlike that of Rothbard), and consider the fact that successful value investors (e.g., Buffett and Li Lu himself) do exist in reality
+			- <> Sherlock
+			- <> 13-1a3a2f
+			- <> 13-8d
+	- li lu mentality and ==focus on share works well with gold (or BTC, or ZEC) standard economy==
+	- You buy stocks because cash can’t retain value, but stocks represents economy and if malinvestments are everywhere (which is often the case when money is printed) then stock prices will plummet <> no free lunch <> ==Gresham’s Law==
+		- <> be fearful when others are greedy
+		- ==where did all the active investors go?==
+			- crypto?
 # A Discussion of Modernization (2014)
 ## Chapter 1—Old Problems and the New History
 - The waning of the East and the dominance of the West during the past 200 or more years has consistently been a core concern for world elites from various walks of life both in China and the West, but to this day a consensus has yet to be achieved.
@@ -205,6 +235,7 @@ This experience taught me a lesson:  if there is enough margin of safety, I wil
 As a result, I started researching similar companies one by one and it greatly increased my understanding of the whole industry.  I made my investment because there was a margin of safety but I later developed a real interest in the business itself.  The experience taught me that my company’s value wasn’t just on its balance sheet; in fact, its main value was in its earnings power.  I didn’t understand large companies so I found a few small ones, the best of which were located close to where I was living in New York at the time so that I could visit them.  Talking with anyone was fine, including the security guard at the entrance.  After all, it was my company that hired them.  This is how I realised that after making an investment in a stock, people’s psychology changes and they become interested in its every aspect.
 - ==ownership can boost your curiosity==
 	- <> reflexivity
+		- <> [[1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge |Do it before ready]]
 
 There was another company at the time which taught me something revealing.  This company owned a lot of gas stations, and so I became interested in gas stations.  There were two gas stations near where I lived, one on each side of the same intersection.  However, I realised that one gas station had many more customers, and that cars would come to it regardless of which direction they were heading.  Both gas stations had the same price and their gas was the same as it was made to the same standard.  I felt this was very strange and since it was my company’s gas station anyway, I went to have a look.  The gas station which attracted all the customers was run by a family of Indian immigrants, who all lived there too.  As soon as a customer arrived, they would come out to offer him a glass of water.  Whether you wanted it or not, they would always offer it to you first and then strike up a conversation.  If the kids were home from school, they would come out and help you tidy up your car.  The other gas station was run by a typical American.  He wasn’t a bad guy but the gas station didn’t belong to him.  He was just an employee hired by the real owner, so he wouldn’t come out from the store and nor would he pay much attention to what was happening outside.  Thanks to this one difference, I calculated that in a given period, one gas station attracted almost four times as much traffic as the other. 
 - ==owners care==
@@ -595,6 +626,7 @@ Whoever would have thought when China began its Reform and Opening 40 years ago 
 		- <> always go for the best
 	- Third, when the market exhibits bubble-like extreme overvaluation
 		- <> burry #revisit 
+			- ←→ [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]] 
 - However, valuation is often a concept of timing and largely depends on the company's long-term growth potential . . . Short-term overvaluation is less significant compared to long-term growth #revisit 
 	- <> focus on and build what matters
 - Once you truly find and understand such a company, I generally advise against hastily selling it. Because if you sell it thinking it's overvalued, and later try to buy it back, you'll face the same issue that it's still overvalued, and you're back to waiting for it to be cheaper. During that waiting period, its growth could far exceed your original valuation estimates. If it's a truly superior company, this scenario is even more likely.

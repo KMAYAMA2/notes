@@ -1,5 +1,5 @@
 [[3-1c1d8 Sentiment (both macro and micro) is important and should be measured]]
-	[[3-1c1d9 Phrasing matters]] because [[9-2b It’s not just about what you say or what yo do, but also about how you say it and how you present it]] ([[9-2b1 情報媒体が情報自体よりも情報力を持つこともある]])
+	[[3-1c1d9 Phrasing matters]] because [[9-2b It’s not just about what you say or what you do, but also about how you say it and how you present it]] ([[9-2b1 情報媒体が情報自体よりも情報力を持つこともある]])
 
 Enhancement is good
 	'Cheating' in Olympics doesn't amount to 'cheating' in maintaining health for daily lives of regular people

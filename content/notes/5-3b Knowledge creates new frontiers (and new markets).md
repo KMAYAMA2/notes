@@ -24,3 +24,6 @@ Related:
 								- Remember: [[8-4a1 Multi-modal transferability means software will be built differently]]
 - [[7-1b5a You can create problems. Not in the sense of causing problems, but literally creatively creating them. There are good problems and bad problems. Work on and solve good problems.]]
 - [[8-1 The frontier]]
+- [[8-1e You have to go beyond skeuomorphism. Native means novelty.]]
+	- But usually, new market doesn’t replace the previous one at one-go
+		- [[13-2b The accumulated stock of capital goods imposes a conservative force on present-day action]]

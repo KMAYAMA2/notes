@@ -1,3 +1,4 @@
+> “People will buy hardware just to buy a single game if the game is really compelling” – Satoru Iwata (Nintendo)
 
 Next:
 - [[5-1b1b1a5.1 Blockchain network becomes better as tools are added]]

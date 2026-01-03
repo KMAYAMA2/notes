@@ -1,3 +1,4 @@
+> “Feynman said there's plenty of room at the bottom. How much? Some people would say the Planck scale is the limit. But that scale is just the limit of our knowledge. Nothing we know says making smaller-scale things is impossible.” – [[David Deutsch]]
 
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]

@@ -20,4 +20,6 @@ Related:
 	- [[13-4d5 Prices are derived from subjective values]]
 - And also because what’s been maximized is psychic income, and not monetary income
 	- [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
+- Money cannot explain everything just like how language cannot explain everything
+	- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 - [[11-2a Invest for the wealth it can generate, not for the money per se]]

@@ -7,7 +7,7 @@ Speculation, which constitutes “investment” in the broader sense of the word
 
 An implication: investment is proper side hustle (投資も副業)
 
-An exception: if the consumer cannot find what he wants, and if he doesn’t give up, then he becomes [[Become A Problem-Solving Artist |the producer *for himself*]]. **How bad do you want it?**
+An exception: if the consumer cannot find what he wants, and if he doesn’t give up, then he becomes *[[Become A Problem-Solving Artist |the producer for himself]]*. **How bad do you want it?**
 
 Related:
 - [[3-1a4b2b What is smart at one price is dumb at another]]

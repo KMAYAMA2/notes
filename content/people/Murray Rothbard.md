@@ -1142,6 +1142,8 @@ That there is an optimum population level—and that the economy would be able t
 - To isolate them by calculation, *there must be in existence an external market to which the entrepreneur can refer*. (p. 608)
 	- *Could’ve been otherwise* is already realized to some extent, as it were. #develop 
 - Without an external market for wage rates, rents, and interest, there would be no rational way for entrepreneurs to allocate factors in accordance with the wishes of the consumers. **There could be no efficiency in production because the requisite knowledge would be lacking**. (p. 608)
+	- <> [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
+	- <> [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
 #### E. Vertical Integration and the Size of the Firm
 - A firm can accurately estimate the profit or loss it makes in a stage of its enterprise only by finding out the *implicit* price of its internal product, and it can do this only if an *external* market price for that product is established elsewhere. (p. 611)
 	- Viz., **you need redundancy**, as it were. #develop 

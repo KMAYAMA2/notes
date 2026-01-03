@@ -1,4 +1,4 @@
-Slicing the pie doesn’t create anything, if everybody becomes the consumer, then such society won’t prevail.
+Slicing the pie doesn’t create anything, if everybody becomes the consumer, then such society won’t prevail. In nature, parasites are the norm (6 times more in existence vs standalone species). Don’t make Atlas shrugged. 
 
 Related:
 - [[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)]]

@@ -41,3 +41,6 @@ Have multiple [[2-1 Mental models (着せ替え・持ち替え・言い換え)]]
 Investors can just not participate in speculation, to eventual speculators’ demise. 
 - [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 - [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+
+---
+[[2-1z Observe]]
