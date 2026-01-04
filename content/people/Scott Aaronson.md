@@ -49,7 +49,16 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 	- for Aaronson this implies irrelevance of many-worlds
 - Focusing on time instead gives us space, because you cannot see every space (inspired dream where I realize how ==one perceives his surroundings not visually but via imagination==) <> *self-locating belief* <> Tachyon (why we need clock)
 - Behavioral test doesn’t work, maybe because of NCT (==what needs to be replicated is mind, and that’s equivalent to predicting mind, and that’s probably forbidden by NCT==, at least according to my understanding of Aaronson)
-
+- Computation per se doesn’t need MWI. But evolution and epistemology need MWI. And computation needs evolution?
+	- E.g., see [[1-2 We are fallible]]
+- 1-2i → culture >>> rules (>>> decisions)
+	- <> faster computation <> and computation is nothing more than an aid to communication
+- 1-1a4b2
+	- abduction is faster than pure reason—this is why test matters—it’s about faster computation (i.e., complexity theory)
+		- deutsch <> aaronson
+			- <> ==9-2a1.1== (execution is speed <> computability <> complexity)
+- on aaronson-deutsch (or zcash-multiverse)
+	- e.g., 6-3a2.1 <> ==1-2g2t4== (or just search with `fungib`)
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter
 - p. 110 → we don’t really need experiments because we are Turing machine <> but often times being in contact with external reality gets you to reality faster <> see from different perspectives <> seeing the front 

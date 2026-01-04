@@ -13,5 +13,5 @@ Related:
 	- [[1-2e You literally MAKE a decision by creating the best explanation that you can from the web of ideas that you have at the moment (i.e., abduction-guessing)]]
 
 Contradictory?
-- [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]]
+- [[4-1a4b2a1 忘却を促進することで、人為的な古典化を起こす。]] #challenge 
 	- Does this mean I shouldn’t revisit my memos daily? Or should I just simply revisit and refine my notes when I feel like it?

@@ -5,6 +5,8 @@ date: 2025-11-21
 
 > “Real knowledge is to know the extent of one’s ignorance” – Confucius
 
+> “The best part of our knowledge is that which teaches us where knowledge leaves off and ignorance begins. Nothing more clearly separates a vulgar from a superior mind, than the confusion in the first between the little that it truly knows, on the one hand, and what it half knows and what it thinks it knows on the other.” – Oliver Wendell Holmes
+
 ***How bad do you want it?***
 
 Related:
