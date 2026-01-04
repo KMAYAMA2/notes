@@ -2,6 +2,8 @@
 date: 2025-07-18
 ---
 
+# Lachmann related memos
+- ==If the whole premise of index investing rests on inflationary fiat money==…
 
 # Capital and Its Structure
 ## Preface

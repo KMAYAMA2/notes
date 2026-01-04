@@ -1,6 +1,10 @@
 ---
 date: 2026-01-03
 ---
+
+### mert inspired memos
+- ==internet money means you have to be conservative given the amount of noise and speed== #revisit 
+- ==Internet money means more noise means more volatility means preparedness matters more than ever?== Or just don’t look at market? #revisit 
 ### mert w/ BTC takeover
 - On PoS (-1:14)
 	- ==Voting means consensus== (not really necessary)

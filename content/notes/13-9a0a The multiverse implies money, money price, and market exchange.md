@@ -33,3 +33,4 @@ Related
 	- [[2-1b2e2 Knowledge doesn't care how it's replicated and its impact on the knowledge bearing entities. What matters is whether the content is replicated, and there's space for creativity and variation here.]]
 	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 	- [[3-1a2 The problem itself doesn't care how it's solved. Everything should be structured around solving problems.]]
+- Computation theory + The multiverse + Epistemology → ZEC? #revisit 

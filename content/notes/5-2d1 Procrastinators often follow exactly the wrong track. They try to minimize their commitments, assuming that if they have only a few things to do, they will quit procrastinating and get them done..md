@@ -1,6 +1,6 @@
 But this goes contrary to the basic nature of the procrastinator and destroys his most important source of motivation. [[RUL3 - Invert, always invert |Invert]] human psychology.
 
-However, you can’t have too many TODOs on your list—because then you’ll be overwhelmed. Maybe keep them under 10~15 TODOs (I think the number coincides with Tiago Forte’s recommended maximum number of Projects to work on simultaneously), which is the same number as how many stocks to have in your portfolio, or how many thinkers to take seriously at the same time. #revisit 
+However, you can’t have too many TODOs on your list—because then you’ll be overwhelmed. Maybe keep them under 10~15 TODOs (I think the number coincides with Tiago Forte’s recommended maximum number of Projects to work on simultaneously), which is the same number as how many stocks to have in your portfolio (*fractal asset allocation*), or how many thinkers to take seriously at the same time. #revisit 
 
 Elon Musk is always focused on 3-5 stuff that needs to be get done in the next 18 hours, and prioritize them. He’s probably unconsciously processing his TODOs fractally. #develop  
 

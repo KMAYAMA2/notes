@@ -2,6 +2,46 @@
 date: 2024-08-15
 ---
 In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) and generates cash, and he invests them elsewhere (Portfolio), and he has other companies to which he is the owner (Control). Buffett himself embodied *owner-capitalism* par excellence (e.g., see p. 33). #revisit 
+
+# Buffett inspired memos
+- p. 16 → essentiality <> open source code <> win and help win
+- p. 21 → size has limits <> network effects <> brandolini’s law
+- p. 31 → explains why curious people are nice in general?
+- p. 32 → path-dependency (e.g., Taleb and Spitz) <> disliking association
+- p. 46 → managers and owners decide the Control Structure, in that way the primary force is between the Plan Structure and the Portfolio Structure, and ===the Control Structure is rather subsidiary?===
+- p. 46 → everything is connected <> study everything <> circle of competence
+	- viz., ==look for mono-linked chains==
+		- or maybe something which is so edgy (e.g., super cheap, or uber avant-garde) that its insignificant component doesn’t edge the thing
+- p. 58 → size slows organization (why decentralization works)
+- p. 58 → ==you marry someone because you think you will be able to persevere tough times==
+- p. 64 → stay within your circle of competence doesn’t mean go to the edge
+	- <> ==knowledge is about knowing the edge==
+- p. 65 → ==margin of safety is about payoff==
+- p. 67 → trend following is indexical → understanding is digital (i.e., symbolical)
+- p. 69 → ==bounded commitment <> irreversibility <> multiplicative game <> entanglement==
+- p. 73 → doing something simple doesn’t get attention <> brandolini’s law <> social media
+- ==p. 73 (two classes of clients quote) → michael burry quoting munger on popping balloons (which seems necessary time to time) <> being nice (what does it mean to be nice, precisely?)== #develop 
+- p. 75 → his approach in insurance mirrors that of his investment (maybe why his insurance operation business is his main source of revenues) <> the Plan Structure & the Portfolio Structure
+- p. 75 (on profitability over size) → startup is about growth, but not every business is startup
+- p. 78 → if error-correction is in the nature of things, then market solving capital inconsistency is part of nature
+	- market becoming more efficient because humans transmit knowledge <> computation becoming more efficient?
+		- ==buffett <> lachmann <> aaronson?== <> 1-2g2s7b3
+- p. 83 → sometimes you just have to trust people <> with good opportunities go at them with bit more courage
+	- you cannot verify, although it’s easy to falsify
+		- this is why trust works in the long-run, because it’s one-way door (<> 7-1a2a2)
+	- it helps to be verifiable, but not everything is verifiable easily (<> 1-2g2q1)
+	- blockchain systemically minimizes the trust needed, but that doesn’t mean we don’t need trust (8-2b2)
+	- trust means scalability (verifiability)
+- p. 84 (as an example)—==When everybody owns it, nobody owns it. And then nobody will really care. Or is it?==
+	- protocol ←→ blockchain
+- p. 92 → Sometimes you don’t have any opportunity cost because you didn’t have any other choice—do with what’s available, and don’t dwell on it <> ==2-1a0c2==
+- from #TODO sections
+	- p. 102 → more is different <> ==metcalf’s law== <> exponential growth notes
+	- p. 106 → 撤退 (急がば回れ) <> good opportunities are rare <> decision should be obvious
+	- p. 112 → pavlovian association <> translate
+- p. 144 (and p. 67) on big opportunities → macro sentiment somewhat matters (<> tips from 20251122—i.e., マクロ+需給+ファンダメ & 共有)
+- p. 169 → analog epistemologies <> effort
+
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
 ### Mistakes are a fact of life
@@ -157,7 +197,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 		- [[13-1a3a1a Everyone benefits a psychic profit at the time of exchange (ex ante), but not everyone will benefit from the exchange (ex post)]] #revisit 
 ### Blindly trust and follow the recommendations of advisors and salesmen
 - Ask: *who invented xxx?; who is pushing xxx?* (p. 39)
-	- E.g., factor investing and brokerage firms #revisit 
+	- E.g., factor investing (which somewhat allows you to manage huge AUM with low volatility) and brokerage firms #revisit 
 		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 		- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]
 - To quick profits, reply with quick no (p. 40)
@@ -364,6 +404,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 			- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
 			- [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
 	- Buffett: “Charlie and I believe in operating with many redundant layers of liquidity, and we avoid any sort of obligation that could drain our cash in a material way. **That reduces our returns in 99 years out of 100. But we will survive in the 100th while many others fail.** And we will sleep well in all 100.” (p. 59)
+		- [[2-1b2g 'Margin of safety' - Be redundant and resourceful |Margin of safety]] lets you sleep well and allows you to study more about the stock (see p. 71 and [[Li Lu]], respectively)
 		- [[5-2b4a1 小局における矛盾も大局を鑑みると決して矛盾ではないという可能性]]
 	- Also see p. 153 for how Berkshire’s diverse businesses holding is composed 
 		- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]

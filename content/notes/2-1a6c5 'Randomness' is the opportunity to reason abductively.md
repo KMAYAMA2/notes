@@ -1,4 +1,3 @@
-[[2-1a5 'Sampling' - Increase your sample size with QUALITY data]]
 
 Historic events = chaos = surprises = contingencies = abductions
 
@@ -12,5 +11,12 @@ You can learn from anyone and anything, if you [[RUL3 - Ask at night how what yo
 Put differently:
 - [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]
+
+Related:
+- [[2-1a5 'Sampling' - Increase your sample size with QUALITY data]]
+- Hideo Kojima frequent physical bookstores to get *the whole package*
+	- [[9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content']]
+	- I think [[安田隆夫]] understood this well and implemented 圧縮陳列 (and POP 洪水) at ドンキ #revisit 
+
 
 #multiverse 

@@ -1,6 +1,8 @@
 ---
 date: 2025-12-21
 ---
+> “Small cheer and great welcome make a merry feast” – Shakespeare #develop 
+
 # Cialdini according to [[Michael Burry]]
 - Cialdini describes “Fixed Action Patterns” deeply embedded in the human mind. In short, they are:
 	- **Scarcity**: The more limited something is, the more people value it – regardless of its true value

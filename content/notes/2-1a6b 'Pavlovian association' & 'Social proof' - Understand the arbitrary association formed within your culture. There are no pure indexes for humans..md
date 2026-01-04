@@ -10,6 +10,8 @@ Related:
 - [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
 - [[2-1a1a7 'Hindsight bias' - Keep a record of your thoughts at the time you make the decision]]
 - [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
+- [[3-1c3c6 Nerds have an advantage in doing great work because they expend little effort on seeming anything]]
+	- They don’t feel group pressure
 - [[3-1d4b Your tools-frameworks-systems must be error-correctable (i.e., digital)]]
 - [[3-1d4c Humans can correct its own errors because we use symbols]]
 - [[4-1a4b2a Silence can decontextualize-displace the negotiator from the negotiation]]

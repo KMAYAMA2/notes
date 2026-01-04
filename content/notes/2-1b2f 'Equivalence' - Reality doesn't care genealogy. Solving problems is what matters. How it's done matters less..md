@@ -1,3 +1,4 @@
+However, how it’s done (i.e., efficiency) does matter *for us*.
 
 Related:
 - [[3-1a2 The problem itself doesn't care how it's solved. Everything should be structured around solving problems.]]

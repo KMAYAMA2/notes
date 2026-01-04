@@ -25,6 +25,8 @@ date: 2025-12-21
 	- ==Truth ≠ 「民意」 ==
 	- Consensus = 「民意」
 		- ==<> other consensus memos and notes <> majority==
+- hyperscalers ignoring the laws of physics + Bitcoiners ignoring the basics of computation
+	- ==<> punt the future, that future arrives==
 
 # SUBSTACK
 ## The Psychology of Investing in the Information Age

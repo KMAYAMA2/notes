@@ -6,6 +6,8 @@ Next:
 
 Related:
 - [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+	- Index is easier, so it tends to spread faster
+		- [[10-2g1f Imitation = limitation (imitation has limitation)]]
 - [[3-1a4e システムとユーザーはつながっているだけでなくハウリングしあっている]]
 - [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]] #develop 
 	- [[1-2g2r0 The Turing principle implies 梵我一如]]

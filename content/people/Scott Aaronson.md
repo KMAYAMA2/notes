@@ -8,6 +8,37 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 - Local uncertainty becomes (almost) certain globally due to similar process as BPP?
 	- <> past and future are other universes means we are already using other universes when we multi-process computations? #revisit
 		- <> ==self-locating belief== (20260102)
+- the P vs NP problem—what happens if this gets solved? ([source](https://www.youtube.com/watch?v=YX40hbAHx3s))
+	- NP would’ve been P if you can access the multiverse?
+	- faster way to solve sudoku can cure cancers faster (maybe)
+- Figuring the Conplexty Zoo is about epistemology in disguise, since knowledge creation is a form of computation.
+- ==Easy to verify (NP) <> how idea exist in person’s mind (P) (kind of) <> bucket theory <> goes from private public (kind of, not necessarily)==
+- vs deutsch (in particular, vs MWI)
+	- ==what exactly is happening with Shor’s algorithm???==
+		- Aaronson can keep QM and QC without committing to MWI
+			- Hilbert space is mathematics; whether it corresponds to “real universes” is metaphysics #revisit 
+				- I guess the reason one cannot say QC is performed across the multiverse is simply because that QC is performed in your universe, correct? The twist is that since Hilbert space cannot be measured (in the sense of observing what's going on inside), and because each possible state corresponds to different state, it is somewhat like each state being in its own universe.
+					- You can only access amplitudes, interference patterns, global properties
+						- Similarity: NP gives you a promise that a solution exists but not the distribution or structure of all possible solutions — a bit like QM giving you amplitude structure but not access to all branches.
+						- Both NP and QM rule out omniscience about all underlying possibilities
+							- NP is computational limitation
+							- QM is physical limitation
+								- But reality doesn’t differentiate computational vs physical #revisit 
+									- You cannot get full hidden-variable distributions (QM).
+									- You cannot get full solution space distributions (NP).
+									- You cannot get full branch-by-branch outcomes (QC).
+									- You cannot simulate full ZK transcript distributions if the protocol isn’t zero-knowledge.
+							- How are the following related?
+								- NP’s uncheckable witnesses come from combinatorial explosion.
+								- Hilbert spaces’ inaccessible amplitudes come from measurement law.
+								- SZK’s indistinguishability comes from distribution symmetry.
+									- Our universe contains rich structures (witnesses, amplitudes, branches), but the laws of physics limit our ability to probe those structures fully. This is exactly what distinguishes NP from BPP, CZK from SZK, and Hilbert space from classical universes.
+							- Nobody explained why such limitations exist
+								- ==Or maybe taking MWI seriously would do it?==
+									- It does—says Deutsch—because it’d *explain* them
+		- Deutsch is not saying quantum computers _perform_ computations across parallel universes. He is saying quantum computers are _possible_ because the physical world has the structure that MWI describes.
+			- Quantum computation is _evidence_ that reality has the structure described by MWI
+
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter
 - p. 110 → we don’t really need experiments because we are Turing machine <> but often times being in contact with external reality gets you to reality faster <> see from different perspectives <> seeing the front 

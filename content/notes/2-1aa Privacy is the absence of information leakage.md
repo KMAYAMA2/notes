@@ -3,6 +3,8 @@ date: 2025-11-20
 ---
 > “The only true secret is the one you take to the grave”
 
+Zooko: Anonymity → No violence #revisit 
+
 Related:
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]] #develop 
 	- Viz., indistinguishable nobody ≠ unidentifiable nobody

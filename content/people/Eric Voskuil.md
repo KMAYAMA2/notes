@@ -1,6 +1,11 @@
 ---
 date: 2025-02-15
 ---
+
+# Voskuil related memos
+- ==what does voskuil say about PoW+PoS hybrid model?==
+	- → HYBRID MINING FALLACY
+
 Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 # SECURITY MODEL (7/22/22)
 

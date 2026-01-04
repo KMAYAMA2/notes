@@ -6,6 +6,8 @@ Related:
 - Not every opinion matters—relate this note to voting #TODO 
 	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 
+- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+
 - [[2-1a2 See clearly - 解像度を高める]]
 
 - [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
