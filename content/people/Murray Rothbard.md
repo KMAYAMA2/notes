@@ -1,6 +1,11 @@
 ---
 date: 2025-02-28
 ---
+# Rothbard inspired memos
+- Kant vs Rothbard on categorical imperative #develop 
+	- *Do unto others as you would have them do unto you*
+		- What would free market society’s Golden Rule look like? <> [[Warren Buffett]]
+
 # Man, Economy, and State
 ## Chapter 1: Fundamentals of Human Action
 That humans act, because humans can have problems conceptually. That all human actions must take place in time—otherwise there is no need for action. That the laws of physics dictate that humans act. That time is scarce even for the immortal being. That knowledge itself cannot be goods—because once learned, it no longer has to be produced—it remains with the actor as an unlimited factor of production. That the multiverse implies both explanation and action. That all action involves exchange across the multiverse. That if you assume more than one value scales, you are extending across the multiverse, and that is forbidden by the laws of physics. That saving doesn’t necessarily have to be in the form of money. That he who possesses capital is that much further advanced in time. That the accumulated stock of capital goods imposes a conservative force on present-day action. That the more saving one has, the longer his period of provision becomes, as dictated by the laws of diminishing marginal utility and positive time-preference. That the judgement of whether one is objectively improving or not can only make sense in the domains where there is something objectively real—in other domains, you cannot define what “*improvement* in his value scale” means, because *that* is also subjective. That logistics is far more suited to the physical sciences, where, in contrast to the science of human action, the conclusions rather than the axioms are known. That praxeology consists of axioms and its implications—i.e., explanations. That refuting the existence of the multiverse will refute praxeology.

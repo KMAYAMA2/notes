@@ -2,6 +2,11 @@
 date: 2025-07-18
 ---
 # Li Lu inspired memos
+- 2014 piece
+	- p. 118 → English dominance is topologically similar to claims made in *overfitted century* 
+		- inverted: you should know where the money is, not just where the money will be #revisit
+	- read between the lines
+		- similar to how fine dining is about culture and context #revisit 
 - 2018 piece
 	- p. 3 → is being obsessed with scarcity argument (e.g., BTC) equivalent to living the relic of the past?
 	- p. 5 → ==Jared Diamond’s theory is to an extent applicable to Agrarian Civilization==
@@ -32,6 +37,13 @@ date: 2025-07-18
 		- <> be fearful when others are greedy
 		- ==where did all the active investors go?==
 			- crypto?
+	- ==“Accept the macro” statement from Li Lu implies accept fiat money?==
+	- If privacy coins have regulatory issues, then it means such money doesn’t flow freely across the capital market
+		- what does this mean for private money adoption?
+	- ==Japan doesn’t have value investors because there’s no company that can appeal globally to value investors (hence primarily speculators)?==
+		- and this is partially due to the dominant USD and subsequently US companies?
+	- Physicality determined which cities prospered during civilization 2.0
+	- 海外投資家の日本市場の出来高 implies how important Japanese market is globally—viz., the extent of its real wealth
 # A Discussion of Modernization (2014)
 ## Chapter 1—Old Problems and the New History
 - The waning of the East and the dominance of the West during the past 200 or more years has consistently been a core concern for world elites from various walks of life both in China and the West, but to this day a consensus has yet to be achieved.

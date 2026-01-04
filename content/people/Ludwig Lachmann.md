@@ -2,9 +2,28 @@
 date: 2025-07-18
 ---
 
-# Lachmann related memos
+# Lachmann related memos (somewhat relatable to [[Saifedean Ammous |Saifedean]])
 - ==If the whole premise of index investing rests on inflationary fiat money==…
-
+- fiat society lures kids into finance industry
+	- all the more reason why you should be eccentric
+- Fiat distortion and physicality deviation (but true innovators can still get away, just like value investors should get away with market crash) - the problem is that the latter requires the former
+- <> ==片山晃== (五月—@hakureifarm on X)
+	- 他国企業の養分化
+	- 米国内でもMag 7 以外は養分化
+	- Mag 7 のブランドが認知されたことによる株式市場全体のプレミアム上乗せ
+	- GDP 伸び率と相場伸び率の乖離
+		- 格差拡大装置
+	- 投資人口の伸び率も鈍化
+		- 「ストックから投資」の限界
+		- 消費の投資への転化
+	- パッシブバブルによるアクティブ投資家の淘汰
+		- ==Gresham’s Law in action== → マーケットがerror-correction mechanism として機能しなくなる
+			- <> ==[[Li Lu]] (2024) piece?== #revisit 
+	- **共存と繁栄の時代の終わりを告げる者**—Open AI
+		- 「AGI = 世界の支配」という考え
+			- 巨人たちの戦いを支える武器商人としてのNvidia, TSMC, etc
+				- AGI or DIE…
+		- IT プラットフォーマーのインフラ会社化 <> essentiality ([[Warren Buffett]]) <> physical vs cyberspace ([[Li Lu]]) <> see [[Michael Burry]] for details on hyperscalers 
 # Capital and Its Structure
 ## Preface
 - In spite of protracted efforts it has proved impossible to find a quantitative expression for capital which would satisfy the rigorous requirements of economic thought. (p. 8)

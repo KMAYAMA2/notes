@@ -6,6 +6,8 @@ Get rich slow, and the same principle applies to businesses as well.
 
 The opposite also applies in the sense that if the environment is changing, you have to adapt your expectations. [[Li Lu]] elaborates why societal and political reforms must recalibrate to new tech and scientific discoveries (which explains the difference between Civilization 2.0 and 3.0). [[Charlie Munger |Munger]] and [[Warren Buffett |Buffett]] essentially argues the same, but with more emphasis on psychology of the individual.
 
+他人に期待せず自分を過信しなければ落ち込まない
+
 Next:
 - [[5-2a0 Know what to measure]]
 - [[5-2a1 You get what you measure]]
@@ -13,10 +15,12 @@ Next:
 
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+- [[1-2e1 Be ambitious but leverage what you already know]]
 - [[2-1a0c1a 'Influence of stress' - 'In the thick of battle, you will not rise to the level of your expectations, but fall to the level of your training']]
 - [[3-1a0 Use categories, but don't be categorized]]
 - [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 - [[5-1b1d1 Not investing is also a form of investing]]
+- [[5-2c2b0.2 You need resilience against volatility (i.e., Stoic robustness)]]
 - [[7-1a3 You’ll act when you target growth]]
 - [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
 - [[9-2a It’s easy to convince if people don’t know you enough for what you are not]]

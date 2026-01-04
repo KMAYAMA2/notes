@@ -24,3 +24,7 @@ Related:
 	  - [[13-1a3a1c A new form of evolutionary processes emerges with money—memes become accountable with money, although not exhaustively]]
 	  - [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
 	  - [[13-8a2a Money allows you to deal with change per se, since there is no substantive difference between changes in values scales of others and that of himself in the future]]
+- Visualize share rather than return #TODO #HACK  
+	- [[5-2a0 Know what to measure]]
+	- [[5-2a1 You get what you measure]]
+	- [[5-2a2 What gets measured gets managed]]

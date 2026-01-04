@@ -1,5 +1,7 @@
 > “If you want to shoot rare, fast-moving elephants, you should always carry a loaded gun” – [[Warren Buffett]]
 
+> “It is often easier to tell what will happen to the price of a stock than how much time will elapse before it happens” – Philip A. Fisher
+
 You can buy something for the long-run, but if the price becomes such that it doesn’t make sense anymore, then you can sell—even if the time span is “short-run” (e.g., see [[Li Lu]]’s 2024 Q&A, particularly Q1 and Q2). In short, be flexible.
 
 Next:

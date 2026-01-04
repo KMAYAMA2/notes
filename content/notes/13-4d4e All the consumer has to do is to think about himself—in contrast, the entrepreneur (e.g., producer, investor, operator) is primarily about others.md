@@ -25,3 +25,5 @@ Related:
 	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 	- [[7-1b0 The creator-user (or producer-consumer) distinction is arbitrary. There are no 'producers' and 'consumers' in the non-human world.]]
 	- [[7-1b0a The producer-consumer distinction is blurred in non-profit organizations and open source projects. Likely why their diffusions are slow.]] ← Challenge this note #TODO 
+- Investment is about others, but the degrees (or ways) with which you have to pay attention to them varies, since sometimes the market itself acts as the intermediary wherein something like value investing works, but in other times market isn’t a good price discovery mechanism and you have to check others’ positioning. In short, investment proper doesn’t work out all the time. But luckily, there are many potential investments out there (viz., there are *markets* instead of just one market)—you just have to find them. 
+	- [[3-1a4b1.2 Define and stay within your circle of competence]]

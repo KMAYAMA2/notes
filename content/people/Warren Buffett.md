@@ -1172,6 +1172,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[1-2f1b9 Repeat what works]]
 	- [[3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.]]
 - You should’ve shorted horses instead of buying up autos. Ask: who loses? (p. 156)
+	- <> BTC and quantum computers #revisit 
 - Can you name any single American TV or radio manufacturer? (p. 156)
 - Growth in an industry doesn’t mean profitability because of competition (p. 157) 
 	- Avoid parade-tiptoe problems—see p. 46 and p. 215
@@ -2692,6 +2693,7 @@ See also pp. 42-50
 - If you’re not sure if it’s your game, it likely isn’t. [[3-1a4b1.2 Define and stay within your circle of competence |Know your circle of competence]].
 - On internet (59m) 
 	- Billy Durant of GM was initially in horse carrying business
+		- <> BTC and quantum computers #revisit
 - Learning is about changing your behavior. 
 	- Buffett with Belridge Oil, Intel, Disney, and Amazon.
 - Stay in the game long enough so lucky stuff happens—invention of new tech can somehow benefit you (1h5m) 

@@ -38,6 +38,17 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 									- It does—says Deutsch—because it’d *explain* them
 		- Deutsch is not saying quantum computers _perform_ computations across parallel universes. He is saying quantum computers are _possible_ because the physical world has the structure that MWI describes.
 			- Quantum computation is _evidence_ that reality has the structure described by MWI
+- If you can distinguish skill from luck, you must be the skillful one (and this is different from verifying vs solving NP problems)
+- ==symbols accelerate computation==
+	- <> 10-2g2c1d
+		- <> only accelerate what’s worth accelerating <> [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+- exhaustive entity → no market (because [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity |market needs redundancy]]) → no communication which means no computation
+	- ==to compute, you need others?==
+- fungibility
+	- for Deutsch this implies the reality of many-worlds
+	- for Aaronson this implies irrelevance of many-worlds
+- Focusing on time instead gives us space, because you cannot see every space (inspired dream where I realize how ==one perceives his surroundings not visually but via imagination==) <> *self-locating belief* <> Tachyon (why we need clock)
+- Behavioral test doesn’t work, maybe because of NCT (==what needs to be replicated is mind, and that’s equivalent to predicting mind, and that’s probably forbidden by NCT==, at least according to my understanding of Aaronson)
 
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter

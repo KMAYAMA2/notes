@@ -27,6 +27,12 @@ date: 2025-12-21
 		- ==<> other consensus memos and notes <> majority==
 - hyperscalers ignoring the laws of physics + Bitcoiners ignoring the basics of computation
 	- ==<> punt the future, that future arrives==
+- Burry’s ==psychology of investing== piece inspired:
+	- more data, faster social proof, faster cultural reproduction <> transmission speed <> meme <> iteration (maybe it’s for the better, but it also means you have to be agile, and recalibrate constantly) <> brandolini’s law <> Mr. Market is more volatile now with more information
+	- Liking <> nerds <> majority
+	- Mental shortcuts <> complexity shortcuts
+	- More info more shortcuts <> constraint <> own media 
+	- Money force memes face reality, “memes” only accelerate this more 
 
 # SUBSTACK
 ## The Psychology of Investing in the Information Age

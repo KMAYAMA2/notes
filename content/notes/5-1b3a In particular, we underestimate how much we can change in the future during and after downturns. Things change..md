@@ -1,3 +1,5 @@
+> “Speculation dies in bear markets. Utility doesn't.” – @ShieldedMonk on X
+
 We underestimate how much we can change during downturns because that’s when we must correct our errors—in that process of error-correction people somewhat converge with each other. Any process that impedes this error-correction moral is detrimental. #revisit 
 
 Related:
@@ -8,3 +10,5 @@ Related:
 - Fear spreads easily during downturn
 	- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+- Investment ≠ Speculation (e.g., see [[Li Lu]] on the distinction)
+	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]

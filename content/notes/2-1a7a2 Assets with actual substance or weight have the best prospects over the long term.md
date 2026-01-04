@@ -1,5 +1,7 @@
 > “You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve” – [[Warren Buffett]]
 
+> “Speculation dies in bear markets. Utility doesn't.” – @ShieldedMonk on X
+
 *Business with actual substance will win in the long-run* (e.g., see [[Warren Buffett]]).
 
 And the same principle holds for individuals.
