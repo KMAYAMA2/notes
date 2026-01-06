@@ -15,3 +15,6 @@ Related:
 - [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]
 - [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]
 - E.g., limit orderbook and limit-orderbook-based-algo will be relic of the past #revisit 
+- In [[Li Lu]]’s parlance, adopt Civilization 3.0 mental framework instead of Civilization 2.0 mental framework
+	- Or as Brad Jacobs would put it, *update outdated psychology*
+		- [[Warren Buffett]] and [[Charlie Munger]] took human psychology seriously

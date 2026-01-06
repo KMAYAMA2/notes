@@ -9,6 +9,8 @@ date: 2025-09-05
 
 Limit the amount of details to perfect and then make every detail perfect—focus means quality and speed.
 
+When you are focused, you can easily invert and act on them fast (like Steve Jobs). #revisit 
+
 Also think about what the counterparty is focused on.
 
 As implied in [[Warren Buffett |Buffett]]’s emphasis on essentiality, make something critical—survival over livelihood (inspired by 盛田昭夫) #revisit 

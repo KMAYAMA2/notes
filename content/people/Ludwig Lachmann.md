@@ -24,6 +24,7 @@ date: 2025-07-18
 			- 巨人たちの戦いを支える武器商人としてのNvidia, TSMC, etc
 				- AGI or DIE…
 		- IT プラットフォーマーのインフラ会社化 <> essentiality ([[Warren Buffett]]) <> physical vs cyberspace ([[Li Lu]]) <> see [[Michael Burry]] for details on hyperscalers 
+- when the speed of GDP growth and stock market growth were somewhat aligned, timeline did match physical growth. not anymore. take this to advantage. but know that it can go the opposite way. ([[Li Lu]] and lachmann related)
 # Capital and Its Structure
 ## Preface
 - In spite of protracted efforts it has proved impossible to find a quantitative expression for capital which would satisfy the rigorous requirements of economic thought. (p. 8)

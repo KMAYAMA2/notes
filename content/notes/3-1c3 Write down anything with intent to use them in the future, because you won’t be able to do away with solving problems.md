@@ -1,4 +1,4 @@
-
+In other words, avoid writing for the sake of writing more stuff.
 
 Next:
 - [[3-1c3a We are not interested in where the knowledge came from]]
@@ -16,3 +16,8 @@ Related:
 	- [[4-1a4b6a When you write down, you are helping yourself both now and in the future]]
 	- [[RUL3 - Write down what surprise you]]
 	- [[RUL3 - Write out your goals. It’s amazing how few people do.]]
+- To avoid writing of the sake of writing:
+	- [[2-1a0c1d1 Focus on the few variables]]
+
+Contradictory?
+- [[Become A Problem-Solving Artist]] #revisit 

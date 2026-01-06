@@ -16,6 +16,11 @@ Related:
 	- [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]]
 - You cannot delegate understanding—and subsequently, you cannot delegate investment proper, either
 	- [[2-1b2e1 Understanding comes from copying the information-knowledge as information-knowledge medium; not from copying the substrate]] ← Challenge this note #challenge
+- I guess you cannot delegate writing, either
+	- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]] 
+		- <> We don’t need the Turing test
+- You can delegate coding to the extent that you write and instruct the coding architecture—assuming writing can *efficiently* inform coding
+	- [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
 
 Crazy connection:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]

@@ -13,3 +13,5 @@ Especially when the ownership itself becomes the problem:
 						- [[1-1a2e7d1 To live = To live culturally = To live economically]]
 - Be careful
 	- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+- Implement *throat to choke* accountability (inspired by Brad Jacobs)
+	- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]]

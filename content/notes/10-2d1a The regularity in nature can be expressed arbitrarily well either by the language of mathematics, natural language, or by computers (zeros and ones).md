@@ -2,8 +2,6 @@ But not exhaustively.
 
 Mathematical formula is a way to write, but not the way—you can write about math in plain English (although certain things are better expressed in one way or other—viz., [[Scott Aaronson |efficient]]). Being better at both should help you understand the subject better, and that’s what matters. #revisit 
 
-
-
 Next:
 - [[10-2d1b The DNA genetic code expresses the laws of physics]]
 	- [[1-2g2i Genes (life) are programs that embody the laws of physics (of their own niches)]]
