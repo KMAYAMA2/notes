@@ -25,6 +25,9 @@ date: 2025-07-18
 				- AGI or DIE…
 		- IT プラットフォーマーのインフラ会社化 <> essentiality ([[Warren Buffett]]) <> physical vs cyberspace ([[Li Lu]]) <> see [[Michael Burry]] for details on hyperscalers 
 - when the speed of GDP growth and stock market growth were somewhat aligned, timeline did match physical growth. not anymore. take this to advantage. but know that it can go the opposite way. ([[Li Lu]] and lachmann related)
+- portfolio structure is dominated maybe because of the money printing
+- the market force which brings about capital consistency is brought about by consumers who turn themselves into producers
+	- i.e., [[Become A Problem-Solving Artist |artists]]
 # Capital and Its Structure
 ## Preface
 - In spite of protracted efforts it has proved impossible to find a quantitative expression for capital which would satisfy the rigorous requirements of economic thought. (p. 8)

@@ -11,6 +11,7 @@ Related:
 		- [[安田隆夫]]: 「挑戦と撤退はセット」
 	- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]
 	- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+		- E.g., vibe coding lets you build more stuff because there will be less emotional attachment to the products in general
 - [[1-2f1b3a Deutsch - 'Nor is a person capable of making progress merely by virtue of being willing to drop a theory when it is refuted; one must also be seeking a better explanation of the relevant phenomena. That is the scientific frame of mind.']]
 - [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
 - [[3-1c3c3a2 Time spent doesn't mean much]]

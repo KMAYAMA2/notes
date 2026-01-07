@@ -5,6 +5,7 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 # Aaronson inspired memos
 - Hidden-variable theories <> epistemology (fallibilism)
 - interactive proofs are faster <> ==reading makes learning faster and especially finding two-steps aheaders easier==
+	- Read efficiently by using others to filter what to read. Efficiency is not about speed per se. Solving problems also the same (i.e., solve what matters). 
 - Local uncertainty becomes (almost) certain globally due to similar process as BPP?
 	- <> past and future are other universes means we are already using other universes when we multi-process computations? #revisit
 		- <> ==self-locating belief== (20260102)
@@ -59,6 +60,7 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 			- <> ==9-2a1.1== (execution is speed <> computability <> complexity)
 - on aaronson-deutsch (or zcash-multiverse)
 	- e.g., 6-3a2.1 <> ==1-2g2t4== (or just search with `fungib`)
+- 
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter
 - p. 110 → we don’t really need experiments because we are Turing machine <> but often times being in contact with external reality gets you to reality faster <> see from different perspectives <> seeing the front 

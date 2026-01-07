@@ -5,7 +5,8 @@ Do it before ready. #revisit
 To think like an owner, you have to [[6-3z A world without ownership is a world with less creativity and human flourishing |be the owner]] #revisit 
 
 Related:
-- You will never be perfectly ready anyway
+- You will never be perfectly ready anyway—*fail forward*
+	- [[1-1a5b5 Shipping perfection means you are too late - you have to find a balance of finding the right moment and being fixable]]
 	- [[1-2.0 It is better to be roughly right than precisely wrong]]
 - [[1-1a1b The mind includes inexplicit as well as unconscious]]
 - [[1-1a2 Our mind is flexible]]

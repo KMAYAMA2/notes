@@ -2,6 +2,15 @@
 
 Next:
 - [[3-1c1b0 You are what you consume (read)]]
+- ***[[3-1c1c You must build your own media for yourself]]***
+
+Related:
+- [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
+	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
+		- [[6-4 Proper epistemology should lead to a proper state of mind]]
+
+---
+To do great things, think great things.
 
 Related:
 Richard Hamming: *"Great thoughts only on Friday afternoons"*
@@ -16,17 +25,16 @@ Richard Hamming: *"Great thoughts only on Friday afternoons"*
 
 Bill Gates still created time and space (twice a year) to seclude himself for a week and do nothing but read articles (his record is 112) and books, study technology, and think about the bigger picture even during the busiest and most frenetic time in the company’s history.
 
-- [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
-	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
-		- [[6-4 Proper epistemology should lead to a proper state of mind]]
-
-- ***[[3-1c1c You must build your own media for yourself]]***
-
+---
 You are what you read. You think like who you follow. 
 - [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+- But beware of [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans. |Pavlovian association]]—[[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self. |don’t be so attached to anything]].
+	- [[2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.]]
 
+---
 You can’t think well without writing well, and you can’t write well without reading well. You have to be good at reading, and read good things.
 
+Related:
 [[RUL3 - Write out your goals. It’s amazing how few people do.]]
 - [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
 	- [[2-1a0c1c Purpose (and curiosity) beats for-profit]]
@@ -34,4 +42,11 @@ You can’t think well without writing well, and you can’t write well without 
 			- [[3-1d6a1 Staying consistent is rather difficult with information abundance. What we need is purpose-intention.]]
 				- [[5-2d When you are purpose-goal-oriented, you'll be problem-project-oriented, because you will face problems in the process of achieving the former and will break them down into mini-problems]]
 
-[[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+---
+And according to Albert Ellis, the way you think affects how you feel. #revisit 
+
+Related:
+- [[3-1c1d3 Social media makes news sentiment negative]]
+
+---
+

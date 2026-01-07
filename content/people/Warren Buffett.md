@@ -41,6 +41,9 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- p. 112 → pavlovian association <> translate
 - p. 144 (and p. 67) on big opportunities → macro sentiment somewhat matters (<> tips from 20251122—i.e., マクロ+需給+ファンダメ & 共有)
 - p. 169 → analog epistemologies <> effort
+- miscellaneous
+	- measuring one’s ability to generate cash gets distorted when it comes to government because they can *print* money
+		- inverted: invest in companies who is growing at outstanding pace, *and* who even benefits more from government printing money #revisit  
 
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY

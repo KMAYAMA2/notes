@@ -18,6 +18,10 @@ Related:
 - **[[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]**
 
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- Elaborate what’s available for you by using the following combination: Opportunity cost filter + Compared to what filter + Then what filter
+		- See [[Warren Buffett]] (p. 219)
+		- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]] #develop 
+		- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 
 [[Warren Buffett |Buffett]] would argue:
 - [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]

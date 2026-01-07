@@ -2,6 +2,8 @@
 
 > “The things that you won start to own you. I go for freedom. There’s only one true luxury in life—the private jet.” – Sam Zell (quoted by David Senra)
 
+E.g., vibe coding lets you build more stuff because there will be less emotional attachment to the products in general
+
 Next:
 - [[3-1c3c3a2 More precisely, almost everything CAN BE made contingent]]
 
@@ -14,3 +16,6 @@ Related:
 - On ownership
 	- [[6-3c When you are invested, you'll try to own it]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+
+Contradictory?
+> “Be fanatical about what you’re doing” – [[Todd Graves]] #revisit 
