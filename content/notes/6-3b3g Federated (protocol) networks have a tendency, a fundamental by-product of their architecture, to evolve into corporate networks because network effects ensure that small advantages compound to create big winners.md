@@ -7,6 +7,8 @@ Next:
 - [[6-3b3h Protocol networks could get subsumed by corporate networks]]
 
 Related:
+- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+	- Odds are *not* in your favor. Should we give up? Nope. It means you just have to do more.
 - [[3-1a4b3 Thomas Sowell - 'Prices are important not because money is considered paramount but because prices are a fast and effective conveyor of information through a vast society in which fragmented knowledge must be coordinated.']]
 - [[4-1a4b2b2a Rules and leaders emerge from informal governance but they are a product of inscrutable social dynamics rather than thoughtful design]]
 	- [[8-1b3f A blockchain economy must balance the supply ('faucets') and demand ('sinks') of native tokens to fuel sustainable growth]]
