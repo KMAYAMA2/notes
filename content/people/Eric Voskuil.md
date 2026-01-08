@@ -5,6 +5,11 @@ date: 2025-02-15
 # Voskuil related memos
 - ==what does voskuil say about PoW+PoS hybrid model?==
 	- → HYBRID MINING FALLACY
+- Michael Green on BTC and my inspired memos:
+	- BTC competes with AI for grid (but it also means if AI buildout turns out to be excessive, BTC ecosystem can somewhat absorb its spillover)
+	- China mining concentration have way to US, now US concentration giving way to Africa (==Gresham’s law==)
+	- Rotation from energy consuming BTC to energy saving gold (hence negative correlation)
+		- Green is missing difficulty adjustment feature in BTC? #revisit 
 
 Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 # SECURITY MODEL (7/22/22)

@@ -2,6 +2,9 @@
 
 Paying too less attention to physical space (vs cyberspace) might be akin to paying too much focus on the Portfolio Structure at the expense of the Plan Structure #revisit 
 
+Next:
+- [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need]]
+
 Related:
 - [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 - [[2-1a0c1d1 Focus on the few variables]]

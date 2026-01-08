@@ -536,7 +536,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- Follow the Golden Rule (also see p. 26, p. 38, p. 74, p. 85, p. 41)
 - Success is getting what you want and happiness is wanting what you get (p. 71) #revisit 
 	- Naval: “It’s way more important to perfect your desires than to try to do something you don’t 100 percent desire”
-		- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+		- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 		- [[3-1b0 Think forward, but also think in reverse via inversion]]
 		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 		- [[5-2a0 Know what to measure]]
@@ -631,7 +631,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[2-1a7a4 In the long run reality gets in; narrative can get you so far]]
 	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]
 	- [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
-	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+	- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 	- [[3-1b1 Occasionally revisit the problem itself. Occasionally check in on long-term.]]
 	- [[3-1c1d6 Media grabs what's easily grabbable (e.g., short-term over long-term development)]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
@@ -692,7 +692,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[10-2a I am a set of ideas including conscious and unconscious]]
 - Buffett: “If it’s going to keep me awake at night, I am not going to go there. We really don’t worry. If we were worried about something in business, we’d correct it.” (p. 91)
 	- [[1-2f1b3 Merely dropping a theory because it doesn't work is behaviorism and is not error-correction. It's analog reasoning in disguise. You need explanation.]]
-	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+	- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 - Munger: “I don’t think it’s terribly constructive to spend your time worrying about things you can’t fix. I’m all for, as long as when you’re managing your money, recognize that terrible things can happen. In the rest of your life, you can be a foolish optimist.”
 	- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 	- [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
@@ -733,7 +733,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[1-2f1b3a2 Don't just complain but solve!]]
 	- [[2-1a4c We don't know how we create knowledge yet, but that doesn't mean we can't]] #revisit 
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
-	- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+	- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 	- [[3-1a1 It’s either you are solving problems or not]]
 	- [[3-1c3 Write down anything with intent to use them in the future, because you won’t be able to do away with solving problems]]
 	- [[5-1b1 Invest in preparedness. Be redundant and resourceful in every aspect. Minimize opportunity cost to achieve great things.]]
@@ -749,7 +749,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 		- [[1-2.0 It is better to be roughly right than precisely wrong]]
 		- [[2-1a0a1 Don't waste time unnecessarily complicating things]]
 		- [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
-		- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+		- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 		- [[4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.]]
 		- [[4-1a4b2e Don't get started]] #revisit 
 		- [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]

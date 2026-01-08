@@ -14,6 +14,8 @@ Related:
 - [[5-2b0 You are what you do repeatedly]]
 - [[5-2c1 You perceive yourself by what you do repeatedly, just as you judge others by their routine behaviors.]]
 - [[6-3b2d1 Don't reinvent the wheel. Copy and paste. Save keystrokes.]]
+- [[7-1a2a1 絶対に勝てるところから勝っていく]]
+	- [[2-1a0c1d1 Focus on the few variables]] (e.g., Buffett with his focus on the company’s fundamental)
 - **[[9-1a1 People who converge upon the truth converge with each other]]** #develop 
 - [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 - [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]

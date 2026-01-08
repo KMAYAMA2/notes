@@ -25,7 +25,7 @@ Related:
 - [[5-1b5 Keep solving problems including the problem of what problems to solve]]
 - [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
-- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 - Save time relentlessly (this is where [[Warren Buffett]] and [[Charlie Munger]] meet [[Naval Ravikant]] intellectually)
 	- [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]
 	- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]

@@ -44,6 +44,10 @@ date: 2025-07-18
 		- and this is partially due to the dominant USD and subsequently US companies?
 	- Physicality determined which cities prospered during civilization 2.0
 	- 海外投資家の日本市場の出来高 implies how important Japanese market is globally—viz., the extent of its real wealth
+	- ==Fragmentation means no global market means capital doesn’t flow effectively== (inspired by natural gas piece)
+		- <> [[2-1c2a Matt Ridley - 'Self-sufficiency leads to economic downturns. Mutual interdependence is more robust.']]
+	- free market money (if the thing is aspiring to be one) should respect the iron law (e.g., zec)
+		- e.g., look what happened with venezuela
 # A Discussion of Modernization (2014)
 ## Chapter 1—Old Problems and the New History
 - The waning of the East and the dominance of the West during the past 200 or more years has consistently been a core concern for world elites from various walks of life both in China and the West, but to this day a consensus has yet to be achieved.

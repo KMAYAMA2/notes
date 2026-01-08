@@ -17,6 +17,7 @@ Related:
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 		- E.g., BTC—scalability issues can be addressed via L2 solutions, but you (likely) can’t add privacy later
 	- [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
+		- Learning new languages gets easier the more languages you can already speak? #revisit 
 - [[1-2d You have to know your problem-situation (and your web of ideas) as best as you can to judge the merit of new explanations]]
 	- [[5-2b1a2a Simplify the problem, but not too simply]]
 		- [[9-4e2c Figure out what's really worth automating-delegating first, before automating-delegating anything]]

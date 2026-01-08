@@ -2,9 +2,21 @@
 date: 2026-01-03
 ---
 
-### mert inspired memos
+### mert inspired (or related) memos
 - ==internet money means you have to be conservative given the amount of noise and speed== #revisit 
 - ==Internet money means more noise means more volatility means preparedness matters more than ever?== Or just don’t look at market? #revisit 
+- The prison of financial mediocrity ([source](https://x.com/systematicls/status/2004900241745883205)):
+	- Be the house
+		- Hopes: perps and trading gurus
+	- Inflation-driven generation gap in wealth
+		- The math doesn’t reward patience anymore
+	- Algo will always find two-steps aheaders…
+		- Keep your expectations. Set your goals.
+	- Prediction markets: speculation <> [[Li Lu]] #revisit 
+	- When you’re trapped, your risk preferences change (*==convex utility in losses==*)
+	- Selling courses
+	- The house wins. Most players lose.
+		- HYPE?
 ### mert w/ BTC takeover
 - On PoS (-1:14)
 	- ==Voting means consensus== (not really necessary)

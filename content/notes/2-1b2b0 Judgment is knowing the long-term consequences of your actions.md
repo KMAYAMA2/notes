@@ -4,7 +4,7 @@ date: 2024-08-06
 > “Judgment can do without knowledge but not knowledge without judgment.” – Montaigne
 
 Next:
-- [[2-1b2b0.1 Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
+- [[2-1b2b0a Ask - What’s the correct very-long-term solution; How do I solve this using and committing the minimum amount of time possible; Does this really matter (almost always, no)]]
 
 Related:
 - On judgement
