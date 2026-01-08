@@ -7,8 +7,7 @@ I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multid
 For starters:
 - Check my **[Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
 - Check my **[People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
-
-I’m currently working on [[Warren Buffett]].
+- What I’m currently working on [[now |right now]].
 
 The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
 
