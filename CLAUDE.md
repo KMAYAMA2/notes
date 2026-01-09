@@ -104,6 +104,7 @@ Content lives in `content/` directory. The Markdown pipeline:
   - Modify the other KIP item numbers, so KIP item numbers are always in order
   - Make sure both KIP and KIP already implemented items do not have overlapped item number, respectively
   - If item number is referred to within other items, make sure to correspond the item number in the latter as well
+- Use .claude/settings.local.json where appropriate (if you need more specific instructions, let me know)
 
 ## KIP (kenti improvement proposals)
 
@@ -114,9 +115,7 @@ Content lives in `content/` directory. The Markdown pipeline:
    a. when rendered on the web, bullet-pointed sentences following non-bullet-pointed sentence ending with ":" start off with bit too much spacing in between to my liking. I prefer the local Obsidian spacing layout (put simply, I generally prefer how the text appears in local Obsidian vaults over how it appears on the web - but this will be addressed in other item). we did this but it didn't work, i think we really have to narrow down which text format conditions (is it for headers, paragraph, or plain context, etc) before doing this. take note of that.
 
 3. /index page
-   a. inside the text, can you render how many notes, people, and essays exist (e.g., "see my 1,900 notes" "see my 55 people" "see my 10 essays")?
-   b. can you also include /essays?
-   c. render link to /now page
+   a. render link to /now page (note: already present in index.md via `[[now |right now]]`)
 
 4. /rank page (or if you have better name, suggest me, and depending on the doability it can wait)
    a. can you hack this page which does the following:
@@ -144,3 +143,7 @@ Content lives in `content/` directory. The Markdown pipeline:
 
 1. /now page
    a. Created `/content/now.md` template with sections for current work, reading, thinking, and recent explorations. User can edit manually. (20260108)
+
+2. /index page
+   a. Added dynamic content counts using `{{count:notes}}`, `{{count:people}}`, `{{count:essays}}` placeholders. Created `ContentCounts` transformer plugin and modified `ContentPage` emitter to inject counts at build time. (20260109)
+   b. Added /essays link to index page. (20260109)

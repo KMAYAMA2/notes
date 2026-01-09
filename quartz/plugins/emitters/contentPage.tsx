@@ -1,6 +1,6 @@
 import path from "path"
 import { visit } from "unist-util-visit"
-import { Root } from "hast"
+import { Root, Element } from "hast"
 import { VFile } from "vfile"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
@@ -15,6 +15,36 @@ import { Content } from "../../components"
 import chalk from "chalk"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
+import { QuartzPluginData } from "../vfile"
+
+// Count content files by type (notes, people, essays)
+const countContentByType = (
+  allFiles: QuartzPluginData[],
+  type: string,
+): number => {
+  return allFiles.filter((f) => {
+    const slug = f.slug ?? ""
+    // Match files that start with the type folder and exclude index files
+    return slug.startsWith(`${type}/`) && !slug.endsWith("/index") && !f.frontmatter?.noindex
+  }).length
+}
+
+// Process content count placeholders in the tree
+const processContentCounts = (tree: Root, allFiles: QuartzPluginData[]): void => {
+  visit(tree, "element", (node: Element) => {
+    if (
+      node.tagName === "span" &&
+      node.properties?.["dataContentCount"]
+    ) {
+      const type = node.properties["dataContentCount"] as string
+      const count = countContentByType(allFiles, type)
+      // Replace the span with a text node containing the count
+      node.children = [{ type: "text", value: count.toLocaleString() }]
+      // Remove the data attribute
+      delete node.properties["dataContentCount"]
+    }
+  })
+}
 
 // get all the dependencies for the markdown file
 // eg. images, scripts, stylesheets, transclusions
@@ -94,6 +124,9 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         if (slug === "index") {
           containsIndex = true
         }
+
+        // Process content count placeholders (e.g., {{count:notes}})
+        processContentCounts(tree as Root, allFiles)
 
         const externalResources = pageResources(pathToRoot(slug), resources)
         const componentData: QuartzComponentProps = {
