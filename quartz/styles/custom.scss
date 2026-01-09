@@ -1,3 +1,49 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ============================================
+// KIP 2-a: Tighter spacing for Obsidian-like feel
+// ============================================
+
+// Target article content specifically
+article {
+  // 1. Reduce space between paragraph and following list
+  //    (e.g., "For starters:" followed by bullet points)
+  p + ul,
+  p + ol {
+    margin-top: 0.25em;
+  }
+
+  // 2. Reduce space between headers and following list
+  h1 + ul, h1 + ol,
+  h2 + ul, h2 + ol,
+  h3 + ul, h3 + ol,
+  h4 + ul, h4 + ol,
+  h5 + ul, h5 + ol,
+  h6 + ul, h6 + ol {
+    margin-top: 0.25em;
+  }
+
+  // 3. Reduce space between headers and sub-headers
+  h1 + h2, h1 + h3, h1 + h4, h1 + h5, h1 + h6,
+  h2 + h3, h2 + h4, h2 + h5, h2 + h6,
+  h3 + h4, h3 + h5, h3 + h6,
+  h4 + h5, h4 + h6,
+  h5 + h6 {
+    margin-top: 0.5em;
+  }
+
+  // 4. Ensure lists themselves don't have excessive default margin
+  ul, ol {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
+  // 5. Tighter spacing for nested lists
+  li > ul,
+  li > ol {
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+  }
+}
