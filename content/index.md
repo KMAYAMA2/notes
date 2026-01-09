@@ -5,9 +5,9 @@ date: 2024-07-23
 I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I’m [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |exploring connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance, history (biographies), culture, linguistics (semiotics), productivity, etc—basically everything related to life.
 
 For starters:
-- Check my **{{count:notes}} [Notes](https://kenti.xyz/notes/)**—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
-- Check my **{{count:people}} [People](https://kenti.xyz/people/)**—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
-- Check my **{{count:essays}} [Essays](https://kenti.xyz/essays/)**—longer form writing.
+- Check my {{count:notes}} [Notes](https://kenti.xyz/notes/)—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
+- Check my {{count:people}} [People](https://kenti.xyz/people/)—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
+- Check my {{count:essays}} [Essays](https://kenti.xyz/essays/)—longer form writing.
 - What I'm currently working on [[now |right now]].
 
 The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
