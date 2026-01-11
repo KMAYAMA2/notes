@@ -111,13 +111,7 @@ Content lives in `content/` directory. The Markdown pipeline:
 1. /now page
    a. AI-generated interest summary: can Claude summarize my latest interest based on my recent commits, and can /now page include a text which reads something like the following: "Claude says my recent interest has been xxx and yyy etc"? And maybe add ChatGPT to do the same. This is contingent with the token usage when evoking Claude and ChatGPT wouldn't be that consuming. specifically, what if it only looks at the changes committed at that time (i.e., minimal change)?
 
-2. /content layout
-   a. when rendered on the web, bullet-pointed sentences following non-bullet-pointed sentence ending with ":" start off with bit too much spacing in between to my liking. I prefer the local Obsidian spacing layout (put simply, I generally prefer how the text appears in local Obsidian vaults over how it appears on the web - but this will be addressed in other item). we did this but it didn't work, i think we really have to narrow down which text format conditions (is it for headers, paragraph, or plain context, etc) before doing this. take note of that.
-
-3. /index page
-   a. render link to /now page (note: already present in index.md via `[[now |right now]]`)
-
-4. /rank page (or if you have better name, suggest me, and depending on the doability it can wait)
+2. /rank page (or if you have better name, suggest me, and depending on the doability it can wait)
    a. can you hack this page which does the following:
 
    - for each note, it checks how many connection it has with other notes and people (maybe separate notes-connection from people-connection - we can revisit this later)
@@ -125,17 +119,17 @@ Content lives in `content/` directory. The Markdown pipeline:
    - but you user can toggle the order so that less connected notes can appear on top, if requested
    - and also do the same for people (so users can check how many connections there are for notes, or people, or even essays, but the ranking should not mix them up... do you know what I mean? happy to elaborate this)
 
-   b. if achieving 4-a comes with updating each note and people (e.g., if each conent has to embody the data related to connection counts) and if that counts as updating the note, then that'd mean all the notes will be "modified" at once. I don't like that, since my /notes link renders notes by dates modified. Any workaround? if none, let's not do this yet.
+   b. if achieving 2-a comes with updating each note and people (e.g., if each conent has to embody the data related to connection counts) and if that counts as updating the note, then that'd mean all the notes will be "modified" at once. I don't like that, since my /notes link renders notes by dates modified. Any workaround? if none, let's not do this yet.
 
-5. email, tweet, message
+3. email, tweet, message
    a. when I push commit (am I using the words correctly?), can you summarize the changes, and send email, or tweet, or message in whatever medium I specify? happy to brainstorm this together. and this one is not urgent, so can wait.
 
-6. UI layout design in general
+4. UI layout design in general
    a. prepare multiple UI themes, and use Light/Dark mode to toggle between chosen 2 themes
    b. keep the current Light/Dark mode scripts
    c. but create few more: terminal-like looking theme; and orange-neon theme
 
-7. localize CLAUDE.md
+5. localize CLAUDE.md
    a. since there is no point committing CLAUDE.md to remote repo, can we localize the file (assuming doing so does not affect my workflow with Claude whatsoever)
    - **Deferred**: Using `claude.local.md` (git-ignored) would work, but KIP history wouldn't sync across machines. Keeping in committed CLAUDE.md for now.
 
@@ -147,3 +141,6 @@ Content lives in `content/` directory. The Markdown pipeline:
 2. /index page
    a. Added dynamic content counts using `{{count:notes}}`, `{{count:people}}`, `{{count:essays}}` placeholders. Created `ContentCounts` transformer plugin and modified `ContentPage` emitter to inject counts at build time. (20260109)
    b. Added /essays link to index page. (20260109)
+
+3. /content layout
+   a. Tighter spacing between paragraphs/headers and bullet lists to match Obsidian. Added CSS rules in `quartz/styles/custom.scss` using `:has()` selector to reduce margins on elements immediately preceding lists. (20260109)
