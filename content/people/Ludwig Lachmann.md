@@ -17,14 +17,14 @@ date: 2025-07-18
 		- 「ストックから投資」の限界
 		- 消費の投資への転化
 	- パッシブバブルによるアクティブ投資家の淘汰
-		- ==Gresham’s Law in action== → マーケットがerror-correction mechanism として機能しなくなる
+		- [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]] in action → マーケットがerror-correction mechanism として機能しなくなる
 			- <> ==[[Li Lu]] (2024) piece?== #revisit 
 	- **共存と繁栄の時代の終わりを告げる者**—Open AI
 		- 「AGI = 世界の支配」という考え
 			- 巨人たちの戦いを支える武器商人としてのNvidia, TSMC, etc
 				- AGI or DIE…
 		- IT プラットフォーマーのインフラ会社化 <> essentiality ([[Warren Buffett]]) <> physical vs cyberspace ([[Li Lu]]) <> see [[Michael Burry]] for details on hyperscalers 
-- when the speed of GDP growth and stock market growth were somewhat aligned, timeline did match physical growth. not anymore. take this to advantage. but know that it can go the opposite way. ([[Li Lu]] and lachmann related)
+- when the speed of GDP growth and stock market growth were somewhat aligned, timeline did match [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need |physical]] growth. not anymore. take this to advantage. but know that it can go the opposite way. ([[Li Lu]] and lachmann related)
 - portfolio structure is dominated maybe because of the money printing
 - the market force which brings about capital consistency is brought about by consumers who turn themselves into producers
 	- i.e., [[Become A Problem-Solving Artist |artists]]

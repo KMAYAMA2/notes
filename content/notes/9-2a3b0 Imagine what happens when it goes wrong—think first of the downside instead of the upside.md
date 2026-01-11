@@ -12,6 +12,8 @@ Related:
 - [[2-1a0a1 Don't waste time unnecessarily complicating things]]
 - [[2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future]]
 - [[2-1b2b2 'Multiplying by zero' - Be risk-prone but avoid ruin at all cost]]
+- [[3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low]]
+	- E.g., think first about the downside of not being transparent—face the problem, and [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long |solve them while you can]]
 - [[4-1e1 Loss aversion - e.g., the prospect of competitor buying you, and having have to acquire you later at higher cost, are the two biggest concerns which motivate potential acquirers]]
 - [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
 - [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]

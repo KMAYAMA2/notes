@@ -19,9 +19,9 @@ Related:
 - [[9-4d A good essay = importance (do I want it) + novelty (did you think about it a lot) + correctness + strength]]
 - [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented.]]
 - [[RUL3 - Live in the future and build what seems interesting]]
-- When you want it bad, you become fanatic
-	- See [[Carlo Cipolla]]
-- - On producer-consumer distinction
+- When you want it bad, you become [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self. |fanatic]]
+	- See [[Carlo Cipolla]] (and also [[Todd Graves]])
+- On producer-consumer distinction
 	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 	- [[7-1b0 The creator-user (or producer-consumer) distinction is arbitrary. There are no 'producers' and 'consumers' in the non-human world.]]
 	- [[7-1b0a The producer-consumer distinction is blurred in non-profit organizations and open source projects. Likely why their diffusions are slow.]] ← Challenge this note #TODO 

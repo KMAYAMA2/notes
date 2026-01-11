@@ -14,7 +14,7 @@ Next:
 
 Related:
 - [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
-	- 巨大企業による意識的なmind-share 独占 → その分野におけるイノベーションの数自体が減る (Gresham’s Law)
+	- 巨大企業による意識的なmind-share 独占 → その分野におけるイノベーションの数自体が減る (<> [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]])
 		- [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.]]
 		- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]] #develop 
 

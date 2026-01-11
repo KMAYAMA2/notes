@@ -2,6 +2,8 @@
 
 > “There were two of us in the hunt, and when two men set out to find a golf ball in the rough, they expect to come across it where the straight line marked in their minds eye to it, from their original positions, crossed. In the same way, when two men set out to investigate a crime mystery, it is where their researches intersect that we have a result.” – Joseph Bell
 
+> “Truth will rise above falsehood as oil above water.” – Miguel de Cervantes
+
 Next:
 - [[9-1a2 Most fairly good ideas are adjacent to even better ones]]
 

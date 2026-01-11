@@ -33,6 +33,8 @@ date: 2025-12-21
 	- Mental shortcuts <> complexity shortcuts
 	- More info more shortcuts <> constraint <> own media 
 	- Money force memes face reality, “memes” only accelerate this more 
+- software short vs hardware long does make sense from [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need |essentiality]] perspective?
+	- but isn’t burry arguing that AI buildout cos are bloated?
 
 # SUBSTACK
 ## The Psychology of Investing in the Information Age

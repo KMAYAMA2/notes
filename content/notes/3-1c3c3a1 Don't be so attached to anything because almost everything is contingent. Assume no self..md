@@ -21,3 +21,4 @@ Contradictory?
 > “Be fanatical about what you’re doing” – [[Todd Graves]] #revisit 
 
 You can iterate within your moat <> [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]] <> [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+

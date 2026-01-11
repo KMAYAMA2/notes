@@ -20,7 +20,7 @@ date: 2025-07-18
 	- p. 6 → virtual and real economies distinction is misleading
 		- <> ==we never experience reality as is== (Li Lu meets Deutsch yet again)
 	- p. 12 → Info is in difference, but computational difference something like the difference between solving and verifying NP problem is what matters
-	- p. 13: ==otherwise people will leave to where there’s sustainable growth <> Gresham’s Law==
+	- p. 13: ==otherwise people will leave to where there’s sustainable growth <> [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]]==
 	- p. 14: network effects <> everything is connected <> start where you can <> widen circle of competence
 	- p. 18 → if the governments lift the capital outflow ban, then what happens to *internet money*?
 		- ==is the crypto play essentially about being against central control (and thereby about freedom), and not essentially about growth?==
@@ -33,7 +33,7 @@ date: 2025-07-18
 			- <> 13-1a3a2f
 			- <> 13-8d
 	- li lu mentality and ==focus on share works well with gold (or BTC, or ZEC) standard economy==
-	- You buy stocks because cash can’t retain value, but stocks represents economy and if malinvestments are everywhere (which is often the case when money is printed) then stock prices will plummet <> no free lunch <> ==Gresham’s Law==
+	- You buy stocks because cash can’t retain value, but stocks represents economy and if malinvestments are everywhere (which is often the case when money is printed) then stock prices will plummet <> no free lunch <> ==[[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]]==
 		- <> be fearful when others are greedy
 		- ==where did all the active investors go?==
 			- crypto?
@@ -46,6 +46,8 @@ date: 2025-07-18
 	- 海外投資家の日本市場の出来高 implies how important Japanese market is globally—viz., the extent of its real wealth
 	- ==Fragmentation means no global market means capital doesn’t flow effectively== (inspired by natural gas piece)
 		- <> [[2-1c2a Matt Ridley - 'Self-sufficiency leads to economic downturns. Mutual interdependence is more robust.']]
+		- <> [[2-2d Gresham’s Law generalized—the bad practice drives out the good]]
+			- The Iron Law of Civilization 3.0 is about adapting to the best ecosystem out there
 	- free market money (if the thing is aspiring to be one) should respect the iron law (e.g., zec)
 		- e.g., look what happened with venezuela
 # A Discussion of Modernization (2014)
@@ -674,7 +676,7 @@ Whoever would have thought when China began its Reform and Opening 40 years ago 
 - Modern capital markets are a necessary prerequisite and cornerstone of modern economics
 	- <> virtual-real economy distinction memos
 - Moving prices from short-term inefficiency to long-term efficiency is crucially dependent on fundamental investors, value investors. Value investing enables the market's price discovery function and is the most important node connecting the most valuable companies with non-professional individual savers.
-	- But because of fiat money (and “memes”) passive index investment drove out “value” investors <> Gresham’s Law
+	- But because of fiat money (and “memes”) passive index investment drove out “value” investors <> [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]]
 - Buffett made me realize that the essence of value investing is win-win
 - The existence of public companies is crucial for converting savings into effective social resources, which are essential for these companies to grow.
 - An increase from 40% to 50% in personal savings rates effectively means a 10% reduction in GDP.
