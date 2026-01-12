@@ -1,3 +1,5 @@
+> “The US now has a vertically integrated loop for supplying itself and the entire world the critical medium and heavy crude oil products.” – John Doe (20260106)
+
 And he doesn’t have to worry (i.e., second-guess) about what other shops are doing. #revisit 
 
 Related:

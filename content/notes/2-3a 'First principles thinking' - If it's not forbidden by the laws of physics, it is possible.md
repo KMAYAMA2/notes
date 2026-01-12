@@ -1,5 +1,7 @@
 > “Life is infinitely stranger than anything which the mind of man could invent.” – [[Sherlock Holmes]]
 
+But remember to do them *[[Scott Aaronson |efficiently]]*—computability per se doesn’t really count for us
+
 Next:
 - [[2-3a1 Always ask - what does this even MEAN]]
 - [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
@@ -10,7 +12,7 @@ Related:
 
 - [[1-2b In the quest for truth, what matters is the explanation and not where it came from (the quest for truth ≠ a quest for certainty-justification-necessity)]]
 - [[9-2a1 It doesn’t matter where you came from (or where you are); what matters is what you can do and where you are going]]
-- [[3-1c2g Often times what matters is not what's used in the system, but what it does and can do]]
+- [[3-1d4a0 Often times what matters is not what's used in the system, but what it does and can do]]
 
 - [[5-1b1a2c1 Principles are meta-contingency. Whatever can happen can happen regardless of how.]]
 - [[5-1b1a2c2 Constructor Theory is all about knowledge of how to correct errors (primarily of our parochiality-physicality) and thus optimism]]

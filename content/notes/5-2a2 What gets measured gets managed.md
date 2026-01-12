@@ -1,9 +1,11 @@
 ---
 date: 2025-01-12
 ---
+> “The nation-state thrived because capital was immobile, transactions were legible” – @arjunkhemani (relate with [[Li Lu]]’s Civilization 2.0 #TODO )
+
 If you don’t want something to be managed, make it unmeasurable ([[RUL3 - Invert, always invert |inverted]]).
 
-Gold and BTC are seizable. 
+Gold and BTC are seizable
 
 USDC is also in principle censorable, not only because of its visibility (as with BTC) but also because of proof-of-stake (e.g., see [[Eric Voskuil]]). #revisit 
 

@@ -1,4 +1,6 @@
-“At any time, each owner of a consumers’ good must judge on his value scale whether its exchange-value or its highest direct use-value is the greater. In the money economy, the problem of exchange-value is simplified, since it will be exchange for *money* that will be especially important. The utility on his value scale of the highest direct use-value will be compared to the utility of the sum of money the good could procure in exchange.”
+> “At any time, each owner of a consumers’ good must judge on his value scale whether its exchange-value or its highest direct use-value is the greater. In the money economy, the problem of exchange-value is simplified, since it will be exchange for *money* that will be especially important. The utility on his value scale of the highest direct use-value will be compared to the utility of the sum of money the good could procure in exchange.” – [[Murray Rothbard]]
+
+> “Only when capacity exceeds demand will US prices and global prices begin to "track" each other with a tight correlation, much like Brent and WTI crude” – Kaoboy on natural gas
 
 Next:
 - [[13-1a3a2d1 Money superimposes direct use-values of things onto a commensurable unit]]

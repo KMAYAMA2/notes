@@ -2,6 +2,8 @@
 
 > “You can fool people some of the time but not forever; when you get old you’ll get the reputation you deserve” – [[Warren Buffett]]
 
+> “Even if decarbonization is a valid objective, the _path chosen_ ignored Grid Resilience, Geopolitics, and just basic physics.” – Kaoboy
+
 Previous:
 - [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
 
@@ -11,6 +13,7 @@ Next:
 
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
+- [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
 - [[3-1a4b2a A great business at a fair price is superior to a fair business at a great price]]
 - [[5-1 When you are long truth you are long volatility and time]]
 - [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]

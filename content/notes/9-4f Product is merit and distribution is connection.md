@@ -12,3 +12,5 @@ Related:
 		- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
 - [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
 - [[7-1a5c Engineers address the problem itself, and sales people help making that problem everyone’s problem NOW]]
+- In economics parlance:
+	- [[13-1a3a2d The more extended the market, the more will exchange-values (as compared to direct use-values) predominate in the decisions of the producer]]

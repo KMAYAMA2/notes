@@ -1,4 +1,9 @@
-And memecoins ironically pulled back memes. #revisit 
+> “Once money escapes political control, law follows. Governance follows. Identity follows. The nation-state does not disappear, but it shrinks, competes, and adapts—or fails.” – @arjunkhemani
+
+And money itself evolves—*nothing escapes evolution* #revisit :
+> “Individuals choose money the way they choose software: based on reliability, security, portability, and resistance to manipulation.” – @arjunkhemani
+
+Memecoins are not degenerative—ironically they pulled back memes into reality. #revisit 
 
 Next:
 - [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
