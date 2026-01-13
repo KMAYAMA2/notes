@@ -364,7 +364,7 @@
 	- To understand the interaction of audiences, you have to understand their tacit (parochial) knowledge
 - ‘Father’ is just an abstraction
 	- The cultural role of ‘father’ is defined by shifting cultural values
-- All cultural roles show similar diachronic, geographic, economic and other shifts across time, space, or populations
+- All cultural roles show similar diachronic, geographic, economic and other shifts across time, space, or populations (p. 276)
 	- Globalization likely accelerated the shift to ‘mono-culture’ #develop 
 - The 1867 Treaty of Medicine Lodge example
 - ‘We should do lunch sometime’ example

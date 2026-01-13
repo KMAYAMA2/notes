@@ -3,7 +3,7 @@ date: 2024-08-06
 ---
 > “You can’t use up creativity. [[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)| The more you use, the more you have]].” – Maya Angelou
 
-Curiosity is not a consumable—it is a network. The more you use, [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law) |the easier it gets]]. Follow your curiosity both [[2-1a7b Work in a field you have both a natural aptitude for and deep interest in. It should become increasingly interesting as you learn more about it. |professionally]] and in [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds. | life]]. 
+Curiosity is not a consumable—it is a network. The more you use, [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law) |the easier it gets]]. Follow your curiosity both [[2-1a7b Work in a field you have both a natural aptitude for and deep interest in. It should become increasingly interesting as you learn more about it. |professionally]] and in [[5-1b1b1a1.1 The more anomalies you’ve seen, the more easily you’ll detect new ones. Life should become more and more surprising as you grow older. It compounds. |life]]. It’s *use it or lose it*.
 
 Simply put, [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, because wealth is knowledge |be curious and have fun]].
 

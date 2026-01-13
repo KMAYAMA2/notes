@@ -1,4 +1,6 @@
-*What the wise man does in the beginning, the fool does in the end*
+> *What the wise man does in the beginning, the fool does in the end*
+
+> “I think chatbots have the potential to make people dumber—doctors that use them too much start to forget their actual innate medical knowledge” – [[Michael Burry]]
 
 Next:
 - [[10-2g1f1 Natural selection can only operate on phenotypes (physical attributes) and not on genotypes (the knowledge bearing entity). The same (or similar) phenotypes doesn’t mean they share the same genotype.]]

@@ -2,16 +2,19 @@
 
 > “Physicians often pride themselves on curing all their patients with a remedy that they use. But the first thing to ask them is whether they have tried doing nothing, i.e., not treating other patients; for how can they otherwise know whether the remedy or nature cured them?” – [[Sherlock Holmes]]
 
-Negative evidence and events that don’t happen, matter when something implies they should be present or happen.
+> “We did a survey of developers at Anthropic and saw a self-reported 50% productivity boost from the 60% of those surveyed who used Claude in their work. But then things like the METR study would seem to contradict that. We need better data and, specifically, instrumentation for developers inside and outside the AI labs to see what is going on.” – Jack Clark, co-founder of Anthropic, on whether AI tools actually improve productivity or not (20260110)
+
+Negative evidence and events that don’t happen, matter when something implies they should be present or happen. 
 
 Next:
 - [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
+- [[5-2a0 Know what to measure]]
 - [[5-3 Don’t fight. Transcend.]]
 
 Related:
 - [[1-1a2e11 Nothing objectively represents the represented]]
 - [[1-1a6 To live is to live like a detective]]
-- [[1-1c6a1c The absence of evidence is not the evidence of absence]]
+- [[1-1c6a1c The absence of evidence is not the evidence of absence]], because it’s about knowledge all the way down #develop 
 - [[1-2g1a In most cases, the new theory likely predicts the same outcome as the old ones, but that doesn’t mean we don’t need new theories because new theories give better explanations]]
 - [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
 - [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
