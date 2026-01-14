@@ -7,8 +7,6 @@ Don’t risk what you have and need, to get what you don’t need—see [[Warren
 
 When it’s really essential you won’t sell them (e.g., sugar 砂糖 and cholera コロリ)—what’s the implication here? #revisit 
 
-irl
-
 Related:
 - [[3-1a0 Use categories, but don't be categorized]]
 	- [[3-1a3 Multidisciplinary thinking is the most realistic thinking]]
@@ -22,3 +20,14 @@ Related:
 	- [[9-4f Product is merit and distribution is connection]]
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- Jack Clark: “I think “economic security is national security,” so making sure we have the infrastructure in place to build out the AI economy will have knock-on positive effects on our industrial base and overall robustness”
+- [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
+	- But only to an extent (e.g., according to Michael Green, the new poverty line is now around $140,000 while the median family salary in America is only around 80k as of 20251125)—essentiality cyclically emerges as a part of investment theses (e.g., in commodities)—e.g., see [[Ludwig von Mises]] and [[Murray Rothbard]] on ABCT
+		- In [[Ludwig Lachmann]]’s parlance, it’s as if the Plan Structure pulls back the Portfolio Structure
+- Fake AI content saturation → irl? #revisit 
+	- The topology here is similar to Michael Green example above
+- Vibe coding → software saturation → physical stuff will be bid?
+	- [[5-1b1b2b Don't try to be the best. Be the only.]]
+	- Many will try to be *the house* (e.g., see [[Mert]]):
+		- Software companies are becoming hardware companies
+			- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
+			- What’s the implication for software-hardware stock performance spread? #revisit 

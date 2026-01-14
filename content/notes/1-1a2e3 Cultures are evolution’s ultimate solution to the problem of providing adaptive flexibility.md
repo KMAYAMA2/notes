@@ -1,4 +1,4 @@
-Error-correction is essentially about finding solutions to a problem. There are efficient ways to correct errors. Error-correction is inherently about computation complexity problem. And culture provides one of the most efficient methods. 
+Error-correction is essentially about finding solutions to a problem. There are efficient ways to correct errors. Error-correction is inherently about computation complexity problem. Evolution is about solving problems. And culture provides one of the most efficient methods. 
 
 [[David Deutsch]] meets [[content/people/Scott Aaronson]] and [[Daniel Everett]] here.
 

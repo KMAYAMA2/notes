@@ -1,6 +1,8 @@
 ---
 date: 2024-10-16
 ---
+[Essays](https://kenti.xyz/essays/) should capture connections between [notes](https://kenti.xyz/notes/)—connections that cannot be dumbed down to notes because the insight is in the connections.
+
 **Previous:**
 - [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 
@@ -11,6 +13,8 @@ date: 2024-10-16
 
 **Related:**
 - [[10-2g1f2a1 The question is what's the brain in NOT what’s in the brain]] #develop 
+
+- [[3-1c2e0 There is no minimum idea]] #develop 
 
 - [[5-2 What counts cannot be counted]]
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]]

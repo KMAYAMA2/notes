@@ -51,6 +51,8 @@ date: 2025-07-18
 	- free market money (if the thing is aspiring to be one) should respect the iron law (e.g., zec)
 		- e.g., look what happened with venezuela
 			- John Doe: “China would need to double current Iranian heavy oil imports. Iranian production is close to maxing out. It would take herculean levels of investment supply double. Additionally, you begin to flood the market with double the byproducts of asphalt production making refinery margins worse.”
+	- You’ll be smarter with math-based money (because you will then study math and physics), but not really with politics-based money (you’ll just get better at politics, and maybe psychology—but since politics is by definition zero-sum, it doesn’t contribute to society, it’s somewhat equivalent to speculation in that sense). 
+		- Obviously in both cases, you can still get rekd
 # A Discussion of Modernization (2014)
 ## Chapter 1—Old Problems and the New History
 - The waning of the East and the dominance of the West during the past 200 or more years has consistently been a core concern for world elites from various walks of life both in China and the West, but to this day a consensus has yet to be achieved.

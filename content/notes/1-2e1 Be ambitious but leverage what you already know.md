@@ -5,6 +5,7 @@ Related:
 - [[3-1d6b Consistent style makes it easier to see whether you are making a progress or not]]
 - [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]]
 - [[5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation]]
+- [[5-1b1b1a2 Network effect means compounding]]
 - [[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]
 - [[10-2g5 Every invention is built up over time within culture]]
 - [[RUL3 - “Staying Upwind” - don’t plan too much; instead, work on ambitious projects and flow to the most interesting that gives you the best options for the future]]

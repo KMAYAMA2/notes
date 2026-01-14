@@ -7,7 +7,8 @@ Great culture must understand Brandolini’s Law and fight it. #revisit
 
 Related:
 - Why error-correction occurs *en masse* (i.e., market crash)
-	- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
+	- “I’d rather be wrong in a group” psychology
+		- [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 - As [[Michael Burry]] points out, more *easy memes* emerged out of the information explosion, making Mr. Market more extreme (i.e., market moves faster and are more erratic)
 	- [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 	- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]

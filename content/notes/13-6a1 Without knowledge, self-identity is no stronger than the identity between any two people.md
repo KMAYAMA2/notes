@@ -16,3 +16,7 @@ Related:
 	- [[10-2g2c1 Symbols are universal. Being arbitrary and contingent means it can represent anything, and do everything.]]
 - Fungible universes matter only because they can differentiate
 	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
+
+TODOs:
+- Integrate [Defeating Dr. Evil](https://philsci-archive.pitt.edu/1036/1/drevil.pdf) by Adam Elga #revisit 
+	- “My plan is to use the Dr. Evil case to motivate a principle of indifference for self-locating belief, a principle that brings out a stark contrast between two kinds of skeptical hypotheses”

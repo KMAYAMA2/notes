@@ -10,6 +10,8 @@ Save keystrokes—always ask, *then what?*
 
 Problems are [[1-1c4b You always have to solve problems, including the problem of what problems to solve |inevitable]] (see [[David Deutsch]]), but if you are careful you can have way less problems than others—wisdom is about prevention (see [[Charlie Munger]] and [[Warren Buffett]]).
 
+It’s about being [[Scott Aaronson |efficient]].
+
 Next:
 - [[2-1b2b0 Judgment is knowing the long-term consequences of your actions]]
 - [[2-1b2b0.1 Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.]]
@@ -29,6 +31,9 @@ Related:
 - Save time relentlessly (this is where [[Warren Buffett]] and [[Charlie Munger]] meet [[Naval Ravikant]] intellectually)
 	- [[4-1a4b6a0.4 Bill Gates - 'No matter how much money you have, you can’t buy more time. There are only 24 hours in everyone’s day' (Time ≠ Money)]]
 	- [[5-2c2a Prioritize bullshit avoidance over money and prestige. Don't waste your time.]]
+- On being *efficient*
+	- [[8-2b2 The most efficient business is one with trust, or one completely without]]
+	- [[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context)]]
 
 Safeguard: 
 - *Use the test of time. Test whether you’re addressing the root cause of a problem, rather than merely treating a symptom, by asking yourself whether it will stand the test of time. Will this solution fix the problem permanently, or will the problem return in the future? If it seems like the latter, then chances are you’re only treating a symptom.*

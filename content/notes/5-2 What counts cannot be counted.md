@@ -21,3 +21,5 @@ Related:
 - [[8-1c4d1a1 The culture (or ‘gestalt’) dictates what’s been written as well as what’s not been written]]
 - [[7-1a4a Growth in revenue and in user base are not the same thing.]]
 - [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
+- [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
+	- Under the gold standard, the share in the company really represents *the share* in the economy (viz., purchasing power, which, according to [[Li Lu]], is what matters)—see [[Saifedean Ammous]] for more on the gold standard

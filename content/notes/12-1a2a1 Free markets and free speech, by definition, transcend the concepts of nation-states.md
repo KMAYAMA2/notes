@@ -11,6 +11,7 @@ Related:
 - On the triad:
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 - [[2-1a0c1i Every polity will be publicly traded eventually just like companies and coins]] #develop 
+- [[3-1a4 Explanatory means it will span across ‘boundaries’]]
 - [[3-1a4b 情報文化史 = 経済文化史 (経済と文化はそもそも独立して存在しない)]]
 	- 資本主義自体は文化を鑑みないが、前者が後者に影響を与えないということはあり得ない。そのフィードバックは正にも負にも働く。
 		- [[7-1b4b3 When you dump oscillations, you dump low end as well as high end]]
