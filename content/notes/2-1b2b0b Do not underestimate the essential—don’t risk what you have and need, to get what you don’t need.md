@@ -20,3 +20,5 @@ Related:
 	- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 - irl—you need roads:
 	- [[9-4f Product is merit and distribution is connection]]
+- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
+	- Jack Clark: “I think “economic security is national security,” so making sure we have the infrastructure in place to build out the AI economy will have knock-on positive effects on our industrial base and overall robustness”

@@ -15,6 +15,7 @@ Related:
 - [[5-1b4c2 No wonder why someone who is having fun is genuinely great at what they do. Because you have to have fun to achieve great things.]]
 	- You are more susceptible to stay if you love the game—but this is contingent with you being the low-cost operator
 		- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
+		- [[Michael Burry]]: “The secret to Google search was always how cheap it was, so that informational searches that were not monetizable (and make up 80% or more) did not pile up as losses for the company.”
 - [[RUL3 - Create something, or become someone, that is hard to duplicate ('Barriers to entry')]]
 - Some cautionary notes in praxeological terms: #revisit 
 	- [[13-1a3a4a The actual market prices are the only ones that ever exist]]
