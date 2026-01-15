@@ -5,6 +5,9 @@ date: 2025-11-28
 
 And *would’ve been possessed* reward. That’ll explain [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful” |FOMO]].
 
+Next:
+- [[4-1e3 Convex utility in losses—when you’re trapped, your risk preferences change. Beware a man who has nothing to lose.]]
+
 Related:
 - [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
 	- [[4-1a4b2b Being reactive is like being analog in the heat of the moment]]

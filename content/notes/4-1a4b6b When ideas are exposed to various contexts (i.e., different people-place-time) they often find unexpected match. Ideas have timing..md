@@ -2,6 +2,8 @@
 
 The same writing looks very different when you see it on different medium (e.g., on your physical notebook vs on the web). Not only that, people consume the content differently. It's similar to how [[6-7b Nutrition doesn’t exist independently from the patient]]. 
 
+Even if the same [[8-4 LLMs |model]] is being used, the context and tasks (i.e., [[7-1a1a2 Solve your own problems. Otherwise you'll lose time and money without self-indulgence alarms going off. |problems]]) you provide makes the agent different from others—it’s about [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない. |difference]]. #develop 
+
 Next:
 - [[4-1a4b6b0 We can make almost anything happen (in the way we want) regardless of contextual constraints because we can tweak everything (in piecemeal engineering fashion) by using symbols]]
 - [[4-1a4b6b1 Ideas and its contexts applied are arbitrary]]

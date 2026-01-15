@@ -17,6 +17,8 @@ Related:
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]], because it’s about knowledge all the way down #develop 
 - [[1-2g1a In most cases, the new theory likely predicts the same outcome as the old ones, but that doesn’t mean we don’t need new theories because new theories give better explanations]]
 - [[2-1a1a9 'Survivorship bias' - We only see what can be seen]]
+- [[2-1a7a1 (1) Increase your productivity; (2) Don't let your income increase faster than your productivity; (3) Don't let your debt increase faster than your income]]
+	- Productivity ‘boost’ (e.g., with [[8-4 LLMs |LLMs]]) might not be directly measurable—because we might start doing things completely tangent then
 - [[3-1d6d Consistency with specific problems in mind is the key to (detect) progress]]
 - [[8-1c4d1a1 The culture (or ‘gestalt’) dictates what’s been written as well as what’s not been written]]
 - [[7-1a4a Growth in revenue and in user base are not the same thing.]]

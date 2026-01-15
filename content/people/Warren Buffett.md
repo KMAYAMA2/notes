@@ -863,6 +863,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 - Defenders of a territory >>> intruders of the same species (p. 105)
 - Never contend with a man who has nothing to lose, but more so with a man who has everything to lose (p. 105) 
 	- relate with negotiation and biases notes
+	- <> [[4-1e3 Convex utility in losses—when you’re trapped, your risk preferences change. Beware a man who has nothing to lose.]]
 - Loss aversion is why we overvalue what we give over what we get. Think from counterparty’s point of view. Take a stand on only important things. (p. 105) 
 	- [[2-1a0b2 'Relativity' - Look at the problem in as many ways as possible. You might as well find new problems.]]
 	- [[2-1a0c1d1 Focus on the few variables]]

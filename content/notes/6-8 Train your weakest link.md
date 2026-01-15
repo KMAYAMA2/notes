@@ -18,6 +18,8 @@ Fix your weakest link.
 		- [[10-2g2e6a Science is about understanding the whole of reality, of which only an infinitesimal proportion is ever experienced]]
 		- [[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
 			- [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
+- [[2-1e Everything is connected in a complex way]]
+	- John Doe: “Only the current Orinoco output of 700 000 bpd is enough to crash the Canadian economy.”
 - [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
 - [[3-1a4b1.2 Define and stay within your circle of competence]]
 	- [[2-1a0c1d1 Focus on the few variables]]
