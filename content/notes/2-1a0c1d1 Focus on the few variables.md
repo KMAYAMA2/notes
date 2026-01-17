@@ -15,7 +15,7 @@ Also think about what the counterparty is focused on.
 
 As implied in [[Warren Buffett |Buffett]]’s emphasis on essentiality, make something critical—survival over livelihood (inspired by 盛田昭夫) #revisit 
 
-When you’re focused on few variables and they turn out to be wrong ones: disaster (e.g., Canadian dollar’s dependency on Alberta oil production)
+When you’re focused on few variables and they turn out to be wrong ones: disaster (e.g., Canadian dollar’s dependency on Alberta oil production). Make sure you are focused on the right variables.
 
 Next:
 - [[2-1a0c1d2 Less is often more]]

@@ -1,4 +1,4 @@
-
+I think this ties into with [[Li Lu]]’s focus on *real wealth* #develop 
 
 Next:
 - [[7-1a5a1 Find an inexpensive custom acquisition channel and pile up users through an underpriced angles others haven't realized yet.]]
