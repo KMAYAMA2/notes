@@ -22,6 +22,13 @@ Related:
 - [[5-3c Knowledge is irreversible, and can only go from private to public]] #revisit 
 - [[9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas]]
 - [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented.]]
+- When you invert the argument, then [[Li Lu]]’s focus on *real wealth* does make sense with fiat money:
+	- <> [[2-1b2g 'Margin of safety' - Be redundant and resourceful]]
+	- <> [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans]]
+	- <> [[6-3b2.3 Dollar is state network for payment]]
+	- <> [[7-1b4f Let the tech decide where to go (both intellectually and physically)]]
+		- Block economy is shaped more by nation-state technology than politics—but either way the boundaries created are arbitrary
+	- <> [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 
 The West now: #develop 
 - Left is against free speech

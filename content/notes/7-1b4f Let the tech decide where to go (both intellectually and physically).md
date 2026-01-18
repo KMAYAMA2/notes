@@ -1,5 +1,7 @@
 > “*The three big decisions—what you do, where you live, and who you’re with.*” – [[Naval Ravikant]]
 
+
+
 Related:
 - [[7-1b4b You can let the tech decide what are the problems to be solved. Otherwise, it will decide by itself. It's about possibility and not about should.]]
 - [[8-1b2 Digital-physical is entwined]]

@@ -907,6 +907,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 - Franklin tactic can work in reverse (p. 111)
 - Ben Franklin: “He that would live in peace and at ease must not speak all he knows nor judge all he sees” and what says that his opinion or solution is the correct one (p. 111) 
 	- don’t trigger defensive responses in others #revisit 
+	- <> [[2-1aa Privacy is the absence of information leakage]]
 - Henry Ford on secret to success is changing perspective. If you do this, you understand why they do what they do. (p. 111) #revisit
 	- relate with 主語の転換 memos 
 	- relate with Carl Braun quote memos

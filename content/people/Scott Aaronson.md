@@ -60,7 +60,10 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 			- <> ==9-2a1.1== (execution is speed <> computability <> complexity)
 - on aaronson-deutsch (or zcash-multiverse)
 	- e.g., 6-3a2.1 <> ==1-2g2t4== (or just search with `fungib`)
-- 
+- [[2-1a4 'Language instinct' - Language can't exhaust mind]]
+	- <> mind is unpredictable likely due to the constraints posed by quantum mechanics (as Aaronson argues in his *ghost* paper) 
+	- <> robotics have limits because coding is necessarily language-oriented 
+		- <> [[Michael Burry]]
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter
 - p. 110 → we don’t really need experiments because we are Turing machine <> but often times being in contact with external reality gets you to reality faster <> see from different perspectives <> seeing the front 

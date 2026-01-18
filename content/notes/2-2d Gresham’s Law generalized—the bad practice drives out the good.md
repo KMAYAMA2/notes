@@ -28,7 +28,12 @@ Related:
 	- [[13-8a2.1 Money is the present good par excellence]]
 - [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 	- A corollary of *the law of cryptocurrency isomorphism* is the fact that regulators can’t just ban certain cryptocurrencies—they will need to ban every cryptocurrencies, likely to their own demise
+		- The entire network has to coordinate to expel [[2-1aa Privacy is the absence of information leakage |privacy]] coins—one state adopting it will undo such coordination
+			- <> [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
+			- [[Chris Dixon]]: “Crypto-history depends on cryptography and game-theory”
 	- If the state bans free market money equivalent, then its physicality will deteriorate because we can [[8-2d3 You can vote with ballot, wallet, or foot (physical & digital) |vote with foot]]
+	- Intervention by fiat, ironically, might accelerate NgU and subsequently adoption (e.g., see [[Bitstein]])
+		- <> [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 
 
 

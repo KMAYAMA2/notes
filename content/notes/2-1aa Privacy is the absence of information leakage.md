@@ -3,7 +3,13 @@ date: 2025-11-20
 ---
 > “The only true secret is the one you take to the grave”
 
-Zooko: Anonymity → No violence #revisit 
+> “Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.” – [[Benjamin Franklin]]
+
+> “He that would live in peace and at ease must not speak all he knows nor judge all he sees” – [[Benjamin Franklin]]
+
+> “A small leak will sink a great ship” – [[Benjamin Franklin]]
+
+Zooko: Anonymity → No violence/coercion #revisit 
 Remember Polyphemus and Odysseus
 
 Related:
@@ -22,6 +28,7 @@ Related:
 	- To have privacy is to be dissociated—that is, to be symbolic #revisit 
 		- <> [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 		- <> [[Costly speech means only the wealthy speak freely]]
+- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 - Going public is one-way door #revisit 
 	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
 - Privacy is optional with zcash—this allows its user to tap into his *brand*

@@ -11,3 +11,6 @@ Related:
 - [[Carlo Cipolla]] on *stupid* people
 - *The prison of financial mediocrity*—mentioned [[Mert |here]] ([source](https://x.com/systematicls/status/2004900241745883205))
 - [[4-1c Great negotiators actively try to reveal hidden assumptions, that is, they look for surprises. They are more than just being ready for them.]]
+- This is why value investing works:
+	- [[9-2a3a Pick up the biggest upside potential]]
+	- [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]

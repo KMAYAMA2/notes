@@ -9,7 +9,7 @@ Related:
 - This *per se* isn’t bad at all
 	- You are letting each specific problem to be addressed by the best company out there
 		- [[2-1c1 'Comparative advantage' - If others can do it, let them]]
-	- Only low cost operators can reach that ‘extract’ cycle—and consumers benefit (‘extract’) from deflation in that specific product
+	- Only low cost operators can reach that ‘extract’ cycle—but consumers also benefit (‘extract’) from deflation in that specific product
 		- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 - I.e., cooperation early and competition later
 	- [[2-1c3 'Win and help win' always outcompete]]

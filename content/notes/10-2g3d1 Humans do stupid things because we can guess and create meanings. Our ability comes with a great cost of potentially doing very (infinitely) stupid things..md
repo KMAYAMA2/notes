@@ -9,6 +9,11 @@ Humans do stupid things because we can guess and create meanings. Other life-for
 In [[Ludwig Lachmann |Lachmann]]’s parlance, the Portfolio Structure exists apart from the Plan Structure (and the Control Structure) because humans use symbols—the two [[1-1a2e11 Nothing objectively represents the represented |necessarily deviate]] from each other. But free market forces coordinate the triad, because [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented. |we communicate knowledge]]. In showing how the representer represents the represented in free market, Lachmann is taking [[Daniel Everett |Everett]] and Peirce further. #symbols 
 - [[1-1a2e11 Nothing objectively represents the represented]]
 - [[13-1a3a1c A new form of evolutionary processes emerges with money—memes become accountable with money, although not exhaustively]] #revisit  
+- [[13-1a3a2d6 There is no perfect money]], but investment will be primarily about value investing when the money is free market money. When your money is fiat, fundamental approach doesn’t work that much (unless it’s really cheap). #revisit 
+	- <> [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]] because of intervention #revisit 
+	- <> [[2-1b4 Not fighting can win you the battle]]—you don’t have to stick with traditional equity market
+		- <> [[2-2d Gresham’s Law generalized—the bad practice drives out the good]]
+	- <> [[12-1e4 Nothing is objectively and independently good]]
 
 Remember: [[1-1a5b4.5 Truth is about correspondence with reality|truth is about correspondence with reality]].
 

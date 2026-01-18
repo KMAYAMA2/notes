@@ -176,6 +176,7 @@ date: 2025-12-21
 ### You've got more time than you think
 - Although you may trade frequently, the wind should be at your back. If all else fails, a long-term hold should pull you through. And **the only consistent, prevailing wind in the investment world is that of the present value of future cash flows**.
 	- <> [[13-1a3a1i The market’s encouragement of successful forecasters fosters a relation of final equilibrium between present capital value and actual future rents]] #revisit 
+	- <> [[13-1a3a2e8 The capital value—the “price of the good as a whole”—of any good at any time is based on expectations of future rental prices]]
 - I don't run a mutual fund—I need control over what sort of investor becomes a client
 - Increasing firm assets is of little direct benefit to an individual client
 	- <> [[13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others]] #revisit 

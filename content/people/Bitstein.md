@@ -15,5 +15,6 @@ date: 2025-02-06
 
 # On the Secondary Media of Exchange
  *Read [[Ludwig von Mises |Mises]]’ Human Action, Chapter XVII, Section 17.* #revisit 
+ <> [[13-1a3a2d6 There is no perfect money]]
 - “To ignore secondary media of exchange is to effectively believe we are in the ERE/general equilibrium (of course, money wouldn't even be needed then), because it assumes that the current money will just remain the most marketable MoE.”
 - “As I pointed out before, someone could make an entrepreneurial error if the good they thought would make a good MoE turns out to be useless, but it's still a MoE. They acquired the good for that purpose.”

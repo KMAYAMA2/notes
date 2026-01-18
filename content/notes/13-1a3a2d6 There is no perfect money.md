@@ -6,6 +6,9 @@ E.g., Bitcoin cannot escape metapolitical questions—deciding what kind of tech
 Previous:
 - [[13-1a3a2d4 The purchasing power of money in terms of all other commodities is continually changing, and there is no way to measure such changes]]
 
+Next:
+- [[13-1a3a2d7 There is no perfect market]]
+
 Related:
 - [[12-1e0 Everything changes]]
 - [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]

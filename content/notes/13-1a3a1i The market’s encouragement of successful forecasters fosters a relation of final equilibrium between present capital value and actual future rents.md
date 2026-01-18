@@ -1,8 +1,9 @@
 Speculators are always at the whim of market selection mechanism because uncertainty can never be eliminated. In other words, speculation is an inherent and continuous feature of the market because of the uncertainty.
 
-“The equilibrium relation between present capital value and *actual* future rents is only a long-range tendency fostered by the market’s encouragement of successful forecasters. This relation is a *final* equilibrium, similar to the *final equilibrium* prices that set the goal toward which the day-to-day prices tend. *The price of presently established long-term rents will tend to be equal to the present value of the sum of the expected fluctuating rents for identical goods.* The ever-present uncertainty of the future causes the more able forecasters to gain and the less able ones to lose.”
+“The equilibrium relation between present capital value and *actual* future rents is only a long-range tendency fostered by the market’s encouragement of successful forecasters. This relation is a *final* equilibrium, similar to the *final equilibrium* prices that set the goal toward which the day-to-day prices tend. *The price of presently established long-term rents will tend to be equal to the present value of the sum of the expected fluctuating rents for identical goods.* The ever-present uncertainty of the future causes the more able forecasters to gain and the less able ones to lose.” – [[Murray Rothbard]]
 
 Related:
+- [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented.]]
 - Price *bridges* time
 	- [[13-1a3a2e5 Time component in prices emerges with the introduction of money]]
 - Equilibrium is never achieved in reality #revisit   

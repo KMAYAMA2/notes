@@ -25,6 +25,7 @@ Related:
 - When you know your edge, you can recognize where you need others
 	- [[2-1c3 'Win and help win' always outcompete]]
 	- [[5-1b1a2c0 No theory can exhaust reality]] #develop 
-		- This is why you need others (and money)
+		- This is why you need to learn from others, *and* why we need money
 			- [[9-4b2a1f Two-way debate benefits from criticism]]
 			- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
+			- Put differently, book is market but across time #revisit 

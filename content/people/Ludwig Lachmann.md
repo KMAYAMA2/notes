@@ -28,9 +28,10 @@ date: 2025-07-18
 - portfolio structure is dominated maybe because of the money printing
 - the market force which brings about capital consistency is brought about by consumers who turn themselves into producers
 	- i.e., [[Become A Problem-Solving Artist |artists]]
-- Fiat-based economy—in particular, stock market—is like Russian roulette (20251112)
+- Fiat-based economy—in particular, fiat-based stock market—is like Russian roulette (20251112)
 	- [[1-2g2s7b3 An explanation for how something really works cannot rely on infinity]]
 		- And when playing Russian roulette, the shot not going off should alarm the next (e.g., see [[Warren Buffett]])
+	- People started gaming the intervention regime, and the Portfolio Structure started to deviate from the Plan Structure (e.g., see *[[Mert |The Prison of Financial Mediocrity]]* piece)
 # Capital and Its Structure
 ## Preface
 - In spite of protracted efforts it has proved impossible to find a quantitative expression for capital which would satisfy the rigorous requirements of economic thought. (p. 8)
