@@ -14,7 +14,7 @@ Related:
 - [[3-1c1b You are what you think and you think what you see, and you see what you think]]
 	- Privacy-tech (which include digital *cash* proper) implication is no targeted ads #revisit  
 		- Relate with [[6-3b2 In corporate networks you can only quit |this note]] which mentions *mind-share* #TODO 
-		- This might be unpopular view, but I think in following the Iron Law of Civilization 3.0 (see [[[Li Lu]]), and thinking about what constitutes brand (see [[Warren Buffett]]), brand is necessarily about capturing the mind-share of customers (both current and potential). We don’t decide everything consciously—in most cases, [[1-1a2e5 Cultures nurture minds |cultures nurture minds]], and they’re in general *efficient* (see [[Daniel Everett]] and [[Scott Aaronson]]). In short, I think we will *need* targeted ads. 
+		- This might be unpopular view, but I think in following the Iron Law of Civilization 3.0 (see [[Li Lu]]), and thinking about what constitutes a brand (see [[Warren Buffett]]), brand is necessarily about capturing the mind-share of customers (both current and potential). We don’t decide everything consciously—in most cases, [[1-1a2e5 Cultures nurture minds |cultures nurture minds]], and they’re in general *efficient* (see [[Daniel Everett]] and [[Scott Aaronson]]). In short, I think we will *need* targeted ads. 
 			- Also, an ad cannot capture the whole mind, but only a part of it. #revisit 
 - [[5-2a2 What gets measured gets managed]]
 	- It’s as if the multiverse, via quantum computation, would force us to choose between panopticon (BTC) or privacy (ZEC)

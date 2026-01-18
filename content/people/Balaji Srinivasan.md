@@ -97,7 +97,7 @@
 	- Millions more playlists than albums, millions more Twitter feeds than newspapers
 		- Surface contingency and arbitrariness via flexible bundles
 - International Indians in the 2020s might do what China did in the 2010s
-	- Remember: ecosystems develop very slowly, and then all at once
+	- Remember: ecosystems develop very slowly, and then [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see. |all at once]]
 		- [It won’t be Indian market but Indian network (cryptocurrencies via blockchains)]
 			- [Network over market - because not everything can be price tagged]
 				- Think of Farza, Furqan, Lipsync guy, and AI music guy from buildspace network

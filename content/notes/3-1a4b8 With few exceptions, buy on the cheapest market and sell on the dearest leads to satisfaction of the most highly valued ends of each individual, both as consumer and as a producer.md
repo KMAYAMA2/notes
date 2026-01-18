@@ -4,5 +4,5 @@ Related:
 - [[13-9 Man allocates everything so that each unit goes into the use with the highest prospective marginal utility on his value scale—i.e., in accordance with the principle of maximizing his psychic income]]
 - [[13-1a3a2d3 Value scales are unified individually—they become more transparent, more measurable, and more comparable to the individual—with money, although never exhaustively]]
 - [[13-4d4 Value is subjective]]
-- Low-cost producers can stay in the game
+- Low cost producers can stay in the game
 	- [[2-1b2 Play in different time horizon. That is, in the long-run.]]

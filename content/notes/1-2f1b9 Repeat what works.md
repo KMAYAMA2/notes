@@ -9,6 +9,7 @@ date: 2025-08-18
 
 Related:
 - **[[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]**
+	- Don’t be the guy who uses a hammer as his only tool and approach every complex problem as if it was a nail
 - [[2-1a1a4b Compounding is usually too slow to notice, making it easier to discount both how much progress and catastrophe are achievable]]
 - [[5-1a Be nice]]
 - [[5-2b0 You are what you do repeatedly]]

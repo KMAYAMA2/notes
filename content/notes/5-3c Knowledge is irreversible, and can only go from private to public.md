@@ -13,5 +13,11 @@ Related:
 - Free market force coordinates the triad, don’t impede them—otherwise everything (i.e., the Plan Structure, the Portfolio Structure, and the Control Structure) gets distorted
 	- [[10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented.]]
 	- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
+- Be early (i.e., the minority):
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+	- Only the low cost producers can operate indefinitely, and they will necessarily become dominant in that market. At later stage of the cycle the target audience is big enough to offset lowered margin. And consumers benefit from lower price. (20260114)
+		- [[2-1c1a2 The attract-extract cycle - Bigger networks have less to gain and more to lose by interoperating]]
+		- [[2-1c1a4 'Commoditize your complement' tactic]]
+		- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 
 #develop 

@@ -11,6 +11,7 @@ Next:
 Related:
 - [[3-1c3e1 There are emergent problems which will emerge as you go about life, that can only be accounted for with new explanations]]
 - [[4-1c1 Don’t prematurely zoom in during conversation, because he might not be self-conscious of the real problems]]
+- **[[5-1b1b2 Flow to the most interesting, because the Fun Criterion doesn’t distinguish what’s fun via categories. Fun just means fun.]]**
 - [[5-1b1b2b Don't try to be the best. Be the only.]]
 - [[7-2a Be opportunistic and flexible globally rather than inverting locally and prematurely optimized]]
 - [[7-2b The more of a noob you are locally, the less of a noob you are globally]]

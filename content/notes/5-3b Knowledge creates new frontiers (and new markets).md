@@ -1,3 +1,5 @@
+> “New markets do emerge, but they develop slower than acutely [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives. |incentivized]] futurists believe. Demographics and total addressable market (TAM) are too often marketing gimmicks not grounded in reality.” – [[Michael Burry]] (>< e.g., Frank Braun’s derivation of ZEC price?) #revisit 
+
 From [[Warren Buffett]] (p. 21) and [[Charlie Munger]] (p. 29):
 - Tech is usually unpredictable, and only few will win big (p. 21) 
 	- [[2-1a1a4a 'Probabilistic thinking' - Do not assume miracles!]]

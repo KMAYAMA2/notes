@@ -7,6 +7,8 @@ Related:
 	- E.g., are LLMs worth accelerating?
 - [[3-1d5 You can question the adequacy of the tools at hand insofar as it relates to some specific problems of yours. You don’t evaluate them ‘comparatively' based on its ‘utility’ without explanations.]]
 - [[5-1b2 Don’t invest in prediction, because knowledge is inherently unpredictable]]
+- [[8-4 LLMs]]
+	- SMLs and ASICs *need* LLMs (at least according to my understanding as of 20260114)
 
 Contradictory?
 - [[4-1a5 Don’t get obsessed with the failure rate, because what matters is where it’s going and not where it came from]]

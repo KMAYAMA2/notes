@@ -1134,7 +1134,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[2-1b3 Play different games. Avoid competition.]]
 	- [[11-3.1 'Equilibrium' - Anything innovative escapes the Invisible Hand]]
 		- Specifically, it challenges the fundamentality of the notion of [[13-10 The law of the diminishing marginal utility of money applies only to the valuations of each individual person |DMU]] #revisit 
-- Pick (or be) the low-cost producer (p. 149)
+- Pick (or be) the low cost producer (p. 149)
 	- [[3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer]]
 	- [[7-1d Create something simpler-faster-cheaper for things we’ve been doing for thousands of years]]
 	- E.g., GEICO, The Nebraska Furniture Mart (p. 150)
@@ -1189,7 +1189,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 - Permanent problem ≠ temporary setback. Differentiate the two. (p. 159)
 - Bad news—if you see one, usually there’s more (p. 159) 
 	- relate with sloppy one thing likely means sloppy elsewhere memos and notes, and anything else related (e.g., bad news is easy to detect and likely gets exaggerated notes)
-- Share of mind >>> Share of market (p. 160) #revisit 
+- Share of mind (mind-share) >>> Share of market (p. 160) #revisit 
 	- [[3-1c1b You are what you think and you think what you see, and you see what you think]]
 	- [[3-1c1b0 You are what you consume (read)]]
 	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
@@ -1695,7 +1695,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Sugar isn’t differentiated (p. 15)
 	- *Unless someone does it* #revisit 
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
-##### Some make money but only if they are the low-cost operator (p. 15)
+##### Some make money but only if they are the low cost operator (p. 15)
 ##### Or find a protected niche (p. 15)
 ##### Or when supply is tight (p. 15)
 ##### But [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run |it may take time]]
@@ -1830,7 +1830,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Experience indicates that the best business returns are usually achieved by companies that are doing something quite similar today to what they were doing five or ten years ago. That is no argument for managerial complacency. Businesses always have opportunities to improve service, product lines, manufacturing techniques, and the like. (p. 31)
 	- [[1-2f1b9 Repeat what works]]
 	- [[5-1b4a0 We overestimate the technological impact in the next 10 years, but underestimate the next 20 (and often right about 15 years later)]]
-	- Put differently, strive to be the low-cost operator
+	- Put differently, strive to be the low cost operator
 		- See also p. 10, p. 13, p. 15, and p. 149
 		- See [[Jeff Bezos]] and [[Sam Walton]]
 - Our managers have produced extraordinary results by doing rather ordinary things—but doing them exceptionally well. Our managers protect their franchises, they control costs, they search for new products and markets that build on their existing strengths and they don’t get diverted. They work exceptionally hard at the details of their businesses, and it shows. (p. 31)

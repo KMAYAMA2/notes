@@ -1,3 +1,12 @@
+> “Not trying to be all things to all people is so important because if you try to be all things to all people, you’re not anything to anybody.” – Todd Graves
+
+But don’t be too eccentric—focus on niche group but see what’s trending there.
+
+Related:
+- [[3-1c1b You are what you think and you think what you see, and you see what you think]]
+- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
+- [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
+- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]
 
 - [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]]
 

@@ -51,6 +51,24 @@ date: 2025-12-21
 		- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
 		- [[4-1a4b8c When you outsource your thinking, you can reap the benefits of multitasking without any downsides.]]
 			- Only if you do the work at meta-level (i.e., if you outsource everything, no one really needs you) #revisit 
+## [Burry with Dwarkesh, Patrick McKenzie, and Jack Clark (co-founder of Anthropic)](https://post.substack.com/p/the-ai-revolution-is-here-will-the) (20260110)
+##### Q. The biggest surprises to date
+- I expected ASICs and SLMs to be dominant by now, and that we would have moved well beyond prompt engineering. Perhaps the Nvidia infatuation actually held players back. Or anticompetitive behavior at Nvidia did.
+	- Viz., ==the Portfolio Structure affecting the Plan Structure and [[6-3b2 In corporate networks you can only quit|the mind-share]]==
+	- But I think *Nvidia dominance still does make sense if major players’ LLMs keeps evolving, and if their tech stack is dependent on Nvidia designed chips, and if they are way better than minor players’ models (which seems to be the case)*. 
+		- And Jack Clark [[5-1b1a8a1 Prediction ≠ Knowledge (because prediction requires knowledge) |mentions]] Claude Code as an example—a coding agent that derives its underlying capabilities from a big pre-trained model.
+##### Q. Early over-investment, mid-cycle shakeout, or something structurally different from past tech booms?
+- I do see it as different from prior booms, except in that the capital spending is remarkably short-lived. Chips cycle every year now; data centers of today won’t handle the chips of a few years from now. **One could almost argue that a lot of this should be expensed, not capitalized. Or depreciated over two, three, four years.**
+	- See [[Warren Buffett]] on Goodwill
+		- [[5-2a0 Know what to measure]]
+			- [[5-2a3 People fight over tangibles]]
+- Another big difference is that private credit is financing this boom as much as or more than public capital markets. This private credit is a murky area, but the duration mismatch stands out—much of this is being securitized as if the assets last two decades, while giving the hyperscaler outs every four to five years. This is just asking for trouble. Stranded assets. #revisit 
+	- [[5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run]]
+		- If you keep rolling, you’ll be expecting too much all the time #develop 
+	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
+	- [[13-8a2.1 Money is the present good par excellence]]
+##### Q. Why many workers aren’t using AI (yet)—What sector changes next? What change would make this visible in earnings, employment, or prices rather than demos?
+
 # BARRON’S
 ## Eternal Values (19991011)
 - Among the places to look: stocks that have been trampled down, ==trading at deep discounts based on various criteria==; ==industries under severe stress==; ==small-capitalization stocks, which rarely have been cheaper relative to their bigger brethren==

@@ -1,5 +1,7 @@
 #reflexivity 
 
+Mind-share >>> Market-share
+
 Next:
 - [[3-1c1b0 You are what you consume (read)]]
 - ***[[3-1c1c You must build your own media for yourself]]***
@@ -8,6 +10,9 @@ Related:
 - [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
 	- [[5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.]]
 		- [[6-4 Proper epistemology should lead to a proper state of mind]]
+- [[1-1c You need the best available epistemology because it affects how you see the world]]
+- [[6-3b2 In corporate networks you can only quit]]
+- [[7-1b4b0 Tech does what culture does to you. You see what could've been based on the tech you know.]]
 
 ---
 To do great things, think great things.

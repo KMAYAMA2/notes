@@ -1,5 +1,7 @@
 > “States lose control over money not because people rebel, but because people leave . . . The future of money is not decided by ideology. It is decided by exit.” – @arjunkhemani
 
+You *can* quit. But remember [[Li Lu]]’s Iron Law of Civilization 3.0—so you better stick with available corpo network and wait for (or build) the [[8-1c4 ‘Killer application’ is knowledge-technology-universality that begets reflexivity between app-platform-people by pushing people over the threshold |killer-app]] to emerge meanwhile.
+
 Next:
 - ***[[6-3b2a Interoperability implies compounding]]***
 	- In real life you quit but that quitting transfers one way or other to your next adventure because everything is connected 
@@ -17,9 +19,13 @@ Related:
 - [[5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)]]
 	- It can go the opposite way
 		- E.g., as the tax base shrinks, states raise taxes and intensify enforcement on those who remain
-	- 巨大企業による意識的なmind-share 独占 → その分野におけるイノベーションの数自体が減る (<> [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]])
+	- 巨大企業による意識的なmind-share 独占 (<u>I don’t think this itself is a problem if that big corpo is the best one at what it does</u>) → その分野におけるイノベーションの数自体が減る (<> [[2-2d Gresham’s Law generalized—the bad practice drives out the good |Gresham’s Law]])
 		- [[2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.]]
+		- [[2-1c1 'Comparative advantage' - If others can do it, let them]]
 		- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]] #develop 
+		- [[8-2d3 You can vote with ballot, wallet, or foot (physical & digital)]]
+			- Just that it’ll be individual responsibility
+				- <> [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]]
 
 - [[6-3a1 You have to own your own creation. The difference between creator and influencer is the gap of digital property rights.]]
 	- User ownership in corporate networks is an illusion

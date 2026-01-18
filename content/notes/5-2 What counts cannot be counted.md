@@ -4,6 +4,8 @@
 
 > “We did a survey of developers at Anthropic and saw a self-reported 50% productivity boost from the 60% of those surveyed who used Claude in their work. But then things like the METR study would seem to contradict that. We need better data and, specifically, instrumentation for developers inside and outside the AI labs to see what is going on.” – Jack Clark, co-founder of Anthropic, on whether AI tools actually improve productivity or not (20260110)
 
+> “Construction in progress (CIP) is now an accounting trick that I believe is already being used. Capital equipment not yet “placed into service” does not start depreciating or counting against income. And it can be there forever. I imagine a lot of stranded assets will be hidden in CIP to protect income, and I think we are already seeing that potential.” – [[Michael Burry]] (20260110)
+
 Negative evidence and events that don’t happen, matter when something implies they should be present or happen. 
 
 Next:

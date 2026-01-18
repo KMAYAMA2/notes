@@ -10,3 +10,5 @@
 - [[8-2b3 On-chain gets you immutability, verifiability, monetization. Just as online gets you distribution-sharing-collaboration.]]
 	- You can't fake the onchian data unless you commit 51% attack
 		- [[8-2b2.1 Blockchain technologies allow composable forms of trust. Trust can be digitized.]]
+
+- [[4-1e3 Convex utility in losses—when you’re trapped, your risk preferences change. Beware a man who has nothing to lose.]]

@@ -23,5 +23,7 @@ Related:
 - Respect the Iron Law of Civilization 3.0
 	- [[1-1a5a3 Knowledge is about knowing the edge]]
 	- [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
+- [[6-3b2e Network effects + Feedback loops + Composability = Exponential growth]]
+- [[6-3b2 In corporate networks you can only quit]]
 - [[8-1b3b When software is in charge, designers can take full advantage of the expressivity of software]]
 - [[8-2d1b Forwardable insights can lead to network effects]]

@@ -1,6 +1,11 @@
+> “Coding has a nice property of being relatively “closed loop”—you use an LLM to generate or tweak code, which you then validate and push into production. It really took the arrival of a broader set of tools for LLMs to take on this “closed loop” property in domains outside of coding—for instance, the creation of web search capabilities and the arrival of stuff like Model Context Protocol (MCP) connectivity has allowed LLMs to massively expand their “closed loop” utility beyond coding.” – Jack Clark, co-founder of Anthropic (20260110)
+
 Digital with brand (e.g., Google) >>> Physical without brand (e.g., commoditized business)
 
 Related:
+- Little connectivity goes long way
+	- [[3-1d7 'Escape velocity' - Little expressivity goes long way]]
+
 - [[2-2b 'Critical mass' & 'Activation energy' & 'Alloying' & 'Catalysts' - Look for, or create, lollapalooza effects]]
 	- [[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]
 
