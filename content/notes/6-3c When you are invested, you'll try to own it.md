@@ -1,3 +1,5 @@
+> “Never trust a chef who won't eat his own food” – [@meta_alchemist](https://x.com/meta_alchemist/status/2009573644771684476)
+
 #own #develop 
 
 Especially when the ownership itself becomes the problem:

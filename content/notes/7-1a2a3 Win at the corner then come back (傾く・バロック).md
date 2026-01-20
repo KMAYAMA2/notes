@@ -43,7 +43,7 @@ Related:
 	- Similar to woke (both are political network)
 - Remember Instagram vs Kodak
 	- The latter was 1,000x
-		- Small team can do much more
+		- Small team can do much more <> [[2-1a0c1d2 Less is often more]]
 			- Tough to follow the following when your team is big ([[12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex]]):
 				- [[RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.]]
 - 物語の立体化としてのバロック建築およびベルニーニの台頭

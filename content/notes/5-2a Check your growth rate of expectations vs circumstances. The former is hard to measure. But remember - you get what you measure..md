@@ -1,6 +1,6 @@
 > “Charlie and I have always preferred a lumpy 15 percent to a smooth 12 percent return.” – [[Warren Buffett]] #develop 
 
-Have low expectations, and no have masterplans, and change your expectations when the facts change. 
+Have low expectations, and have no masterplans, and change your expectations when the facts change. 
 
 Get rich slow, and the same principle applies to businesses as well.
 

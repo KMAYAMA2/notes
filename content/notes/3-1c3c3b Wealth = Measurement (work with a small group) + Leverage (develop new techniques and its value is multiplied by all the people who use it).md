@@ -8,6 +8,8 @@ Milan became the fashion capital of Italy due to its production capacity, in con
 
 Digital product is easier to mass-produce than physical product. But be it digital or physical, you need the brand—prioritize avoiding commoditized businesses.
 
+And if you want to keep at it, you have to become the low cost operator (e.g., see [[Henry Ford]] and [[Sam Walton]]).
+
 Next:
 - [[3-1c3c3c Tech is for technology as well as for technique (技術)]]
 

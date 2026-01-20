@@ -23,3 +23,8 @@ Related:
 	- Summon unconscious by intentional rest
 		- [[1-1a1b The mind includes inexplicit as well as unconscious]]
 		- [[4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.]]
+- Small team can do much more
+	- [[2-1a0c1d2 Less is often more]]
+	- [[3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)]]
+	- [[7-1a2a3 Win at the corner then come back (傾く・バロック)]]
+	- [[12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex]]

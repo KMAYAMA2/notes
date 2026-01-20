@@ -33,7 +33,6 @@ Next:
 Related:
 - [[2-6 You get what you pay for]]
 	- Solving for the wrong variable (i.e., CO2) → The current US electrical grid situation, and the AI buildout is bringing it all to a head → Brownouts and citizens displaced from their homes near waterways.
-
 - I think the purest form of software-hardware reflexivity can be found in the history of money—which can be interpreted as the history of de-indexing: #reflexivity #revisit 
 	- Money itself changes: 
 		- pre-gold → gold → fiat money → bitcoin → zcash 
@@ -43,6 +42,8 @@ Related:
 		- [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need]]]
 		- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
 		- [[8-2b2a 'Technologies that change society are technologies that change interactions between people']]
-
-- [[8-1c2 Robotics then software (likely in that order, although not necessarily) will replace Uber, Amazon, Doordash]]
-	- [[8-1c1 Potential scenario - Digital frontend + Human backend ⇒ Digital frontend + Digital backend]]
+- The hardware can control the hardware too
+	- [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need]]
+	- [[3-1c2e4.2 'Supply and demand' - Physical is getting expensive]]
+	- [[8-1c2 Robotics then software (likely in that order, although not necessarily) will replace Uber, Amazon, Doordash]]
+		- [[8-1c1 Potential scenario - Digital frontend + Human backend ⇒ Digital frontend + Digital backend]]
