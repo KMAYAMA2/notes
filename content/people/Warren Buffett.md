@@ -2180,7 +2180,7 @@ I personally think “microeconomics” in the context used here can be construe
 - [[9-2a3b0 Imagine what happens when it goes wrong—think first of the downside instead of the upside]]
 ##### Some guidelines on how to win in insurance, which applies to other areas as well (p. 66)
 - The winners [[2-1b2b1.2 Anything worth doing is worth doing to excess |unfailingly stick]] to three key principles:
-	1. *Accept only those risks that you can properly evaluate, evaluate all relevant factors including remote loss scenarios, and ignore market-share considerations and be sanguine about losing business to competitors that are offering foolish prices or policy conditions*
+	1. *Accept only those risks that you can properly evaluate, evaluate all relevant factors including remote loss scenarios, and ignore market share considerations and be sanguine about losing business to competitors that are offering foolish prices or policy conditions*
 		- [[3-1a4b1.2 Define and stay within your circle of competence]]
 		- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
 		- [[5-2a0 Know what to measure]]

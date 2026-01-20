@@ -8,3 +8,6 @@ Related:
 	- [[12-1e3 There is no should in nature]]
 - [[RUL3 - Invert, always invert]]
 - [[RUL3 - When automating, make sure the initial constraints and requirements are not stupid-dumb-bullshit.]]
+- Class sizes force lowest-common-denominator teaching
+	- <> [[2-2d Gresham’s Law generalized—the bad practice drives out the good]]
+		- <> Homeschool your kids

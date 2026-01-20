@@ -1,6 +1,6 @@
 #reflexivity 
 
-Mind-share >>> Market-share
+Mind-share >>> & → Market share
 
 Next:
 - [[3-1c1b0 You are what you consume (read)]]
@@ -54,4 +54,8 @@ Related:
 - [[3-1c1d3 Social media makes news sentiment negative]]
 
 ---
+Mind-share is probably the leading indicator of market share
 
+Related:
+- [[7-1a2b For startups, growth is a constraint much like truth]]
+- [[7-1a5 Startups work on technology because great ideas made viable by newest tech (itself a new technology) is the best source of rapid change and growth]]

@@ -35,5 +35,15 @@ Related:
 	- Intervention by fiat, ironically, might accelerate NgU and subsequently adoption (e.g., see [[Bitstein]])
 		- <> [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
 
+---
+> “Capitalism works not just by allowing upward mobility, but by accelerating its downward equivalent.” – [[Nassim Taleb]]
 
+When Gresham’s Law (which is basically a form of free market mechanism) is intervened, we get *technofeudalism*. The problem is the stickiness. 
 
+And when it’s sticky you get less diversity (e.g., Rory Sutherland [complains about sourdough](https://x.com/rorysutherland/status/2012617316937224590)).
+
+Related:
+- [[6-3b2 In corporate networks you can only quit]]
+	- Maybe I should separate corporate networks which you can quit from ones you can’t, and call the latter *coercive network* (or imperial network). This type of network uses soft coercion (instead of brute force) nowadays. So you don’t really feel it. #develop 
+		- <> [[RUL3 - It’s useful to ask why about things that seem wrong, and especially ones that seem wrong but somehow funny.]]
+		- <> [[6-3b2.4a Less volition within nation states leads to negative feedback loops of more coercion]]

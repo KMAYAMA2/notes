@@ -29,3 +29,4 @@ Related:
 - [[8-1e You have to go beyond skeuomorphism. Native means novelty.]]
 	- But usually, new market doesn’t replace the previous one at one-go
 		- [[13-2b The accumulated stock of capital goods imposes a conservative force on present-day action]]
+- Substack does roughly $45M in annual revenue today. The global media and entertainment market is $3.5 trillion. $45M × 1000 = $45B. That’s 1.3% of the current market share.

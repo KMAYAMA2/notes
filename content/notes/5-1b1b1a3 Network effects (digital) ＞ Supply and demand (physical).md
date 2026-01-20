@@ -39,3 +39,15 @@ You can’t be at many places at the same time in the [[8-2d2a You can’t be a 
 		- [[6-3b2d Composability is software's version of compounding interest-effect, because composability saving keystrokes implies compounding]] #develop 
 - [[3-1a4b2 Price can only convey so much]] #develop 
 	- Price is not a simple reflection of the supply and demand
+
+---
+Standard market-sizing fails when the supply side changes. Long podcasts are evidence that attention isn’t inherently short—_supply_ was missing ([source](https://www.youtube.com/watch?v=Kdql4I-NJ0M))
+
+“10x bigger” mechanism: big tech shifts often expand markets by an order of magnitude (e.g., on-prem → cloud: PeopleSoft→Workday, Siebel→Salesforce; Databricks could be “10x Oracle”). 
+
+Substack does roughly $45M in annual revenue today. The global media and entertainment market is $3.5 trillion. $45M × 1000 = $45B. That’s 1.3% of the current market share ([source](https://x.com/aakashgupta/status/2012254109173473551)).
+
+Related:
+- [[5-3b Knowledge creates new frontiers (and new markets)]]
+- [[7-1 Create what people want or will want]]
+- [[8-1c Look for inherently digital-native areas and concepts]]

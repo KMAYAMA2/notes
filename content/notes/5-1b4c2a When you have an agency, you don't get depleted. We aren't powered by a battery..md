@@ -18,3 +18,7 @@ Previous:
 Related:
 - [[1-1c6a1b Your ability to detect surprises will get better, and you will never be short of them]]
 - [[5-1b1b1a Power-law curiosity - be professionally curious about a few topics and idly curious about many more]]
+- Distribution economics and gatekeeping have always been the constraint. Creative talent never was. Podcast and Spotify proved there’s demand for long-form content.
+	- [[3-1c2e4.1 'Scarcity' - Knowledge is rare but never a scarce resource]]
+	- [[8-1c4d2 Web2 writing is enmeshed in Web2 incentive structure]]
+	- [[13-4e Knowledge is never a scarce resource, hence never a means or a good]]
