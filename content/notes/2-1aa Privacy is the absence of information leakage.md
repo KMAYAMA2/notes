@@ -15,6 +15,10 @@ Remember Polyphemus and Odysseus
 Related:
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]] #develop 
 	- Viz., indistinguishable nobody ≠ unidentifiable nobody
+		- ==Privacy is de-indexing but stops before symbolization, and hence similar to the state of fungibility achieved by entanglement== #revisit 
+			- [[10-2e4 Other times (in 'our universe') are just special cases of other universes. There is no demarcation between other times and other universes in the multiverse.]]
+			- [[10-2e4a There is no such thing as 'which half' would see 'heads', any more than there is an answer to the question 'which one am I']]
+			- [[10-2g3d1b 土器そのものの象徴化即ち威信財の登場]]
 - [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 	- With zero-knowledge proofs, adversarial quantum attacker wouldn’t know where to start the attack
 - [[3-1c1b You are what you think and you think what you see, and you see what you think]]
@@ -31,5 +35,5 @@ Related:
 - [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 - Going public is one-way door #revisit 
 	- [[5-3c Knowledge is irreversible, and can only go from private to public]]
-- Privacy is optional with zcash—this allows its user to tap into his *brand*
+- Privacy is optional with zcash (*optional privacy*)—this allows its user to tap into his *brand*
 	- [[7-1b4b4c Public Networked Learner must use composability with ownership and compounding to its advantage]] #develop 

@@ -25,5 +25,6 @@ Related:
 	- ANY past mistakes (i.e., doesn't have to be 'your' mistakes only) #categories 
 		- **[[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]**
 			- [[7-1a2 You can also make their problem as your problem by using growth as a guidance.]]
-
-
+E.g.,
+- [Why Greenland, and Why Now?](https://x.com/Banbo_Insight/status/2013400423764500890) (20260120)
+	- President Andrew Johnson (who bought Alaska in 1867) eyed it, and right after WWII in 1946, President Truman actually offered Denmark $100 million (an astronomical sum in today’s value). In other words, Trump’s proposal is not an erratic outburst, but the completion of a 100-year-old unfinished project—the final piece of "MAGA (Make America Great Again)."

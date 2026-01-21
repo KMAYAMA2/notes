@@ -21,7 +21,13 @@ Related:
 Dangerous combination that makes you overoptimize ([[8-1c5 Look for Lollapalooza, or system equivalent of critical mass, or chemical equivalent of activation energy, alloying, and catalysts]]): 
 - [[2-1a1a5 'Narrative instinct' - Often the right explanation is one with the least intent involved]]
 - [[2-1a1a6 'Tendency to overgeneralize from small samples']]
+- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 - [[2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.]]
 - [[2-1a6c1 'Tendency to minimize energy output' - Align your incentives properly, then (almost) everything will follow]]
+
+E.g.,
+- [Bearstone on history of global payments](https://bearstone2023.substack.com/p/history-of-global-payments)
+	- “In the 1960s through the 1980s, the financial system had all the ingredients to design something closer to what blockchains or real-time payment systems offer now. <u>Instead, it chose to optimize legacy workflows</u>. The result was a two-lane electronic road: one lane wide, slow, and cheap for the masses; the other narrow, fast, and expensive for institutions. That divergence is exactly the gap that later “internet-native money” systems are now trying to close.”
+		- Don’t be like that at the individual level <> [[8-1b Look for places where we’ve taken an offline experience and put it online (physical ⇒ intermediate) but haven’t fundamentally innovated yet (⇒ internet-native)]]
 
 #MentalModelsNumeracy 
