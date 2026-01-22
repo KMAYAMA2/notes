@@ -2,22 +2,24 @@
 title: About this project
 date: 2024-07-23
 ---
-I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I’m [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |exploring connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance, history (biographies), culture, linguistics (semiotics), productivity, etc—basically everything related to life.
+I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I’m [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |exploring connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance (value investing), history (biographies), culture, linguistics (semiotics), productivity, etc—basically everything related to life.
+
+See what I'm working on [[now |right now]].
 
 For starters:
 - Check my {{count:notes}} [Notes](https://kenti.xyz/notes/)—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
+- Check my {{count:essays}} [Essays](https://kenti.xyz/essays/)—where I explore the connections between [Notes](https://kenti.xyz/notes/).
 - Check my {{count:people}} [People](https://kenti.xyz/people/)—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
-- Check my {{count:essays}} [Essays](https://kenti.xyz/essays/)—longer form writing.
-- What I'm currently working on [[now |right now]].
 
-The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.
+*The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.*
 
 ---
 ###### **Why all these 'atomic' notes instead of blog posts?**
 - Because [[3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them |there is nothing absolute and necessary in the connections I make between ideas]]
 - Because [[3-1c2e 情報は関係性の中にある - Meaning is often in relation to other things |meaning is often in relation with other things]]
 - Because [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |connecting ideas is a way to create knowledge]]
-- However, [[3-1c2e0 There is no minimum idea |there is no minimum idea]]
+###### **Are they really ‘atomic’?**
+- No, because [[3-1c2e0 There is no minimum idea |there is no minimum idea]]
 
 ---
 ###### **Some good starting points if you are interested in any of these fields**:
@@ -30,7 +32,7 @@ The numbering at the beginning of each note (e.g., 7-1a) is a manually implement
   - [[4-1a4b2b2 History repeats and reverses |History repeats and reverses]]
   - “[[9-4b2a1d A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars |A group of people who doesn't know who they are and where they came from won't make it to the moon or Mars]]” – Balaji
 - **Tech**
-  - You don't have to decide—you can let [[7-1b4f Let the tech decide where to go (both intellectually and physically) |the tech decide]].
+  - You don't have to decide—you can [[7-1b4f Let the tech decide where to go (both intellectually and physically) |let the tech decide]].
   - Tech and the problem-situation is [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive |reflexive.]]
 - **Evolution**
   - 3.8 billion years—life and evolution’s [[5-1b4b1 Life’s evolution’s superpower is its time horizon. 3.8 billion years of miniscule changes compounded. |superpower]] is its time horizon.

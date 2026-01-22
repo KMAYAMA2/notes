@@ -15,20 +15,20 @@ Related:
 - [[7-1b4b0 Tech does what culture does to you. You see what could've been based on the tech you know.]]
 
 ---
-To do great things, think great things.
+> “Great thoughts only on Friday afternoons. *“What will be the role of computers in all of AT&T?”, “How will computers change science?”, “What will be the impact of computers on science and how can I change it?”, “How is it going to change Bell Labs?”* I thought hard about where was my field going, where were the opportunities, and what were the important things to do. Let me go there so there is a chance I can do important things.” – Richard Hamming
 
-Related:
-Richard Hamming: *"Great thoughts only on Friday afternoons"*
-- “What will be the role of computers in all of AT&T?”, “How will computers change science?”, “What will be the impact of computers on science and how can I change it?”, “How is it going to change Bell Labs?”
-	- *"I thought hard about where was my field going, where were the opportunities, and what were the important things to do. Let me go there so there is a chance I can do important things."* ([[7-1b4f Let the tech decide where to go (both intellectually and physically)]])
-		- [[QUE5 - Ask “am I working on what I most want to work on” because per-project procrastination is far worse than daily procrastination]]
-			- [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
-				- [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
-					- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
-						- [[7-1b5a You can create problems. Not in the sense of causing problems, but literally creatively creating them. There are good problems and bad problems. Work on and solve good problems.]]
-							- [[7-1a5 Startups work on technology because great ideas made viable by newest tech (itself a new technology) is the best source of rapid change and growth]]
+To do great things, think great things. 
 
 Bill Gates still created time and space (twice a year) to seclude himself for a week and do nothing but read articles (his record is 112) and books, study technology, and think about the bigger picture even during the busiest and most frenetic time in the company’s history.
+
+Related:
+- [[3-1b2 Use the Fun Criterion to filter what problems to work on]]
+- [[7-1a1a3 If you know that others can solve certain problems, let them. Only work on important problems worth focusing on.]]
+- [[7-1a5 Startups work on technology because great ideas made viable by newest tech (itself a new technology) is the best source of rapid change and growth]]
+- [[7-1b4f Let the tech decide where to go (both intellectually and physically)]])
+- [[7-1b5a You can create problems. Not in the sense of causing problems, but literally creatively creating them. There are good problems and bad problems. Work on and solve good problems.]]
+- [[QUE5 - Ask “am I working on what I most want to work on” because per-project procrastination is far worse than daily procrastination]]
+- [[QUE5 - What’s the best thing you could be working on, and why aren’t you]]
 
 ---
 You are what you read. You think like who you follow. 
@@ -59,3 +59,8 @@ Mind-share is probably the leading indicator of market share
 Related:
 - [[7-1a2b For startups, growth is a constraint much like truth]]
 - [[7-1a5 Startups work on technology because great ideas made viable by newest tech (itself a new technology) is the best source of rapid change and growth]]
+
+---
+> “We know very powerful things are coming and our ability to exercise agency about them is enlarged by having pre-built systems and processes that can be leveraged by them. The less we build that stuff, the more the character of these AI systems will condition our view of what is optimal to do. In a sense, thinking hard about what an AI-filled world will be like and building institutions for it is one of the best defenses against disempowerment.” – Jack Clark (20260119)
+
+Otherwise the ‘average’ will take over the mind-share. It’s about [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery. |agency]]. It’s about how bad you want it.

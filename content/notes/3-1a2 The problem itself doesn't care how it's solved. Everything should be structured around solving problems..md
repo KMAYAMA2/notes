@@ -13,7 +13,7 @@ Related:
 - [[3-1c3c4 'Tendency to distort due to liking or disliking' - Never be ashamed of citing a bad author if the line is good.]]
 - [[5-2c2b1 Focus on the fundamentals, on the deeper ideas closer to abstract knowledge, on what matters, and build yourself (including technology) around it]]
 - [[12-1e3 There is no should in nature]]
-
+- [[How Popper would use LLMs |LLMs can solve problems]], use them to your advantage.
 
 #MentalModels 
 #categories 

@@ -8,6 +8,7 @@ Because as [[Naval Ravikant |Naval]] says, if you are not 100 percent into it, s
 Related: 
 - Make sure the problem is solvable
 	- [[7-1b4 You can solve problems that just became solvable]]
+- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
 - [[2-1c1 'Comparative advantage' - If others can do it, let them]]
 - [[3-1b1c Occasionally ask 'am I working on what I most want to work on']]
 - [[3-1b2 Use the Fun Criterion to filter what problems to work on]]

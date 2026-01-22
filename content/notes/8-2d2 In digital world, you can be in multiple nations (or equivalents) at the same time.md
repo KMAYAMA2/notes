@@ -1,7 +1,10 @@
-- It's like you can be both a Gryffindor and a Slytherin!
-	- *Or if you prefer exclusivity of physical world, you can program the digital as such*
-		- However, [[8-1e You have to go beyond skeuomorphism. Native means novelty.]]
-			- Specifically, the following can be ***only*** experimented within the digital-native realm: [[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)]]. #develop 
+[[8-1c Look for inherently digital-native areas and concepts |Digital-native]] means [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |multiplicity]] and [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality |concurrency]].
+
+It's like you can be both a Gryffindor and a Slytherin!
+
+*If you prefer exclusivity of physical world, you can program the digital as such*
+- However, [[8-1e You have to go beyond skeuomorphism. Native means novelty.]]
+	- Specifically, the following can be ***only*** experimented within the digital-native realm: [[5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)]]. #develop 
 
 Next:
 - [[8-2d2a You can’t be a multiple in analog world]]

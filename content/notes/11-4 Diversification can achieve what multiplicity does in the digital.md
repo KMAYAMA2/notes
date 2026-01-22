@@ -1,0 +1,1 @@
+But don’t diversify for the sake of diversifying unless it’s a Horcrux.

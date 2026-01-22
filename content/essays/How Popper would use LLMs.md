@@ -23,3 +23,18 @@ LLMs are worth accelerating from problem-solving perspective.
 [2] <> [[5-1b1a8a1 Prediction ≠ Knowledge (because prediction requires knowledge)]] <> [[Judea Pearl]]
 
 [3] Trust (to an extent) and verify (to an extent) <> [[1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated.]]
+
+---
+Related:
+- We need to give LLMs [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery. |agency]]. How? By clearly stating what should be solved:
+	- [[3-1c2 Write down your problems]]
+	- ==[[4-1a4b6a When you write down, you are helping yourself both now and in the future]]== #develop 
+		- [[8-1c Look for inherently digital-native areas and concepts |Digital-native]] means [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |multiplicity]] and [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality |concurrency]]—and the two are shared by both crypto and AI
+	- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
+	- [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
+	- [[9-4c2 'Programs should be written for people to read, and only incidentally for machines to execute.' 'Design to express algorithms, and only incidentally tell machines how to execute them.']]
+	- Each of your bet should have a corresponding problem
+		- Each of your community should be about a corresponding problem <> [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
+		- [[11-4 Diversification can achieve what multiplicity does in the digital]]
+	- Things are more efficient when they know what they are trying to achieve
+		- [[3-1b0a You can think forward and invert insofar as you have a problem to solve]]
