@@ -32,6 +32,8 @@ Related:
 		- [[8-1c Look for inherently digital-native areas and concepts |Digital-native]] means [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |multiplicity]] and [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality |concurrency]]—and the two are shared by both crypto and AI
 	- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
 	- [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
+		- Todd Graves: “Not trying to be all things to all people is so important because if you try to be all things to all people, you’re not anything to anybody.”
+		- >< [[1-1a5b4.2 GTFOL, ASAP]]—too much generalization isn’t good
 	- [[9-4c2 'Programs should be written for people to read, and only incidentally for machines to execute.' 'Design to express algorithms, and only incidentally tell machines how to execute them.']]
 	- Each of your bet should have a corresponding problem
 		- Each of your community should be about a corresponding problem <> [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]

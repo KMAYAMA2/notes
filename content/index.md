@@ -8,7 +8,7 @@ See what I'm working on [[now |right now]].
 
 For starters:
 - Check my {{count:notes}} [Notes](https://kenti.xyz/notes/)—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
-- Check my {{count:essays}} [Essays](https://kenti.xyz/essays/)—where I explore the connections between [Notes](https://kenti.xyz/notes/).
+- Check my {{count:essays}} [Essays](https://kenti.xyz/essays/)—where I explore the connections between [notes](https://kenti.xyz/notes/).
 - Check my {{count:people}} [People](https://kenti.xyz/people/)—summaries and quotes from my favorite thinkers (my recent favorite is [[Sherlock Holmes]]).
 
 *The numbering at the beginning of each note (e.g., 7-1a) is a manually implemented Zettelkasten system. It's how I keep track of each note in my mental palace, but you can disregard them.*
