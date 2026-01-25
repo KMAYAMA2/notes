@@ -7,7 +7,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 - p. 16 → essentiality <> open source code <> win and help win
 - p. 21 → size has limits <> network effects <> brandolini’s law
 - p. 31 → explains why curious people are nice in general?
-- p. 32 → path-dependency (e.g., Taleb and Spitz) <> disliking association
+- p. 32 → path-dependent-ness (e.g., Taleb and Spitz) <> disliking association
 - p. 46 → managers and owners decide the Control Structure, in that way the primary force is between the Plan Structure and the Portfolio Structure, and ===the Control Structure is rather subsidiary?===
 - p. 46 → everything is connected <> study everything <> circle of competence
 	- viz., ==look for mono-linked chains==
@@ -1735,7 +1735,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Overall, however, we’ve done better by avoiding dragons than by slaying them (p. 19)
 	- [[1-1c6a3.1 Really good opportunities aren’t often and won’t last long]]
 ##### All earnings are not created equal—Restricted earnings must often be discounted heavily in capital intensive businesses
-- Path-dependency must be accounted for (p. 19)
+- Path-dependent-ness must be accounted for (p. 19)
 	- [[6-3a2.1 How you achieve something matters as much as what you achieve]]
 #### D. OTHER TOUGH BUSINESSES
 ##### I-have-to-be-smart-every-day-business (p. 20)

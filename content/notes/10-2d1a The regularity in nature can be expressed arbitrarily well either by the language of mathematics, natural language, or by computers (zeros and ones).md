@@ -23,3 +23,8 @@ Related:
 	- E.g., C++ might be *efficient* but not necessarily *better* than others—just that it’s faster in specific computations #revisit 
 - [[13-3a The use of the mathematical concept of function in a science of human action is inappropriate—because it disregards time and knowledge creation (i.e., the multiverse)]] #revisit 
 
+Related Essays:
+- [[How Popper would use LLMs]]
+	- <> [[10-2f1a We are making communication efficient not only combinatorically (syntax) but also semantically (by using context)]]
+	- <> [[10-2g2c1c The primary function of language is communication. Not expression of thought.]]
+	- <> [[10-2g2c1d Computation is nothing more than an aid to communication]]

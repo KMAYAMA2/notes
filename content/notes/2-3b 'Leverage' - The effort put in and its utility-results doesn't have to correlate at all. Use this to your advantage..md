@@ -6,7 +6,7 @@ Next:
 - [[2-3c 'Surface area' - Manage your exposure to volatilities]]
 
 Related:
-- Against sunk-cost fallacy:
+- Against sunk cost fallacy:
 	- [[2-1a0c1 'Failure comes from a failure to imagine failure']]
 		- [[安田隆夫]]: 「挑戦と撤退はセット」
 	- [[2-1a1a3 'Availability heuristic' - We easily recall what is salient, important, frequent, and recent]]

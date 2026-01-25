@@ -6,6 +6,8 @@
 
 > “In all things success depends on previous preparation, and without such previous preparation there is sure to be failure” – Confucius
 
+> “One of the most important pictures in the history of science, [the outcome of the Stern-Gerlach experiment](https://t.co/mXQJ2JH8QI)—But it takes a lot of interpretation to see at a glance what it is: just two dots where classical physics predicts a line. World. View. Shattered.” – [[David Deutsch]] ([source](https://x.com/DavidDeutschOxf/status/1897949219463286887))
+
 *Put differently, having all the data doesn't solve anything. First of all, we need interpretation. Second of all, the data is preceded by explanation, and this explanation cannot be backed by data. Because explanation dictates the data.*
 
 Next:

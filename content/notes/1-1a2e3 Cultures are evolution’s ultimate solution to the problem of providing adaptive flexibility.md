@@ -1,6 +1,8 @@
+> “The laws of physics, in addition to mandating their own comprehensibility through the Turing principle, ensure that **the corresponding evolutionary processes, such as life and thought, are neither too time-consuming nor require too many resources of any other kind to occur in reality**” – [[David Deutsch]] on Deutsch-Turing principle <> [[Scott Aaronson]]
+
 Error-correction is essentially about finding solutions to a problem. There are efficient ways to correct errors. Error-correction is inherently about computation complexity problem. Evolution is about solving problems. And culture provides one of the most efficient methods. 
 
-[[David Deutsch]] meets [[content/people/Scott Aaronson]] and [[Daniel Everett]] here.
+[[David Deutsch]] meets [[Scott Aaronson]] and [[Daniel Everett]] here.
 
 Next:
 - **[[1-1a2e4 Cultures precede languages]]**
