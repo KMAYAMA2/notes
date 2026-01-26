@@ -7,6 +7,8 @@ date: 2025-11-28
 
 In short, paper losses are real losses. This is why speculation—especially inflated one—is damaging (see also [[Li Lu]], [[Ludwig von Mises]], and [[Murray Rothbard]]).
 
+I think this also explains why dynamic hedging is necessary #revisit 
+
 And *would’ve been possessed* reward. That’ll explain [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful” |FOMO]].
 
 Next:

@@ -26,6 +26,10 @@ Related:
 - [[3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”]]
 	- [[5-1b3a In particular, we underestimate how much we can change in the future during and after downturns. Things change.]]
 	- [[13-8a2.1 Money is the present good par excellence]]
+- [[4-1a3b Go to specific places to get specific feedbacks]]: the more people, the more bad practices
+	- [[1-1a5a3 Knowledge is about knowing the edge]]
+	- [[2-1a1a3a You're the average of your five closest friends OR You're the average of the people whose content you consume the most]]
+	- [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]]
 - [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
 	- A corollary of *the law of cryptocurrency isomorphism* is the fact that regulators can’t just ban certain cryptocurrencies—they will need to ban every cryptocurrencies, likely to their own demise
 		- The entire network has to coordinate to expel [[2-1aa Privacy is the absence of information leakage |privacy]] coins—one state adopting it will undo such coordination

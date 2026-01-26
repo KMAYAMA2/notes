@@ -15,7 +15,7 @@ Related:
 - [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 - [[13-1a3.1 The concept of cost must evoke the multiverse]]
 - [[RUL3 - (1) Don’t ignore your dreams; (2) Don’t work too much; (3) Say what you think; (4) Cultivate friendships; (5) Be happy.]]
-- Trying and fail >>> Not trying
+- Trying and failing >>> Not trying
 	- [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.]]
 
 Contradictory?

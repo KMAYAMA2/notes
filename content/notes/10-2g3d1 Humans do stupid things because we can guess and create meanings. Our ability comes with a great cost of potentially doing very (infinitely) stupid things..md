@@ -41,6 +41,7 @@ Related:
 	- [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 - [[3-1a4b2b What is smart at one price is dumb at another]]
 - [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]
+	- E.g., zk-SNARKs vs CT
 - [[10-2g3a Everything is (or more precisely, became) symbol. Social values-knowledge-structures themselves are symbols represented by non-explicit forms (e.g., traditions and habits) interpreted non-explicitly ('流れ込む情報').]]
 	- E.g., Status, 威信財
 		- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
