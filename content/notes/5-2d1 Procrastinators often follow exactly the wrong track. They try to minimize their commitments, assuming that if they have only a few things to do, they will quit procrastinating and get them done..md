@@ -15,4 +15,7 @@ Related:
 - [[4-1a4b8b Multitasking can be adapted without any downsides if you conceptualize the mind accordingly]]
 - [[QUE5 - Ask “am I working on what I most want to work on” because per-project procrastination is far worse than daily procrastination]]
 
+Contradictory?
+- [[2-1a0c1d1 Focus on the few variables]]
+
 #MentalModels 

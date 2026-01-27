@@ -1,7 +1,9 @@
 ---
 date: 2026-01-15
 ---
-
+# Judea Pearl related (or inspired) memos
+- llms worked because they went full in on prediction?
+	- isn’t search engine is also a form of prediction engine?
 Related:
 - *Causation*:
 	- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]]

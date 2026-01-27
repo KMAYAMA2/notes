@@ -16,9 +16,9 @@ LLMs are worth accelerating from problem-solving perspective.
 
 [0.1] <> [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]] <> [[6-3z A world without ownership is a world with less creativity and human flourishing]] 
 
-[1] <> [[2-1a1a3e There’s no objective average]] <> [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]] 
+[1] <> [[2-1a1a3e There’s no objective average]] <> [[3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”]] >< [[To be universal, protocols must be unopinionated]]
 
-[1.1] The model can already self-correct its errors, and that’s as good as *finding* its own problems. But the ultimate problem is defined by humans. #revisit 
+[1.1] The model can already self-correct its errors, and that’s as good as *finding* its own problems. But the ultimate problem is still defined by humans (at least for now).
 
 [2] <> [[5-1b1a8a1 Prediction ≠ Knowledge (because prediction requires knowledge)]] <> [[Judea Pearl]]
 
@@ -40,3 +40,18 @@ Related:
 		- [[11-4 Diversification can achieve what multiplicity does in the digital]]
 	- Things are more efficient when they know what they are trying to achieve
 		- [[3-1b0a You can think forward and invert insofar as you have a problem to solve]]
+
+---
+Inspirations:
+- [The Last Moat Standing](https://x.com/fintechjunkie/status/2008185723849982010?s=20) by @fintechjunkie
+	- If anyone can build your product in a weekend, what's actually defensible?
+		- An opinionated perspective on the solution
+	- Being able to build and understanding the best way to solve a problem aren't remotely the same thing.
+	- This is why great products feel "just better" even when you can't articulate why.
+		- <> Steve Jobs: “[[7-1 Create what people want or will want |Customers don’t know what they want until we’ve shown them.]]”
+	- Opinions can be copied but they can't copy what happens next
+	- We're entering an era where your competition isn't only other startups—it's also your user deciding they could probably just do this themselves on a Saturday.
+		- >< [[2-1c1 'Comparative advantage' - If others can do it, let them]] 
+	- In that world, only one thing matters: having a perspective worth paying for. The products that survive aren't going to be the ones with the best tech or biggest teams. They're going to be the ones where someone formed a genuine opinion about the right way to solve something and kept refining it over and over and over again.
+		- <> [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
+		- <> [[5-1b1b2b Don't try to be the best. Be the only.]]

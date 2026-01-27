@@ -16,8 +16,9 @@ Related:
 	- [[9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually]] #develop 
 	- [[10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.]]
 	- [[12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states]]
-- irl—you need roads:
+- IRL, you need roads (remember Death Stranding):
 	- [[9-4f Product is merit and distribution is connection]]
+		- No road, no market, no growth (be it physical or digital)
 - [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 	- Jack Clark: “I think “economic security is national security,” so making sure we have the infrastructure in place to build out the AI economy will have knock-on positive effects on our industrial base and overall robustness”
 - [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]

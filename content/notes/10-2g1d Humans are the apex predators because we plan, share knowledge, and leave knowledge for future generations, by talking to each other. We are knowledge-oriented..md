@@ -1,8 +1,8 @@
 
 
-- 三つのプリミティブな観念技術の誕生
+- 三つのプリミティブな観念技術の誕生—計画 implies causality and that implies contingency hence 保存
 	1. 輪郭
-	2. 計画
+	2. 計画 
 	3. 意味の保存
 
 Next:

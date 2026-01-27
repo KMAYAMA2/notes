@@ -25,7 +25,10 @@ date: 2026-01-08
 ## Essays I’m thinking about
 1. You shouldn’t hold more than 15 names in your portfolio. You shouldn’t be working more than 15 projects at the same time. I also think you can’t take more than 15 people seriously at the same time. 
 2. Write what you wouldn’t dare say
-
+3. Naruto and LLMs
+4. Elon says everything will be almost free with AI. But is that true? What’d be the implication?
+5. Not all corporate networks are coercive (imperial) networks. And it’s not nation-states per se but coercive networks with soft power we should be paying attention to. You have to understand geopolitics, history, biophysics, tech, and epistemology—and how they relate to each other.
+6. 
 ---
 
 Back to [[index|About this project]]

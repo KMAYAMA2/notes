@@ -1,5 +1,7 @@
 > “If the construction sector slows (Real Estate Crisis), the price of asphalt crashes. The refiner takes that same Bitumen Blend and instead of separating the asphalt bottoms for roads, they divert the bottoms to the **Bunker Fuel** pool for ships. If ship fuel pays $600/ton and asphalt pays $450/ton, the Teapot refiner burns the road.” – John Doe (20260106)
 
+I think [[5-1b1b1a2.1 Network effect means scaling increasingly |network effects]] cannot be had without a bit of correlation. As [[Li Lu]] repeatedly argues, if you ignore the Iron Law of Civilization 3.0 you will be miserable. You have to pick between uncorrelation (redundant but isolated) and network effect. It also means [[5-1b1.1 Redundancy over premature optimization—especially against Black Swans |redundancy]] via [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated) |uncorrelation]] can never be perfect. On the bright side, ‘mono-culture’ via globalization is not without its merit.
+
 Next:
 - [[2-1e1 'Layer-1' & 'Layer-2' phrasing is probably not the best analogy-understanding-topology]]
 - [[2-1e2 Both 'underlying' assets and 'derivatives' can be considered as 'contingent claims']]
