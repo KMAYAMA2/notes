@@ -42,3 +42,6 @@ Crazy Connections (in particular, *how to stay in the game when you are solving 
 - error tracking → Sentry, PagerDuty
 - sales → Salesforce, HubSpot
 - email → MailChimp, SendGrid, MailGun
+
+---
+Bearstone on stablecoin adoption vs bitcoin adoption: “Bitcoin is a bearer asset with supply fixed by protocol and value determined entirely by market forces. Its goal is monetary independence from states and banks. Fiat‑backed stablecoins assume an intermediary will exist to hold reserves and process redemptions, and instead use public blockchains to make movements of those claims cheap, programmable, and globally interoperable. Stablecoins do not try to overthrow the dollar; they try to move it <u>more efficiently</u>.”

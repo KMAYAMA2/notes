@@ -44,3 +44,8 @@ Investors can just not participate in speculation, to eventual speculators’ de
 
 ---
 [[2-1z Observe]]
+
+---
+Bearstone on Visa: “All banks benefit equally. Unlike the days when Bank of America could squeeze licensee banks, the modern cooperative structure means every issuer gets a cut of interchange. There is no longer an internal banking coalition pushing for lower fees; instead, there is an internal banking coalition invested in keeping them high. The networks themselves, after going public (Visa in 2008, Mastercard in 2006), became focused on shareholder returns, which means extracting maximum value from the system.”
+
+Luckily, we can multiply ourselves in [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time |digital world]].

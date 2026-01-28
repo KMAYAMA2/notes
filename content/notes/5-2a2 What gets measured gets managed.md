@@ -3,7 +3,7 @@ date: 2025-01-12
 ---
 > “The nation-state thrived because capital was immobile, transactions were legible” – @arjunkhemani (relate with [[Li Lu]]’s Civilization 2.0 #TODO )
 
-[[RUL3 - Invert, always invert |inverted]], if you don’t want something to be managed, make it unmeasurable (e.g., SWIFT).
+[[RUL3 - Invert, always invert |inverted]], if you don’t want something to be managed, make it unmeasurable (e.g., international transaction via SWIFT, or Visa cardholders not seeing the take rate).
 
 Gold and BTC are seizable.
 

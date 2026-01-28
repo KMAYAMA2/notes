@@ -14,3 +14,7 @@ Related:
 - I.e., cooperation early and competition later
 	- [[2-1c3 'Win and help win' always outcompete]]
 - [[12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex]]
+
+Contradictory?
+- National BankAmericard Inc. (NBI) became Visa by adopting equal ownership
+	- <> the Control Structure

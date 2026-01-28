@@ -11,6 +11,9 @@ date: 2025-02-15
 	- Rotation from energy consuming BTC to energy saving gold (hence negative correlation)
 		- Green is missing difficulty adjustment feature in BTC? #revisit 
 		- Also, historically BTC lag behind gold during hard asset repricing phase ([source](https://x.com/ShieldedMonk/status/2008627911113535984?s=20)) #revisit 
+- Bearstone’s payment piece
+	- BankAmericard experiment → would you say that fractional reserve banking system and its problem came to fore with the advent of credit card? i.e., the so-called nation-state problem was in part corporate problem?
+- With Visa or Mastercard network, merchants do not have the luxury of negotiating interchange rates with the networks, unlike market-based blockchain networks 
 
 Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 # SECURITY MODEL (7/22/22)

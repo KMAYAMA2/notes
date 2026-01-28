@@ -20,3 +20,6 @@ Related:
 - Some cautionary notes in praxeological terms: #revisit 
 	- [[13-1a3a4a The actual market prices are the only ones that ever exist]]
 	- [[13-1a3a4b The long run of the evenly rotating economy (ERE) is not real at all, but a very useful theoretical construct that enables the economist to point out the direction in which the market is moving at any given time]]
+
+E.g., 
+- Bearstone on Jared Isaacman and Shift4: “Part of the strategy was, at the time, heresy: he gave away the expensive hardware for free. Most of his competitors couldn’t or wouldn’t make that leap. They were addicted to the certainty of upfront hardware profit. They didn’t want to carry the hardware subsidy on their books or take on underwriting risk. Isaacman did.”
