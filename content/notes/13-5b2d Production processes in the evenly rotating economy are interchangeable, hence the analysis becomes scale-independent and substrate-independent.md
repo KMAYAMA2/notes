@@ -15,7 +15,7 @@ Next:
 
 Related:
 - On scale-independence #revisit 
-	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale-independent]]
 	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
 - On substrate-independence (or medium-independence) #revisit 
 	- [[5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent)]]

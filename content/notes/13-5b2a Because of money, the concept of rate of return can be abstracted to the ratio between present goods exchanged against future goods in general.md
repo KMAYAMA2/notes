@@ -35,5 +35,5 @@ Related:
 - Similarity with the interoperability law in physics
 	- **[[5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent)]]**
 	- [[5-1b1a1c2 The interoperability law connects physics and information]]
-	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale-independent]]
 	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]

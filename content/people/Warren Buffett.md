@@ -923,6 +923,7 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 	- [[2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.]]
 	- [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
 	- relate with stuff translate memos #revisit 
+		- [[6-3b2a Interoperability implies compounding]]
 - “Sometimes peace is better than being right. Sometimes you must know when to accept a loss and quit.” (p. 113) #revisit
 	- Roy T. Bennett: be selective in your battles. 
 	- Peace ≠ the absence of conflict. 
@@ -1950,7 +1951,7 @@ I personally think “microeconomics” in the context used here can be construe
 	- [[6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary]] #revisit 
 - Incentives work regardless of the scale (p. 41)
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
-	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale-independent]]
 	- [[10-2g1g Scientific knowledge implies location-time-scale-independent applicability]]
 - “Hire well, manage little” code (p. 41)
 	- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]

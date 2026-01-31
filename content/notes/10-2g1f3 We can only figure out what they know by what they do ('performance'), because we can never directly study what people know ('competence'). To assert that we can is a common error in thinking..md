@@ -3,10 +3,12 @@ Related:
 - [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]
 - [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]] #revisit 
 
-The Turing test is one such behavioristic mistake #Behaviorism
+The Turing test is one such behavioristic mistake—e.g., exams can't exhaustively measure the students' competence. But it's one of the few ways by which we can indirectly test them via their performances. And I think writing is the ultimate Turing test. #Behaviorism
 - [[1-2g1b What matters is the explanation, and not what you can see]] 
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
-	- E.g., exams can't exhaustively measure its students' competence, but it's the one of few ways by which we can indirectly test them via their performances. #develop 
+- [[1-2g2j1a Because we can only be with the virtual-reality, all our renderings will be inaccurate]]
+- [[9-4b Writing generates ideas]]
+- [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 
 **We must *interpret* other humans:**
 - **[[2-1a1a1b 'Hanlon's razor' - We (they) are dumber and thus less ill-intent than we think we (they) are]]**

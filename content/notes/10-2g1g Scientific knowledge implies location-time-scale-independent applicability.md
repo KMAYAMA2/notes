@@ -11,3 +11,6 @@ Related:
 	- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
 	- [[1-2g3.1 It’s explanations all the way down]]
 		- [[7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.]]
+
+Contradictory?
+- Contrary to Mandelbrot’s fractal theoretic framework, when the timespan’s unit becomes per tick instead of time (e.g., yearly, quarterly, monthly, daily, or hourly), it becomes all about the limit orderbook. The theory has applicability limitation, similar to how theory of relativity cannot be applied in the realm of quantum physics.

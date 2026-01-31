@@ -28,3 +28,10 @@ The assumption that the mind is the same as computer neglects the reality that i
 	[[1-1a1b The mind includes inexplicit as well as unconscious]]
 	[[2-1a4 'Language instinct' - Language can't exhaust mind]]
 	[[10-2g2c0e Synechism - the idea that everything is connected and nothing can be understood in isolation]]
+
+---
+Looking at my memos above, maybe it’s fair to say that agents with skills and specific context—i.e., constraints—are more agentic and hence more mind-like (20260131).
+
+Related:
+- [[3-1d1 We must start with our own peculiar constraints]]
+- [[8-4 LLMs]]

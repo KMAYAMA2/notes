@@ -11,5 +11,5 @@
 		[[10-2g2e9a The contingent relation between the form and the abstract can be only realized by digital systems. Analog systems cannot do this.]]	
 
 [[5-1b1a1c2 The interoperability law connects physics and information]]
-[[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale independent]]
+[[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale-independent]]
 [[5-1b1a1c4 The interoperability laws (i.e., substrate-independent formulation of information) are more detailed exposition of the Turing principle]] #TheTuringPrinciple 

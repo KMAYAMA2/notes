@@ -32,3 +32,10 @@ Related:
 		- Software companies are becoming hardware companies
 			- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]
 			- What’s the implication for software-hardware stock performance spread? #revisit 
+
+---
+Take care of your own body ([inspired by this](https://x.com/aakashgupta/status/2014836981944221993?s=20)) because you only have one—at least for now.
+
+Related:
+- [[8-2d2a You can’t be a multiple in analog world]]
+- [[10-2g1f2a4 The mind ≠ A computer]]

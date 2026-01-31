@@ -28,7 +28,8 @@ date: 2026-01-08
 3. Naruto and LLMs
 4. Elon says everything will be almost free with AI. But is that true? What’d be the implication?
 5. Not all corporate networks are coercive (imperial) networks. And it’s not nation-states per se but coercive networks with soft power we should be paying attention to. You have to understand geopolitics, history, biophysics, tech, and epistemology—and how they relate to each other.
-6. Maybe [[Warren Buffett]] 
+6. Maybe [[Warren Buffett]] was corporate network investor.
+7. Maybe I’m using bullet points too much
 ---
 
 Back to [[index|About this project]]

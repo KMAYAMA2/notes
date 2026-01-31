@@ -5,4 +5,8 @@ Related:
 - *If you can't program it, you don't understand it. If you can't write about it, you can't code it.*
 	- [[2-1a0aa Applied Occam's razor - 'If you can't program it, you don't understand it. If you can't write about it, you can't code it.']]
 
-#develop 
+---
+And what if you could just speak to an app (e.g., Wispr Flow) and it writes faster than you type?
+
+Related:
+- [[7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive]]

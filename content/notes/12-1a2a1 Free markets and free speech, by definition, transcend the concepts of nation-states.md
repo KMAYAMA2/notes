@@ -30,6 +30,10 @@ Related:
 		- Block economy is shaped more by nation-state technology than politics—but either way the boundaries created are arbitrary
 	- <> [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
 
-The West now: #develop 
+---
+E.g., the U.S. needs crypto and AI but not vice versa.
+
+---
+The West now (according to [[Balaji Srinivasan]]?): #develop 
 - Left is against free speech
 - Right is against free market
