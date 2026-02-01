@@ -28,6 +28,7 @@ Related:
 	- The topology here is similar to Michael Green example above
 - Vibe coding → software saturation → physical stuff will be bid?
 	- [[5-1b1b2b Don't try to be the best. Be the only.]]
+	- “Everything below a certain complexity cutoff is not safe from being one-shotted by AI. Time to [[RUL3 - Run upstairs. Choose the difficult terrain like guerillas. |do hard things]] again.” – [@beffjezos](https://x.com/beffjezos/status/2016408192347984339?s=20) (20260128)
 	- Many will try to be *the house* (e.g., see [[Mert]]):
 		- Software companies are becoming hardware companies
 			- [[2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.]]

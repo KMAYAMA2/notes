@@ -24,3 +24,6 @@ The One commandment is about focus #develop
 		- [[6-3b2.7 International Intermediate (e.g., Indian network) vs Chinese state (2040s)]] #develop 
 			- [[12-1a2a Crypto is network-ideological movement and doesn't differentiate Chinese and Americans]]
 	- SaaS (Society-as-a-Service) as experiment
+
+E.g., 
+- Clawdbot works because Peter Steinberger (@steipete) already built every component of it separately. The 43 projects weren’t 43 random experiments. They were 43 iterations on the same core system: voice-controlled AI agents that do tasks through terminal and automation hooks ([source](https://x.com/aakashgupta/status/2016366016155222426)).

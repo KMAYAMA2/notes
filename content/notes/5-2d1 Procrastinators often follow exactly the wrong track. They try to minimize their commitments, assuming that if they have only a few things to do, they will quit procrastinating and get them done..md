@@ -1,8 +1,4 @@
-But this goes contrary to the basic nature of the procrastinator and destroys his most important source of motivation. [[RUL3 - Invert, always invert |Invert]] human psychology.
-
-However, you can’t have too many TODOs on your list—because then you’ll be overwhelmed. Maybe keep them under 10~15 TODOs (I think the number coincides with Tiago Forte’s recommended maximum number of Projects to work on simultaneously), which is the same number as how many stocks to have in your portfolio (*fractal asset allocation*), or how many thinkers to take seriously at the same time. #revisit 
-
-Elon Musk is always focused on 3-5 stuff that needs to be get done in the next 18 hours, and prioritize them. He’s probably unconsciously processing his TODOs fractally. #develop  
+But this goes contrary to the basic nature of the procrastinator and destroys his most important source of motivation. [[RUL3 - Invert, always invert |Invert]] human psychology. #MentalModels 
 
 Next:
 - [[5-2d2 You need somewhat grandiose goals to procrastinate structurally - テーマはひとつでは多すぎる]]
@@ -15,7 +11,11 @@ Related:
 - [[4-1a4b8b Multitasking can be adapted without any downsides if you conceptualize the mind accordingly]]
 - [[QUE5 - Ask “am I working on what I most want to work on” because per-project procrastination is far worse than daily procrastination]]
 
-Contradictory?
-- [[2-1a0c1d1 Focus on the few variables]]
+---
+However, you can’t have too many TODOs on your list—because then you’ll be overwhelmed. Maybe keep them under 10~15 TODOs (I think the number coincides with Tiago Forte’s recommended maximum number of Projects to work on simultaneously), which is the same number as how many stocks to have in your portfolio (*fractal asset allocation*), or how many thinkers to take seriously at the same time. #revisit 
 
-#MentalModels 
+Steve Jobs and Elon Musk are focused on 3-5 stuff that needs to be get done ***in the next 18 hours***, and prioritize them. I think both unconsciously process their TODOs *[[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes |fractally]]*. 
+
+Related:
+- [[2-1a0c1d1 Focus on the few variables]]
+- [[3-1c3c0 Ideas have timing]]

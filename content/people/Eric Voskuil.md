@@ -14,6 +14,7 @@ date: 2025-02-15
 - Bearstone’s payment piece
 	- BankAmericard experiment → would you say that fractional reserve banking system and its problem came to fore with the advent of credit card? i.e., the so-called nation-state problem was in part corporate problem?
 - With Visa or Mastercard network, merchants do not have the luxury of negotiating interchange rates with the networks, unlike market-based blockchain networks 
+- Quantum computer (QC) needs power just like Bitcoin miners do
 
 Read 76+3 (and took notes on 26) sub-categories (out of 98—from eight parts)
 # SECURITY MODEL (7/22/22)
