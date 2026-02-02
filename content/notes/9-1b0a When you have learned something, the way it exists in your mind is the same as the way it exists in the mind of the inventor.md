@@ -32,3 +32,11 @@ Related:
 					- But remember: resonates doesn't mean being read uniformly, because [[9-1b1a It almost never happens that two minds hold precisely the same idea]]
 						- [[9-4b3d Experience can only provide you with parochial problems, but its solution often consists of some universality which can be applied elsewhere]]
 							- [[1-1a2e6a The dark matter of mind is multilayered, differentially manifested, and variously derived from the experiences of living]]
+
+---
+The results from [Anthropic study](https://x.com/AnthropicAI/status/2016960382968136138): participants in the AI group finished faster by about two minutes (not statistically significant), yet on average, the AI group also scored significantly worse on the quiz—17% lower, or roughly two letter grades. The high scorers (65%+) did something different: some generated code first, then asked follow-up questions to understand what they’d produced; others requested explanations alongside the code; the fastest group asked only conceptual questions, then coded independently while troubleshooting their own errors.
+
+In short, *you* have to *understand* what’s been done.
+
+Related:
+- [[2-1a0aa Applied Occam's razor - 'If you can't program it, you don't understand it. If you can't write about it, you can't code it.']]

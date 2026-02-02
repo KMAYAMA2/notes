@@ -2,6 +2,8 @@
 
 Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships
 
+Humans learn continuously, while LLMs are rather static—which might explain why the latter isn’t conscious ([source](https://www.theintrinsicperspective.com/p/proving-literally-that-chatgpt-isnt)). #revisit 
+
 Next:
 - [[10-1b4a Learning is imitation and testing]]
 - [[10-1b5 We enter the world of language-based learning once we have mastered a language]]

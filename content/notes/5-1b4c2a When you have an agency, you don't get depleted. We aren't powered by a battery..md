@@ -30,3 +30,4 @@ Related Essays:
 	- We give the agent agency by clearly stating what should be solved
 		- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
 		- [[RUL3 - Write out your goals. It’s amazing how few people do.]]
+	- But you have to be the ultimate source of agency. Otherwise AI will replace human memory and judgement. Agency is also *use it or lose it*.

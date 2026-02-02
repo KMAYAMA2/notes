@@ -15,3 +15,6 @@ Related:
 
 - [[RUL3 - Don’t sell anything you wouldn’t buy yourself. Don’t work for anyone you don’t respect and admire. Work only with people you enjoy.]]
 	- You won’t envy someone you admire #develop 
+
+- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
+	- This is easier with internet, but it also means you really have to be the best (or [[5-1b1b2b Don't try to be the best. Be the only. |the only]])—think of Substack writers vs hired ones.

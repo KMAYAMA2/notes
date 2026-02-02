@@ -55,3 +55,4 @@ Inspirations:
 	- In that world, only one thing matters: having a perspective worth paying for. The products that survive aren't going to be the ones with the best tech or biggest teams. They're going to be the ones where someone formed a genuine opinion about the right way to solve something and kept refining it over and over and over again.
 		- <> [[2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation]]
 		- <> [[5-1b1b2b Don't try to be the best. Be the only.]]
+- [Erik Hoel: Proving (literally) that ChatGPT isn’t conscious](https://www.theintrinsicperspective.com/p/proving-literally-that-chatgpt-isnt) #revisit 
