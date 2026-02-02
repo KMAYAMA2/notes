@@ -23,8 +23,9 @@ Related:
 - [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 
 ---
-Otherwise you’ll just fatten the average. And [[How Popper would use LLMs |LLMs]] can accelerate the adoption of such *average* output by the masses. You have to think *harder* with LLMs.
+Otherwise you’ll just fatten the average. And [[How Popper would use LLMs |LLMs]] can accelerate the adoption of such *average* output by the masses. This is concerning because we should be concerned with solving real problems, and real problems are rarely solved using the average. You have to think *harder* with LLMs.
 
 Related:
 - [[2-1a2 See clearly - 解像度を高める]]
 - [[3-1c1d0a Zipf’s law distribution = Passive consumption make up 99% of activities on the internet, and less than 1% even comment on content, and much less than THAT actually create something new]]
+- [[7-1a2a You will be solving universal problems by attending to local-parochial problems first]]
