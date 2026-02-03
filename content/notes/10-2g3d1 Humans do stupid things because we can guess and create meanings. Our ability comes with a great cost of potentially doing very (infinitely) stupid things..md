@@ -48,3 +48,6 @@ Related:
 	- E.g., *Christkind*
 		- クリスマスの独り歩き (symbolic) #develop 
 			- 偶像崇拝禁止 is topologically similar to forbidding derivatives #develop 
+
+---
+意味の逸脱—e.g., Baudrillard’s 1981 _Simulacra and Simulation_, proposes a recursive progression of semiotic signification

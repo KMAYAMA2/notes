@@ -1,3 +1,4 @@
+Rick Rubin: “Make a list of any ‘rules’ or assumptions you’ve never questioned. These are not so easy to spot. Refer to Byron Katie’s _[Loving What Is](https://bookshop.org/p/books/loving-what-is-revised-edition-four-questions-that-can-change-your-life-the-revolutionary-process-called-the-work-byron-katie/2f0100a341511073?ean=9780593234518&next=t)_ for helpful direction.”
 
 Related:
 - On taboos

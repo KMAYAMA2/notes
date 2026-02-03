@@ -1,5 +1,7 @@
 In short, mind your own business.
 
+E.g., 嫌なことの排除 >>> “やりたいこと” (because the former might [[10-1b3 Sapir - 'Culture is not something given but something to be gradually and gropingly discovered' |lead]] to the latter)
+
 Previous:
 - [[7-1a Create something you would want for yourself, and never for some imaginary audience]]
 
@@ -22,3 +24,6 @@ Related:
 - Just solve your problems. But only those that are interesting enough:
 	- [[5-1b1b2 Flow to the most interesting, because the Fun Criterion doesn’t distinguish what’s fun via categories. Fun just means fun.]]
 	- [[5-1b1b3 Productize yourself (as an embodiment of reality)]]
+
+---
+By local-parochial I don’t necessarily mean physical proximity—it’s more about having [[2-1a2 See clearly - 解像度を高める |high resolution]]. #elaborate 

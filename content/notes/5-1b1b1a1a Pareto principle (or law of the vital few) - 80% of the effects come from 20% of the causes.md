@@ -16,10 +16,24 @@ E.g.,
 	- Up from 25% a decade ago
 
 ---
-I think Brandolini’s Law explains Pareto principle (as well as Zipf’s law distribution). And LLMs could accelerate this unevenness because the average will likely [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals. |fatten]] with LLMs. 
+I think Brandolini’s Law explains Pareto principle (as well as Zipf’s law distribution). And LLMs could accelerate this unevenness because the average will likely [[10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals. |fatten]] with [[How Popper would use LLMs |LLMs]]. 
 
+Related:
 - [[1-2i Brandolini’s Law (the Bullshit Asymmetry Principle)—the amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it]]
 - [[3-1c1d0a Zipf’s law distribution = Passive consumption make up 99% of activities on the internet, and less than 1% even comment on content, and much less than THAT actually create something new]]
+- *[Our Overfitted Century](https://www.theintrinsicperspective.com/p/our-overfitted-century?hide_intro_popup=true)* by Erik Hoel
+	- Comfort → non-risk taking behavior
+	- Cutting out “inefficiency” → leads to a look-alike (e.g., spaceships, cars, faces) and less [[7-1d2b Centralized tech ⇒ Mass media (via mass production) ⇒ Homogenized societal experiences ⇒ Communism, Nazism, Democratic Capitalism |diversity]]
+	- *Model collapse*—rare patterns disappear; diversity collapse; models converge toward narrow (or *fattened*) averages
+		- >< Remember how 宮崎駿 came up with もののけ姫
+	- Overfitting led to mode collapse, and mode collapse is leading to at least partial model collapse (which all leads to more overfitting, by the way, in a vicious cycle)
+		- <> [[2-1a3 'Seeing the front' - Incorporate what can't be explicated]]
+		- <> [[2-1a4b 百聞は一見に如かず - Build, Show, Use ＞ Explain, Tell, Research]]
+		- <> [[3-1a4b4a Financial cycles ≠ Product cycles]]
+	- Takeaways:
+		- [[1-2f1b9 Repeat what works |Repeat what works]] but only to an extent—[[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |recalibrate]], always
+		- [[1-1a5a3 Knowledge is about knowing the edge]]
+		- [[5-1b1b2b Don't try to be the best. Be the only.]]
 
 ---
 Pareto principle is contingent that other people will stay reactive—and by definition, there exists variance in people’s agency around the average. #develop 

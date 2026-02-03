@@ -11,6 +11,9 @@ date: 2025-11-21
 
 ***How bad do you want it?***
 
+Previous:
+- [[1-1a5a2 Good writing happens at the edge of explicit-inexplicit or explicit-unconscious — that is, via surprises.]]
+
 Related:
 - [[2-1a4 'Language instinct' - Language can't exhaust mind]]
 - [[2-1b3a 'Circle of competence' & 'Niches' - Build a moat. Thrive in where you can.]]
@@ -31,3 +34,4 @@ Related:
 			- [[9-4b2a1f Two-way debate benefits from criticism]]
 			- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
 			- Put differently, book is a time-agnostic market #revisit 
+- [[QUE5 - Don’t aim for the average — Ask 'What is rich doing' 'What are nerds doing']]

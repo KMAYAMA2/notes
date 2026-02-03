@@ -8,6 +8,8 @@
 
 反面教師
 
+嫌なことの排除 >>> “やりたいこと”
+
 Next:
 - [[2-1b2b1a Get your incentives right from the beginning]]
 - [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
