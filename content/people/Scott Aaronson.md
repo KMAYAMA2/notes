@@ -65,6 +65,7 @@ Found him through zcash and zk-SNARKs ([[2-1e Everything is connected in a compl
 	- <> robotics have limits because coding is necessarily language-oriented 
 		- <> [[Michael Burry]]
 - *how it could’ve been otherwise* <> NP problem 
+- ==You cannot become one with others. No-Cloning Theorem? Because others are in essence special instances of yourself. So multiverse does explain NCT?==
 # Democritus
 - p. 76 (?) → reading a lot of math proofs doesn’t mean you’ll be good at math, just like how reading a lot of books doesn’t translate into making you smarter
 - p. 110 → we don’t really need experiments because we are Turing machine <> but often times being in contact with external reality gets you to reality faster <> see from different perspectives <> seeing the front 
