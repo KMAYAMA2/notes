@@ -64,3 +64,6 @@ Related:
 > “We know very powerful things are coming and our ability to exercise agency about them is enlarged by having pre-built systems and processes that can be leveraged by them. The less we build that stuff, the more the character of these AI systems will condition our view of what is optimal to do. In a sense, thinking hard about what an AI-filled world will be like and building institutions for it is one of the best defenses against disempowerment.” – Jack Clark (20260119)
 
 Otherwise the ‘average’ will take over the mind-share. It’s about [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery. |agency]]. It’s about how bad you want it.
+
+---
+Parallels between "reading like a writer" and "using like a builder"—the idea that <u>actively creating (writing, building apps) makes you notice details and decisions that passive consumers miss</u>. AI tools can turn more people into active creators, potentially helping them develop taste rather than just consuming algorithmically-served content ([source](https://every.to/p/what-is-taste-really?ph_email=chanakakrkt0512%40gmail.com)).
