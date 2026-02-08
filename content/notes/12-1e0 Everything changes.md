@@ -1,5 +1,7 @@
 > “Feynman said there's plenty of room at the bottom. How much? Some people would say the Planck scale is the limit. But that scale is just the limit of our knowledge. Nothing we know says making smaller-scale things is impossible.” – [[David Deutsch]]
 
+
+
 Related:
 - [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape]]
 - Everything changes because humans create knowledge
@@ -10,3 +12,6 @@ Related:
 - Correlations change (e.g., NKY and BTC)
 	- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
 	- [[QUE5 - Are they timeless and universal (if yes, things are likely to be uncorrelated)]] #revisit 
+
+E.g., 
+- Buying an index doesn’t make sense when the valuation is high—from payoff perspective, it’d be akin to selling option

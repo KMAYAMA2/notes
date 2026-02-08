@@ -1,3 +1,5 @@
+> “Generally what I tell people—I tell myself, I guess, aspirationally—is, don’t look at the resume. Just believe your interaction. The resume may seem very impressive and it’s like, “Wow, the resume looks good.” But if the conversation after 20 minutes is not “wow,” you should believe the conversation, not the paper.” – [Elon Musk](https://www.dwarkesh.com/p/elon-musk?utm_source=post-email-title&publication_id=69345&post_id=186967347&utm_campaign=email-post-title&isFreemail=true&r=2ch1ps&triedRedirect=true&utm_medium=email)
+
 And such opportunities should be rare. #revisit 
 
 Next:
@@ -11,3 +13,4 @@ Related:
 - [[5-2b2 You can’t flow to the most interesting if you react to everything that comes at you by default]]
 - [[9-4b2a1e Be the outsider - 外部性・外来性を重視すること]]
 - [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]
+- [[Jeff Bezos - 'When the anecdotes and the data disagree, the anecdotes are usually right.']]

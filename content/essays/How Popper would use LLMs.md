@@ -9,7 +9,7 @@ This has nothing to do with the AGI debate. LLMs *work* because they don’t hav
 
 Don’t blindly trust AI though. The user should verify the output. How? By simply asking—is the problem solved? And if you’re curious enough, you’ll know *how* it was done. [3]
 
-LLMs are worth accelerating from problem-solving perspective.
+LLMs are [[2-1b2b1.2 Anything worth doing is worth doing to excess |worth accelerating]] from problem-solving perspective.
 
 ---
 [0] <> [[1-1a2e7b You need some form of constraints to see anything]] <> [[2-1a0c1d2 Less is often more]] 
