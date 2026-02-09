@@ -1,5 +1,5 @@
 
-Cultivating taste requires articulating _why_ you like or dislike something. Learning to recognize and verbalize preferences builds a toolbox for decision-making. Steve Jobs discussed the design of laundry machines at the family dinner table [every night for two weeks](https://www.wired.com/1996/02/jobs-2/) before they finally bought a set. When using AI tools, this means practicing <u>articulating your likes and dislikes through prompting</u>, which helps sharpen taste over time ([source](https://every.to/p/what-is-taste-really?ph_email=chanakakrkt0512%40gmail.com)).
+Cultivating taste requires articulating _why_ you like or dislike something. Learning to recognize and verbalize preferences builds a toolbox for decision-making. Steve Jobs discussed the design of laundry machines at the family dinner table [every night for two weeks](https://www.wired.com/1996/02/jobs-2/) before they finally bought a set. When using AI tools, this means practicing <u>articulating your likes and dislikes through prompting</u>, which helps sharpen taste over time ([source](https://every.to/p/what-is-taste-really)).
 
 Related:
 - [[3-1c2 Write down your problems]]

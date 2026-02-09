@@ -66,4 +66,4 @@ Related:
 Otherwise the ‘average’ will take over the mind-share. It’s about [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery. |agency]]. It’s about how bad you want it.
 
 ---
-Parallels between "reading like a writer" and "using like a builder"—the idea that <u>actively creating (writing, building apps) makes you notice details and decisions that passive consumers miss</u>. AI tools can turn more people into active creators, potentially helping them develop taste rather than just consuming algorithmically-served content ([source](https://every.to/p/what-is-taste-really?ph_email=chanakakrkt0512%40gmail.com)).
+Parallels between "reading like a writer" and "using like a builder"—the idea that <u>actively creating (writing, building apps) makes you notice details and decisions that passive consumers miss</u>. AI tools can turn more people into active creators, potentially helping them develop taste rather than just consuming algorithmically-served content ([source](https://every.to/p/what-is-taste-really)).
