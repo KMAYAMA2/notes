@@ -12,6 +12,9 @@ date: 2025-11-20
 Zooko: Anonymity → No violence/coercion #revisit 
 Remember Polyphemus and Odysseus
 
+Next:
+- [[2-1ab Bluffing exists because information is private]]
+
 Related:
 - [[1-1c6a1c The absence of evidence is not the evidence of absence]] #develop 
 	- Viz., indistinguishable nobody ≠ unidentifiable nobody

@@ -1,13 +1,15 @@
-[[10-2e0 Languages are theories. The vocabulary and grammar embody substantial assertions about the world.]]
-[[10-2g4 Cultures and languages are reflexive]]
-[[10-2g1f2a Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other]]
-[[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
+Grammar constrains what’s (easily) expressible.
 
-[[10-2d1d Humans are distinguished because of the syntax of their DNA (genomes)]]
-#develop 
+- [[10-2e0 Languages are theories. The vocabulary and grammar embody substantial assertions about the world.]]
+- [[10-2g4 Cultures and languages are reflexive]]
+- [[10-2g1f2a Our brains (including our emotions) and our cultures are related symbiotically through the individual, and that neither supervenes on the other]]
+- [[10-2f1 Chomsky’s UG approach only looks at a subset (syntax) of a subset (language) of the whole (communication system — ‘the gestalt’). Syntax is only secondary to conversation.]]
 
-'Grammar of society' #develop 
-	[[10-1c1 'Grammar of society' - Society and culture are connected and constructed in grammar-like ways. Individuals are 'fillers' for slots in a culture-grammar.]]
+- [[10-2d1d Humans are distinguished because of the syntax of their DNA (genomes)]]
+- #develop 
+
+- 'Grammar of society' #develop 
+	- [[10-1c1 'Grammar of society' - Society and culture are connected and constructed in grammar-like ways. Individuals are 'fillers' for slots in a culture-grammar.]]
 
 - Piraha
 	- IMMEDIACY OF EXPERIENCE ⇒ No recursion

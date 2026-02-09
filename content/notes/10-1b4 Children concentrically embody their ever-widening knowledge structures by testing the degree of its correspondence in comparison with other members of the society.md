@@ -1,8 +1,12 @@
+> “The real competence is the counterfactual recursive loop: what would I do if they do this?; what does my move cause them to do next?; what does it reveal about me?” – Ankit Maloo (20260208)
+
 #TheTuringPrinciple 
 
-Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships
+Attachment’s contribution to dark matter is the communication patterns the infant uses and acquires to establish its ever-widening circles of relationships.
 
-Humans learn continuously, while LLMs are rather static—which might explain why the latter isn’t conscious ([source](https://www.theintrinsicperspective.com/p/proving-literally-that-chatgpt-isnt)). #revisit 
+Humans learn continuously, while LLMs are rather static—which might explain why [[10-2g1f2a4 The mind ≠ A computer |the latter isn’t conscious]] ([source](https://www.theintrinsicperspective.com/p/proving-literally-that-chatgpt-isnt)). #revisit 
+
+Humans think counterfactually because we start off locally—unlike LLMs with global fixed base.
 
 Next:
 - [[10-1b4a Learning is imitation and testing]]

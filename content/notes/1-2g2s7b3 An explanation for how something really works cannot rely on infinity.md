@@ -25,3 +25,9 @@ Counter-examples?
 			- [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]]
 				- [[3-1c2e0 There is no minimum idea]]
 					- [[3-1c2e3 Infinite semiosis - 'There is no beginning or end to symbols because it is recursive']]
+
+---
+E.g.,
+- Moore’s Law
+	- <> [[3-1d6c Amara’s law modified - we underestimate the importance of consistency in the short-run, but overestimate in the long-run]] #develop 
+	- <> [[12-1e0 Everything changes]] and nothing is universal (except for our [[1-2 We are fallible |fallibility]])

@@ -1,3 +1,4 @@
+This is where [[8-4 LLMs |LLMs]] err.
 
 Next:
 - [[4-1d0.1 The Pinocchio Effect - Liars use more words than truth tellers and use far more third-person pronouns]]

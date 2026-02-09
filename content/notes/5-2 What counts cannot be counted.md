@@ -27,3 +27,14 @@ Related:
 - [[10-2d1a The regularity in nature can be expressed arbitrarily well either by the language of mathematics, natural language, or by computers (zeros and ones)]]
 - [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
 	- Under the gold standard, the share in the company really represents *the share* in the economy (viz., purchasing power, which, according to [[Li Lu]], is what matters)—see [[Saifedean Ammous]] for more on the gold standard
+
+---
+> “There’s a deeper reason LLMs are at a permanent handicap here: **the thing you’re trying to learn is not fully contained in the text**. They can catch up by sheer brute force, but are far more inefficient than humans, and the debt is coming due now. When an investor publishes a thesis, consider what is not in it: the position sizing that limits the exposure; the timing that avoided telegraphing intent; strategic concealment; how the thesis itself is written to not move the market against them; what they’d actually do if proved wrong tomorrow. **Text is the residue of action.** <u>The real competence is the counterfactual recursive loop</u>: what would I do if they do this?; what does my move cause them to do next?; what does it reveal about me? That loop is the engine of adversarial expertise, and it’s weakly revealed by corpora. This is why models can recite game theory but still write the “nice email” that leaks leverage. They’ve learned the language of strategy more than the dynamics of strategy. **This is what domain expertise really is. Not a larger knowledge base. Not faster reasoning. It’s a high-resolution simulation of an ecosystem of agents who are all simultaneously modeling each other. And that simulation lives in heads, not in documents. The text is just the move that got documented. The theory that generated it is called skill.**” – [Ankit Maloo](https://www.latent.space/p/adversarial-reasoning) (20260208)
+
+Related:
+- [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
+- [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
+	- Viz., some ideas exist because of others’ existence, which makes them [[4-1a4b2b Being reactive is like being analog in the heat of the moment |reactive]] by nature, hence these wouldn’t be written down anywhere
+- [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+- [[10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.]]
+

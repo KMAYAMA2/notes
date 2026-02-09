@@ -67,3 +67,8 @@ Otherwise the ‘average’ will take over the mind-share. It’s about [[5-1b4c
 
 ---
 Parallels between "reading like a writer" and "using like a builder"—the idea that <u>actively creating (writing, building apps) makes you notice details and decisions that passive consumers miss</u>. AI tools can turn more people into active creators, potentially helping them develop taste rather than just consuming algorithmically-served content ([source](https://every.to/p/what-is-taste-really)).
+
+---
+Michael Green on [American Exceptionalism](https://www.yesigiveafig.com/p/american-exceptionalism): Everyone's yelling about government _spending_ waste. Elon Musk is giving out prizes on X for articles about how the government wastes your tax dollars. The government loses maybe 3–7% of what it spends to fraud. That's bad but it's not wildly different from the private sector (1–5%). But nobody talks about how the government fails to _collect_ **$606 billion** a year in taxes people actually owe. That's a 13% failure rate. Private companies collect 97–99 cents of every dollar owed to them. The government only collects 85–87 cents. And most of that missing money is owed by the wealthiest people. Closing even a third of that tax gap would bring in more money than almost any spending cut you could dream up. But the people in power don't _want_ to fix it, because selectively enforcing taxes is how they reward friends and punish enemies. The broken tax code isn't a bug—it's a tool. Don’t let the headlines distract you.
+
+- [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]

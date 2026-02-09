@@ -3,7 +3,9 @@ date: 2025-01-12
 ---
 > “The nation-state thrived because capital was immobile, transactions were legible” – @arjunkhemani (relate with [[Li Lu]]’s Civilization 2.0 #TODO )
 
-[[RUL3 - Invert, always invert |inverted]], if you don’t want something to be managed, make it unmeasurable (e.g., international transaction via SWIFT, or Visa cardholders not seeing the take rate).
+> "A large scale data collection effort must be funded to find the true population numbers. If we are trying to plan the future, data integrity is the utmost importance." – [John Doe](https://endtropy.substack.com/p/population-the-united-nations-forecasting)
+
+[[RUL3 - Invert, always invert |Inverted]], if you don’t want something to be managed, make it unmeasurable (e.g., international transaction via SWIFT, or Visa cardholders not seeing the take rate).
 
 Gold and BTC are seizable.
 

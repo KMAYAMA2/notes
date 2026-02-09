@@ -1,6 +1,6 @@
 See [[Warren Buffett]] and [[Ludwig Lachmann]]
 
-In Lachmann’s parlance, the Portfolio Structure ≠ the Plan Structure. But this doesn’t mean they operate independently.
+In Lachmann’s parlance, the Portfolio Structure ≠ the Plan Structure. **But this doesn’t mean they operate independently**.
 
 Related:
 - [[7-1a4a1 Wealth created ≠ the P&L of a business. Remember - you get what you measure.]]
@@ -24,6 +24,6 @@ Related:
 - [[6-3b2.3a Credit is not money]]
 - [[6-3b2.3c When the money is printed, financial assets appreciate]]
 
-- You have to understand that the Portfolio Structure doesn’t reflect the Plan Structure in real time, and your time projection of their converge (if at all) is always subject to error:
+- You have to understand that the Portfolio Structure doesn’t reflect the Plan Structure in real time, and your time projection of their convergence (if at all) is always subject to error:
 	- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 	- [[5-1b4 Be prepared to deal with short-term nonsenses, but know what you’re focused on in the long-run and stay optimistic]]

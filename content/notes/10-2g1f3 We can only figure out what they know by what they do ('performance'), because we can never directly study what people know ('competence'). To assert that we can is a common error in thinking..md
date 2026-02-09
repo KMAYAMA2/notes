@@ -1,3 +1,4 @@
+> “**LLMs produce artifacts that look expert. They don’t yet produce moves that survive experts.**” – Ankit Maloo (20260208)
 
 Related:
 - [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]

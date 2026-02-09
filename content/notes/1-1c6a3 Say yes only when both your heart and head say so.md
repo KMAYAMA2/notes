@@ -1,4 +1,4 @@
-> “Generally what I tell people—I tell myself, I guess, aspirationally—is, don’t look at the resume. Just believe your interaction. The resume may seem very impressive and it’s like, “Wow, the resume looks good.” But if the conversation after 20 minutes is not “wow,” you should believe the conversation, not the paper.” – [Elon Musk](https://www.dwarkesh.com/p/elon-musk?utm_source=post-email-title&publication_id=69345&post_id=186967347&utm_campaign=email-post-title&isFreemail=true&r=2ch1ps&triedRedirect=true&utm_medium=email)
+> “Generally what I tell people—I tell myself, I guess, aspirationally—is, don’t look at the resume. Just believe your interaction. The resume may seem very impressive and it’s like, “Wow, the resume looks good.” But if the conversation after 20 minutes is not “wow,” you should believe the conversation, not the paper.” – [Elon Musk](https://www.dwarkesh.com/p/elon-musk)
 
 And such opportunities should be rare. #revisit 
 

@@ -40,3 +40,12 @@ Related:
 	- [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
 - Recursive saving loop doesn’t happen because the rate of interest is the effect of time preferences (at least in the evenly rotating economy): #revisit 
 	- [[13-5b3c The demand of landowners and laborers for present goods tend to be inelastic with respect to interest rates]]
+
+---
+> _“No, no, no revenue. Why would you go after revenue? If you go after revenue, people will start asking how much, and it will never be enough. The company that was 100x or the 1,000x becomes the 2x dog. But if you have you no revenue, you can say you pre revenue, your a potential pure play. It's not about how much you earn. It's about what you're worth. And who's worth the most? Companies that lose money. Pintrest, Snapchat, no revenue. Amazon has lost money for every fucking quarter for the last 20 fucking years and that Jeff Bezos is the king. No one wants to revenue.”_ – Russ Hanneman (Silicon Valley)
+
+[The Coastal Journal](https://coastaljournal.substack.com/p/ai-capex-vs-roi-big-techs-spending): “That line captures the market’s operating system for the past decade that followed 2009 recession. When interest rates were artificially low (0% for a decade plus), the price of time collapsed. Future cash flows didn’t get punished for being distant. Companies didn’t need to prove ROI because “tomorrow” was essentially free. Wall Street didn’t demand results. It sold potential pure plays to investors.”
+
+Related:
+- [[3-1a4b4a Financial cycles ≠ Product cycles]]
+	- Artificially lowered interest rate malfunctions our ability to reason counterfactually, and will bring about malinvestment
