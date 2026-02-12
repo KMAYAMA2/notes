@@ -1,4 +1,4 @@
-I.e., counterfactuals
+I.e., counterfactual
 
 Next:
 - [[2-1b1 'Asymmetric warfare' - Play by different rules]]

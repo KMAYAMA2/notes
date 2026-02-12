@@ -1,11 +1,9 @@
 ---
 date: 2024-10-07
 ---
-> _Nullius in Verba_ – The Royal Society’s motto
+> _Nullius in Verba_ – The Royal Society’s motto: *take nobody’s word for it*
 
 > “Oh, you must not let me influence you in any way! I suggest that you go on your line and I on mine. We can compare notes afterwards, and each will supplement the other.” – [[Sherlock Holmes]]
-
-Take nobody’s word for it
 
 Next:
 - [[1-2g2q2 Popperian epistemology itself has to be conjectured]]

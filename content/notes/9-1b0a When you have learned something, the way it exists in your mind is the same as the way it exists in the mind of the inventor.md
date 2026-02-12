@@ -40,3 +40,9 @@ In short, *you* have to *understand* what’s been done.
 
 Related:
 - [[2-1a0aa Applied Occam's razor - 'If you can't program it, you don't understand it. If you can't write about it, you can't code it.']]
+
+---
+Contradictory?
+- [Jack Clark on Gemini solving some Erdos problems (Google DeepMind et al)](https://importai.substack.com/p/import-ai-444-llm-societies-huawei) (20260210)
+	- AI massively speeds up generating candidate proofs, but the bottleneck becomes human experts who must evaluate correctness. "Large Language Models can easily generate candidate solutions, but the number of experts who can judge the correctness of a solution is relatively small, and even for experts, substantial time is required to carry out such evaluations", the authors write.
+		- The verifier and the prover turned on its head <> verifier could be the bottleneck <> [[Scott Aaronson]]

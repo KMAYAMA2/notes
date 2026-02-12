@@ -6,7 +6,7 @@ Attachment’s contribution to dark matter is the communication patterns the inf
 
 Humans learn continuously, while LLMs are rather static—which might explain why [[10-2g1f2a4 The mind ≠ A computer |the latter isn’t conscious]] ([source](https://www.theintrinsicperspective.com/p/proving-literally-that-chatgpt-isnt)). #revisit 
 
-Humans think counterfactually because we start off locally—unlike LLMs with global fixed base.
+Humans think counterfactual because we start off locally—unlike LLMs with global fixed base.
 
 Next:
 - [[10-1b4a Learning is imitation and testing]]

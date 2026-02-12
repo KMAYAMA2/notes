@@ -48,4 +48,4 @@ Related:
 
 Related:
 - [[3-1a4b4a Financial cycles ≠ Product cycles]]
-	- Artificially lowered interest rate malfunctions our ability to reason counterfactually, and will bring about malinvestment
+	- Artificially lowered interest rate malfunctions our ability to reason counterfactual, and will bring about malinvestment

@@ -60,3 +60,8 @@ Related:
 	- [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 	- [[4-1a4b2b0 Your algo is your principles]]
 	- [[9-4c2 'Programs should be written for people to read, and only incidentally for machines to execute.' 'Design to express algorithms, and only incidentally tell machines how to execute them.']]
+
+---
+E.g.,
+- LLMs and Context Rot 
+	- I guess this doesn’t happen with humans because we process information differently. I don’t think we have `CLAUDE.md` equivalent in our mind. #revisit 

@@ -1493,7 +1493,7 @@ I personally think “microeconomics” in the context used here can be construe
 - Comparing new opportunities against what’s available is the same in spirit to [[RUL3 - Ask at night how what you’ve learned that day fits into your web of ideas, and search for overlaps and contradictions. Most people do not do this. |asking at night how what you’ve learned that day relates to what you already know]] (p. 211)
 - The goal is to make the best choice at that point in time, and not the best choice ever, because the world—including yourself—is in flux (p. 211)
 	- [[13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people]]
-- Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactuals (p. 212)
+- Hall of Shame—not just about what didn’t work, but also what could’ve been done, that is, counterfactual (p. 212)
 	- [[5-2b Errors of omission are dangerous because you make them by default]]
 ### The *”and then what”* filter
 - Ask: then what? (p. 213)

@@ -22,3 +22,9 @@ Related:
 Counter-examples:
 - 趙高と胡亥: 馬鹿の語源 (no-man の排除)
 	- Counter-counter-example: 劉邦と張良
+
+---
+E.g.,
+- [Jack Clark on “Societies of Thought” studies by Google, U of Chicago, Santa Fe Institute](https://importai.substack.com/p/import-ai-444-llm-societies-huawei) (20260210)
+	- The authors conclude: "reasoning models like DeepSeek-R1 do not simply generate longer or more elaborate chains of thought. Rather, they exhibit patterns characteristic of a social and conversational process generating 'societies of thought'—posing questions, introducing alternative perspectives, generating and resolving conflicts, and coordinating diverse socio-emotional roles."
+		- Two-way debate is about counterfactual

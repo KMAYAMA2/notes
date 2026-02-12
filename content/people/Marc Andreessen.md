@@ -71,7 +71,7 @@ date: 2025-08-19
 					- life is way too short to not pursue what you’d really like to do
 			- the world is a very malleable place
 			- think of your career as a portfolio of jobs and roles and opportunities (41m)
-				- relate with risk per se doesn’t matter memos and notes (most of the notes were written in the context of counterfactuals—marc’s point here is rather that risk of one specific opportunity per se doesn’t matter) #revisit 
+				- relate with risk per se doesn’t matter memos and notes (most of the notes were written in the context of counterfactual—marc’s point here is rather that risk of one specific opportunity per se doesn’t matter) #revisit 
 				- “What you should automatically do instead is put it in context with all of the other risks you are likely to take throughout your entire career and decide whether this new opportunity Fts strategically into your portfolio”
 					- this makes sense because other times are special cases of other universes #revisit 
 			- aaron brown on hiring (p. 103)

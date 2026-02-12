@@ -1,3 +1,4 @@
+> "I've learned that the more uncomfortable it feels, the more I should do it" – [Nader Dabit](https://nader.substack.com/p/everything-worth-doing-felt-like)
 
 Next:
 - [[5-1b4c4a Taboos likely can offer gateways to your unconscious]]
@@ -26,3 +27,10 @@ Impossibility is imposed by the laws of physics only. They really cannot be done
 - [[QUE5 - Story and anecdote capture what cannot be captured rationally, and humans are irrational. What is your story and anecdote that you often refer back to.]]
 
 - [[9-2c Mark Twain - “Humor is a way to show you’re smart without bragging.”]]
+
+Contradictory?
+- [[1-1c6a3 Say yes only when both your heart and head say so]]
+
+E.g.,
+- [[7-1b4b4 It’s better to take the risk of telling others about your ideas than to hide them]]
+	- Sharing videos, publishing blogs, open sourcing code, changing jobs publicly, speaking to large audiences

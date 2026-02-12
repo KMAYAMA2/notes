@@ -293,7 +293,7 @@
 				- _Could’ve been otherwise_
 					- Causation = a Figure for Meillassoux? #develop 
 		- “So the previous history would have to be imagined as being different as well. How different? The effect of our imagined variation in history depends critically on what we take ‘other things being equal’ to mean. And that is irreducibly ambiguous . . . Try as we may, we shall not succeed in resolving this ambiguity within spacetime physics. **There is no avoiding the fact in spacetime exactly one thing happens in reality, and everything else is fantasy.**”
-			- In spacetime physics, conditional statements whose premise is false (_counter-factual conditionals_) have no meaning
+			- In spacetime physics, conditional statements whose premise is false (_counterfactual conditionals_) have no meaning
 				- *The source of this paradox is not in logic or linguistics, it is in physics*
 				- **But in the multiverse, universes are present in definite proportions, so it is meaningful to say that certain type of events are ‘very rare’ or ‘very common’ in the multiverse, and that some events follow others ‘in most cases’.**
 					- Related: [[1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite]]
