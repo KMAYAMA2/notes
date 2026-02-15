@@ -8,6 +8,7 @@ The Turing test is one such behavioristic mistake—e.g., exams can't exhaustive
 - [[1-2g1b What matters is the explanation, and not what you can see]] 
 - [[1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)]]
 - [[1-2g2j1a Because we can only be with the virtual-reality, all our renderings will be inaccurate]]
+- [[2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.]]
 - [[9-4b Writing generates ideas]]
 - [[9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.]]
 

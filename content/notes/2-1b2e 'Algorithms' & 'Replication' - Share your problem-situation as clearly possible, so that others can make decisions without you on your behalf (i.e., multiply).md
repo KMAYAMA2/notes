@@ -46,3 +46,9 @@ Related:
 
 #MentalModelsSystems
 #MentalModelsBiology
+
+---
+E.g.,
+- Every’s [AI-native engineering philosophy](https://every.to/guides/compound-engineering)
+	- **Team collaboration**—The shift: traditional (Person A writes → Person B reviews) vs. compound (Person A creates plan → AI implements → AI agents review → Person B reviews the AI review → merge). Standards: explicit plan sign-off required ("Silence is not approval"), PR ownership stays with the person who initiated. Human reviewers focus on intent, not implementation: "Does this match what we agreed to build?" Don't bother checking syntax/security/performance/style—"that's what the review agents already did." Async by default: "Plans can be created, reviewed, and approved without scheduling a meeting." Scaling: clear ownership, feature flags + small PRs, compound docs replace tribal knowledge ("<u>Instead of 'Ask Sarah, she knows how auth works,' Sarah runs /compound after implementing the feature</u>").
+		- <> [[6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.]]
