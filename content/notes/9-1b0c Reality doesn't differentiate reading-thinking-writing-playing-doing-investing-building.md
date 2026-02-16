@@ -22,3 +22,6 @@ Related:
 		- **[[5-2b1b Writing down makes it easier for your conscious to see the unconscious]]**
 		- [[5-2b7 The skeptical empiricist doubts both data and theory]]
 		- [[7-1a6a Successful founders see different problems]]
+
+---
+Personally reading feels more stressful than writing because it’s about absorbing new information. But I might be able to assimilate the experience of reading to that of writing, by programmatically linking the summary to my writings (i.e., `/notes`) via semantic search (e.g., with qmd plugin). #TODO 

@@ -45,3 +45,17 @@ E.g., my Obsidian notes and baseball gloves
 
 Crazy connection:
 - [[5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.]]
+
+---
+But you should be careful with our tendency to overly commit to something, even when it’s not worth the time. 
+
+Or vice versa: e.g., when you built a summarization program, you’d read them—an effective workaround when you have something you know you should read, but just couldn’t. 
+
+Related:
+- [[2-1b2b1.1 If it’s not worth doing well, it’s not worth doing at all]]
+- [[2-1b2b1.2 Anything worth doing is worth doing to excess]]
+- [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+- [[3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.]]
+- [[3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.]]
+- [[3-1c3c3a2 Time spent doesn't mean much]]
+- [[Don't make the difficulty-rewards relationship a simple straight line]]

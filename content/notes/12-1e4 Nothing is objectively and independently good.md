@@ -17,3 +17,9 @@ Related:
 - [[4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities]]
 	- Or physical distance—what appears beautiful at distance may not so up close
 - [[10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society]]
+
+---
+E.g.,
+- Summary
+	- ==There is no single objective measure for the quality of a summary—what the key pieces of information are is context-dependent and often debatable== ([Neptune.ai](https://neptune.ai/blog/llm-evaluation-text-summarization)) #revisit 
+		- ==It's ultimately subjective== ([Eugene Yan](https://eugeneyan.com/writing/abstractive/))

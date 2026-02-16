@@ -1,5 +1,14 @@
 > "Give me a lever long enough and a place to stand, and I will move the earth.” — Archimedes
 
+E.g., summary first over reading the source first: the former usually implies less chance of overly committing to something that’s not really worth your time.
+
+Related:
+- [[2-1a6c5 'Randomness' is the opportunity to reason abductively]]
+- [[5-1b1b1a Power-law curiosity - be professionally curious about a few topics and idly curious about many more]]
+- [[RUL3 - Invert, always invert]]
+
+---
+
 Next:
 - [[2-3b0 Knowledge creation is not a function of time]]
 - [[2-3b1 'Sensitivity to fairness' - What is fair changes]]
