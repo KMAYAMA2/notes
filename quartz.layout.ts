@@ -81,6 +81,17 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "people/" as SimpleSlug,
       }),
     ),
+    // Recent Essai (AI-generated/assisted essays)
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Essai",
+        limit: 1,
+        showTags: false,
+        filter: (f) =>
+          f.slug!.startsWith("essai/") && f.slug! !== "essai/index" && !f.frontmatter?.noindex,
+        linkToMore: "essai/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
     Component.Graph({

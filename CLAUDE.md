@@ -169,7 +169,7 @@ When the user asks about their notes, essays, or people pages:
    - `qmd vsearch "query" -c vault -n 10` (vector semantic only)
    - `qmd get qmd://vault/path/to/file.md` (retrieve a specific note by path)
    - `qmd status` / `qmd ls vault` (check index health / list indexed files)
-4. **Reading actual note content** — read markdown files from `content/` directory (e.g., `content/notes/...`, `content/essays/...`, `content/people/...`)
+4. **Reading actual note content** — read markdown files from `content/` directory (e.g., `content/notes/...`, `content/essays/...`, `content/essai/...`, `content/people/...`)
 
 Prefer pre-computed data (steps 1-2) over live search (step 3) when the question is about structure, connections, or patterns. Use qmd when the user asks about specific topics or wants to find notes by meaning.
 
@@ -190,9 +190,22 @@ When the user asks to update their /now page (`content/now.md`):
 Important: Never auto-update content/now.md. Always show the draft first.
 The /now page is personal voice — write in Kento's style, not generic AI prose.
 
+### Creating /essai posts
+
+Essai (`content/essai/`) is the section for AI-generated or AI-assisted essays. When the user asks a question about their vault (via qmd or analysis data) and then says "turn that into /essai", create a polished essay draft from the conversation:
+
+1. Take the key insights from the preceding conversation (qmd results, analysis, synthesis)
+2. Draft a markdown file with frontmatter (`date`, and optionally `tags`)
+3. The tone should be Kento's voice informed by AI analysis — not generic AI prose
+4. Present the draft to the user for approval before writing to `content/essai/`
+5. File name should be the essay title (e.g., `content/essai/Why Popper Keeps Showing Up.md`)
+
+Important: Never auto-write to content/essai/. Always show the draft first.
+Essai pieces can freely wikilink to notes, essays, and people — cross-linking is encouraged.
+
 ## This Instance's Customizations
 
-- Content sections: `essays/`, `notes/`, `people/`
+- Content sections: `essays/`, `essai/`, `notes/`, `people/`
 - Custom RecentNotes widgets for each section in sidebar
 - Graph visualization depth set to 2 hops
 - Purple color scheme for links in light mode
