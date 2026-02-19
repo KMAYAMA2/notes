@@ -42,16 +42,22 @@ const RankContent: QuartzComponent = (props: QuartzComponentProps) => {
           <thead>
             <tr>
               <th class="rank-col">#</th>
-              <th>Title</th>
-              <th class="section-col">Section</th>
-              <th class="num-col">Total</th>
-              <th class="num-col">In</th>
-              <th class="num-col">Out</th>
+              <th class="sortable" data-sort="title">Title</th>
+              <th class="section-col sortable" data-sort="section">Section</th>
+              <th class="num-col sortable active" data-sort="total">Total ↓</th>
+              <th class="num-col sortable" data-sort="in">In</th>
+              <th class="num-col sortable" data-sort="out">Out</th>
             </tr>
           </thead>
           <tbody>
             {ranked.map((note, i) => (
-              <tr>
+              <tr
+                data-title={note.title}
+                data-section={note.section}
+                data-total={note.total}
+                data-in={note.inCount}
+                data-out={note.outCount}
+              >
                 <td class="rank-col">{i + 1}</td>
                 <td>
                   <a
@@ -73,6 +79,53 @@ const RankContent: QuartzComponent = (props: QuartzComponentProps) => {
     </div>
   )
 }
+
+RankContent.afterDOMLoaded = `
+const table = document.querySelector(".rank-table")
+if (table) {
+  const headers = table.querySelectorAll("th.sortable")
+  let currentSort = "total"
+  let ascending = false
+
+  headers.forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort
+      if (currentSort === key) {
+        ascending = !ascending
+      } else {
+        currentSort = key
+        ascending = key === "title" || key === "section"
+      }
+
+      const tbody = table.querySelector("tbody")
+      const rows = Array.from(tbody.querySelectorAll("tr"))
+
+      rows.sort((a, b) => {
+        if (key === "title" || key === "section") {
+          const va = a.dataset[key] || ""
+          const vb = b.dataset[key] || ""
+          return ascending ? va.localeCompare(vb) : vb.localeCompare(va)
+        }
+        const va = parseInt(a.dataset[key]) || 0
+        const vb = parseInt(b.dataset[key]) || 0
+        return ascending ? va - vb : vb - va
+      })
+
+      rows.forEach((row, i) => {
+        row.querySelector(".rank-col").textContent = i + 1
+        tbody.appendChild(row)
+      })
+
+      headers.forEach(h => {
+        h.classList.remove("active")
+        h.textContent = h.textContent.replace(/ [↑↓]$/, "")
+      })
+      th.classList.add("active")
+      th.textContent += ascending ? " ↑" : " ↓"
+    })
+  })
+}
+`
 
 RankContent.css = `
 .rank-table {
@@ -111,6 +164,19 @@ RankContent.css = `
 
 .rank-table tbody tr:hover {
   background: var(--highlight);
+}
+
+.rank-table th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.rank-table th.sortable:hover {
+  color: var(--secondary);
+}
+
+.rank-table th.sortable.active {
+  color: var(--secondary);
 }
 `
 
