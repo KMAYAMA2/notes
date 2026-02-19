@@ -1,0 +1,4424 @@
+{
+  "generatedAt": "2026-02-19T03:43:08.645Z",
+  "referenceDate": "2026-02-19",
+  "windows": {
+    "recent": {
+      "label": "Last 30 days",
+      "after": "2026-01-20",
+      "before": "2026-02-19",
+      "files": [
+        {
+          "slug": "notes/2-1b2b1.2-Anything-worth-doing-is-worth-doing-to-excess",
+          "title": "2-1b2b1.2 Anything worth doing is worth doing to excess",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-2b2e-Humans-really-care-about-other-humans",
+          "title": "8-2b2e Humans really care about other humans",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e4-Nothing-is-objectively-and-independently-good",
+          "title": "12-1e4 Nothing is objectively and independently good",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b3.1-Pick-weak-competitions",
+          "title": "2-1b3.1 Pick weak competitions",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-3b-'Leverage'---The-effort-put-in-and-its-utility-results-doesn't-have-to-correlate-at-all.-Use-this-to-your-advantage.",
+          "title": "2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "MentalModelsPhysicsAndChem"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b1a-Power-law-curiosity---be-professionally-curious-about-a-few-topics-and-idly-curious-about-many-more",
+          "title": "5-1b1b1a Power-law curiosity - be professionally curious about a few topics and idly curious about many more",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-1a-We-are-outsourcing-to-capitalist-entities-who-are-not-aligned-with-us",
+          "title": "6-1a We are outsourcing to capitalist entities who are not aligned with us",
+          "section": "notes",
+          "category": "6",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b-When-you-own-something,-you-have-an-incentive-to-invest-in-it",
+          "title": "6-3b When you own something, you have an incentive to invest in it",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "own",
+            "develop",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1d2a3-No-LLCs-meant-only-close-knit-partnerships-with-trust-were-available",
+          "title": "7-1d2a3 No LLCs meant only close-knit partnerships with trust were available",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1b0c-Reality-doesn't-differentiate-reading-thinking-writing-playing-doing-investing-building",
+          "title": "9-1b0c Reality doesn't differentiate reading-thinking-writing-playing-doing-investing-building",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/CPU,-GPU,-Brain,-Mind,-Energy",
+          "title": "CPU, GPU, Brain, Mind, Energy",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1f3-We-can-only-figure-out-what-they-know-by-what-they-do-('performance'),-because-we-can-never-directly-study-what-people-know-('competence').-To-assert-that-we-can-is-a-common-error-in-thinking.",
+          "title": "10-2g1f3 We can only figure out what they know by what they do ('performance'), because we can never directly study what people know ('competence'). To assert that we can is a common error in thinking.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "revisit",
+            "Behaviorism",
+            "MentalModels",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b0.1-Give-a-man-a-fish-and-you-feed-him-for-a-day.-Teach-a-man-to-fish-and-you-feed-him-for-a-lifetime.",
+          "title": "2-1b2b0.1 Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b0.1a-Prioritize-upstream-productivity",
+          "title": "2-1b2b0.1a Prioritize upstream productivity",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2e-'Algorithms'-&-'Replication'---Share-your-problem-situation-as-clearly-possible,-so-that-others-can-make-decisions-without-you-on-your-behalf-(i.e.,-multiply)",
+          "title": "notes/2-1b2e-'Algorithms'-&-'Replication'---Share-your-problem-situation-as-clearly-possible,-so-that-others-can-make-decisions-without-you-on-your-behalf-(i.e.,-multiply)",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/5-2b1b-Writing-down-makes-it-easier-for-your-conscious-to-see-the-unconscious",
+          "title": "5-2b1b Writing down makes it easier for your conscious to see the unconscious",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1c-Look-for-inherently-digital-native-areas-and-concepts",
+          "title": "8-1c Look for inherently digital-native areas and concepts",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "now",
+          "title": "Now",
+          "section": "other",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "essays/The-Triad-is-the-Underlying",
+          "title": "The Triad is the Underlying",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a4a1-Regime-switching-model-implemented-Popperian-epistemology-to-trade-financial-derivatives",
+          "title": "1-1a4a1 Regime-switching model implemented Popperian epistemology to trade financial derivatives",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2j1b-Accuracy-in-virtual-reality-=-The-relationship-between-theory-and-experiment-in-science.-That-is,-you-can-never-prove-experience-measure-certify-that-it's-accurate-true-program.",
+          "title": "1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2q1-Science-is-about-independent-replication.-Only-trust-as-scientific-truth-what-can-be-independently-verified-replicated.",
+          "title": "1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated.",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-1b4-Children-concentrically-embody-their-ever-widening-knowledge-structures-by-testing-the-degree-of-its-correspondence-in-comparison-with-other-members-of-the-society",
+          "title": "10-1b4 Children concentrically embody their ever-widening knowledge structures by testing the degree of its correspondence in comparison with other members of the society",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "TheTuringPrinciple",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2e7-The-common-sense-concept-of-cause-and-effect-makes-sense-because-'variants'-do-exist-somewhere-in-the-multiverse.-Nothing-necessitates-causes-to-precede-their-effects.",
+          "title": "10-2e7 The common-sense concept of cause and effect makes sense because 'variants' do exist somewhere in the multiverse. Nothing necessitates causes to precede their effects.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "multiverse",
+            "evolution",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2e8-Reasoning-about-causes-and-effects-is-reasoning-about-variants-of-the-causes-and-effects.-What-would've-happened.-How-it-could've-been-otherwise.",
+          "title": "10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2e8a-Understanding-is-about-counterfactual-and-contingency",
+          "title": "10-2e8a Understanding is about counterfactual and contingency",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-3.3-'The-law-of-diminishing-returns'---We-can-recalibrate-the-curve-so-that-we-are-always-at-the-growing-phase-of-the-S-curve!",
+          "title": "11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve!",
+          "section": "notes",
+          "category": "11",
+          "tags": [
+            "develop",
+            "reflexivity"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-5f-The-interest-rate-is-determined-by-the-time-preference-schedules,-rather-than-vice-versa",
+          "title": "13-5f The interest rate is determined by the time-preference schedules, rather than vice versa",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-6a2-Knowledge-keeps-you-the-same,-from-the-perspective-of-exhibited-value-scales",
+          "title": "13-6a2 Knowledge keeps you the same, from the perspective of exhibited value scales",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-8a2.1-Money-is-the-present-good-par-excellence",
+          "title": "13-8a2.1 Money is the present good par excellence",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+          "title": "2-1a0c1d1 Focus on the few variables",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b6a0.3-Time-is-money-means-money-is-time",
+          "title": "4-1a4b6a0.3 Time is money means money is time",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "Ayache",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b1a2.1-Network-effect-means-scaling-increasingly",
+          "title": "5-1b1b1a2.1 Network effect means scaling increasingly",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b4b-Compounding-is-usually-too-slow-to-notice.-You-have-to-be-deliberate-in-how-you-think-and-what-you-see.",
+          "title": "5-1b4b Compounding is usually too slow to notice. You have to be deliberate in how you think and what you see.",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "MentalModels",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-2b2b-Key-moment-is-when-people-(e.g.,-devs)-don't-have-to-worry-about-the-infrastructure-(e.g.,-platform-risks-including-high-take-rates)",
+          "title": "8-2b2b Key moment is when people (e.g., devs) don't have to worry about the infrastructure (e.g., platform risks including high take rates)",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-2b2d-Value-shifts-to-adjacent-layers",
+          "title": "8-2b2d Value shifts to adjacent layers",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1b0a-When-you-have-learned-something,-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+          "title": "9-1b0a When you have learned something, the way it exists in your mind is the same as the way it exists in the mind of the inventor",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "BorrowedCreativity",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b2a1f-Two-way-debate-benefits-from-criticism",
+          "title": "9-4b2a1f Two-way debate benefits from criticism",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "revisit",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4c1-If-you-can't-write-about-it,-you-can't-code-it.-If-you-can't-program-it,-you-don't-understand-it.",
+          "title": "9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/David-Deutsch",
+          "title": "David Deutsch",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit",
+            "TODO",
+            "TheTuringPrinciple"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Li-Lu",
+          "title": "Li Lu",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Marc-Andreessen",
+          "title": "Marc Andreessen",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Murray-Rothbard",
+          "title": "Murray Rothbard",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit",
+            "TODO",
+            "volatility",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Warren-Buffett",
+          "title": "Warren Buffett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1c6a3-Say-yes-only-when-both-your-heart-and-head-say-so",
+          "title": "1-1c6a3 Say yes only when both your heart and head say so",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2s7b3-An-explanation-for-how-something-really-works-cannot-rely-on-infinity",
+          "title": "1-2g2s7b3 An explanation for how something really works cannot rely on infinity",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop",
+            "challenge"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-1b7-Culture-and-grammar-shape-each-other-through-their-evolved-symbiotic-relationship",
+          "title": "10-1b7 Culture and grammar shape each other through their evolved symbiotic relationship",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-2b-The-accumulated-stock-of-capital-goods-imposes-a-conservative-force-on-present-day-action",
+          "title": "13-2b The accumulated stock of capital goods imposes a conservative force on present-day action",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1aa-Privacy-is-the-absence-of-information-leakage",
+          "title": "2-1aa Privacy is the absence of information leakage",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1ab-Bluffing-exists-because-information-is-private",
+          "title": "2-1ab Bluffing exists because information is private",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+          "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "reflexivity",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2-What-counts-cannot-be-counted",
+          "title": "5-2 What counts cannot be counted",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2a2-What-gets-measured-gets-managed",
+          "title": "5-2a2 What gets measured gets managed",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TODO",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+          "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "revisit",
+            "symbols",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Scott-Aaronson",
+          "title": "Scott Aaronson",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Money---Days-of-Future-Past",
+          "title": "Money - Days of Future Past",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "revisit",
+            "challenge"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g3-The-sphere-of-comprehensibility-expands-infinitely",
+          "title": "1-2g3 The sphere of comprehensibility expands infinitely",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a5-Any-explanation-must-evoke-human-creativity-(i.e.,-our-ability-to-come-up-with-explanations)-fully",
+          "title": "3-1a5 Any explanation must evoke human creativity (i.e., our ability to come up with explanations) fully",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b1.2-Marshall-McLuhan---'It-is-the-medium-itself-that-is-the-message,-not-the-content'",
+          "title": "9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content'",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/How-Popper-would-use-LLMs",
+          "title": "How Popper would use LLMs",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e0-Everything-changes",
+          "title": "12-1e0 Everything changes",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1a1-Improving-on-already-existent-technology-by-removing-one-of-its-restraints-amounts-to-innovation",
+          "title": "5-1b1a1 Improving on already existent technology by removing one of its restraints amounts to innovation",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "elaborate",
+            "BorrowedCreativity"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Gresham's-Law-and-AI",
+          "title": "Gresham's Law and AI",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Naruto-and-LLMs",
+          "title": "Naruto and LLMs",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5a3-Knowledge-is-about-knowing-the-edge",
+          "title": "1-1a5a3 Knowledge is about knowing the edge",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-1b3-Sapir---'Culture-is-not-something-given-but-something-to-be-gradually-and-gropingly-discovered'",
+          "title": "10-1b3 Sapir - 'Culture is not something given but something to be gradually and gropingly discovered'",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "TheTuringPrinciple"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b1-'Inversion'---Avoid-stupid-obvious-bullshit-you'd-regret-in-the-future",
+          "title": "2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b1a1a-Pareto-principle-(or-law-of-the-vital-few)---80%-of-the-effects-come-from-20%-of-the-causes",
+          "title": "notes/5-1b1b1a1a-Pareto-principle-(or-law-of-the-vital-few)---80%-of-the-effects-come-from-20%-of-the-causes",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/7-1a2a-You-will-be-solving-universal-problems-by-attending-to-local-parochial-problems-first",
+          "title": "7-1a2a You will be solving universal problems by attending to local-parochial problems first",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "elaborate"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b2b1-The-best-is-seeing-the-front-by-yourself,-because-inexplicit-and-unconscious-ideas-exist-between-heads-not-within-them",
+          "title": "7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "elaborate",
+            "TheMomTest"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/QUE5---What-are-people-in-your-field-religious-about,-in-the-sense-of-being-too-attached-to-some-principle-that-might-not-be-as-self-evident-as-they-think.-What-becomes-possible-if-you-discard-it.",
+          "title": "QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-1a5-Digitizing-history-means-explaining-each-fork-as-contingent-points-(the-could've-been)-for-the-history-around-an-idea.-History-is-the-Idea-Maze,-and-must-be-created-symbolically-(never-non-digitally-nor-indexically)-by-the-individuals.",
+          "title": "10-1a5 Digitizing history means explaining each fork as contingent points (the could've been) for the history around an idea. History is the Idea Maze, and must be created symbolically (never non-digitally nor indexically) by the individuals.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Moat-Digitized",
+          "title": "Moat Digitized",
+          "section": "essays",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1c6a2a1-Be-careful-with-'just-in-time-productivity'",
+          "title": "1-1c6a2a1 Be careful with 'just-in time productivity'",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a1a3d-'Relative-satisfaction-(or-misery)-tendencies'---Your-average-five-is-important,-and-you-can-spend-time-with-the-best-of-the-best-with-internet",
+          "title": "2-1a1a3d 'Relative satisfaction (or misery) tendencies' - Your average five is important, and you can spend time with the best of the best with internet",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a3-'Seeing-the-front'---Incorporate-what-can't-be-explicated",
+          "title": "2-1a3 'Seeing the front' - Incorporate what can't be explicated",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "MentalModelsMilitaryAndWar"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b4c2a-When-you-have-an-agency,-you-don't-get-depleted.-We-aren't-powered-by-a-battery.",
+          "title": "5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Andrej-Karpathy",
+          "title": "Andrej Karpathy",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1d-The-One-Commandment-is-about-focus---Focus-on-a-single-moral-innovation",
+          "title": "2-1a0c1d The One Commandment is about focus - Focus on a single moral innovation",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2d1-Procrastinators-often-follow-exactly-the-wrong-track.-They-try-to-minimize-their-commitments,-assuming-that-if-they-have-only-a-few-things-to-do,-they-will-quit-procrastinating-and-get-them-done.",
+          "title": "5-2d1 Procrastinators often follow exactly the wrong track. They try to minimize their commitments, assuming that if they have only a few things to do, they will quit procrastinating and get them done.",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "MentalModels",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Eric-Voskuil",
+          "title": "Eric Voskuil",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+          "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit",
+            "develop",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1g-Scientific-knowledge-implies-location-time-scale-independent-applicability",
+          "title": "10-2g1g Scientific knowledge implies location-time-scale-independent applicability",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1a2a1-Free-markets-and-free-speech,-by-definition,-transcend-the-concepts-of-nation-states",
+          "title": "12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "develop",
+            "contingency",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-5b2a-Because-of-money,-the-concept-of-rate-of-return-can-be-abstracted-to-the-ratio-between-present-goods-exchanged-against-future-goods-in-general",
+          "title": "13-5b2a Because of money, the concept of rate of return can be abstracted to the ratio between present goods exchanged against future goods in general",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-5b2d-Production-processes-in-the-evenly-rotating-economy-are-interchangeable,-hence-the-analysis-becomes-scale-independent-and-substrate-independent",
+          "title": "13-5b2d Production processes in the evenly rotating economy are interchangeable, hence the analysis becomes scale-independent and substrate-independent",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "ERE",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a6-'Incentives'---Incentives-drive-(almost)-everything.-Understand-your-incentives.",
+          "title": "2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2e-Don't-get-started",
+          "title": "4-1a4b2e Don't get started",
+          "section": "notes",
+          "category": "4",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1a1c1-The-interoperability-law---information-can-be-copied-from-any-system-that-can-embody-information-to-any-other-such-system,-irrespective-of-the-details-(i.e.,-substrate-independent)",
+          "title": "5-1b1a1c1 The interoperability law - information can be copied from any system that can embody information to any other such system, irrespective of the details (i.e., substrate-independent)",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TheTuringPrinciple"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a1.1-'Scale'---Anything-that-scaled-started-small,-at-the-edge,-at-the-frontier,-as-an-avant-garde",
+          "title": "7-1a2a1.1 'Scale' - Anything that scaled started small, at the edge, at the frontier, as an avant-garde",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a1.1-Look-for-two-step-aheaders,-instead-of-people-many-steps-ahead-of-you",
+          "title": "7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1b3b2-There-are-infinite-more-things-to-experiment-on-chain-(and-off-chain)-just-as-there-are-infinite-things-to-write-about",
+          "title": "8-1b3b2 There are infinite more things to experiment on-chain (and off-chain) just as there are infinite things to write about",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b3e3.1-Maybe-there-is-no-abstract-universality,-just-less-locality",
+          "title": "9-2b3e3.1 Maybe there is no abstract universality, just less locality",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b3e4-Write-each-sentence-like-you-are-talking-to-a-friend",
+          "title": "9-4b3e4 Write each sentence like you are talking to a friend",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2-Play-in-different-time-horizon.-That-is,-in-the-long-run.",
+          "title": "2-1b2 Play in different time horizon. That is, in the long-run.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "TODO",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c1a2-The-attract-extract-cycle---Bigger-networks-have-less-to-gain-and-more-to-lose-by-interoperating",
+          "title": "2-1c1a2 The attract-extract cycle - Bigger networks have less to gain and more to lose by interoperating",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1e1-'Layer-1'-&-'Layer-2'-phrasing-is-probably-not-the-best-analogy-understanding-topology",
+          "title": "notes/2-1e1-'Layer-1'-&-'Layer-2'-phrasing-is-probably-not-the-best-analogy-understanding-topology",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/6-3a2.1-How-you-achieve-something-matters-as-much-as-what-you-achieve",
+          "title": "6-3a2.1 How you achieve something matters as much as what you achieve",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b2a-Interoperability-implies-compounding",
+          "title": "6-3b2a Interoperability implies compounding",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a2-Get-ahead-in-the-short-run,-then-in-the-long-run",
+          "title": "7-1a2a2 Get ahead in the short-run, then in the long-run",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        }
+      ],
+      "totalFiles": 157
+    },
+    "midterm": {
+      "label": "31-90 days ago",
+      "after": "2025-11-21",
+      "before": "2026-01-20",
+      "files": [
+        {
+          "slug": "notes/1-1a5a3-Knowledge-is-about-knowing-the-edge",
+          "title": "1-1a5a3 Knowledge is about knowing the edge",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1d-Humans-are-the-apex-predators-because-we-plan,-share-knowledge,-and-leave-knowledge-for-future-generations,-by-talking-to-each-other.-We-are-knowledge-oriented.",
+          "title": "10-2g1d Humans are the apex predators because we plan, share knowledge, and leave knowledge for future generations, by talking to each other. We are knowledge-oriented.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+          "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "revisit",
+            "symbols",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1a2a1-Free-markets-and-free-speech,-by-definition,-transcend-the-concepts-of-nation-states",
+          "title": "12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "develop",
+            "contingency",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3a2d6-There-is-no-perfect-money",
+          "title": "13-1a3a2d6 There is no perfect money",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3a2d7-There-is-no-perfect-market",
+          "title": "13-1a3a2d7 There is no perfect market",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1aa-Privacy-is-the-absence-of-information-leakage",
+          "title": "2-1aa Privacy is the absence of information leakage",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c1a2-The-attract-extract-cycle---Bigger-networks-have-less-to-gain-and-more-to-lose-by-interoperating",
+          "title": "2-1c1a2 The attract-extract cycle - Bigger networks have less to gain and more to lose by interoperating",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2c2-Fake-stuff-usually-has-a-sharp-peak-of-seeming-to-matter",
+          "title": "5-2c2 Fake stuff usually has a sharp peak of seeming to matter",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b4f-Let-the-tech-decide-where-to-go-(both-intellectually-and-physically)",
+          "title": "7-1b4f Let the tech decide where to go (both intellectually and physically)",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-4-LLMs",
+          "title": "8-4 LLMs",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2a3b0.2-Understand-the-downside-5-to-10-years-from-now",
+          "title": "9-2a3b0.2 Understand the downside 5 to 10 years from now",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/QUE5---What-are-people-in-your-field-religious-about,-in-the-sense-of-being-too-attached-to-some-principle-that-might-not-be-as-self-evident-as-they-think.-What-becomes-possible-if-you-discard-it.",
+          "title": "QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Bitstein",
+          "title": "Bitstein",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Ludwig-Lachmann",
+          "title": "Ludwig Lachmann",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Michael-Burry",
+          "title": "Michael Burry",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO",
+            "method"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Scott-Aaronson",
+          "title": "Scott Aaronson",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Warren-Buffett",
+          "title": "Warren Buffett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2f1b9-Repeat-what-works",
+          "title": "1-2f1b9 Repeat what works",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2b4-The-universality-of-computation-is-a-property-of-hardware-and-rather-uncontroversial.-The-universality-of-explanation-is-a-property-of-software-and-rather-controversial.",
+          "title": "1-2g2b4 The universality of computation is a property of hardware and rather uncontroversial. The universality of explanation is a property of software and rather controversial.",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a6c3-'Global-and-local-maxima'---Don't-prematurely-overoptimize.-Occasionally-throw-in-some-'randomness'.",
+          "title": "2-1a6c3 'Global and local maxima' - Don't prematurely overoptimize. Occasionally throw in some 'randomness'.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsNumeracy"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a7a4-In-the-long-run-reality-gets-in;-narrative-can-get-you-so-far",
+          "title": "2-1a7a4 In the long run reality gets in; narrative can get you so far",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2-Play-in-different-time-horizon.-That-is,-in-the-long-run.",
+          "title": "2-1b2 Play in different time horizon. That is, in the long-run.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "TODO",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a4b8-With-few-exceptions,-buy-on-the-cheapest-market-and-sell-on-the-dearest-leads-to-satisfaction-of-the-most-highly-valued-ends-of-each-individual,-both-as-consumer-and-as-a-producer",
+          "title": "3-1a4b8 With few exceptions, buy on the cheapest market and sell on the dearest leads to satisfaction of the most highly valued ends of each individual, both as consumer and as a producer",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+          "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "reflexivity",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c1b1-You-are-also-how-you-consume",
+          "title": "3-1c1b1 You are also how you consume",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c1c-You-must-build-your-own-media-for-yourself",
+          "title": "3-1c1c You must build your own media for yourself",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1d6d-Consistency-with-specific-problems-in-mind-is-the-key-to-(detect)-progress",
+          "title": "3-1d6d Consistency with specific problems in mind is the key to (detect) progress",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1d7-'Escape-velocity'---Little-expressivity-goes-long-way",
+          "title": "3-1d7 'Escape velocity' - Little expressivity goes long way",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1d8-When-you-have-something,-you-can-not-have-it.-When-you-don't-have-something,-you-cannot-have-it.-That's-a-huge-difference.",
+          "title": "3-1d8 When you have something, you can not have it. When you don't have something, you cannot have it. That's a huge difference.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2-What-counts-cannot-be-counted",
+          "title": "5-2 What counts cannot be counted",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-3a-Knowledge-via-new-explanations-is-inherently-creative-and-its-effects-are-positive-sum,-because-it-begets-new-problems-to-be-solved",
+          "title": "5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop",
+            "MentalModels"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-3b-Knowledge-creates-new-frontiers-(and-new-markets)",
+          "title": "5-3b Knowledge creates new frontiers (and new markets)",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-3c-Knowledge-is-irreversible,-and-can-only-go-from-private-to-public",
+          "title": "5-3c Knowledge is irreversible, and can only go from private to public",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b2-In-corporate-networks-you-can-only-quit",
+          "title": "6-3b2 In corporate networks you can only quit",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b2e-Network-effects-+-Feedback-loops-+-Composability-=-Exponential-growth",
+          "title": "6-3b2e Network effects + Feedback loops + Composability = Exponential growth",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "MentalModelsSystems",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1b3-The-software-can-control-the-hardware",
+          "title": "8-1b3 The software can control the hardware",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "categories",
+            "develop",
+            "reflexivity",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b1.4-Where-you-put-your-writing-on-can-affect-how-you-write",
+          "title": "9-2b1.4 Where you put your writing on can affect how you write",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4e2-Full-stack-writers-write-articles-and-build-things-(e.g.,-software,-hardware,-movies)",
+          "title": "9-4e2 Full-stack writers write articles and build things (e.g., software, hardware, movies)",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Balaji-Srinivasan",
+          "title": "Balaji Srinivasan",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "volatility"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+          "title": "2-1a0c1d1 Focus on the few variables",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2a0-Know-what-to-measure",
+          "title": "5-2a0 Know what to measure",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a5a-Finding-some-distribution-arbitrage-in-your-time-and-place-is-also-a-great-source-for-growth",
+          "title": "7-1a5a Finding some distribution arbitrage in your time and place is also a great source for growth",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-3.4a-More-is-different",
+          "title": "11-3.4a More is different",
+          "section": "notes",
+          "category": "11",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-2a-The-supply-of-capital-goods-enforces-narrower-limits-than-knowledge",
+          "title": "13-2a The supply of capital goods enforces narrower limits than knowledge",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a4c-We-don't-know-how-we-create-knowledge-yet,-but-that-doesn't-mean-we-can't",
+          "title": "2-1a4c We don't know how we create knowledge yet, but that doesn't mean we can't",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b0.1a-Prioritize-upstream-productivity",
+          "title": "2-1b2b0.1a Prioritize upstream productivity",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-6-You-get-what-you-pay-for",
+          "title": "2-6 You get what you pay for",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b6b-When-ideas-are-exposed-to-various-contexts-(i.e.,-different-people-place-time)-they-often-find-unexpected-match.-Ideas-have-timing.",
+          "title": "4-1a4b6b When ideas are exposed to various contexts (i.e., different people-place-time) they often find unexpected match. Ideas have timing.",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b2.4-Decentralization-is-security",
+          "title": "6-3b2.4 Decentralization is security",
+          "section": "notes",
+          "category": "6",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-8-Train-your-weakest-link",
+          "title": "6-8 Train your weakest link",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1d1c-You-can-be-at-the-edge-of-the-newest-technology",
+          "title": "7-1d1c You can be at the edge of the newest technology",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1-The-frontier",
+          "title": "8-1 The frontier",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-2-Blockchains-Crypto",
+          "title": "8-2 Blockchains-Crypto",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1a2-Most-fairly-good-ideas-are-adjacent-to-even-better-ones",
+          "title": "9-1a2 Most fairly good ideas are adjacent to even better ones",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "reflexivity",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2e4b-Naval---'Enlightenment-is-in-between-your-thoughts,-in-understanding-why-you-are-having-such-thoughts'",
+          "title": "1-1a2e4b Naval - 'Enlightenment is in between your thoughts, in understanding why you are having such thoughts'",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2e1-Be-ambitious-but-leverage-what-you-already-know",
+          "title": "1-2e1 Be ambitious but leverage what you already know",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "BorrowedCreativity"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-6a1-Without-knowledge,-self-identity-is-no-stronger-than-the-identity-between-any-two-people",
+          "title": "13-6a1 Without knowledge, self-identity is no stronger than the identity between any two people",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0.1-Complacency-will-kill-you-('The-Red-Queen-effect')",
+          "title": "2-1a0.1 Complacency will kill you ('The Red Queen effect')",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1-'Failure-comes-from-a-failure-to-imagine-failure'",
+          "title": "2-1a0c1 'Failure comes from a failure to imagine failure'",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+          "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "FutureSelf",
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2e2-Knowledge-doesn't-care-how-it's-replicated-and-its-impact-on-the-knowledge-bearing-entities.-What-matters-is-whether-the-content-is-replicated,-and-there's-space-for-creativity-and-variation-here.",
+          "title": "2-1b2e2 Knowledge doesn't care how it's replicated and its impact on the knowledge bearing entities. What matters is whether the content is replicated, and there's space for creativity and variation here.",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1d7a-'Bottlenecks'---Don't-hate-them.-Rather,-use-them-creatively.",
+          "title": "3-1d7a 'Bottlenecks' - Don't hate them. Rather, use them creatively.",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2c2b3-'When-you-punt-something-into-the-future,-the-future-eventually-arrives'",
+          "title": "5-2c2b3 'When you punt something into the future, the future eventually arrives'",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Judea-Pearl",
+          "title": "Judea Pearl",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Li-Lu",
+          "title": "Li Lu",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2c-Everett-on-Aristotle---He-is-responsible-for-the-characterization-of-the-mind-as-a-blank-slate-('Mind-is-in-a-sense-potentially-whatever-is-thinkable,-though-actually-it-is-nothing-until-it-has-thought')",
+          "title": "1-1a2c Everett on Aristotle - He is responsible for the characterization of the mind as a blank slate ('Mind is in a sense potentially whatever is thinkable, though actually it is nothing until it has thought')",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b3a-'Circle-of-competence'-&-'Niches'---Build-a-moat.-Thrive-in-where-you-can.",
+          "title": "notes/2-1b3a-'Circle-of-competence'-&-'Niches'---Build-a-moat.-Thrive-in-where-you-can.",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+          "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit",
+            "develop",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1f-Imitation-=-limitation-(imitation-has-limitation)",
+          "title": "10-2g1f Imitation = limitation (imitation has limitation)",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1d-'Ecosystem'-&-'Thermodynamics'-&-'Double-entry-bookkeeping'---Everything-is-connected,-there-is-no-free-lunch",
+          "title": "notes/2-1d-'Ecosystem'-&-'Thermodynamics'-&-'Double-entry-bookkeeping'---Everything-is-connected,-there-is-no-free-lunch",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/2-2c-'Tragedy-of-the-commons'---Also-look-for-negative-lollapalooza-effects-('devolution')",
+          "title": "2-2c 'Tragedy of the commons' - Also look for negative lollapalooza effects ('devolution')",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b4c2a-When-you-have-an-agency,-you-don't-get-depleted.-We-aren't-powered-by-a-battery.",
+          "title": "5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1c-Look-for-inherently-digital-native-areas-and-concepts",
+          "title": "8-1c Look for inherently digital-native areas and concepts",
+          "section": "notes",
+          "category": "8",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Daniel-Everett",
+          "title": "Daniel Everett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2f-You-are-redundant-if-you-are-flexible-and-(close-to-being)-universal---that-is,-composable-and-interoperable",
+          "title": "1-1a2f You are redundant if you are flexible and (close to being) universal - that is, composable and interoperable",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "Universality",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2b2-He-who-controls-the-past-controls-the-future",
+          "title": "1-2b2 He who controls the past controls the future",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-3.1-'Equilibrium'---Anything-innovative-escapes-the-Invisible-Hand",
+          "title": "11-3.1 'Equilibrium' - Anything innovative escapes the Invisible Hand",
+          "section": "notes",
+          "category": "11",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3a2d-The-more-extended-the-market,-the-more-will-exchange-values-(as-compared-to-direct-use-values)-predominate-in-the-decisions-of-the-producer",
+          "title": "13-1a3a2d The more extended the market, the more will exchange-values (as compared to direct use-values) predominate in the decisions of the producer",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1i-Every-polity-will-be-publicly-traded-eventually-just-like-companies-and-coins",
+          "title": "2-1a0c1i Every polity will be publicly traded eventually just like companies and coins",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c1b-'Two-front-war'---Deal-with-it-effectively-by-knowing-your-priority.-Use-it-effectively-against-those-whose-priorities-are-vague.",
+          "title": "2-1c1b 'Two-front war' - Deal with it effectively by knowing your priority. Use it effectively against those whose priorities are vague.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsMilitaryAndWar"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c2b-Forced-vertical-integration-made-Tesla-intimately-familiar-with-the-complex-supply-chain-required-to-build-a-car.-Good-counter-argument-to-outsourcing-everything.",
+          "title": "2-1c2b Forced vertical integration made Tesla intimately familiar with the complex supply chain required to build a car. Good counter-argument to outsourcing everything.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1e-Everything-is-connected-in-a-complex-way",
+          "title": "2-1e Everything is connected in a complex way",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-3a-'First-principles-thinking'---If-it's-not-forbidden-by-the-laws-of-physics,-it-is-possible",
+          "title": "2-3a 'First principles thinking' - If it's not forbidden by the laws of physics, it is possible",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsGeneral",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c2e0-There-is-no-minimum-idea",
+          "title": "3-1c2e0 There is no minimum idea",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "Ayache",
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c2f-In-tech,-most-of-the-value-is-in-the-ordering,-in-the-useful-configuration-of-zeroes-and-ones,-which-users-click-to-pay-for-it",
+          "title": "3-1c2f In tech, most of the value is in the ordering, in the useful configuration of zeroes and ones, which users click to pay for it",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c3c3a-Realize-that-having-invested-time-in-something-doesn't-make-it-good.-There-is-no-necessary-correlation-between-the-time-you-put-in-and-its-usefulness.",
+          "title": "3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "MentalModels"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b6a0.3-Time-is-money-means-money-is-time",
+          "title": "4-1a4b6a0.3 Time is money means money is time",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "Ayache",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2a2-What-gets-measured-gets-managed",
+          "title": "5-2a2 What gets measured gets managed",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TODO",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a2-Get-ahead-in-the-short-run,-then-in-the-long-run",
+          "title": "7-1a2a2 Get ahead in the short-run, then in the long-run",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1b4-Blockchains-are-new-kind-of-computer",
+          "title": "8-1b4 Blockchains are new kind of computer",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1b4a-The-meaning-of-the-word-'computer'-shifts",
+          "title": "8-1b4a The meaning of the word 'computer' shifts",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1c2a-What-matters-is-the-creativity-per-se,-because-non-creative-parts-will-be-made-easier",
+          "title": "8-1c2a What matters is the creativity per se, because non-creative parts will be made easier",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop",
+            "composability"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4f-Product-is-merit-and-distribution-is-connection",
+          "title": "9-4f Product is merit and distribution is connection",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c3c3a1-Don't-be-so-attached-to-anything-because-almost-everything-is-contingent.-Assume-no-self.",
+          "title": "3-1c3c3a1 Don't be so attached to anything because almost everything is contingent. Assume no self.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b1a1-Things-can-become-easier-the-more-complexity-you-have-(Network-effects-=-Power-law)",
+          "title": "5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3d-Be-very-specific-about-problems-and-divide-a-project-clear-cut-so-it-doesn't-become-bleak,-like-shared-common-room.",
+          "title": "6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1a1-People-who-converge-upon-the-truth-converge-with-each-other",
+          "title": "9-1a1 People who converge upon the truth converge with each other",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/RUL3---The-transparency-principle---make-your-decision-making-process-as-visible-and-open-to-scrutiny-as-possible",
+          "title": "RUL3 - The transparency principle - make your decision-making process as visible and open to scrutiny as possible",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "now",
+          "title": "Now",
+          "section": "other",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        }
+      ],
+      "totalFiles": 234
+    },
+    "historical": {
+      "label": "91-365 days ago",
+      "after": "2025-02-19",
+      "before": "2025-11-21",
+      "files": [
+        {
+          "slug": "notes/1-1a5a3-Knowledge-is-about-knowing-the-edge",
+          "title": "1-1a5a3 Knowledge is about knowing the edge",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a4b1.2-Define-and-stay-within-your-circle-of-competence",
+          "title": "3-1a4b1.2 Define and stay within your circle of competence",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Warren-Buffett",
+          "title": "Warren Buffett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+          "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit",
+            "develop",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2f1a3-To-be-scientific-is-to-be-critical",
+          "title": "1-2f1a3 To be scientific is to be critical",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2c1-Testability-matters-only-when-you-have-a-good-explanation-(hard-to-vary-explanation)",
+          "title": "1-2g2c1 Testability matters only when you have a good explanation (hard-to-vary explanation)",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2h-A-good-explanation-makes-it-harder-to-fool-yourself",
+          "title": "1-2h A good explanation makes it harder to fool yourself",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2a-I-am-a-set-of-ideas-including-conscious-and-unconscious",
+          "title": "10-2a I am a set of ideas including conscious and unconscious",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1b1-Scientific-discourses-are-less-fallible-because-the-fundamental-theories-of-physics-are-exceedingly-hard-to-vary",
+          "title": "10-2g1b1 Scientific discourses are less fallible because the fundamental theories of physics are exceedingly hard to vary",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1a2a1-Free-markets-and-free-speech,-by-definition,-transcend-the-concepts-of-nation-states",
+          "title": "12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "develop",
+            "contingency",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1a2b-Crypto-is-the-new-'nation'-that-can-take-over-the-US",
+          "title": "12-1a2b Crypto is the new 'nation' that can take over the US",
+          "section": "notes",
+          "category": "12",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3a1d-Money-facilitates-the-maximum-use-of-knowledge-available,-and-accommodates-error-corrections-(the-two-are-the-same-thing)",
+          "title": "13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0-'Creative-destruction'---Think-outside-the-box.-Evolution-of-ideas-must-be-revolutionary.-Knowledge-creation-involves-rebellion-against-current-explanatory-framework.",
+          "title": "2-1a0 'Creative destruction' - Think outside the box. Evolution of ideas must be revolutionary. Knowledge creation involves rebellion against current explanatory framework.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "categories",
+            "MentalModelsMicroEcon"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0.1-Complacency-will-kill-you-('The-Red-Queen-effect')",
+          "title": "2-1a0.1 Complacency will kill you ('The Red Queen effect')",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1aa-Privacy-is-the-absence-of-information-leakage",
+          "title": "2-1aa Privacy is the absence of information leakage",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b1-'Inversion'---Avoid-stupid-obvious-bullshit-you'd-regret-in-the-future",
+          "title": "2-1b2b1 'Inversion' - Avoid stupid obvious bullshit you'd regret in the future",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2c2b-The-Lindy-effect",
+          "title": "5-2c2b The Lindy effect",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "revisit",
+            "develop",
+            "MentalModels"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2c2b0.1-Invest-in-what-can't-be-easily-disrupted",
+          "title": "5-2c2b0.1 Invest in what can't be easily disrupted",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1b2-Inevitable-meme-variation-is-another-reason-why-it's-impossible-to-predict-how-people-will-use-your-work-and-ideas",
+          "title": "9-1b2 Inevitable meme variation is another reason why it's impossible to predict how people will use your work and ideas",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop",
+            "symbols"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Benjamin-Franklin",
+          "title": "Benjamin Franklin",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Sherlock-Holmes",
+          "title": "Sherlock Holmes",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "MentalModels",
+            "MentalModelsBiology",
+            "MentalModelsGeneral",
+            "MentalModelsSystems",
+            "MentalModelsNumeracy",
+            "MentalModelsMicroEcon",
+            "MentalModelsPsychology",
+            "MentalModelsPhysicsAndChem"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-9a0a-The-multiverse-implies-money,-money-price,-and-market-exchange",
+          "title": "13-9a0a The multiverse implies money, money price, and market exchange",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b1.2-Anything-worth-doing-is-worth-doing-to-excess",
+          "title": "2-1b2b1.2 Anything worth doing is worth doing to excess",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2e-'Algorithms'-&-'Replication'---Share-your-problem-situation-as-clearly-possible,-so-that-others-can-make-decisions-without-you-on-your-behalf-(i.e.,-multiply)",
+          "title": "notes/2-1b2e-'Algorithms'-&-'Replication'---Share-your-problem-situation-as-clearly-possible,-so-that-others-can-make-decisions-without-you-on-your-behalf-(i.e.,-multiply)",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/3-1c3c3a-Realize-that-having-invested-time-in-something-doesn't-make-it-good.-There-is-no-necessary-correlation-between-the-time-you-put-in-and-its-usefulness.",
+          "title": "3-1c3c3a Realize that having invested time in something doesn't make it good. There is no necessary correlation between the time you put in and its usefulness.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "MentalModels"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b0-Your-algo-is-your-principles",
+          "title": "4-1a4b2b0 Your algo is your principles",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b1-'One-of-those'-over-one-off---Learn-from-history-(not-just-from-your-'own'-experience)",
+          "title": "4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "revisit",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2b5-Theories-precede-data",
+          "title": "5-2b5 Theories precede data",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2e11-Nothing-objectively-represents-the-represented",
+          "title": "1-1a2e11 Nothing objectively represents the represented",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2e6-Any-theory-must-account-for-the-meaning-of-'the-future'-and-'the-past'-because-both-are-arbitrary-abstractions-and-do-not-exist-objectively-in-reality",
+          "title": "10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g3d1.1-Humans-create-their-own-cause",
+          "title": "10-2g3d1.1 Humans create their own cause",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "Ayache",
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e4-Nothing-is-objectively-and-independently-good",
+          "title": "12-1e4 Nothing is objectively and independently good",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3.1-The-concept-of-cost-must-evoke-the-multiverse",
+          "title": "13-1a3.1 The concept of cost must evoke the multiverse",
+          "section": "notes",
+          "category": "13",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+          "title": "2-1a0c1d1 Focus on the few variables",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a1a3c-Belong-where-your-desired-habits-are-the-norm",
+          "title": "2-1a1a3c Belong where your desired habits are the norm",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a3.1-'Feedback-loops'---Iterate.-The-more-and-quicker-the-better.",
+          "title": "2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2g-'Margin-of-safety'---Be-redundant-and-resourceful",
+          "title": "2-1b2g 'Margin of safety' - Be redundant and resourceful",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "MentalModelsSystems"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b2-History-repeats-and-reverses",
+          "title": "4-1a4b2b2 History repeats and reverses",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2c1-You-perceive-yourself-by-what-you-do-repeatedly,-just-as-you-judge-others-by-their-routine-behaviors.",
+          "title": "5-2c1 You perceive yourself by what you do repeatedly, just as you judge others by their routine behaviors.",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop",
+            "MentalModels",
+            "Taleb"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-2b2a-'Technologies-that-change-society-are-technologies-that-change-interactions-between-people'",
+          "title": "8-2b2a 'Technologies that change society are technologies that change interactions between people'",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "revisit",
+            "develop",
+            "reflexivity"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b3e1-Concise-explanations-accelerate.-It-helps-others-understand-you-better-and-faster-at-all-scales.",
+          "title": "9-4b3e1 Concise explanations accelerate. It helps others understand you better and faster at all scales.",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b2.1-Be-very-mindful-of-where-you-'experiment';-one-of-the-most-important-decisions-you-can-make-is-who-you-get-feedbacks-from-(as-well-as-ask-questions-of)",
+          "title": "1-1a5b2.1 Be very mindful of where you 'experiment'; one of the most important decisions you can make is who you get feedbacks from (as well as ask questions of)",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-8a2.1-Money-is-the-present-good-par-excellence",
+          "title": "13-8a2.1 Money is the present good par excellence",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a3b-Go-to-specific-places-to-get-specific-feedbacks",
+          "title": "4-1a3b Go to specific places to get specific feedbacks",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "revisit",
+            "TODO",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3d-Be-very-specific-about-problems-and-divide-a-project-clear-cut-so-it-doesn't-become-bleak,-like-shared-common-room.",
+          "title": "6-3d Be very specific about problems and divide a project clear cut so it doesn't become bleak, like shared common room.",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/RUL3-Look-for-an-ongoing-trade-of-knowledge.-Can-I-learn-from-him.-Can-I-teach-him-something.",
+          "title": "RUL3 Look for an ongoing trade of knowledge. Can I learn from him. Can I teach him something.",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2a4-The-flexibility-of-humans-are-found-particularly-in-the-tacit-knowledge",
+          "title": "1-1a2a4 The flexibility of humans are found particularly in the tacit knowledge",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a6c-'Inertia'---In-most-ordinary-moments-the-situation-thinks-for-us,-and-these-seemingly-insignificant-decisions-compound.",
+          "title": "2-1a6c 'Inertia' - In most ordinary moments the situation thinks for us, and these seemingly insignificant decisions compound.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsPhysicsAndChem"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b4c1c-Align-your-short-term-reward-with-your-long-term-vision",
+          "title": "5-1b4c1c Align your short-term reward with your long-term vision",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2e9b-When-'properly'-emicized-by-the-culture,-we-see-what's-not-there-and-can-not-see-what's-there",
+          "title": "1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2e1-Be-ambitious-but-leverage-what-you-already-know",
+          "title": "1-2e1 Be ambitious but leverage what you already know",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "BorrowedCreativity"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2s7b3-An-explanation-for-how-something-really-works-cannot-rely-on-infinity",
+          "title": "1-2g2s7b3 An explanation for how something really works cannot rely on infinity",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "develop",
+            "challenge"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2d1-Consistency-builds-trust",
+          "title": "2-1b2d1 Consistency builds trust",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c-'Opportunity-costs'---Look-beyond-the-obvious.-See-what's-hidden.",
+          "title": "2-1c 'Opportunity costs' - Look beyond the obvious. See what's hidden.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop",
+            "MentalModelsMicroEcon"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1a4-Getting-rid-of-your-misconceived-notions-amounts-to-being-nice-(or-moral)",
+          "title": "5-1a4 Getting rid of your misconceived notions amounts to being nice (or moral)",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2f1b-Analog-computation-cannot-accommodate-error-correction.-Information-that-cannot-be-reliably-retrieved-is-not-really-being-stored.",
+          "title": "1-2f1b Analog computation cannot accommodate error-correction. Information that cannot be reliably retrieved is not really being stored.",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-3.4a-More-is-different",
+          "title": "11-3.4a More is different",
+          "section": "notes",
+          "category": "11",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0a1-Don't-waste-time-unnecessarily-complicating-things",
+          "title": "2-1a0a1 Don't waste time unnecessarily complicating things",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-6-You-get-what-you-pay-for",
+          "title": "2-6 You get what you pay for",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a3-Multidisciplinary-thinking-is-the-most-realistic-thinking",
+          "title": "3-1a3 Multidisciplinary thinking is the most realistic thinking",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "revisit",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a3a-Start-with-problems-instead-of-opinions.-The-latter-usually-comes-with-confirmation-bias.",
+          "title": "3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1c4b-You-always-have-to-solve-problems,-including-the-problem-of-what-problems-to-solve",
+          "title": "1-1c4b You always have to solve problems, including the problem of what problems to solve",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c-'Denial'---Accept-the-existence-of-Black-Swans",
+          "title": "2-1a0c 'Denial' - Accept the existence of Black Swans",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsPsychology",
+            "TheBlackSwan"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a1a1-'Falsification-(confirmation)-bias'---Always-try-to-falsify-your-theory.-Don't-pick-up-similar-maps.",
+          "title": "2-1a1a1 'Falsification (confirmation) bias' - Always try to falsify your theory. Don't pick up similar maps.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsPsychology"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a7a4-In-the-long-run-reality-gets-in;-narrative-can-get-you-so-far",
+          "title": "2-1a7a4 In the long run reality gets in; narrative can get you so far",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+          "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "FutureSelf",
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2d-'Trust'---The-most-effective-business-is-one-with-trust.-Build-one.",
+          "title": "2-1b2d 'Trust' - The most effective business is one with trust. Build one.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsPsychology"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b4-You-can-solve-problems-that-just-became-solvable",
+          "title": "7-1b4 You can solve problems that just became solvable",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b5-You-can-solve-problems-that-just-got-created",
+          "title": "7-1b5 You can solve problems that just got created",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a1b1-Joel-Gold---The-conscious-mind-is-only-a-small-fraction-of-the-mental-world-much-like-the-visible-aspect-of-the-universe",
+          "title": "1-1a1b1 Joel Gold - The conscious mind is only a small fraction of the mental world much like the visible aspect of the universe",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a3.1-Get-the-basics-well.-Relate-to-the-basics.-Do-the-basics-well.",
+          "title": "3-1a3.1 Get the basics well. Relate to the basics. Do the basics well.",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b3-How-much-we-can-change-is-also-unpredictable",
+          "title": "5-1b3 How much we can change is also unpredictable",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b4c2a-When-you-have-an-agency,-you-don't-get-depleted.-We-aren't-powered-by-a-battery.",
+          "title": "5-1b4c2a When you have an agency, you don't get depleted. We aren't powered by a battery.",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-3b3d-Externalized-incentives-(negative-externalities)-go-away-when-everything-is-externalized",
+          "title": "6-3b3d Externalized incentives (negative externalities) go away when everything is externalized",
+          "section": "notes",
+          "category": "6",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a6a-Successful-founders-see-different-problems",
+          "title": "7-1a6a Successful founders see different problems",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-1b0c-Reality-doesn't-differentiate-reading-thinking-writing-playing-doing-investing-building",
+          "title": "9-1b0c Reality doesn't differentiate reading-thinking-writing-playing-doing-investing-building",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b2a1f-Two-way-debate-benefits-from-criticism",
+          "title": "9-4b2a1f Two-way debate benefits from criticism",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "revisit",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a7a3-Ben-Graham---'Markets-are-a-voting-machine-in-the-short-term-and-a-weighing-machine-in-the-long-term'",
+          "title": "2-1a7a3 Ben Graham - 'Markets are a voting machine in the short term and a weighing machine in the long term'",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1a4b5-Anything-can-be-priced-in-principle.-But-not-everything-will-be.",
+          "title": "3-1a4b5 Anything can be priced in principle. But not everything will be.",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop",
+            "revisit",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1a4.2-You-can-be-nicer-via-error-correction",
+          "title": "5-1a4.2 You can be nicer via error-correction",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Eric-Voskuil",
+          "title": "Eric Voskuil",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a3-We-repeatedly-update-our-theories,-including-theories-about-how-the-mind-works,-and-keep-making-sense-of-the-world",
+          "title": "1-1a3 We repeatedly update our theories, including theories about how the mind works, and keep making sense of the world",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1d2-Less-is-often-more",
+          "title": "2-1a0c1d2 Less is often more",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b4-Not-fighting-can-win-you-the-battle",
+          "title": "2-1b4 Not fighting can win you the battle",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-8-Train-your-weakest-link",
+          "title": "6-8 Train your weakest link",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2-We-are-fallible",
+          "title": "1-2 We are fallible",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2s7b2-The-laws-of-physics-determine-what's-rare-common,-probable-improbable,-finite-infinite",
+          "title": "1-2g2s7b2 The laws of physics determine what's rare-common, probable-improbable, finite-infinite",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g3f-Anti-rational-memes-contain-knowledge,-and-each-individual-has-to-discover-them",
+          "title": "10-2g3f Anti-rational memes contain knowledge, and each individual has to discover them",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g3g-Memes-precede-knowledge",
+          "title": "10-2g3g Memes precede knowledge",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a0c1-'Failure-comes-from-a-failure-to-imagine-failure'",
+          "title": "2-1a0c1 'Failure comes from a failure to imagine failure'",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b2b5-Know-the-correlations-between-your-bets.-Holy-grail-is-fifteen-or-so-uncorrelated-bets.",
+          "title": "2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1a2c0.1-Perfect-replication-is-impossible",
+          "title": "5-1b1a2c0.1 Perfect replication is impossible",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TODO",
+            "Ayache",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b2b-The-evolution-of-ideas-(memes)-is-somewhat-intentional,-whereas-that-of-genes-are-random-AND-cannot-be-rejected",
+          "title": "9-4b2b The evolution of ideas (memes) is somewhat intentional, whereas that of genes are random AND cannot be rejected",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/AN3C---There-is-no-way-a-training-could-prepare-a-man-for-combat",
+          "title": "AN3C - There is no way a training could prepare a man for combat",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/David-Deutsch",
+          "title": "David Deutsch",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit",
+            "TODO",
+            "TheTuringPrinciple"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Murray-Rothbard",
+          "title": "Murray Rothbard",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit",
+            "TODO",
+            "volatility",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1f-Imitation-=-limitation-(imitation-has-limitation)",
+          "title": "10-2g1f Imitation = limitation (imitation has limitation)",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/13-1a3a2.1-An-exchange-is-positive-sum-only-subjectively",
+          "title": "13-1a3a2.1 An exchange is positive-sum only subjectively",
+          "section": "notes",
+          "category": "13",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a7a2-Assets-with-actual-substance-or-weight-have-the-best-prospects-over-the-long-term",
+          "title": "2-1a7a2 Assets with actual substance or weight have the best prospects over the long term",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c3c3b-Wealth-=-Measurement-(work-with-a-small-group)-+-Leverage-(develop-new-techniques-and-its-value-is-multiplied-by-all-the-people-who-use-it)",
+          "title": "3-1c3c3b Wealth = Measurement (work with a small group) + Leverage (develop new techniques and its value is multiplied by all the people who use it)",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "TODO",
+            "develop"
+          ],
+          "graphData": true
+        }
+      ],
+      "totalFiles": 562
+    },
+    "archive": {
+      "label": "365+ days ago",
+      "after": "2016-02-22",
+      "before": "2025-02-19",
+      "files": [
+        {
+          "slug": "notes/There-is-no-absolute-security",
+          "title": "There is no absolute security",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Eric-Voskuil",
+          "title": "Eric Voskuil",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/There-are-things-that-cannot-be-measured",
+          "title": "notes/There-are-things-that-cannot-be-measured",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "people/Elie-Ayache",
+          "title": "Elie Ayache",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Ludwig-von-Mises",
+          "title": "Ludwig von Mises",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "multiverse",
+            "DanielEverett",
+            "revisit",
+            "TODO",
+            "Ayache",
+            "Spitznagel",
+            "symbols"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/David-Deutsch",
+          "title": "David Deutsch",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit",
+            "TODO",
+            "TheTuringPrinciple"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1e-Everything-is-connected-in-a-complex-way",
+          "title": "2-1e Everything is connected in a complex way",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1-Create-what-people-want-or-will-want",
+          "title": "7-1 Create what people want or will want",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a4b-Understanding-the-measurement-constraints-amounts-to-understanding-the-system-incentives.-That-is,-creating-explanations.",
+          "title": "7-1a4b Understanding the measurement-constraints amounts to understanding the system-incentives. That is, creating explanations.",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "incentives",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1d2-Technology-changes-the-problem-situation,-and-determines-which-ideas-are-possible-and-obsolete",
+          "title": "7-1d2 Technology changes the problem-situation, and determines which ideas are possible and obsolete",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b2a1c-The-moment-you-write-about-any-societal-problem-in-depth-you'll-find-yourself-writing-a-history-of-that-problem",
+          "title": "9-4b2a1c The moment you write about any societal problem in depth you'll find yourself writing a history of that problem",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/Prices-are-one-but-many",
+          "title": "Prices are one but many",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/Value-is-subjective",
+          "title": "notes/Value-is-subjective",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "people/Saifedean-Ammous",
+          "title": "Saifedean Ammous",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "elaborate",
+            "TODO",
+            "revisit",
+            "Spitznagel",
+            "FutureSelf"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Bitstein",
+          "title": "Bitstein",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Hans-Hermann-Hoppe",
+          "title": "Hans-Hermann Hoppe",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "Spitznagel"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Per-Bylund",
+          "title": "Per Bylund",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/Know-what-you-are-measuring-it-with",
+          "title": "notes/Know-what-you-are-measuring-it-with",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "people/Balaji-Srinivasan",
+          "title": "Balaji Srinivasan",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "volatility"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Chris-Dixon",
+          "title": "Chris Dixon",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "categories",
+            "develop",
+            "composability"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-2a2-What-gets-measured-gets-managed",
+          "title": "5-2a2 What gets measured gets managed",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TODO",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Morgan-Housel",
+          "title": "Morgan Housel",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2b-Humans-are-significant-insofar-as-we-can-create-knowledge",
+          "title": "1-2g2b Humans are significant insofar as we can create knowledge",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Logan-Chipkin",
+          "title": "Logan Chipkin",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Michael-Saylor",
+          "title": "Michael Saylor",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/RUL3---Live-in-the-future-and-build-what-seems-interesting",
+          "title": "RUL3 - Live in the future and build what seems interesting",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1a2c0.1-Perfect-replication-is-impossible",
+          "title": "5-1b1a2c0.1 Perfect replication is impossible",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "TODO",
+            "Ayache",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Mark-Spitznagel",
+          "title": "Mark Spitznagel",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-3.5-There-is-no-universal-utility.-Utility-doesn't-exist-in-the-abstract,-it-must-be-rooted-in-the-context-and-corresponding-explanations.",
+          "title": "11-3.5 There is no universal utility. Utility doesn't exist in the abstract, it must be rooted in the context and corresponding explanations.",
+          "section": "notes",
+          "category": "11",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b3c-We-are-more-different-than-we-are-alike",
+          "title": "9-2b3c We are more different than we are alike",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/There-is-no-universal-perception",
+          "title": "There is no universal perception",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b1-'One-of-those'-over-one-off---Learn-from-history-(not-just-from-your-'own'-experience)",
+          "title": "4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "revisit",
+            "categories"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b2b-The-evolution-of-ideas-(memes)-is-somewhat-intentional,-whereas-that-of-genes-are-random-AND-cannot-be-rejected",
+          "title": "9-4b2b The evolution of ideas (memes) is somewhat intentional, whereas that of genes are random AND cannot be rejected",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Daniel-Everett",
+          "title": "Daniel Everett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1e-What-sets-humans-apart-is-our-ability-to-accumulate-knowledge-by-means-of-language",
+          "title": "10-2g1e What sets humans apart is our ability to accumulate knowledge by means of language",
+          "section": "notes",
+          "category": "10",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/10-2g1f2c-It's-as-though-everything-from-culture-grammar-symbol-DNA-brain-evolved-so-that-high-accuracy-correspondences-were-made-easier-to-achieve",
+          "title": "10-2g1f2c It's as though everything from culture-grammar-symbol-DNA-brain evolved so that high accuracy correspondences were made easier to achieve",
+          "section": "notes",
+          "category": "10",
+          "tags": [
+            "TheTuringPrinciple",
+            "evolution",
+            "reflexivity",
+            "symbols",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b3b1-Contingency-=-Meaning-(or,-contingency-implies-meaning)",
+          "title": "9-2b3b1 Contingency = Meaning (or, contingency implies meaning)",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b3b2-We-have-meaning-because-we-are-free",
+          "title": "9-2b3b2 We have meaning because we are free",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-2g2q1-Science-is-about-independent-replication.-Only-trust-as-scientific-truth-what-can-be-independently-verified-replicated.",
+          "title": "1-2g2q1 Science is about independent replication. Only trust as scientific truth what can be independently verified-replicated.",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c2e0-There-is-no-minimum-idea",
+          "title": "3-1c2e0 There is no minimum idea",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "Ayache",
+            "develop",
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c2e1-Connecting-relating-ideas-is-a-way-of-creating-knowledge",
+          "title": "3-1c2e1 Connecting-relating ideas is a way of creating knowledge",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c3c-Keep-each-ideas-separately,-because-there-is-nothing-absolute-and-necessary-in-the-connections-I-make-between-them",
+          "title": "3-1c3c Keep each ideas separately, because there is nothing absolute and necessary in the connections I make between them",
+          "section": "notes",
+          "category": "3",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b3-Ship-at-least-every-month.-Scope-down-until-you-have-no-excuse-not-to-ship.-Being-output-project-oriented-means-being-payoff-oriented.",
+          "title": "1-1a5b3 Ship at least every month. Scope down until you have no excuse not to ship. Being output-project-oriented means being payoff-oriented.",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e3-There-is-no-should-in-nature",
+          "title": "12-1e3 There is no should in nature",
+          "section": "notes",
+          "category": "12",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a1.1-'Scale'---Anything-that-scaled-started-small,-at-the-edge,-at-the-frontier,-as-an-avant-garde",
+          "title": "7-1a2a1.1 'Scale' - Anything that scaled started small, at the edge, at the frontier, as an avant-garde",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b3-Time-will-tell-because-time-can-de-contextualize-seeming-necessities",
+          "title": "4-1a4b2b3 Time will tell because time can de-contextualize seeming necessities",
+          "section": "notes",
+          "category": "4",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1d6c1-The-marginal-cost-of-doing-something-wrong-'just-this-once'-always-seems-alluringly-low",
+          "title": "3-1d6c1 The marginal cost of doing something wrong 'just this once' always seems alluringly low",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/Don't-make-the-difficulty-rewards-relationship-a-simple-straight-line",
+          "title": "Don't make the difficulty-rewards relationship a simple straight line",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/RUL3---Finish-what-you-start,-because-the-best-work-often-happens-in-what-was-meant-to-be-the-final-stage",
+          "title": "RUL3 - Finish what you start, because the best work often happens in what was meant to be the final stage",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-8-Train-your-weakest-link",
+          "title": "6-8 Train your weakest link",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/RUL3---Run-upstairs.-Choose-the-difficult-terrain-like-guerillas.",
+          "title": "RUL3 - Run upstairs. Choose the difficult terrain like guerillas.",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4c1-If-you-can't-write-about-it,-you-can't-code-it.-If-you-can't-program-it,-you-don't-understand-it.",
+          "title": "9-4c1 If you can't write about it, you can't code it. If you can't program it, you don't understand it.",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Betty-Edwards",
+          "title": "Betty Edwards",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1b1b1-No-learning-without-doing;-specifically,-no-learning-without-cultural-doing",
+          "title": "3-1b1b1 No learning without doing; specifically, no learning without cultural doing",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "index",
+          "title": "About this project",
+          "section": "other",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b4.3-build-launch-measure-learn-and-iterate---don't-restart",
+          "title": "1-1a5b4.3 build-launch-measure-learn and iterate - don't restart",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+          "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+          "section": "notes",
+          "category": "1",
+          "tags": [
+            "revisit",
+            "develop",
+            "Ayache"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a2a1.1-Look-for-two-step-aheaders,-instead-of-people-many-steps-ahead-of-you",
+          "title": "7-1a2a1.1 Look for two-step-aheaders, instead of people many steps ahead of you",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Paul-Graham",
+          "title": "Paul Graham",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b6a-When-you-write-down,-you-are-helping-yourself-both-now-and-in-the-future",
+          "title": "4-1a4b6a When you write down, you are helping yourself both now and in the future",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "FutureSelf"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2b1.2-Marshall-McLuhan---'It-is-the-medium-itself-that-is-the-message,-not-the-content'",
+          "title": "9-2b1.2 Marshall McLuhan - 'It is the medium itself that is the message, not the content'",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/William-Zinsser",
+          "title": "William Zinsser",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1-Our-mind-can-constrain-itself-(i.e.,-why-you-need-proper-epistemology)",
+          "title": "1-1 Our mind can constrain itself (i.e., why you need proper epistemology)",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2e4-Cultures-precede-languages",
+          "title": "1-1a2e4 Cultures precede languages",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "essays/To-Measure-or-Not-To-Measure,-That-Is-The-Question",
+          "title": "To Measure or Not To Measure, That Is The Question",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b2b-Don't-try-to-be-the-best.-Be-the-only.",
+          "title": "5-1b1b2b Don't try to be the best. Be the only.",
+          "section": "notes",
+          "category": "5",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Naval-Ravikant",
+          "title": "Naval Ravikant",
+          "section": "people",
+          "category": null,
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1c1b-'Two-front-war'---Deal-with-it-effectively-by-knowing-your-priority.-Use-it-effectively-against-those-whose-priorities-are-vague.",
+          "title": "2-1c1b 'Two-front war' - Deal with it effectively by knowing your priority. Use it effectively against those whose priorities are vague.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsMilitaryAndWar"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/3-1c2b-Conjecturing-the-relative-importance-of-such-problems-projects-is-also-essential",
+          "title": "3-1c2b Conjecturing the relative importance of such problems-projects is also essential",
+          "section": "notes",
+          "category": "3",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-2a0-The-Identity-Stack---To-build-something-great-means-becoming-someone's-top-primary-identifier",
+          "title": "9-2a0 The Identity Stack - To build something great means becoming someone's top primary identifier",
+          "section": "notes",
+          "category": "9",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Unreasonably-reasonable",
+          "title": "essays/Unreasonably-reasonable",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "essays/What-my-essays-are-for",
+          "title": "essays/What-my-essays-are-for",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/2-1a0c1b-You-do-not-rise-to-the-level-of-your-goals.-You-fall-to-the-level-of-your-systems.",
+          "title": "2-1a0c1b You do not rise to the level of your goals. You fall to the level of your systems.",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1b3a1-Narrow-it-down-so-you-can-have-a-chance-to-build-your-own-moat",
+          "title": "2-1b3a1 Narrow it down so you can have a chance to build your own moat",
+          "section": "notes",
+          "category": "2",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/6-1b-You-either-have-to-realign-the-incentives-of-capitalist-entities-you-are-outsourcing-your-health,-or-you-have-to-take-care-of-yourself",
+          "title": "6-1b You either have to realign the incentives of capitalist entities you are outsourcing your health, or you have to take care of yourself",
+          "section": "notes",
+          "category": "6",
+          "tags": [
+            "incentives"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/Deconstruct,-then-reconstruct",
+          "title": "Deconstruct, then reconstruct",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-1a-Start-from-what-you-know",
+          "title": "11-1a Start from what you know",
+          "section": "notes",
+          "category": "11",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2d-'Tendency-to-want-to-do-something'---Don't-get-paid-for-work,-but-for-being-right.",
+          "title": "4-1a4b2d 'Tendency to want to do something' - Don't get paid for work, but for being right.",
+          "section": "notes",
+          "category": "4",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b4b0.1-Technologists-are-those-who-lead-with-technologies,-and-less-with-heart",
+          "title": "7-1b4b0.1 Technologists are those who lead with technologies, and less with heart",
+          "section": "notes",
+          "category": "7",
+          "tags": [
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1f-Developing-in-anticipation-of-development-cost-cheapening-is-a-form-of-investment",
+          "title": "7-1f Developing in anticipation of development cost cheapening is a form of investment",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/9-4b3e3e-'Friction-and-viscosity'---Give-THE-problem-as-much-attention-as-possible.-Better-UI-UX-often-can-make-innovation-possible-because-users-benefit-from-cognitive-offload.",
+          "title": "9-4b3e3e 'Friction and viscosity' - Give THE problem as much attention as possible. Better UI-UX often can make innovation possible because users benefit from cognitive offload.",
+          "section": "notes",
+          "category": "9",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/11-1c-When-investing,-you-have-to-address-THE-problem.-You-have-to-hedge-THE-risk.",
+          "title": "notes/11-1c-When-investing,-you-have-to-address-THE-problem.-You-have-to-hedge-THE-risk.",
+          "section": "notes",
+          "category": "11",
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/11-1d-There-is-no-objective-risk",
+          "title": "11-1d There is no objective risk",
+          "section": "notes",
+          "category": "11",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e-Nothing-is-necessary-=-Everything-is-contingent",
+          "title": "12-1e Nothing is necessary = Everything is contingent",
+          "section": "notes",
+          "category": "12",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e1-There-are-no-permanent-solutions-in-a-dynamic-system",
+          "title": "12-1e1 There are no permanent solutions in a dynamic system",
+          "section": "notes",
+          "category": "12",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/12-1e2-There-is-no-objective-happiness",
+          "title": "12-1e2 There is no objective happiness",
+          "section": "notes",
+          "category": "12",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/4-1a4b2b-Being-reactive-is-like-being-analog-in-the-heat-of-the-moment",
+          "title": "4-1a4b2b Being reactive is like being analog in the heat of the moment",
+          "section": "notes",
+          "category": "4",
+          "tags": [
+            "develop",
+            "revisit",
+            "FutureSelf"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/5-1b1b1a1b-Not-every-relationships-matter.-Most-likely,-only-a-few-matter.",
+          "title": "5-1b1b1a1b Not every relationships matter. Most likely, only a few matter.",
+          "section": "notes",
+          "category": "5",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "people/Warren-Buffett",
+          "title": "Warren Buffett",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop",
+            "TODO"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/1-1a2e8a-We-see-symbolically-and-not-otherwise",
+          "title": "1-1a2e8a We see symbolically and not otherwise",
+          "section": "notes",
+          "category": "1",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-1a1a1a-'Self-preservation'---Don't-trigger-your-biological-defaults-(defense-mode)",
+          "title": "2-1a1a1a 'Self-preservation' - Don't trigger your biological defaults (defense mode)",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "MentalModelsBiology"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1b2b-You-can-help-explicating-problems-others-have-inexplicitly-or-unconsciously",
+          "title": "7-1b2b You can help explicating problems others have inexplicitly or unconsciously",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/8-1c2a-What-matters-is-the-creativity-per-se,-because-non-creative-parts-will-be-made-easier",
+          "title": "8-1c2a What matters is the creativity per se, because non-creative parts will be made easier",
+          "section": "notes",
+          "category": "8",
+          "tags": [
+            "develop",
+            "composability"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "essays/Be-an-artist-first",
+          "title": "essays/Be-an-artist-first",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "essays/What-my-notes-are-for",
+          "title": "essays/What-my-notes-are-for",
+          "section": "essays",
+          "category": null,
+          "tags": [],
+          "graphData": null
+        },
+        {
+          "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+          "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "FutureSelf",
+            "MentalModelsGeneral"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/2-3b-'Leverage'---The-effort-put-in-and-its-utility-results-doesn't-have-to-correlate-at-all.-Use-this-to-your-advantage.",
+          "title": "2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.",
+          "section": "notes",
+          "category": "2",
+          "tags": [
+            "revisit",
+            "MentalModelsPhysicsAndChem"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "people/Carlo-Cipolla",
+          "title": "Carlo Cipolla",
+          "section": "people",
+          "category": null,
+          "tags": [
+            "revisit",
+            "develop"
+          ],
+          "graphData": true
+        },
+        {
+          "slug": "notes/7-1a-Create-something-you-would-want-for-yourself,-and-never-for-some-imaginary-audience",
+          "title": "7-1a Create something you would want for yourself, and never for some imaginary audience",
+          "section": "notes",
+          "category": "7",
+          "tags": [],
+          "graphData": true
+        },
+        {
+          "slug": "notes/The-essence-of-writing-is-rewriting",
+          "title": "The essence of writing is rewriting",
+          "section": "notes",
+          "category": "unnumbered",
+          "tags": [
+            "revisit"
+          ],
+          "graphData": true
+        }
+      ],
+      "totalFiles": 1391
+    }
+  },
+  "aggregated": {
+    "recent": {
+      "totalFiles": 157,
+      "bySection": {
+        "notes": 138,
+        "essays": 7,
+        "other": 2,
+        "people": 10
+      },
+      "byCategory": {
+        "1": 10,
+        "2": 24,
+        "3": 11,
+        "4": 6,
+        "5": 19,
+        "6": 7,
+        "7": 11,
+        "8": 9,
+        "9": 11,
+        "10": 14,
+        "11": 2,
+        "12": 5,
+        "13": 7,
+        "unnumbered": 2
+      },
+      "topTags": [
+        [
+          "develop",
+          58
+        ],
+        [
+          "revisit",
+          48
+        ],
+        [
+          "TODO",
+          11
+        ],
+        [
+          "categories",
+          5
+        ],
+        [
+          "MentalModels",
+          4
+        ],
+        [
+          "TheTuringPrinciple",
+          4
+        ],
+        [
+          "Ayache",
+          4
+        ],
+        [
+          "own",
+          3
+        ],
+        [
+          "reflexivity",
+          3
+        ],
+        [
+          "challenge",
+          3
+        ],
+        [
+          "elaborate",
+          3
+        ],
+        [
+          "BorrowedCreativity",
+          2
+        ],
+        [
+          "MentalModelsGeneral",
+          2
+        ],
+        [
+          "MentalModelsPhysicsAndChem",
+          1
+        ],
+        [
+          "Behaviorism",
+          1
+        ]
+      ]
+    },
+    "midterm": {
+      "totalFiles": 234,
+      "bySection": {
+        "notes": 212,
+        "people": 20,
+        "other": 2
+      },
+      "byCategory": {
+        "1": 24,
+        "2": 43,
+        "3": 22,
+        "4": 11,
+        "5": 25,
+        "6": 11,
+        "7": 12,
+        "8": 12,
+        "9": 16,
+        "10": 7,
+        "11": 2,
+        "12": 5,
+        "13": 15,
+        "unnumbered": 7
+      },
+      "topTags": [
+        [
+          "develop",
+          87
+        ],
+        [
+          "revisit",
+          77
+        ],
+        [
+          "TODO",
+          18
+        ],
+        [
+          "reflexivity",
+          6
+        ],
+        [
+          "Ayache",
+          6
+        ],
+        [
+          "MentalModels",
+          4
+        ],
+        [
+          "categories",
+          4
+        ],
+        [
+          "MentalModelsNumeracy",
+          3
+        ],
+        [
+          "challenge",
+          3
+        ],
+        [
+          "method",
+          2
+        ],
+        [
+          "MentalModelsSystems",
+          2
+        ],
+        [
+          "volatility",
+          2
+        ],
+        [
+          "FutureSelf",
+          2
+        ],
+        [
+          "MentalModelsGeneral",
+          2
+        ],
+        [
+          "MentalModelsMilitaryAndWar",
+          2
+        ]
+      ]
+    },
+    "historical": {
+      "totalFiles": 562,
+      "bySection": {
+        "notes": 528,
+        "people": 30,
+        "essays": 3,
+        "other": 1
+      },
+      "byCategory": {
+        "1": 54,
+        "2": 89,
+        "3": 40,
+        "4": 19,
+        "5": 53,
+        "6": 14,
+        "7": 19,
+        "8": 5,
+        "9": 22,
+        "10": 28,
+        "11": 7,
+        "12": 11,
+        "13": 150,
+        "unnumbered": 17
+      },
+      "topTags": [
+        [
+          "revisit",
+          133
+        ],
+        [
+          "develop",
+          131
+        ],
+        [
+          "TODO",
+          24
+        ],
+        [
+          "categories",
+          16
+        ],
+        [
+          "MentalModelsPsychology",
+          13
+        ],
+        [
+          "ERE",
+          11
+        ],
+        [
+          "MentalModels",
+          10
+        ],
+        [
+          "Ayache",
+          8
+        ],
+        [
+          "MentalModelsGeneral",
+          8
+        ],
+        [
+          "TheTuringPrinciple",
+          7
+        ],
+        [
+          "MentalModelsMicroEcon",
+          6
+        ],
+        [
+          "MentalModelsPhysicsAndChem",
+          6
+        ],
+        [
+          "multiverse",
+          6
+        ],
+        [
+          "MentalModelsNumeracy",
+          5
+        ],
+        [
+          "reflexivity",
+          5
+        ]
+      ]
+    },
+    "archive": {
+      "totalFiles": 1391,
+      "bySection": {
+        "notes": 135,
+        "people": 26,
+        "other": 1224,
+        "essays": 6
+      },
+      "byCategory": {
+        "1": 14,
+        "2": 18,
+        "3": 12,
+        "4": 6,
+        "5": 13,
+        "6": 5,
+        "7": 10,
+        "8": 1,
+        "9": 12,
+        "10": 3,
+        "11": 4,
+        "12": 5,
+        "unnumbered": 32
+      },
+      "topTags": [
+        [
+          "develop",
+          43
+        ],
+        [
+          "revisit",
+          26
+        ],
+        [
+          "TODO",
+          8
+        ],
+        [
+          "Ayache",
+          6
+        ],
+        [
+          "FutureSelf",
+          5
+        ],
+        [
+          "categories",
+          5
+        ],
+        [
+          "Spitznagel",
+          3
+        ],
+        [
+          "multiverse",
+          2
+        ],
+        [
+          "symbols",
+          2
+        ],
+        [
+          "TheTuringPrinciple",
+          2
+        ],
+        [
+          "incentives",
+          2
+        ],
+        [
+          "composability",
+          2
+        ],
+        [
+          "own",
+          2
+        ],
+        [
+          "DanielEverett",
+          1
+        ],
+        [
+          "elaborate",
+          1
+        ]
+      ]
+    }
+  },
+  "drift": [
+    {
+      "category": "1",
+      "theme": "Epistemology/fallibilism",
+      "recent": 10,
+      "historical": 54,
+      "direction": "falling"
+    },
+    {
+      "category": "2",
+      "theme": "Information/mental models",
+      "recent": 24,
+      "historical": 89,
+      "direction": "falling"
+    },
+    {
+      "category": "3",
+      "theme": "Thinking/creativity",
+      "recent": 11,
+      "historical": 40,
+      "direction": "falling"
+    },
+    {
+      "category": "4",
+      "theme": "History/narratives",
+      "recent": 6,
+      "historical": 19,
+      "direction": "falling"
+    },
+    {
+      "category": "5",
+      "theme": "Knowledge/reality/economics",
+      "recent": 19,
+      "historical": 53,
+      "direction": "falling"
+    },
+    {
+      "category": "6",
+      "theme": "Ownership/property",
+      "recent": 7,
+      "historical": 14,
+      "direction": "falling"
+    },
+    {
+      "category": "7",
+      "theme": "Technology/creation",
+      "recent": 11,
+      "historical": 19,
+      "direction": "falling"
+    },
+    {
+      "category": "8",
+      "theme": "Computing/LLMs",
+      "recent": 9,
+      "historical": 5,
+      "direction": "rising"
+    },
+    {
+      "category": "9",
+      "theme": "Communication/writing",
+      "recent": 11,
+      "historical": 22,
+      "direction": "falling"
+    },
+    {
+      "category": "10",
+      "theme": "Language/consciousness",
+      "recent": 14,
+      "historical": 28,
+      "direction": "falling"
+    },
+    {
+      "category": "11",
+      "theme": "Returns/utility",
+      "recent": 2,
+      "historical": 7,
+      "direction": "falling"
+    },
+    {
+      "category": "12",
+      "theme": "Contingency/freedom",
+      "recent": 5,
+      "historical": 11,
+      "direction": "falling"
+    },
+    {
+      "category": "13",
+      "theme": "Economics/praxeology",
+      "recent": 7,
+      "historical": 150,
+      "direction": "falling"
+    },
+    {
+      "category": "unnumbered",
+      "theme": "unknown",
+      "recent": 2,
+      "historical": 17,
+      "direction": "falling"
+    }
+  ],
+  "essayTimeline": [
+    {
+      "slug": "essays/The-Products-of-My-Writing",
+      "title": "The Products of My Writing",
+      "date": "2024-08-07"
+    },
+    {
+      "slug": "essays/Become-A-Problem-Solving-Artist",
+      "title": "Become A Problem-Solving Artist",
+      "date": "2024-08-13"
+    },
+    {
+      "slug": "essays/Unreasonably-Reasonable",
+      "title": "Unreasonably Reasonable",
+      "date": "2024-08-14"
+    },
+    {
+      "slug": "essays/Elden-Ring-Meets-Karl-Popper",
+      "title": "Elden Ring Meets Karl Popper",
+      "date": "2024-08-19"
+    },
+    {
+      "slug": "essays/To-Measure-or-Not-To-Measure,-That-Is-The-Question",
+      "title": "To Measure or Not To Measure, That Is The Question",
+      "date": "2024-08-19"
+    },
+    {
+      "slug": "essays/Economics-of-God",
+      "title": "Economics of God",
+      "date": "2025-02-28"
+    },
+    {
+      "slug": "essays/The-Fabric-of-Reality-Implies-the-Beginning-of-Infinity",
+      "title": "The Fabric of Reality Implies the Beginning of Infinity",
+      "date": "2025-03-25"
+    },
+    {
+      "slug": "essays/How-Popper-would-use-LLMs",
+      "title": "How Popper would use LLMs",
+      "date": "2026-01-19"
+    },
+    {
+      "slug": "essays/Moat-Digitized",
+      "title": "Moat Digitized",
+      "date": "2026-02-03"
+    },
+    {
+      "slug": "essays/Gresham's-Law-and-AI",
+      "title": "Gresham's Law and AI",
+      "date": "2026-02-04"
+    },
+    {
+      "slug": "essays/Naruto-and-LLMs",
+      "title": "Naruto and LLMs",
+      "date": "2026-02-04"
+    },
+    {
+      "slug": "essays/Money---Days-of-Future-Past",
+      "title": "Money - Days of Future Past",
+      "date": "2026-02-07"
+    },
+    {
+      "slug": "essays/CPU,-GPU,-Brain,-Mind,-Energy",
+      "title": "CPU, GPU, Brain, Mind, Energy",
+      "date": "2026-02-15"
+    },
+    {
+      "slug": "essays/The-Triad-is-the-Underlying",
+      "title": "The Triad is the Underlying",
+      "date": null
+    }
+  ]
+}

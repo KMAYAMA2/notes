@@ -1,0 +1,944 @@
+{
+  "generatedAt": "2026-02-19T03:49:30.371Z",
+  "mode": "qmd query (hybrid+rerank)",
+  "summary": {
+    "totalQueries": 20,
+    "uniqueResults": 164,
+    "crossClusterCount": 8,
+    "emergentThemeCount": 0,
+    "sectionDistribution": {
+      "notes": 145,
+      "essays": 2,
+      "people": 16,
+      "other": 1
+    }
+  },
+  "queryResults": {
+    "conjecture refutation fallibilism Popper": {
+      "group": "Epistemology",
+      "slugs": [
+        "people/David-Deutsch",
+        "people/Murray-Rothbard",
+        "notes/1-2g2q1-science-is-about-independent-replication-only-trust-as-scientific-truth-what-can-be-independently-verified-replicated",
+        "notes/1-2f-when-you-create-better-explanations-you-discard-the-old-ones",
+        "notes/1-1c4a-because-you-will-be-and-want-to-be-mistaken-by-default-you-should-be-long-optionality",
+        "notes/13-1b-the-mind-with-its-intention-can-shape-the-multiverse",
+        "notes/1-1a5b-Real-thought-is-full-of-false-starts",
+        "notes/1-2f1-popperian-epistemology-allows-your-knowledge-to-grow-forever-because-it-is-digital-it-can-fix-its-errors-by-rejecting-bad-ideas",
+        "notes/10-1c4-think-about-your-problem-as-a-set-of-outcomes-produced-by-a-machine-then-customize-because-thinking-in-terms-of-machine-implies-composability-and-composable-system-is-fixable",
+        "notes/5-1b1a2d-Knowledge-is-by-definition-unpredictable"
+      ],
+      "scores": [
+        88,
+        50,
+        45,
+        44,
+        43,
+        43,
+        40,
+        40,
+        38,
+        38
+      ],
+      "count": 10,
+      "error": null
+    },
+    "calibration uncertainty prediction error": {
+      "group": "Epistemology",
+      "slugs": [
+        "people/Ludwig-Lachmann",
+        "notes/1-2g2s7a-knowing-probability-doesn-t-mean-you-can-predict-it",
+        "people/Murray-Rothbard",
+        "notes/13-1a2-The-omnipresence-of-uncertainty-introduces-the-ever-present-possibility-of-error-in-human-action",
+        "notes/5-1b1a8a-when-using-probability-we-need-an-explanation-for-why-that-probability-applies-because-knowledge-is-unpredictable",
+        "notes/1-2f1a-error-correction-is-the-beginning-of-infinity-all-jumps-to-universality-occur-in-digital-systems",
+        "people/Michael-Burry",
+        "notes/1-2g2s7b-you-can-t-justify-the-predicted-value-of-the-probability-inductively-because-theory-i-e-the-laws-of-physics-provides-the-probability-not-the-experiment",
+        "notes/1-2f1b1-Digital-system-is-composable",
+        "notes/13-1a3a4b-the-long-run-of-the-evenly-rotating-economy-ere-is-not-real-at-all-but-a-very-useful-theoretical-construct-that-enables-the-economist-to-point-out-the-direction-in-which-the-market-is-moving-at-any-given-time"
+      ],
+      "scores": [
+        88,
+        50,
+        38,
+        36,
+        34,
+        33,
+        33,
+        33,
+        33,
+        33
+      ],
+      "count": 10,
+      "error": null
+    },
+    "abduction guessing detective epistemology": {
+      "group": "Epistemology",
+      "slugs": [
+        "notes/13-1a1-The-uncertainty-of-the-future-must-be-true-because-the-contrary-would-completely-negate-the-possibility-of-action",
+        "notes/1-1a7-epistemology-is-the-way-with-which-we-go-about-our-detective-work-other-sciences-are-application-of-such-detective-lens",
+        "notes/9-4b-Writing-generates-ideas",
+        "notes/1-1a3-we-repeatedly-update-our-theories-including-theories-about-how-the-mind-works-and-keep-making-sense-of-the-world",
+        "notes/1-1a4b1-You-either-have-to-ignore-them-as-irrelevant-or-consider-them-as-problems-to-be-solved",
+        "people/Sherlock-Holmes",
+        "notes/rul3-ask-at-night-how-what-you-ve-learned-that-day-fits-into-your-web-of-ideas-and-search-for-overlaps-and-contradictions-most-people-do-not-do-this",
+        "notes/1-1a2e4a-言い換え-making-sense-in-your-own-world-that-is-in-your-own-language-and-in-your-own-web-of-ideas",
+        "notes/1-2g2q1-science-is-about-independent-replication-only-trust-as-scientific-truth-what-can-be-independently-verified-replicated",
+        "notes/1-1a6-To-live-is-to-live-like-a-detective"
+      ],
+      "scores": [
+        92,
+        56,
+        46,
+        46,
+        45,
+        45,
+        45,
+        44,
+        44,
+        44
+      ],
+      "count": 10,
+      "error": null
+    },
+    "explanation knowledge growth Deutsch": {
+      "group": "Epistemology",
+      "slugs": [
+        "notes/10-2g1i-universality-and-infinity-are-necessary-condition-for-the-growth-of-knowledge-but-not-sufficient",
+        "notes/1-2f1b3-merely-dropping-a-theory-because-it-doesn-t-work-is-behaviorism-and-is-not-error-correction-it-s-analog-reasoning-in-disguise-you-need-explanation",
+        "notes/1-2g2t3d-because-creation-and-growth-of-knowledge-is-in-essence-error-correction-and-because-being-wrong-is-way-easier-than-being-right-knowledge-creating-bearing-entities-will-become-more-alike-and-thrive-across-the-multiverse",
+        "notes/1-2f1b4-the-content-of-a-theory-is-in-what-it-rules-out-and-how",
+        "notes/1-2g2t3c-the-effect-of-knowledge-creation-is-significant-both-within-a-history-distance-independent-and-across-the-multiverse-convergence",
+        "notes/1-2g2e-what-science-and-creative-thought-in-general-achieves-is-unpredictable-creation-out-of-nothing-that-is-creation-of-knowledge-and-so-is-biological-evolution-i-e-life",
+        "notes/10-2c-We-can-provide-ever-better-explanations-about-ourselves",
+        "notes/9-4b2d-the-evolution-of-ideas-is-defined-by-jumps-via-creative-mutations",
+        "notes/1-2f-when-you-create-better-explanations-you-discard-the-old-ones",
+        "notes/10-2g1e-What-sets-humans-apart-is-our-ability-to-accumulate-knowledge-by-means-of-language"
+      ],
+      "scores": [
+        93,
+        56,
+        47,
+        47,
+        46,
+        46,
+        45,
+        45,
+        45,
+        45
+      ],
+      "count": 10,
+      "error": null
+    },
+    "human action praxeology Austrian economics": {
+      "group": "Austrian econ",
+      "slugs": [
+        "people/Murray-Rothbard",
+        "people/Ludwig-von-Mises",
+        "notes/13-6c-The-action-axiom-implies-corresponding-value-scales",
+        "essays/Economics-of-God",
+        "notes/10-2e8-reasoning-about-causes-and-effects-is-reasoning-about-variants-of-the-causes-and-effects-what-would-ve-happened-how-it-could-ve-been-otherwise",
+        "notes/13-1a0a-Refuting-the-existence-of-the-multiverse-will-refute-praxeology",
+        "notes/13-4d6-The-economist-must-take-account-of-all-the-interrelations-in-the-economy-and-recognize-that-money-costs-are-determined-by-final-prices-reflecting-consumer-demands-and-valuations",
+        "notes/13-3-All-action-must-take-place-in-time",
+        "notes/13-1a3a4-the-equilibrium-price-cannot-be-realized-except-in-the-evenly-rotating-economy-ere",
+        "notes/13-9a2-indifference-cannot-be-a-basis-for-action-the-choice-could-not-be-meaningfully-revealed-in-action"
+      ],
+      "scores": [
+        93,
+        56,
+        46,
+        46,
+        46,
+        46,
+        45,
+        45,
+        45,
+        45
+      ],
+      "count": 10,
+      "error": null
+    },
+    "wealth creation value investing capital": {
+      "group": "Austrian econ",
+      "slugs": [
+        "people/Li-Lu",
+        "notes/11-2a-invest-for-the-wealth-it-can-generate-not-for-the-money-per-se",
+        "notes/5-2a0-Know-what-to-measure",
+        "notes/3-1a4b2a-A-great-business-at-a-fair-price-is-superior-to-a-fair-business-at-a-great-price",
+        "people/Mark-Spitznagel",
+        "notes/13-1a3a2e7-values-and-also-prices-to-the-extent-that-value-scales-can-be-ascertained-only-through-them-are-not-concerned-with-the-past",
+        "people/Michael-Burry",
+        "people/Murray-Rothbard",
+        "people/Naval-Ravikant",
+        "people/Eric-Voskuil"
+      ],
+      "scores": [
+        88,
+        51,
+        42,
+        35,
+        35,
+        34,
+        34,
+        34,
+        33,
+        33
+      ],
+      "count": 10,
+      "error": null
+    },
+    "optionality asymmetry irreversibility risk": {
+      "group": "Austrian econ",
+      "slugs": [
+        "people/Warren-Buffett",
+        "notes/3-1c3d3a-problems-are-also-unpredictable-your-mini-projects-may-turn-out-to-be-useful-later-they-are-optionality",
+        "notes/13-1a1-The-uncertainty-of-the-future-must-be-true-because-the-contrary-would-completely-negate-the-possibility-of-action",
+        "people/Saifedean-Ammous",
+        "notes/7-2-long-optionality-volatility-change",
+        "notes/9-2a3a-Pick-up-the-biggest-upside-potential",
+        "notes/que5-is-this-long-vol-or-short-vol",
+        "people/Ludwig-Lachmann",
+        "notes/9-2a3-Be-long-volatility-with-people",
+        "notes/5-1b1a4a-Being-hedged-in-the-long-run-entails-being-long-optionality"
+      ],
+      "scores": [
+        88,
+        55,
+        38,
+        35,
+        35,
+        35,
+        34,
+        33,
+        33,
+        33
+      ],
+      "count": 10,
+      "error": null
+    },
+    "money monetary theory Mises Rothbard": {
+      "group": "Austrian econ",
+      "slugs": [
+        "people/Saifedean-Ammous",
+        "people/Eric-Voskuil",
+        "notes/13-1a3a2d-the-more-extended-the-market-the-more-will-exchange-values-as-compared-to-direct-use-values-predominate-in-the-decisions-of-the-producer",
+        "people/Ludwig-Lachmann",
+        "notes/3-1a4b8-with-few-exceptions-buy-on-the-cheapest-market-and-sell-on-the-dearest-leads-to-satisfaction-of-the-most-highly-valued-ends-of-each-individual-both-as-consumer-and-as-a-producer",
+        "notes/13-5b3d-the-total-savings-going-into-investment-in-production-is-the-total-supply-of-savings-minus-consumers-loan-demands-for-present-goods",
+        "people/Murray-Rothbard",
+        "people/Per-Bylund",
+        "notes/13-5b2h-in-the-evenly-rotating-economy-the-rates-of-interest-will-differ-in-accordance-with-a-psychic-component",
+        "notes/13-1a3a2e4-Money-is-demanded-and-considered-useful-because-of-its-already-existing-money-prices"
+      ],
+      "scores": [
+        88,
+        50,
+        46,
+        44,
+        42,
+        42,
+        40,
+        39,
+        35,
+        34
+      ],
+      "count": 10,
+      "error": null
+    },
+    "language consciousness symbol meaning": {
+      "group": "Language/mind",
+      "slugs": [
+        "people/Daniel-Everett",
+        "notes/10-2g1e-What-sets-humans-apart-is-our-ability-to-accumulate-knowledge-by-means-of-language",
+        "notes/10-1d-cohesive-culture-is-formed-with-values-knowledge-structures-and-social-roles",
+        "notes/10-2g2c1e-What-makes-humans-unique-is-not-computational-ability",
+        "notes/3-1c2e3-1-it-s-symbols-all-the-way-down",
+        "notes/10-2f3a-Learning-human-languages-consists-of-constantly-conjecturing-guessing-the-meaning-of-the-words-being-used",
+        "notes/culture-transforms-things-into-symbols-and-meaning",
+        "notes/10-2g3a-everything-is-or-more-precisely-became-symbol-social-values-knowledge-structures-themselves-are-symbols-represented-by-non-explicit-forms-e-g-traditions-and-habits-interpreted-non-explicitly-流れ込む情報",
+        "notes/1-1a2e2-Languages-are-not-innate-to-humans",
+        "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive"
+      ],
+      "scores": [
+        88,
+        56,
+        46,
+        45,
+        42,
+        41,
+        40,
+        37,
+        36,
+        36
+      ],
+      "count": 10,
+      "error": null
+    },
+    "dark matter mind culture inexplicit": {
+      "group": "Language/mind",
+      "slugs": [
+        "people/Daniel-Everett",
+        "notes/1-1a2a5-overt-knowledge-can-be-found-inside-and-outside-our-brains-e-g-wikipedia-but-dark-matter-is-found-only-within-the-individual",
+        "notes/10-1b2a-emicization-the-construction-of-an-insider-point-of-view-the-dark-matter",
+        "notes/1-1a1b1-joel-gold-the-conscious-mind-is-only-a-small-fraction-of-the-mental-world-much-like-the-visible-aspect-of-the-universe",
+        "notes/9-1b0a-when-you-have-learned-something-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+        "notes/1-1a2e6-culturing-and-social-acting-along-with-languaging-our-actions-beliefs-desires-values-and-self",
+        "notes/10-2g1f2a4-the-mind-a-computer",
+        "notes/1-1a2e7-Dark-matter-both-help-and-impede-our-perception-of-the-world",
+        "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive",
+        "notes/1-1a2e5-Cultures-nurture-minds"
+      ],
+      "scores": [
+        93,
+        56,
+        47,
+        47,
+        46,
+        46,
+        46,
+        46,
+        45,
+        45
+      ],
+      "count": 10,
+      "error": null
+    },
+    "emicization perception culture lens": {
+      "group": "Language/mind",
+      "slugs": [
+        "notes/1-1a2e8-seeing-really-occurs-after-going-through-or-together-with-emicization",
+        "people/Daniel-Everett",
+        "notes/10-1b2-attachment-is-children-s-first-journey-from-the-strange-to-the-familiar-from-observer-to-knower-the-first-step-in-emicization-未知-既知",
+        "notes/1-1a2e9-emic-vision-interpreting-what-you-are-seeing-as-symbols",
+        "notes/10-1b2a-emicization-the-construction-of-an-insider-point-of-view-the-dark-matter",
+        "notes/1-1a2e7-Dark-matter-both-help-and-impede-our-perception-of-the-world",
+        "notes/1-2g3-1-it-s-explanations-all-the-way-down",
+        "notes/1-1a2e7b-You-need-some-form-of-constraints-to-see-anything",
+        "notes/culture-transforms-things-into-symbols-and-meaning",
+        "notes/10-2g1-culture-is-an-implicit-theory-for-its-members-it-dictates-what-to-look-at-and-how-they-reason-about-the-world"
+      ],
+      "scores": [
+        93,
+        55,
+        46,
+        46,
+        46,
+        41,
+        38,
+        38,
+        35,
+        33
+      ],
+      "count": 10,
+      "error": null
+    },
+    "multiverse quantum physics implications": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "people/David-Deutsch",
+        "essays/The-Fabric-of-Reality-Implies-the-Beginning-of-Infinity",
+        "notes/1-2g2s5-when-the-instances-are-fungible-there-is-no-such-thing-as-which-histories-and-individual-particles-are-not-perfectly-partitioned-into-instances",
+        "notes/1-2g2t3-a-history-approximation-breaks-down-when-there-is-interference-i-e-merging-and-histories-do-rejoin-via-interference-phenomenon",
+        "notes/13-1a0-The-multiverse-implies-both-explanation-and-action",
+        "notes/10-2e2-the-multiverse-does-not-come-into-existence-or-cease-to-exist-those-terms-presuppose-the-flow-of-time-it-is-only-imagining-the-flow-of-time-that-makes-us-wonder-what-happened-before-or-after-the-whole-of-reality",
+        "notes/1-2g2t4-because-fungibility-exists-i-e-histories-do-rejoin-we-must-evoke-the-multiverse-the-multiverse-emerged-from-quantum-physics-genealogically",
+        "notes/2-1a6c4b-Explanation-is-the-way-to-the-multiverse",
+        "notes/1-2g2s7b1-the-laws-of-physics-provides-the-measure-provides-a-meaning-to-proportions-and-averages-for-infinite-sets-for-the-multiverse",
+        "notes/10-2e9-variants-do-exist-in-the-multiverse-not-in-the-past-or-in-the-future-but-they-literally-do-exist-somewhere-in-the-multiverse"
+      ],
+      "scores": [
+        88,
+        55,
+        47,
+        46,
+        45,
+        44,
+        44,
+        43,
+        43,
+        43
+      ],
+      "count": 10,
+      "error": null
+    },
+    "writing craft essay style prose": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "notes/9-4d-a-good-essay-importance-do-i-want-it-novelty-did-you-think-about-it-a-lot-correctness-strength",
+        "notes/4-2b-Good-storytelling-is-about-taking-readers-to-something-slightly-in-advance-by-using-what-they-already-know",
+        "people/William-Zinsser",
+        "notes/3-1d6b-Consistent-style-makes-it-easier-to-see-whether-you-are-making-a-progress-or-not",
+        "people/Sherlock-Holmes",
+        "notes/9-1b-you-can-t-really-transfer-your-knowledge-to-others-because-each-knowledge-has-to-be-created-individually",
+        "notes/5-1b4c-exponential-growth-feels-flat-in-the-beginning-precisely-why-it-s-worth-making-an-extraordinary-effort-to-get-it-started-you-can-also-follow-the-fun-criterion-the-latter-likely-exhausts-the-former-consistency-is-the-key",
+        "notes/9-4b3e4-Write-each-sentence-like-you-are-talking-to-a-friend",
+        "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive",
+        "notes/1-1a5a2-good-writing-happens-at-the-edge-of-explicit-inexplicit-or-explicit-unconscious-that-is-via-surprises"
+      ],
+      "scores": [
+        88,
+        50,
+        40,
+        35,
+        34,
+        33,
+        33,
+        33,
+        33,
+        33
+      ],
+      "count": 10,
+      "error": null
+    },
+    "creativity constraints style art": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "notes/10-2g1-culture-is-an-implicit-theory-for-its-members-it-dictates-what-to-look-at-and-how-they-reason-about-the-world",
+        "notes/8-1c4a2-twitter-s-140-character-limit-was-useful-constraint",
+        "notes/1-2g2-New-theory-in-turn-constrains-what-the-low-level-theories-could-be",
+        "notes/10-2g5-Every-invention-is-built-up-over-time-within-culture",
+        "notes/1-2g-new-theory-is-constrained-in-terms-of-what-it-can-say-since-it-must-either-be-consistent-with-existing-theories-or-contradict-them-but-address-the-problems-thereby-raised",
+        "notes/3-1c3c2a1-how-do-we-find-constraints-i-e-detect-bullshit",
+        "index",
+        "notes/9-4b3e3b-emphasize-ease-of-use-over-perfection-embrace-iterative-minimalism",
+        "notes/3-1d6-Constraints-in-the-form-of-consistent-style-leave-space-for-creativity-and-progress",
+        "notes/2-1a6c2-Establishing-rituals-is-the-key-to-creating-positive-inertia"
+      ],
+      "scores": [
+        89,
+        56,
+        47,
+        47,
+        45,
+        44,
+        44,
+        43,
+        43,
+        39
+      ],
+      "count": 10,
+      "error": null
+    },
+    "contingency freedom digitization": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "notes/3-1c3c-keep-each-ideas-separately-because-there-is-nothing-absolute-and-necessary-in-the-connections-i-make-between-them",
+        "notes/12-1b-The-only-certainty-is-rising-volatility",
+        "notes/10-1b4f-Digitization-implies-displacement-and-composability",
+        "people/Ludwig-Lachmann",
+        "notes/5-1b1a2b-anything-physical-can-t-do-away-with-its-own-contingency",
+        "notes/1-2g2t3f-Contingency-can-be-only-realized-when-you-evoke-the-multiverse",
+        "notes/10-2g2e9a-the-contingent-relation-between-the-form-and-the-abstract-can-be-only-realized-by-digital-systems-analog-systems-cannot-do-this",
+        "notes/1-2f1b3b-french-revolution-russian-revolution-and-chinese-revolution-were-analog-that-is-not-done-in-piecemeal-error-correction-fashion",
+        "people/Saifedean-Ammous",
+        "notes/10-2g2e9-abstractions-are-corrected-by-realizing-how-it-could-ve-been-otherwise"
+      ],
+      "scores": [
+        93,
+        56,
+        46,
+        45,
+        43,
+        40,
+        40,
+        38,
+        38,
+        35
+      ],
+      "count": 10,
+      "error": null
+    },
+    "mental models thinking tools heuristics": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "people/Warren-Buffett",
+        "notes/5-3a-knowledge-via-new-explanations-is-inherently-creative-and-its-effects-are-positive-sum-because-it-begets-new-problems-to-be-solved",
+        "notes/1-2g1e-our-biological-bodies-are-still-encoded-in-genes-often-times-it-is-helpful-to-understand-our-biological-default-tendencies-biases",
+        "notes/2-1a1a6-tendency-to-overgeneralize-from-small-samples",
+        "notes/2-1b3b-arbitrage-arbitrage-both-space-and-time-both-offline-and-online",
+        "notes/4-1a2a-when-you-make-them-say-no-to-anything-you-make-them-feel-as-if-they-are-in-more-control-of-the-conversation",
+        "notes/2-1a1a3-availability-heuristic-we-easily-recall-what-is-salient-important-frequent-and-recent",
+        "notes/2-1a0c1a-influence-of-stress-in-the-thick-of-battle-you-will-not-rise-to-the-level-of-your-expectations-but-fall-to-the-level-of-your-training",
+        "notes/4-1a4b2a-Silence-can-decontextualize-displace-the-negotiator-from-the-negotiation",
+        "notes/2-1a6d1-digitize-the-idea-from-the-context-within-which-that-s-been-spoken-written"
+      ],
+      "scores": [
+        88,
+        50,
+        47,
+        45,
+        45,
+        44,
+        44,
+        42,
+        42,
+        41
+      ],
+      "count": 10,
+      "error": null
+    },
+    "technology product creation ownership": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "people/Murray-Rothbard",
+        "notes/que5-who-owns-them",
+        "notes/6-3b-when-you-own-something-you-have-an-incentive-to-invest-in-it",
+        "notes/6-3a-ownership-is-not-just-about-physical-digital-asset-but-about-yourself",
+        "notes/6-3b0-1-when-you-own-something-you-can-go-anywhere",
+        "notes/6-3b2h-trademarks-patents-and-copyrights-if-secrecy-were-the-only-protection-for-ideas-companies-wouldn-t-just-have-to-be-secretive-with-other-companies-they-d-have-to-be-secretive-internally",
+        "notes/6-3a1-you-have-to-own-your-own-creation-the-difference-between-creator-and-influencer-is-the-gap-of-digital-property-rights",
+        "notes/9-1b0a-when-you-have-learned-something-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+        "people/Chris-Dixon",
+        "notes/7-1b5a-you-can-create-problems-not-in-the-sense-of-causing-problems-but-literally-creatively-creating-them-there-are-good-problems-and-bad-problems-work-on-and-solve-good-problems"
+      ],
+      "scores": [
+        88,
+        54,
+        46,
+        46,
+        40,
+        39,
+        38,
+        37,
+        35,
+        34
+      ],
+      "count": 10,
+      "error": null
+    },
+    "incentives ownership community property": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "people/Warren-Buffett",
+        "notes/6-3b4b-Users-become-marketers-with-tokens",
+        "notes/que5-who-owns-them",
+        "notes/6-3b-when-you-own-something-you-have-an-incentive-to-invest-in-it",
+        "notes/6-3b3-don-t-think-corporate-network-structure-especially-its-incentives-is-the-norm",
+        "notes/4-1d0-2-avoid-the-anonymous-we-and-they-because-they-mask-personal-responsibility",
+        "notes/6-3a-ownership-is-not-just-about-physical-digital-asset-but-about-yourself",
+        "notes/6-3z-A-world-without-ownership-is-a-world-with-less-creativity-and-human-flourishing",
+        "people/Chris-Dixon",
+        "notes/2-1a6-incentives-incentives-drive-almost-everything-understand-your-incentives"
+      ],
+      "scores": [
+        93,
+        56,
+        44,
+        42,
+        38,
+        38,
+        37,
+        37,
+        36,
+        35
+      ],
+      "count": 10,
+      "error": null
+    },
+    "history narratives feedback learning": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "people/Chris-Dixon",
+        "notes/10-1a6-History-is-the-analysis-of-the-log-files",
+        "notes/10-1a1-歴史-編集-関係の発見",
+        "notes/10-1a4-digitizing-history-doesn-t-mean-throwing-away-everything-and-returning-to-the-caveman-era-of-a-blank-git-repository",
+        "notes/10-1a-History-is-all-the-data-we-have-so-far",
+        "notes/4-1a3b-Go-to-specific-places-to-get-specific-feedbacks",
+        "notes/2-1a3-seeing-the-front-incorporate-what-can-t-be-explicated",
+        "notes/10-2g3d2-decontextualize-then-recontextualize",
+        "people/Saifedean-Ammous",
+        "notes/3-1c1d5-Dashboards-over-newspapers"
+      ],
+      "scores": [
+        88,
+        53,
+        45,
+        41,
+        38,
+        37,
+        34,
+        34,
+        34,
+        34
+      ],
+      "count": 10,
+      "error": null
+    },
+    "LLMs AI technology problem solving": {
+      "group": "Cross-pillar",
+      "slugs": [
+        "notes/9-1a2-Most-fairly-good-ideas-are-adjacent-to-even-better-ones",
+        "notes/8-4-LLMs",
+        "notes/The-essence-of-writing-is-rewriting",
+        "notes/10-1a5-digitizing-history-means-explaining-each-fork-as-contingent-points-the-could-ve-been-for-the-history-around-an-idea-history-is-the-idea-maze-and-must-be-created-symbolically-never-non-digitally-nor-indexically-by-the-individuals",
+        "notes/3-1a2-the-problem-itself-doesn-t-care-how-it-s-solved-everything-should-be-structured-around-solving-problems",
+        "notes/2-1ab-Bluffing-exists-because-information-is-private",
+        "notes/4-1a4b5a-maybe-consciousness-is-seeing-your-thinking-mediated-on-some-other-physical-form-realizing-that-it-could-ve-been-put-otherwise-and-optionally-you-improve-upon",
+        "notes/8-1c-Look-for-inherently-digital-native-areas-and-concepts",
+        "notes/9-1b0a-when-you-have-learned-something-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+        "notes/8-1c4-killer-application-is-knowledge-technology-universality-that-begets-reflexivity-between-app-platform-people-by-pushing-people-over-the-threshold"
+      ],
+      "scores": [
+        91,
+        54,
+        44,
+        42,
+        40,
+        39,
+        39,
+        38,
+        38,
+        37
+      ],
+      "count": 10,
+      "error": null
+    }
+  },
+  "crossCluster": [
+    {
+      "slug": "people/Murray-Rothbard",
+      "title": "Murray Rothbard",
+      "tags": [
+        "develop",
+        "revisit",
+        "TODO",
+        "volatility",
+        "Ayache"
+      ],
+      "connections": 88,
+      "queryCount": 6,
+      "queries": [
+        "conjecture refutation fallibilism Popper",
+        "calibration uncertainty prediction error",
+        "human action praxeology Austrian economics",
+        "wealth creation value investing capital",
+        "money monetary theory Mises Rothbard",
+        "technology product creation ownership"
+      ]
+    },
+    {
+      "slug": "people/Ludwig-Lachmann",
+      "title": "Ludwig Lachmann",
+      "tags": [
+        "revisit",
+        "TODO"
+      ],
+      "connections": 146,
+      "queryCount": 4,
+      "queries": [
+        "calibration uncertainty prediction error",
+        "optionality asymmetry irreversibility risk",
+        "money monetary theory Mises Rothbard",
+        "contingency freedom digitization"
+      ]
+    },
+    {
+      "slug": "people/Saifedean-Ammous",
+      "title": "Saifedean Ammous",
+      "tags": [
+        "develop",
+        "elaborate",
+        "TODO",
+        "revisit",
+        "Spitznagel",
+        "FutureSelf"
+      ],
+      "connections": 60,
+      "queryCount": 4,
+      "queries": [
+        "optionality asymmetry irreversibility risk",
+        "money monetary theory Mises Rothbard",
+        "contingency freedom digitization",
+        "history narratives feedback learning"
+      ]
+    },
+    {
+      "slug": "people/Warren-Buffett",
+      "title": "Warren Buffett",
+      "tags": [
+        "revisit",
+        "develop",
+        "TODO"
+      ],
+      "connections": 554,
+      "queryCount": 3,
+      "queries": [
+        "optionality asymmetry irreversibility risk",
+        "mental models thinking tools heuristics",
+        "incentives ownership community property"
+      ]
+    },
+    {
+      "slug": "people/Daniel-Everett",
+      "title": "Daniel Everett",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "connections": 117,
+      "queryCount": 3,
+      "queries": [
+        "language consciousness symbol meaning",
+        "dark matter mind culture inexplicit",
+        "emicization perception culture lens"
+      ]
+    },
+    {
+      "slug": "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive",
+      "title": "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive",
+      "tags": [],
+      "connections": 0,
+      "queryCount": 3,
+      "queries": [
+        "language consciousness symbol meaning",
+        "dark matter mind culture inexplicit",
+        "writing craft essay style prose"
+      ]
+    },
+    {
+      "slug": "notes/9-1b0a-when-you-have-learned-something-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+      "title": "notes/9-1b0a-when-you-have-learned-something-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+      "tags": [],
+      "connections": 0,
+      "queryCount": 3,
+      "queries": [
+        "dark matter mind culture inexplicit",
+        "technology product creation ownership",
+        "LLMs AI technology problem solving"
+      ]
+    },
+    {
+      "slug": "people/Chris-Dixon",
+      "title": "Chris Dixon",
+      "tags": [
+        "categories",
+        "develop",
+        "composability"
+      ],
+      "connections": 14,
+      "queryCount": 3,
+      "queries": [
+        "technology product creation ownership",
+        "incentives ownership community property",
+        "history narratives feedback learning"
+      ]
+    }
+  ],
+  "overlapTop20": [
+    {
+      "query1": "technology product creation ownership",
+      "query2": "incentives ownership community property",
+      "group1": "Cross-pillar",
+      "group2": "Cross-pillar",
+      "sharedCount": 4,
+      "sharedSlugs": [
+        "notes/que5-who-owns-them",
+        "notes/6-3b-when-you-own-something-you-have-an-incentive-to-invest-in-it",
+        "notes/6-3a-ownership-is-not-just-about-physical-digital-asset-but-about-yourself",
+        "people/Chris-Dixon"
+      ]
+    },
+    {
+      "query1": "dark matter mind culture inexplicit",
+      "query2": "emicization perception culture lens",
+      "group1": "Language/mind",
+      "group2": "Language/mind",
+      "sharedCount": 3,
+      "sharedSlugs": [
+        "people/Daniel-Everett",
+        "notes/10-1b2a-emicization-the-construction-of-an-insider-point-of-view-the-dark-matter",
+        "notes/1-1a2e7-Dark-matter-both-help-and-impede-our-perception-of-the-world"
+      ]
+    },
+    {
+      "query1": "calibration uncertainty prediction error",
+      "query2": "wealth creation value investing capital",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Murray-Rothbard",
+        "people/Michael-Burry"
+      ]
+    },
+    {
+      "query1": "calibration uncertainty prediction error",
+      "query2": "money monetary theory Mises Rothbard",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Ludwig-Lachmann",
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "wealth creation value investing capital",
+      "query2": "money monetary theory Mises Rothbard",
+      "group1": "Austrian econ",
+      "group2": "Austrian econ",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Murray-Rothbard",
+        "people/Eric-Voskuil"
+      ]
+    },
+    {
+      "query1": "optionality asymmetry irreversibility risk",
+      "query2": "money monetary theory Mises Rothbard",
+      "group1": "Austrian econ",
+      "group2": "Austrian econ",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Saifedean-Ammous",
+        "people/Ludwig-Lachmann"
+      ]
+    },
+    {
+      "query1": "optionality asymmetry irreversibility risk",
+      "query2": "contingency freedom digitization",
+      "group1": "Austrian econ",
+      "group2": "Cross-pillar",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Saifedean-Ammous",
+        "people/Ludwig-Lachmann"
+      ]
+    },
+    {
+      "query1": "money monetary theory Mises Rothbard",
+      "query2": "contingency freedom digitization",
+      "group1": "Austrian econ",
+      "group2": "Cross-pillar",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Saifedean-Ammous",
+        "people/Ludwig-Lachmann"
+      ]
+    },
+    {
+      "query1": "language consciousness symbol meaning",
+      "query2": "dark matter mind culture inexplicit",
+      "group1": "Language/mind",
+      "group2": "Language/mind",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Daniel-Everett",
+        "notes/3-1c2e3-infinite-semiosis-there-is-no-beginning-or-end-to-symbols-because-it-is-recursive"
+      ]
+    },
+    {
+      "query1": "language consciousness symbol meaning",
+      "query2": "emicization perception culture lens",
+      "group1": "Language/mind",
+      "group2": "Language/mind",
+      "sharedCount": 2,
+      "sharedSlugs": [
+        "people/Daniel-Everett",
+        "notes/culture-transforms-things-into-symbols-and-meaning"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "calibration uncertainty prediction error",
+      "group1": "Epistemology",
+      "group2": "Epistemology",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "abduction guessing detective epistemology",
+      "group1": "Epistemology",
+      "group2": "Epistemology",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "notes/1-2g2q1-science-is-about-independent-replication-only-trust-as-scientific-truth-what-can-be-independently-verified-replicated"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "explanation knowledge growth Deutsch",
+      "group1": "Epistemology",
+      "group2": "Epistemology",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "notes/1-2f-when-you-create-better-explanations-you-discard-the-old-ones"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "human action praxeology Austrian economics",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "wealth creation value investing capital",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "money monetary theory Mises Rothbard",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "multiverse quantum physics implications",
+      "group1": "Epistemology",
+      "group2": "Cross-pillar",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/David-Deutsch"
+      ]
+    },
+    {
+      "query1": "conjecture refutation fallibilism Popper",
+      "query2": "technology product creation ownership",
+      "group1": "Epistemology",
+      "group2": "Cross-pillar",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "calibration uncertainty prediction error",
+      "query2": "human action praxeology Austrian economics",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Murray-Rothbard"
+      ]
+    },
+    {
+      "query1": "calibration uncertainty prediction error",
+      "query2": "optionality asymmetry irreversibility risk",
+      "group1": "Epistemology",
+      "group2": "Austrian econ",
+      "sharedCount": 1,
+      "sharedSlugs": [
+        "people/Ludwig-Lachmann"
+      ]
+    }
+  ],
+  "emergentThemes": []
+}

@@ -104,11 +104,18 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
    node docs/plans/scripts/vault-map.cjs     # Step 1: structural overview → data/vault-map.json
    node docs/plans/scripts/hub-notes.cjs     # Step 2: most connected → data/hub-notes.json
    node docs/plans/scripts/orphan-notes.cjs  # Step 3: least connected → data/orphan-notes.json
+   node docs/plans/scripts/writing-patterns.cjs   # Step 5: markdown structure analysis → data/writing-patterns.json
+   node docs/plans/scripts/interest-timeline.cjs  # Step 6: git-based activity timeline → data/interest-timeline.json
    ```
 
-3. **Re-embed for qmd** (only if using semantic search for Steps 4-6):
+3. **Re-embed for qmd** (only if using semantic search):
    ```bash
    qmd embed   # incremental — only new/changed files
+   ```
+
+4. **Rerun semantic clusters** (requires qmd index, uses GPU):
+   ```bash
+   node docs/plans/scripts/semantic-clusters.cjs  # Step 4: thematic groupings → data/semantic-clusters.json (~60-90s)
    ```
 
 ### What each script does
@@ -118,6 +125,9 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
 | `vault-map.cjs` | graph.json | vault-map.json | Counts, tag distribution, connection histogram, top/bottom 20 |
 | `hub-notes.cjs` | graph.json | hub-notes.json | Top 30 notes/people, all essays ranked, top 3 per category |
 | `orphan-notes.cjs` | graph.json | orphan-notes.json | True orphans, near-orphans, dead links, island clusters |
+| `semantic-clusters.cjs` | graph.json + qmd index | semantic-clusters.json | Thematic groupings via 20 seed queries, cross-cluster bridges, overlap matrix |
+| `writing-patterns.cjs` | graph.json + hub/orphan JSON + content/*.md | writing-patterns.json | Markdown structure (words, bullets, prose, wikilinks) by tier and section |
+| `interest-timeline.cjs` | graph.json + git log | interest-timeline.json | Activity in 4 time windows, category drift, essay chronology |
 
 ### Key data files
 
@@ -127,6 +137,9 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
 | `docs/plans/data/vault-map.json` | Structural stats (rerun vault-map.cjs to refresh) |
 | `docs/plans/data/hub-notes.json` | Hub rankings (rerun hub-notes.cjs to refresh) |
 | `docs/plans/data/orphan-notes.json` | Orphan/dead-link data (rerun orphan-notes.cjs to refresh) |
+| `docs/plans/data/semantic-clusters.json` | Thematic groupings, bridge notes, query overlaps (rerun semantic-clusters.cjs to refresh) |
+| `docs/plans/data/writing-patterns.json` | Markdown structure stats by tier/section (rerun writing-patterns.cjs to refresh) |
+| `docs/plans/data/interest-timeline.json` | Git activity timeline, category drift (rerun interest-timeline.cjs to refresh) |
 | `docs/plans/data/analysis-results.md` | A/B/C/D testing results from Phase 2 (static reference) |
 | `docs/plans/phase2-plan.md` | Full Phase 2 plan with qmd instructions and progress log |
 

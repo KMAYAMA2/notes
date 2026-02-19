@@ -1,0 +1,1976 @@
+{
+  "generatedAt": "2026-02-19T03:43:06.694Z",
+  "summary": {
+    "totalAnalyzed": 70,
+    "japaneseNotes": 33
+  },
+  "byTier": {
+    "hub": {
+      "count": 20,
+      "wordCount": {
+        "mean": 608.8,
+        "median": 545,
+        "min": 154,
+        "max": 1064
+      },
+      "lineCount": {
+        "mean": 35.6,
+        "median": 35,
+        "min": 15,
+        "max": 55
+      },
+      "headerCount": {
+        "mean": 0.1,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "bulletLineCount": {
+        "mean": 26,
+        "median": 27,
+        "min": 11,
+        "max": 42
+      },
+      "proseLineCount": {
+        "mean": 7.5,
+        "median": 7,
+        "min": 3,
+        "max": 26
+      },
+      "blockquoteCount": {
+        "mean": 2.1,
+        "median": 2,
+        "min": 0,
+        "max": 5
+      },
+      "wikilinkCount": {
+        "mean": 26.1,
+        "median": 27,
+        "min": 10,
+        "max": 39
+      },
+      "questionCount": {
+        "mean": 0.3,
+        "median": 0,
+        "min": 0,
+        "max": 3
+      },
+      "bulletRatio": {
+        "mean": 0.8,
+        "median": 0.795,
+        "min": 0.509,
+        "max": 0.927
+      },
+      "questionRatio": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0.214
+      }
+    },
+    "medium": {
+      "count": 20,
+      "wordCount": {
+        "mean": 146.4,
+        "median": 140,
+        "min": 54,
+        "max": 336
+      },
+      "lineCount": {
+        "mean": 9.9,
+        "median": 9,
+        "min": 5,
+        "max": 15
+      },
+      "headerCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "bulletLineCount": {
+        "mean": 4.1,
+        "median": 4,
+        "min": 0,
+        "max": 11
+      },
+      "proseLineCount": {
+        "mean": 5.6,
+        "median": 5,
+        "min": 1,
+        "max": 13
+      },
+      "blockquoteCount": {
+        "mean": 0.3,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "wikilinkCount": {
+        "mean": 6.9,
+        "median": 7,
+        "min": 3,
+        "max": 11
+      },
+      "questionCount": {
+        "mean": 0.1,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "bulletRatio": {
+        "mean": 0.4,
+        "median": 0.444,
+        "min": 0,
+        "max": 0.875
+      },
+      "questionRatio": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0.5
+      }
+    },
+    "orphan": {
+      "count": 1,
+      "wordCount": {
+        "mean": 17,
+        "median": 17,
+        "min": 17,
+        "max": 17
+      },
+      "lineCount": {
+        "mean": 2,
+        "median": 2,
+        "min": 2,
+        "max": 2
+      },
+      "headerCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "bulletLineCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "proseLineCount": {
+        "mean": 2,
+        "median": 2,
+        "min": 2,
+        "max": 2
+      },
+      "blockquoteCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "wikilinkCount": {
+        "mean": 2,
+        "median": 2,
+        "min": 2,
+        "max": 2
+      },
+      "questionCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "bulletRatio": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      },
+      "questionRatio": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0
+      }
+    },
+    "essay": {
+      "count": 14,
+      "wordCount": {
+        "mean": 463.7,
+        "median": 394,
+        "min": 68,
+        "max": 935
+      },
+      "lineCount": {
+        "mean": 16.1,
+        "median": 14,
+        "min": 3,
+        "max": 43
+      },
+      "headerCount": {
+        "mean": 0.9,
+        "median": 0,
+        "min": 0,
+        "max": 7
+      },
+      "bulletLineCount": {
+        "mean": 8.4,
+        "median": 5,
+        "min": 0,
+        "max": 35
+      },
+      "proseLineCount": {
+        "mean": 6.6,
+        "median": 6,
+        "min": 0,
+        "max": 21
+      },
+      "blockquoteCount": {
+        "mean": 0.2,
+        "median": 0,
+        "min": 0,
+        "max": 2
+      },
+      "wikilinkCount": {
+        "mean": 6.2,
+        "median": 6,
+        "min": 0,
+        "max": 29
+      },
+      "questionCount": {
+        "mean": 1.4,
+        "median": 1,
+        "min": 0,
+        "max": 4
+      },
+      "bulletRatio": {
+        "mean": 0.5,
+        "median": 0.765,
+        "min": 0,
+        "max": 1
+      },
+      "questionRatio": {
+        "mean": 0.2,
+        "median": 0.038,
+        "min": 0,
+        "max": 1
+      }
+    },
+    "people": {
+      "count": 15,
+      "wordCount": {
+        "mean": 6532.2,
+        "median": 1268,
+        "min": 0,
+        "max": 42906
+      },
+      "lineCount": {
+        "mean": 409.2,
+        "median": 111,
+        "min": 0,
+        "max": 2712
+      },
+      "headerCount": {
+        "mean": 30.9,
+        "median": 1,
+        "min": 0,
+        "max": 311
+      },
+      "bulletLineCount": {
+        "mean": 376.2,
+        "median": 103,
+        "min": 0,
+        "max": 2397
+      },
+      "proseLineCount": {
+        "mean": 2,
+        "median": 2,
+        "min": 0,
+        "max": 8
+      },
+      "blockquoteCount": {
+        "mean": 0.1,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "wikilinkCount": {
+        "mean": 132.5,
+        "median": 5,
+        "min": 0,
+        "max": 1417
+      },
+      "questionCount": {
+        "mean": 15.7,
+        "median": 4,
+        "min": 0,
+        "max": 75
+      },
+      "bulletRatio": {
+        "mean": 0.9,
+        "median": 0.995,
+        "min": 0,
+        "max": 1
+      },
+      "questionRatio": {
+        "mean": 0.1,
+        "median": 0.046,
+        "min": 0,
+        "max": 0.556
+      }
+    }
+  },
+  "bySection": {
+    "notes": {
+      "count": 41,
+      "wordCount": {
+        "mean": 368.8,
+        "median": 247,
+        "min": 17,
+        "max": 1064
+      },
+      "lineCount": {
+        "mean": 22.3,
+        "median": 15,
+        "min": 2,
+        "max": 55
+      },
+      "headerCount": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "bulletLineCount": {
+        "mean": 14.7,
+        "median": 11,
+        "min": 0,
+        "max": 42
+      },
+      "proseLineCount": {
+        "mean": 6.4,
+        "median": 5,
+        "min": 1,
+        "max": 26
+      },
+      "blockquoteCount": {
+        "mean": 1.1,
+        "median": 0,
+        "min": 0,
+        "max": 5
+      },
+      "wikilinkCount": {
+        "mean": 16.2,
+        "median": 10,
+        "min": 2,
+        "max": 39
+      },
+      "questionCount": {
+        "mean": 0.2,
+        "median": 0,
+        "min": 0,
+        "max": 3
+      },
+      "bulletRatio": {
+        "mean": 0.6,
+        "median": 0.722,
+        "min": 0,
+        "max": 0.927
+      },
+      "questionRatio": {
+        "mean": 0,
+        "median": 0,
+        "min": 0,
+        "max": 0.5
+      }
+    },
+    "essays": {
+      "count": 14,
+      "wordCount": {
+        "mean": 463.7,
+        "median": 394,
+        "min": 68,
+        "max": 935
+      },
+      "lineCount": {
+        "mean": 16.1,
+        "median": 14,
+        "min": 3,
+        "max": 43
+      },
+      "headerCount": {
+        "mean": 0.9,
+        "median": 0,
+        "min": 0,
+        "max": 7
+      },
+      "bulletLineCount": {
+        "mean": 8.4,
+        "median": 5,
+        "min": 0,
+        "max": 35
+      },
+      "proseLineCount": {
+        "mean": 6.6,
+        "median": 6,
+        "min": 0,
+        "max": 21
+      },
+      "blockquoteCount": {
+        "mean": 0.2,
+        "median": 0,
+        "min": 0,
+        "max": 2
+      },
+      "wikilinkCount": {
+        "mean": 6.2,
+        "median": 6,
+        "min": 0,
+        "max": 29
+      },
+      "questionCount": {
+        "mean": 1.4,
+        "median": 1,
+        "min": 0,
+        "max": 4
+      },
+      "bulletRatio": {
+        "mean": 0.5,
+        "median": 0.765,
+        "min": 0,
+        "max": 1
+      },
+      "questionRatio": {
+        "mean": 0.2,
+        "median": 0.038,
+        "min": 0,
+        "max": 1
+      }
+    },
+    "people": {
+      "count": 15,
+      "wordCount": {
+        "mean": 6532.2,
+        "median": 1268,
+        "min": 0,
+        "max": 42906
+      },
+      "lineCount": {
+        "mean": 409.2,
+        "median": 111,
+        "min": 0,
+        "max": 2712
+      },
+      "headerCount": {
+        "mean": 30.9,
+        "median": 1,
+        "min": 0,
+        "max": 311
+      },
+      "bulletLineCount": {
+        "mean": 376.2,
+        "median": 103,
+        "min": 0,
+        "max": 2397
+      },
+      "proseLineCount": {
+        "mean": 2,
+        "median": 2,
+        "min": 0,
+        "max": 8
+      },
+      "blockquoteCount": {
+        "mean": 0.1,
+        "median": 0,
+        "min": 0,
+        "max": 1
+      },
+      "wikilinkCount": {
+        "mean": 132.5,
+        "median": 5,
+        "min": 0,
+        "max": 1417
+      },
+      "questionCount": {
+        "mean": 15.7,
+        "median": 4,
+        "min": 0,
+        "max": 75
+      },
+      "bulletRatio": {
+        "mean": 0.9,
+        "median": 0.995,
+        "min": 0,
+        "max": 1
+      },
+      "questionRatio": {
+        "mean": 0.1,
+        "median": 0.046,
+        "min": 0,
+        "max": 0.556
+      }
+    }
+  },
+  "outliers": {
+    "longestByWords": [
+      {
+        "slug": "people/Warren-Buffett",
+        "title": "Warren Buffett",
+        "wordCount": 42906,
+        "tier": "people"
+      },
+      {
+        "slug": "people/David-Deutsch",
+        "title": "David Deutsch",
+        "wordCount": 18348,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Ludwig-Lachmann",
+        "title": "Ludwig Lachmann",
+        "wordCount": 13063,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Daniel-Everett",
+        "title": "Daniel Everett",
+        "wordCount": 11165,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Sherlock-Holmes",
+        "title": "Sherlock Holmes",
+        "wordCount": 4300,
+        "tier": "people"
+      }
+    ],
+    "shortestByWords": [
+      {
+        "slug": "people/Betty-Edwards",
+        "title": "Betty Edwards",
+        "wordCount": 0,
+        "tier": "people"
+      },
+      {
+        "slug": "notes/2-2-ウツ・ウツツ-(空・現)",
+        "title": "2-2 ウツ・ウツツ (空・現)",
+        "wordCount": 17,
+        "tier": "orphan"
+      },
+      {
+        "slug": "people/Ray-Dalio",
+        "title": "Ray Dalio",
+        "wordCount": 41,
+        "tier": "people"
+      },
+      {
+        "slug": "notes/9-2b3e2-There-is-no-universal-symbol-idea-(in-the-sense-of-capable-of-conveying-universal-meaning)",
+        "title": "9-2b3e2 There is no universal symbol-idea (in the sense of capable of conveying universal meaning)",
+        "wordCount": 54,
+        "tier": "medium"
+      },
+      {
+        "slug": "notes/1-1a5a-A-real-essay-doesn’t-take-a-position-and-then-defend-it-(deductive).-It-starts-with-a-question-(abductive),-in-trying-to-figure-something-out.",
+        "title": "1-1a5a A real essay doesn’t take a position and then defend it (deductive). It starts with a question (abductive), in trying to figure something out.",
+        "wordCount": 55,
+        "tier": "medium"
+      }
+    ],
+    "mostBulleted": [
+      {
+        "slug": "essays/Gresham's-Law-and-AI",
+        "title": "Gresham's Law and AI",
+        "bulletRatio": 1,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/Moat-Digitized",
+        "title": "Moat Digitized",
+        "bulletRatio": 1,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/Money---Days-of-Future-Past",
+        "title": "Money - Days of Future Past",
+        "bulletRatio": 1,
+        "tier": "essay"
+      },
+      {
+        "slug": "people/Jeff-Bezos",
+        "title": "Jeff Bezos",
+        "bulletRatio": 1,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Sam-Walton",
+        "title": "Sam Walton",
+        "bulletRatio": 1,
+        "tier": "people"
+      }
+    ],
+    "mostProse": [
+      {
+        "slug": "people/Betty-Edwards",
+        "title": "Betty Edwards",
+        "bulletRatio": 0,
+        "tier": "people"
+      },
+      {
+        "slug": "essays/Unreasonably-Reasonable",
+        "title": "Unreasonably Reasonable",
+        "bulletRatio": 0,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/To-Measure-or-Not-To-Measure,-That-Is-The-Question",
+        "title": "To Measure or Not To Measure, That Is The Question",
+        "bulletRatio": 0,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/The-Products-of-My-Writing",
+        "title": "The Products of My Writing",
+        "bulletRatio": 0,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/Elden-Ring-Meets-Karl-Popper",
+        "title": "Elden Ring Meets Karl Popper",
+        "bulletRatio": 0,
+        "tier": "essay"
+      }
+    ],
+    "mostWikilinks": [
+      {
+        "slug": "people/Warren-Buffett",
+        "title": "Warren Buffett",
+        "wikilinkCount": 1417,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Ludwig-Lachmann",
+        "title": "Ludwig Lachmann",
+        "wikilinkCount": 202,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Daniel-Everett",
+        "title": "Daniel Everett",
+        "wikilinkCount": 121,
+        "tier": "people"
+      },
+      {
+        "slug": "people/Sherlock-Holmes",
+        "title": "Sherlock Holmes",
+        "wikilinkCount": 112,
+        "tier": "people"
+      },
+      {
+        "slug": "people/David-Deutsch",
+        "title": "David Deutsch",
+        "wikilinkCount": 102,
+        "tier": "people"
+      }
+    ],
+    "mostQuestions": [
+      {
+        "slug": "essays/Money---Days-of-Future-Past",
+        "title": "Money - Days of Future Past",
+        "questionRatio": 1,
+        "questionCount": 1,
+        "tier": "essay"
+      },
+      {
+        "slug": "essays/Moat-Digitized",
+        "title": "Moat Digitized",
+        "questionRatio": 0.6,
+        "questionCount": 3,
+        "tier": "essay"
+      },
+      {
+        "slug": "people/Jeff-Bezos",
+        "title": "Jeff Bezos",
+        "questionRatio": 0.556,
+        "questionCount": 5,
+        "tier": "people"
+      },
+      {
+        "slug": "notes/4-1a4b2a4-Prioritize-by-weighing-the-value-of-additional-information-against-the-cost-of-not-deciding",
+        "title": "4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding",
+        "questionRatio": 0.5,
+        "questionCount": 1,
+        "tier": "medium"
+      },
+      {
+        "slug": "people/Judea-Pearl",
+        "title": "Judea Pearl",
+        "questionRatio": 0.455,
+        "questionCount": 5,
+        "tier": "people"
+      }
+    ]
+  },
+  "samples": [
+    {
+      "slug": "notes/5-2-What-counts-cannot-be-counted",
+      "title": "5-2 What counts cannot be counted",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 89,
+      "wordCount": 895,
+      "lineCount": 31,
+      "headerCount": 0,
+      "bulletLineCount": 21,
+      "proseLineCount": 5,
+      "blockquoteCount": 5,
+      "wikilinkCount": 25,
+      "questionCount": 1,
+      "bulletRatio": 0.808,
+      "questionRatio": 0.042,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+      "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 74,
+      "wordCount": 724,
+      "lineCount": 47,
+      "headerCount": 0,
+      "bulletLineCount": 35,
+      "proseLineCount": 9,
+      "blockquoteCount": 3,
+      "wikilinkCount": 33,
+      "questionCount": 0,
+      "bulletRatio": 0.795,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/12-1e-Nothing-is-necessary-=-Everything-is-contingent",
+      "title": "12-1e Nothing is necessary = Everything is contingent",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 71,
+      "wordCount": 449,
+      "lineCount": 35,
+      "headerCount": 1,
+      "bulletLineCount": 29,
+      "proseLineCount": 5,
+      "blockquoteCount": 0,
+      "wikilinkCount": 33,
+      "questionCount": 0,
+      "bulletRatio": 0.853,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+      "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 69,
+      "wordCount": 412,
+      "lineCount": 36,
+      "headerCount": 0,
+      "bulletLineCount": 22,
+      "proseLineCount": 10,
+      "blockquoteCount": 4,
+      "wikilinkCount": 25,
+      "questionCount": 0,
+      "bulletRatio": 0.688,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-1a-Information-is-in-the-difference.-No-difference,-no-information.-情報とは差異.-区別のないところに情報は生まれない.",
+      "title": "2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 66,
+      "wordCount": 465,
+      "lineCount": 29,
+      "headerCount": 0,
+      "bulletLineCount": 21,
+      "proseLineCount": 3,
+      "blockquoteCount": 5,
+      "wikilinkCount": 19,
+      "questionCount": 0,
+      "bulletRatio": 0.875,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/5-1b4a-Amara’s-law---we-expect-too-much-in-the-short-run,-but-too-little-in-the-long-run",
+      "title": "5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 66,
+      "wordCount": 558,
+      "lineCount": 35,
+      "headerCount": 0,
+      "bulletLineCount": 25,
+      "proseLineCount": 7,
+      "blockquoteCount": 3,
+      "wikilinkCount": 32,
+      "questionCount": 0,
+      "bulletRatio": 0.781,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+      "title": "2-1a0c1d1 Focus on the few variables",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 64,
+      "wordCount": 848,
+      "lineCount": 54,
+      "headerCount": 0,
+      "bulletLineCount": 42,
+      "proseLineCount": 9,
+      "blockquoteCount": 3,
+      "wikilinkCount": 36,
+      "questionCount": 0,
+      "bulletRatio": 0.824,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/5-1b1a2c0-No-theory-can-exhaust-reality",
+      "title": "5-1b1a2c0 No theory can exhaust reality",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 61,
+      "wordCount": 545,
+      "lineCount": 33,
+      "headerCount": 0,
+      "bulletLineCount": 28,
+      "proseLineCount": 3,
+      "blockquoteCount": 2,
+      "wikilinkCount": 24,
+      "questionCount": 0,
+      "bulletRatio": 0.903,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+      "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 58,
+      "wordCount": 528,
+      "lineCount": 32,
+      "headerCount": 0,
+      "bulletLineCount": 20,
+      "proseLineCount": 8,
+      "blockquoteCount": 4,
+      "wikilinkCount": 31,
+      "questionCount": 1,
+      "bulletRatio": 0.714,
+      "questionRatio": 0.1,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+      "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 55,
+      "wordCount": 1064,
+      "lineCount": 55,
+      "headerCount": 0,
+      "bulletLineCount": 27,
+      "proseLineCount": 26,
+      "blockquoteCount": 2,
+      "wikilinkCount": 30,
+      "questionCount": 0,
+      "bulletRatio": 0.509,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/3-1d6-Constraints-in-the-form-of-consistent-style-leave-space-for-creativity-and-progress",
+      "title": "3-1d6 Constraints in the form of consistent style leave space for creativity and progress",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 55,
+      "wordCount": 448,
+      "lineCount": 27,
+      "headerCount": 0,
+      "bulletLineCount": 19,
+      "proseLineCount": 7,
+      "blockquoteCount": 1,
+      "wikilinkCount": 17,
+      "questionCount": 0,
+      "bulletRatio": 0.731,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/13-1a3.0a-Always-go-for-the-best—work-on-the-best-project,-work-in-the-best-industry,-work-with-the-best-people",
+      "title": "13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 54,
+      "wordCount": 627,
+      "lineCount": 36,
+      "headerCount": 0,
+      "bulletLineCount": 32,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 27,
+      "questionCount": 0,
+      "bulletRatio": 0.889,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/5-1b1b1a3-Network-effects-(digital)-＞-Supply-and-demand-(physical)",
+      "title": "5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 53,
+      "wordCount": 997,
+      "lineCount": 46,
+      "headerCount": 0,
+      "bulletLineCount": 27,
+      "proseLineCount": 15,
+      "blockquoteCount": 4,
+      "wikilinkCount": 39,
+      "questionCount": 0,
+      "bulletRatio": 0.643,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/7-1d2a-The-relation-between-technology-and-the-problem-situation-(i.e.,-culture-and-mind)-is-reflexive",
+      "title": "7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 52,
+      "wordCount": 397,
+      "lineCount": 27,
+      "headerCount": 0,
+      "bulletLineCount": 17,
+      "proseLineCount": 10,
+      "blockquoteCount": 0,
+      "wikilinkCount": 13,
+      "questionCount": 3,
+      "bulletRatio": 0.63,
+      "questionRatio": 0.214,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/5-1b1b1a1-Things-can-become-easier-the-more-complexity-you-have-(Network-effects-=-Power-law)",
+      "title": "5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 50,
+      "wordCount": 513,
+      "lineCount": 31,
+      "headerCount": 0,
+      "bulletLineCount": 27,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 20,
+      "questionCount": 1,
+      "bulletRatio": 0.9,
+      "questionRatio": 0.063,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/1-2-We-are-fallible",
+      "title": "1-2 We are fallible",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 49,
+      "wordCount": 301,
+      "lineCount": 18,
+      "headerCount": 0,
+      "bulletLineCount": 13,
+      "proseLineCount": 5,
+      "blockquoteCount": 0,
+      "wikilinkCount": 16,
+      "questionCount": 0,
+      "bulletRatio": 0.722,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/2-2d-Gresham’s-Law-generalized—the-bad-practice-drives-out-the-good",
+      "title": "2-2d Gresham’s Law generalized—the bad practice drives out the good",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 49,
+      "wordCount": 846,
+      "lineCount": 43,
+      "headerCount": 0,
+      "bulletLineCount": 36,
+      "proseLineCount": 5,
+      "blockquoteCount": 2,
+      "wikilinkCount": 34,
+      "questionCount": 0,
+      "bulletRatio": 0.878,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/2-1a3.1-'Feedback-loops'---Iterate.-The-more-and-quicker-the-better.",
+      "title": "2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 48,
+      "wordCount": 876,
+      "lineCount": 44,
+      "headerCount": 0,
+      "bulletLineCount": 38,
+      "proseLineCount": 3,
+      "blockquoteCount": 3,
+      "wikilinkCount": 34,
+      "questionCount": 0,
+      "bulletRatio": 0.927,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-1a6-'Incentives'---Incentives-drive-(almost)-everything.-Understand-your-incentives.",
+      "title": "2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 48,
+      "wordCount": 154,
+      "lineCount": 15,
+      "headerCount": 0,
+      "bulletLineCount": 11,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 10,
+      "questionCount": 0,
+      "bulletRatio": 0.733,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/2-1b2b5-Know-the-correlations-between-your-bets.-Holy-grail-is-fifteen-or-so-uncorrelated-bets.",
+      "title": "2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.",
+      "section": "notes",
+      "tier": "hub",
+      "connections": 48,
+      "wordCount": 528,
+      "lineCount": 38,
+      "headerCount": 0,
+      "bulletLineCount": 30,
+      "proseLineCount": 8,
+      "blockquoteCount": 0,
+      "wikilinkCount": 25,
+      "questionCount": 1,
+      "bulletRatio": 0.789,
+      "questionRatio": 0.111,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/1-1-Our-mind-can-constrain-itself-(i.e.,-why-you-need-proper-epistemology)",
+      "title": "1-1 Our mind can constrain itself (i.e., why you need proper epistemology)",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 14,
+      "wordCount": 174,
+      "lineCount": 13,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 13,
+      "blockquoteCount": 0,
+      "wikilinkCount": 11,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/1-1a5a-A-real-essay-doesn’t-take-a-position-and-then-defend-it-(deductive).-It-starts-with-a-question-(abductive),-in-trying-to-figure-something-out.",
+      "title": "1-1a5a A real essay doesn’t take a position and then defend it (deductive). It starts with a question (abductive), in trying to figure something out.",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 15,
+      "wordCount": 55,
+      "lineCount": 5,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 5,
+      "blockquoteCount": 0,
+      "wikilinkCount": 5,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/1-2f1b8-検証が厳しければ厳しいほど、それに耐える仮説の価値は大きくなっていく",
+      "title": "1-2f1b8 検証が厳しければ厳しいほど、それに耐える仮説の価値は大きくなっていく",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 15,
+      "wordCount": 140,
+      "lineCount": 12,
+      "headerCount": 0,
+      "bulletLineCount": 10,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 9,
+      "questionCount": 0,
+      "bulletRatio": 0.833,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/1-2g2r-The-Turing-principle,-if-true,-dictates-that-we-can-form-accurate-theories-about-reality.-Knowledge-to-the-Turing-principle-is-what-steam-engines-are-to-the-principles-of-thermodynamics.-That-is,-the-Turing-principle-implies-knowledge.",
+      "title": "1-2g2r The Turing principle, if true, dictates that we can form accurate theories about reality. Knowledge to the Turing principle is what steam engines are to the principles of thermodynamics. That is, the Turing principle implies knowledge.",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 16,
+      "wordCount": 131,
+      "lineCount": 9,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 9,
+      "blockquoteCount": 0,
+      "wikilinkCount": 6,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/10-2d1c-Evolution-achieved-that-jump-to-universality-with-the-DNA-genetic-code",
+      "title": "10-2d1c Evolution achieved that jump to universality with the DNA genetic code",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 14,
+      "wordCount": 159,
+      "lineCount": 12,
+      "headerCount": 0,
+      "bulletLineCount": 2,
+      "proseLineCount": 10,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0.167,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/10-2g2e9a-The-contingent-relation-between-the-form-and-the-abstract-can-be-only-realized-by-digital-systems.-Analog-systems-cannot-do-this.",
+      "title": "10-2g2e9a The contingent relation between the form and the abstract can be only realized by digital systems. Analog systems cannot do this.",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 13,
+      "wordCount": 181,
+      "lineCount": 11,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 11,
+      "blockquoteCount": 0,
+      "wikilinkCount": 5,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/13-1a3a-There-must-always-be-room-for-improvement-in-his-value-scale—otherwise-action-would-disappear",
+      "title": "13-1a3a There must always be room for improvement in his value scale—otherwise action would disappear",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 15,
+      "wordCount": 336,
+      "lineCount": 9,
+      "headerCount": 0,
+      "bulletLineCount": 4,
+      "proseLineCount": 5,
+      "blockquoteCount": 0,
+      "wikilinkCount": 9,
+      "questionCount": 0,
+      "bulletRatio": 0.444,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/13-3a-The-use-of-the-mathematical-concept-of-function-in-a-science-of-human-action-is-inappropriate—because-it-disregards-time-and-knowledge-creation-(i.e.,-the-multiverse)",
+      "title": "13-3a The use of the mathematical concept of function in a science of human action is inappropriate—because it disregards time and knowledge creation (i.e., the multiverse)",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 17,
+      "wordCount": 247,
+      "lineCount": 11,
+      "headerCount": 0,
+      "bulletLineCount": 7,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 5,
+      "questionCount": 0,
+      "bulletRatio": 0.636,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/13-6a-The-same-individual-exhibits-different-scale-of-values-at-different-times",
+      "title": "13-6a The same individual exhibits different scale of values at different times",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 14,
+      "wordCount": 227,
+      "lineCount": 14,
+      "headerCount": 0,
+      "bulletLineCount": 11,
+      "proseLineCount": 3,
+      "blockquoteCount": 0,
+      "wikilinkCount": 9,
+      "questionCount": 0,
+      "bulletRatio": 0.786,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-1a1a1a-'Self-preservation'---Don't-trigger-your-biological-defaults-(defense-mode)",
+      "title": "2-1a1a1a 'Self-preservation' - Don't trigger your biological defaults (defense mode)",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 11,
+      "wordCount": 72,
+      "lineCount": 9,
+      "headerCount": 0,
+      "bulletLineCount": 5,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 5,
+      "questionCount": 0,
+      "bulletRatio": 0.625,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/2-1b2d1-Consistency-builds-trust",
+      "title": "2-1b2d1 Consistency builds trust",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 12,
+      "wordCount": 94,
+      "lineCount": 7,
+      "headerCount": 0,
+      "bulletLineCount": 5,
+      "proseLineCount": 1,
+      "blockquoteCount": 1,
+      "wikilinkCount": 6,
+      "questionCount": 0,
+      "bulletRatio": 0.833,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/3-1a4b2b-What-is-smart-at-one-price-is-dumb-at-another",
+      "title": "3-1a4b2b What is smart at one price is dumb at another",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 18,
+      "wordCount": 90,
+      "lineCount": 8,
+      "headerCount": 0,
+      "bulletLineCount": 7,
+      "proseLineCount": 1,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0.875,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/3-1c2e4-There-is-no-limit-to-the-number-of-symbols-available-to-humans-for-languages",
+      "title": "3-1c2e4 There is no limit to the number of symbols available to humans for languages",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 13,
+      "wordCount": 96,
+      "lineCount": 7,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 7,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/4-1a4b2a4-Prioritize-by-weighing-the-value-of-additional-information-against-the-cost-of-not-deciding",
+      "title": "4-1a4b2a4 Prioritize by weighing the value of additional information against the cost of not deciding",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 17,
+      "wordCount": 168,
+      "lineCount": 15,
+      "headerCount": 0,
+      "bulletLineCount": 11,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 8,
+      "questionCount": 1,
+      "bulletRatio": 0.786,
+      "questionRatio": 0.5,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/5-1b1a1e-Innovation-and-science-can-feed-each-other.-We-tend-to-treat-them-separately,-but-both-are-attempts-to-solve-problems.",
+      "title": "5-1b1a1e Innovation and science can feed each other. We tend to treat them separately, but both are attempts to solve problems.",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 11,
+      "wordCount": 65,
+      "lineCount": 9,
+      "headerCount": 0,
+      "bulletLineCount": 3,
+      "proseLineCount": 5,
+      "blockquoteCount": 1,
+      "wikilinkCount": 3,
+      "questionCount": 0,
+      "bulletRatio": 0.375,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/5-2b2-You-can’t-flow-to-the-most-interesting-if-you-react-to-everything-that-comes-at-you-by-default",
+      "title": "5-2b2 You can’t flow to the most interesting if you react to everything that comes at you by default",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 15,
+      "wordCount": 141,
+      "lineCount": 8,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 8,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/6-3b3b-Not-differentiating-developers-from-users-mean-what-attracts-the-former-also-attracts-the-latter,-and-vice-versa",
+      "title": "6-3b3b Not differentiating developers from users mean what attracts the former also attracts the latter, and vice versa",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 11,
+      "wordCount": 133,
+      "lineCount": 10,
+      "headerCount": 0,
+      "bulletLineCount": 6,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 5,
+      "questionCount": 0,
+      "bulletRatio": 0.6,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/7-1b4b0-Tech-does-what-culture-does-to-you.-You-see-what-could've-been-based-on-the-tech-you-know.",
+      "title": "7-1b4b0 Tech does what culture does to you. You see what could've been based on the tech you know.",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 16,
+      "wordCount": 230,
+      "lineCount": 15,
+      "headerCount": 0,
+      "bulletLineCount": 11,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 10,
+      "questionCount": 1,
+      "bulletRatio": 0.786,
+      "questionRatio": 0.333,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/8-1c4a2-Twitter’s-140-character-limit-was-useful-constraint",
+      "title": "8-1c4a2 Twitter’s 140-character limit was useful constraint",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 11,
+      "wordCount": 135,
+      "lineCount": 8,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 8,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "notes/9-2b3e2-There-is-no-universal-symbol-idea-(in-the-sense-of-capable-of-conveying-universal-meaning)",
+      "title": "9-2b3e2 There is no universal symbol-idea (in the sense of capable of conveying universal meaning)",
+      "section": "notes",
+      "tier": "medium",
+      "connections": 13,
+      "wordCount": 54,
+      "lineCount": 7,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 7,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "notes/2-2-ウツ・ウツツ-(空・現)",
+      "title": "2-2 ウツ・ウツツ (空・現)",
+      "section": "notes",
+      "tier": "orphan",
+      "connections": 2,
+      "wordCount": 17,
+      "lineCount": 2,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 2,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Become-A-Problem-Solving-Artist",
+      "title": "Become A Problem-Solving Artist",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 18,
+      "wordCount": 286,
+      "lineCount": 5,
+      "headerCount": 1,
+      "bulletLineCount": 0,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 4,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/CPU,-GPU,-Brain,-Mind,-Energy",
+      "title": "CPU, GPU, Brain, Mind, Energy",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 2,
+      "wordCount": 868,
+      "lineCount": 41,
+      "headerCount": 0,
+      "bulletLineCount": 35,
+      "proseLineCount": 6,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 2,
+      "bulletRatio": 0.854,
+      "questionRatio": 0.038,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Economics-of-God",
+      "title": "Economics of God",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 3,
+      "wordCount": 843,
+      "lineCount": 18,
+      "headerCount": 0,
+      "bulletLineCount": 17,
+      "proseLineCount": 1,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 1,
+      "bulletRatio": 0.944,
+      "questionRatio": 0.038,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Elden-Ring-Meets-Karl-Popper",
+      "title": "Elden Ring Meets Karl Popper",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 11,
+      "wordCount": 593,
+      "lineCount": 14,
+      "headerCount": 1,
+      "bulletLineCount": 0,
+      "proseLineCount": 13,
+      "blockquoteCount": 0,
+      "wikilinkCount": 11,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Gresham's-Law-and-AI",
+      "title": "Gresham's Law and AI",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 1,
+      "wordCount": 68,
+      "lineCount": 3,
+      "headerCount": 0,
+      "bulletLineCount": 3,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 0,
+      "bulletRatio": 1,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/How-Popper-would-use-LLMs",
+      "title": "How Popper would use LLMs",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 38,
+      "wordCount": 935,
+      "lineCount": 43,
+      "headerCount": 0,
+      "bulletLineCount": 27,
+      "proseLineCount": 16,
+      "blockquoteCount": 0,
+      "wikilinkCount": 29,
+      "questionCount": 4,
+      "bulletRatio": 0.628,
+      "questionRatio": 0.105,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Moat-Digitized",
+      "title": "Moat Digitized",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 1,
+      "wordCount": 110,
+      "lineCount": 6,
+      "headerCount": 0,
+      "bulletLineCount": 6,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 3,
+      "bulletRatio": 1,
+      "questionRatio": 0.6,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Money---Days-of-Future-Past",
+      "title": "Money - Days of Future Past",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 2,
+      "wordCount": 115,
+      "lineCount": 5,
+      "headerCount": 0,
+      "bulletLineCount": 5,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 1,
+      "bulletRatio": 1,
+      "questionRatio": 1,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Naruto-and-LLMs",
+      "title": "Naruto and LLMs",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 12,
+      "wordCount": 306,
+      "lineCount": 17,
+      "headerCount": 0,
+      "bulletLineCount": 13,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 10,
+      "questionCount": 0,
+      "bulletRatio": 0.765,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "essays/The-Fabric-of-Reality-Implies-the-Beginning-of-Infinity",
+      "title": "The Fabric of Reality Implies the Beginning of Infinity",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 5,
+      "wordCount": 394,
+      "lineCount": 17,
+      "headerCount": 7,
+      "bulletLineCount": 2,
+      "proseLineCount": 8,
+      "blockquoteCount": 0,
+      "wikilinkCount": 3,
+      "questionCount": 0,
+      "bulletRatio": 0.2,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/The-Products-of-My-Writing",
+      "title": "The Products of My Writing",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 10,
+      "wordCount": 345,
+      "lineCount": 11,
+      "headerCount": 1,
+      "bulletLineCount": 0,
+      "proseLineCount": 10,
+      "blockquoteCount": 0,
+      "wikilinkCount": 9,
+      "questionCount": 4,
+      "bulletRatio": 0,
+      "questionRatio": 0.2,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/The-Triad-is-the-Underlying",
+      "title": "The Triad is the Underlying",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 6,
+      "wordCount": 481,
+      "lineCount": 12,
+      "headerCount": 0,
+      "bulletLineCount": 10,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 6,
+      "questionCount": 0,
+      "bulletRatio": 0.833,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "essays/To-Measure-or-Not-To-Measure,-That-Is-The-Question",
+      "title": "To Measure or Not To Measure, That Is The Question",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 13,
+      "wordCount": 823,
+      "lineCount": 22,
+      "headerCount": 1,
+      "bulletLineCount": 0,
+      "proseLineCount": 21,
+      "blockquoteCount": 0,
+      "wikilinkCount": 8,
+      "questionCount": 1,
+      "bulletRatio": 0,
+      "questionRatio": 0.018,
+      "hasJapanese": false
+    },
+    {
+      "slug": "essays/Unreasonably-Reasonable",
+      "title": "Unreasonably Reasonable",
+      "section": "essays",
+      "tier": "essay",
+      "connections": 7,
+      "wordCount": 325,
+      "lineCount": 11,
+      "headerCount": 1,
+      "bulletLineCount": 0,
+      "proseLineCount": 8,
+      "blockquoteCount": 2,
+      "wikilinkCount": 7,
+      "questionCount": 3,
+      "bulletRatio": 0,
+      "questionRatio": 0.111,
+      "hasJapanese": false
+    },
+    {
+      "slug": "people/Warren-Buffett",
+      "title": "Warren Buffett",
+      "section": "people",
+      "tier": "people",
+      "connections": 554,
+      "wordCount": 42906,
+      "lineCount": 2712,
+      "headerCount": 311,
+      "bulletLineCount": 2397,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 1417,
+      "questionCount": 75,
+      "bulletRatio": 0.998,
+      "questionRatio": 0.046,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Ludwig-Lachmann",
+      "title": "Ludwig Lachmann",
+      "section": "people",
+      "tier": "people",
+      "connections": 146,
+      "wordCount": 13063,
+      "lineCount": 614,
+      "headerCount": 27,
+      "bulletLineCount": 583,
+      "proseLineCount": 4,
+      "blockquoteCount": 0,
+      "wikilinkCount": 202,
+      "questionCount": 4,
+      "bulletRatio": 0.993,
+      "questionRatio": 0.007,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Sherlock-Holmes",
+      "title": "Sherlock Holmes",
+      "section": "people",
+      "tier": "people",
+      "connections": 140,
+      "wordCount": 4300,
+      "lineCount": 220,
+      "headerCount": 1,
+      "bulletLineCount": 217,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 112,
+      "questionCount": 18,
+      "bulletRatio": 0.991,
+      "questionRatio": 0.107,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/David-Deutsch",
+      "title": "David Deutsch",
+      "section": "people",
+      "tier": "people",
+      "connections": 125,
+      "wordCount": 18348,
+      "lineCount": 957,
+      "headerCount": 35,
+      "bulletLineCount": 918,
+      "proseLineCount": 3,
+      "blockquoteCount": 1,
+      "wikilinkCount": 102,
+      "questionCount": 59,
+      "bulletRatio": 0.997,
+      "questionRatio": 0.122,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Daniel-Everett",
+      "title": "Daniel Everett",
+      "section": "people",
+      "tier": "people",
+      "connections": 117,
+      "wordCount": 11165,
+      "lineCount": 855,
+      "headerCount": 30,
+      "bulletLineCount": 822,
+      "proseLineCount": 2,
+      "blockquoteCount": 1,
+      "wikilinkCount": 121,
+      "questionCount": 52,
+      "bulletRatio": 0.998,
+      "questionRatio": 0.196,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Balaji-Srinivasan",
+      "title": "Balaji Srinivasan",
+      "section": "people",
+      "tier": "people",
+      "connections": 14,
+      "wordCount": 1268,
+      "lineCount": 137,
+      "headerCount": 26,
+      "bulletLineCount": 103,
+      "proseLineCount": 8,
+      "blockquoteCount": 0,
+      "wikilinkCount": 7,
+      "questionCount": 1,
+      "bulletRatio": 0.928,
+      "questionRatio": 0.067,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Chris-Dixon",
+      "title": "Chris Dixon",
+      "section": "people",
+      "tier": "people",
+      "connections": 14,
+      "wordCount": 4118,
+      "lineCount": 402,
+      "headerCount": 29,
+      "bulletLineCount": 371,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 5,
+      "questionCount": 17,
+      "bulletRatio": 0.995,
+      "questionRatio": 0.163,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Jeff-Bezos",
+      "title": "Jeff Bezos",
+      "section": "people",
+      "tier": "people",
+      "connections": 14,
+      "wordCount": 1291,
+      "lineCount": 111,
+      "headerCount": 0,
+      "bulletLineCount": 111,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 3,
+      "questionCount": 5,
+      "bulletRatio": 1,
+      "questionRatio": 0.556,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Judea-Pearl",
+      "title": "Judea Pearl",
+      "section": "people",
+      "tier": "people",
+      "connections": 12,
+      "wordCount": 339,
+      "lineCount": 21,
+      "headerCount": 3,
+      "bulletLineCount": 17,
+      "proseLineCount": 1,
+      "blockquoteCount": 0,
+      "wikilinkCount": 11,
+      "questionCount": 5,
+      "bulletRatio": 0.944,
+      "questionRatio": 0.455,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Sam-Walton",
+      "title": "Sam Walton",
+      "section": "people",
+      "tier": "people",
+      "connections": 11,
+      "wordCount": 416,
+      "lineCount": 50,
+      "headerCount": 0,
+      "bulletLineCount": 50,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 0,
+      "bulletRatio": 1,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Andrej-Karpathy",
+      "title": "Andrej Karpathy",
+      "section": "people",
+      "tier": "people",
+      "connections": 4,
+      "wordCount": 258,
+      "lineCount": 12,
+      "headerCount": 0,
+      "bulletLineCount": 10,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 3,
+      "questionCount": 0,
+      "bulletRatio": 0.833,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "people/Michael-Saylor",
+      "title": "Michael Saylor",
+      "section": "people",
+      "tier": "people",
+      "connections": 4,
+      "wordCount": 324,
+      "lineCount": 31,
+      "headerCount": 1,
+      "bulletLineCount": 30,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 0,
+      "bulletRatio": 1,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "people/Betty-Edwards",
+      "title": "Betty Edwards",
+      "section": "people",
+      "tier": "people",
+      "connections": 3,
+      "wordCount": 0,
+      "lineCount": 0,
+      "headerCount": 0,
+      "bulletLineCount": 0,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 0,
+      "questionCount": 0,
+      "bulletRatio": 0,
+      "questionRatio": 0,
+      "hasJapanese": false
+    },
+    {
+      "slug": "people/Henry-Ford",
+      "title": "Henry Ford",
+      "section": "people",
+      "tier": "people",
+      "connections": 3,
+      "wordCount": 146,
+      "lineCount": 13,
+      "headerCount": 0,
+      "bulletLineCount": 11,
+      "proseLineCount": 2,
+      "blockquoteCount": 0,
+      "wikilinkCount": 1,
+      "questionCount": 0,
+      "bulletRatio": 0.846,
+      "questionRatio": 0,
+      "hasJapanese": true
+    },
+    {
+      "slug": "people/Ray-Dalio",
+      "title": "Ray Dalio",
+      "section": "people",
+      "tier": "people",
+      "connections": 3,
+      "wordCount": 41,
+      "lineCount": 3,
+      "headerCount": 0,
+      "bulletLineCount": 3,
+      "proseLineCount": 0,
+      "blockquoteCount": 0,
+      "wikilinkCount": 3,
+      "questionCount": 0,
+      "bulletRatio": 1,
+      "questionRatio": 0,
+      "hasJapanese": false
+    }
+  ]
+}
