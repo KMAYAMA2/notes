@@ -1,0 +1,509 @@
+{
+  "generatedAt": "2026-02-19T01:51:44.919Z",
+  "totals": {
+    "all": {
+      "count": 1856,
+      "avgConnections": 14,
+      "medianConnections": 10,
+      "maxConnections": 554,
+      "minConnections": 1,
+      "zeroCon": 0
+    },
+    "notes": {
+      "count": 1786,
+      "avgConnections": 13.3,
+      "medianConnections": 10,
+      "maxConnections": 89,
+      "minConnections": 1,
+      "zeroCon": 0
+    },
+    "essays": {
+      "count": 14,
+      "avgConnections": 9.2,
+      "medianConnections": 7,
+      "maxConnections": 38,
+      "minConnections": 1,
+      "zeroCon": 0
+    },
+    "people": {
+      "count": 54,
+      "avgConnections": 37.5,
+      "medianConnections": 14,
+      "maxConnections": 554,
+      "minConnections": 1,
+      "zeroCon": 0
+    }
+  },
+  "connectionHistogram": {
+    "0": 0,
+    "1-5": 417,
+    "6-10": 530,
+    "11-20": 545,
+    "21-50": 340,
+    "51+": 24
+  },
+  "tagDistribution": [
+    [
+      "develop",
+      476
+    ],
+    [
+      "revisit",
+      206
+    ],
+    [
+      "categories",
+      66
+    ],
+    [
+      "TODO",
+      33
+    ],
+    [
+      "TheTuringPrinciple",
+      31
+    ],
+    [
+      "multiverse",
+      24
+    ],
+    [
+      "reflexivity",
+      23
+    ],
+    [
+      "MentalModels",
+      23
+    ],
+    [
+      "Ayache",
+      18
+    ],
+    [
+      "MentalModelsPsychology",
+      18
+    ],
+    [
+      "symbols",
+      16
+    ],
+    [
+      "Universality",
+      13
+    ],
+    [
+      "ERE",
+      13
+    ],
+    [
+      "history",
+      13
+    ],
+    [
+      "evolution",
+      12
+    ],
+    [
+      "LearnInPublic",
+      11
+    ],
+    [
+      "Spitznagel",
+      11
+    ],
+    [
+      "MentalModelsGeneral",
+      10
+    ],
+    [
+      "own",
+      10
+    ],
+    [
+      "challenge",
+      9
+    ],
+    [
+      "FutureSelf",
+      9
+    ],
+    [
+      "BorrowedCreativity",
+      8
+    ],
+    [
+      "incentives",
+      8
+    ],
+    [
+      "MentalModelsMicroEcon",
+      8
+    ],
+    [
+      "MentalModelsPhysicsAndChem",
+      8
+    ],
+    [
+      "MentalModelsNumeracy",
+      8
+    ],
+    [
+      "Consciousness",
+      7
+    ],
+    [
+      "MentalModelsSystems",
+      7
+    ],
+    [
+      "MentalModelsBiology",
+      6
+    ],
+    [
+      "ConstructorTheory",
+      5
+    ]
+  ],
+  "noteCategories": [
+    [
+      "1",
+      293
+    ],
+    [
+      "2",
+      170
+    ],
+    [
+      "3",
+      161
+    ],
+    [
+      "4",
+      88
+    ],
+    [
+      "5",
+      168
+    ],
+    [
+      "6",
+      79
+    ],
+    [
+      "7",
+      100
+    ],
+    [
+      "8",
+      92
+    ],
+    [
+      "9",
+      143
+    ],
+    [
+      "10",
+      168
+    ],
+    [
+      "11",
+      18
+    ],
+    [
+      "12",
+      26
+    ],
+    [
+      "13",
+      188
+    ],
+    [
+      "unnumbered",
+      92
+    ]
+  ],
+  "top20Overall": [
+    {
+      "slug": "people/Warren-Buffett",
+      "title": "Warren Buffett",
+      "total": 554,
+      "out": 487,
+      "in": 67
+    },
+    {
+      "slug": "people/Ludwig-Lachmann",
+      "title": "Ludwig Lachmann",
+      "total": 146,
+      "out": 121,
+      "in": 25
+    },
+    {
+      "slug": "people/Sherlock-Holmes",
+      "title": "Sherlock Holmes",
+      "total": 140,
+      "out": 90,
+      "in": 50
+    },
+    {
+      "slug": "people/David-Deutsch",
+      "title": "David Deutsch",
+      "total": 125,
+      "out": 91,
+      "in": 34
+    },
+    {
+      "slug": "people/Daniel-Everett",
+      "title": "Daniel Everett",
+      "total": 117,
+      "out": 103,
+      "in": 14
+    },
+    {
+      "slug": "people/Naval-Ravikant",
+      "title": "Naval Ravikant",
+      "total": 96,
+      "out": 61,
+      "in": 35
+    },
+    {
+      "slug": "notes/5-2-What-counts-cannot-be-counted",
+      "title": "5-2 What counts cannot be counted",
+      "total": 89,
+      "out": 25,
+      "in": 64
+    },
+    {
+      "slug": "people/Murray-Rothbard",
+      "title": "Murray Rothbard",
+      "total": 88,
+      "out": 51,
+      "in": 37
+    },
+    {
+      "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+      "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+      "total": 74,
+      "out": 35,
+      "in": 39
+    },
+    {
+      "slug": "notes/12-1e-Nothing-is-necessary-=-Everything-is-contingent",
+      "title": "12-1e Nothing is necessary = Everything is contingent",
+      "total": 71,
+      "out": 34,
+      "in": 37
+    },
+    {
+      "slug": "people/Michael-Burry",
+      "title": "Michael Burry",
+      "total": 70,
+      "out": 47,
+      "in": 23
+    },
+    {
+      "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+      "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+      "total": 69,
+      "out": 27,
+      "in": 42
+    },
+    {
+      "slug": "people/Ludwig-von-Mises",
+      "title": "Ludwig von Mises",
+      "total": 67,
+      "out": 52,
+      "in": 15
+    },
+    {
+      "slug": "notes/2-1a-Information-is-in-the-difference.-No-difference,-no-information.-情報とは差異.-区別のないところに情報は生まれない.",
+      "title": "2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.",
+      "total": 66,
+      "out": 17,
+      "in": 49
+    },
+    {
+      "slug": "notes/5-1b4a-Amara’s-law---we-expect-too-much-in-the-short-run,-but-too-little-in-the-long-run",
+      "title": "5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run",
+      "total": 66,
+      "out": 33,
+      "in": 33
+    },
+    {
+      "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+      "title": "2-1a0c1d1 Focus on the few variables",
+      "total": 64,
+      "out": 36,
+      "in": 28
+    },
+    {
+      "slug": "notes/5-1b1a2c0-No-theory-can-exhaust-reality",
+      "title": "5-1b1a2c0 No theory can exhaust reality",
+      "total": 61,
+      "out": 25,
+      "in": 36
+    },
+    {
+      "slug": "people/Saifedean-Ammous",
+      "title": "Saifedean Ammous",
+      "total": 60,
+      "out": 50,
+      "in": 10
+    },
+    {
+      "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+      "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+      "total": 58,
+      "out": 26,
+      "in": 32
+    },
+    {
+      "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+      "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+      "total": 55,
+      "out": 30,
+      "in": 25
+    }
+  ],
+  "bottom20Overall": [
+    {
+      "slug": "people/Quentin-Tarantino",
+      "title": "Quentin Tarantino",
+      "total": 1,
+      "out": 1,
+      "in": 0
+    },
+    {
+      "slug": "people/Mr.-Beast",
+      "title": "Mr. Beast",
+      "total": 1,
+      "out": 1,
+      "in": 0
+    },
+    {
+      "slug": "people/Logan-Chipkin",
+      "title": "Logan Chipkin",
+      "total": 1,
+      "out": 1,
+      "in": 0
+    },
+    {
+      "slug": "people/James-J.-Hill",
+      "title": "James J. Hill",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "people/Chiara-Marletto",
+      "title": "Chiara Marletto",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/技術が99-percent---メンタルも技術",
+      "title": "技術が99% - メンタルも技術",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/Tychism---Peirce’s-sub-theory-on-chance-as-fundamental-to-the-Universe,-which-anticipates-the-quantum-physics",
+      "title": "Tychism - Peirce’s sub-theory on chance as fundamental to the Universe, which anticipates the quantum physics",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/Truly-open-means-no-intermediary",
+      "title": "Truly open means no intermediary",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/RUL3---Let-delight-pull-you-instead-of-making-a-to-do-list-push-you",
+      "title": "RUL3 - Let delight pull you instead of making a to-do list push you",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/RUL3---Growth-rate---+5~7-percent-a-week-is-good;-+10-percent-is-exceptionally-well;-+1-percent-you-haven’t-figured-out-what-you’re-doing",
+      "title": "RUL3 - Growth rate - +5~7% a week is good; +10% is exceptionally well; +1% you haven’t figured out what you’re doing",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/QUE5---Story-and-anecdote-capture-what-cannot-be-captured-rationally,-and-humans-are-irrational.-What-is-your-story-and-anecdote-that-you-often-refer-back-to.",
+      "title": "QUE5 - Story and anecdote capture what cannot be captured rationally, and humans are irrational. What is your story and anecdote that you often refer back to.",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/John-Steinbeck---'Ideas-are-like-rabbits.-You-get-a-couple-and-learn-how-to-handle-them,-and-pretty-soon-you-have-a-dozen.'",
+      "title": "John Steinbeck - 'Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen.'",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/Explanation-has-to-be-non-formalizable,-but-they-are-nonetheless-conjectured-and-created-by-physical-processes",
+      "title": "Explanation has to be non-formalizable, but they are nonetheless conjectured and created by physical processes",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/Double-slit-experiment-with-and-without-an-observer-are-different-experiments",
+      "title": "Double slit experiment with and without an observer are different experiments",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/AN3C---The-Batman-Effect---the-placebo-effect-of-alter-ego-works,-because-memes-can-beat-genes",
+      "title": "AN3C - The Batman Effect - the placebo effect of alter ego works, because memes can beat genes",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/AN3C---John-Steinbeck---“Ideas-are-like-rabbits.-You-get-a-couple-and-learn-how-to-handle-them,-and-pretty-soon-you-have-a-dozen.”",
+      "title": "AN3C - John Steinbeck - “Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen.”",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/8-4b2-What-can-be-done-by-AIs-will-be-done-by-AIs",
+      "title": "8-4b2 What can be done by AIs will be done by AIs",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/7-1b2c-You-can-create-problems-then-offer-solutions-simultaneously",
+      "title": "7-1b2c You can create problems then offer solutions simultaneously",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/6-6-Once-you-hit-25,-your-aerobic-capacity-decreases-10-percent-per-decade-(or-1-percent-per-year)",
+      "title": "6-6 Once you hit 25, your aerobic capacity decreases 10% per decade (or 1% per year)",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    },
+    {
+      "slug": "notes/6-3b3h-Protocol-networks-could-get-subsumed-by-corporate-networks",
+      "title": "6-3b3h Protocol networks could get subsumed by corporate networks",
+      "total": 1,
+      "out": 0,
+      "in": 1
+    }
+  ]
+}

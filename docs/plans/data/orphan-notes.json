@@ -1,0 +1,534 @@
+{
+  "generatedAt": "2026-02-19T01:51:45.464Z",
+  "summary": {
+    "totalOrphans": 5,
+    "totalNearOrphans": 3,
+    "totalNoIncoming": 7,
+    "totalIslands": 23,
+    "totalDeadLinks": 29
+  },
+  "orphans": {
+    "notes": [],
+    "essays": [
+      {
+        "slug": "essays/Gresham's-Law-and-AI",
+        "title": "Gresham's Law and AI",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 1,
+        "inCount": 0,
+        "total": 1
+      },
+      {
+        "slug": "essays/Moat-Digitized",
+        "title": "Moat Digitized",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 1,
+        "inCount": 0,
+        "total": 1
+      }
+    ],
+    "people": [
+      {
+        "slug": "people/Logan-Chipkin",
+        "title": "Logan Chipkin",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 1,
+        "inCount": 0,
+        "total": 1
+      },
+      {
+        "slug": "people/Mr.-Beast",
+        "title": "Mr. Beast",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 1,
+        "inCount": 0,
+        "total": 1
+      },
+      {
+        "slug": "people/Quentin-Tarantino",
+        "title": "Quentin Tarantino",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 1,
+        "inCount": 0,
+        "total": 1
+      }
+    ],
+    "other": []
+  },
+  "nearOrphans": {
+    "notes": [
+      {
+        "slug": "notes/2-2-ウツ・ウツツ-(空・現)",
+        "title": "2-2 ウツ・ウツツ (空・現)",
+        "tags": [],
+        "outCount": 2,
+        "inCount": 0,
+        "total": 2
+      }
+    ],
+    "essays": [
+      {
+        "slug": "essays/Money---Days-of-Future-Past",
+        "title": "Money - Days of Future Past",
+        "tags": [
+          "revisit",
+          "challenge"
+        ],
+        "outCount": 2,
+        "inCount": 0,
+        "total": 2
+      }
+    ],
+    "people": [
+      {
+        "slug": "people/Ray-Dalio",
+        "title": "Ray Dalio",
+        "tags": [],
+        "outCount": 3,
+        "inCount": 0,
+        "total": 3
+      }
+    ],
+    "other": []
+  },
+  "noIncoming": {
+    "notes": [
+      {
+        "slug": "notes/2-4-Be-nice-(but-smart)",
+        "title": "2-4 Be nice (but smart)",
+        "tags": [],
+        "outCount": 5,
+        "inCount": 0,
+        "total": 5
+      }
+    ],
+    "essays": [
+      {
+        "slug": "essays/Elden-Ring-Meets-Karl-Popper",
+        "title": "Elden Ring Meets Karl Popper",
+        "tags": [],
+        "outCount": 11,
+        "inCount": 0,
+        "total": 11
+      },
+      {
+        "slug": "essays/The-Triad-is-the-Underlying",
+        "title": "The Triad is the Underlying",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 6,
+        "inCount": 0,
+        "total": 6
+      },
+      {
+        "slug": "essays/Unreasonably-Reasonable",
+        "title": "Unreasonably Reasonable",
+        "tags": [],
+        "outCount": 7,
+        "inCount": 0,
+        "total": 7
+      }
+    ],
+    "people": [
+      {
+        "slug": "people/Andrej-Karpathy",
+        "title": "Andrej Karpathy",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 4,
+        "inCount": 0,
+        "total": 4
+      },
+      {
+        "slug": "people/Robert-Cialdini",
+        "title": "Robert Cialdini",
+        "tags": [
+          "develop",
+          "revisit"
+        ],
+        "outCount": 17,
+        "inCount": 0,
+        "total": 17
+      }
+    ],
+    "other": [
+      {
+        "slug": "index",
+        "title": "About this project",
+        "tags": [],
+        "outCount": 34,
+        "inCount": 0,
+        "total": 34
+      }
+    ]
+  },
+  "islands": [
+    {
+      "slug": "essays/Gresham's-Law-and-AI",
+      "title": "Gresham's Law and AI",
+      "tags": [
+        "develop"
+      ],
+      "total": 1,
+      "neighbors": [
+        "tags/develop"
+      ]
+    },
+    {
+      "slug": "essays/Moat-Digitized",
+      "title": "Moat Digitized",
+      "tags": [
+        "revisit"
+      ],
+      "total": 1,
+      "neighbors": [
+        "tags/revisit"
+      ]
+    },
+    {
+      "slug": "essays/Money---Days-of-Future-Past",
+      "title": "Money - Days of Future Past",
+      "tags": [
+        "revisit",
+        "challenge"
+      ],
+      "total": 2,
+      "neighbors": [
+        "tags/revisit",
+        "tags/challenge"
+      ]
+    },
+    {
+      "slug": "notes/1-1b2-The-interpretation-isn’t-physical-either",
+      "title": "1-1b2 The interpretation isn’t physical either",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/1-1b1-The-placebo-effect-is-very-likely-real,-just-that-they-can’t-be-easily-tested-since-ideas-themselves-aren’t-physical"
+      ]
+    },
+    {
+      "slug": "notes/1-2g2a1-The-principle-of-the-universality-of-computation-and-that-of-testability-(Constructor-Theory-is-the-generalization-of-the-latter)-might-provide-an-answer",
+      "title": "1-2g2a1 The principle of the universality of computation and that of testability (Constructor Theory is the generalization of the latter) might provide an answer",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/1-2g2a-The-problem-of-‘fine-tuning’-should-be-approached-by-being-honest-with-what-knowledge-is,-and-not-anthropocentrically"
+      ]
+    },
+    {
+      "slug": "notes/1-2g2k5-Life-is-knowledge-and-expressed-via-DNA,-and-DNA-is-symbol.-Because-humans-are-primarily-about-knowledge-symbol-meaning-(each-implies-the-other),-they-became-self-aware-of-DNA-as-symbols.-That-is,-of-its-arbitrariness.",
+      "title": "1-2g2k5 Life is knowledge and expressed via DNA, and DNA is symbol. Because humans are primarily about knowledge-symbol-meaning (each implies the other), they became self-aware of DNA as symbols. That is, of its arbitrariness.",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/1-2g2k4-Genes-are-(computer)-programs-expressed-in-the-language-of-DNA-instead-of-zeros-and-ones"
+      ]
+    },
+    {
+      "slug": "notes/1-2g2s2-Electron-has-multiple-positions-and-speeds-without-being-divisible-into-autonomous-sub-entities-each-of-which-has-one-speed-and-one-position.",
+      "title": "1-2g2s2 Electron has multiple positions and speeds without being divisible into autonomous sub-entities each of which has one speed and one position.",
+      "tags": [],
+      "total": 3,
+      "neighbors": [
+        "notes/1-2g2s2a-Quantum-mechanical-law-of-motion-resembles-the-law-governing-the-spread-of-an-ink-blot-(確率分布)",
+        "notes/1-2g2s3-Interference-=-Diversity-within-fungibility-=-The-structure-and-stability-of-all-static-objects-(Or-put-differently,-things-exist-rather-stably-because-we-HUMANS-don't-operate-at-the-level-of-quantum-physics)",
+        "notes/1-2g2s1-Hydrogen-atom-exists-because-its-electron’s-uncertainty-principle-tendency-to-spread-is-exactly-balanced-by-the-electrostatic-force-with-positively-charged-nucleus."
+      ]
+    },
+    {
+      "slug": "notes/1-2g2s2b-There-is-a-field-(or-waves)-in-reality-(i.e.,-in-the-multiverse)-for-every-individual-particle-that-we-observe-in-a-particular-universe.-Individual-particle’s-disturbance-spread-through-electron-field",
+      "title": "1-2g2s2b There is a field (or waves) in reality (i.e., in the multiverse) for every individual particle that we observe in a particular universe. Individual particle’s disturbance spread through electron field",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/1-2g2s2a-Quantum-mechanical-law-of-motion-resembles-the-law-governing-the-spread-of-an-ink-blot-(確率分布)"
+      ]
+    },
+    {
+      "slug": "notes/13-9d-Elastic-goods-prefer-price-decrease,-and-vice-versa-for-inelastic-goods-whose-demand-curve-is-steeper,-under-the-assumption-of-constant-demand-schedules",
+      "title": "13-9d Elastic goods prefer price decrease, and vice versa for inelastic goods whose demand curve is steeper, under the assumption of constant demand schedules",
+      "tags": [],
+      "total": 2,
+      "neighbors": [
+        "notes/13-9e-The-emergence-of-new-types-of-goods-will-bring-about-price-decrease-for-old-substitutes-because-of-the-shift-in-demand-schedules,-under-the-assumptions-of-constant-supply-schedules",
+        "notes/13-9c-The-more-diverse-an-economy,-the-less-likely-it-is-that-any-good-remains-truly-inelastic"
+      ]
+    },
+    {
+      "slug": "notes/13-9f-The-elasticity-of-demand-per-se-has-also-no-relevance-for-complementing-goods-(e.g.,-golf-balls)-as-it-relates-to-its-complementary-effect-to-the-complemented-(e.g.,-golf-clubs)",
+      "title": "13-9f The elasticity of demand per se has also no relevance for complementing goods (e.g., golf balls) as it relates to its complementary effect to the complemented (e.g., golf clubs)",
+      "tags": [],
+      "total": 2,
+      "neighbors": [
+        "notes/13-9g-The-substitutive-effect-will-be-mixed-with-the-complementary-effect,-and-the-nature-of-each-particular-case-determines-which-effect-will-be-the-stronger",
+        "notes/13-9e-The-emergence-of-new-types-of-goods-will-bring-about-price-decrease-for-old-substitutes-because-of-the-shift-in-demand-schedules,-under-the-assumptions-of-constant-supply-schedules"
+      ]
+    },
+    {
+      "slug": "notes/2-1a6.2-Treasure-honorable-people-who-are-capable-and-will-treat-you-well-even-when-you’re-not-looking",
+      "title": "2-1a6.2 Treasure honorable people who are capable and will treat you well even when you’re not looking",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/2-1a6.1-Remember-that-most-people-will-pretend-to-operate-in-your-interest-while-operating-in-their-own"
+      ]
+    },
+    {
+      "slug": "notes/5-1b1a1b1a-However,-Babbage’s-idea-was-represented-by-pen-and-paper,-themselves-technology",
+      "title": "5-1b1a1b1a However, Babbage’s idea was represented by pen and paper, themselves technology",
+      "tags": [
+        "develop"
+      ],
+      "total": 2,
+      "neighbors": [
+        "tags/develop",
+        "notes/5-1b1a1b1-Babbage’s-discovery-of-the-universality-of-computation-was-innovation-via-discovery-of-knowledge-(he-himself-couldn’t-build-universal-computer)"
+      ]
+    },
+    {
+      "slug": "notes/6-5-Sit-less",
+      "title": "6-5 Sit less",
+      "tags": [],
+      "total": 2,
+      "neighbors": [
+        "notes/6-6-Once-you-hit-25,-your-aerobic-capacity-decreases-10-percent-per-decade-(or-1-percent-per-year)",
+        "notes/6-4-Proper-epistemology-should-lead-to-a-proper-state-of-mind"
+      ]
+    },
+    {
+      "slug": "notes/6-6-Once-you-hit-25,-your-aerobic-capacity-decreases-10-percent-per-decade-(or-1-percent-per-year)",
+      "title": "6-6 Once you hit 25, your aerobic capacity decreases 10% per decade (or 1% per year)",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/6-5-Sit-less"
+      ]
+    },
+    {
+      "slug": "notes/8-1c4b-Popular-magazines-boosted-and-was-boosted-by-literacy",
+      "title": "8-1c4b Popular magazines boosted and was boosted by literacy",
+      "tags": [
+        "history"
+      ],
+      "total": 3,
+      "neighbors": [
+        "notes/8-1c4c-TV-boosted-and-was-boosted-by-short-stories",
+        "tags/history",
+        "notes/8-1c4a-Smartphones-skyrocketed-online-screen-time"
+      ]
+    },
+    {
+      "slug": "notes/8-1c4c-TV-boosted-and-was-boosted-by-short-stories",
+      "title": "8-1c4c TV boosted and was boosted by short stories",
+      "tags": [
+        "history"
+      ],
+      "total": 3,
+      "neighbors": [
+        "notes/8-1c4d-Web-boosted-and-was-boosted-by-essays",
+        "tags/history",
+        "notes/8-1c4b-Popular-magazines-boosted-and-was-boosted-by-literacy"
+      ]
+    },
+    {
+      "slug": "notes/AN3C---The-Batman-Effect---the-placebo-effect-of-alter-ego-works,-because-memes-can-beat-genes",
+      "title": "AN3C - The Batman Effect - the placebo effect of alter ego works, because memes can beat genes",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/1-1b1-The-placebo-effect-is-very-likely-real,-just-that-they-can’t-be-easily-tested-since-ideas-themselves-aren’t-physical"
+      ]
+    },
+    {
+      "slug": "notes/Double-slit-experiment-with-and-without-an-observer-are-different-experiments",
+      "title": "Double slit experiment with and without an observer are different experiments",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/観測は光を当てないとできない"
+      ]
+    },
+    {
+      "slug": "notes/RUL3---Growth-rate---+5~7-percent-a-week-is-good;-+10-percent-is-exceptionally-well;-+1-percent-you-haven’t-figured-out-what-you’re-doing",
+      "title": "RUL3 - Growth rate - +5~7% a week is good; +10% is exceptionally well; +1% you haven’t figured out what you’re doing",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/7-1a4-Optimizing-for-growth-can-lead-to-discovering-startup-ideas"
+      ]
+    },
+    {
+      "slug": "notes/技術が99-percent---メンタルも技術",
+      "title": "技術が99% - メンタルも技術",
+      "tags": [],
+      "total": 1,
+      "neighbors": [
+        "notes/3-1c3c3c-Tech-is-for-technology-as-well-as-for-technique-(技術)"
+      ]
+    },
+    {
+      "slug": "people/Logan-Chipkin",
+      "title": "Logan Chipkin",
+      "tags": [
+        "develop"
+      ],
+      "total": 1,
+      "neighbors": [
+        "tags/develop"
+      ]
+    },
+    {
+      "slug": "people/Mr.-Beast",
+      "title": "Mr. Beast",
+      "tags": [
+        "revisit"
+      ],
+      "total": 1,
+      "neighbors": [
+        "tags/revisit"
+      ]
+    },
+    {
+      "slug": "people/Quentin-Tarantino",
+      "title": "Quentin Tarantino",
+      "tags": [
+        "revisit"
+      ],
+      "total": 1,
+      "neighbors": [
+        "tags/revisit"
+      ]
+    }
+  ],
+  "deadLinks": [
+    {
+      "from": "notes/1-2g-New-theory-is-constrained-in-terms-of-what-it-can-say,-since-it-must-either-be-consistent-with-existing-theories,-or-contradict-them-but-address-the-problems-thereby-raised",
+      "to": "New-theory-is-constrained-in-terms-of-what-they-can-say,-since-it-must-either-be-consistent-with-existing-theories,-or-contradict-them-but-address-the-problems-thereby-raised.-In-short,-new-theories-have-to-solve-more-problems-than-existent-ones."
+    },
+    {
+      "from": "notes/1-2g1c5-We-don’t-really-know-what-constitutes-human",
+      "to": "Constructor-Theory-defines-knowledge-objectively-independent-of-people.-The-Turing-principle-is-also-about-the-correspondence-between-the-two-bodies-without-knowledge-being-not-necessarily-embodied-in-the-human-mind."
+    },
+    {
+      "from": "notes/10-2g2e4-Abstractions-seem-less-‘justified’-to-the-justified-true-belief-misconception",
+      "to": "The-quest-for-truth-≠-A-quest-for-certainty-justification-necessity-(what-matters-is-the-explanation,-not-where-it-came-from-—-even-if-gods-reveal-to-you-something-it-is-just-as-fallible-as-ever)"
+    },
+    {
+      "from": "notes/10-2g3d-Behaviors-can-be-replicators-even-when-its-meanings-are-not-(properly)-understood,-because-we-can-guess-the-meaning-of-memes.-For-rational-memes,-knowledge-is-THE-replicator.",
+      "to": "New-theory-is-constrained-in-terms-of-what-they-can-say,-since-it-must-either-be-consistent-with-existing-theories,-or-contradict-them-but-address-the-problems-thereby-raised.-In-short,-new-theories-have-to-solve-more-problems-than-existent-ones."
+    },
+    {
+      "from": "notes/12-1a1-Network-can-become-the-state",
+      "to": "Ideology-overwrites-biology"
+    },
+    {
+      "from": "notes/12-1c-Open-source-means-more-composability-means-more-digitizeable-and-measurables",
+      "to": "Communism-requires-more-lies"
+    },
+    {
+      "from": "notes/2-1b2b1a-Get-your-incentives-right-from-the-beginning",
+      "to": "physical-digital"
+    },
+    {
+      "from": "notes/3-1c3c1-To-create-is-to-recombine.-Innovation-happens-when-ideas-have-sex-(either-between-people-or-with-one’s-past-ideas).-Exchange-is-to-technology-as-sex-is-to-evolution.",
+      "to": "Store-each-ideas-separately-and-take-them-seriously.-You-lose-the-ability-to-play-with-them,-if-you-bind-two-or-more-of-them-together-and-store-that-as-‘an-idea’-—-the-connection-is-arbitrary-after-all"
+    },
+    {
+      "from": "notes/3-1c3d3-When-problems-are-so-well-defined,-your-future-self-might-be-able-to-solve-new-problems-by-reusing-and-recombining-them",
+      "to": "Store-each-ideas-separately-and-take-them-seriously.-You-lose-the-ability-to-play-with-them,-if-you-bind-two-or-more-of-them-together-and-store-that-as-‘an-idea’-—-the-connection-is-arbitrary-after-all"
+    },
+    {
+      "from": "notes/3-1d2-The-problem-of-what-problems-to-solve-includes-the-problem-of-deciding-which-tools-frameworks-(e.g.,-tech-stack,-writing-medium,-criteria,-objective,-goals,-exercise-protocols)-to-use-and-improve-upon",
+      "to": "Constraints-in-the-form-of-consistent-style-leave-space-for-creativity-and-imagination"
+    },
+    {
+      "from": "notes/3-1d6a-Consistent-style-allows-cognitive-offload-with-regard-to-everything-unrelated-to-the-problems-at-hand",
+      "to": "Exponential-growth-feels-flat-in-the-beginning,-precisely-why-it’s-worth-making-an-extraordinary-effort-to-get-it-started.-Consistency-is-the-key."
+    },
+    {
+      "from": "notes/4-1a5b-Your-problems-precede-any-conversations",
+      "to": "Culture-is-an-implicit-theory-for-its-members.-It-dictates-what-is-worth-looking-at.-Culture-constrains-how-humans-justify-their-reasoning.-Science-emerged-from-culture."
+    },
+    {
+      "from": "notes/5-1b1b2b-Don't-try-to-be-the-best.-Be-the-only.",
+      "to": "content/people/Scott-Aaronson"
+    },
+    {
+      "from": "notes/5-2b2-You-can’t-flow-to-the-most-interesting-if-you-react-to-everything-that-comes-at-you-by-default",
+      "to": "Surprises-are-the-unconscious-revealed,-or-the-inexplicit-conscious-refuted.-To-be-surprised-is-to-be-mistaken."
+    },
+    {
+      "from": "notes/6-3b3f2-BTC-Maximalists-are-monotheists-and-political-network",
+      "to": "Legacy-companies-‘pre-mine’-their-shares.-Otherwise-effort-won't-result-in-results-because-the-dollar-sensitivity-is-way-lower-than-your-equity."
+    },
+    {
+      "from": "notes/7-1a2-You-can-also-make-their-problem-as-your-problem-by-using-growth-as-a-guidance.",
+      "to": "The-art-is-finding-some-distribution-arbitrage-in-your-time-and-place.-Find-an-inexpensive-custom-acquisition-channel-and-pile-up-users-through-an-underpriced-angles-others-haven’t-realized-yet.-Remember---Startup-=-Growth."
+    },
+    {
+      "from": "notes/8-1c4a2-Twitter’s-140-character-limit-was-useful-constraint",
+      "to": "New-theory-is-constrained-in-terms-of-what-they-can-say,-since-it-must-either-be-consistent-with-existing-theories,-or-contradict-them-but-address-the-problems-thereby-raised.-In-short,-new-theories-have-to-solve-more-problems-than-existent-ones."
+    },
+    {
+      "from": "notes/8-1c4d1a1-The-culture-(or-‘gestalt’)-dictates-what’s-been-written-as-well-as-what’s-not-been-written",
+      "to": "Learning-human-languages-≠-Learning-computer-languages-(the-latter-is-mere-syntaxes)"
+    },
+    {
+      "from": "notes/8-1c4d5c-Don’t-be-constrained-by-the-definition-of-‘apps’,-‘platforms’,-and-‘people’-—-because-they-are-arbitrary-(e.g.,-platform-can-be-build-on-top-of-platform,-apps-when-combined-can-turn-into-platform,-etc)",
+      "to": "Be-project-oriented.-The-real-world-doesn’t-have-categories.-‘Academic-subjects’-are-mere-social-constructs.-There-are-only-problems-to-be-solved."
+    },
+    {
+      "from": "notes/9-1b0a-When-you-have-learned-something,-the-way-it-exists-in-your-mind-is-the-same-as-the-way-it-exists-in-the-mind-of-the-inventor",
+      "to": "An-ability-to-recombine-ideas-itself-is-creativity,-but-we-don’t-know-where-it-comes-from"
+    },
+    {
+      "from": "notes/9-2a3b-Don’t-pick-up-anything-which-has-certain-downside.-Avoid-bullshit.",
+      "to": "New-explanations-are-to-be-judged-by-how-many-more-problems-they-solved-and-introduced.-It-has-to-be-consistent-with-your-web-of-ideas,-or-they-have-to-solve-more-than-introduced.-You-have-to-know-your-web-of-ideas."
+    },
+    {
+      "from": "notes/9-2a3b-Don’t-pick-up-anything-which-has-certain-downside.-Avoid-bullshit.",
+      "to": "Decision-is-about-creating-new-options-from-the-best-explanation-that-you-can-form-from-the-web-of-ideas-you-have"
+    },
+    {
+      "from": "notes/9-4b-Writing-generates-ideas",
+      "to": "A-real-essay-doesn't-take-a-position-and-then-justify-defend-it.-It-tries-to-figure-something-out.-It-starts-with-a-question."
+    },
+    {
+      "from": "now",
+      "to": ""
+    },
+    {
+      "from": "people/Balaji-Srinivasan",
+      "to": "S---松岡正剛『情報の歴史を読む』(20240329)"
+    },
+    {
+      "from": "people/Balaji-Srinivasan",
+      "to": "S---Balaji-1,-with-Tim-Ferriss-(20240325)"
+    },
+    {
+      "from": "people/Chris-Dixon",
+      "to": "S---Dixon,-RWO-Ch.-14"
+    },
+    {
+      "from": "people/Chris-Dixon",
+      "to": "S---Sam-Altman,-with-Tim-Ferriss-(20240331)"
+    },
+    {
+      "from": "people/Li-Lu",
+      "to": "virtual"
+    }
+  ]
+}

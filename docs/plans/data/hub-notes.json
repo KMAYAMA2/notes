@@ -1,0 +1,2362 @@
+{
+  "generatedAt": "2026-02-19T01:51:45.184Z",
+  "topNotes": [
+    {
+      "slug": "notes/5-2-What-counts-cannot-be-counted",
+      "title": "5-2 What counts cannot be counted",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 25,
+      "inCount": 64,
+      "total": 89,
+      "outSections": {
+        "people": 4,
+        "notes": 20,
+        "tags": 1
+      },
+      "inSections": {
+        "essays": 1,
+        "index": 1,
+        "notes": 57,
+        "people": 5
+      },
+      "category": "5"
+    },
+    {
+      "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+      "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+      "tags": [
+        "revisit",
+        "symbols",
+        "develop"
+      ],
+      "outCount": 35,
+      "inCount": 39,
+      "total": 74,
+      "outSections": {
+        "people": 5,
+        "tags": 3,
+        "notes": 27
+      },
+      "inSections": {
+        "notes": 37,
+        "people": 2
+      },
+      "category": "10"
+    },
+    {
+      "slug": "notes/12-1e-Nothing-is-necessary-=-Everything-is-contingent",
+      "title": "12-1e Nothing is necessary = Everything is contingent",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 34,
+      "inCount": 37,
+      "total": 71,
+      "outSections": {
+        "notes": 33,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 34,
+        "people": 3
+      },
+      "category": "12"
+    },
+    {
+      "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+      "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+      "tags": [
+        "revisit",
+        "develop",
+        "Ayache"
+      ],
+      "outCount": 27,
+      "inCount": 42,
+      "total": 69,
+      "outSections": {
+        "notes": 21,
+        "people": 3,
+        "tags": 3
+      },
+      "inSections": {
+        "notes": 39,
+        "people": 3
+      },
+      "category": "1"
+    },
+    {
+      "slug": "notes/2-1a-Information-is-in-the-difference.-No-difference,-no-information.-情報とは差異.-区別のないところに情報は生まれない.",
+      "title": "2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.",
+      "tags": [],
+      "outCount": 17,
+      "inCount": 49,
+      "total": 66,
+      "outSections": {
+        "people": 1,
+        "notes": 16
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 43,
+        "people": 5
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/5-1b4a-Amara’s-law---we-expect-too-much-in-the-short-run,-but-too-little-in-the-long-run",
+      "title": "5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run",
+      "tags": [
+        "revisit",
+        "develop"
+      ],
+      "outCount": 33,
+      "inCount": 33,
+      "total": 66,
+      "outSections": {
+        "notes": 28,
+        "people": 3,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 29,
+        "people": 4
+      },
+      "category": "5"
+    },
+    {
+      "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+      "title": "2-1a0c1d1 Focus on the few variables",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 36,
+      "inCount": 28,
+      "total": 64,
+      "outSections": {
+        "tags": 1,
+        "people": 2,
+        "notes": 33
+      },
+      "inSections": {
+        "notes": 24,
+        "people": 4
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/5-1b1a2c0-No-theory-can-exhaust-reality",
+      "title": "5-1b1a2c0 No theory can exhaust reality",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 25,
+      "inCount": 36,
+      "total": 61,
+      "outSections": {
+        "people": 2,
+        "notes": 20,
+        "tags": 2,
+        "essays": 1
+      },
+      "inSections": {
+        "notes": 30,
+        "people": 6
+      },
+      "category": "5"
+    },
+    {
+      "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+      "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+      "tags": [
+        "FutureSelf",
+        "MentalModelsGeneral"
+      ],
+      "outCount": 26,
+      "inCount": 32,
+      "total": 58,
+      "outSections": {
+        "people": 6,
+        "notes": 18,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 30,
+        "people": 2
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+      "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+      "tags": [
+        "reflexivity",
+        "revisit"
+      ],
+      "outCount": 30,
+      "inCount": 25,
+      "total": 55,
+      "outSections": {
+        "tags": 2,
+        "notes": 28
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 23,
+        "people": 1
+      },
+      "category": "3"
+    },
+    {
+      "slug": "notes/3-1d6-Constraints-in-the-form-of-consistent-style-leave-space-for-creativity-and-progress",
+      "title": "3-1d6 Constraints in the form of consistent style leave space for creativity and progress",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 18,
+      "inCount": 37,
+      "total": 55,
+      "outSections": {
+        "notes": 17,
+        "tags": 1
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 33,
+        "people": 3
+      },
+      "category": "3"
+    },
+    {
+      "slug": "notes/13-1a3.0a-Always-go-for-the-best—work-on-the-best-project,-work-in-the-best-industry,-work-with-the-best-people",
+      "title": "13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 28,
+      "inCount": 26,
+      "total": 54,
+      "outSections": {
+        "notes": 25,
+        "tags": 1,
+        "people": 2
+      },
+      "inSections": {
+        "notes": 24,
+        "people": 2
+      },
+      "category": "13"
+    },
+    {
+      "slug": "notes/5-1b1b1a3-Network-effects-(digital)-＞-Supply-and-demand-(physical)",
+      "title": "5-1b1b1a3 Network effects (digital) ＞ Supply and demand (physical)",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 37,
+      "inCount": 16,
+      "total": 53,
+      "outSections": {
+        "notes": 31,
+        "people": 5,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 15,
+        "people": 1
+      },
+      "category": "5"
+    },
+    {
+      "slug": "notes/7-1d2a-The-relation-between-technology-and-the-problem-situation-(i.e.,-culture-and-mind)-is-reflexive",
+      "title": "7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive",
+      "tags": [
+        "develop",
+        "revisit",
+        "TODO"
+      ],
+      "outCount": 16,
+      "inCount": 36,
+      "total": 52,
+      "outSections": {
+        "notes": 13,
+        "tags": 3
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 35
+      },
+      "category": "7"
+    },
+    {
+      "slug": "notes/5-1b1b1a1-Things-can-become-easier-the-more-complexity-you-have-(Network-effects-=-Power-law)",
+      "title": "5-1b1b1a1 Things can become easier the more complexity you have (Network effects = Power-law)",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 21,
+      "inCount": 29,
+      "total": 50,
+      "outSections": {
+        "notes": 19,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 26,
+        "people": 3
+      },
+      "category": "5"
+    },
+    {
+      "slug": "notes/1-2-We-are-fallible",
+      "title": "1-2 We are fallible",
+      "tags": [],
+      "outCount": 16,
+      "inCount": 33,
+      "total": 49,
+      "outSections": {
+        "people": 4,
+        "notes": 12
+      },
+      "inSections": {
+        "notes": 27,
+        "people": 6
+      },
+      "category": "1"
+    },
+    {
+      "slug": "notes/2-2d-Gresham’s-Law-generalized—the-bad-practice-drives-out-the-good",
+      "title": "2-2d Gresham’s Law generalized—the bad practice drives out the good",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 36,
+      "inCount": 13,
+      "total": 49,
+      "outSections": {
+        "people": 8,
+        "notes": 26,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 10,
+        "people": 3
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/2-1a3.1-'Feedback-loops'---Iterate.-The-more-and-quicker-the-better.",
+      "title": "2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 33,
+      "inCount": 15,
+      "total": 48,
+      "outSections": {
+        "people": 1,
+        "notes": 31,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 13,
+        "people": 2
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/2-1a6-'Incentives'---Incentives-drive-(almost)-everything.-Understand-your-incentives.",
+      "title": "2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.",
+      "tags": [
+        "MentalModelsGeneral"
+      ],
+      "outCount": 11,
+      "inCount": 37,
+      "total": 48,
+      "outSections": {
+        "notes": 10,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 32,
+        "people": 5
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/2-1b2b5-Know-the-correlations-between-your-bets.-Holy-grail-is-fifteen-or-so-uncorrelated-bets.",
+      "title": "2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 25,
+      "inCount": 23,
+      "total": 48,
+      "outSections": {
+        "notes": 24,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 20,
+        "people": 3
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/2-1d-'Ecosystem'--and--'Thermodynamics'--and--'Double-entry-bookkeeping'---Everything-is-connected,-there-is-no-free-lunch",
+      "title": "2-1d 'Ecosystem' & 'Thermodynamics' & 'Double-entry bookkeeping' - Everything is connected, there is no free lunch",
+      "tags": [
+        "multiverse",
+        "develop",
+        "MentalModelsBiology",
+        "MentalModelsPhysicsAndChem",
+        "MentalModelsMicroEcon"
+      ],
+      "outCount": 14,
+      "inCount": 34,
+      "total": 48,
+      "outSections": {
+        "people": 1,
+        "notes": 8,
+        "tags": 5
+      },
+      "inSections": {
+        "notes": 31,
+        "people": 3
+      },
+      "category": "2"
+    },
+    {
+      "slug": "notes/3-1c3c4.2-“Whenever-you-find-yourself-on-the-side-of-the-majority,-it-is-time-to-pause-and-reflect”",
+      "title": "3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 24,
+      "inCount": 24,
+      "total": 48,
+      "outSections": {
+        "people": 3,
+        "tags": 1,
+        "notes": 20
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 21,
+        "people": 2
+      },
+      "category": "3"
+    },
+    {
+      "slug": "notes/9-4b2a1b-Build-the-Idea-Maze---Explain-the-history-around-an-idea,-and-why-yours-is-a-good-one.-Virtually-render-the-history-of-the-evolution-of-that-idea.",
+      "title": "9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.",
+      "tags": [
+        "TheTuringPrinciple"
+      ],
+      "outCount": 9,
+      "inCount": 39,
+      "total": 48,
+      "outSections": {
+        "notes": 8,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 37,
+        "people": 2
+      },
+      "category": "9"
+    },
+    {
+      "slug": "notes/3-1a4b5-Anything-can-be-priced-in-principle.-But-not-everything-will-be.",
+      "title": "3-1a4b5 Anything can be priced in principle. But not everything will be.",
+      "tags": [
+        "develop",
+        "revisit",
+        "Ayache"
+      ],
+      "outCount": 29,
+      "inCount": 18,
+      "total": 47,
+      "outSections": {
+        "people": 2,
+        "tags": 3,
+        "notes": 24
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 14,
+        "people": 3
+      },
+      "category": "3"
+    },
+    {
+      "slug": "notes/7-1b4b-You-can-let-the-tech-decide-what-are-the-problems-to-be-solved.-Otherwise,-it-will-decide-by-itself.-It's-about-possibility-and-not-about-should.",
+      "title": "7-1b4b You can let the tech decide what are the problems to be solved. Otherwise, it will decide by itself. It's about possibility and not about should.",
+      "tags": [],
+      "outCount": 22,
+      "inCount": 25,
+      "total": 47,
+      "outSections": {
+        "people": 1,
+        "notes": 21
+      },
+      "inSections": {
+        "notes": 25
+      },
+      "category": "7"
+    },
+    {
+      "slug": "notes/8-1b3-The-software-can-control-the-hardware",
+      "title": "8-1b3 The software can control the hardware",
+      "tags": [
+        "categories",
+        "develop",
+        "reflexivity",
+        "revisit"
+      ],
+      "outCount": 28,
+      "inCount": 19,
+      "total": 47,
+      "outSections": {
+        "notes": 24,
+        "tags": 4
+      },
+      "inSections": {
+        "notes": 18,
+        "people": 1
+      },
+      "category": "8"
+    },
+    {
+      "slug": "notes/10-2g1-Culture-is-an-implicit-theory-for-its-members.-It-dictates-what-to-look-at-and-how-they-reason-about-the-world.",
+      "title": "10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.",
+      "tags": [],
+      "outCount": 14,
+      "inCount": 32,
+      "total": 46,
+      "outSections": {
+        "notes": 14
+      },
+      "inSections": {
+        "essays": 1,
+        "index": 1,
+        "notes": 27,
+        "people": 3
+      },
+      "category": "10"
+    },
+    {
+      "slug": "notes/3-1c3c4.3-“Be-fearful-when-others-are-greedy-and-be-greedy-only-when-others-are-fearful”",
+      "title": "3-1c3c4.3 “Be fearful when others are greedy and be greedy only when others are fearful”",
+      "tags": [
+        "revisit",
+        "develop"
+      ],
+      "outCount": 30,
+      "inCount": 16,
+      "total": 46,
+      "outSections": {
+        "people": 2,
+        "tags": 2,
+        "notes": 26
+      },
+      "inSections": {
+        "notes": 13,
+        "people": 3
+      },
+      "category": "3"
+    },
+    {
+      "slug": "notes/4-1a4b2b1-'One-of-those'-over-one-off---Learn-from-history-(not-just-from-your-'own'-experience)",
+      "title": "4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)",
+      "tags": [
+        "revisit",
+        "categories"
+      ],
+      "outCount": 16,
+      "inCount": 30,
+      "total": 46,
+      "outSections": {
+        "people": 1,
+        "notes": 13,
+        "tags": 2
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 24,
+        "people": 5
+      },
+      "category": "4"
+    },
+    {
+      "slug": "notes/5-3b-Knowledge-creates-new-frontiers-(and-new-markets)",
+      "title": "5-3b Knowledge creates new frontiers (and new markets)",
+      "tags": [
+        "revisit",
+        "develop"
+      ],
+      "outCount": 22,
+      "inCount": 24,
+      "total": 46,
+      "outSections": {
+        "notes": 16,
+        "people": 4,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 21,
+        "people": 3
+      },
+      "category": "5"
+    }
+  ],
+  "topEssays": [
+    {
+      "slug": "essays/How-Popper-would-use-LLMs",
+      "title": "How Popper would use LLMs",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 30,
+      "inCount": 8,
+      "total": 38,
+      "outSections": {
+        "notes": 27,
+        "people": 1,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 8
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Become-A-Problem-Solving-Artist",
+      "title": "Become A Problem-Solving Artist",
+      "tags": [],
+      "outCount": 4,
+      "inCount": 14,
+      "total": 18,
+      "outSections": {
+        "notes": 3,
+        "people": 1
+      },
+      "inSections": {
+        "essays": 2,
+        "notes": 8,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/To-Measure-or-Not-To-Measure,-That-Is-The-Question",
+      "title": "To Measure or Not To Measure, That Is The Question",
+      "tags": [],
+      "outCount": 8,
+      "inCount": 5,
+      "total": 13,
+      "outSections": {
+        "notes": 7,
+        "people": 1
+      },
+      "inSections": {
+        "notes": 4,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Naruto-and-LLMs",
+      "title": "Naruto and LLMs",
+      "tags": [],
+      "outCount": 10,
+      "inCount": 2,
+      "total": 12,
+      "outSections": {
+        "notes": 10
+      },
+      "inSections": {
+        "notes": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Elden-Ring-Meets-Karl-Popper",
+      "title": "Elden Ring Meets Karl Popper",
+      "tags": [],
+      "outCount": 11,
+      "inCount": 0,
+      "total": 11,
+      "outSections": {
+        "notes": 10,
+        "essays": 1
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "essays/The-Products-of-My-Writing",
+      "title": "The Products of My Writing",
+      "tags": [],
+      "outCount": 9,
+      "inCount": 1,
+      "total": 10,
+      "outSections": {
+        "notes": 8,
+        "essays": 1
+      },
+      "inSections": {
+        "essays": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Unreasonably-Reasonable",
+      "title": "Unreasonably Reasonable",
+      "tags": [],
+      "outCount": 7,
+      "inCount": 0,
+      "total": 7,
+      "outSections": {
+        "people": 3,
+        "notes": 3,
+        "essays": 1
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "essays/The-Triad-is-the-Underlying",
+      "title": "The Triad is the Underlying",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 6,
+      "inCount": 0,
+      "total": 6,
+      "outSections": {
+        "people": 2,
+        "tags": 1,
+        "notes": 3
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "essays/The-Fabric-of-Reality-Implies-the-Beginning-of-Infinity",
+      "title": "The Fabric of Reality Implies the Beginning of Infinity",
+      "tags": [],
+      "outCount": 3,
+      "inCount": 2,
+      "total": 5,
+      "outSections": {
+        "people": 1,
+        "notes": 2
+      },
+      "inSections": {
+        "notes": 1,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Economics-of-God",
+      "title": "Economics of God",
+      "tags": [],
+      "outCount": 0,
+      "inCount": 3,
+      "total": 3,
+      "outSections": {},
+      "inSections": {
+        "notes": 2,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/CPU,-GPU,-Brain,-Mind,-Energy",
+      "title": "CPU, GPU, Brain, Mind, Energy",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 1,
+      "inCount": 1,
+      "total": 2,
+      "outSections": {
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "essays/Money---Days-of-Future-Past",
+      "title": "Money - Days of Future Past",
+      "tags": [
+        "revisit",
+        "challenge"
+      ],
+      "outCount": 2,
+      "inCount": 0,
+      "total": 2,
+      "outSections": {
+        "tags": 2
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "essays/Gresham's-Law-and-AI",
+      "title": "Gresham's Law and AI",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 1,
+      "inCount": 0,
+      "total": 1,
+      "outSections": {
+        "tags": 1
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "essays/Moat-Digitized",
+      "title": "Moat Digitized",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 1,
+      "inCount": 0,
+      "total": 1,
+      "outSections": {
+        "tags": 1
+      },
+      "inSections": {},
+      "category": null
+    }
+  ],
+  "topPeople": [
+    {
+      "slug": "people/Warren-Buffett",
+      "title": "Warren Buffett",
+      "tags": [
+        "revisit",
+        "develop",
+        "TODO"
+      ],
+      "outCount": 487,
+      "inCount": 67,
+      "total": 554,
+      "outSections": {
+        "people": 25,
+        "tags": 3,
+        "notes": 458,
+        "essays": 1
+      },
+      "inSections": {
+        "notes": 58,
+        "now": 1,
+        "people": 8
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Ludwig-Lachmann",
+      "title": "Ludwig Lachmann",
+      "tags": [
+        "revisit",
+        "TODO"
+      ],
+      "outCount": 121,
+      "inCount": 25,
+      "total": 146,
+      "outSections": {
+        "people": 12,
+        "notes": 106,
+        "tags": 2,
+        "essays": 1
+      },
+      "inSections": {
+        "notes": 20,
+        "now": 1,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Sherlock-Holmes",
+      "title": "Sherlock Holmes",
+      "tags": [
+        "MentalModels",
+        "MentalModelsBiology",
+        "MentalModelsGeneral",
+        "MentalModelsSystems",
+        "MentalModelsNumeracy",
+        "MentalModelsMicroEcon",
+        "MentalModelsPsychology",
+        "MentalModelsPhysicsAndChem"
+      ],
+      "outCount": 90,
+      "inCount": 50,
+      "total": 140,
+      "outSections": {
+        "notes": 82,
+        "tags": 8
+      },
+      "inSections": {
+        "index": 1,
+        "notes": 44,
+        "people": 5
+      },
+      "category": null
+    },
+    {
+      "slug": "people/David-Deutsch",
+      "title": "David Deutsch",
+      "tags": [
+        "develop",
+        "revisit",
+        "TODO",
+        "TheTuringPrinciple"
+      ],
+      "outCount": 91,
+      "inCount": 34,
+      "total": 125,
+      "outSections": {
+        "notes": 84,
+        "tags": 4,
+        "people": 3
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 27,
+        "now": 1,
+        "people": 5
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Daniel-Everett",
+      "title": "Daniel Everett",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 103,
+      "inCount": 14,
+      "total": 117,
+      "outSections": {
+        "notes": 99,
+        "tags": 2,
+        "people": 1,
+        "essays": 1
+      },
+      "inSections": {
+        "notes": 10,
+        "now": 1,
+        "people": 3
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Naval-Ravikant",
+      "title": "Naval Ravikant",
+      "tags": [],
+      "outCount": 61,
+      "inCount": 35,
+      "total": 96,
+      "outSections": {
+        "notes": 59,
+        "people": 1,
+        "essays": 1
+      },
+      "inSections": {
+        "essays": 2,
+        "notes": 29,
+        "now": 1,
+        "people": 3
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Murray-Rothbard",
+      "title": "Murray Rothbard",
+      "tags": [
+        "develop",
+        "revisit",
+        "TODO",
+        "volatility",
+        "Ayache"
+      ],
+      "outCount": 51,
+      "inCount": 37,
+      "total": 88,
+      "outSections": {
+        "tags": 5,
+        "people": 9,
+        "notes": 35,
+        "essays": 2
+      },
+      "inSections": {
+        "notes": 34,
+        "now": 1,
+        "people": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Michael-Burry",
+      "title": "Michael Burry",
+      "tags": [
+        "revisit",
+        "develop",
+        "TODO",
+        "method"
+      ],
+      "outCount": 47,
+      "inCount": 23,
+      "total": 70,
+      "outSections": {
+        "tags": 4,
+        "notes": 40,
+        "people": 3
+      },
+      "inSections": {
+        "notes": 18,
+        "now": 1,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Ludwig-von-Mises",
+      "title": "Ludwig von Mises",
+      "tags": [
+        "develop",
+        "multiverse",
+        "DanielEverett",
+        "revisit",
+        "TODO",
+        "Ayache",
+        "Spitznagel",
+        "symbols"
+      ],
+      "outCount": 52,
+      "inCount": 15,
+      "total": 67,
+      "outSections": {
+        "notes": 35,
+        "tags": 8,
+        "people": 9
+      },
+      "inSections": {
+        "notes": 9,
+        "people": 6
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Saifedean-Ammous",
+      "title": "Saifedean Ammous",
+      "tags": [
+        "develop",
+        "elaborate",
+        "TODO",
+        "revisit",
+        "Spitznagel",
+        "FutureSelf"
+      ],
+      "outCount": 50,
+      "inCount": 10,
+      "total": 60,
+      "outSections": {
+        "tags": 6,
+        "notes": 38,
+        "people": 6
+      },
+      "inSections": {
+        "notes": 4,
+        "people": 6
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Charlie-Munger",
+      "title": "Charlie Munger",
+      "tags": [
+        "revisit",
+        "TODO"
+      ],
+      "outCount": 11,
+      "inCount": 37,
+      "total": 48,
+      "outSections": {
+        "notes": 9,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 29,
+        "people": 8
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Li-Lu",
+      "title": "Li Lu",
+      "tags": [
+        "revisit",
+        "develop",
+        "TODO"
+      ],
+      "outCount": 12,
+      "inCount": 34,
+      "total": 46,
+      "outSections": {
+        "tags": 3,
+        "notes": 7,
+        "virtual": 1,
+        "people": 1
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 28,
+        "now": 1,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/William-Zinsser",
+      "title": "William Zinsser",
+      "tags": [],
+      "outCount": 39,
+      "inCount": 7,
+      "total": 46,
+      "outSections": {
+        "notes": 38,
+        "people": 1
+      },
+      "inSections": {
+        "notes": 5,
+        "now": 1,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Nassim-Taleb",
+      "title": "Nassim Taleb",
+      "tags": [
+        "develop"
+      ],
+      "outCount": 14,
+      "inCount": 21,
+      "total": 35,
+      "outSections": {
+        "people": 2,
+        "notes": 11,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 18,
+        "people": 3
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Eric-Voskuil",
+      "title": "Eric Voskuil",
+      "tags": [
+        "revisit",
+        "develop",
+        "TODO"
+      ],
+      "outCount": 15,
+      "inCount": 12,
+      "total": 27,
+      "outSections": {
+        "notes": 7,
+        "tags": 3,
+        "people": 5
+      },
+      "inSections": {
+        "notes": 7,
+        "now": 1,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Carlo-Cipolla",
+      "title": "Carlo Cipolla",
+      "tags": [
+        "revisit",
+        "develop"
+      ],
+      "outCount": 9,
+      "inCount": 15,
+      "total": 24,
+      "outSections": {
+        "people": 4,
+        "notes": 2,
+        "tags": 2,
+        "essays": 1
+      },
+      "inSections": {
+        "essays": 2,
+        "notes": 9,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Scott-Aaronson",
+      "title": "Scott Aaronson",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 7,
+      "inCount": 17,
+      "total": 24,
+      "outSections": {
+        "notes": 5,
+        "tags": 1,
+        "people": 1
+      },
+      "inSections": {
+        "notes": 15,
+        "now": 1,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Henry-Singleton",
+      "title": "Henry Singleton",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 18,
+      "inCount": 4,
+      "total": 22,
+      "outSections": {
+        "people": 3,
+        "notes": 14,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 2,
+        "people": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "people/安田隆夫",
+      "title": "安田隆夫",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 15,
+      "inCount": 6,
+      "total": 21,
+      "outSections": {
+        "people": 7,
+        "tags": 1,
+        "notes": 7
+      },
+      "inSections": {
+        "notes": 5,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Elie-Ayache",
+      "title": "Elie Ayache",
+      "tags": [
+        "Ayache"
+      ],
+      "outCount": 1,
+      "inCount": 17,
+      "total": 18,
+      "outSections": {
+        "tags": 1
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 11,
+        "now": 1,
+        "people": 4
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Paul-Graham",
+      "title": "Paul Graham",
+      "tags": [],
+      "outCount": 6,
+      "inCount": 12,
+      "total": 18,
+      "outSections": {
+        "notes": 6
+      },
+      "inSections": {
+        "notes": 10,
+        "now": 1,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Mark-Spitznagel",
+      "title": "Mark Spitznagel",
+      "tags": [
+        "revisit",
+        "develop"
+      ],
+      "outCount": 10,
+      "inCount": 7,
+      "total": 17,
+      "outSections": {
+        "notes": 8,
+        "tags": 2
+      },
+      "inSections": {
+        "notes": 2,
+        "people": 5
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Robert-Cialdini",
+      "title": "Robert Cialdini",
+      "tags": [
+        "develop",
+        "revisit"
+      ],
+      "outCount": 17,
+      "inCount": 0,
+      "total": 17,
+      "outSections": {
+        "tags": 2,
+        "people": 3,
+        "notes": 12
+      },
+      "inSections": {},
+      "category": null
+    },
+    {
+      "slug": "people/松岡正剛",
+      "title": "松岡正剛",
+      "tags": [],
+      "outCount": 15,
+      "inCount": 2,
+      "total": 17,
+      "outSections": {
+        "notes": 15
+      },
+      "inSections": {
+        "notes": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Will-Guidara",
+      "title": "Will Guidara",
+      "tags": [],
+      "outCount": 11,
+      "inCount": 5,
+      "total": 16,
+      "outSections": {
+        "notes": 11
+      },
+      "inSections": {
+        "essays": 1,
+        "notes": 2,
+        "people": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Balaji-Srinivasan",
+      "title": "Balaji Srinivasan",
+      "tags": [
+        "volatility"
+      ],
+      "outCount": 6,
+      "inCount": 8,
+      "total": 14,
+      "outSections": {
+        "notes": 3,
+        "S---松岡正剛『情報の歴史を読む』(20240329)": 1,
+        "S---Balaji-1,-with-Tim-Ferriss-(20240325)": 1,
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 7,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Chris-Dixon",
+      "title": "Chris Dixon",
+      "tags": [
+        "categories",
+        "develop",
+        "composability"
+      ],
+      "outCount": 8,
+      "inCount": 6,
+      "total": 14,
+      "outSections": {
+        "notes": 3,
+        "tags": 3,
+        "S---Dixon,-RWO-Ch.-14": 1,
+        "S---Sam-Altman,-with-Tim-Ferriss-(20240331)": 1
+      },
+      "inSections": {
+        "notes": 5,
+        "people": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Jeff-Bezos",
+      "title": "Jeff Bezos",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 4,
+      "inCount": 10,
+      "total": 14,
+      "outSections": {
+        "tags": 1,
+        "notes": 1,
+        "people": 2
+      },
+      "inSections": {
+        "notes": 8,
+        "people": 2
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Judea-Pearl",
+      "title": "Judea Pearl",
+      "tags": [],
+      "outCount": 11,
+      "inCount": 1,
+      "total": 12,
+      "outSections": {
+        "notes": 11
+      },
+      "inSections": {
+        "essays": 1
+      },
+      "category": null
+    },
+    {
+      "slug": "people/Sam-Walton",
+      "title": "Sam Walton",
+      "tags": [
+        "revisit"
+      ],
+      "outCount": 1,
+      "inCount": 10,
+      "total": 11,
+      "outSections": {
+        "tags": 1
+      },
+      "inSections": {
+        "notes": 6,
+        "people": 4
+      },
+      "category": null
+    }
+  ],
+  "topPerCategory": {
+    "1": [
+      {
+        "slug": "notes/1-1a5b4.4-Real-time-calibration-(i.e.,-recalibration)-lets-you-adapt-to-the-changing-landscape",
+        "title": "1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape",
+        "tags": [
+          "revisit",
+          "develop",
+          "Ayache"
+        ],
+        "outCount": 27,
+        "inCount": 42,
+        "total": 69,
+        "outSections": {
+          "notes": 21,
+          "people": 3,
+          "tags": 3
+        },
+        "inSections": {
+          "notes": 39,
+          "people": 3
+        },
+        "category": "1"
+      },
+      {
+        "slug": "notes/1-2-We-are-fallible",
+        "title": "1-2 We are fallible",
+        "tags": [],
+        "outCount": 16,
+        "inCount": 33,
+        "total": 49,
+        "outSections": {
+          "people": 4,
+          "notes": 12
+        },
+        "inSections": {
+          "notes": 27,
+          "people": 6
+        },
+        "category": "1"
+      },
+      {
+        "slug": "notes/1-1c6a1c-The-absence-of-evidence-is-not-the-evidence-of-absence",
+        "title": "1-1c6a1c The absence of evidence is not the evidence of absence",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 18,
+        "inCount": 27,
+        "total": 45,
+        "outSections": {
+          "people": 3,
+          "notes": 14,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 25,
+          "people": 2
+        },
+        "category": "1"
+      }
+    ],
+    "2": [
+      {
+        "slug": "notes/2-1a-Information-is-in-the-difference.-No-difference,-no-information.-情報とは差異.-区別のないところに情報は生まれない.",
+        "title": "2-1a Information is in the difference. No difference, no information. 情報とは差異. 区別のないところに情報は生まれない.",
+        "tags": [],
+        "outCount": 17,
+        "inCount": 49,
+        "total": 66,
+        "outSections": {
+          "people": 1,
+          "notes": 16
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 43,
+          "people": 5
+        },
+        "category": "2"
+      },
+      {
+        "slug": "notes/2-1a0c1d1-Focus-on-the-few-variables",
+        "title": "2-1a0c1d1 Focus on the few variables",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 36,
+        "inCount": 28,
+        "total": 64,
+        "outSections": {
+          "tags": 1,
+          "people": 2,
+          "notes": 33
+        },
+        "inSections": {
+          "notes": 24,
+          "people": 4
+        },
+        "category": "2"
+      },
+      {
+        "slug": "notes/2-1b2b-'Second-order-thinking'---Solve-the-root-cause-of-a-problem-(prevention)-and-not-symptoms.-Be-smart-lazy.",
+        "title": "2-1b2b 'Second-order thinking' - Solve the root cause of a problem (prevention) and not symptoms. Be smart-lazy.",
+        "tags": [
+          "FutureSelf",
+          "MentalModelsGeneral"
+        ],
+        "outCount": 26,
+        "inCount": 32,
+        "total": 58,
+        "outSections": {
+          "people": 6,
+          "notes": 18,
+          "tags": 2
+        },
+        "inSections": {
+          "notes": 30,
+          "people": 2
+        },
+        "category": "2"
+      }
+    ],
+    "3": [
+      {
+        "slug": "notes/3-1c1b-You-are-what-you-think-and-you-think-what-you-see,-and-you-see-what-you-think",
+        "title": "3-1c1b You are what you think and you think what you see, and you see what you think",
+        "tags": [
+          "reflexivity",
+          "revisit"
+        ],
+        "outCount": 30,
+        "inCount": 25,
+        "total": 55,
+        "outSections": {
+          "tags": 2,
+          "notes": 28
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 23,
+          "people": 1
+        },
+        "category": "3"
+      },
+      {
+        "slug": "notes/3-1d6-Constraints-in-the-form-of-consistent-style-leave-space-for-creativity-and-progress",
+        "title": "3-1d6 Constraints in the form of consistent style leave space for creativity and progress",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 18,
+        "inCount": 37,
+        "total": 55,
+        "outSections": {
+          "notes": 17,
+          "tags": 1
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 33,
+          "people": 3
+        },
+        "category": "3"
+      },
+      {
+        "slug": "notes/3-1c3c4.2-“Whenever-you-find-yourself-on-the-side-of-the-majority,-it-is-time-to-pause-and-reflect”",
+        "title": "3-1c3c4.2 “Whenever you find yourself on the side of the majority, it is time to pause and reflect”",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 24,
+        "inCount": 24,
+        "total": 48,
+        "outSections": {
+          "people": 3,
+          "tags": 1,
+          "notes": 20
+        },
+        "inSections": {
+          "essays": 1,
+          "notes": 21,
+          "people": 2
+        },
+        "category": "3"
+      }
+    ],
+    "4": [
+      {
+        "slug": "notes/4-1a4b2b1-'One-of-those'-over-one-off---Learn-from-history-(not-just-from-your-'own'-experience)",
+        "title": "4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)",
+        "tags": [
+          "revisit",
+          "categories"
+        ],
+        "outCount": 16,
+        "inCount": 30,
+        "total": 46,
+        "outSections": {
+          "people": 1,
+          "notes": 13,
+          "tags": 2
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 24,
+          "people": 5
+        },
+        "category": "4"
+      },
+      {
+        "slug": "notes/4-1a3b-Go-to-specific-places-to-get-specific-feedbacks",
+        "title": "4-1a3b Go to specific places to get specific feedbacks",
+        "tags": [
+          "revisit",
+          "TODO",
+          "develop"
+        ],
+        "outCount": 25,
+        "inCount": 17,
+        "total": 42,
+        "outSections": {
+          "tags": 3,
+          "notes": 21,
+          "people": 1
+        },
+        "inSections": {
+          "notes": 14,
+          "people": 3
+        },
+        "category": "4"
+      },
+      {
+        "slug": "notes/4-1a4b2b2-History-repeats-and-reverses",
+        "title": "4-1a4b2b2 History repeats and reverses",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 29,
+        "inCount": 11,
+        "total": 40,
+        "outSections": {
+          "notes": 26,
+          "people": 2,
+          "tags": 1
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 10
+        },
+        "category": "4"
+      }
+    ],
+    "5": [
+      {
+        "slug": "notes/5-2-What-counts-cannot-be-counted",
+        "title": "5-2 What counts cannot be counted",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 25,
+        "inCount": 64,
+        "total": 89,
+        "outSections": {
+          "people": 4,
+          "notes": 20,
+          "tags": 1
+        },
+        "inSections": {
+          "essays": 1,
+          "index": 1,
+          "notes": 57,
+          "people": 5
+        },
+        "category": "5"
+      },
+      {
+        "slug": "notes/5-1b4a-Amara’s-law---we-expect-too-much-in-the-short-run,-but-too-little-in-the-long-run",
+        "title": "5-1b4a Amara’s law - we expect too much in the short-run, but too little in the long-run",
+        "tags": [
+          "revisit",
+          "develop"
+        ],
+        "outCount": 33,
+        "inCount": 33,
+        "total": 66,
+        "outSections": {
+          "notes": 28,
+          "people": 3,
+          "tags": 2
+        },
+        "inSections": {
+          "notes": 29,
+          "people": 4
+        },
+        "category": "5"
+      },
+      {
+        "slug": "notes/5-1b1a2c0-No-theory-can-exhaust-reality",
+        "title": "5-1b1a2c0 No theory can exhaust reality",
+        "tags": [
+          "develop",
+          "revisit"
+        ],
+        "outCount": 25,
+        "inCount": 36,
+        "total": 61,
+        "outSections": {
+          "people": 2,
+          "notes": 20,
+          "tags": 2,
+          "essays": 1
+        },
+        "inSections": {
+          "notes": 30,
+          "people": 6
+        },
+        "category": "5"
+      }
+    ],
+    "6": [
+      {
+        "slug": "notes/6-3b-When-you-own-something,-you-have-an-incentive-to-invest-in-it",
+        "title": "6-3b When you own something, you have an incentive to invest in it",
+        "tags": [
+          "own",
+          "develop",
+          "categories"
+        ],
+        "outCount": 29,
+        "inCount": 12,
+        "total": 41,
+        "outSections": {
+          "tags": 3,
+          "notes": 26
+        },
+        "inSections": {
+          "notes": 10,
+          "people": 2
+        },
+        "category": "6"
+      },
+      {
+        "slug": "notes/6-3b2-In-corporate-networks-you-can-only-quit",
+        "title": "6-3b2 In corporate networks you can only quit",
+        "tags": [
+          "revisit",
+          "develop"
+        ],
+        "outCount": 22,
+        "inCount": 13,
+        "total": 35,
+        "outSections": {
+          "people": 1,
+          "notes": 19,
+          "tags": 2
+        },
+        "inSections": {
+          "notes": 12,
+          "people": 1
+        },
+        "category": "6"
+      },
+      {
+        "slug": "notes/6-3b4d-Community-first,-monetization-later;-morality-first,-money-second;-missionary-over-mercenary",
+        "title": "6-3b4d Community first, monetization later; morality first, money second; missionary over mercenary",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 26,
+        "inCount": 6,
+        "total": 32,
+        "outSections": {
+          "people": 6,
+          "notes": 19,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 5,
+          "people": 1
+        },
+        "category": "6"
+      }
+    ],
+    "7": [
+      {
+        "slug": "notes/7-1d2a-The-relation-between-technology-and-the-problem-situation-(i.e.,-culture-and-mind)-is-reflexive",
+        "title": "7-1d2a The relation between technology and the problem-situation (i.e., culture and mind) is reflexive",
+        "tags": [
+          "develop",
+          "revisit",
+          "TODO"
+        ],
+        "outCount": 16,
+        "inCount": 36,
+        "total": 52,
+        "outSections": {
+          "notes": 13,
+          "tags": 3
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 35
+        },
+        "category": "7"
+      },
+      {
+        "slug": "notes/7-1b4b-You-can-let-the-tech-decide-what-are-the-problems-to-be-solved.-Otherwise,-it-will-decide-by-itself.-It's-about-possibility-and-not-about-should.",
+        "title": "7-1b4b You can let the tech decide what are the problems to be solved. Otherwise, it will decide by itself. It's about possibility and not about should.",
+        "tags": [],
+        "outCount": 22,
+        "inCount": 25,
+        "total": 47,
+        "outSections": {
+          "people": 1,
+          "notes": 21
+        },
+        "inSections": {
+          "notes": 25
+        },
+        "category": "7"
+      },
+      {
+        "slug": "notes/7-1a2a-You-will-be-solving-universal-problems-by-attending-to-local-parochial-problems-first",
+        "title": "7-1a2a You will be solving universal problems by attending to local-parochial problems first",
+        "tags": [
+          "elaborate"
+        ],
+        "outCount": 19,
+        "inCount": 18,
+        "total": 37,
+        "outSections": {
+          "notes": 18,
+          "tags": 1
+        },
+        "inSections": {
+          "essays": 1,
+          "notes": 17
+        },
+        "category": "7"
+      }
+    ],
+    "8": [
+      {
+        "slug": "notes/8-1b3-The-software-can-control-the-hardware",
+        "title": "8-1b3 The software can control the hardware",
+        "tags": [
+          "categories",
+          "develop",
+          "reflexivity",
+          "revisit"
+        ],
+        "outCount": 28,
+        "inCount": 19,
+        "total": 47,
+        "outSections": {
+          "notes": 24,
+          "tags": 4
+        },
+        "inSections": {
+          "notes": 18,
+          "people": 1
+        },
+        "category": "8"
+      },
+      {
+        "slug": "notes/8-2b2b-Key-moment-is-when-people-(e.g.,-devs)-don't-have-to-worry-about-the-infrastructure-(e.g.,-platform-risks-including-high-take-rates)",
+        "title": "8-2b2b Key moment is when people (e.g., devs) don't have to worry about the infrastructure (e.g., platform risks including high take rates)",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 25,
+        "inCount": 10,
+        "total": 35,
+        "outSections": {
+          "people": 1,
+          "notes": 23,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 10
+        },
+        "category": "8"
+      },
+      {
+        "slug": "notes/8-4-LLMs",
+        "title": "8-4 LLMs",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 13,
+        "inCount": 21,
+        "total": 34,
+        "outSections": {
+          "notes": 12,
+          "tags": 1
+        },
+        "inSections": {
+          "essays": 1,
+          "notes": 20
+        },
+        "category": "8"
+      }
+    ],
+    "9": [
+      {
+        "slug": "notes/9-4b2a1b-Build-the-Idea-Maze---Explain-the-history-around-an-idea,-and-why-yours-is-a-good-one.-Virtually-render-the-history-of-the-evolution-of-that-idea.",
+        "title": "9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.",
+        "tags": [
+          "TheTuringPrinciple"
+        ],
+        "outCount": 9,
+        "inCount": 39,
+        "total": 48,
+        "outSections": {
+          "notes": 8,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 37,
+          "people": 2
+        },
+        "category": "9"
+      },
+      {
+        "slug": "notes/9-4b2a1e-Be-the-outsider---外部性・外来性を重視すること",
+        "title": "9-4b2a1e Be the outsider - 外部性・外来性を重視すること",
+        "tags": [
+          "categories"
+        ],
+        "outCount": 24,
+        "inCount": 17,
+        "total": 41,
+        "outSections": {
+          "notes": 23,
+          "tags": 1
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 14,
+          "people": 2
+        },
+        "category": "9"
+      },
+      {
+        "slug": "notes/9-1b-You-can’t-really-transfer-your-knowledge-to-others,-because-each-knowledge-has-to-be-created-individually",
+        "title": "9-1b You can’t really transfer your knowledge to others, because each knowledge has to be created individually",
+        "tags": [
+          "revisit",
+          "challenge"
+        ],
+        "outCount": 16,
+        "inCount": 24,
+        "total": 40,
+        "outSections": {
+          "notes": 14,
+          "tags": 2
+        },
+        "inSections": {
+          "notes": 19,
+          "people": 5
+        },
+        "category": "9"
+      }
+    ],
+    "10": [
+      {
+        "slug": "notes/10-2g3d1-Humans-do-stupid-things-because-we-can-guess-and-create-meanings.-Our-ability-comes-with-a-great-cost-of-potentially-doing-very-(infinitely)-stupid-things.",
+        "title": "10-2g3d1 Humans do stupid things because we can guess and create meanings. Our ability comes with a great cost of potentially doing very (infinitely) stupid things.",
+        "tags": [
+          "revisit",
+          "symbols",
+          "develop"
+        ],
+        "outCount": 35,
+        "inCount": 39,
+        "total": 74,
+        "outSections": {
+          "people": 5,
+          "tags": 3,
+          "notes": 27
+        },
+        "inSections": {
+          "notes": 37,
+          "people": 2
+        },
+        "category": "10"
+      },
+      {
+        "slug": "notes/10-2g1-Culture-is-an-implicit-theory-for-its-members.-It-dictates-what-to-look-at-and-how-they-reason-about-the-world.",
+        "title": "10-2g1 Culture is an implicit theory for its members. It dictates what to look at and how they reason about the world.",
+        "tags": [],
+        "outCount": 14,
+        "inCount": 32,
+        "total": 46,
+        "outSections": {
+          "notes": 14
+        },
+        "inSections": {
+          "essays": 1,
+          "index": 1,
+          "notes": 27,
+          "people": 3
+        },
+        "category": "10"
+      },
+      {
+        "slug": "notes/10-2g1f2a4-The-mind-≠-A-computer",
+        "title": "10-2g1f2a4 The mind ≠ A computer",
+        "tags": [
+          "revisit",
+          "develop"
+        ],
+        "outCount": 27,
+        "inCount": 14,
+        "total": 41,
+        "outSections": {
+          "tags": 2,
+          "notes": 21,
+          "people": 2,
+          "essays": 2
+        },
+        "inSections": {
+          "notes": 11,
+          "people": 3
+        },
+        "category": "10"
+      }
+    ],
+    "11": [
+      {
+        "slug": "notes/11-3.3-'The-law-of-diminishing-returns'---We-can-recalibrate-the-curve-so-that-we-are-always-at-the-growing-phase-of-the-S-curve!",
+        "title": "11-3.3 'The law of diminishing returns' - We can recalibrate the curve so that we are always at the growing phase of the S-curve!",
+        "tags": [
+          "develop",
+          "reflexivity"
+        ],
+        "outCount": 22,
+        "inCount": 9,
+        "total": 31,
+        "outSections": {
+          "notes": 19,
+          "people": 1,
+          "tags": 2
+        },
+        "inSections": {
+          "notes": 6,
+          "people": 3
+        },
+        "category": "11"
+      },
+      {
+        "slug": "notes/11-3.4a-More-is-different",
+        "title": "11-3.4a More is different",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 17,
+        "inCount": 14,
+        "total": 31,
+        "outSections": {
+          "notes": 16,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 12,
+          "people": 2
+        },
+        "category": "11"
+      },
+      {
+        "slug": "notes/11-3.4-'Utility'-(marginal,-diminishing,-increasing)---Specialization-beats-the-Invisible-Hand",
+        "title": "11-3.4 'Utility' (marginal, diminishing, increasing) - Specialization beats the Invisible Hand",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 20,
+        "inCount": 10,
+        "total": 30,
+        "outSections": {
+          "notes": 18,
+          "tags": 1,
+          "people": 1
+        },
+        "inSections": {
+          "notes": 7,
+          "people": 3
+        },
+        "category": "11"
+      }
+    ],
+    "12": [
+      {
+        "slug": "notes/12-1e-Nothing-is-necessary-=-Everything-is-contingent",
+        "title": "12-1e Nothing is necessary = Everything is contingent",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 34,
+        "inCount": 37,
+        "total": 71,
+        "outSections": {
+          "notes": 33,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 34,
+          "people": 3
+        },
+        "category": "12"
+      },
+      {
+        "slug": "notes/12-1a2a1-Free-markets-and-free-speech,-by-definition,-transcend-the-concepts-of-nation-states",
+        "title": "12-1a2a1 Free markets and free speech, by definition, transcend the concepts of nation-states",
+        "tags": [
+          "develop",
+          "contingency",
+          "revisit"
+        ],
+        "outCount": 24,
+        "inCount": 17,
+        "total": 41,
+        "outSections": {
+          "people": 3,
+          "notes": 18,
+          "tags": 3
+        },
+        "inSections": {
+          "notes": 16,
+          "people": 1
+        },
+        "category": "12"
+      },
+      {
+        "slug": "notes/12-1a2c-Digital-network-can-solve-the-problem-of-network-defects-(both-as-a-failure-and-a-political-defection)-because-not-constrained-by-the-arbitrary-state-and-its-physical-borders-means-it-doesn't-get-too-big-or-too-complex",
+        "title": "12-1a2c Digital network can solve the problem of network defects (both as a failure and a political defection) because not constrained by the arbitrary state and its physical borders means it doesn't get too big or too complex",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 20,
+        "inCount": 12,
+        "total": 32,
+        "outSections": {
+          "people": 1,
+          "tags": 1,
+          "notes": 18
+        },
+        "inSections": {
+          "notes": 12
+        },
+        "category": "12"
+      }
+    ],
+    "13": [
+      {
+        "slug": "notes/13-1a3.0a-Always-go-for-the-best—work-on-the-best-project,-work-in-the-best-industry,-work-with-the-best-people",
+        "title": "13-1a3.0a Always go for the best—work on the best project, work in the best industry, work with the best people",
+        "tags": [
+          "revisit"
+        ],
+        "outCount": 28,
+        "inCount": 26,
+        "total": 54,
+        "outSections": {
+          "notes": 25,
+          "tags": 1,
+          "people": 2
+        },
+        "inSections": {
+          "notes": 24,
+          "people": 2
+        },
+        "category": "13"
+      },
+      {
+        "slug": "notes/13-8a2-The-demand-for-money-stems-from-fundamental-uncertainty-about-both-the-future-environment-and-the-future-self",
+        "title": "13-8a2 The demand for money stems from fundamental uncertainty about both the future environment and the future-self",
+        "tags": [
+          "develop",
+          "revisit"
+        ],
+        "outCount": 22,
+        "inCount": 16,
+        "total": 38,
+        "outSections": {
+          "tags": 2,
+          "people": 1,
+          "notes": 19
+        },
+        "inSections": {
+          "notes": 14,
+          "people": 2
+        },
+        "category": "13"
+      },
+      {
+        "slug": "notes/13-4d4e-All-the-consumer-has-to-do-is-to-think-about-himself—in-contrast,-the-entrepreneur-(e.g.,-producer,-investor,-operator)-is-primarily-about-others",
+        "title": "13-4d4e All the consumer has to do is to think about himself—in contrast, the entrepreneur (e.g., producer, investor, operator) is primarily about others",
+        "tags": [
+          "TODO"
+        ],
+        "outCount": 23,
+        "inCount": 11,
+        "total": 34,
+        "outSections": {
+          "people": 6,
+          "notes": 15,
+          "essays": 1,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 8,
+          "people": 3
+        },
+        "category": "13"
+      }
+    ],
+    "unnumbered": [
+      {
+        "slug": "notes/RUL3---Invert,-always-invert",
+        "title": "RUL3 - Invert, always invert",
+        "tags": [
+          "develop"
+        ],
+        "outCount": 13,
+        "inCount": 29,
+        "total": 42,
+        "outSections": {
+          "people": 3,
+          "notes": 9,
+          "tags": 1
+        },
+        "inSections": {
+          "notes": 24,
+          "people": 5
+        },
+        "category": "unnumbered"
+      },
+      {
+        "slug": "notes/RUL3---Love-bad-news.-Always-question-to-falsify-your-idea-and-theory.-Invalidate-ASAP.-How-fast-you-can-invalidate-matters-as-much-as-how-fast-you-can-build-them.-Rule-out-bad-explanations.",
+        "title": "RUL3 - Love bad news. Always question to falsify your idea and theory. Invalidate ASAP. How fast you can invalidate matters as much as how fast you can build them. Rule out bad explanations.",
+        "tags": [
+          "MentalModels"
+        ],
+        "outCount": 10,
+        "inCount": 28,
+        "total": 38,
+        "outSections": {
+          "people": 1,
+          "notes": 8,
+          "tags": 1
+        },
+        "inSections": {
+          "index": 1,
+          "notes": 25,
+          "people": 2
+        },
+        "category": "unnumbered"
+      },
+      {
+        "slug": "notes/RUL3---Write-out-your-goals.-It’s-amazing-how-few-people-do.",
+        "title": "RUL3 - Write out your goals. It’s amazing how few people do.",
+        "tags": [],
+        "outCount": 13,
+        "inCount": 17,
+        "total": 30,
+        "outSections": {
+          "notes": 13
+        },
+        "inSections": {
+          "notes": 15,
+          "people": 2
+        },
+        "category": "unnumbered"
+      }
+    ]
+  }
+}
