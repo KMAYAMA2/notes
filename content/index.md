@@ -4,7 +4,7 @@ date: 2024-07-23
 ---
 I love [[3-1a3 Multidisciplinary thinking is the most realistic thinking |multidisciplinary]] perspectives. I’m [[3-1c2e1 Connecting-relating ideas is a way of creating knowledge |exploring connections]] between tech, philosophy (epistemology), economics (Austrian), physics (many-worlds interpretation), finance (value investing), history (biographies), culture, linguistics (semiotics), productivity, etc—basically everything related to life.
 
-See what I'm working on [[now |right now]].
+See what I'm working on [[now |right now]]. Browse notes by [[rank |connections]].
 
 For starters:
 - Check my {{count:notes}} [Notes](https://kenti.xyz/notes/)—atomic insights (most of them still being [[The essence of writing is rewriting |rewritten]]).
