@@ -86,6 +86,50 @@ Content lives in `content/` directory. The Markdown pipeline:
 
 `quartz/depgraph.ts` tracks dependencies between source files and outputs for fast rebuilds in watch mode.
 
+## Vault Analysis Tooling
+
+Reusable scripts for analyzing the content vault live in `docs/plans/scripts/`. Their outputs go to `docs/plans/data/`.
+
+### When to rerun
+
+After content changes (new/renamed/deleted notes, added links), the analysis data goes stale. The refresh sequence:
+
+1. **Rebuild graph.json** — run `npx quartz build` first (produces `public/static/contentIndex.json`), then:
+   ```bash
+   node docs/plans/scripts/build-graph.cjs
+   ```
+
+2. **Rerun analysis scripts** (all independent, can run in parallel):
+   ```bash
+   node docs/plans/scripts/vault-map.cjs     # Step 1: structural overview → data/vault-map.json
+   node docs/plans/scripts/hub-notes.cjs     # Step 2: most connected → data/hub-notes.json
+   node docs/plans/scripts/orphan-notes.cjs  # Step 3: least connected → data/orphan-notes.json
+   ```
+
+3. **Re-embed for qmd** (only if using semantic search for Steps 4-6):
+   ```bash
+   qmd embed   # incremental — only new/changed files
+   ```
+
+### What each script does
+
+| Script | Input | Output | Purpose |
+|--------|-------|--------|---------|
+| `vault-map.cjs` | graph.json | vault-map.json | Counts, tag distribution, connection histogram, top/bottom 20 |
+| `hub-notes.cjs` | graph.json | hub-notes.json | Top 30 notes/people, all essays ranked, top 3 per category |
+| `orphan-notes.cjs` | graph.json | orphan-notes.json | True orphans, near-orphans, dead links, island clusters |
+
+### Key data files
+
+| File | What it is |
+|------|-----------|
+| `docs/plans/data/graph.json` | Link skeleton: slug → {title, tags, out[], in[]} for all 1,856 entries |
+| `docs/plans/data/vault-map.json` | Structural stats (rerun vault-map.cjs to refresh) |
+| `docs/plans/data/hub-notes.json` | Hub rankings (rerun hub-notes.cjs to refresh) |
+| `docs/plans/data/orphan-notes.json` | Orphan/dead-link data (rerun orphan-notes.cjs to refresh) |
+| `docs/plans/data/analysis-results.md` | A/B/C/D testing results from Phase 2 (static reference) |
+| `docs/plans/phase2-plan.md` | Full Phase 2 plan with qmd instructions and progress log |
+
 ## This Instance's Customizations
 
 - Content sections: `essays/`, `notes/`, `people/`
@@ -96,51 +140,11 @@ Content lives in `content/` directory. The Markdown pipeline:
 
 ## When interacting with this repo
 
-- The following KIP section is primarily about changes I want you to implement
 - Do not touch /content, unless instructed to do so
-- After you addressed and implemented KIP, move corresponding KIP item to KIP already implemented section
-  - Please append them with corresponding item numbers, to already existing items
-    - And summarize what chages were made, along with the date the changes were implemented in yyyymmdd format, in parentheses
-  - Modify the other KIP item numbers, so KIP item numbers are always in order
-  - Make sure both KIP and KIP already implemented items do not have overlapped item number, respectively
-  - If item number is referred to within other items, make sure to correspond the item number in the latter as well
+- After completing a meaningful unit of work (e.g., finishing a plan execution, addressing review comments, implementing a feature), ask: "Want me to commit these changes?" Don't ask for trivial single-file edits or exploratory changes.
 - Use .claude/settings.local.json where appropriate (if you need more specific instructions, let me know)
 
-## KIP (kenti improvement proposals)
+## Future ideas
 
-1. /now page
-   a. AI-generated interest summary: can Claude summarize my latest interest based on my recent commits, and can /now page include a text which reads something like the following: "Claude says my recent interest has been xxx and yyy etc"? And maybe add ChatGPT to do the same. This is contingent with the token usage when evoking Claude and ChatGPT wouldn't be that consuming. specifically, what if it only looks at the changes committed at that time (i.e., minimal change)?
-
-2. /rank page (or if you have better name, suggest me, and depending on the doability it can wait)
-   a. can you hack this page which does the following:
-
-   - for each note, it checks how many connection it has with other notes and people (maybe separate notes-connection from people-connection - we can revisit this later)
-   - and by default, renders notes in the order so that notes with more connections appears on top
-   - but you user can toggle the order so that less connected notes can appear on top, if requested
-   - and also do the same for people (so users can check how many connections there are for notes, or people, or even essays, but the ranking should not mix them up... do you know what I mean? happy to elaborate this)
-
-   b. if achieving 2-a comes with updating each note and people (e.g., if each conent has to embody the data related to connection counts) and if that counts as updating the note, then that'd mean all the notes will be "modified" at once. I don't like that, since my /notes link renders notes by dates modified. Any workaround? if none, let's not do this yet.
-
-3. email, tweet, message
-   a. when I push commit (am I using the words correctly?), can you summarize the changes, and send email, or tweet, or message in whatever medium I specify? happy to brainstorm this together. and this one is not urgent, so can wait.
-
-4. UI layout design in general
-   a. prepare multiple UI themes, and use Light/Dark mode to toggle between chosen 2 themes
-   b. keep the current Light/Dark mode scripts
-   c. but create few more: terminal-like looking theme; and orange-neon theme
-
-5. localize CLAUDE.md
-   a. since there is no point committing CLAUDE.md to remote repo, can we localize the file (assuming doing so does not affect my workflow with Claude whatsoever)
-   - **Deferred**: Using `claude.local.md` (git-ignored) would work, but KIP history wouldn't sync across machines. Keeping in committed CLAUDE.md for now.
-
-## KIP already implemented
-
-1. /now page
-   a. Created `/content/now.md` template with sections for current work, reading, thinking, and recent explorations. User can edit manually. (20260108)
-
-2. /index page
-   a. Added dynamic content counts using `{{count:notes}}`, `{{count:people}}`, `{{count:essays}}` placeholders. Created `ContentCounts` transformer plugin and modified `ContentPage` emitter to inject counts at build time. (20260109)
-   b. Added /essays link to index page. (20260109)
-
-3. /content layout
-   a. Tighter spacing between paragraphs/headers and bullet lists to match Obsidian. Added CSS rules in `quartz/styles/custom.scss` using `:has()` selector to reduce margins on elements immediately preceding lists. (20260109)
+- **Push notifications**: Summarize changes on push → email, tweet, or message in a specified medium
+- **UI themes**: Additional themes beyond light/dark (terminal-style, orange-neon) with theme toggle
