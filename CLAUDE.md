@@ -118,6 +118,11 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
    node docs/plans/scripts/semantic-clusters.cjs  # Step 4: thematic groupings → data/semantic-clusters.json (~60-90s)
    ```
 
+5. **Regenerate vault report** (after all analysis scripts are up to date):
+   ```bash
+   node docs/plans/scripts/vault-report.cjs  # Step 7: synthesized report → data/vault-report.md (<3s)
+   ```
+
 ### What each script does
 
 | Script | Input | Output | Purpose |
@@ -128,6 +133,7 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
 | `semantic-clusters.cjs` | graph.json + qmd index | semantic-clusters.json | Thematic groupings via 20 seed queries, cross-cluster bridges, overlap matrix |
 | `writing-patterns.cjs` | graph.json + hub/orphan JSON + content/*.md | writing-patterns.json | Markdown structure (words, bullets, prose, wikilinks) by tier and section |
 | `interest-timeline.cjs` | graph.json + git log | interest-timeline.json | Activity in 4 time windows, category drift, essay chronology |
+| `vault-report.cjs` | all 7 JSON data files | vault-report.md | Synthesized actionable report: clusters, hubs, orphans, connection suggestions, writing insights, drift |
 
 ### Key data files
 
@@ -140,8 +146,32 @@ After content changes (new/renamed/deleted notes, added links), the analysis dat
 | `docs/plans/data/semantic-clusters.json` | Thematic groupings, bridge notes, query overlaps (rerun semantic-clusters.cjs to refresh) |
 | `docs/plans/data/writing-patterns.json` | Markdown structure stats by tier/section (rerun writing-patterns.cjs to refresh) |
 | `docs/plans/data/interest-timeline.json` | Git activity timeline, category drift (rerun interest-timeline.cjs to refresh) |
+| `docs/plans/data/vault-report.md` | Synthesized actionable report (rerun vault-report.cjs to refresh) |
 | `docs/plans/data/analysis-results.md` | A/B/C/D testing results from Phase 2 (static reference) |
 | `docs/plans/phase2-plan.md` | Full Phase 2 plan with qmd instructions and progress log |
+
+## Answering Questions About Vault Content
+
+When the user asks about their notes, essays, or people pages:
+
+1. **Start with vault-report.md** — `docs/plans/data/vault-report.md` is the synthesized overview. Read it first for structural questions.
+2. **Structural queries** — use the JSON data files directly:
+   - "Most connected notes?" → hub-notes.json
+   - "What's orphaned?" → orphan-notes.json
+   - "What themes exist?" → semantic-clusters.json
+   - "What have I been writing about recently?" → interest-timeline.json
+   - "How do I write?" → writing-patterns.json
+   - "How is the vault structured?" → vault-map.json
+   - "How are notes linked?" → graph.json
+3. **Semantic search** — use qmd for finding specific content by meaning:
+   - `qmd query "your question" -c vault -n 10` (best mode: hybrid+rerank, uses GPU)
+   - `qmd search "keyword" -c vault -n 10` (BM25 keyword fallback, fast)
+   - `qmd vsearch "query" -c vault -n 10` (vector semantic only)
+   - `qmd get qmd://vault/path/to/file.md` (retrieve a specific note by path)
+   - `qmd status` / `qmd ls vault` (check index health / list indexed files)
+4. **Reading actual note content** — read markdown files from `content/` directory (e.g., `content/notes/...`, `content/essays/...`, `content/people/...`)
+
+Prefer pre-computed data (steps 1-2) over live search (step 3) when the question is about structure, connections, or patterns. Use qmd when the user asks about specific topics or wants to find notes by meaning.
 
 ## This Instance's Customizations
 
