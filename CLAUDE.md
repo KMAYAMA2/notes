@@ -173,6 +173,23 @@ When the user asks about their notes, essays, or people pages:
 
 Prefer pre-computed data (steps 1-2) over live search (step 3) when the question is about structure, connections, or patterns. Use qmd when the user asks about specific topics or wants to find notes by meaning.
 
+### Updating the /now page
+
+When the user asks to update their /now page (`content/now.md`):
+
+1. Read `docs/plans/data/interest-timeline.json` for recent activity (last 30 days)
+2. Read `docs/plans/data/hub-notes.json` for current hub people
+3. Use `qmd query` to understand what recent notes are actually about
+4. Read the current `content/now.md` to understand the existing format
+5. Draft updated sections preserving the existing structure:
+   - "Things I'm excited about" — infer from rising categories + recent activity
+   - "People I'm taking seriously" — cross-reference hub people with recent activity
+   - "Essays I'm thinking about" — check which essay ideas from the list have been written
+6. Present the draft to the user for approval before writing to `content/now.md`
+
+Important: Never auto-update content/now.md. Always show the draft first.
+The /now page is personal voice — write in Kento's style, not generic AI prose.
+
 ## This Instance's Customizations
 
 - Content sections: `essays/`, `notes/`, `people/`
