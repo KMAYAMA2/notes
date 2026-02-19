@@ -192,13 +192,15 @@ The /now page is personal voice — write in Kento's style, not generic AI prose
 
 ### Creating /essai posts
 
-Essai (`content/essai/`) is the section for AI-generated or AI-assisted essays. When the user asks a question about their vault (via qmd or analysis data) and then says "turn that into /essai", create a polished essay draft from the conversation:
+Essai (`content/essai/`) is the section for AI-assisted analytical essays. The user invokes this via the **`/essai` slash command** (defined in `.claude/commands/essai.md`) after a conversation where Claude produced an insight or analysis worth preserving.
 
-1. Take the key insights from the preceding conversation (qmd results, analysis, synthesis)
-2. Draft a markdown file with frontmatter (`date`, and optionally `tags`)
-3. The tone should be Kento's voice informed by AI analysis — not generic AI prose
-4. Present the draft to the user for approval before writing to `content/essai/`
-5. File name should be the essay title (e.g., `content/essai/Why Popper Keeps Showing Up.md`)
+Key conventions:
+- **Keep the 3rd-person analytical voice** — the user prefers Claude's original analytical tone, not a rewrite into first-person or "Kento's voice"
+- **Add proper `[[]]` wikilinks** throughout, with display aliases where note titles are long (e.g., `[[13-1a0 The multiverse implies both explanation and action|if you could access the whole multiverse...]]`)
+- Add frontmatter with `date` in YYYY-MM-DD format
+- End with a `Related:` section linking to relevant notes, essays, and people
+- Ask the user for the essay title before writing
+- Save to `content/essai/<Title>.md`
 
 Important: Never auto-write to content/essai/. Always show the draft first.
 Essai pieces can freely wikilink to notes, essays, and people — cross-linking is encouraged.
