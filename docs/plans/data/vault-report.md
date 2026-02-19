@@ -114,18 +114,18 @@ Notes appearing in 3+ seed queries — conceptual connectors across themes:
 
 Queries sharing the most results — reveals hidden thematic connections:
 
-| Query 1 | Query 2 | Groups | Shared |
-| --- | --- | --- | --- |
-| technology product creation ownership | incentives ownership community property | Cross-pillar / Cross-pillar | 4 |
-| dark matter mind culture inexplicit | emicization perception culture lens | Language/mind / Language/mind | 3 |
-| calibration uncertainty prediction error | wealth creation value investing capital | Epistemology / Austrian econ | 2 |
-| calibration uncertainty prediction error | money monetary theory Mises Rothbard | Epistemology / Austrian econ | 2 |
-| wealth creation value investing capital | money monetary theory Mises Rothbard | Austrian econ / Austrian econ | 2 |
-| optionality asymmetry irreversibility risk | money monetary theory Mises Rothbard | Austrian econ / Austrian econ | 2 |
-| optionality asymmetry irreversibility risk | contingency freedom digitization | Austrian econ / Cross-pillar | 2 |
-| money monetary theory Mises Rothbard | contingency freedom digitization | Austrian econ / Cross-pillar | 2 |
-| language consciousness symbol meaning | dark matter mind culture inexplicit | Language/mind / Language/mind | 2 |
-| language consciousness symbol meaning | emicization perception culture lens | Language/mind / Language/mind | 2 |
+| Query 1                                    | Query 2                                 | Groups                        | Shared |
+| ------------------------------------------ | --------------------------------------- | ----------------------------- | ------ |
+| technology product creation ownership      | incentives ownership community property | Cross-pillar / Cross-pillar   | 4      |
+| dark matter mind culture inexplicit        | emicization perception culture lens     | Language/mind / Language/mind | 3      |
+| calibration uncertainty prediction error   | wealth creation value investing capital | Epistemology / Austrian econ  | 2      |
+| calibration uncertainty prediction error   | money monetary theory Mises Rothbard    | Epistemology / Austrian econ  | 2      |
+| wealth creation value investing capital    | money monetary theory Mises Rothbard    | Austrian econ / Austrian econ | 2      |
+| optionality asymmetry irreversibility risk | money monetary theory Mises Rothbard    | Austrian econ / Austrian econ | 2      |
+| optionality asymmetry irreversibility risk | contingency freedom digitization        | Austrian econ / Cross-pillar  | 2      |
+| money monetary theory Mises Rothbard       | contingency freedom digitization        | Austrian econ / Cross-pillar  | 2      |
+| language consciousness symbol meaning      | dark matter mind culture inexplicit     | Language/mind / Language/mind | 2      |
+| language consciousness symbol meaning      | emicization perception culture lens     | Language/mind / Language/mind | 2      |
 
 ## 2. Hub Profile
 
@@ -401,16 +401,16 @@ The extreme range suggests some people pages are comprehensive study notes while
 
 ### Biggest Falling Categories
 
-| Category | Theme | Recent | Historical | Drop % |
-| --- | --- | --- | --- | --- |
-| 13 | Economics/praxeology | 7 | 150 | 95% |
-| unnumbered | unknown | 2 | 17 | 88% |
-| 1 | Epistemology/fallibilism | 10 | 54 | 81% |
-| 2 | Information/mental models | 24 | 89 | 73% |
-| 3 | Thinking/creativity | 11 | 40 | 73% |
-| 11 | Returns/utility | 2 | 7 | 71% |
-| 4 | History/narratives | 6 | 19 | 68% |
-| 5 | Knowledge/reality/economics | 19 | 53 | 64% |
+| Category   | Theme                       | Recent | Historical | Drop % |
+| ---------- | --------------------------- | ------ | ---------- | ------ |
+| 13         | Economics/praxeology        | 7      | 150        | 95%    |
+| unnumbered | unknown                     | 2      | 17         | 88%    |
+| 1          | Epistemology/fallibilism    | 10     | 54         | 81%    |
+| 2          | Information/mental models   | 24     | 89         | 73%    |
+| 3          | Thinking/creativity         | 11     | 40         | 73%    |
+| 11         | Returns/utility             | 2      | 7          | 71%    |
+| 4          | History/narratives          | 6      | 19         | 68%    |
+| 5          | Knowledge/reality/economics | 19     | 53         | 64%    |
 
 ### Essay Chronology
 
