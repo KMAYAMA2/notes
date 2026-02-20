@@ -19,3 +19,11 @@ In corporate networks, network-complements relation is zero-sum #develop
 - [[5-1b1b2b Don't try to be the best. Be the only.]] [[2-1c1 'Comparative advantage' - If others can do it, let them]]
 	- [[8-2b2e Humans really care about other humans]]
 		- [[9-2a4 Specifically, be long volatility with people’s ability to create new knowledge]]
+
+---
+> “China awards 1.3 million engineering undergraduate degrees each year vs 130,000 in the US. Intense competition leads to widespread overcapacity and low profitability across many industries. I don't know if Chinese manufacturers will ever make money but I came away not wanting to invest in any manufacturing business in the rest of the world.” – [John Arnold](https://x.com/johnarnold/status/2013344293377740830) on China’s manufacturing capacity
+
+Don’t commoditize yourself.
+
+Related:
+- [[5-1b1b2b Don't try to be the best. Be the only.]]
