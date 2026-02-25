@@ -24,6 +24,9 @@ Matt Damon on Netflix: “The standard way to make an action movie that we learn
 
 This is in contrast to what’s happening with Podcast and Substack. Maybe this is happening because shows inside Netflix are somewhat being commoditized (weren’t they producing good movies when the company was at growing phase of the S-curve?). This is probably inevitable with corporate networks. #revisit 
 
+---
+
+
 Related:
 - [[2-1b2b1a Get your incentives right from the beginning]]
 	- Study incentives within Substack ecosystem #TODO 
