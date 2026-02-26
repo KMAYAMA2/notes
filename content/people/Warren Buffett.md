@@ -44,7 +44,8 @@ In [[Ludwig Lachmann]]’s parlance, Buffett runs the insurance business (Plan) 
 - miscellaneous
 	- measuring one’s ability to generate cash gets distorted when it comes to government because they can *print* money
 		- inverted: invest in companies who is growing at outstanding pace, *and* who even benefits more from government printing money #revisit  
-
+	- solo dev is similar to retail investor
+		- less (or almost no) constraint—huge advantage over insto
 # Buffett and [[Charlie Munger |Munger]]—A Study in Simplicity and Uncommon, Common Sense – Peter Bevelin
 ## PART ONE: ON FATAL MISTAKES, PREVENTION AND SIMPLICITY
 ### Mistakes are a fact of life

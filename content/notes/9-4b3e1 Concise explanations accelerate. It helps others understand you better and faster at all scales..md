@@ -1,5 +1,12 @@
+This is all the more so with the advent of vector embeddings. Semantic search engine (e.g., qmd) chunks documents by token count before embedding—even a massive single markdown file gets sliced into overlapping-ish token-window chunks, each with its own embedding vector. When you query, you get back the relevant section of a large doc, not the entire thing—a 50,000-word file and a 500-word file both get searched at the same granularity (albeit without any insightful metadata). I think humans should decide the chunk size (or understand the chunking logic), instead of arbitrarily getting cut-off by vector embedding program.
 
+Related:
+- The more concise, the better
+	- [[2-1a0a 'Occam's razor' & 'Irreducibility' - Simplify the problem but don't oversimplify.]]
+	- [[5-1b1a1c3 The interoperability law means we can do away with dynamical laws because the former is scale-independent]]
+	- [[7-1d0 People who find ways to drive down the costs and simplify the product made the biggest difference (Ford)]]
 
+---
 Next:
 - [[9-4b3e2 Concise explanations make it easier to criticize and combine ideas]]
 - [[9-4b3e4 Write each sentence like you are talking to a friend]]
