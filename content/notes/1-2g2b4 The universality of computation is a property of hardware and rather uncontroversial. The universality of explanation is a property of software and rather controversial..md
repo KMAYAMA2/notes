@@ -1,4 +1,9 @@
+But maybe the distinction is not as clear cut. 
 
+Related:
+- [[CPU, GPU, Brain, Mind, Energy]]
+
+---
 Next:
 - [[1-2g2b5 The most significant universality is that of people. We are universal explainers, and possess the only kind of universality capable of transcending its parochial origins.]]
 

@@ -1,5 +1,12 @@
 > “Experience has taught me, and must have taught you, that the most trivial, commonplace and seemingly irrelevant facts have a way of suddenly assuming a crucial importance by connecting, explaining or filling in the detail of later discoveries.” – Dr. Thorndyke
 
+Performance is important, but you have to be able to explain what sustains that performance—you’d have to know both micro and macro since reality is one.
+
+Related:
+- [[1-2g2r0 The Turing principle implies 梵我一如]]
+- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+
+---
 Related:
 - [[1-1a4c1 Emergence is another beginning of infinity. Knowledge is based on and consists of emergent phenomena.]]
 - [[1-1a4c2 The whole is greater than the sum of its parts]]
