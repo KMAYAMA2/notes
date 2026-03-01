@@ -31,7 +31,11 @@ Related:
 ---
 > “There’s a deeper reason LLMs are at a permanent handicap here: **the thing you’re trying to learn is not fully contained in the text**. They can catch up by sheer brute force, but are far more inefficient than humans, and the debt is coming due now. When an investor publishes a thesis, consider what is not in it: the position sizing that limits the exposure; the timing that avoided telegraphing intent; strategic concealment; how the thesis itself is written to not move the market against them; what they’d actually do if proved wrong tomorrow. **Text is the residue of action.** <u>The real competence is the counterfactual recursive loop</u>: what would I do if they do this?; what does my move cause them to do next?; what does it reveal about me? That loop is the engine of adversarial expertise, and it’s weakly revealed by corpora. This is why models can recite game theory but still write the “nice email” that leaks leverage. They’ve learned the language of strategy more than the dynamics of strategy. **This is what domain expertise really is. Not a larger knowledge base. Not faster reasoning. It’s a high-resolution simulation of an ecosystem of agents who are all simultaneously modeling each other. And that simulation lives in heads, not in documents. The text is just the move that got documented. The theory that generated it is called skill.**” – [Ankit Maloo](https://www.latent.space/p/adversarial-reasoning) (20260208)
 
+[[Michael Burry]] makes the similar point [here](https://michaeljburry.substack.com/p/history-rhymes-large-language-models)
+
 Related:
+- [[Daniel Everett]] again
+	- [[1-1a2e4 Cultures precede languages]]
 - [[4-1d0 Look at the whole of conversations, including how things are being said as well as what’s not being said (e.g., taboos)]]
 - [[7-1b2b1 The best is seeing the front by yourself, because inexplicit and unconscious ideas exist between heads not within them]]
 	- Viz., some ideas exist because of others’ existence, which makes them [[4-1a4b2b Being reactive is like being analog in the heat of the moment |reactive]] by nature, hence these wouldn’t be written down anywhere

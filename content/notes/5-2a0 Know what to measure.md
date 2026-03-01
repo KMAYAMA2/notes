@@ -30,3 +30,38 @@ Related:
 		- [[5-2a Check your growth rate of expectations vs circumstances. The former is hard to measure. But remember - you get what you measure.]]
 		- [[7-1a2a1 絶対に勝てるところから勝っていく]]
 		- [[7-1a5a Finding some distribution arbitrage in your time and place is also a great source for growth]]
+
+---
+> “**[[8-4 LLMs |Large Language Models]], by putting language first, before the capacity for true reason, can never attain understanding.** The original approach to AI was to generate a true capacity for reason first, but it was never realized, and the field pivoted to language first because it was easier. Language is the output of understanding, not the engine of reason” – [[Michael Burry]]
+
+Current "parameter trap" of brute-force language processing on "zillions of power-hungry chips" is a bottleneck masquerading as progress
+
+Related:
+- [[1-2g2s8 The unobserved parts of the wider phenomenon have in no way affected what we observe, yet they are essential to its explanation. Causation doesn't exhaust explanation.]]
+- [[2-1a4c We don't know how we create knowledge yet, but that doesn't mean we can't]]
+- [[5-1b1b1a1a Pareto principle (or law of the vital few) - 80% of the effects come from 20% of the causes]]
+- [[10-2e8 Reasoning about causes and effects is reasoning about variants of the causes and effects. What would've happened. How it could've been otherwise.]]
+- [[13-5g Do not confuse the effect for the cause—to explain the causality at play, you must explain what must have happened at first and what would have happened in the absence of change]]
+- [[Judea Pearl]]
+
+---
+> “In times of crisis, markets do more than inform on prices, of course. They also provide valuable information about what is most likely really occurring on the ground, backed by the hard-earned money of market participants. In this way, markets can help separate signal from noise on social media, currently saturated with all manner of psych-ops, disinformation, and outright fabrications.” – [Doomberg](https://newsletter.doomberg.com/p/war-dashboard)
+
+11-2.1 (fiat debases signal quality → bullshit gets cheaper) combined with 3-1a4b3 (Sowell on prices as information coordination) and [[13-7.1a Prices can reveal differences between goods that appear identical |13-7.1a]] (prices reveal what words cannot) explains why we should be focused proportionally more on the US and USD narratives given its global reserve currency status.
+
+Related:
+- [[3-1c1c You must build your own media for yourself]]
+- Prices as information
+	- [[3-1a4b2 Price can only convey so much]]
+	- [[3-1a4b3 Thomas Sowell - 'Prices are important not because money is considered paramount but because prices are a fast and effective conveyor of information through a vast society in which fragmented knowledge must be coordinated.']]
+	- [[13-9a0 “The price is the first and most obvious indication of the nature of the alternatives” – Philip Wicksteed]]
+- Fiat money and disinformation:
+	- [[11-2.1 Fiat money shields ideas from criticism—the cost of bullshit goes down in such economy]]
+- Prices as action—and why skin in the game lets you extract signal over noise:
+	- [[13-1a3a2e4 Money is demanded and considered useful because of its already existing money prices]]—prices bootstrap on prior prices, not narratives
+	- [[13-4d4 Value is subjective]]: "The fundamental determinants of price are the value scales of all individuals"—prices reveal what people actually value, not  
+  what they say
+	- [[13-5b4 Zones of indeterminacy between valuations and in pricing dwindle radically with money]]—money sharpens signals
+- The multiverse-money connection:  
+	- [[13-1a3a1f Success in the money economy implies adaptation to others (including distant ones), not merely to its surrounding environment]]
+

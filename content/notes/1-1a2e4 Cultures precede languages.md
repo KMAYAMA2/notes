@@ -1,6 +1,8 @@
 ---
 date: 2024-08-30
 ---
+> “**[[8-4 LLMs |Large Language Models]], by putting language first, before the capacity for true reason, can never attain understanding.** The original approach to AI was to generate a true capacity for reason first, but it was never realized, and the field pivoted to language first because it was easier.” – [[Michael Burry]]
+
 We can learn new things without using languages. Look at children—they learn their culture (usually that of parents) first, then the language. We enter the world of [[10-1b5 We enter the world of language-based learning once we have mastered a language |language-based]] learning once we have mastered a language, but learning starts way before language acquisition. 
 
 In other words, [[2-1a4 'Language instinct' - Language can't exhaust mind |language can't exhaust]] culture (and mind). And understanding language means understanding its culture, because all languages will show [[10-1b8 All languages will show culture-language connections if we look for it |culture-language]] connections if we look for it.
