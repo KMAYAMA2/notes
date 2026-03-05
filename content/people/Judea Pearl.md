@@ -18,7 +18,7 @@ Related:
 # A public lecture delivered November 1996 as part of the UCLA Faculty Research Lectureship Program
 ## The Art and Science of Cause and Effect
 - Inspired memos:
-	- *Correlation does not mean causation*—as in the latter doesn’t have to exist, not like the former doesn’t mean the latter (which was how I understood the quote until I read this paper), it’s more radical as it denies the latter completely
+	- *Correlation does not mean causation*—as in the latter doesn’t have to exist, not like the former doesn’t mean the latter (which was how I understood the quote until I read this paper), it’s more radical as it denies the latter completely #revisit 
 	- We are rarely concerned with the entirety <> [[9-4b2a1d0.3 The essence of analysis is articulation - 分析の本質は分節 |analysis is articulation]] (digitization) <> [[7-1a2a1 絶対に勝てるところから勝っていく |win where you can]] <> why [[1-2 We are fallible |we are fallible]] (p. 420)
 	- Inspired by P{y|*do*(x)} notation:
 		- The transition from Roman numerals to Indian numerals—How did it happen? How was the concept of zero discovered? What’d be the modern equivalent?
