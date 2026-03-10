@@ -41,6 +41,7 @@ Related:
 	- Related:
 		- [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need]]]
 		- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]
+			- Nature doesn’t differentiate hardware and software #revisit 
 		- [[8-2b2a 'Technologies that change society are technologies that change interactions between people']]
 - The hardware can control the hardware too
 	- [[2-1b2b0b Do not underestimate the essential—don’t risk what you have and need, to get what you don’t need]]
