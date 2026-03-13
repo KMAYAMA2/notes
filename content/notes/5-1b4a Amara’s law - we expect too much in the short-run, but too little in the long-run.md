@@ -42,3 +42,15 @@ Related:
 
 Counter-measure
 - [[2-1a0c1d1 Focus on the few variables]]
+
+---
+FCF-focused (and FCF *growth*) thinking is the investing equivalent: boring in year 1, extraordinary over decade.
+
+Related:
+- [[2-1a7a2 Assets with actual substance or weight have the best prospects over the long term]]
+- [[3-1a4b4a Financial cycles ≠ Product cycles]]
+	- Selling at premium is "spending" (cashing in now); FCF is "investing" (compounding later).
+- [[4-1a4b6a0.1 You can use money NOW for LATER. Investment is when it's deployed for the benefit of the latter, but often it's spent at the expense of it.]]
+	- Selling at premium is "spending" (cashing in now); FCF is "investing" (compounding later).
+- [[13-8a2.1 Money is the present good par excellence]]
+- See [[Henry Singleton]], [[Li Lu]], [[Michael Burry]], [[Mark Spitznagel]], and [[Warren Buffett]]
