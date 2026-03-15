@@ -21,7 +21,7 @@ Related:
 - [[5-2b5 Theories precede data]]
 - [[13-1a3a5.1 The concept of an equilibrium becomes meaningless when knowledge creation is introduced]]
 - **[[13-5b2h In the evenly rotating economy, the rates of interest will differ in accordance with a psychic component]]**
-- **[[13–5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations]]**
+- **[[13-5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations]]**
 - [[13-5b3c The demand of landowners and laborers for present goods tend to be inelastic with respect to interest rates]]
 - [[13-5e The capitalists are constrained by the aggregated time-preference schedules just as sellers of any other present goods are constrained by the aggregated demand schedules of the consumers]]
 - [[13-5f The interest rate is determined by the time-preference schedules, rather than vice versa]]
