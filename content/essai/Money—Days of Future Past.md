@@ -7,7 +7,6 @@ The essay outline for [[Money - Days of Future Past]] encodes a tight argument c
 ### The starting point: past and future are arbitrary
 
 The outline says "start from 10-2e6"—the note that [[10-2e6 Any theory must account for the meaning of 'the future' and 'the past' because both are arbitrary abstractions and do not exist objectively in reality|past and future don't exist objectively]]. They're context-dependent abstractions. The common-sense notion of cause and effect works because variants exist in the multiverse—not because the past objectively precedes the future. If that's true, then "recalibrating" between past and future is only meaningful within a particular frame.
-
 ### Recalibration as the dissolution of sunk costs
 
 This is where the argument chain fires:
