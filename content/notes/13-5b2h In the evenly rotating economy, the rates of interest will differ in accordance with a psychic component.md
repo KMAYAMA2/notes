@@ -3,10 +3,10 @@ date: 2025-07-09
 ---
 In short, Rothbard can explain away everything as due to psychic component.
 
-“The rates of interest will differ in accordance with a “psychic” component, either positive or negative, depending on whether there is an acute dislike or liking among investors for a particular production process.” (p. 443)
+“The rates of interest will differ in accordance with a “psychic” component, either positive or negative, depending on whether there is an acute dislike or liking among investors for a particular production process.” – [[Murray Rothbard]] (p. 443)
 
 Next:
-- [[13–5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations]]
+- [[13-5b2i The rate of interest will be uniform in the evenly rotating economy only when everyone becomes the same—i.e., when all individuals have identical time-preference schedules, expectations, and subjective valuations]]
 
 Related:
 - [[13-1a3a1a1 Only monetary income (or loss) can be observed and measured ex post—never psychic income (or loss)]]

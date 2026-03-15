@@ -1,6 +1,10 @@
 > “The temptation to form premature theories upon insufficient data is the bane of our profession.” – [[Sherlock Holmes]]
 
+> “Whenever a theory appears to you as the only possible one, take this as a sign that you have neither understood the theory nor the problem which it was intended to solve.” – Karl Popper
+
 The first idea gets in and then the mind shuts. Keep asking questions.
+
+With [[8-4 LLMs |LLMs]], you can delegate problem-solving phase (coding). It’s about how to (re)define the problem clearer and faster, and also how to connect problems, and problem-solving agents. Only then comes the fun part—redefining what’s solvable.
 
 Related:
 - [[1-1c4b You always have to solve problems, including the problem of what problems to solve]]

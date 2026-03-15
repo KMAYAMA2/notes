@@ -31,4 +31,5 @@ Related Essays:
 		- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
 		- [[RUL3 - Write out your goals. It’s amazing how few people do.]]
 	- But you have to be the ultimate source of agency. Otherwise AI will replace human memory and judgement. Agency is also *use it or lose it*.
-		- [[5-2 What counts cannot be counted |Expertise is implicit]]: using agents to build things ≠ using agents for everything.
+		- [[5-2 What counts cannot be counted |Expertise is implicit]]: using agents to build things (automation with agents) ≠ using agents for everything (automation via agents)
+			- You can delegate [[2-1a6c1a 'First-conclusion bias' - Separate the problem-defining phase of the decision-making process from the problem-solving phase |problem-solving phase]] (coding). It’s about how to (re)define the problem clearer and faster, and also how to connect problems, and problem-solving agents. Only then comes the fun part—redefining what’s solvable.

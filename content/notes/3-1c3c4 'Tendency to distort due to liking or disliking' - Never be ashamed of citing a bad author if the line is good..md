@@ -2,6 +2,8 @@
 
 > “Be careful not to rashly refuse to learn from others.” – Cato the Elder
 
+> “You’re never as bad as you think you are when you’re down, and you’re never as good as you think you are when you’re up.” – Joe Paterno
+
 Next:
 - [[3-1c3c4a Person who finds profound new theories often holds onto beliefs that contradict them]]
 - [[3-1c3c4.1 It’s easy to push a really good idea to wretched excess]]

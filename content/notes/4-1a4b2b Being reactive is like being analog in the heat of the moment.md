@@ -1,3 +1,6 @@
+> “Lack of conviction is like negative gamma; it makes you buy highs and sell lows. Big reason why it’s much better to not trade than to trade with low conviction and/or other people’s ideas. Being Long Gamma allows a trader to rule his/her emotions. Being Short Gamma forces a trader to be ruled BY his/her emotions.” – Michael Kao
+
+Reaction ≠ [[1-1a5b4.4 Real-time calibration (i.e., recalibration) lets you adapt to the changing landscape |Recalibration]]—don’t conflate the two. Kao argues in his Exit Strategies piece that the fourth category (“Greater Fool” Backed Only By Technicals) asset by definition implies reaction (e.g., crypto).
 
 *Thinking fast and thinking slow* #develop 
 

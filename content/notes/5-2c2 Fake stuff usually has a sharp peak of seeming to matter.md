@@ -13,3 +13,5 @@ Related:
 - [[5-2c2b1a If you want your writing to still be readable on a computer from the 2060s or 2160s, it’s important that your notes can be read on a computer from the 1960s, for your future self]]
 - [[9-1 Be truthful]]
 
+---
+Someone wrote about how self-publishers should use this to their advantage #revisit 

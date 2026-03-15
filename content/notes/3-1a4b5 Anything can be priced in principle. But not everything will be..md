@@ -2,6 +2,8 @@ Originally, this note was titled: *But everything can be priced*.
 
 > “*The very fact that exchangeable consumers’ goods are more abundant enables each individual to enjoy more of the nonexchangeable ones*. **A destitute person is far less likely to prefer the nonexchangeable to the exchangeable than one whose “standard of living” in terms of the latter is high**. The important fact for catallactics is that a man always chooses a bundle of *money income plus other psychic factors* and that he will maximize his money income only if psychic factors are neutral with respect to his choices.” – [[Murray Rothbard]]
 
+> “You’re never as bad as you think you are when you’re down, and you’re never as good as you think you are when you’re up.” – Joe Paterno
+
 Viz., it cannot be unbundled. #develop 
 
 You *can* put price tag on freedom, and [[Warren Buffett |Buffett]] repeatedly emphasizes *one test of the strength of a moat is essentiality and pricing power*.

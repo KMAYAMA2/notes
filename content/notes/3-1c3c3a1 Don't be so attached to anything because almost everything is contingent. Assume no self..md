@@ -23,7 +23,10 @@ Contradictory?
 
 When you are not attached, you probably won’t give a dumb (explains why we need skin in the game). Hence, practical takeaway is to iterate (i.e., pivot) *within your moat*.
 
+Regarding giving a dumb, when it comes to [[8-4 LLMs |LLMs]], if you don’t control the reasoning process (i.e., “black box”), you probably wouldn’t take the output seriously. This is why we need interpretability research—it’s *know thyself* applied externally (analogous to KYC).
+
 Related:
+- I also discuss our tendency to overly commit to something [[6-3b When you own something, you have an incentive to invest in it |here]]
 - [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
 - [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]] 
 - [[6-3z A world without ownership is a world with less creativity and human flourishing]]

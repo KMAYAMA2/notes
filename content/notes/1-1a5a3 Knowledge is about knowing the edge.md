@@ -27,9 +27,11 @@ Related:
 - [[7-1a6b Successful founders apply new technology to solve problems at edge cases]]
 - [[7-1d1c You can be at the edge of the newest technology]]
 - [[10-1a1b 行き詰らないとアブダクションできない]]
-- When you know your edge, you can recognize where you need others
+- When you know your edge, you can recognize where you need others (remember イタチ’s conversation with カブト from Naruto volume 61, p. 122)
 	- [[2-1c3 'Win and help win' always outcompete]]
 	- [[5-1b1a2c0 No theory can exhaust reality]] #develop 
+		- Notes with connections >>> any one note
+			- [[2-1b3a1 Narrow it down so you can have a chance to build your own moat]]—i.e., any note should know its subject and bite it well
 		- This is why you need to learn from others, *and* why we need money
 			- [[9-4b2a1f Two-way debate benefits from criticism]]
 			- [[13-1a3a1d Money facilitates the maximum use of knowledge available, and accommodates error-corrections (the two are the same thing)]]
