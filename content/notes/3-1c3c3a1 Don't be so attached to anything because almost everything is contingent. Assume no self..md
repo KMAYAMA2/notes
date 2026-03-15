@@ -17,8 +17,15 @@ Related:
 	- [[6-3c When you are invested, you'll try to own it]]
 	- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
 
+---
 Contradictory?
 > “Be fanatical about what you’re doing” – [[Todd Graves]] #revisit 
 
-You can iterate within your moat <> [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]] <> [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+When you are not attached, you probably won’t give a dumb (explains why we need skin in the game). Hence, practical takeaway is to iterate (i.e., pivot) *within your moat*.
 
+Related:
+- [[2-1a3.1 'Feedback loops' - Iterate. The more and quicker the better.]]
+- [[3-1a4b1.3 Your circle of competence can be widened, deepened, made clearer]] 
+- [[6-3z A world without ownership is a world with less creativity and human flourishing]]
+- [[10-1b2 Attachment is children’s first journey from the strange to the familiar, from observer to knower — The first step in emicization (未知 ⇒ 既知)]]
+- [[QUE5 - What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think. What becomes possible if you discard it.]]

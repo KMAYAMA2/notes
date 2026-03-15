@@ -23,3 +23,10 @@ Related:
 
 E.g., 
 - Bearstone on Jared Isaacman and Shift4: “Part of the strategy was, at the time, heresy: he gave away the expensive hardware for free. Most of his competitors couldn’t or wouldn’t make that leap. They were addicted to the certainty of upfront hardware profit. They didn’t want to carry the hardware subsidy on their books or take on underwriting risk. Isaacman did.”
+
+---
+In general, and specifically in investment, you can—and probably should—play for both the short-run *and* the long-run. 
+
+Related:
+- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+- [[11-4 Diversification can achieve what multiplicity does in the digital]]

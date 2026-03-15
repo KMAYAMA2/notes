@@ -31,3 +31,4 @@ Related Essays:
 		- [[7-1a1 You can only solve your own problems. You incidentally help others by solving THAT.]]
 		- [[RUL3 - Write out your goals. It’s amazing how few people do.]]
 	- But you have to be the ultimate source of agency. Otherwise AI will replace human memory and judgement. Agency is also *use it or lose it*.
+		- [[5-2 What counts cannot be counted |Expertise is implicit]]: using agents to build things ≠ using agents for everything.

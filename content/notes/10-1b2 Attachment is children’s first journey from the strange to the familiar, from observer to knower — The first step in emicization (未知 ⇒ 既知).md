@@ -1,8 +1,8 @@
+But ultimately, what matters is detachment via symbolication.
 
 Next:
 - [[10-1b2a Emicization = The construction of an insider point of view (the 'dark matter')]]
 - [[10-1b3 Sapir - 'Culture is not something given but something to be gradually and gropingly discovered']]
-
 
 Related:
 - [[10-1b Culture is set of ideas which affect behavior including unconscious ones like skills, expectations, and emotional preferences.]]

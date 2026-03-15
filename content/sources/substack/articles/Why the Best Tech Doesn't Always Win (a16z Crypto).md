@@ -1,0 +1,22 @@
+- [Why the Best Tech Doesn't Always Win](https://a16zcrypto.substack.com/p/why-the-best-tech-dont-always-win) (a16z Crypto) (20260312)
+	- **Relevance**: 6/10 — Directly addresses enterprise crypto adoption dynamics, relevant to stablecoin/crypto investment thesis and understanding structural barriers to adoption
+	- ==Enterprise buyers optimize for continuity and downside avoidance, not technical superiority== <> [[AN3C - People don’t want better, they want less crap]]
+		- "The cost of failure is asymmetric" — missed opportunities go unpunished; visible mistakes harm careers, trigger audits, invite regulatory scrutiny
+		- SWIFT persists despite being slow/expensive because it offers "shared governance and regulatory comfort"; COBOL persists because rewriting stable systems "introduces existential risks"
+			- <> [[4-1a4b2b1 'One-of-those' over one-off - Learn from history (not just from your 'own' experience)]]
+		- Decision-makers "almost never participate directly in the upside of the technology they recommend" — downside is immediate and personal, upside is diffuse and indirect
+			- <> [[2-1a6 'Incentives' - Incentives drive (almost) everything. Understand your incentives.]]
+	- Enterprise decisions are made by coalitions, not individual technical champions — legal, compliance, risk, finance, and security all hold quiet veto power
+		- Consulting firms serve as legitimacy layers: "No one gets fired for hiring McKinsey" — they "turn new solutions into familiar concepts and uncertainty into defensible recommendations"
+		- U.S. management consulting market projected at $130B+ in 2026, majority from large enterprises on strategy, risk, and transformation
+		- Deloitte–Digital Asset alliance reframed blockchain infrastructure through "governance, risk, and compliance" lens — made adoption path "far clearer and more defensible" for institutional buyers
+		- Online sportsbook example: real customers for a crypto on-ramp aren't product/engineering teams but legal/compliance teams protecting existing state-by-state sportsbetting licenses
+	- "Rip and replace" narratives fail; ==wedge-and-expand strategies win== <>[[1-2e1 Be ambitious but leverage what you already know]] >< [[2-3b 'Leverage' - The effort put in and its utility-results doesn't have to correlate at all. Use this to your advantage.]]
+		- Generic, un-tailored pitches signal the founder "hasn't taken the time to understand how this specific institution defines the program"
+		- Uniswap × BlackRock tokenized fund: Uniswap enabled "permissionless secondary market liquidity for a product issued within BlackRock's existing regulatory and fund structures" — BlackRock didn't abandon its operating model, just "extended it onchain" #revisit 
+		- LayerZero's Zero L1 co-designed "Zones" for specific use cases (payments, settlement, capital markets) with anchor partners Citadel, DTCC, and ICE — won by co-building around institutional constraints, not demanding adoption of full decentralization vision upfront #revisit 
+	- Being selected for a pilot ≠ being adopted — founders must become "the winning hedge," not one of many low-conviction parallel experiments
+		- Institutions routinely "run parallel experiments… allocate modest budgets across multiple vendors, test competing approaches in innovation departments" without committing core systems
+		- Professionalism (acknowledging legal constraints, governance processes, existing systems) signals a product "can be governed, audited, and controlled" — "rarely will you win on technology alone"
+	- Key takeaway: "Enterprise transformation rarely happens in a single leap" — ==sequence the vision==; founders who win "treat enterprise constraints as design inputs — not compromises" and build entry points that integrate before they displace
+		- <> [[9-4b2a1b Build the Idea Maze - Explain the history around an idea, and why yours is a good one. Virtually render the history of the evolution of that idea.]]

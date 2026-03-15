@@ -26,5 +26,4 @@ In praxeological terms:
 Luck-Skill dichotomy doesn’t exist, at least objectively—it’s open to interpretations: #revisit 
 - [[9-3a Luck-Skill dichotomy is at best arbitrary. We can train our ability to create ‘luck’.]] 
 
-#MentalModels 
-#develop 
+
