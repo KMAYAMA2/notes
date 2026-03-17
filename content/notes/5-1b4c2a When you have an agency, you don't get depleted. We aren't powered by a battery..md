@@ -11,6 +11,8 @@ Simply put, [[2-1a7a Curiosity (i.e., the Fun Criterion) leads you to wealth, be
 
 Most people are waiting for orders. Don’t be like that.
 
+Personally, when I have stuff to do *voluntarily*, I feel way less physical discomfort.
+
 Previous:
 - [[5-1b4c Exponential growth feels flat in the beginning, precisely why it’s worth making an extraordinary effort to get it started. You can also follow the Fun Criterion (the latter likely exhausts the former). Consistency is the key.]]
 - [[5-1b4c1 When you are ‘self-disciplined’ your unconscious is likely not engaged, and you’re probably not solving any real problems.]]

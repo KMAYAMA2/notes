@@ -54,3 +54,6 @@ Related:
 	- Selling at premium is "spending" (cashing in now); FCF is "investing" (compounding later).
 - [[13-8a2.1 Money is the present good par excellence]]
 - See [[Henry Singleton]], [[Li Lu]], [[Michael Burry]], [[Mark Spitznagel]], and [[Warren Buffett]]
+
+---
+What would be the PC-GUI-Retail-Media disruption (see *[Death of Software. Nah.](https://x.com/stevesi/status/2019167552794948020)*) equivalent for [[8-2 Blockchains-Crypto |blockchains and crypto]]? Will BTC resemble DVD?

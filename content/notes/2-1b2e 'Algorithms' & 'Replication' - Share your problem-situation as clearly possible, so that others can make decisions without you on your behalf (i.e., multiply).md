@@ -55,3 +55,5 @@ E.g.,
 - Make the repo easier to interact with with clear `CLAUDE.md`—`CLAUDE.md` is effectively a summary
 	- Then qmd becomes more effective
 		- <> [[9-4b3e2 Concise explanations make it easier to criticize and combine ideas]]
+- The Mermaid extension for better visualization of the whole repo
+	- In short, make LLMs accessible to your tools and aware of your environment

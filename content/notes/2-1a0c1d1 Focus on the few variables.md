@@ -55,7 +55,7 @@ Related:
 	- [[2-1a7a5 Build day by day unless anything fundamental ('the core') changed. Superficial-uncontrollable criteria (e.g., share price) matter less.]]
 	- [[3-1a3a Start with problems instead of opinions. The latter usually comes with confirmation bias.]]
 	- [[3-1c1d You must build your own media distribution to avoid distortion for yourself and others]]
-- Maybe you should follow only 10~15 rules—similar to how you should have only 10~15 [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets. |positions]], or thinkers, or projects concurrently
+- Maybe you should follow only 10~15 rules—similar to how you should have only 10~15 [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets. |positions]], or thinkers, or projects, concurrently
 	- [[2-1b2e 'Algorithms' & 'Replication' - Share your problem-situation as clearly possible, so that others can make decisions without you on your behalf (i.e., multiply)]]
 	- [[3-1c2d Human knowledge is hierarchically structured. It's a list but also about how things on the list relate to one another. The sum of what we know is greater than all things put together.]]
 	- [[4-1a4b2b0 Your algo is your principles]]
@@ -65,3 +65,13 @@ Related:
 E.g.,
 - LLMs and Context Rot 
 	- I guess this doesn’t happen with humans because we process information differently. I don’t think we have `CLAUDE.md` equivalent in our mind. #revisit 
+
+---
+##### My thought after studying the relation between US, Venezuela, and Canada (20260209)
+Good management can't overcome bad geology when a cheaper barrel shows up with a superpower behind it. Canada isn't in worse shape in absolute terms—it's a wealthy, diversified, stable country. But its _oil sector_ is in a worse strategic position going forward because it's the one holding the high-cost barrel with no one coming to bail it out. Venezuela at least matters to someone powerful enough to invest in fixing it. Canada's heavy oil is just the thing that gets displaced.
+
+Related:
+- [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+- [[2-1b4 Not fighting can win you the battle]]—get out sinking ship fast
+- [[5-2b0b Most books about thinking focus on being more rational when the fundamental problem is not knowing what problems to exercise judgement]]
+	- Wisdom is knowing *what* to focus on

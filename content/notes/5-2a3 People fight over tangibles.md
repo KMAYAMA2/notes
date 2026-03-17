@@ -1,13 +1,13 @@
-[[5-3b Knowledge creates new frontiers (and new markets)]]
-	[[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved]]
+- [[5-3b Knowledge creates new frontiers (and new markets)]]
+	- [[5-3a Knowledge via new explanations is inherently creative and its effects are positive-sum, because it begets new problems to be solved]]
 
-[[1-2g1b What matters is the explanation, and not what you can see]]
-	[[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
+- [[1-2g1b What matters is the explanation, and not what you can see]]
+	- [[1-1a2e9b When 'properly' emicized by the culture, we see what's not there and can not see what's there]]
 
-[[5-2 What counts cannot be counted]] + [[5-2a2 What gets measured gets managed]]
-	[[12-1a2a2 資本は資本の一元性を好み、商品は商品の多様性を好む]]
-		[[3-1a4c' Crypto can integrate culture of each network unlike top-down Western global capitalism which did away with the cultural aspects of communities]]
-	[[3-1a4b2 Price can only convey so much]] + [[3-1a4b4 Not everything are priced yet]]
+- [[5-2 What counts cannot be counted]] + [[5-2a2 What gets measured gets managed]]
+	- [[12-1a2a2 資本は資本の一元性を好み、商品は商品の多様性を好む]]
+		- [[3-1a4c' Crypto can integrate culture of each network unlike top-down Western global capitalism which did away with the cultural aspects of communities]]
+	- [[3-1a4b2 Price can only convey so much]] + [[3-1a4b4 Not everything are priced yet]]
 
 [[12-1c Open source means more composability means more digitizeable and measurables]]
 - Global map (somewhat accurate one) didn't exist pre 14c #develop 
@@ -30,3 +30,9 @@
 		- [[8-2d1a SNSのテーマは統一したほうがいい。応援してくれる遠い人や知らない人を増やす。みんなが知りたくて知らないものと知りたくて知っているものに特化すること。]]
 
 - **What do people see? What will they see but haven't yet?**
+
+---
+Agents replaced SWE (at least coding aspect). In finance, quants might be replaced (at least implementation aspect) and commoditized. Active management might make a comeback. Agents can process information faster than humans. Investment cycles might get shorter—similar to how *internet money* brings about speed (e.g., see [[Mert]]’s argument).
+
+Related:
+- >< [[8-2b2d Value shifts to adjacent layers]]—if anything, it won’t be a comeback of “active management” as we know it today, but emergence of [[7-1b3d New stars rise along with the new platform |new types]] of investors
