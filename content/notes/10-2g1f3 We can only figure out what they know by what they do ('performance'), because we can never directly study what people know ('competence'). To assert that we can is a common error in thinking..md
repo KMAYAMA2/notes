@@ -1,5 +1,7 @@
 > “**LLMs produce artifacts that look expert. They don’t yet produce moves that survive experts.**” – Ankit Maloo (20260208)
 
+Ability is invisible because [[Knowledge Is Implicit |knowledge is implicit]].
+
 Related:
 - [[1-2g2j1b Accuracy in virtual reality = The relationship between theory and experiment in science. That is, you can never prove-experience-measure-certify that it's accurate-true program.]]
 - [[9-4b3b1 Popper - 'We let our ideas die in our place' (another difference between memes vs genes)]] #revisit 

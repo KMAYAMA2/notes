@@ -4,9 +4,9 @@ Praxeology is concerned with that part of value scales that can be ascertained f
 
 **Price implies value scales—the latter (ideas) can be ascertained only through the former (actions)**.
 
-“In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice.”
+“In praxeology we are not interested in the concrete content of his value scales nor in his underlying personality. We are interested in value scales as revealed through choice.” – [[Murray Rothbard]]
 
-“**We deduce the existence of a specific value scale on the basis of the *real act*; we have no knowledge of that part of a value scale that is not revealed in real action**.”
+“**We deduce the existence of a specific value scale on the basis of the *real act*; we have no knowledge of that part of a value scale that is not revealed in real action**.” – [[Murray Rothbard]]
 
 Next:
 - [[13-6a The same individual exhibits different scale of values at different times]]
@@ -19,3 +19,17 @@ Related:
 	- [[3-1c2d1 Individuals or nations might possess the same values, but the ordering differs]]
 - Praxeology is content-independent
 	- [[13-6d Praxeological laws apply regardless of the content of value scales—regardless of the nature of ends pursued]]
+
+---
+Good recommendation is about modeling individual instinct and taste—social graphs are a proxy at best (and a misleading one at worst). Recsys tries to infer the full value scale from partial revealed preferences (clicks, watches, buys). The point is that what matters is the individual's value scale, not the social graph around them.
+
+Related:
+- >< [[2-1a6b 'Pavlovian association' & 'Social proof' - Understand the arbitrary association formed within your culture. There are no pure indexes for humans.]]
+	- Social graph based recsys exploits social proof rather than    
+  serving genuine preferences.
+- <> [[13-4d1 A good is valued not for itself, but for its service in satisfying the wants of acting individual]]
+	- Recsys should recommend based on what the good does for the individual, not what's popular in their network.
+- <> [[13-4d4 Value is subjective]]
+	- Recsys should model subjective value (instinct, taste), not social proximity.
+- <> [[13-9a3 Praxeology is concerned with preference as revealed through choice]]
+	- the best recsys would learn from revealed preferences (actions), not declared social connections.

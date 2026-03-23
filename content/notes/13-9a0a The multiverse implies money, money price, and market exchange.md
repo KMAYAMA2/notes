@@ -34,3 +34,10 @@ Related
 	- [[2-1b2f 'Equivalence' - Reality doesn't care genealogy. Solving problems is what matters. How it's done matters less.]]
 	- [[3-1a2 The problem itself doesn't care how it's solved. Everything should be structured around solving problems.]]
 - Computation theory + The multiverse + Epistemology → ZEC? #revisit 
+
+---
+> “Do not try to master a single sector, as the business landscape will constantly morph. Instead, master the universal language of business economics: money in vs. money out, reading balance sheets, and understanding the probability of cash flows.” – *[Made in China](https://madeinchinaa.substack.com/p/the-one-thing-every-investor-must)* 
+
+Related:
+- Sector doesn’t exist in nature
+	- [[3-1a The reality doesn’t have categories, there are only problems to be solved. Be problem-project-oriented. 'Academic subjects' are mere social constructs.]]

@@ -25,8 +25,15 @@ E.g.,
 - Bearstone on Jared Isaacman and Shift4: “Part of the strategy was, at the time, heresy: he gave away the expensive hardware for free. Most of his competitors couldn’t or wouldn’t make that leap. They were addicted to the certainty of upfront hardware profit. They didn’t want to carry the hardware subsidy on their books or take on underwriting risk. Isaacman did.”
 
 ---
-In general, and specifically in investment, you can—and probably should—play for both the short-run *and* the long-run. 
+In general, and specifically in investment, you can—and probably *should*—play both the short-run *and* the long-run. 
+
+Target share (and target price derived from it) matters, but you have to think about your own time horizon. Know your exit strategy.
 
 Related:
 - [[2-1b2b5 Know the correlations between your bets. Holy grail is fifteen or so uncorrelated bets.]]
+- [[5-1b1a4 We can run multiple billion-dollar functions either sequentially or simultaneously. Or preferably both.]]
+- [[8-2d2 In digital world, you can be in multiple nations (or equivalents) at the same time]]
+- [[9-4b2c You can host multiple memes both consequentially or simultaneously during your lifetime. A gene in contrast can be hosted only once per life-cycle.]]
 - [[11-4 Diversification can achieve what multiplicity does in the digital]]
+- [[13-4b The multiverse implies the scarcity of time in each universe]]
+- [[RUL3 - Bounded commitment - choose one best thing available, commit for predetermined time period, then revisit. Similar to balancing depth-first vs breadth-first in search algorithms. Think of your time as quantifiable resource like capital.]]

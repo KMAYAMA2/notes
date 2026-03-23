@@ -1,6 +1,9 @@
 
-
 You have to win first. Otherwise you can't really help anyone.
+
+E.g., 
+- [[Li Lu]]’s Iron Law of Civilization 3.0
+- Michael Kao (Kaoboy) argues against sactions
 
 Next:
 - [[2-1c4 100x-ing the pie ＞ slicing extra few %]]
